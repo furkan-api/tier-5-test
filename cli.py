@@ -1,4 +1,4 @@
-"""Full-screen CLI application for debugging the GraphRAG API.
+"""Full-screen CLI application for debugging the GraphRAG Service (Neo4j).
 
 Usage:
     venv/bin/python cli.py [--api URL]
@@ -9,6 +9,8 @@ Commands (type in the search bar):
     /nb <id> [hops]     Neighborhood subgraph
     /stats              Graph statistics
     /set <param> <val>  Adjust query parameters
+    /filter <types>     Filter by node type (comma-separated)
+    /build              Trigger graph (re)build
     /help               Show available commands
 """
 
@@ -75,14 +77,16 @@ HELP_TEXT = """\
   [bold]/nb <id> [hops][/]       Neighborhood subgraph
   [bold]/stats[/]                Graph statistics
   [bold]/set <param> <val>[/]    Change query parameter
+  [bold]/filter <types>[/]       Node type filter (comma-sep, empty=clear)
+  [bold]/build[/]                Trigger graph (re)build
   [bold]/help[/]                 This help screen
 
 [bold cyan]Query Parameters (/set)[/]
 
   [bold]top_k[/]        Seed nodes count       (default: 10)
-  [bold]hops[/]         Expansion hops         (default: 1)
-  [bold]threshold[/]    Min similarity score   (default: 0.0)
-  [bold]max_ctx[/]      Max context chars      (default: 10000)
+  [bold]hops[/]         Expansion hops         (default: 2)
+  [bold]threshold[/]    Min similarity score   (default: 0.3)
+  [bold]max_ctx[/]      Max context chars      (default: 8000)
 
 [bold cyan]Keyboard Shortcuts[/]
 
@@ -98,9 +102,9 @@ HELP_TEXT = """\
 # ── App ───────────────────────────────────────────────────────────────────────
 
 class GraphRAGCLI(App):
-    """Full-screen GraphRAG debug CLI."""
+    """Full-screen GraphRAG debug CLI — Neo4j Service."""
 
-    TITLE = "GraphRAG Debug CLI"
+    TITLE = "GraphRAG Service CLI"
     SUB_TITLE = API_BASE
 
     CSS = """
@@ -171,9 +175,12 @@ class GraphRAGCLI(App):
 
     # Adjustable query parameters
     top_k: reactive[int] = reactive(10)
-    expand_hops: reactive[int] = reactive(1)
-    score_threshold: reactive[float] = reactive(0.0)
-    max_context_chars: reactive[int] = reactive(10000)
+    expand_hops: reactive[int] = reactive(2)
+    score_threshold: reactive[float] = reactive(0.3)
+    max_context_chars: reactive[int] = reactive(8000)
+
+    # Node type filter (None = no filter)
+    _node_type_filter: list[str] | None = None
 
     # Navigation stack for back-navigation (node IDs)
     _nav_stack: list[str] = []
@@ -275,6 +282,10 @@ class GraphRAGCLI(App):
             self._do_neighborhood(nid, hops)
         elif text.startswith("/set "):
             self._handle_set(text[5:].strip())
+        elif text.startswith("/filter"):
+            self._handle_filter(text[7:].strip())
+        elif text == "/build":
+            self._do_build()
         else:
             self._do_query(text)
 
@@ -303,6 +314,35 @@ class GraphRAGCLI(App):
         except ValueError:
             self._set_summary(f"[red]Invalid value:[/] {val}")
 
+    def _handle_filter(self, args: str) -> None:
+        """Set or clear the node_type_filter."""
+        if not args:
+            self._node_type_filter = None
+            self._set_summary("[green]✓[/] Node type filter cleared")
+        else:
+            types = [t.strip() for t in args.split(",") if t.strip()]
+            self._node_type_filter = types or None
+            self._set_summary(
+                f"[green]✓[/] Filter: {', '.join(types)}" if types
+                else "[green]✓[/] Node type filter cleared"
+            )
+
+    # ── Build ─────────────────────────────────────────────────────────────
+
+    @work(thread=True)
+    def _do_build(self) -> None:
+        self.call_from_thread(
+            self._set_summary, "[yellow]⟳[/] Building graph … (this may take a while)",
+        )
+        try:
+            result = _post("/build", {"clean": True})
+            msg = result.get("message", "done")
+            self.call_from_thread(
+                self._set_summary, f"[green]✓[/] Build: {msg}",
+            )
+        except Exception as e:
+            self.call_from_thread(self._set_summary, f"[red]✗[/] Build failed: {e}")
+
     # ── Query ─────────────────────────────────────────────────────────────
 
     @work(thread=True)
@@ -311,14 +351,17 @@ class GraphRAGCLI(App):
             self._set_summary, f"[yellow]⟳[/] Searching: {query}",
         )
         try:
-            result = _post("/query", {
+            body: dict = {
                 "query": query,
                 "top_k": self.top_k,
                 "expand_hops": self.expand_hops,
                 "score_threshold": self.score_threshold,
                 "max_context_chars": self.max_context_chars,
                 "include_context": True,
-            })
+            }
+            if self._node_type_filter:
+                body["node_type_filter"] = self._node_type_filter
+            result = _post("/query", body)
             # Fetch full node data for every seed
             node_details: dict[str, dict] = {}
             for s in result.get("seed_nodes", []):
@@ -486,7 +529,7 @@ class GraphRAGCLI(App):
             node_id = str(event.row_key.value)
             # Push current node (from detail title) onto stack for back-nav
             detail_label = self.query_one("#right-panel > .section-label", Static)
-            cur = detail_label.renderable
+            cur = detail_label.content
             if isinstance(cur, str) and cur.startswith("NODE: "):
                 self._nav_stack.append(cur[6:])
             self._do_node(node_id)
@@ -690,16 +733,17 @@ class GraphRAGCLI(App):
         m = stats.get("manifest", {})
         g = stats.get("graph", {})
 
-        # Build manifest
-        log.write(Panel(
-            f"[bold]Version:[/] {m.get('version', '?')}  "
-            f"[bold]Built:[/] {str(m.get('built_at', '?'))[:19]}  "
-            f"[bold]Duration:[/] {m.get('build_duration_sec', '?')}s\n"
-            f"[bold]Embedding:[/] {m.get('embedding_model', '?')} "
-            f"(dim={m.get('embedding_dimension', '?')})",
-            title="Build Manifest",
-            border_style="blue",
-        ))
+        # Build manifest (if present)
+        if m:
+            log.write(Panel(
+                f"[bold]Version:[/] {m.get('version', '?')}  "
+                f"[bold]Built:[/] {str(m.get('built_at', '?'))[:19]}  "
+                f"[bold]Duration:[/] {m.get('build_duration_sec', '?')}s\n"
+                f"[bold]Embedding:[/] {m.get('embedding_model', '?')} "
+                f"(dim={m.get('embedding_dimension', '?')})",
+                title="Build Manifest",
+                border_style="blue",
+            ))
 
         # Topology
         log.write(Panel(
@@ -707,18 +751,23 @@ class GraphRAGCLI(App):
             f"[bold]Edges:[/] {g.get('edges', '?')}  "
             f"[bold]Avg degree:[/] {g.get('avg_degree', '?')}  "
             f"[bold]Max degree:[/] {g.get('max_degree', '?')}\n"
-            f"[bold]Components:[/] {g.get('components', '?')}  "
-            f"[bold]Largest:[/] {g.get('largest_component', '?')}  "
             f"[bold]Isolated:[/] {g.get('isolated_nodes', '?')}",
             title="Topology",
             border_style="green",
         ))
 
         # Node + edge type tables with bar charts
+        # Service format: top-level node_types / edge_types dicts
+        # Legacy format:  nested inside manifest
+        node_types = stats.get("node_types") or m.get("node_types", {})
+        edge_types = stats.get("edge_types") or m.get("edge_types", {})
+
         for label, data, col_style in [
-            ("Node Types", m.get("node_types", {}), "cyan"),
-            ("Edge Types", m.get("edge_types", {}), "yellow"),
+            ("Node Types", node_types, "cyan"),
+            ("Edge Types", edge_types, "yellow"),
         ]:
+            if not data:
+                continue
             t = Table(title=label, expand=True)
             t.add_column("Type", style=col_style)
             t.add_column("Count", justify="right")
@@ -730,18 +779,19 @@ class GraphRAGCLI(App):
                 t.add_row(k, str(v), "█" * bar_len)
             log.write(t)
 
-        # Data files
+        # Data files (if present in manifest)
         files = m.get("data_files", [])
-        log.write(Panel(
-            "\n".join(f"  • {f}" for f in files),
-            title=f"Data Files ({len(files)})",
-            border_style="magenta",
-        ))
+        if files:
+            log.write(Panel(
+                "\n".join(f"  • {f}" for f in files),
+                title=f"Data Files ({len(files)})",
+                border_style="magenta",
+            ))
 
         self._set_summary(
             f"[green]✓[/] {g.get('nodes', '?')}n / "
             f"{g.get('edges', '?')}e / "
-            f"{g.get('components', '?')} components"
+            f"isolated: {g.get('isolated_nodes', '?')}"
         )
 
     # ── Actions ───────────────────────────────────────────────────────────

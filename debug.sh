@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
-# debug.sh — Start the API (if not already running) then launch the CLI.
+# debug.sh — Start the GraphRAG Service API (Neo4j) then launch the CLI.
 # Usage: ./debug.sh [--port PORT] [--api URL]
+#
+# Make sure Neo4j is running and the graph is built before launching:
+#   docker compose up -d neo4j
+#   ./build.sh json          ← full fresh build (first time)
+#   ./build.sh status        ← check current state
+#   ./update.sh full         ← add/update data without clearing
 set -euo pipefail
 
 DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -44,7 +50,7 @@ API_PID=""
 
 if [[ "$API_RUNNING" == false ]]; then
     echo "Starting API server on $HOST:$PORT …"
-    $PYTHON -m uvicorn src.api:app --host "$HOST" --port "$PORT" &
+    $PYTHON -m uvicorn service.api:app --host "$HOST" --port "$PORT" &
     API_PID=$!
 
     # Wait for server to be ready (max 30s)

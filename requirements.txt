@@ -11,8 +11,12 @@ fastapi>=0.110
 uvicorn[standard]>=0.27
 pydantic>=2.0
 
-# CLI
+# CLI (test only)
 textual>=0.50
+
+# Neo4j production service (service/ module)
+neo4j>=5.0
+pydantic-settings>=2.0
 
 # Optional: only required if using OpenAI embeddings
 # openai>=1.0
