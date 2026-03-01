@@ -1,0 +1,310 @@
+================================================================================
+BÖLGE ADLİYE MAHKEMESİ (BAM) – İSTİNAF KARARLARI
+Türk Hukuk Sistemi – Örnek Veri Seti
+NOT: Bölge adliye mahkemeleri (istinaf) 20/07/2016 tarihinde fiilen faaliyete geçmiştir.
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2016/3201 E. – 2017/891 K.
+MAHKEME  : Ankara Bölge Adliye Mahkemesi 2. Hukuk Dairesi
+KARAR TARİHİ: 18/04/2017
+İLK DERECE: Ankara 5. Aile Mahkemesi – 2015/1102 E., 2016/455 K.
+KONU    : Boşanma – Tazminat ve Nafaka Miktarı İtirazı
+SONUÇ   : KISMI BOZMA
+───────────────────────────────────────────────────────────────────────────────
+
+İSTİNAF SEBEPLERİ:
+Davalı eş Hasan Kaya; ilk derece mahkemesinin hükmettiği 40.000 TL maddi ve 20.000 TL
+manevi tazminat ile 2.000 TL/ay yoksulluk nafakasının aşırı olduğunu, kusur dağılımının
+yanlış belirlendiğini ileri sürerek istinaf yoluna başvurmuştur.
+
+DAIRENIN DEĞERLENDİRMESİ:
+4721 sayılı Türk Medenî Kanunu'nun 166. maddesi kapsamında boşanma kararının yerinde olduğu
+sonucuna varılmıştır; zira evlilik birliğinin temelden sarsıldığı ilk derece mahkemesince
+usulüne uygun biçimde saptanmıştır.
+
+Tazminat bakımından ise TMK m.174/1 uyarınca maddi tazminatın, zedelenen "mevcut veya
+beklenen menfaatler"e oranlanması gerektiği gözetilmiştir. Davacının çalışmadığı ve evlilik
+süresinin sekiz yıl olduğu dikkate alındığında (Yargıtay 2. HD'nin 15.06.2015 tarih,
+2015/3221 E., 2015/12450 K. sayılı kararında belirlenen ölçütler doğrultusunda) maddi
+tazminat miktarı orantısız bulunmuştur.
+
+Yoksulluk nafakası konusunda ise TMK m.175 kapsamında nafaka miktarının tarafların ekonomik
+durumuna uygun olduğu tespit edilmiştir.
+
+KARAR:
+1. İlk derece kararının boşanmaya, velayete ve kişisel ilişkiye dair bölümünün
+   ONANMASINA,
+2. Maddi tazminatın 40.000 TL'den 25.000 TL'ye İNDİRİLMESİNE,
+3. Manevi tazminatın 20.000 TL olarak ONANMASINA,
+4. Yoksulluk nafakasının 2.000 TL/ay olarak ONANMASINA,
+5. İstinaf giderlerinin taraflar arasında paylaştırılmasına
+karar verilmiştir.
+[Bu karar kesindir; temyiz sınırını aşmadığından Yargıtay yolu kapalıdır.]
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2015/4421 E. – 2016/1123 K.
+MAHKEME  : Ankara Bölge Adliye Mahkemesi 7. Hukuk Dairesi
+KARAR TARİHİ: 22/02/2016
+NOT: Bu karar, BAM'ın fiilen açılmasından önce -Yargıtay temyiz usulünün geçiş dönemine
+     isabet eden- ilk yılda verilen kararlar arasında yer almaktadır (pilot uygulama).
+İLK DERECE: Ankara 19. İş Mahkemesi – 2014/5022 E., 2015/1890 K.
+KONU    : Belirli süreli sözleşmenin belirsiz kabul edilmesi
+SONUÇ   : ONAMA
+───────────────────────────────────────────────────────────────────────────────
+
+İSTİNAF SEBEPLERİ:
+Davalı işveren özel okul, öğretmen pozisyonunun her yıl yeniden değerlendirilmesi gerektiğini;
+bu nedenle belirli süreli sözleşmelerin zincirleme sayılamayacağını ileri sürerek kararı
+istinaf etmiştir.
+
+DAİRENİN DEĞERLENDİRMESİ:
+4857 sayılı İş Kanunu'nun 11/3. maddesi, esaslı bir neden olmaksızın zincirleme belirli
+süreli sözleşme yapılmasını açıkça yasaklamaktadır. Özel okul öğretmenlik pozisyonu
+"belirli bir işin tamamlanması" gibi objektif bir koşula bağlanamaz; aksine süregelen ve
+sürekli ihtiyacı karşılayan bir görevdir. Bu tespit, Yargıtay 9. HD'nin 2013 öncesi
+içtihadıyla da örtüşmekte olup 4857 sayılı Kanun'un (818 sayılı BK döneminde böyle bir
+koruma mekanizmasının bulunmadığı hatırlatılarak) işçi lehine getirdiği güvenceyi
+pekiştirmektedir.
+
+KARAR:
+1. İlk derece kararının ONANMASINA,
+2. İstinaf giderlerinin davalıdan tahsiline
+karar verilmiştir.
+[Temyize gidilmedi; karar kesinleşti.]
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2018/7821 E. – 2019/3102 K.
+MAHKEME  : İstanbul Bölge Adliye Mahkemesi 11. Hukuk Dairesi
+KARAR TARİHİ: 15/07/2019
+İLK DERECE: İstanbul Anadolu 12. Asliye Hukuk Mahkemesi – 2017/3401 E., 2018/901 K.
+KONU    : Genel İşlem Koşulları – Banka Masrafları
+SONUÇ   : ONAMA
+───────────────────────────────────────────────────────────────────────────────
+
+DAİRENİN DEĞERLENDİRMESİ:
+6098 sayılı Türk Borçlar Kanunu'nun 20. ve 21. maddeleri uyarınca banka sözleşmelerindeki
+genel işlem koşulları denetimi uygulanmakta; önceden tek taraflı hazırlanmış ve müzakere
+imkânı tanınmamış ücret kalemlerinin geçersiz sayılması gerekmektedir.
+
+Davalı bankanın "dosya masrafı" ve "istihbarat ücreti" gibi kalemlerin hizmet karşılığı olup
+genel işlem koşulu niteliği taşımadığını ileri sürdüğü, ancak söz konusu hükümlerin müzakere
+edilmediği tespit edilmiştir. Aynı yönde Tüketici Hakem Heyeti kararları ile Yargıtay 13. HD'nin
+2016 tarihli kararları da emsal gösterilmiştir.
+
+TBK m.22 uyarınca belirsiz genel işlem koşulları hazırlayanın aleyhine yorumlanır.
+
+KARAR:
+1. İlk derece kararının ONANMASINA,
+2. İstinaf giderlerinin davalı bankadan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2019/5521 E. – 2020/2310 K.
+MAHKEME  : İzmir Bölge Adliye Mahkemesi 3. Hukuk Dairesi
+KARAR TARİHİ: 08/01/2020
+İLK DERECE: İzmir 8. İş Mahkemesi – 2016/78 E., 2016/312 K.
+KONU    : İşe İade – Boşta Geçen Süre Ücreti Hesabı
+SONUÇ   : KISMI BOZMA
+───────────────────────────────────────────────────────────────────────────────
+
+İSTİNAF SEBEPLERİ:
+Davacı işçi, ilk derece mahkemesinin boşta geçen süre ücretini brüt ücret yerine net ücret
+üzerinden hesapladığını ileri sürerek itiraz etmiştir.
+
+DAİRENİN DEĞERLENDİRMESİ:
+4857 sayılı İş Kanunu'nun 21/3. maddesi kapsamında "ücret ve diğer haklar" kavramı brüt geliri
+kapsamaktadır. İlk derece mahkemesi bu hesaplamada yanılmıştır. Yargıtay 9. HD'nin emsal
+kararları (özellikle 2015/24501 E., 2015/32100 K. sayılı karar) brüt ücret esas alınması
+gerektiğini ortaya koymaktadır.
+
+KARAR:
+1. İşe iade kararının ONANMASINA,
+2. Boşta geçen süre ücreti hesabının brüt ücret üzerinden YENİDEN YAPILMASINA,
+   (4 ay × 4.500 TL brüt = 18.000 TL)
+3. İstinaf giderlerinin davalı işverenden tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2020/2110 E. – 2021/980 K.
+MAHKEME  : İstanbul Bölge Adliye Mahkemesi 6. Hukuk Dairesi
+KARAR TARİHİ: 25/03/2021
+İLK DERECE: İstanbul 4. Aile Mahkemesi – 2019/551 E., 2020/212 K.
+KONU    : Babalık Davası – DNA Delili İtirazı
+SONUÇ   : ONAMA
+───────────────────────────────────────────────────────────────────────────────
+
+İSTİNAF SEBEPLERİ:
+Davalı, DNA testinin usule aykırı alındığını ve mahkemenin HMK m.187 kapsamındaki delil
+takdir yetkisini hatalı kullandığını ileri sürmüştür.
+
+DAİRENİN DEĞERLENDİRMESİ:
+Adli Tıp Kurumu raporunun usulüne uygun şekilde alındığı ve %99,998 oranındaki sonucun
+kesin delil niteliğinde olduğu saptanmıştır. TMK m.295 kapsamındaki babalık davasında DNA
+delilinin kabul edilmesi ve ona üstün ispat gücü tanınması, 4721 sayılı TMK'nın bu alanda
+743 sayılı eski Medeni Kanun'a kıyasla getirdiği köklü bir düzenlemedir.
+
+HMK m.190/1 uyarınca ispat yükü davalıya geçmiş; davalı ise karineyi çürütememiştir.
+
+KARAR:
+1. İlk derece kararının ONANMASINA,
+2. İstinaf giderlerinin davalıdan tahsiline
+karar verilmiştir.
+[Temyize gidildi; bkz. Yargıtay 2. HD 2021/6712 E.]
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2022/9131 E. – 2023/4512 K.
+MAHKEME  : Gaziantep Bölge Adliye Mahkemesi 4. Hukuk Dairesi
+KARAR TARİHİ: 20/09/2023
+İLK DERECE: Gaziantep 2. Asliye Hukuk Mahkemesi – 2021/1845 E., 2022/632 K.
+KONU    : Ayıplı Araç – Tam İade Kararının Tazminat Miktarı
+SONUÇ   : KISMI BOZMA
+───────────────────────────────────────────────────────────────────────────────
+
+İSTİNAF SEBEPLERİ:
+Davalı otomobil bayii, tam bedel iadesi yerine onarım ya da ayıp oranında bedel indirimi
+yapılması gerektiğini, tam iade kararının orantısız olduğunu ileri sürmüştür.
+
+DAİRENİN DEĞERLENDİRMESİ:
+Uyuşmazlık, hem 6098 sayılı TBK m.219 vd. hem de 6502 sayılı TKHK m.11 kapsamında
+değerlendirilmiştir. Satış ilişkisinin tüketici sözleşmesi niteliği taşıması nedeniyle
+TKHK m.11 öncelikle uygulanır. Tüketici, tekrar eden tamirler ve aracın temel işlevini
+yitirmesi durumunda iade hakkını kullanabilmektedir. Bununla birlikte ilk derece kararında
+hükmedilen iade bedeli, aracın kullanım süresi ve aşınma hesaba katılmadan belirlenmiştir.
+
+Yargıtay 13. HD'nin 2020 tarihli içtihadı, bu tip davalarda değer kaybının iade tutarından
+düşülmesi gerektiğini ortaya koymuştur.
+
+KARAR:
+1. İadeye ilişkin kısım bakımından ONAMA,
+2. İade bedelinin 185.000 TL'den kullanım değer kaybı düşülerek 168.500 TL'ye
+   İNDİRİLMESİNE,
+3. İstinaf giderlerinin taraflar arasında orantılı olarak paylaştırılmasına
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2023/7741 E. – 2024/2551 K.
+MAHKEME  : İstanbul Bölge Adliye Mahkemesi 14. Hukuk Dairesi
+KARAR TARİHİ: 12/04/2024
+İLK DERECE: İzmir 3. Asliye Ticaret Mahkemesi – 2022/3312 E., 2023/1145 K.
+KONU    : Ön Sözleşmeden Cayma – TBK m.2 – Sözleşme Cezası
+SONUÇ   : ONAMA
+───────────────────────────────────────────────────────────────────────────────
+
+DAİRENİN DEĞERLENDİRMESİ:
+6098 sayılı TBK m.2 kapsamında ön sözleşmenin geçerliliği ve müteakip cayma hakkının
+sınırlandırılması değerlendirilmiştir. Eski 818 sayılı BK'da bu konuda açık hüküm
+bulunmadığından söz konusu ilişkiye TBK'nın uygulanması hem kanun koyucunun amacı
+hem de Yargıtay'ın geçiş dönemine ilişkin yorumlarıyla örtüşmektedir.
+
+Sözleşme cezasının aşırılığı gerekçesiyle TBK m.182/3 kapsamında indirim yapılıp
+yapılamayacağı ayrıca tartışılmış; aşırılığın kanıtlanamadığı saptanmıştır.
+
+KARAR:
+1. İlk derece kararının ONANMASINA,
+2. İstinaf giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2021/4341 E. – 2022/2213 K.
+MAHKEME  : İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi
+KARAR TARİHİ: 14/06/2022
+İLK DERECE: İstanbul (Avrupa) 6. İş Mahkemesi – 2018/2290 E., 2019/880 K.
+KONU    : Cinsiyete Dayalı Ücret Eşitsizliği – Tazminat Sınırı
+SONUÇ   : BOZMA (kısmi)
+───────────────────────────────────────────────────────────────────────────────
+
+İSTİNAF SEBEPLERİ:
+Davalı işveren, ücret farkının kıdem ve performans farklılıklarına dayandığını; ilk derece
+mahkemesinin ispat yükünü hatalı dağıttığını ileri sürmüştür.
+
+DAİRENİN DEĞERLENDİRMESİ:
+4857 sayılı İK m.5/5 uyarınca eşit davranma ilkesinin ihlal edildiği olgusunun işçi
+tarafından ortaya konulması hâlinde ispat yükü işverene geçmektedir. Davalı işveren,
+ücret farklılığının haklı bir nedene dayandığını kanıtlayamamıştır.
+
+Ayrımcılık tazminatı bakımından ise İK m.5/6'daki "4 aya kadar" sınır gözetilmeden
+verilen tazminat miktarı bozma gerekçesi oluşturmuştur.
+
+TBK m.421 ve ILO Sözleşmesi No.100 kapsamındaki "eşit işe eşit ücret" ilkesi birlikte
+değerlendirilmiştir.
+
+KARAR:
+1. Ücret eşitliği kararının ONANMASINA,
+2. Geçmişe dönük ücret farkı alacağının ONANMASINA (28.700 TL),
+3. Ayrımcılık tazminatının kanuni sınır çerçevesinde YENİDEN BELİRLENMESİNE
+   (4 ay × 4.700 TL brüt = 18.800 TL – sınır dahilinde olduğundan onanmıştır),
+4. İstinaf giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2020/3312 E. – 2021/1456 K.
+MAHKEME  : Samsun Bölge Adliye Mahkemesi 2. Hukuk Dairesi
+KARAR TARİHİ: 18/03/2021
+İLK DERECE: Samsun 2. Asliye Hukuk Mahkemesi – 2020/5511 E., 2021/2003 K.
+KONU    : Eser Sözleşmesi – Ayıp – Zamanaşımı Uygulaması
+SONUÇ   : ONAMA
+───────────────────────────────────────────────────────────────────────────────
+
+DAİRENİN DEĞERLENDİRMESİ:
+6098 sayılı TBK m.480/2'nin 818 sayılı BK m.363 ile kıyaslaması yapılmıştır. Eski kanunda
+taşınmazlar için beş yıl olan süre yeni kanunda yirmi yıla çıkarılmıştır. Binanın 2015 yılında
+teslim edildiği ve davanın 2020 yılında açıldığı gözetildiğinde, her iki düzenleme kapsamında
+da zamanaşımı dolmamıştır. Uygulanacak kanun, sözleşmenin (ve teslimin) gerçekleştiği
+tarihte yürürlükte olan TBK'dır.
+
+Bilirkişi raporu teknik olarak güvenilir bulunmuş ve ilk derecenin bulgularında hataya
+rastlanmamıştır.
+
+KARAR:
+1. İlk derece kararının ONANMASINA,
+2. İstinaf giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2021/2891 E. – 2022/1103 K.
+MAHKEME  : Erzurum Bölge Adliye Mahkemesi 1. Hukuk Dairesi
+KARAR TARİHİ: 15/04/2022
+İLK DERECE: Erzurum 1. Asliye Hukuk Mahkemesi – 2019/890 E., 2020/345 K.
+KONU    : Tapu İptali – Sahte Vekâletname – İyi Niyet Savunması
+SONUÇ   : ONAMA (Ek gerekçeyle)
+───────────────────────────────────────────────────────────────────────────────
+
+DAİRENİN DEĞERLENDİRMESİ:
+Davalı, TMK m.1023 kapsamındaki iyi niyetli üçüncü kişi korumasından yararlanmak gerektiğini
+ileri sürmüştür. Ne var ki TMK m.716/2 uyarınca yolsuz tescili bilen ya da bilmesi gereken
+kişi bu korumadan yararlanamaz. Sahte vekâletname bilgisinin davalıya ulaşmasını engelleyen
+bir durumun bulunmadığı ve belgenin görünür biçimde sahtecilik içerdiği saptanmıştır.
+
+Yargıtay HGK'nın 15.10.2003 tarih, 2003/1-603 E. kararı ve Yargıtay 1. HD'nin yerleşik
+içtihadıyla uyumlu olan ilk derece kararı bu gerekçeyle de desteklenmektedir.
+
+KARAR:
+1. İlk derece kararının ONANMASINA,
+2. İstinaf giderlerinin davalıdan tahsiline
+karar verilmiştir.
+[Temyize gidilmedi; karar kesinleşti.]
+
+───────────────────────────────────────────────────────────────────────────────
+İSTİNAF KARAR NO: 2024/1101 E. – 2024/3892 K.
+MAHKEME  : Ankara Bölge Adliye Mahkemesi 9. Hukuk Dairesi
+KARAR TARİHİ: 07/11/2024
+İLK DERECE: Ankara 11. İş Mahkemesi – 2016/2231 E., 2017/776 K.
+NOT     : Bu istinaf başvurusu, ek yargılama masraflarının tahsili amacıyla açılan
+          ikinci davada ileri sürülen takas-mahsup iddiasına ilişkindir.
+KONU    : Kıdem Tazminatı – Ek Talep
+SONUÇ   : RED
+───────────────────────────────────────────────────────────────────────────────
+
+DAİRENİN DEĞERLENDİRMESİ:
+Davalı işveren, kesinleşmiş karardaki kıdem tazminatı hükmünün yeniden tartışılabileceğini
+ileri sürmüştür. Kesin hüküm (HMK m.303) nedeniyle esas hakkında yeniden inceleme yapılması
+mümkün değildir. İstinaf, yalnızca yargılama masraflarına ilişkin ek talep yönünden
+incelenmiştir.
+
+1475 sayılı İK m.14 uyarınca hesaplanan kıdem tazminatının kesin hüküm kazandığı ve
+bu hesaplamanın artık tartışmaya açık olmadığı sonucuna varılmıştır.
+
+KARAR:
+İstinaf başvurusunun REDDİNE,
+İstinaf giderlerinin davalı şirketten tahsiline karar verilmiştir.

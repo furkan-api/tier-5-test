@@ -1,0 +1,599 @@
+================================================================================
+İLK DERECE MAHKEME KARARLARI
+Türk Hukuk Sistemi – Örnek Veri Seti
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2014/832 E. – 2015/214 K.
+MAHKEME  : İstanbul Anadolu 3. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 18/03/2015
+KONU    : Tazminat Davası – Haksız Fiil
+DURUM   : KESİNLEŞTİ (İstinaf/Temyize gidilmedi)
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı Ahmet Yılmaz, davalı Mehmet Demir'in aracıyla çarpması sonucu uğradığı bedensel
+zarar ve maddi kayıpların tazmini amacıyla 45.000 TL tazminat talep etmiştir.
+
+UYUŞMAZLIĞIN ESASI:
+Mahkememize intikal eden dosyanın incelenmesinden; 12.09.2013 tarihinde İstanbul Kadıköy'de
+meydana gelen trafik kazasında davalıya ait 34 ABC 123 plakalı araç ile davacının yayaya ait
+önceliği olan geçiş noktasında çarpıştığı anlaşılmaktadır. Kaza tespit tutanağı ve görgü
+tanıklarının ifadeleri birlikte değerlendirildiğinde kazanın davalının kusuru sonucu meydana
+geldiği açıktır.
+
+HUKUKA UYGULANMASI:
+Haksız fiil sorumluluğu bakımından 6098 sayılı Türk Borçlar Kanunu'nun 49/1. maddesi gereğince
+"Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür."
+hükmü uygulanır. Aynı Kanunun 50/2. maddesi uyarınca, zararın miktarı tam olarak ispat
+edilemediğinde hâkimin hakkaniyete uygun bicimde zarar miktarını belirleyebileceği öngörülmüştür.
+Eski 818 sayılı Borçlar Kanunu'nun 41. ve 43. maddeleri kapsamındaki içtihat bu konuda yol
+gösterici olmaya devam etmektedir. Nitekim Yargıtay 4. HD'nin 17.05.2000 tarih, 2000/3421 E.
+2000/4112 K. sayılı kararı, haksız fiil tazminatının belirlenmesinde bilirkişi raporu ile
+mahkeme takdirinin birlikte uygulanacağını ortaya koymuştur.
+
+BİLİRKİŞİ RAPORU: Dosyaya sunulan tıbbi bilirkişi raporu incelendiğinde; davacının sol bacak
+kırığı, iki aylık iş göremezlik ve süregelen ağrılardan kaynaklanan manevî zarar itibarıyla
+toplam 38.500 TL tazminata müstehak olduğu sonucuna varılmıştır.
+
+SONUÇ VE HÜKÜM:
+Yukarıda açıklanan nedenlerle, 6098 sayılı TBK m.49 ve m.51 hükümleri uyarınca;
+1. Davacının maddi tazminat talebinin KISMEN KABULÜNE, 32.000 TL maddi tazminata,
+2. Davacının manevi tazminat talebinin KABULÜNE, 6.500 TL manevi tazminata,
+   toplam 38.500 TL'ye hükmedilmesine,
+3. Fazlaya ilişkin taleplerin reddine,
+4. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2015/1102 E. – 2016/455 K.
+MAHKEME  : Ankara 5. Aile Mahkemesi
+KARAR TARİHİ: 22/06/2016
+KONU    : Boşanma – TMK m.166 (Evlilik Birliğinin Temelinden Sarsılması)
+DURUM   : İSTİNAFA TAŞINDI (Bkz. Ankara BAM 2. HD 2016/3201 E.)
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı eş Fatma Kaya, davalı eş Hasan Kaya aleyhine evlilik birliğinin temelinden
+sarsılması nedeniyle boşanma, 80.000 TL maddi ve 50.000 TL manevi tazminat ile 3.500 TL/ay
+yoksulluk nafakası talep etmiştir.
+
+TARAFLARIN BEYANLARI:
+Davacı; eşinin kendisine fiziksel şiddet uyguladığını, aile birliğini fiilen terk ettiğini ve
+çocuklara olan ilgisizliğini ileri sürmüştür. Davalı bu iddiaları reddetmiş; davacının sürekli
+hakaret ettiğini ve eşine karşı saygısız davrandığını beyan etmiştir.
+
+HUKUKA UYGULANMASI:
+4721 sayılı Türk Medenî Kanunu'nun 166. maddesi; "Evlilik birliği, ortak hayatı sürdürmeleri
+kendilerinden beklenmeyecek derecede temelinden sarsılmış olursa, eşlerden her biri boşanma
+davası açabilir." hükmünü içermektedir. Bu madde, 743 sayılı Medenî Kanun'un 134/3. maddesindeki
+"geçimsizlik" kavramının yerini almış; salt kusur araştırması yerine ortak hayatın sürdürülebilir
+olup olmadığının tespiti esas alınmıştır.
+
+Toplanan delillerin değerlendirilmesinde sosyal inceleme raporu ve tanık ifadeleri belirleyici
+olmuştur. Mahkememiz, her iki tarafın da kusurlu davranışlarının bulunduğunu, bununla birlikte
+davalının barış yükümlülüğünü ihlale yönelik eylemlerinin daha ağır nitelik taşıdığını tespit
+etmiştir. Tazminat konusunda ise TMK m.174/1-2 kapsamında değerlendirme yapılmıştır.
+
+SONUÇ VE HÜKÜM:
+1. Boşanmaya,
+2. Müşterek çocuk Zeynep'in velayetinin davacıya verilmesine (TMK m.182),
+3. Davalının çocukla kişisel ilişkisinin düzenlenmesine,
+4. Davacı yararına 40.000 TL maddi tazminata (TMK m.174/1),
+5. Davacı yararına 20.000 TL manevi tazminata (TMK m.174/2),
+6. 2.000 TL/ay yoksulluk nafakasına (TMK m.175)
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2016/78 E. – 2016/312 K.
+MAHKEME  : İzmir 8. İş Mahkemesi
+KARAR TARİHİ: 14/11/2016
+KONU    : İşe İade – 4857 sayılı İK m.18, 20, 21
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı işçi Murat Öncü, davalı şirkette muhasebe uzmanı olarak çalışmaktayken iş
+sözleşmesinin olarak feshedildiğini, fesih için geçerli bir neden bulunmadığını ileri sürerek
+işe iade ve boşta geçen süre ücretinin ödenmesi talebinde bulunmuştur.
+
+UYUŞMAZLIĞIN ESASI:
+Davalı işveren feshe gerekçe olarak "işyerinde organizasyon değişikliğini" göstermiştir. Ancak
+davacının unvanının aynı kaldığı, göreve devam eden başka çalışanların bulunduğu ve fesih
+bildiriminin HMK'daki ispat yüküne ilişkin ilkelere göre işverene ait olduğu gözetilmiştir.
+
+HUKUKA UYGULANMASI:
+4857 sayılı İş Kanunu'nun 18. maddesine göre otuz veya daha fazla işçi çalıştıran işyerlerinde
+belirsiz süreli iş sözleşmesini fesheden işverenin geçerli bir sebebe dayanması zorunludur.
+Aynı Kanunun 20/2. maddesi uyarınca feshin geçerli nedene dayandığını ispat yükümlülüğü
+işverene aittir. Davalı işverenin bu yükümlülüğü yerine getiremediği anlaşılmaktadır.
+
+İşbu dava, 1475 sayılı eski İş Kanunu döneminden farklı olarak 4857'nin öngördüğü işe iade
+müessesesi çerçevesinde değerlendirilmiştir. Yargıtay 9. HD'nin 23.09.2014 tarih, 2014/24100 E.,
+2014/26855 K. sayılı kararı, organizasyon değişikliğinin tek başına geçerli fesih sebebi
+sayılamayacağını açıkça ortaya koymuştur.
+
+SONUÇ VE HÜKÜM:
+4857 sayılı İK m.21 uyarınca;
+1. Feshin GEÇERSİZLİĞİNE ve davacının İŞE İADESİNE,
+2. Davacının boşta geçirdiği en fazla dört aylık ücret ve diğer haklarının davalıdan
+   tahsilini teminen karar oluşturulmasına,
+   (aylık brüt ücret: 4.500 TL)
+3. Davacının işe iade başvurusuna rağmen bir ay içinde işe başlatılmaması hâlinde
+   4 aylık ücret tutarında işe başlatmama tazminatına (18.000 TL),
+4. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2012/541 E. – 2013/88 K.
+MAHKEME  : Bursa 2. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 05/02/2013
+KONU    : Taşınmaz Satış Sözleşmesinin İptali – TMK m.706, 716; TBK m.19
+DURUM   : YARGITAY'A TAŞINDI (Bkz. Yargıtay 1. HD 2013/11205 E.)
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı Ayşe Şahin, miras bırakan babasından kalan taşınmazın resmî şekle aykırı
+bir satış sözleşmesiyle kardeşi üzerine devredildiğini ileri sürerek tapu iptal ve tescil
+talep etmiştir.
+
+HUKUKA UYGULANMASI:
+4721 sayılı Türk Medenî Kanunu'nun 706. maddesi gereğince taşınmaz mülkiyetini devretmeye
+yönelik sözleşmelerin geçerli olabilmesi için resmî şekilde (noter veya tapu müdürlüğünde)
+düzenlenmeleri zorunludur. İncelenen sözleşmenin noterizasyondan yoksun olduğu saptanmıştır.
+
+Bununla birlikte 6098 sayılı Türk Borçlar Kanunu'nun 19. maddesi uyarınca tarafların gerçek
+ve ortak iradesi araştırılmış; ancak satış bedelinin piyasa değerinin çok altında gösterilmesi,
+muvazaaya karine teşkil etmiştir.
+
+Mahkememiz, Yargıtay HGK'nın 13.03.1996 tarih, 1-64/177 sayılı kararında benimsenen tapu
+iptali davalarındaki ispat standartlarını uygulamıştır.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. Bursa ili, Nilüfer ilçesi, Arabayatağı Mahallesinde kayıtlı 1452 ada, 12 parsel nolu
+   taşınmaza ait tapu kaydındaki davalı adına olan tescilinin İPTALİNE,
+3. Taşınmazın davacı adına TESCİLİNE,
+4. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2017/3401 E. – 2018/901 K.
+MAHKEME  : İstanbul Anadolu 12. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 12/04/2018
+KONU    : Alacak – Genel İşlem Koşulları (Banka Kredi Sözleşmesi)
+DURUM   : İSTİNAFA TAŞINDI
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı tüketici Serkan Arslan, davalı bankanın kredi sözleşmesine eklediği saklı
+masraf ve dosya ücreti kalemlerinin genel işlem koşulu niteliğinde olup geçersiz sayılması
+gerektiğini ileri sürerek 8.200 TL iadesi talep etmiştir.
+
+HUKUKA UYGULANMASI:
+6098 sayılı Türk Borçlar Kanunu'nun 20. maddesi kapsamında değerlendirilen söz konusu
+maddeler; önceden tek taraflı hazırlanmış, müzakere imkânı tanınmamış ve küçük punto ile
+yazılmış sözleşme hükümleri olduğundan -TBK m.21/2 kapsamında- okunmamış sayılır.
+
+Ek olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 4. maddesi de tüketici
+sözleşmelerine özgü genel işlem koşulları denetimi öngörmektedir. Nitekim Yargıtay 13. HD'nin
+08.03.2016 tarih, 2015/28745 E., 2016/6210 K. sayılı kararında benzer banka masraflarının
+iade edilmesi gerektiği hükme bağlanmıştır.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. 8.200 TL'nin dava tarihinden itibaren yasal faiziyle davalıdan tahsiline
+   (TBK m.117 kapsamında temerrüt faizi),
+3. Yargılama giderlerinin davalı bankadan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2016/2231 E. – 2017/776 K.
+MAHKEME  : Ankara 11. İş Mahkemesi
+KARAR TARİHİ: 29/09/2017
+KONU    : Kıdem ve İhbar Tazminatı – 1475 sayılı İK m.14; 4857 sayılı İK m.17
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı Hatice Çelik, 14 yıl süreyle çalıştığı davalı tekstil firmasındaki iş
+sözleşmesinin haksız olarak feshedildiğini ileri sürerek kıdem tazminatı (94.500 TL),
+ihbar tazminatı (10.500 TL) ve yıllık izin ücreti (6.300 TL) talep etmiştir.
+
+HUKUKA UYGULANMASI:
+İş sözleşmesinin feshinde 4857 sayılı İş Kanunu'nun 17. maddesi kapsamındaki bildirim
+sürelerine uyulmadığı anlaşıldığından ihbar tazminatı talebinin kabulü gerekmektedir.
+
+Kıdem tazminatı bakımından hâlâ yürürlükte bulunan 1475 sayılı eski İş Kanunu'nun 14.
+maddesi uygulanmaktadır. Söz konusu madde, 4857 sayılı Kanun'un geçici 6. maddesi uyarınca
+yeni kanunla birlikte yürürlüğünü korumaktadır.
+
+İşçinin 14 yıl boyunca teknik departmanda çalıştığı, son brüt ücretinin 6.750 TL olduğu
+ve feshin haklı bir nedene dayanmadığı saptandığından:
+- Kıdem tazminatı: 14 × 6.750 = 94.500 TL
+- İhbar tazminatı: 8 haftalık ücret = 13.500 TL
+- Yıllık izin ücreti: 28 günlük × 225 TL = 6.300 TL
+
+SONUÇ VE HÜKÜM:
+1. 94.500 TL kıdem tazminatının işten çıkarma tarihinden itibaren en yüksek banka mevduat
+   faiziyle tahsiline,
+2. 13.500 TL ihbar tazminatının yasal faiziyle tahsiline,
+3. 6.300 TL yıllık izin ücretinin yasal faiziyle tahsiline,
+4. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2019/551 E. – 2020/212 K.
+MAHKEME  : İstanbul 4. Aile Mahkemesi
+KARAR TARİHİ: 18/03/2020
+KONU    : Babalık Davası – TMK m.295, 301
+DURUM   : İSTİNAFA TAŞINDI
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı anne Elif Bozkurt, davalı Kerem Doğan'ın müşterek çocuğun babası olduğunun
+tespiti amacıyla babalık davası açmıştır.
+
+HUKUKA UYGULANMASI:
+4721 sayılı Türk Medenî Kanunu'nun 295. maddesi gereğince analık-çocuk soybağı doğumla kurulur;
+baba ile soybağının kurulması ise ana ile evlilik, tanıma veya hâkim hükmüyle gerçekleşir.
+Aynı Kanunun 282. maddesi çocuk ile baba arasındaki soybağı yollarını düzenlemektedir.
+
+Davada Adli Tıp Kurumu tarafından gerçekleştirilen DNA analizi sonucunda çocuğun davalıya ait
+olduğu yüzde 99,998 olasılıkla saptanmıştır. Eski 743 sayılı Medeni Kanun döneminde DNA
+delilinin uygulanıp uygulanmayacağına ilişkin olarak Yargıtay HGK'nın 11.02.1998 tarih,
+2-70/64 sayılı kararı emsal niteliğini korumaktadır. TMK ile DNA deliline açıkça yer verilmesi
+bu tartışmayı sona erdirmiştir.
+
+SONUÇ VE HÜKÜM:
+1. Müşterek çocuğun babasının davalı olduğunun TESPİTİNE,
+2. Çocuğun nüfus kaydına davalı babanın işlenmesine,
+3. Çocuğun nafaka talebine ilişkin talebin ayrı bir davada görüleceğine,
+4. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2020/88 E. – 2020/441 K.
+MAHKEME  : Mersin 3. Sulh Hukuk Mahkemesi
+KARAR TARİHİ: 25/09/2020
+KONU    : Kira Bedelinin Tespiti ve Tahliye (HMK m.3 Kapsamı)
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı kiraya veren Nilgün Kara, kiracı Tamer Efe'ye ait işyeri kirasının piyasa
+değerine göre yeniden belirlenmesini ve iki aylık kiranın ödenmemiş olması gerekçesiyle
+tahliyeye karar verilmesini talep etmiştir.
+
+HUKUKA UYGULANMASI:
+Kira davası, 28/07/2020 tarihinde yürürlüğe giren 7251 sayılı Kanunla değiştirilen HMK m.3
+uyarınca sulh hukuk mahkemelerinin görevine girmiştir. Kira tespitinde bilirkişi raporu,
+yakın çevredeki eşdeğer gayrimenkullerin kira değerlerini esas almaktadır.
+
+Kiranın ödenmemesine ilişkin olarak 6098 sayılı TBK m.352/2 (Eski BK m.258) hükmü gereğince
+ticari taşınmazlarda iki aylık kira bedelinin ödenmemesi hâlinde tahliye talep edilebilecektir.
+
+SONUÇ VE HÜKÜM:
+1. Aylık kira bedelinin 3.800 TL'den 5.200 TL'ye tespitine,
+2. Kiracının 5.200 TL/ay kira bedeli üzerinden tahliyesine,
+   (Kira borcunun tamamı tahliye kararına kadar ödenirse tahliye kararı icrasının
+   durdurulabileceğine dair ihtara yer verilmiştir.)
+3. Yargılama giderlerinin davalı kiracıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2021/1845 E. – 2022/632 K.
+MAHKEME  : Gaziantep 2. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 15/07/2022
+KONU    : Satım Sözleşmesi – Ayıplı Mal – TBK m.219, 227
+DURUM   : İSTİNAFA TAŞINDI
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı Recep Polat, davalı otomobil bayiinden satın aldığı 2020 model aracın motor
+arızasının fabrika kaynaklı olduğunu ileri sürerek aracın iadesini veya bedel indimini
+talep etmiştir.
+
+HUKUKA UYGULANMASI:
+6098 sayılı Türk Borçlar Kanunu'nun 219. maddesi; satıcının ayıplı maldan sorumluluğunu
+düzenlemekte, sözleşmede kararlaştırılan nitelikleri taşımayan malın iadesine veya ayıba
+karşı tekeffül seçimlik hakkının kullanılmasına imkân tanımaktadır. Bununla birlikte tüketici
+ilişkisinde 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 11. maddesi kapsamındaki
+seçimlik haklar daha geniş bir koruma sağlamaktadır.
+
+Bilirkişi raporunda motor içindeki işçilik hatası kaynaklı arızanın satış tarihinden önce
+mevcut olduğu saptanmıştır. Yargıtay 13. HD'nin 22.04.2019 tarih, 2019/1205 E., 2019/4891 K.
+sayılı kararı bu konuda emsal niteliğindedir.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. Araç bedelinin tam iadesi olan 185.000 TL'nin dava tarihinden itibaren yasal faiziyle
+   davalıdan tahsiline,
+3. Aracın iade alındıktan sonra davalı adına TESCİLİNE,
+4. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2018/2290 E. – 2019/880 K.
+MAHKEME  : İstanbul (Avrupa) 6. İş Mahkemesi
+KARAR TARİHİ: 11/11/2019
+KONU    : Eşit Davranma Yükümlülüğünün İhlali – 4857 sayılı İK m.5
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı Selin Yıldız, aynı pozisyondaki erkek meslektaşlarına kıyasla %35 daha düşük
+ücret aldığını ileri sürerek cinsiyete dayalı ücret eşitsizliğinin giderilmesini ve geçmişe
+dönük ücret farklarının ödenmesini talep etmiştir.
+
+HUKUKA UYGULANMASI:
+4857 sayılı İş Kanunu'nun 5/4. maddesine göre "Aynı veya eşit değerde bir iş için cinsiyet
+nedeniyle daha düşük ücret kararlaştırılamaz." 6098 sayılı Türk Borçlar Kanunu'nun 421. maddesi
+de paralel biçimde aynı ilkeyi hizmet sözleşmelerine uygulamaktadır.
+
+Davalı işveren, ücret farklılığının kıdem ve verimlilik ölçütlerine dayandığını ileri sürmüş;
+ancak iş tanımları aynı olan iki çalışan arasında yalnızca cinsiyet temelinde ücret farkı
+oluştuğu belgelerin karşılaştırmalı incelemesiyle anlaşılmaktadır. Yargıtay 9. HD'nin
+12.01.2017 tarih, 2016/34102 E., 2017/481 K. sayılı kararı bu tür davalarda ispat yükünün
+işverene geçeceğini teyit etmektedir.
+
+SONUÇ VE HÜKÜM:
+4857 sayılı İK m.5/6 uyarınca;
+1. Ücret eşitsizliğinin GİDERİLMESİNE,
+2. Aylık ücretin erkek meslektaş düzeyine (4857 sayılı İK m.5/4) yükseltilmesine,
+3. Son üç yıla ait ücret farkı olan 28.700 TL'nin yasal faiziyle tahsiline,
+4. 4 aylık ücret tutarında (18.800 TL) ayrımcılık tazminatına
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2022/3312 E. – 2023/1145 K.
+MAHKEME  : İzmir 3. Asliye Ticaret Mahkemesi
+KARAR TARİHİ: 20/09/2023
+KONU    : Ön Sözleşmeden Cayma – TBK m.2
+DURUM   : İSTİNAFA TAŞINDI
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı şirket Alfa İnşaat A.Ş., davalı Gamma Otomotiv Ltd. Şti. ile imzalanan ön
+sözleşmeden davalının tek taraflı caydığını ve bu nedenle 250.000 TL sözleşme cezasının
+ödenmesini talep etmiştir.
+
+HUKUKA UYGULANMASI:
+6098 sayılı Türk Borçlar Kanunu'nun 2. maddesi, ön sözleşmeyi ilk kez açık bir yasal zemine
+oturtmuştur. Bu düzenlemeden önce 818 sayılı Borçlar Kanunu'nda ön sözleşme kavramı yer
+almamakta; Yargıtay HGK'nın 15.02.1995 tarih, 1994/13-935 E. kararı bu alandaki içtihat
+boşluğunu dolduruyordu.
+
+TBK m.2/1'e göre ön sözleşmenin geçerliği için ileriye yönelik sözleşmenin geçerlilik
+koşullarının yerine getirilmesi gerekmektedir. Dosyada ön sözleşmenin noter onaylı olduğu
+ve içeriğinin yeterince belirli olduğu anlaşılmaktadır. Davalının caymasının hukuki dayanağının
+bulunmadığı tespit edilmiştir.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. 250.000 TL sözleşme cezasının ön sözleşmeden cayma tarihinden itibaren ticari faiziyle
+   (3095 sayılı Kanun kapsamında) davalıdan tahsiline,
+3. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2013/712 E. – 2014/310 K.
+MAHKEME  : Konya 1. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 08/05/2014
+KONU    : Miras – Tenkis Davası – TMK m.560
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı zorunlu mirasçı Ali Demirci, annesinin ölümünden önce yaptığı bağışlamaların
+saklı payını ihlal ettiğini ileri sürerek tenkis talepli dava açmıştır.
+
+HUKUKA UYGULANMASI:
+4721 sayılı Türk Medenî Kanunu'nun 560. maddesi saklı pay ihlallerinde tenkis davasına
+olanak tanımaktadır. Saklı paylar TMK m.506-511 kapsamında belirlenmektedir. Öte yandan
+743 sayılı eski Medeni Kanun'da geçerli olan saklı pay oranlarının miras bırakanın ölüm
+tarihine göre uygulanacağı Yargıtay 2. HD'nin 14.03.2007 tarih, 2006/20451 E., 2007/3921 K.
+sayılı kararıyla pekiştirilmiştir.
+
+Dava tarihinde yürürlükte olan TMK m.506/1 uyarınca altsoy bir arada miras bıraktığında
+saklı pay miras payının yarısıdır.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. Tenkis tutarı 62.000 TL'nin yasal faiziyle davalılardan tahsiline karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2014/5022 E. – 2015/1890 K.
+MAHKEME  : Ankara 19. İş Mahkemesi
+KARAR TARİHİ: 17/06/2015
+KONU    : Belirli Süreli İş Sözleşmesinin Zincirleme Yapılması – 4857 sayılı İK m.11
+DURUM   : İSTİNAFA TAŞINDI (Ankara BAM 7. HD 2015/4421 E.)
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı öğretmen Berk Aktaş, özel bir okulla art arda yedi kez bir yıllık belirli süreli
+sözleşme imzaladığını; bu nedenle sözleşmenin belirsiz süreli sayılması ve kıdem tazminatı
+verilmesi gerektiğini talep etmiştir.
+
+HUKUKA UYGULANMASI:
+4857 sayılı İş Kanunu'nun 11/3. maddesi; esaslı bir neden olmaksızın birden fazla üst üste
+yapılan belirli süreli iş sözleşmelerinin başlangıçtan itibaren belirsiz süreli sayılacağını
+öngörmektedir. Davalı işveren, eleman ihtiyacının her yıl yeniden değerlendirildiğini ileri
+sürmüş; ancak görevin nitelik itibarıyla değişmediği anlaşılmaktadır.
+
+SONUÇ VE HÜKÜM:
+1. Sözleşmenin belirsiz süreli olduğunun TESPİTİNE,
+2. Kıdem ve ihbar tazminatlarının hesaplanarak ödenmesine,
+3. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2021/3341 E. – 2022/1102 K.
+MAHKEME  : İstanbul (Anadolu) 9. Aile Mahkemesi
+KARAR TARİHİ: 28/06/2022
+KONU    : Velayetin Değiştirilmesi – TMK m.183
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Daha önce verilen boşanma kararında velayeti anneye bırakılan müşterek çocuğun velayet
+hakkının babaya (davacı) devredilmesi talep edilmiştir.
+
+HUKUKA UYGULANMASI:
+TMK m.183 uyarınca velayetin değiştirilmesi ancak koşulların önemli ölçüde değişmesi hâlinde
+talep edilebilir. Sosyal hizmetler uzmanının sunduğu rapor, çocuğun annesinin ikamet ettiği
+ilde eğitiminin sekteye uğradığını ve temel gelişim gereksinimlerinin karşılanamadığını ortaya
+koymuştur.
+
+Çocuğun yüksek yararı ilkesi, 4721 sayılı TMK m.182/2 ve BM Çocuk Hakları Sözleşmesi
+m.3 uyarınca birlikte değerlendirilmiştir.
+
+SONUÇ VE HÜKÜM:
+1. Velayetin anneden alınarak BABAYA VERİLMESİNE,
+2. Annenin çocukla kişisel ilişkisinin her hafta sonu Cumartesi-Pazar günleri olarak
+   düzenlenmesine,
+3. Annenin çocuk için aylık 1.500 TL iştirak nafakası ödemesine
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2023/4521 E. – 2024/1205 K.
+MAHKEME  : Ankara 4. Tüketici Mahkemesi
+KARAR TARİHİ: 15/04/2024
+KONU    : Tüketici Ayıp Davası – 6502 sayılı TKHK m.11
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı tüketici Seda Arslan, davalı beyaz eşya firmasından aldığı çamaşır makinasının
+garanti süresi içinde arızalandığını, satıcının değişim talebini reddettiğini ileri sürerek
+ürünün yenisiyle değiştirilmesini talep etmiştir.
+
+HUKUKA UYGULANMASI:
+6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 11. maddesi; ayıplı malda tüketiciye
+seçimlik haklar tanımaktadır: ücretsiz onarım, bedel indirimi, sözleşmeden dönme veya
+yenisiyle değişim. Garanti süresi 2 yıl olup ürün 14. ayda arızalanmıştır.
+
+Bu dava daha önce yürürlükte olan TBK m.219 vd. hükümlerinden bağımsız olarak tüketici
+özel kanunu kapsamında değerlendirilmiştir. Yargıtay 13. HD'nin 02.10.2018 tarih,
+2018/2103 E., 2018/8921 K. sayılı kararı tüketicide seçimlik hak kullanımına ilişkin
+emsal niteliğindedir.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. Ayıplı ürünün aynı model yeni ürünle DEĞİŞTİRİLMESİNE,
+3. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2011/1120 E. – 2012/432 K.
+MAHKEME  : İstanbul 3. Asliye Ticaret Mahkemesi
+KARAR TARİHİ: 20/06/2012
+KONU    : Sözleşmenin Yorumu – TBK m.19 (Yeni Kanunun İlk Dönem Uygulaması)
+DURUM   : YARGITAY'A TAŞINDI
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı tedarikçi, davalı alıcı şirketin siparişten vazgeçtiğini ileri sürerek ön
+siparişe ilişkin sözleşme hükmünün yorumlanması ve 375.000 TL bedelinin tahsilini talep
+etmiştir.
+
+HUKUKA UYGULANMASI:
+Sözleşme 01/04/2012 tarihinde imzalanmış olmakla birlikte ihtilaf 6098 sayılı TBK'nın
+yürürlüğe girdiği 01/07/2012 tarihinden önce doğmuştur. Mahkeme; geçici hükümler çerçevesinde
+sözleşmenin imzalandığı tarihteki 818 sayılı BK m.18 hükmünü uygulamıştır. Bununla birlikte
+anılan maddenin içerik itibarıyla 6098 sayılı TBK m.19 ile öz itibarıyla aynı olduğu ve
+tarafların "gerçek ve ortak iradelerinin" aranması gerektiği görüşünde uzlaşı bulunmaktadır.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. 320.000 TL'nin temerrüt tarihinden itibaren ticari faiziyle davalıdan tahsiline
+   (hesaplama: 818 sayılı BK m.101 / TBK m.117 kapsamında),
+3. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2020/5511 E. – 2021/2003 K.
+MAHKEME  : Samsun 2. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 10/11/2021
+KONU    : Eser Sözleşmesi – Ayıp – TBK m.480, Zamanaşımı
+DURUM   : BAM'DA KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı arsa sahibi, davalı müteahhidin 2015 yılında teslim ettiği binada 2020 yılında
+ortaya çıkan ve yapım hatasından kaynaklandığı ileri sürülen çatlaklar nedeniyle 220.000 TL
+tazminat talep etmiştir.
+
+HUKUKA UYGULANMASI:
+6098 sayılı Türk Borçlar Kanunu'nun 480/2. maddesi kapsamında ayıptan doğan istem hakkı,
+taşınmaz yapılar bakımından eserin tesliminden itibaren 20 yıllık zamanaşımına tabidir.
+Eski 818 sayılı Borçlar Kanunu'nun 363. maddesi beş yıllık süre öngörmekteydi; TBK ile bu
+süre ciddi biçimde uzatılmıştır. Binanın 2015 yılında teslim edildiği ve davanın 2020 yılında
+açıldığı gözetildiğinde her iki kanun kapsamında da istemin süresinde olduğu açıktır.
+
+Bilirkişi raporunda tespit edilen yapım hataları davalıya atfedilerek sorumluluğu doğurduğu
+saptanmıştır.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. 185.000 TL tamirat ve tazminat bedeli ödenmesine (bilirkişi raporu esas alınarak),
+3. Yargılama giderlerinin davalıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2019/890 E. – 2020/345 K.
+MAHKEME  : Erzurum 1. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 03/06/2020
+KONU    : İstihkak Davası – Yolsuz Tescil – TMK m.683, 716
+DURUM   : İSTİNAFA TAŞINDI
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı, sahte vekâletname kullanılarak üçüncü kişi adına tescil edilen taşınmazının
+gerçek malikinin kendisi olduğunu ileri sürerek tapu kaydının iptali ve tescilini talep etmiştir.
+
+HUKUKA UYGULANMASI:
+TMK m.716/1 uyarınca mülkiyetin kazanılmasına esas hukuki sebebin geçersizliği hâlinde
+tescil yolsuz sayılır. Sahte vekâletnameyle yapılan işlemlerin geçersizliği ise Yargıtay HGK'nın
+15.10.2003 tarih, 2003/1-603 E. kararında açıkça hükme bağlanmıştır.
+
+TMK m.683/2 uyarınca malik, malını haksız zilyetten geri almak için istihkak davası açabilir.
+TMK m.716/2 ile korunan iyi niyet karinesi ise sahtecilik durumunda uygulanamaz.
+
+SONUÇ VE HÜKÜM:
+1. Davanın KABULÜNE,
+2. Tapu kaydının İPTALİNE ve TESCİLİNE
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2017/4401 E. – 2018/1567 K.
+MAHKEME  : İstanbul Anadolu 14. Asliye Hukuk Mahkemesi
+KARAR TARİHİ: 09/10/2018
+KONU    : Tazminat – İspat Yükü – HMK m.190
+DURUM   : KESİNLEŞTİ
+───────────────────────────────────────────────────────────────────────────────
+
+DAVA: Davacı, davalının kendisine ticari sır niteliğindeki rekabete aykırı bilgileri ifşa
+ettiğini ve maddi zarar verdiğini ileri sürerek 120.000 TL tazminat talep etmiştir.
+
+HUKUKA UYGULANMASI:
+6100 sayılı HMK'nın 190. maddesi uyarınca ispat yükü, iddia edilen vakıaya bağlanan hukuki
+sonuçtan kendi lehine hak çıkaran tarafa aittir. Mahkeme; davacının zararını ve davalının
+eylemi ile zarar arasındaki illiyet bağını ispatlayamadığını tespit etmiştir.
+
+6098 sayılı TBK m.50/1 gereğince zarar gören, zararını ve illiyet bağını ispat etmekle
+yükümlüdür; 818 sayılı BK m.42 kapsamındaki içtihat bu yönde süregelmektedir.
+
+SONUÇ VE HÜKÜM:
+1. İlliyetin ispatlanamaması nedeniyle davanın REDDİNE,
+2. Yargılama giderlerinin davacıdan tahsiline
+karar verilmiştir.
+
+───────────────────────────────────────────────────────────────────────────────
+KARAR NO: 2015/8821 E. – 2016/3312 K.
+MAHKEME  : İstanbul 3. İş Mahkemesi
+KARAR TARİHİ: 14/12/2016
+KONU    : İşe İade – Zorunlu Arabuluculuktan Önce (Eski Usul)
+DURUM   : YARGITAY'DA SONUÇLANDI
+───────────────────────────────────────────────────────────────────────────────
+
+NOT: Bu dava, 7036 sayılı İş Mahkemeleri Kanunu ile 25/10/2017'de yürürlüğe giren zorunlu
+arabuluculuk şartından önce ihbar edilmiş olup doğrudan mahkemeye başvurulmuştur.
+
+DAVA: Davacı Yusuf Güneş, üretim müdürü olarak görev yaptığı fabrikadan performans yetersizliği
+gerekçesiyle çıkarıldığını ancak söz konusu gerekçenin gerçeği yansıtmadığını ileri sürerek
+işe iade ve tazminat talebinde bulunmuştur.
+
+HUKUKA UYGULANMASI:
+4857 sayılı İK m.18 uyarınca performans yetersizliği tek başına geçerli fesih sebebi sayılsa
+da performans değerlendirmesinin şeffaf kriterlere göre yapılması ve işçinin önceden
+uyarılmış olması zorunludur. Yargıtay 9. HD'nin 24.02.2014 tarih, 2013/32411 E.,
+2014/5881 K. sayılı kararı bu kriterleri ayrıntılı biçimde belirlemiştir.
+
+SONUÇ VE HÜKÜM:
+1. Feshin GEÇERSİZLİĞİNE,
+2. İşe İADEYE,
+3. Boşta geçen 4 aylık ücretin ödenmesine
+karar verilmiş; karar Yargıtay'ca onanmıştır.

@@ -1,0 +1,1049 @@
+[
+  {
+    "node_id": "TBK_M1",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 1 sözleşmenin kurulması tarafların karşılıklı ve birbirine uygun irade açıklamalarıyla sözleşme kurulmuş olur",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 1,
+      "madde_basligi": "Sözleşmenin Kurulması",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "mulga_tarihi": null,
+      "onceki_duzenleme": "818 sayılı BK m.1",
+      "konu": "sözleşmenin kurulması, irade açıklaması",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M1_F1", "TBK_M1_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M1_F1",
+    "node_type": "fikra",
+    "embed_text": "Tarafların karşılıklı ve birbirine uygun irade açıklamalarıyla sözleşme kurulmuş olur.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 1,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "sözleşmenin kurucu unsurları, irade uyuşması",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M1"
+    }
+  },
+  {
+    "node_id": "TBK_M1_F2",
+    "node_type": "fikra",
+    "embed_text": "İrade açıklaması açık veya örtülü olabilir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 1,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "irade açıklaması türleri, örtülü irade açıklaması",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M1"
+    }
+  },
+  {
+    "node_id": "TBK_M2",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 2 ön sözleşme bir sözleşmenin ileride kurulmasına ilişkin sözleşme edimlerin esaslı noktalarında uyuşma",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 2,
+      "madde_basligi": "Ön Sözleşme",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "mulga_tarihi": null,
+      "onceki_duzenleme": "818 sayılı BK m.22",
+      "konu": "ön sözleşme, bağlayıcılık",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M2_F1", "TBK_M2_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M2_F1",
+    "node_type": "fikra",
+    "embed_text": "Bir sözleşmenin ileride kurulmasına ilişkin sözleşme, bu sözleşmenin esas noktalarını kapsaması koşuluyla kurulmuş sayılır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 2,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "ön sözleşmenin geçerlilik koşulları",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M2"
+    }
+  },
+  {
+    "node_id": "TBK_M2_F2",
+    "node_type": "fikra",
+    "embed_text": "Kanunda öngörülen istisnalar dışında ön sözleşmelerin geçerliliği asıl sözleşmenin şekline bağlıdır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 2,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "ön sözleşmede şekil",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M2"
+    }
+  },
+  {
+    "node_id": "TBK_M19",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 19 sözleşmenin içeriğinin belirlenmesi taraflar sözleşmenin içeriğini kanunda öngörülen sınırlar içinde serbestçe belirleyebilir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 19,
+      "madde_basligi": "Sözleşme Özgürlüğü",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.19",
+      "konu": "sözleşme özgürlüğü, içerik serbestisi",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M19_F1", "TBK_M19_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M19_F1",
+    "node_type": "fikra",
+    "embed_text": "Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde özgürce belirleyebilirler.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 19,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "sözleşme özgürlüğü ilkesi",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M19"
+    }
+  },
+  {
+    "node_id": "TBK_M19_F2",
+    "node_type": "fikra",
+    "embed_text": "Sözleşme içeriğinin belirlenmesinde özellikle genel ahlaka, kamu düzenine, kişilik haklarına ilişkin kurallara ve emredici hukuk kurallarına aykırı düzenlemeler yapılamaz.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 19,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "sözleşme özgürlüğünün sınırları, emredici hukuk",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M19"
+    }
+  },
+  {
+    "node_id": "TBK_M20",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 20 genel işlem koşulları bir sözleşme yapılırken düzenleyenin ileride çok sayıda benzer sözleşmede kullanmak amacıyla önceden hazırlayıp karşı tarafa sunduğu sözleşme koşulları",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 20,
+      "madde_basligi": "Genel İşlem Koşulları – Kapsam",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK döneminde içtihat yoluyla geliştirilmiş, TBK ile kodifiye edilmiştir",
+      "konu": "genel işlem koşulları, standart sözleşme",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M20_F1", "TBK_M20_F2", "TBK_M20_F3"]
+    }
+  },
+  {
+    "node_id": "TBK_M20_F1",
+    "node_type": "fikra",
+    "embed_text": "Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride çok sayıda benzer sözleşmede kullanmak amacıyla, önceden, tek başına hazırlayıp karşı tarafa sunduğu sözleşme hükümleridir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 20,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "genel işlem koşullarının tanımı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M20"
+    }
+  },
+  {
+    "node_id": "TBK_M20_F2",
+    "node_type": "fikra",
+    "embed_text": "Bu koşulların, sözleşme metninde veya ekinde yer alması, kapsamı, yazı türü ve şekli, niteliğini etkilemez.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 20,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "genel işlem koşullarının biçimi",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M20"
+    }
+  },
+  {
+    "node_id": "TBK_M20_F3",
+    "node_type": "fikra",
+    "embed_text": "Aynı amaçla düzenlenen sözleşmelerin içerikleri bakımından ortaya çıkan genel hatlar da genel işlem koşulu sayılır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 20,
+      "fikra_no": 3,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "genel işlem koşulları kapsamı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M20"
+    }
+  },
+  {
+    "node_id": "TBK_M21",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 21 genel işlem koşullarının sözleşme kapsamına girmesi yazılı sözleşmelerde karşı tarafın bu koşulların içeriğini öğrenme imkânı",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 21,
+      "madde_basligi": "Genel İşlem Koşulları – Kapsama Girmesi",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": null,
+      "konu": "genel işlem koşullarının bağlayıcılığı, şaşırtıcı şartlar",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M21_F1", "TBK_M21_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M21_F1",
+    "node_type": "fikra",
+    "embed_text": "Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin kapsamına girmesi için, düzenleyenin sözleşme kurulurken karşı tarafa koşulların varlığı hakkında açıkça bilgi vermesi ve bunların içeriğini öğrenmesine makul ölçüde olanak tanıması gerekir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 21,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "genel işlem koşullarına dahil olma şartları, bilgilendirme yükümlülüğü",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M21"
+    }
+  },
+  {
+    "node_id": "TBK_M21_F2",
+    "node_type": "fikra",
+    "embed_text": "Genel işlem koşullarından olan şaşırtıcı koşullar, sözleşmenin kapsamına girmez; bir koşul, içeriği, açıkça belirtilmemiş olsa bile yaygın kullanım ve karşı tarafın bu esnadaki meşru beklentileri dışına çıkıyorsa şaşırtıcı sayılır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 21,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "şaşırtıcı şartlar genel işlem koşulları",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M21"
+    }
+  },
+  {
+    "node_id": "TBK_M25",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 25 genel işlem koşullarına itiraz ve denetim sözleşme içeriğine denetim hakkı",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 25,
+      "madde_basligi": "Genel İşlem Koşulları – İçerik Denetimi",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "genel işlem koşulları içerik denetimi, dürüstlük kuralı",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M25_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M25_F1",
+    "node_type": "fikra",
+    "embed_text": "Genel işlem koşullarına, dürüstlük kurallarına aykırı olarak, karşı tarafın aleyhine olan koşullar sözleşme kapsamında sayılmaz.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 25,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "genel işlem koşulları hakkaniyet denetimi",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M25"
+    }
+  },
+  {
+    "node_id": "TBK_M41_MULGA",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu eski madde 41 Borçlar Kanunu 818 haksız fiil genel hükmü mülga madde 49 ile yeniden düzenlenmiştir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 41,
+      "madde_basligi": "Haksız Fiil [MÜLGA]",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": true,
+      "mulga_tarihi": "2012-07-01",
+      "yerine_gecen_madde": "TBK m.49",
+      "aciklama": "818 sayılı BK m.41 hükmü TBK m.49 ile yeniden kaleme alınmış ve bu numara kullanılmamıştır",
+      "konu": "haksız fiil [mülga]",
+      "hukuk_dali": "borçlar hukuku"
+    }
+  },
+  {
+    "node_id": "TBK_M49",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 49 haksız fiil sorumluluğu kusurlu ve hukuka aykırı bir fiille başkasına zarar veren bu zararı gidermekle yükümlüdür",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 49,
+      "madde_basligi": "Haksız Fiil – Genel Hüküm",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.41",
+      "konu": "haksız fiil sorumluluğu, kusur, hukuka aykırılık",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M49_F1", "TBK_M49_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M49_F1",
+    "node_type": "fikra",
+    "embed_text": "Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 49,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "haksız fiil sorumluluğunun unsurları: zarar, kusur, hukuka aykırılık",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M49"
+    }
+  },
+  {
+    "node_id": "TBK_M49_F2",
+    "node_type": "fikra",
+    "embed_text": "Zarar verici fiil yararlı bir işin görülmesi sırasında meydana gelmiş olsa bile bu sorumluluk doğar.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 49,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "yararlı işlerde zarar sorumluluğu",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M49"
+    }
+  },
+  {
+    "node_id": "TBK_M51",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 51 tazminatın belirlenmesi hâkim tazminatın kapsamını ve ödenme biçimini belirlerken zarar ile kusur oranını ve hâlin gereklerini göz önünde tutar",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 51,
+      "madde_basligi": "Tazminatın Belirlenmesi",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.43",
+      "konu": "tazminat miktarı takdir hakkı, kusur oranı",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M51_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M51_F1",
+    "node_type": "fikra",
+    "embed_text": "Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve özellikle kusurun ağırlığını göz önünde tutarak belirler.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 51,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "hâkimin tazminat takdiri, kusur ağırlığı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M51"
+    }
+  },
+  {
+    "node_id": "TBK_M83_MULGA",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu eski madde 83 borçlunun temerrüdü teslim yükümlülüğü yabancı para mülga madde 99 ile yeniden düzenlenmiştir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 83,
+      "madde_basligi": "Para Borçları [MÜLGA]",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": true,
+      "mulga_tarihi": "2012-07-01",
+      "yerine_gecen_madde": "TBK m.99",
+      "konu": "para borçları [mülga]",
+      "hukuk_dali": "borçlar hukuku"
+    }
+  },
+  {
+    "node_id": "TBK_M97",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 97 defi hakkı ödemezlik def'i karşılıklı borçlarda taraflardan biri borcunu ifa etmedikçe diğeri de borcunu ifadan kaçınabilir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 97,
+      "madde_basligi": "Ödemezlik Def'i",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.81",
+      "konu": "ödemezlik def'i, karşılıklı sözleşme, ifa",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M97_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M97_F1",
+    "node_type": "fikra",
+    "embed_text": "Karşılıklı borç yükleyen bir sözleşmede taraflardan biri, karşı taraf edimini ifa etmedikçe veya ifa için güvence vermedikçe, kendi edimini ifadan kaçınabilir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 97,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "ödemezlik def'i uygulaması",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M97"
+    }
+  },
+  {
+    "node_id": "TBK_M99",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 99 para borçları yabancı para borcunda ülke parası ile ödeme kur farkı alacaklının ülke parası ile ödeme isteminde bulunma hakkı",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 99,
+      "madde_basligi": "Para Borçları – Yabancı Para",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.83",
+      "konu": "yabancı para borcu, kur, ülke parası ile ödeme",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M99_F1", "TBK_M99_F2", "TBK_M99_F3"]
+    }
+  },
+  {
+    "node_id": "TBK_M99_F1",
+    "node_type": "fikra",
+    "embed_text": "Yabancı para üzerinden yapılan sözleşme, aksi kararlaştırılmamışsa veya durumun gerekli kılmadığı anlaşılmıyorsa, ülke parasıyla ödenebilir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 99,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "yabancı para borcunda ülke parası ile ödeme imkânı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M99"
+    }
+  },
+  {
+    "node_id": "TBK_M99_F2",
+    "node_type": "fikra",
+    "embed_text": "Bu ödeme günün rayiciyle yapılır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 99,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "ödeme günü kuru esas alınması",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M99"
+    }
+  },
+  {
+    "node_id": "TBK_M99_F3",
+    "node_type": "fikra",
+    "embed_text": "Vade veya ödeme gününde borçlunun temerrüde düşmesi durumunda alacaklı, borcun vade veya ödeme günündeki ya da fiili ödeme günündeki rayiçten hangisi daha yüksekse ona göre ülke parasıyla ödeme yapılmasını isteyebilir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 99,
+      "fikra_no": 3,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "temerrüt durumunda kur seçimi yüksek kur",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M99"
+    }
+  },
+  {
+    "node_id": "TBK_M112",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 112 borca aykırılık sözleşmeden doğan borçların ifa edilmemesi gereği gibi ifa edilmemesi veya geç ifa edilmesi halinde zarar ve ziyan tazminata hükmedilir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 112,
+      "madde_basligi": "Borca Aykırılığın Sonuçları – Tazminat",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.96",
+      "konu": "sözleşmeye aykırılık tazminatı, ifa etmeme, geç ifa",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M112_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M112_F1",
+    "node_type": "fikra",
+    "embed_text": "Borç hiç veya gereği gibi ifa edilmezse borçlu, alacaklının bundan doğan zararını gidermekle yükümlüdür; ancak borcun ifasının imkânsızlaştığını ispat etmesi hâlinde bu yükümlülükten kurtulur.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 112,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "borca aykırılık tazminatı, imkânsızlık ispatı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M112"
+    }
+  },
+  {
+    "node_id": "TBK_M117_V1",
+    "node_type": "madde_versiyon",
+    "embed_text": "Türk Borçlar Kanunu madde 117 temerrüt muaccel bir borcun borçlusu alacaklının ihtarıyla temerrüde düşer 2012 tarihli ilk hali",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "versiyon": 1,
+      "madde_basligi": "Temerrüt [2012 Hali]",
+      "yururluk_tarihi": "2012-07-01",
+      "gecerlilik_bitis_tarihi": "2016-07-12",
+      "mulga_mi": true,
+      "degistiren_kanun": "6728 sayılı Kanun",
+      "konu": "borçlunun temerrüdü, ihtar, muacceliyet",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M117_V1_F1", "TBK_M117_V1_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M117_V1_F1",
+    "node_type": "fikra",
+    "embed_text": "Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "fikra_no": 1,
+      "versiyon": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "gecerlilik_bitis_tarihi": "2016-07-12",
+      "mulga_mi": true,
+      "konu": "temerrüt şartı, ihtar gerekliliği",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M117_V1"
+    }
+  },
+  {
+    "node_id": "TBK_M117_V1_F2",
+    "node_type": "fikra",
+    "embed_text": "Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı tutulan bir hakka dayanılarak taraflardan biri tarafından belirlenmiş ise borçlu, o günün geçmesiyle temerrüde düşmüş olur.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "fikra_no": 2,
+      "versiyon": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "gecerlilik_bitis_tarihi": "2016-07-12",
+      "mulga_mi": true,
+      "konu": "temerrütsüz temerrüt muayyen gün",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M117_V1"
+    }
+  },
+  {
+    "node_id": "TBK_M117_V2",
+    "node_type": "madde_versiyon",
+    "embed_text": "Türk Borçlar Kanunu madde 117 temerrüt 6728 sayılı Kanun ile değiştirilmiş hali 13 Temmuz 2016 sonrası belirli eder işe temerrüt ihtar olmaksızın gerçekleşir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "versiyon": 2,
+      "madde_basligi": "Temerrüt [6728 Sayılı Kanun Sonrası – 13/07/2016]",
+      "yururluk_tarihi": "2016-07-13",
+      "mulga_mi": false,
+      "degistiren_kanun": "6728 sayılı Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "onceki_versiyon": "TBK_M117_V1",
+      "konu": "temerrüt, ihtarsız temerrüt, belirli eder işler",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M117_V2_F1", "TBK_M117_V2_F2", "TBK_M117_V2_F3"]
+    }
+  },
+  {
+    "node_id": "TBK_M117_V2_F1",
+    "node_type": "fikra",
+    "embed_text": "Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "fikra_no": 1,
+      "versiyon": 2,
+      "yururluk_tarihi": "2016-07-13",
+      "mulga_mi": false,
+      "konu": "temerrüt genel kural, ihtar",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M117_V2"
+    }
+  },
+  {
+    "node_id": "TBK_M117_V2_F2",
+    "node_type": "fikra",
+    "embed_text": "Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı tutulan bir hakka dayanılarak taraflardan biri tarafından belirlenmiş ise borçlu, o günün geçmesiyle temerrüde düşmüş olur. Belirli eder işlerde ise borçlu, belirlenen sürenin geçmesiyle ihbar gerekmeksizin temerrüde düşer.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "fikra_no": 2,
+      "versiyon": 2,
+      "yururluk_tarihi": "2016-07-13",
+      "mulga_mi": false,
+      "konu": "belirli eder işlerde ihtarsız temerrüt",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M117_V2"
+    }
+  },
+  {
+    "node_id": "TBK_M117_V2_F3",
+    "node_type": "fikra",
+    "embed_text": "Sözleşmede aksine bir hüküm bulunmadıkça, faiz borcunda temerrüt, ayrıca ihtara gerek olmaksızın faizin muaccel olduğu tarihte gerçekleşir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 117,
+      "fikra_no": 3,
+      "versiyon": 2,
+      "yururluk_tarihi": "2016-07-13",
+      "mulga_mi": false,
+      "konu": "faiz borcunda ihtarsız temerrüt",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M117_V2"
+    }
+  },
+  {
+    "node_id": "TBK_M120",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 120 temerrüt faizi temerrüde düşen borçlu sözleşmede daha yüksek bir faiz oranı kararlaştırılmamışsa yasal faiz ödemekle yükümlüdür",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 120,
+      "madde_basligi": "Temerrüt Faizi",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.103",
+      "konu": "temerrüt faizi, yasal faiz oranı",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M120_F1", "TBK_M120_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M120_F1",
+    "node_type": "fikra",
+    "embed_text": "Bir para borcunun ödenmesinde temerrüde düşen borçlu, sözleşmede daha yüksek bir faiz oranı kararlaştırılmamışsa, vade veya ihtar tarihinden itibaren yasal faiz işletilmesini kabul etmekle yükümlüdür.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 120,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "para borcu temerrüt faizi başlangıç",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M120"
+    }
+  },
+  {
+    "node_id": "TBK_M120_F2",
+    "node_type": "fikra",
+    "embed_text": "Birinci fıkra uyarınca asgari olarak ödenmesi gereken yasal faizin oranı, yüzde beştir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 120,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "yasal faiz oranı yüzde beş",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M120"
+    }
+  },
+  {
+    "node_id": "TBK_M207",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 207 satış sözleşmesi satıcı satılanı alıcıya teslim ve mülkiyetini geçirme borcunu üstlenir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 207,
+      "madde_basligi": "Satış Sözleşmesinin Tanımı",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.182",
+      "konu": "satış sözleşmesi tanımı, satıcı borçları",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M207_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M207_F1",
+    "node_type": "fikra",
+    "embed_text": "Satış sözleşmesi, satıcının satılanın mülkiyetini alıcıya devretmeyi ve alıcının da buna karşılık bir bedel ödemeyi üstlendiği sözleşmedir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 207,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "satış sözleşmesinin tanımı ve temel unsurları",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M207"
+    }
+  },
+  {
+    "node_id": "TBK_M219",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 219 ayıptan sorumluluk satıcı alıcıya karşı satılanın ayıplarından sorumludur satılanda satıcı tarafından üstlenilen niteliklerin bulunmaması veya değerini azaltan eksiklikler ayıp sayılır",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 219,
+      "madde_basligi": "Ayıptan Sorumluluk",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.194",
+      "konu": "satıcının ayıptan sorumluluğu, ayıp tanımı",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M219_F1", "TBK_M219_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M219_F1",
+    "node_type": "fikra",
+    "embed_text": "Satıcı, satılanı kararlaştırılan niteliklere sahip olmak ve satılanın değerini veya alıcının ondan beklediği yararı ortadan kaldıran ya da önemli ölçüde azaltan maddi, hukuki ya da ekonomik ayıplardan arî olarak teslim etmekle yükümlüdür.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 219,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "ayıpsız teslim yükümlülüğü, maddi-hukuki-ekonomik ayıp",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M219"
+    }
+  },
+  {
+    "node_id": "TBK_M219_F2",
+    "node_type": "fikra",
+    "embed_text": "Satıcı, bu ayıpların varlığını bilmese bile onlardan sorumludur.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 219,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "satıcının kusursuz ayıp sorumluluğu",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M219"
+    }
+  },
+  {
+    "node_id": "TBK_M220",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 220 ayıptan sorumluluğun kaldırılması satıcı alıcıya karşı üstlendiği ayıptan sorumluluğu ortadan kaldıran veya sınırlayan bir anlaşma yapamaz",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 220,
+      "madde_basligi": "Ayıptan Sorumluluğun Kaldırılması",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.195",
+      "konu": "ayıp sorumluluğunu kaldıran anlaşmaların geçersizliği",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M220_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M220_F1",
+    "node_type": "fikra",
+    "embed_text": "Satıcı, alıcıyı bilerek yanıltmışsa, ayıptan doğan sorumluluğunu ortadan kaldıran veya sınırlayan her anlaşma geçersizdir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 220,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "hileli ayıp halinde sorumluluk sınırlandırma geçersizliği",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M220"
+    }
+  },
+  {
+    "node_id": "TBK_M231",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 231 tüketici satışları tüketiciye yönelik satışlardan doğan uyuşmazlıklarda 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri uygulanır",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 231,
+      "madde_basligi": "Tüketici Satışları",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "kismi_mulga": true,
+      "kismi_mulga_aciklama": "6502 sayılı TKHK ile tüketiciye yönelik satışlar kısmen bu madde kapsamından çıkarılmıştır (28/05/2014)",
+      "onceki_duzenleme": "818 sayılı BK döneminde özel düzenleme yoktu",
+      "konu": "tüketici satışlarında özel kanun uygulaması",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M231_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M231_F1",
+    "node_type": "fikra",
+    "embed_text": "Tüketiciye yönelik satışlar, özel kanun hükümlerine tabidir; bu kanunda hüküm bulunmayan hâllerde genel hükümler uygulanır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 231,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "tüketici satışlarında özel kanun önceliği",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M231"
+    }
+  },
+  {
+    "node_id": "TBK_M352",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 352 kiracının temerrüdü kira sözleşmesi kiraya veren kiracının muaccel kira bedelini ödememesi halinde sözleşmeyi feshedebilir",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 352,
+      "madde_basligi": "Kiracının Temerrüdü Nedeniyle Tahliye",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.260",
+      "konu": "kira temerrüdü, tahliye, iki haklı ihtar",
+      "hukuk_dali": "borçlar hukuku – kira hukuku",
+      "fikralar": ["TBK_M352_F1", "TBK_M352_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M352_F1",
+    "node_type": "fikra",
+    "embed_text": "Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini veya yan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak bir süre verip, bu sürede de ifa etmemesi hâlinde, sözleşmeyi feshedebileceğini bildirebilir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 352,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "kira temerrüdünde ihtar ve süre verme",
+      "hukuk_dali": "borçlar hukuku – kira hukuku",
+      "ust_node": "TBK_M352"
+    }
+  },
+  {
+    "node_id": "TBK_M352_F2",
+    "node_type": "fikra",
+    "embed_text": "Kiracı bu süre içinde kira bedelini ve yan gideri ödemezse kiraya veren, kira sözleşmesini hemen feshedebilir; aksi takdirde fesih hakkı sona erer.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 352,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "süre geçiminde kira feshi hakkı",
+      "hukuk_dali": "borçlar hukuku – kira hukuku",
+      "ust_node": "TBK_M352"
+    }
+  },
+  {
+    "node_id": "TBK_M393",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 393 vekâlet sözleşmesi vekil üstlendiği işi ve görevi sadakat ve özenle yönetmek müvekkil yararı gözetmek borçludur",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 393,
+      "madde_basligi": "Vekâlet Sözleşmesi – Tanım ve Borçlar",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.386",
+      "konu": "vekâlet sözleşmesi, sadakat-özen borcu",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M393_F1", "TBK_M393_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M393_F1",
+    "node_type": "fikra",
+    "embed_text": "Vekâlet sözleşmesi, vekilin vekâlet verenin bir işini görmeyi veya işlemini yapmayı üstlendiği sözleşmedir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 393,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "vekâlet sözleşmesinin tanımı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M393"
+    }
+  },
+  {
+    "node_id": "TBK_M393_F2",
+    "node_type": "fikra",
+    "embed_text": "Vekil, üstlendiği işi sözleşmeye uygun ve işin niteliği gerektirdiği özenle yapmak, vekil edenin açık talimatına uymak zorundadır.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 393,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "vekilin özen borcu, talimata uyum",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M393"
+    }
+  },
+  {
+    "node_id": "TBK_M421",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 421 acentelik sözleşmesi acente müvekkil işletmesi hesabına belirli bir bölgede sürekli olarak ticari temsilcilik veya aracılık yapar",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 421,
+      "madde_basligi": "Acentelik Sözleşmesi",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK – Türk Ticaret Kanunu hükümleri ile düzenleniyordu",
+      "konu": "acentelik sözleşmesi tanımı",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M421_F1"]
+    }
+  },
+  {
+    "node_id": "TBK_M421_F1",
+    "node_type": "fikra",
+    "embed_text": "Acentelik sözleşmesi, acentenin müvekkili adına veya hesabına sözleşme yapma ya da sözleşme yapılmasına aracılık etme borcunu üstlendiği, müvekkelin de bu hizmet karşılığında bir ücret ödemeyi üstlendiği sözleşmedir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 421,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "acentelik sözleşmesinin tanımı ve unsurları",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M421"
+    }
+  },
+  {
+    "node_id": "TBK_M480",
+    "node_type": "madde",
+    "embed_text": "Türk Borçlar Kanunu madde 480 eser sözleşmesi bedel götürü bedel belirlenmiş ise yüklenici eseri o bedelle yapmak zorundadır fazla gider veya emek harcasa bile bedel artırımı talep edemez",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 480,
+      "madde_basligi": "Eser Sözleşmesi – Götürü Bedel",
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "onceki_duzenleme": "818 sayılı BK m.365",
+      "konu": "eser sözleşmesi götürü bedel, bedel artırımı yasağı",
+      "hukuk_dali": "borçlar hukuku",
+      "fikralar": ["TBK_M480_F1", "TBK_M480_F2"]
+    }
+  },
+  {
+    "node_id": "TBK_M480_F1",
+    "node_type": "fikra",
+    "embed_text": "Götürü bedel kararlaştırılmışsa yüklenici, eseri o bedelle yapmakla yükümlüdür; öngörülenden fazla emek ve masraf gerektiği iddiasıyla iş sahibinden ek ödeme isteyemez.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 480,
+      "fikra_no": 1,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "eser sözleşmesi götürü bedel bağlayıcılığı",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M480"
+    }
+  },
+  {
+    "node_id": "TBK_M480_F2",
+    "node_type": "fikra",
+    "embed_text": "Öngörülemeyen esaslı nedenler ve özellikle eserin yapımını uzatan ya da güçleştiren hâllerin ortaya çıkması durumunda yüklenici, zamanında bildirmek koşuluyla hâkimden sözleşmenin yeni koşullara uyarlanmasını veya bozulmasını talep edebilir.",
+    "metadata": {
+      "kanun_no": 6098,
+      "kanun_kisaltma": "TBK",
+      "madde_no": 480,
+      "fikra_no": 2,
+      "yururluk_tarihi": "2012-07-01",
+      "mulga_mi": false,
+      "konu": "eser sözleşmesi öngörülemeyen hal uyarlaması",
+      "hukuk_dali": "borçlar hukuku",
+      "ust_node": "TBK_M480"
+    }
+  }
+]

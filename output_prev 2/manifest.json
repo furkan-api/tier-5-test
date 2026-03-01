@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "built_at": "2026-03-01T13:24:39.784379+00:00",
+  "build_duration_sec": 3.7,
+  "embedding_provider": "SentenceTransformerEmbedder",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dimension": 384,
+  "total_nodes": 306,
+  "total_edges": 1713,
+  "node_types": {
+    "kanun": 4,
+    "karar": 46,
+    "karar_gerekce": 46,
+    "madde": 67,
+    "fikra": 133,
+    "madde_versiyon": 8,
+    "bent": 2
+  },
+  "edge_types": {
+    "ICERIR": 187,
+    "SEMANTIK_BENZER": 109,
+    "ATIF_YAPAR": 140,
+    "KANUN_YOLU": 12,
+    "GEREKCESI": 46,
+    "AYNI_KANUN": 1098,
+    "UST_NODE": 121
+  },
+  "data_files": [
+    "kanunlar.json",
+    "kararlar_bam.json",
+    "kararlar_ilk_derece.json",
+    "kararlar_yargitay.json",
+    "maddeler_hmk.json",
+    "maddeler_ik.json",
+    "maddeler_tbk.json",
+    "maddeler_tmk.json"
+  ]
+}

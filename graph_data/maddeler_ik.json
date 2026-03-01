@@ -1,0 +1,605 @@
+[
+  {
+    "node_id": "IK_M1",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 1 amaç ve kapsam bu kanun işverenler ile bir iş sözleşmesine dayanarak çalıştırılan işçilerin çalışma koşullarını ve çalışma ortamına ilişkin hak ve sorumluluklarını düzenler",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 1,
+      "madde_basligi": "Amaç ve Kapsam",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK m.1",
+      "konu": "iş kanununun amacı ve kapsamı",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M1_F1", "IK_M1_F2"]
+    }
+  },
+  {
+    "node_id": "IK_M1_F1",
+    "node_type": "fikra",
+    "embed_text": "Bu kanun, 4 üncü maddedeki istisnalar saklı kalmak üzere işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine ve işçilerine faaliyet konularına bakılmaksızın uygulanır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 1, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "4857 sayılı İK'nın genel uygulama alanı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M1"
+    }
+  },
+  {
+    "node_id": "IK_M1_F2",
+    "node_type": "fikra",
+    "embed_text": "Bu kanunun uygulanması bakımından işyeri, işveren, işveren vekili ve işçi kavramları 2 nci maddede tanımlanmıştır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 1, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "temel kavramların tanımına yollama",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M1"
+    }
+  },
+  {
+    "node_id": "IK_M5",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 5 eşit davranma ilkesi iş ilişkisinde dil ırk renk cinsiyet engelli siyasal düşünce felsefi inanç din mezhep ve benzeri sebeplere dayalı ayrım yapılamaz",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 5,
+      "madde_basligi": "Eşit Davranma İlkesi",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK'da bu düzenlemede yer almıyordu; TBK genel hükümleri uygulanıyordu",
+      "konu": "işçilere eşit davranma, ayrımcılık yasağı, tazminat",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M5_F1", "IK_M5_F2", "IK_M5_F3", "IK_M5_F4", "IK_M5_F5"]
+    }
+  },
+  {
+    "node_id": "IK_M5_F1",
+    "node_type": "fikra",
+    "embed_text": "İş ilişkisinde dil, ırk, renk, cinsiyet, engelli olma, siyasal düşünce, felsefî inanç, din ve mezhep ve benzeri sebeplere dayalı ayrım yapılamaz.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 5, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ayrımcılık yasağı kapsamı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M5"
+    }
+  },
+  {
+    "node_id": "IK_M5_F2",
+    "node_type": "fikra",
+    "embed_text": "İşveren, esaslı sebepler olmadıkça tam süreli çalışan işçi karşısında kısmî süreli çalışan işçiye, belirsiz süreli çalışan işçi karşısında belirli süreli çalışan işçiye farklı işlem yapamaz.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 5, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "tam/kısmi süreli ve belirli/belirsiz süreli sözleşmelerde eşitlik",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M5"
+    }
+  },
+  {
+    "node_id": "IK_M5_F3",
+    "node_type": "fikra",
+    "embed_text": "İşveren, biyolojik veya işin niteliğine ilişkin sebepler zorunlu kılmadıkça, bir işçiye, iş sözleşmesinin yapılmasında, şartlarının oluşturulmasında, uygulanmasında ve sona ermesinde, cinsiyet veya gebelik nedeniyle doğrudan veya dolaylı farklı işlem yapamaz.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 5, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "cinsiyet ve gebelik ayrımı yasağı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M5"
+    }
+  },
+  {
+    "node_id": "IK_M5_F4",
+    "node_type": "fikra",
+    "embed_text": "Aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret kararlaştırılamaz.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 5, "fikra_no": 4,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "eşit işe eşit ücret ilkesi cinsiyete dayalı ücret farkı yasağı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M5"
+    }
+  },
+  {
+    "node_id": "IK_M5_F5",
+    "node_type": "fikra",
+    "embed_text": "İşçinin 4 üncü fıkra dahil bu madde hükümlerine aykırı davranışı nedeniyle uğradığı zarar için dört aya kadar ücreti tutarındaki uygun bir tazminattan başka yoksun bırakıldığı haklarını da talep edebilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 5, "fikra_no": 5,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ayrımcılık tazminatı dört aya kadar ücret artı haklar",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M5"
+    }
+  },
+  {
+    "node_id": "IK_M8",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 8 iş sözleşmesi tanımı iş sözleşmesi bir tarafın bağımlı olarak iş görmeyi diğer tarafın da ücret ödemeyi üstlendiği sözleşmedir",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 8,
+      "madde_basligi": "İş Sözleşmesinin Tanımı ve Şekli",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK m.8",
+      "konu": "iş sözleşmesi tanımı, bağımlılık unsuru",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M8_F1", "IK_M8_F2", "IK_M8_F3"]
+    }
+  },
+  {
+    "node_id": "IK_M8_F1",
+    "node_type": "fikra",
+    "embed_text": "İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın (işveren) da ücret ödemeyi üstlenmesinden oluşan sözleşmedir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 8, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "iş sözleşmesinin tanımı ve unsurları: iş – ücret – bağımlılık",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M8"
+    }
+  },
+  {
+    "node_id": "IK_M8_F2",
+    "node_type": "fikra",
+    "embed_text": "Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması zorunludur. Bu belgeler damga vergisi ve her çeşit resim ve harçtan muaftır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 8, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "bir yıl ve üzeri iş sözleşmelerinde yazılı şekil zorunluluğu",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M8"
+    }
+  },
+  {
+    "node_id": "IK_M8_F3",
+    "node_type": "fikra",
+    "embed_text": "Yazılı sözleşme yapılmayan hâllerde işveren işçiye en geç iki ay içinde genel ve özel çalışma koşullarını, günlük ya da haftalık çalışma süresini, temel ücreti ve varsa ücret eklerini, ücret ödeme dönemini, süresi belirli ise sözleşmenin süresini, fesih hâlinde tarafların uymak zorunda oldukları bildirim sürelerini ve varsa toplu iş sözleşmesini bildirmekle yükümlüdür.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 8, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "yazısız sözleşmede işverenin bilgilendirme yükümlülüğü",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M8"
+    }
+  },
+  {
+    "node_id": "IK_M11",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 11 belirli süreli iş sözleşmesi esaslı neden olmaksızın birden fazla üst üste yapılan belirli süreli iş sözleşmeleri belirsiz süreli iş sözleşmesine dönüşür zincirleme sözleşme",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 11,
+      "madde_basligi": "Belirli Süreli İş Sözleşmesi",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK m.9",
+      "konu": "belirli süreli iş sözleşmesi, zincirleme sözleşme yasağı",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M11_F1", "IK_M11_F2"]
+    }
+  },
+  {
+    "node_id": "IK_M11_F1",
+    "node_type": "fikra",
+    "embed_text": "İş ilişkisinin bir süreyle sınırlandırılması, bu sınırlandırmayı haklı kılacak esaslı bir nedenin bulunmasına bağlıdır. Aksi hâlde iş sözleşmesi belirsiz süreli sayılır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 11, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "belirli süreli sözleşme için esaslı neden şartı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M11"
+    }
+  },
+  {
+    "node_id": "IK_M11_F2",
+    "node_type": "fikra",
+    "embed_text": "Esaslı bir neden olmaksızın birden fazla üst üste (zincirleme) yapılan belirli süreli iş sözleşmeleri, belirsiz süreli iş sözleşmesi sayılır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 11, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "zincirleme belirli süreli sözleşmenin belirsiz süreli sayılması",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M11"
+    }
+  },
+  {
+    "node_id": "IK_M17",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 17 süreli fesih ve bildirim süreleri belirsiz süreli iş sözleşmesinin feshinde işçinin kıdemine göre ihbar süreleri iki dört altı sekiz hafta",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 17,
+      "madde_basligi": "Süreli Fesih – Bildirim Süresi",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK m.13",
+      "konu": "ihbar süreleri, kıdeme göre bildirim süreleri",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M17_F1", "IK_M17_F2", "IK_M17_F3"]
+    }
+  },
+  {
+    "node_id": "IK_M17_F1",
+    "node_type": "fikra",
+    "embed_text": "Belirsiz süreli iş sözleşmelerinin feshinden önce durumun diğer tarafa bildirilmesi gerekir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 17, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "belirsiz süreli sözleşme feshinde önceden bildirim zorunluluğu",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M17"
+    }
+  },
+  {
+    "node_id": "IK_M17_F2",
+    "node_type": "fikra",
+    "embed_text": "İş sözleşmeleri; a) İşi altı aydan az sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak iki hafta sonra, b) İşi altı aydan birbuçuk yıla kadar sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak dört hafta sonra, c) İşi birbuçuk yıldan üç yıla kadar sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak altı hafta sonra, d) İşi üç yıldan fazla sürmüş işçi için, bildirim yapılmasından başlayarak sekiz hafta sonra, feshedilmiş sayılır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 17, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "kıdeme göre ihbar süreleri: 2-4-6-8 hafta",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M17",
+      "bentler": ["IK_M17_F2_Ba", "IK_M17_F2_Bb", "IK_M17_F2_Bc", "IK_M17_F2_Bd"]
+    }
+  },
+  {
+    "node_id": "IK_M17_F2_Ba",
+    "node_type": "bent",
+    "embed_text": "İşi altı aydan az sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak iki hafta sonra iş sözleşmesi feshedilmiş sayılır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 17, "fikra_no": 2, "bent": "a",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "altı aydan az kıdeme sahip işçi için iki hafta ihbar süresi",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M17_F2"
+    }
+  },
+  {
+    "node_id": "IK_M17_F2_Bd",
+    "node_type": "bent",
+    "embed_text": "İşi üç yıldan fazla sürmüş işçi için, bildirimin diğer tarafa yapılmasından başlayarak sekiz hafta sonra iş sözleşmesi feshedilmiş sayılır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 17, "fikra_no": 2, "bent": "d",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "üç yıldan fazla kıdeme sahip işçi sekiz hafta ihbar süresi",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M17_F2"
+    }
+  },
+  {
+    "node_id": "IK_M17_F3",
+    "node_type": "fikra",
+    "embed_text": "Bu süreler asgari olup sözleşmeler ile artırılabilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 17, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ihbar sürelerinin asgari sınır niteliği, sözleşme ile artırılabilirlik",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M17"
+    }
+  },
+  {
+    "node_id": "IK_M18",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 18 feshin geçerli sebebe dayandırılması otuz ve daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan belirsiz süreli iş sözleşmesiyle çalışan işçinin iş sözleşmesi geçerli sebep olmaksızın feshedilemez",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 18,
+      "madde_basligi": "Feshin Geçerli Sebebe Dayandırılması",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK'da iş güvencesi kapsamlı olarak yer almıyordu",
+      "konu": "iş güvencesi, feshin geçerli sebebe dayandırılma zorunluluğu",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M18_F1", "IK_M18_F2", "IK_M18_F3"]
+    }
+  },
+  {
+    "node_id": "IK_M18_F1",
+    "node_type": "fikra",
+    "embed_text": "Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 18, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "iş güvencesi kapsamı: 30 işçi ve 6 ay kıdem şartı, geçerli sebep zorunluluğu",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M18"
+    }
+  },
+  {
+    "node_id": "IK_M18_F2",
+    "node_type": "fikra",
+    "embed_text": "Aşağıdaki hususlar fesih için geçerli bir sebep oluşturmaz: a) Sendika üyeliği veya çalışma saatleri dışında ya da işverenin rızası ile çalışma saatlerinde sendikal faaliyete katılmak. b) İşyeri sendika temsilciliği yapmak. c) Mevzuattan yönetmelikten iş sözleşmesinden veya toplu iş sözleşmesinden doğan haklarını kullanmak. d) Irk, renk, cinsiyet, medeni hal, aile yükümlülükleri, hamilelik, doğum, din, siyasi görüş ve benzeri nedenler. e) 74 üncü maddede öngörülen ve kadın işçilerin çalıştırılmasının yasak olduğu sürelerde işe gelmemek. f) Hastalık veya kaza nedeniyle 25 inci maddenin (I) numaralı bendinin (b) alt bendinde öngörülen bekleme süresinde işe geçici devamsızlık.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 18, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "geçerli neden sayılmayan fesih sebepleri",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M18"
+    }
+  },
+  {
+    "node_id": "IK_M18_F3",
+    "node_type": "fikra",
+    "embed_text": "İşçinin altı aylık kıdemi, aynı işverenin bir veya birkaç işyerinde geçen süreler birleştirilerek hesap edilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 18, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "iş güvencesi kıdem hesabı birleştirme kuralı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M18"
+    }
+  },
+  {
+    "node_id": "IK_M20",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 20 fesih bildirimine itiraz ve usul iş sözleşmesi feshedilen işçi fesih bildiriminde sebep gösterilmediğini veya geçerli sebep bulunmadığını iddia ediyorsa arabulucuya başvurarak feshin geçersizliği ve işe iade talebiyle dava açabilir",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 20,
+      "madde_basligi": "Feshe İtiraz ve Usul",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onemli_degisiklik": "7036 sayılı İş Mahkemeleri Kanunu (25/10/2017) ile arabuluculuk zorunlu dava şartı olarak eklenmiştir",
+      "konu": "işe iade davası, arabuluculuk dava şartı, otuz günlük süre",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M20_F1", "IK_M20_F2", "IK_M20_F3"]
+    }
+  },
+  {
+    "node_id": "IK_M20_F1",
+    "node_type": "fikra",
+    "embed_text": "İş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli bir sebep olmadığı iddiası ile fesih bildiriminin tebliği tarihinden itibaren bir ay içinde işe iade talebiyle, İş Mahkemeleri Kanunu hükümleri uyarınca arabulucuya başvurmak zorundadır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 20, "fikra_no": 1,
+      "yururluk_tarihi": "2017-10-25",
+      "onceki_versiyon_tarihi": "2003-06-10",
+      "degistiren_kanun": "7036 sayılı İş Mahkemeleri Kanunu",
+      "mulga_mi": false,
+      "konu": "işe iade talebinde zorunlu arabuluculuk, bir aylık başvuru süresi",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M20"
+    }
+  },
+  {
+    "node_id": "IK_M20_F2",
+    "node_type": "fikra",
+    "embed_text": "Arabuluculuk faaliyeti sonucunda anlaşma sağlanamaması hâlinde, son tutanağın düzenlendiği tarihten itibaren, iki hafta içinde iş mahkemesinde dava açılabilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 20, "fikra_no": 2,
+      "yururluk_tarihi": "2017-10-25",
+      "degistiren_kanun": "7036 sayılı İş Mahkemeleri Kanunu",
+      "mulga_mi": false,
+      "konu": "arabuluculuk anlaşmazlığı sonrası iki haftalık dava açma süresi",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M20"
+    }
+  },
+  {
+    "node_id": "IK_M20_F3",
+    "node_type": "fikra",
+    "embed_text": "Dava seri muhakeme usulüne göre iki ay içinde sonuçlandırılır. Mahkemece verilen kararın temyizi hâlinde Yargıtay, bir ay içinde kesin olarak karar verir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 20, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "işe iade davası iki aylık yargılama süresi, seri muhakeme",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M20"
+    }
+  },
+  {
+    "node_id": "IK_M21",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 21 geçersiz sebeple yapılan feshin sonuçları mahkeme feshi geçersiz sayarsa işveren dört aya kadar boşta geçen süre ücreti ve diğer hakları ödemekle yükümlü işçiyi bir ay içinde işe başlatmak zorunda",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 21,
+      "madde_basligi": "Geçersiz Sebeple Yapılan Feshin Sonuçları",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK'da işe iade kararı uygulaması öngörülmemişti",
+      "konu": "işe iade kararı, boşta geçen süre, işe başlatmama tazminatı",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M21_F1", "IK_M21_F2", "IK_M21_F3"]
+    }
+  },
+  {
+    "node_id": "IK_M21_F1",
+    "node_type": "fikra",
+    "embed_text": "İşverence geçerli sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı mahkemece veya özel hakem tarafından tespit edilerek feshin geçersizliğine karar verildiğinde, işveren, işçiyi bir ay içinde işe başlatmak zorundadır. İşçiyi başvurusu üzerine işveren bir ay içinde işe başlatmaz ise, işçiye en az dört aylık ve en çok sekiz aylık ücreti tutarında tazminat ödemekle yükümlü olur.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 21, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "işe başlatmama tazminatı 4-8 aylık ücret, bir aylık işe başlatma süresi",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M21"
+    }
+  },
+  {
+    "node_id": "IK_M21_F2",
+    "node_type": "fikra",
+    "embed_text": "Kararın kesinleşmesine kadar çalıştırılmadığı süre için işçiye en çok dört aya kadar doğmuş bulunan ücret ve diğer hakları ödenir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 21, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "boşta geçen süre için dört aya kadar ücret ve haklar",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M21"
+    }
+  },
+  {
+    "node_id": "IK_M21_F3",
+    "node_type": "fikra",
+    "embed_text": "İşçi işe başlatılırsa, peşin olarak ödenen bildirim süresine ait ücret ile kıdem tazminatı, yukarıdaki fıkra hükümlerine göre yapılacak ödemeden mahsup edilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 21, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "işe başlatmada daha önce ödenen tazminatın mahsubu",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M21"
+    }
+  },
+  {
+    "node_id": "IK_M25",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 25 işverenin haklı nedenle derhal fesih hakkı ahlak ve iyi niyet kurallarına uymayan haller sağlık sebepleri zorlayıcı sebepler tutukluluğun devamı",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 25,
+      "madde_basligi": "İşverenin Haklı Nedenle Fesih Hakkı",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK m.17",
+      "konu": "işverenin haklı nedenle derhal feshi, ahlak iyi niyet sağlık zorlayıcı sebepler",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M25_F_I", "IK_M25_F_II", "IK_M25_F_III", "IK_M25_F_IV"]
+    }
+  },
+  {
+    "node_id": "IK_M25_F_I",
+    "node_type": "fikra",
+    "embed_text": "Süresi belirli olsun veya olmasın işveren, aşağıda yazılı hâllerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir: I - Sağlık sebepleri: a) İşçinin kendi kastından veya derli toplu olmayan yaşayışından yahut içkiye düşkünlüğünden doğacak bir hastalığa veya sakatlığa uğraması hâlinde, bu sebeple doğacak devamsızlığın ardı ardına üç iş günü veya bir ayda beş iş gününden fazla sürmesi. b) İşçinin tutulduğu hastalığın tedavi edilemeyecek nitelikte olduğu ve işyerinde çalışmasında sakınca bulunduğunun Sağlık Kurulunca saptanması durumunda.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 25, "bent": "I",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "işverenin sağlık sebebiyle derhal fesih hakkı",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M25"
+    }
+  },
+  {
+    "node_id": "IK_M25_F_II",
+    "node_type": "fikra",
+    "embed_text": "II - Ahlak ve iyi niyet kurallarına uymayan haller ve benzerleri: a) İş sözleşmesi yapıldığı sırada bu sözleşmenin esaslı noktalarından biri için gerekli vasıflar veya şartlar kendisinde bulunmadığı hâlde bunların kendisinde bulunduğunu ileri sürerek, yahut gerçeğe uygun olmayan bilgiler veya sözler söyleyerek işçinin işvereni yanıltması. b) İşçinin, işveren yahut bunların aile üyelerinden birinin şeref ve namusuna dokunacak sözler sarf etmesi veya davranışlarda bulunması, yahut işveren hakkında şeref ve haysiyet kırıcı asılsız ihbar ve isnatlarda bulunması.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 25, "bent": "II",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ahlak iyi niyet kurallarına uymayan hallerde derhal fesih",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M25"
+    }
+  },
+  {
+    "node_id": "IK_M25_F_III",
+    "node_type": "fikra",
+    "embed_text": "III - Zorlayıcı sebepler: İşçiyi işyerinde bir haftadan fazla süre ile çalışmaktan alıkoyan zorlayıcı bir sebebin ortaya çıkması.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 25, "bent": "III",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "zorlayıcı sebeplerle bir haftadan uzun devamsızlıkta fesih",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M25"
+    }
+  },
+  {
+    "node_id": "IK_M25_F_IV",
+    "node_type": "fikra",
+    "embed_text": "IV - İşçinin gözaltına alınması veya tutuklanması hâlinde devamsızlığın 17 nci maddedeki bildirim süresini aşması.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 25, "bent": "IV",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "tutukluluk sebebiyle fesih bildirim süresi aşıldığında",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M25"
+    }
+  },
+  {
+    "node_id": "IK_M32",
+    "node_type": "madde",
+    "embed_text": "İş Kanunu madde 32 ücretin tanımı ve ödenmesi genel anlamda ücret bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutar",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 32,
+      "madde_basligi": "Ücretin Tanımı ve Ödenmesi",
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "onceki_duzenleme": "1475 sayılı İK m.26",
+      "konu": "ücret tanımı, ödeme periyodu, ücret alacağı",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M32_F1", "IK_M32_F2", "IK_M32_F3"]
+    }
+  },
+  {
+    "node_id": "IK_M32_F1",
+    "node_type": "fikra",
+    "embed_text": "Genel anlamda ücret bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutardır.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 32, "fikra_no": 1,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ücretin tanımı", "hukuk_dali": "iş hukuku", "ust_node": "IK_M32"
+    }
+  },
+  {
+    "node_id": "IK_M32_F2",
+    "node_type": "fikra",
+    "embed_text": "Ücret, bir ay içinde ödenmelidir. İş sözleşmeleri veya toplu iş sözleşmeleri ile ödeme süresi bir haftaya kadar indirilebilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 32, "fikra_no": 2,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ücret ödeme dönemi en fazla bir ay",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M32"
+    }
+  },
+  {
+    "node_id": "IK_M32_F3",
+    "node_type": "fikra",
+    "embed_text": "Türk parası ile yapılacak ödemelerde işveren, kendi isteğiyle yapacağı ödemeler dışında, işçiye yabancı para cinsinden ödeme yapamaz.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 32, "fikra_no": 3,
+      "yururluk_tarihi": "2003-06-10", "mulga_mi": false,
+      "konu": "ücretin Türk lirası ile ödenmesi zorunluluğu",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M32"
+    }
+  },
+  {
+    "node_id": "IK_M34_V1",
+    "node_type": "madde_versiyon",
+    "embed_text": "İş Kanunu madde 34 ücretin ödenmemesinde işçinin çalışmaktan kaçınma hakkı 2003 2016 arası ila ücret alacağı yukarı özel faiz oranı",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 34,
+      "versiyon": 1,
+      "madde_basligi": "Ücreti Ödenmeyen İşçinin Hakları [2003 Hali]",
+      "yururluk_tarihi": "2003-06-10",
+      "gecerlilik_bitis_tarihi": "2016-02-04",
+      "mulga_mi": true,
+      "degistiren_kanun": "6663 sayılı Kanun",
+      "konu": "ücret ödenmemesinde çalışmaktan kaçınma, mevduata uygulanan en yüksek faiz",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M34_V1_F1"]
+    }
+  },
+  {
+    "node_id": "IK_M34_V1_F1",
+    "node_type": "fikra",
+    "embed_text": "Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden dışında ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir. Bu nedenle kişisel kararlarına dayanarak iş görme borcunu yerine getirmeyen işçilerin bu kanundan, iş sözleşmesinden veya toplu iş sözleşmesinden doğan hakları ortadan kalkmaz. Bu işçiler hakkında ücret alacağının mevduata uygulanan en yüksek faiz oranı üzerinden hesaplanacak fazla çalışma ücretine ilişkin hükümler uygulanmaz.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 34, "fikra_no": 1, "versiyon": 1,
+      "yururluk_tarihi": "2003-06-10", "gecerlilik_bitis_tarihi": "2016-02-04", "mulga_mi": true,
+      "konu": "ücret ödememe durumunda çalışmaktan kaçınma ve mevduat faizi [eski hüküm]",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M34_V1"
+    }
+  },
+  {
+    "node_id": "IK_M34_V2",
+    "node_type": "madde_versiyon",
+    "embed_text": "İş Kanunu madde 34 ücrete uygulanan faiz 6663 sayılı Kanun ile değişiklik 5 Şubat 2016 sonrası avans faizi kaldırılarak gecikme faizi uygulanmaya başlandı",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 34,
+      "versiyon": 2,
+      "madde_basligi": "Ücreti Ödenmeyen İşçinin Hakları [6663 Sayılı Kanun – 05/02/2016]",
+      "yururluk_tarihi": "2016-02-05",
+      "mulga_mi": false,
+      "degistiren_kanun": "6663 sayılı Kanun",
+      "onceki_versiyon": "IK_M34_V1",
+      "konu": "ücret ödememede mevduata uygulanan en yüksek faiz, çalışmaktan kaçınma",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_M34_V2_F1"]
+    }
+  },
+  {
+    "node_id": "IK_M34_V2_F1",
+    "node_type": "fikra",
+    "embed_text": "Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden dışında ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir. Bu nedenle kişisel kararlarına dayanarak iş görme borcunu yerine getirmeyen işçilerin bu kanundan, iş sözleşmesinden veya toplu iş sözleşmesinden doğan hakları ortadan kalkmaz. Ücret alacakları için mevduata uygulanan en yüksek faiz oranı üzerinden faize hükmedilir.",
+    "metadata": {
+      "kanun_no": 4857, "kanun_kisaltma": "İK", "madde_no": 34, "fikra_no": 1, "versiyon": 2,
+      "yururluk_tarihi": "2016-02-05", "mulga_mi": false,
+      "konu": "ücret alacağında mevduata uygulanan en yüksek faiz, çalışmaktan kaçınma [6663 sonrası]",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_M34_V2"
+    }
+  },
+  {
+    "node_id": "IK_1475_M14",
+    "node_type": "madde",
+    "embed_text": "1475 sayılı İş Kanunu madde 14 kıdem tazminatı hükümleri hâlâ yürürlükte olan tek hüküm kıdem tazminatı hesaplama esasları bir yıl ve üzeri kıdem için her yıl için otuz günlük ücret",
+    "metadata": {
+      "kanun_no": 1475,
+      "kanun_kisaltma": "eski İK",
+      "madde_no": 14,
+      "madde_basligi": "Kıdem Tazminatı",
+      "yururluk_tarihi": "1971-09-01",
+      "mulga_mi": false,
+      "mulga_aciklama": "4857 sayılı İK geçici m.6 ile yürürlükte bırakılan tek hükümdür",
+      "konu": "kıdem tazminatı hesabı, hak kazanma koşulları",
+      "hukuk_dali": "iş hukuku",
+      "fikralar": ["IK_1475_M14_F1", "IK_1475_M14_F2"]
+    }
+  },
+  {
+    "node_id": "IK_1475_M14_F1",
+    "node_type": "fikra",
+    "embed_text": "Bu kanuna tabi işçilerin hizmet akitlerinin işveren tarafından bu kanunun 17. maddesinin II numaralı bendinde gösterilen sebepler dışında, işçi tarafından bu kanunun 16. maddesi uyarınca, muvazzaf askerlik hizmeti dolayısıyla, bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malûllük aylığı yahut toptan ödeme almak amacıyla, feshedilmesi veya kadının evlendiği tarihten itibaren bir yıl içinde kendi arzusu ile sona erdirmesi veya işçinin ölümü sebebiyle son bulması hâllerinde işçinin işyerindeki çalışma süresi dikkate alınarak her geçen tam yıl için işverence işçiye otuz günlük ücreti tutarında kıdem tazminatı ödenir.",
+    "metadata": {
+      "kanun_no": 1475, "kanun_kisaltma": "eski İK", "madde_no": 14, "fikra_no": 1,
+      "yururluk_tarihi": "1971-09-01", "mulga_mi": false,
+      "konu": "kıdem tazminatına hak kazanma halleri, otuz günlük ücret",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_1475_M14"
+    }
+  },
+  {
+    "node_id": "IK_1475_M14_F2",
+    "node_type": "fikra",
+    "embed_text": "Kıdem tazminatının hesaplanması son ücret üzerinden yapılır. Parça başı, akort, götürü veya yüzde usulü gibi ücretin sabit olmadığı hâllerde son bir yıllık süre içinde ödenen ücretin o süre içinde çalışılan günlere bölünmesi suretiyle bulunacak ortalama ücret bu tazminatın hesabına esas tutulur.",
+    "metadata": {
+      "kanun_no": 1475, "kanun_kisaltma": "eski İK", "madde_no": 14, "fikra_no": 2,
+      "yururluk_tarihi": "1971-09-01", "mulga_mi": false,
+      "konu": "kıdem tazminatı hesabında baz ücret: son ücret veya ortalama ücret",
+      "hukuk_dali": "iş hukuku", "ust_node": "IK_1475_M14"
+    }
+  }
+]
