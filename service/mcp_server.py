@@ -65,8 +65,8 @@ TOOLS = [
         "name": "graphrag_search",
         "description": (
             "Search the Turkish legal knowledge graph using a natural language query. "
-            "Returns relevant law articles (madde), paragraphs (fıkra), "
-            "court decisions (karar), and their reasoning (karar_gerekçe) "
+            "Returns relevant law articles (article), paragraphs (paragraph), "
+            "court decisions (decision), and their reasoning (decision_rationale) "
             "with full text and source references. "
             "Always use this tool first for any Turkish law question."
         ),
@@ -104,7 +104,7 @@ TOOLS = [
                 "node_type_filter": {
                     "type": "array",
                     "items": {"type": "string"},
-                    "description": "Filter by node types: kanun, madde, fikra, karar, karar_gerekce",
+                    "description": "Filter by node types: law, article, paragraph, decision, decision_rationale",
                 },
             },
             "required": ["query"],

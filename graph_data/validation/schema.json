@@ -9,44 +9,54 @@
   "definitions": {
     "node": {
       "type": "object",
-      "required": ["node_id", "node_type", "embed_text"],
+      "required": [
+        "node_id",
+        "node_type",
+        "embed_text"
+      ],
       "properties": {
         "node_id": {
           "type": "string",
           "minLength": 1,
           "pattern": "^[A-Za-z0-9_İÖÜŞÇĞ]+$",
-          "description": "Benzersiz düğüm kimliği"
+          "description": "Unique node identifier"
         },
         "node_type": {
           "type": "string",
           "enum": [
-            "kanun",
-            "madde",
-            "madde_versiyon",
-            "fikra",
-            "bent",
-            "karar",
-            "karar_gerekce",
-            "mahkeme",
-            "hukuk_dali",
-            "kavram"
+            "article",
+            "article_version",
+            "clause",
+            "concept",
+            "court",
+            "decision",
+            "decision_chunk",
+            "decision_rationale",
+            "law",
+            "legal_branch",
+            "paragraph"
           ]
         },
         "embed_text": {
           "type": "string",
           "minLength": 5,
-          "description": "Vektör arama için semantik metin — boş olmamalı"
+          "description": "Semantic text for vector search — must not be empty"
         },
         "metadata": {
           "type": "object",
-          "description": "Düğüme ait ek meta veriler"
+          "description": "Additional metadata for the node"
         }
       },
       "additionalProperties": true
     },
     "edge": {
       "type": "object",
-      "required": ["edge_id", "source", "target", "edge_type"],
+      "required": [
+        "edge_id",
+        "source",
+        "target",
+        "edge_type"
+      ],
       "properties": {
         "edge_id": {
           "type": "string",
@@ -55,29 +65,29 @@
         "source": {
           "type": "string",
           "minLength": 1,
-          "description": "Kaynak düğüm node_id'si"
+          "description": "Source node's node_id"
         },
         "target": {
           "type": "string",
           "minLength": 1,
-          "description": "Hedef düğüm node_id'si"
+          "description": "Target node's node_id"
         },
         "edge_type": {
           "type": "string",
           "enum": [
-            "ICERIR",
-            "UST_NODE",
-            "VERSIYONU",
-            "ATIF_YAPAR",
-            "GEREKCESI",
-            "KANUN_YOLU",
-            "VERILDI",
-            "HUKUK_DALI",
-            "UST_DAL",
-            "AYNI_KANUN",
-            "ILGILI_KAVRAM",
-            "CELISIK_KARAR",
-            "SEMANTIK_BENZER"
+            "APPEAL_CHAIN",
+            "CONFLICTING_DECISION",
+            "CONTAINS",
+            "DECIDED_BY",
+            "LEGAL_BRANCH",
+            "PARENT_BRANCH",
+            "PARENT_NODE",
+            "RATIONALE_OF",
+            "REFERENCES",
+            "RELATED_CONCEPT",
+            "SAME_LAW",
+            "SEMANTIC_SIMILAR",
+            "VERSION_OF"
           ]
         },
         "weight": {

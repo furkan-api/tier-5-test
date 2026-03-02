@@ -1,27 +1,27 @@
 {
-  "description": "Dinamik kenar kuralları — build sırasında koşullarla hesaplanır. Statik kenarlar edges/structural_edges.json'da tanımlıdır.",
+  "description": "Dynamic edge rules — computed during build based on conditions. Static edges are in edges/structural_edges.jsonl.",
   "version": "1.0.0",
   "rules": [
     {
-      "rule_id": "ayni_kanun_maddeleri",
-      "edge_type": "AYNI_KANUN",
-      "description": "Aynı kanuna ait maddeler arasında zayıf kenar oluşturulur",
-      "source_node_type": "madde",
-      "target_node_type": "madde",
+      "rule_id": "same_law_articles",
+      "edge_type": "SAME_LAW",
+      "description": "Weak edges between articles belonging to the same law",
+      "source_node_type": "article",
+      "target_node_type": "article",
       "condition": {
         "type": "metadata_match",
-        "source_field": "metadata.kanun_no",
-        "target_field": "metadata.kanun_no"
+        "source_field": "metadata.law_number",
+        "target_field": "metadata.law_number"
       },
       "weight": 0.3,
       "bidirectional": true
     },
     {
-      "rule_id": "celisik_kararlar",
-      "edge_type": "CELISIK_KARAR",
-      "description": "Aynı hukuk dalında benzer konuda ancak zıt sonuca ulaşan kararlar arasında çelişki kenarı oluşturulur",
-      "source_node_type": "karar",
-      "target_node_type": "karar",
+      "rule_id": "conflicting_decisions",
+      "edge_type": "CONFLICTING_DECISION",
+      "description": "Conflict edges between decisions in the same legal branch reaching opposite outcomes",
+      "source_node_type": "decision",
+      "target_node_type": "decision",
       "condition": {
         "type": "contradictory_decisions",
         "similarity_threshold": 0.55
@@ -30,9 +30,23 @@
       "bidirectional": true
     },
     {
-      "rule_id": "semantik_benzerlik",
-      "edge_type": "SEMANTIK_BENZER",
-      "description": "Embedding vektörleri arasında yüksek kosinüs benzerliği olan node'lar bağlanır — Neo4j vector index üzerinden post-build çalışır",
+      "rule_id": "same_decision_chunks",
+      "edge_type": "SAME_LAW",
+      "description": "Weak edges between chunks of the same decision — enables inter-chunk graph traversal",
+      "source_node_type": "decision_chunk",
+      "target_node_type": "decision_chunk",
+      "condition": {
+        "type": "metadata_match",
+        "source_field": "metadata.parent_decision",
+        "target_field": "metadata.parent_decision"
+      },
+      "weight": 0.4,
+      "bidirectional": true
+    },
+    {
+      "rule_id": "semantic_similarity",
+      "edge_type": "SEMANTIC_SIMILAR",
+      "description": "Nodes with high cosine similarity between embedding vectors — runs post-build on Neo4j vector index",
       "source_node_type": "*",
       "target_node_type": "*",
       "condition": {

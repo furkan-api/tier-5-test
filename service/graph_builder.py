@@ -5,8 +5,8 @@ Reads the formal ontology definition, validates data, builds the graph in Neo4j.
 
 Pipeline:
   1. Load & parse ontology (graph_data/ontology.json)
-  2. Load & validate node files (graph_data/nodes/*.json)
-  3. Load explicit edges (graph_data/edges/structural_edges.json)
+  2. Load & validate node files (graph_data/nodes/*.json or *.jsonl)
+  3. Load explicit edges (graph_data/edges/structural_edges.json or .jsonl)
   4. Embed node texts via configured embedder
   5. Upsert nodes + embeddings into Neo4j
   6. Create explicit edges in Neo4j
@@ -39,6 +39,32 @@ from .neo4j_driver import execute_query, execute_write
 from .vector_search import update_embeddings_batch
 
 logger = logging.getLogger(__name__)
+
+_DATA_EXTENSIONS = (".json", ".jsonl")
+
+
+def _load_data_file(path: Path) -> list[dict]:
+    """Load a JSON or JSONL file and return a list of dicts.
+
+    - ``.json``  → standard JSON array ``[{...}, ...]``
+    - ``.jsonl`` → one JSON object per line (blank lines skipped)
+    """
+    with open(path, "r", encoding="utf-8") as f:
+        if path.suffix == ".jsonl":
+            items: list[dict] = []
+            for lineno, line in enumerate(f, 1):
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                except json.JSONDecodeError as exc:
+                    logger.warning("JSONL parse error in %s line %d: %s", path.name, lineno, exc)
+                    continue
+                items.append(obj)
+            return items
+        else:
+            return json.load(f)
 
 
 # ── Ontology ──────────────────────────────────────────────────────────────────
@@ -171,22 +197,22 @@ def _resolve_field(node: dict[str, Any], field_path: str) -> Any:
     return current
 
 
-def _parse_kanun_atif(atif: str) -> Optional[str]:
+def _parse_law_reference(ref: str) -> Optional[str]:
     """Convert law reference strings to node IDs."""
-    kanun_no_to_kisaltma = {
+    law_number_to_abbr = {
         "6098": "TBK",
         "4721": "TMK",
         "4857": "IK",
         "6100": "HMK",
     }
-    parts = atif.split("/")
+    parts = ref.split("/")
     if len(parts) != 2:
         return None
-    kanun_part, madde_no = parts
-    kisaltma = kanun_part.strip()
-    if kisaltma.isdigit():
-        kisaltma = kanun_no_to_kisaltma.get(kisaltma, kisaltma)
-    return f"{kisaltma}_M{madde_no.strip()}"
+    law_part, article_no = parts
+    abbr = law_part.strip()
+    if abbr.isdigit():
+        abbr = law_number_to_abbr.get(abbr, abbr)
+    return f"{abbr}_M{article_no.strip()}"
 
 
 def _matches_node_type(node: dict, rule_node_type) -> bool:
@@ -255,20 +281,25 @@ class Neo4jGraphBuilder:
         )
         node_files = self.ontology.build_config.get("node_files", [])
 
-        # If no explicit file list, scan directory
+        # If no explicit file list, scan directory for .json and .jsonl
         if not node_files:
             node_files = [
-                f.name for f in sorted(nodes_dir.glob("*.json"))
+                f.name for f in sorted(nodes_dir.iterdir())
+                if f.suffix in _DATA_EXTENSIONS
             ]
 
         total = 0
         for fname in node_files:
             fpath = nodes_dir / fname
+            # Allow ontology to list "foo.json" while actual file is "foo.jsonl"
             if not fpath.exists():
-                logger.warning("Node file not found: %s", fpath)
-                continue
-            with open(fpath, "r", encoding="utf-8") as f:
-                items = json.load(f)
+                alt = fpath.with_suffix(".jsonl" if fpath.suffix == ".json" else ".json")
+                if alt.exists():
+                    fpath = alt
+                else:
+                    logger.warning("Node file not found: %s", fpath)
+                    continue
+            items = _load_data_file(fpath)
 
             loaded = 0
             for item in items:
@@ -294,8 +325,7 @@ class Neo4jGraphBuilder:
                 # Skip if nodes/ directory versions already loaded
                 if any(n.endswith(fname) for n in node_files):
                     continue
-                with open(fpath, "r", encoding="utf-8") as f:
-                    items = json.load(f)
+                items = _load_data_file(fpath)
                 for item in items:
                     if item["node_id"] not in self.nodes:
                         self.nodes[item["node_id"]] = item
@@ -322,8 +352,9 @@ class Neo4jGraphBuilder:
 
         if not edge_files:
             edge_files = [
-                f.name for f in sorted(edges_dir.glob("*.json"))
-                if f.name != "edge_rules.json"  # Rules loaded separately
+                f.name for f in sorted(edges_dir.iterdir())
+                if f.suffix in _DATA_EXTENSIONS
+                and f.stem != "edge_rules"  # Rules loaded separately
             ]
 
         node_ids = set(self.nodes.keys())
@@ -333,10 +364,13 @@ class Neo4jGraphBuilder:
         for fname in edge_files:
             fpath = edges_dir / fname
             if not fpath.exists():
-                logger.warning("Edge file not found: %s", fpath)
-                continue
-            with open(fpath, "r", encoding="utf-8") as f:
-                items = json.load(f)
+                alt = fpath.with_suffix(".jsonl" if fpath.suffix == ".json" else ".json")
+                if alt.exists():
+                    fpath = alt
+                else:
+                    logger.warning("Edge file not found: %s", fpath)
+                    continue
+            items = _load_data_file(fpath)
 
             for edge in items:
                 errors = self.ontology.validate_edge(edge, node_ids)
@@ -860,7 +894,7 @@ def _handle_kanun_atif_parse(
         if not isinstance(atif_list, list):
             continue
         for atif_str in atif_list:
-            target_id = _parse_kanun_atif(atif_str)
+            target_id = _parse_law_reference(atif_str)
             if target_id and target_id in all_ids:
                 edges.append({
                     "source": s["node_id"],
@@ -931,37 +965,37 @@ def _handle_contradictory_decisions(
     edge_type = rule["edge_type"]
     weight = rule.get("weight", 0.8)
 
-    LEHTE = {"kabul", "kısmen kabul", "onama"}
-    ALEYHTE = {"ret", "red", "bozma", "kısmi bozma", "bozma (usul)"}
+    FAVORABLE = {"kabul", "kısmen kabul", "onama"}
+    UNFAVORABLE = {"ret", "red", "bozma", "kısmi bozma", "bozma (usul)"}
 
-    def _outcome_group(sonuc: str) -> str | None:
-        s = sonuc.strip().lower()
-        if s in LEHTE:
-            return "LEHTE"
-        if s in ALEYHTE:
-            return "ALEYHTE"
+    def _outcome_group(outcome: str) -> str | None:
+        s = outcome.strip().lower()
+        if s in FAVORABLE:
+            return "FAVORABLE"
+        if s in UNFAVORABLE:
+            return "UNFAVORABLE"
         return None
 
     decisions = []
     for n in builder.nodes.values():
-        if n.get("node_type") != "karar":
+        if n.get("node_type") != "decision":
             continue
         meta = n.get("metadata", {})
-        sonuc = meta.get("sonuc", "")
-        grp = _outcome_group(sonuc)
+        outcome = meta.get("outcome", "")
+        grp = _outcome_group(outcome)
         if grp is None:
             continue
-        hukuk = meta.get("hukuk_dali", "")
-        hukuk_root = hukuk.split(" - ")[0].strip().lower() if hukuk else ""
+        branch = meta.get("legal_branch", "")
+        branch_root = branch.split(" - ")[0].strip().lower() if branch else ""
         decisions.append({
             "node_id": n["node_id"],
-            "hukuk_root": hukuk_root,
+            "branch_root": branch_root,
             "outcome_group": grp,
         })
 
     by_field: dict[str, list] = {}
     for d in decisions:
-        by_field.setdefault(d["hukuk_root"], []).append(d)
+        by_field.setdefault(d["branch_root"], []).append(d)
 
     edges = []
     seen = set()
@@ -987,7 +1021,7 @@ def _handle_contradictory_decisions(
                         "edge_type": edge_type,
                         "weight": weight,
                         "rule_id": rule["rule_id"],
-                        "hukuk_dali": field_name,
+                        "legal_branch": field_name,
                     })
 
     return edges
@@ -1010,7 +1044,7 @@ _CONDITION_HANDLERS = {
 async def create_similarity_edges_neo4j(
     threshold: float = 0.82,
     max_neighbors: int = 5,
-    edge_type: str = "SEMANTIK_BENZER",
+    edge_type: str = "SEMANTIC_SIMILAR",
     batch_size: int = 100,
 ) -> int:
     """Create cosine similarity edges using Neo4j's vector index.

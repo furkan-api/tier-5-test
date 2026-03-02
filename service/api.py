@@ -90,7 +90,7 @@ class QueryRequest(BaseModel):
     include_context: bool = Field(default=True)
     node_type_filter: Optional[List[str]] = Field(
         default=None,
-        description="Filter results by node type (e.g., ['madde', 'karar'])",
+        description="Filter results by node type (e.g., ['article', 'decision'])",
     )
 
 

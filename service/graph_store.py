@@ -44,8 +44,8 @@ async def ensure_schema() -> None:
 
     # Composite index for common query patterns
     await execute_write(
-        "CREATE INDEX node_kanun_idx IF NOT EXISTS "
-        "FOR (n:LegalNode) ON (n.kanun_kisaltma)"
+        "CREATE INDEX node_law_abbr_idx IF NOT EXISTS "
+        "FOR (n:LegalNode) ON (n.law_abbreviation)"
     )
 
     # Full-text index for text search fallback
@@ -255,7 +255,7 @@ async def create_typed_edges_batch(
 ) -> int:
     """Create edges with dynamic relationship types (requires APOC).
 
-    This creates actual Neo4j relationship types like :ICERIR, :ATIF_YAPAR
+    This creates actual Neo4j relationship types like :CONTAINS, :REFERENCES
     instead of generic :RELATED with a property.
     """
     total = 0

@@ -419,13 +419,13 @@ class GraphRAGCLI(App):
             ntype = s.get("node_type", "")
 
             # Colour by type
-            if ntype == "karar_gerekce":
+            if ntype == "decision_rationale":
                 style = "magenta"
-            elif ntype == "karar":
+            elif ntype == "decision":
                 style = "yellow"
-            elif ntype == "fikra":
+            elif ntype == "paragraph":
                 style = "cyan"
-            elif ntype == "madde":
+            elif ntype == "article":
                 style = "green"
             else:
                 style = "white"
@@ -498,13 +498,13 @@ class GraphRAGCLI(App):
                     border_style="dim",
                 ))
                 for hdr, body in expanded_sections:
-                    if "[KARAR_GEREKCE]" in hdr:
+                    if "[DECISION_RATIONALE]" in hdr:
                         style = "magenta"
-                    elif "[KARAR]" in hdr:
+                    elif "[DECISION]" in hdr:
                         style = "yellow"
-                    elif "[FIKRA]" in hdr:
+                    elif "[PARAGRAPH]" in hdr:
                         style = "cyan"
-                    elif "[MADDE]" in hdr:
+                    elif "[ARTICLE]" in hdr:
                         style = "green"
                     else:
                         style = "white"

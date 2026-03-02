@@ -51,21 +51,80 @@ class QueryResult:
     latency_ms: float = 0.0
 
     def to_context_string(self, max_chars: int = 8000) -> str:
-        """Merged context text suitable for LLM consumption."""
+        """Merged context text suitable for LLM consumption.
+
+        Groups decision_chunk nodes under their parent decision for
+        coherent context. Other node types are rendered as before.
+        """
+        # Separate chunks from non-chunks, group chunks by parent
+        chunks_by_parent: dict[str, list[dict]] = {}
+        non_chunks: list[dict] = []
+
+        for item in self.context_texts:
+            if item["node_type"] == "decision_chunk":
+                parent = item.get("metadata", {}).get("parent_decision", "unknown")
+                chunks_by_parent.setdefault(parent, []).append(item)
+            else:
+                non_chunks.append(item)
+
+        # Sort chunks within each parent by chunk_order
+        for parent_id in chunks_by_parent:
+            chunks_by_parent[parent_id].sort(
+                key=lambda c: c.get("metadata", {}).get("chunk_order", 999)
+            )
+
         parts: list[str] = []
         total = 0
-        for item in self.context_texts:
-            block = (
-                f"[{item['node_type'].upper()}] {item['node_id']}\n"
-                f"{item['text']}\n"
-                f"---"
-            )
+        seen_parents: set[str] = set()
+
+        for item in non_chunks:
+            # If this is a parent decision with chunks, render chunks grouped
+            if item["node_type"] == "decision" and item["node_id"] in chunks_by_parent:
+                block_parts = [
+                    f"[DECISION] {item['node_id']}",
+                    f"{item['text']}",
+                ]
+                for chunk in chunks_by_parent[item["node_id"]]:
+                    chunk_type = chunk.get("metadata", {}).get("chunk_type", "")
+                    block_parts.append(
+                        f"  [{chunk_type.upper()}] {chunk['text']}"
+                    )
+                block_parts.append("---")
+                block = "\n".join(block_parts)
+                seen_parents.add(item["node_id"])
+            else:
+                block = (
+                    f"[{item['node_type'].upper()}] {item['node_id']}\n"
+                    f"{item['text']}\n"
+                    f"---"
+                )
+
             if total + len(block) > max_chars:
                 remaining = len(self.context_texts) - len(parts)
                 parts.append(f"... [{remaining} more sources truncated]")
                 break
             parts.append(block)
             total += len(block)
+
+        # Render orphan chunks (parent not in result set)
+        for parent_id, chunks in chunks_by_parent.items():
+            if parent_id in seen_parents:
+                continue
+            block_parts = [f"[DECISION CHUNKS] {parent_id}"]
+            for chunk in chunks:
+                chunk_type = chunk.get("metadata", {}).get("chunk_type", "")
+                block_parts.append(
+                    f"  [{chunk_type.upper()}] {chunk['text']}"
+                )
+            block_parts.append("---")
+            block = "\n".join(block_parts)
+            if total + len(block) > max_chars:
+                remaining_count = sum(len(c) for c in chunks_by_parent.values()) - len(parts)
+                parts.append(f"... [additional chunk sources truncated]")
+                break
+            parts.append(block)
+            total += len(block)
+
         return "\n".join(parts)
 
 
