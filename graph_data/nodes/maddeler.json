@@ -1,2092 +1,5 @@
-{
-  "kanun_tbk_6098": {
-    "node_id": "kanun_tbk_6098",
-    "node_type": "kanun",
-    "embed_text": "Türk Borçlar Kanunu kanun numarası 6098 kabul tarihi 11 Ocak 2011 yürürlük tarihi 1 Temmuz 2012 818 sayılı Borçlar Kanununu yürürlükten kaldırmıştır borç ilişkileri sözleşme haksız fiil sebepsiz zenginleşme",
-    "metadata": {
-      "kanun_adi": "Türk Borçlar Kanunu",
-      "kisaltma": "TBK",
-      "kanun_no": 6098,
-      "kabul_tarihi": "2011-01-11",
-      "resmi_gazete_tarihi": "2011-02-04",
-      "resmi_gazete_sayisi": 27836,
-      "yururluk_tarihi": "2012-07-01",
-      "yururlukten_kaldirdigini_kanun": {
-        "kanun_no": 818,
-        "adi": "Borçlar Kanunu",
-        "kisaltma": "BK",
-        "yururluk_tarihi": "1926-10-04",
-        "mulga_tarihi": "2012-07-01"
-      },
-      "alan": [
-        "borç hukuku",
-        "sözleşme hukuku",
-        "haksız fiil",
-        "sebepsiz zenginleşme"
-      ],
-      "kaynak_dosya": "Kanunlar/TBK_6098_Turk_Borclar_Kanunu.txt"
-    }
-  },
-  "kanun_tmk_4721": {
-    "node_id": "kanun_tmk_4721",
-    "node_type": "kanun",
-    "embed_text": "Türk Medeni Kanunu kanun numarası 4721 kabul tarihi 22 Kasım 2001 yürürlük tarihi 1 Ocak 2002 743 sayılı Medeni Kanunu yürürlükten kaldırmıştır kişiler hukuku aile hukuku miras hukuku eşya hukuku",
-    "metadata": {
-      "kanun_adi": "Türk Medeni Kanunu",
-      "kisaltma": "TMK",
-      "kanun_no": 4721,
-      "kabul_tarihi": "2001-11-22",
-      "resmi_gazete_tarihi": "2001-12-08",
-      "resmi_gazete_sayisi": 24607,
-      "yururluk_tarihi": "2002-01-01",
-      "yururlukten_kaldirdigini_kanun": {
-        "kanun_no": 743,
-        "adi": "Medeni Kanun",
-        "kisaltma": "MK",
-        "yururluk_tarihi": "1926-10-04",
-        "mulga_tarihi": "2002-01-01"
-      },
-      "alan": [
-        "kişiler hukuku",
-        "aile hukuku",
-        "miras hukuku",
-        "eşya hukuku",
-        "velayet",
-        "soybağı"
-      ],
-      "kaynak_dosya": "Kanunlar/TMK_4721_Turk_Medeni_Kanunu.txt"
-    }
-  },
-  "kanun_ik_4857": {
-    "node_id": "kanun_ik_4857",
-    "node_type": "kanun",
-    "embed_text": "İş Kanunu kanun numarası 4857 kabul tarihi 22 Mayıs 2003 yürürlük tarihi 10 Haziran 2003 1475 sayılı İş Kanununu yürürlükten kaldırmıştır işçi işveren iş sözleşmesi fesih kıdem tazminatı",
-    "metadata": {
-      "kanun_adi": "İş Kanunu",
-      "kisaltma": "İK",
-      "kanun_no": 4857,
-      "kabul_tarihi": "2003-05-22",
-      "resmi_gazete_tarihi": "2003-06-10",
-      "resmi_gazete_sayisi": 25134,
-      "yururluk_tarihi": "2003-06-10",
-      "yururlukten_kaldirdigini_kanun": {
-        "kanun_no": 1475,
-        "adi": "İş Kanunu",
-        "yururluk_tarihi": "1971-09-01",
-        "mulga_tarihi": "2003-06-10",
-        "istisna": "1475/m.14 (kıdem tazminatı) hâlâ yürürlüktedir"
-      },
-      "alan": [
-        "iş hukuku",
-        "işçi hakları",
-        "iş sözleşmesi",
-        "fesih",
-        "tazminat"
-      ],
-      "kaynak_dosya": "Kanunlar/IK_4857_Is_Kanunu.txt"
-    }
-  },
-  "kanun_hmk_6100": {
-    "node_id": "kanun_hmk_6100",
-    "node_type": "kanun",
-    "embed_text": "Hukuk Muhakemeleri Kanunu kanun numarası 6100 kabul tarihi 12 Ocak 2011 yürürlük tarihi 1 Ekim 2011 1086 sayılı Hukuk Usulü Muhakemeleri Kanununu yürürlükten kaldırmıştır yargılama usulü delil kanun yolları istinaf temyiz",
-    "metadata": {
-      "kanun_adi": "Hukuk Muhakemeleri Kanunu",
-      "kisaltma": "HMK",
-      "kanun_no": 6100,
-      "kabul_tarihi": "2011-01-12",
-      "resmi_gazete_tarihi": "2011-02-04",
-      "resmi_gazete_sayisi": 27836,
-      "yururluk_tarihi": "2011-10-01",
-      "yururlukten_kaldirdigini_kanun": {
-        "kanun_no": 1086,
-        "adi": "Hukuk Usulü Muhakemeleri Kanunu",
-        "kisaltma": "HUMK",
-        "yururluk_tarihi": "1927-06-18",
-        "mulga_tarihi": "2011-10-01"
-      },
-      "onemli_not": "İstinaf (BAM) sistemi fiilen 20/07/2016 tarihinde faaliyete geçmiştir",
-      "alan": [
-        "usul hukuku",
-        "yargılama",
-        "delil",
-        "kanun yolları",
-        "görev ve yetki"
-      ],
-      "kaynak_dosya": "Kanunlar/HMK_6100_Hukuk_Muhakemeleri_Kanunu.txt"
-    }
-  },
-  "KARAR_BAM_ANK_2016_3201": {
-    "node_id": "KARAR_BAM_ANK_2016_3201",
-    "node_type": "karar",
-    "embed_text": "Ankara Bölge Adliye Mahkemesi 2. Hukuk Dairesi 2016/3201 esas 2017/4412 karar boşanma davası istinaf incelemesi TMK madde 166 174 tazminat miktarının yetersizliği kısmi bozma",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "Ankara Bölge Adliye Mahkemesi 2. Hukuk Dairesi",
-      "esas_no": "2016/3201",
-      "karar_no": "2017/4412",
-      "karar_tarihi": "2017-09-20",
-      "ilk_derece_ref": "KARAR_ID_2015_1102",
-      "konu": "boşanma - tazminat miktarı - istinaf",
-      "sonuc": "KISMI BOZMA",
-      "bozma_gerekce_ozeti": "TMK m.174 kapsamındaki tazminat miktarı adil sonuca ulaşmak için yetersiz kalmıştır; hakkaniyet gözetilerek artırılması gerekir",
-      "atif_yapilan_kanunlar": [
-        "TMK/166",
-        "TMK/174"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2015_1102"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_BAM_ANK_2016_3201_GEREKCESI": {
-    "node_id": "KARAR_BAM_ANK_2016_3201_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İstinaf denetiminde boşanmada kusur değerlendirmesi isabetlidir; ancak ilk derece mahkemesinin hükmettiği TMK m.174/2 kapsamındaki manevi tazminat miktarı, evlilik süresine ve davalının ağır kusuruna oranla yetersiz kalmaktadır. Hakkaniyet denetimi çerçevesinde manevi tazminatın artırılmasına karar verilmiştir. Velayet ve nafakaya ilişkin kısım onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_ANK_2016_3201",
-      "ilk_derece_ref": "KARAR_ID_2015_1102",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/174"
-      ],
-      "anahtar_ilkeler": [
-        "manevi tazminat hakkaniyet denetimi",
-        "kusur oranı tazminat ilişkisi"
-      ],
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_BAM_ANK_2015_4421": {
-    "node_id": "KARAR_BAM_ANK_2015_4421",
-    "node_type": "karar",
-    "embed_text": "Ankara Bölge Adliye Mahkemesi 7. Hukuk Dairesi 2015/4421 esas 2016/5312 karar zincirleme belirli süreli iş sözleşmesi belirsiz süreli dönüşüm işe iade onama",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "Ankara Bölge Adliye Mahkemesi 7. Hukuk Dairesi",
-      "esas_no": "2015/4421",
-      "karar_no": "2016/5312",
-      "karar_tarihi": "2016-11-08",
-      "ilk_derece_ref": "KARAR_ID_2014_5022",
-      "konu": "zincirleme belirli süreli sözleşme - işe iade istinafı",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "4857/11",
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2014_5022"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_ANK_2015_4421_GEREKCESI": {
-    "node_id": "KARAR_BAM_ANK_2015_4421_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İlk derece mahkemesinin zincirleme sözleşmenin 4857 m.11 kapsamında esaslı sebepten yoksun olduğu ve belirsiz süreli sözleşmeye dönüştüğü yönündeki kabulü doğrudur. İşçinin nitelik ve çalıştığı pozisyonun kalıcı ve sürekli olduğu anlaşılmakta; bu durumda art arda yenilenen belirli süreli sözleşmeler yasanın amacına aykırıdır. Feshin geçersizliği ve işe iade hükmü onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_ANK_2015_4421",
-      "ilk_derece_ref": "KARAR_ID_2014_5022",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "4857/11",
-        "4857/18"
-      ],
-      "anahtar_ilkeler": [
-        "zincirleme sözleşme yasağı",
-        "kalıcı iş belirsiz süreli"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_IST_2018_7821": {
-    "node_id": "KARAR_BAM_IST_2018_7821",
-    "node_type": "karar",
-    "embed_text": "İstanbul Bölge Adliye Mahkemesi 11. Hukuk Dairesi 2018/7821 esas 2019/9341 karar genel işlem koşulları banka masrafları TBK madde 20 21 25 tüketici sözleşmesi istinaf onama",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "İstanbul Bölge Adliye Mahkemesi 11. Hukuk Dairesi",
-      "esas_no": "2018/7821",
-      "karar_no": "2019/9341",
-      "karar_tarihi": "2019-03-25",
-      "ilk_derece_ref": "KARAR_ID_2017_3401",
-      "konu": "banka masrafları iadesi - GİK - TBK m.20-21",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TBK/20",
-        "TBK/21",
-        "TBK/25"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2017_3401"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "borçlar hukuku - tüketici"
-    }
-  },
-  "KARAR_BAM_IST_2018_7821_GEREKCESI": {
-    "node_id": "KARAR_BAM_IST_2018_7821_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İlk derece mahkemesinin TBK m.21/2 kapsamında şaşırtıcı şart niteliğindeki banka masraf kalemlerini geçersiz sayması hukuka uygundur. Masraf kalemlerinin tüketicinin dikkatine yeterince sunulmadığı ve standart formun dışında müzakere edilmediği anlaşılmaktadır. TBK m.25'in hakkaniyet denetimi çerçevesinde iade miktarı da yerindedir. İstinaf talebi reddedilerek ilk derece kararı onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_IST_2018_7821",
-      "ilk_derece_ref": "KARAR_ID_2017_3401",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/20",
-        "TBK/21",
-        "TBK/25"
-      ],
-      "anahtar_ilkeler": [
-        "GİK şaşırtıcı şart",
-        "banka masrafı geçersizlik",
-        "tüketici koruması"
-      ],
-      "hukuk_dali": "borçlar hukuku - tüketici"
-    }
-  },
-  "KARAR_BAM_IZM_2019_5521": {
-    "node_id": "KARAR_BAM_IZM_2019_5521",
-    "node_type": "karar",
-    "embed_text": "İzmir Bölge Adliye Mahkemesi 3. Hukuk Dairesi 2019/5521 esas 2020/4412 karar işe iade davası organizasyon güçlüğü geçerli sebep 4857 İş Kanunu madde 18 21 kısmi bozma tazminat miktarı",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "İzmir Bölge Adliye Mahkemesi 3. Hukuk Dairesi",
-      "esas_no": "2019/5521",
-      "karar_no": "2020/4412",
-      "karar_tarihi": "2020-06-17",
-      "konu": "işe iade - geçerli sebep değerlendirmesi - istinaf",
-      "sonuc": "KISMI BOZMA",
-      "bozma_gerekce_ozeti": "İşe başlatmama tazminatı alt sınır belirlenmeli, 5 aylık değil 4-8 ay aralığında somut gerekçeyle tespit edilmeli",
-      "atif_yapilan_kanunlar": [
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_IZM_2019_5521_GEREKCESI": {
-    "node_id": "KARAR_BAM_IZM_2019_5521_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İstinaf incelemesinde feshin geçersizliği ve işe iade kararı yerinde bulunmuştur. Ancak 4857 m.21'e göre işe başlatmama tazminatı 4 ila 8 aylık brüt ücret arasında mahkemece takdir edilmelidir. Kararın gerekçesinde somut takdir ölçütü gösterilmeksizin 5 aylık ücretle belirlenmesi hatalıdır. Bu kısma ilişkin karar bozulmuş; sendikal veya ayrımcılık gerekçesi bulunmaması durumunda tazminat aralığının alt sınırına yakın belirlenmesi gerektiği belirtilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_IZM_2019_5521",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "4857/21"
-      ],
-      "anahtar_ilkeler": [
-        "işe başlatmama tazminatı takdiri",
-        "gerekçeli karar zorunluluğu",
-        "tazminat aralığı"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_IST_2020_2110": {
-    "node_id": "KARAR_BAM_IST_2020_2110",
-    "node_type": "karar",
-    "embed_text": "İstanbul Bölge Adliye Mahkemesi 6. Hukuk Dairesi 2020/2110 esas 2021/3321 karar babalık davası DNA delili TMK madde 295 soybağı tespiti istinaf onama Yargıtay",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "İstanbul Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
-      "esas_no": "2020/2110",
-      "karar_no": "2021/3321",
-      "karar_tarihi": "2021-04-13",
-      "ilk_derece_ref": "KARAR_ID_2019_551",
-      "konu": "babalık - DNA - soybağı - istinaf",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TMK/282",
-        "TMK/295"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2019_551"
-      ],
-      "kanun_yolu": "YARGITAY'A GİTTİ",
-      "yargitay_ref": "KARAR_YRG_2HD_2021_6712",
-      "hukuk_dali": "aile hukuku - soybağı"
-    }
-  },
-  "KARAR_BAM_IST_2020_2110_GEREKCESI": {
-    "node_id": "KARAR_BAM_IST_2020_2110_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Bilirkişi DNA raporunun usule uygun yapıldığı, yüksek olasılık eşiğini aştığı ve soybağı tespiti için yeterli kesinlikte olduğu değerlendirilmiştir. TMK m.295 uyarınca babalık davası kararı için aranan delil standardı sağlanmıştır. İlk derece kararı onanmıştır. Davalı temyize gitmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_IST_2020_2110",
-      "ilk_derece_ref": "KARAR_ID_2019_551",
-      "yargitay_ref": "KARAR_YRG_2HD_2021_6712",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/295"
-      ],
-      "anahtar_ilkeler": [
-        "DNA delil standardı",
-        "soybağı tespitinde biyolojik delil"
-      ],
-      "hukuk_dali": "aile hukuku - soybağı"
-    }
-  },
-  "KARAR_BAM_GAZ_2022_9131": {
-    "node_id": "KARAR_BAM_GAZ_2022_9131",
-    "node_type": "karar",
-    "embed_text": "Gaziantep Bölge Adliye Mahkemesi 4. Hukuk Dairesi 2022/9131 esas 2023/6712 karar ayıplı araç satışı sözleşmeden dönme bedel iadesi TBK madde 219 220 istinaf kısmi bozma değer kaybı eklenmesi",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "Gaziantep Bölge Adliye Mahkemesi 4. Hukuk Dairesi",
-      "esas_no": "2022/9131",
-      "karar_no": "2023/6712",
-      "karar_tarihi": "2023-02-14",
-      "ilk_derece_ref": "KARAR_ID_2021_1845",
-      "konu": "ayıplı araç - bedel iadesi + değer kaybı - istinaf",
-      "sonuc": "KISMI BOZMA",
-      "bozma_gerekce_ozeti": "Sözleşmeden dönme kararı yerindedir; ancak kullanım dönemi değer kaybı mahsup edilerek iade miktarı hesaplanmalıdır",
-      "atif_yapilan_kanunlar": [
-        "TBK/219",
-        "TBK/220"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2021_1845",
-        "YRG_13HD_2019_1205"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "borçlar hukuku - satım"
-    }
-  },
-  "KARAR_BAM_GAZ_2022_9131_GEREKCESI": {
-    "node_id": "KARAR_BAM_GAZ_2022_9131_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "TBK m.219-220 kapsamında sıfır km satışı yapılan araçtaki gizli ayıbın tespitinde ilk derece mahkemesi isabetlidir. Ancak sözleşmeden dönme halinde iadede, alıcının aracı kullandığı süre ve aşınan değer, dürüstlük kuralı ve iade hükümlerine göre mahsup edilmelidir. Bilinir ki araç, teslim tarihinden ayıbın tespiti tarihine kadar alıcı tarafından kullanılmıştır. Bu kullanım değer kaybı hesaplanmaksızın tam bedel iade kararı hatalıdır. Değer kaybının bilirkişiye hesaplattırılıp iade miktarından düşülmesi için karar bozulmuştur.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_GAZ_2022_9131",
-      "ilk_derece_ref": "KARAR_ID_2021_1845",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/219",
-        "TBK/220"
-      ],
-      "anahtar_ilkeler": [
-        "ayıplı araç",
-        "kullanım değer kaybı mahsubu",
-        "sözleşmeden dönme iade hesabı"
-      ],
-      "hukuk_dali": "borçlar hukuku - satım"
-    }
-  },
-  "KARAR_BAM_IZM_2023_7741": {
-    "node_id": "KARAR_BAM_IZM_2023_7741",
-    "node_type": "karar",
-    "embed_text": "İzmir Bölge Adliye Mahkemesi 14. Hukuk Dairesi 2023/7741 esas 2024/3312 karar ön sözleşme TBK madde 2 noter onaylı ön sözleşme bağlayıcılığı cayma tazminatı onama",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "İzmir Bölge Adliye Mahkemesi 14. Hukuk Dairesi",
-      "esas_no": "2023/7741",
-      "karar_no": "2024/3312",
-      "karar_tarihi": "2024-01-09",
-      "ilk_derece_ref": "KARAR_ID_2022_3312",
-      "konu": "ön sözleşme bağlayıcılığı - cayma - istinaf",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TBK/2"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2022_3312",
-        "YRG_HGK_1994_935"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "borçlar hukuku"
-    }
-  },
-  "KARAR_BAM_IZM_2023_7741_GEREKCESI": {
-    "node_id": "KARAR_BAM_IZM_2023_7741_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "TBK m.2 kapsamında ön sözleşmenin esaslı unsurlarını içerdiği ve noter huzurunda akdedildiği tespit edilmiştir. HGK 1994/935 emsal kararı da ön sözleşmenin bağlayıcı olduğu ilkesini ortaya koymaktadır. Davalının caymasının haklı bir gerekçeye dayanmadığı anlaşılmakta olup cezai şartın tahsiline ilişkin ilk derece kararı yerindedir. İstinaf talebi reddedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_IZM_2023_7741",
-      "ilk_derece_ref": "KARAR_ID_2022_3312",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/2"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_1994_935"
-      ],
-      "anahtar_ilkeler": [
-        "ön sözleşme bağıcılığı onayı",
-        "noter onaylı ön sözleşme"
-      ],
-      "hukuk_dali": "borçlar hukuku"
-    }
-  },
-  "KARAR_BAM_IST_2021_4341": {
-    "node_id": "KARAR_BAM_IST_2021_4341",
-    "node_type": "karar",
-    "embed_text": "İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi 2021/4341 esas 2022/5512 karar eşit davranma borcu cinsiyet ayrımı ücret farkı 4857 madde 5 ayrımcılık tazminatı ispat standı onama",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi",
-      "esas_no": "2021/4341",
-      "karar_no": "2022/5512",
-      "karar_tarihi": "2022-03-30",
-      "ilk_derece_ref": "KARAR_ID_2018_2290",
-      "konu": "cinsiyet ayrımı - ücret eşitsizliği - istinaf",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "4857/5"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2018_2290",
-        "YRG_9HD_2016_34102"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_IST_2021_4341_GEREKCESI": {
-    "node_id": "KARAR_BAM_IST_2021_4341_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İlk derece mahkemesinin cinsiyet ayrımcılığının tespitinde uyguladığı ispat yükü çevrilmesi mekanizması 4857 m.5 ile örtüşmektedir. İşveren esaslı ve objektif bir neden gösterememiştir. Ücret farkı alacağı ve ayrımcılık tazminatı doğru hesaplanmıştır. İlk derece kararı onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_IST_2021_4341",
-      "ilk_derece_ref": "KARAR_ID_2018_2290",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "4857/5"
-      ],
-      "anahtar_ilkeler": [
-        "eşit davranma ispat yükü",
-        "ayrımcılık tazminatı onayı"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_SAM_2021_3312": {
-    "node_id": "KARAR_BAM_SAM_2021_3312",
-    "node_type": "karar",
-    "embed_text": "Samsun Bölge Adliye Mahkemesi 2. Hukuk Dairesi 2021/3312 esas 2022/1890 karar eser sözleşmesi götürü bedel TBK madde 480 ek ücret talebinin reddi onama yüklenici",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "Samsun Bölge Adliye Mahkemesi 2. Hukuk Dairesi",
-      "esas_no": "2021/3312",
-      "karar_no": "2022/1890",
-      "karar_tarihi": "2022-07-05",
-      "ilk_derece_ref": "KARAR_ID_2020_5511",
-      "konu": "götürü bedel eser sözleşmesi - ek ücret talebinin reddi - istinaf",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TBK/480"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2020_5511"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "borçlar hukuku - inşaat"
-    }
-  },
-  "KARAR_BAM_SAM_2021_3312_GEREKCESI": {
-    "node_id": "KARAR_BAM_SAM_2021_3312_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Yüklenicinin ek ücret talebi TBK m.480/2 kapsamında öngörülemeyen esaslı sebepler istisnasına girmemektedir. İnşaat malzemeleri fiyat artışları, ihale veya sözleşme akdi döneminde piyasa koşullarından bilinebilir nitelikteydi. Götürü bedel sistemi tarafların fiyat riskini paylaşmamasına; yüklenicinin riski üstlenmesine dayanmaktadır. İlk derece kararı onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_SAM_2021_3312",
-      "ilk_derece_ref": "KARAR_ID_2020_5511",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/480"
-      ],
-      "anahtar_ilkeler": [
-        "götürü bedel riski yükleniciye ait",
-        "öngörülebilir fiyat artışı istisnaya girmez"
-      ],
-      "hukuk_dali": "borçlar hukuku - inşaat"
-    }
-  },
-  "KARAR_BAM_ERZ_2021_2891": {
-    "node_id": "KARAR_BAM_ERZ_2021_2891",
-    "node_type": "karar",
-    "embed_text": "Erzurum Bölge Adliye Mahkemesi 1. Hukuk Dairesi 2021/2891 esas 2022/1441 karar tapu iptali sahte vekâletname TMK madde 683 716 mülkiyet hakkı koruması onama",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "Erzurum Bölge Adliye Mahkemesi 1. Hukuk Dairesi",
-      "esas_no": "2021/2891",
-      "karar_no": "2022/1441",
-      "karar_tarihi": "2022-09-14",
-      "ilk_derece_ref": "KARAR_ID_2019_890",
-      "konu": "tapu iptali - sahte vekâletname - mülkiyet hakkı - istinaf",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TMK/683",
-        "TMK/716"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2019_890",
-        "YRG_HGK_2003_603"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_BAM_ERZ_2021_2891_GEREKCESI": {
-    "node_id": "KARAR_BAM_ERZ_2021_2891_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Sahte vekâletname ile gerçekleştirilen tapu devrinin hukuki geçerliliği bulunmamaktadır. Üçüncü kişilerin iyiniyeti, sahte imzayla yapılan işlemlerde korunmaz (YHK HGK 2003/603). Gerçek malikin mülkiyet hakkının tescil yoluyla yeniden tesisi için tapu iptali zorunludur. İlk derece kararı onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_ERZ_2021_2891",
-      "ilk_derece_ref": "KARAR_ID_2019_890",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/683",
-        "TMK/716"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_2003_603"
-      ],
-      "anahtar_ilkeler": [
-        "sahte imzada iyiniyet korunmaz",
-        "tapu iptali zorunluluğu"
-      ],
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_BAM_ANK_2024_1101": {
-    "node_id": "KARAR_BAM_ANK_2024_1101",
-    "node_type": "karar",
-    "embed_text": "Ankara Bölge Adliye Mahkemesi 9. Hukuk Dairesi 2024/1101 esas 2024/3201 karar kıdem tazminatı ek talep zamanaşımı 1475 madde 14 işçi istinaf reddi",
-    "metadata": {
-      "mahkeme_turu": "bam_istinaf",
-      "mahkeme_adi": "Ankara Bölge Adliye Mahkemesi 9. Hukuk Dairesi",
-      "esas_no": "2024/1101",
-      "karar_no": "2024/3201",
-      "karar_tarihi": "2024-05-20",
-      "konu": "kıdem tazminatı ek talep - zamanaşımı - istinaf",
-      "sonuc": "RED",
-      "ret_gerekce_ozeti": "Kesinleşmiş karara konu kıdem tazminatına ek talep zamanaşımına uğramıştır",
-      "atif_yapilan_kanunlar": [
-        "1475/14",
-        "TBK/146"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_BAM_ANK_2024_1101_GEREKCESI": {
-    "node_id": "KARAR_BAM_ANK_2024_1101_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı, daha önce kesinleşmiş kıdem tazminatı kararının ardından ek kıdem tazminatı taleplerini davalıya yöneltmiştir. Kesinleşmiş karardan doğan alacaklara on yıllık zamanaşımı uygulanmaktadır (TBK m.146). Ancak bu dava, kesinleşme tarihinden on yılı aşkın bir süre sonra açılmıştır. Zamanaşımı defi dikkate alınarak talep reddedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_BAM_ANK_2024_1101",
-      "gerekce_turu": "istinaf_denetimi",
-      "atif_yapilan_kanunlar": [
-        "1475/14",
-        "TBK/146"
-      ],
-      "anahtar_ilkeler": [
-        "kesinleşmiş karara ek talep zamanaşımı",
-        "on yıllık zamanaşımı"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2014_832": {
-    "node_id": "KARAR_ID_2014_832",
-    "node_type": "karar",
-    "embed_text": "İstanbul Anadolu 3. Asliye Hukuk Mahkemesi 2014/832 esas 2015/214 karar haksız fiil tazminat davası davalı işçinin alkollü araç kullanması trafik kazası yaralanma TBK madde 49 kusurlu ve hukuka aykırı fiil haksız fiil sorumluluğu maddi manevi tazminat tespit edilen kusur payı yüzde seksen davalı davacı talep edebileceği maddi ve manevi tazminata ilişkin hüküm kuruldu",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul Anadolu 3. Asliye Hukuk Mahkemesi",
-      "esas_no": "2014/832",
-      "karar_no": "2015/214",
-      "karar_tarihi": "2015-03-17",
-      "konu": "haksız fiil - trafik kazası - maddi manevi tazminat",
-      "talep_konusu": "maddi tazminat 85.000 TL, manevi tazminat 30.000 TL",
-      "sonuc": "kısmen kabul",
-      "hukmedilen_miktar": "maddi tazminat 68.000 TL, manevi tazminat 15.000 TL",
-      "atif_yapilan_kanunlar": [
-        "TBK/49",
-        "TBK/51"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "borçlar hukuku - haksız fiil"
-    }
-  },
-  "KARAR_ID_2014_832_GEREKCESI": {
-    "node_id": "KARAR_ID_2014_832_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davalının alkollü araç kullandığı, trafik kazasına sebebiyet verdiği ve davacının yaralanmasına yol açtığı tartışmasızdır. TBK m.49/1 uyarınca kusurlu ve hukuka aykırı bir fiille başkasına zarar veren bu zararı gidermekle yükümlüdür. Kusur tespitinde bilirkişi raporu esas alınmış, davalının yüzde seksen kusurlu olduğu saptanmıştır. Maddi zarar kapsamında tedavi giderleri, iş göremezlik tazminatı ve kalıcı engellilik payı değerlendirilmiş; manevi zararın takdirinde ise TBK m.51 gereği hakkaniyete uygun miktar belirlenmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2014_832",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TBK/49",
-        "TBK/51"
-      ],
-      "anahtar_ilkeler": [
-        "kusurlu sorumluluk",
-        "bilirkişi kanalıyla kusur tespiti",
-        "manevi tazminatta hakkaniyet"
-      ],
-      "hukuk_dali": "borçlar hukuku - haksız fiil"
-    }
-  },
-  "KARAR_ID_2015_1102": {
-    "node_id": "KARAR_ID_2015_1102",
-    "node_type": "karar",
-    "embed_text": "Ankara 5. Aile Mahkemesi 2015/1102 esas 2016/455 karar boşanma davası evlilik birliğinin temelden sarsılması TMK madde 166 müşterek çocuğun velayeti nafaka maddi manevi tazminat yüksek kusurun araştırılması",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Ankara 5. Aile Mahkemesi",
-      "esas_no": "2015/1102",
-      "karar_no": "2016/455",
-      "karar_tarihi": "2016-06-22",
-      "konu": "boşanma - TMK m.166 - velayet - nafaka - tazminat",
-      "talep_konusu": "boşanma, velayet, nafaka, tazminat",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "boşanmaya hükmedildi; velayet anneye, nafaka 1.500 TL/ay; tazminat 40.000 TL",
-      "atif_yapilan_kanunlar": [
-        "TMK/166",
-        "TMK/174",
-        "TMK/182"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_ANK_2016_3201",
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_ID_2015_1102_GEREKCESI": {
-    "node_id": "KARAR_ID_2015_1102_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Taraflar arasındaki evlilik birliğinin temelden sarsıldığı tanık beyanları ve tarafların birbirine karşı tutumlarından anlaşılmaktadır. TMK m.166/1 kapsamında ortak hayatın sürdürülmesi her iki taraftan da beklenmemektedir. Kusur değerlendirmesinde davalı eşin ağır kusurlu olduğu tespit edilmiş; davacı lehine TMK m.174/1 kapsamında maddi, m.174/2 kapsamında manevi tazminata hükmedilmiştir. Velayet, çocuğun üstün yararı gözetilerek TMK m.182 uyarınca anneye bırakılmış; baba için düzenli kişisel ilişki belirlenerek tedbir nafakası aylık 1.500 TL olarak takdir edilmiştir. Tazminat davalının ağır kusuruna rağmen hakkaniyet çerçevesinde belirlenmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2015_1102",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TMK/166",
-        "TMK/174",
-        "TMK/182"
-      ],
-      "anahtar_ilkeler": [
-        "evlilik birliğinin sarsılması",
-        "çocuğun üstün yararı",
-        "kusur değerlendirmesi"
-      ],
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_ID_2016_78": {
-    "node_id": "KARAR_ID_2016_78",
-    "node_type": "karar",
-    "embed_text": "İzmir 8. İş Mahkemesi 2016/78 esas 2016/312 karar işe iade davası iş güvencesi İş Kanunu madde 18 21 işverenin geçerli sebep gösterme yükümlülüğü performans yetersizliği soyut iddia fesih geçersizliği işe iade",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İzmir 8. İş Mahkemesi",
-      "esas_no": "2016/78",
-      "karar_no": "2016/312",
-      "karar_tarihi": "2016-09-05",
-      "konu": "işe iade - iş güvencesi aykırılık - performans gerekçesi geçersizlik",
-      "talep_konusu": "feshin geçersizliği ve işe iade",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "fesih geçersiz; işe iade; işe başlatmama tazminatı 5 aylık brüt ücret; boşta geçen süre 4 aylık brüt ücret",
-      "atif_yapilan_kanunlar": [
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_9HD_2014_24100"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2016_78_GEREKCESI": {
-    "node_id": "KARAR_ID_2016_78_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İş sözleşmesi 4857 sayılı İş Kanunu m.18 kapsamında iş güvencesine tabi olan işçinin işten çıkarılırken işverence ileri sürülen performans yetersizliği gerekçesi soyut iddiayla sınırlı kalmış; işçiye önceden hedef belirlenmediği, dönemsel değerlendirme yapılmadığı ve iyileştirme fırsatı tanınmadığı anlaşılmaktadır. Fesih geçerli sebebe dayanmamaktadır. İşe iade kararı 4857 m.21 uyarınca verilmiş; işçinin işe başlatılmaması halinde 5 aylık ücret tutarında tazminat ödenecektir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2016_78",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_9HD_2014_24100"
-      ],
-      "anahtar_ilkeler": [
-        "işe iade",
-        "geçerli sebep",
-        "performans gerekçesi soyut iddia yetersizliği",
-        "iş güvencesi"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2012_541": {
-    "node_id": "KARAR_ID_2012_541",
-    "node_type": "karar",
-    "embed_text": "Bursa 2. Asliye Hukuk Mahkemesi 2012/541 esas 2013/88 karar tapu iptali ve tescil davası tapu devri sözleşmesinin muvazaalı olduğu iddiası TMK madde 706 716 taşınmazın üçüncü kişiye devri davalının iddiasına karşı",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Bursa 2. Asliye Hukuk Mahkemesi",
-      "esas_no": "2012/541",
-      "karar_no": "2013/88",
-      "karar_tarihi": "2013-05-14",
-      "konu": "tapu iptali ve tescil - muvazaa iddiası",
-      "sonuc": "kabul",
-      "atif_yapilan_kanunlar": [
-        "TMK/706",
-        "TMK/716",
-        "TBK/19"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_1996_64"
-      ],
-      "kanun_yolu": "YARGITAY'A GİTTİ",
-      "yargitay_ref": "KARAR_YRG_1HD_2013_11205",
-      "hukuk_dali": "eşya hukuku - miras hukuku"
-    }
-  },
-  "KARAR_ID_2012_541_GEREKCESI": {
-    "node_id": "KARAR_ID_2012_541_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Taraflar arasındaki tapu devri işleminin gerçek bir satış sözleşmesine mi yoksa muvazaalı bir işleme mi dayandığı incelenmiş; davalı-kök malikin karşılıksız olarak tapu devrettiği, bedel ödenmediği ve devrin mal kaçırma amacı taşıdığı delillerden anlaşılmıştır. TMK m.706 uyarınca taşınmaz mülkiyetinin devrine dair sözleşmeler resmi şekle tabiyken, TBK m.19 gereği tarafların gerçek iradesi araştırıldığında muvazaa tespit edilmiştir. Tapu iptali ve davacı adına tescile hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2012_541",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TMK/706",
-        "TBK/19"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_1996_64"
-      ],
-      "anahtar_ilkeler": [
-        "muvazaa",
-        "gerçek irade araştırması",
-        "tapu iptali"
-      ],
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_ID_2017_3401": {
-    "node_id": "KARAR_ID_2017_3401",
-    "node_type": "karar",
-    "embed_text": "İstanbul Anadolu 12. Asliye Hukuk Mahkemesi 2017/3401 esas 2018/901 karar genel işlem koşulları banka tarafından hazırlanan tüketici kredi sözleşmesindeki masraf kalemleri TBK madde 20 21 25 şaşırtıcı şartlar hakkaniyet denetimi tüketici aleyhine hükümler",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul Anadolu 12. Asliye Hukuk Mahkemesi",
-      "esas_no": "2017/3401",
-      "karar_no": "2018/901",
-      "karar_tarihi": "2018-04-11",
-      "konu": "genel işlem koşulları - banka masraf iadesi - tüketici",
-      "talep_konusu": "banka masrafları iadesi 3.200 TL",
-      "sonuc": "kısmen kabul",
-      "hukmedilen_miktar": "2.800 TL iade",
-      "atif_yapilan_kanunlar": [
-        "TBK/20",
-        "TBK/21",
-        "TBK/25"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_13HD_2019_9812"
-      ],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_IST_2018_7821",
-      "hukuk_dali": "borçlar hukuku - tüketici"
-    }
-  },
-  "KARAR_ID_2017_3401_GEREKCESI": {
-    "node_id": "KARAR_ID_2017_3401_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Banka ile davacı arasındaki kredi sözleşmesi TBK m.20 kapsamında genel işlem koşulu niteliğindedir. Sözleşme standart formatta sunulmuş, tüketiciye içeriği tartışma imkânı tanınmamıştır. Dosya masrafı ve ipotek tesis ücreti adı altında kesilen tutarlar TBK m.21/2 kapsamında şaşırtıcı şart niteliğindedir. TBK m.25 hakkaniyet denetimi kapsamında söz konusu masraf kalemleri geçersiz sayılmış; tarafların gerçek anlamda mutabık kaldığı kalemlerin iadesi talebinin reddi gerekmiştir. Bankacılık Kanunu kapsamındaki bazı masraflar ise yasal zorunluluktan kaynaklandığı için iade dışı bırakılmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2017_3401",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TBK/20",
-        "TBK/21",
-        "TBK/25"
-      ],
-      "anahtar_ilkeler": [
-        "genel işlem koşulları",
-        "şaşırtıcı şartlar",
-        "hakkaniyet denetimi",
-        "banka masrafı"
-      ],
-      "hukuk_dali": "borçlar hukuku - tüketici"
-    }
-  },
-  "KARAR_ID_2016_2231": {
-    "node_id": "KARAR_ID_2016_2231",
-    "node_type": "karar",
-    "embed_text": "Ankara 11. İş Mahkemesi 2016/2231 esas 2017/776 karar kıdem ihbar tazminatı yıllık ücretli izin alacağı 1475 sayılı İş Kanunu madde 14 4857 sayılı İş Kanunu madde 17 işçinin altı yıl hizmet süresi kıdem tazminatı hesabı",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Ankara 11. İş Mahkemesi",
-      "esas_no": "2016/2231",
-      "karar_no": "2017/776",
-      "karar_tarihi": "2017-03-28",
-      "konu": "kıdem tazminatı - ihbar tazminatı - yıllık izin",
-      "talep_konusu": "kıdem tazminatı, ihbar tazminatı, yıllık izin alacağı",
-      "sonuc": "kısmen kabul",
-      "hukmedilen_miktar": "kıdem tazminatı 42.000 TL, ihbar tazminatı 12.000 TL, yıllık izin 6.500 TL",
-      "atif_yapilan_kanunlar": [
-        "1475/14",
-        "4857/17"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2016_2231_GEREKCESI": {
-    "node_id": "KARAR_ID_2016_2231_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İşçi altı yıl süreyle çalışmış; iş sözleşmesi işveren tarafından ileri sürülen ekonomik sebeple sonlandırılmıştır. Kıdem tazminatına, 1475 sayılı İK m.14 uyarınca, son brüt ücreti esas alınarak hesaplama yapılmış; sekiz haftalık ihbar süresine karşılık gelen ihbar tazminatı talep edilmiştir. İhbar süresi kullandırılmadığından 4857 m.17 kapsamında tazminata hükmedilmiştir. Yıllık izin alacağı ise kullandırılmayan izin günleri üzerinden son ücretle hesaplanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2016_2231",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "1475/14",
-        "4857/17"
-      ],
-      "anahtar_ilkeler": [
-        "kıdem tazminatı son ücret esas",
-        "ihbar süresi sekiz hafta",
-        "yıllık izin alacağı"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2019_551": {
-    "node_id": "KARAR_ID_2019_551",
-    "node_type": "karar",
-    "embed_text": "İstanbul 4. Aile Mahkemesi 2019/551 esas 2020/212 karar babalık davası soybağının tespiti TMK madde 295 DNA testi babalık karinesi çürütme",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul 4. Aile Mahkemesi",
-      "esas_no": "2019/551",
-      "karar_no": "2020/212",
-      "karar_tarihi": "2020-02-18",
-      "konu": "babalık davası - soybağı tespiti - DNA delili",
-      "sonuc": "kabul",
-      "atif_yapilan_kanunlar": [
-        "TMK/282",
-        "TMK/295"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_IST_2020_2110",
-      "hukuk_dali": "aile hukuku - soybağı"
-    }
-  },
-  "KARAR_ID_2019_551_GEREKCESI": {
-    "node_id": "KARAR_ID_2019_551_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı, davalının babası olduğunun tespitini talep etmektedir. Taraflar arasında biyolojik soybağının bulunup bulunmadığının tespiti için bilirkişi aracılığıyla DNA analizi yaptırılmıştır. Analiz sonucu yüzde doksan dokuz virgül doksan sekizin üzerinde olasılıkla davalının davacının biyolojik babası olduğunu ortaya koymuştur. TMK m.295 uyarınca babalık davası hükmü gereğince soybağının kurulmasına karar verilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2019_551",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TMK/282",
-        "TMK/295"
-      ],
-      "anahtar_ilkeler": [
-        "DNA delili",
-        "biyolojik soybağı tespiti",
-        "babalık davası"
-      ],
-      "hukuk_dali": "aile hukuku - soybağı"
-    }
-  },
-  "KARAR_ID_2020_88": {
-    "node_id": "KARAR_ID_2020_88",
-    "node_type": "karar",
-    "embed_text": "Mersin 3. Sulh Hukuk Mahkemesi 2020/88 esas 2020/441 karar kira tahliye davası kiracının temerrüdü TBK madde 352 iki haklı ihtar HMK madde 3 sulh hukuk mahkemesinin görevi",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Mersin 3. Sulh Hukuk Mahkemesi",
-      "esas_no": "2020/88",
-      "karar_no": "2020/441",
-      "karar_tarihi": "2020-11-23",
-      "konu": "kira tahliye - iki haklı ihtar - kiracı temerrüdü",
-      "sonuc": "kabul",
-      "atif_yapilan_kanunlar": [
-        "TBK/352",
-        "HMK/3"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "borçlar hukuku - kira"
-    }
-  },
-  "KARAR_ID_2020_88_GEREKCESI": {
-    "node_id": "KARAR_ID_2020_88_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı kiraya veren, davalı kiracıyı TBK m.352 kapsamında iki haklı ihtar gerekçesiyle tahliye istemektedir. İki ayrı kira döneminde yazılı ihtar yapıldığı ve kiracının ödeme yapmadığı belgelerle kanıtlanmıştır. Kiracının iki kira dönemi ödeme geciktirmesi tahliye şartlarını oluşturmaktadır. HMK m.3 uyarınca kira tahliye davaları sulh hukuk mahkemesinde görülmektedir. Tahliyeye karar verilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2020_88",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TBK/352",
-        "HMK/3"
-      ],
-      "anahtar_ilkeler": [
-        "iki haklı ihtar",
-        "kiracı temerrüdü",
-        "tahliye"
-      ],
-      "hukuk_dali": "borçlar hukuku - kira"
-    }
-  },
-  "KARAR_ID_2021_1845": {
-    "node_id": "KARAR_ID_2021_1845",
-    "node_type": "karar",
-    "embed_text": "Gaziantep 2. Asliye Hukuk Mahkemesi 2021/1845 esas 2022/632 karar ayıplı araç satışı TBK madde 219 220 ayıptan sorumluluk sözleşmeden dönme veya bedel indirimi sıfır kilometre araçta ayıp",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Gaziantep 2. Asliye Hukuk Mahkemesi",
-      "esas_no": "2021/1845",
-      "karar_no": "2022/632",
-      "karar_tarihi": "2022-05-09",
-      "konu": "ayıplı araç - ayıptan sorumluluk - bedel iadesi",
-      "talep_konusu": "araç bedeli iadesi 285.000 TL",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "285.000 TL araç bedeli iadesi",
-      "atif_yapilan_kanunlar": [
-        "TBK/219",
-        "TBK/220"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_13HD_2019_1205"
-      ],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_GAZ_2022_9131",
-      "hukuk_dali": "borçlar hukuku - satım"
-    }
-  },
-  "KARAR_ID_2021_1845_GEREKCESI": {
-    "node_id": "KARAR_ID_2021_1845_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı 'sıfır kilometre' olarak satın aldığı aracın önceden servis onarımı gördüğünü, motor bölümünde imalat hatası bulunduğunu öğrenerek dava açmıştır. TBK m.219 uyarınca satıcı, satış sözleşmesinde taahhüt edilen niteliklere sahip olmayan bir malın ayıplarından sorumludur; satıcı bu ayıpların varlığını bilmese bile sorumluluğu devam eder. Ayıbın niteliği, aracın sözleşmede kararlaştırılan 'sıfır km' vasfını ortadan kaldırmaktadır. TBK m.220 gereğince satıcının önceden yapılan onarımı gizlemiş olması, sorumluluktan kurtulma anlaşmalarını geçersiz kılmaktadır. Davacının sözleşmeden dönme talebi kabul edilmiş; araç bedeli iade hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2021_1845",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TBK/219",
-        "TBK/220"
-      ],
-      "anahtar_ilkeler": [
-        "ayıplı araç",
-        "sıfır km vasfının ayıbı",
-        "kusursuz ayıp sorumluluğu",
-        "sözleşmeden dönme"
-      ],
-      "hukuk_dali": "borçlar hukuku - satım"
-    }
-  },
-  "KARAR_ID_2018_2290": {
-    "node_id": "KARAR_ID_2018_2290",
-    "node_type": "karar",
-    "embed_text": "İstanbul 6. İş Mahkemesi 2018/2290 esas 2019/880 karar eşit davranma borcu cinsiyet ayrımı İş Kanunu madde 5 aynı işi yapan erkek çalışanlar ile davacı kadın çalışan arasındaki ücret farkı",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul 6. İş Mahkemesi",
-      "esas_no": "2018/2290",
-      "karar_no": "2019/880",
-      "karar_tarihi": "2019-07-15",
-      "konu": "eşit davranma borcu - cinsiyet ayrımı - ücret farkı tazminatı",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "ücret fark alacağı 18.000 TL, 4 aylık ayrımcılık tazminatı 22.000 TL",
-      "atif_yapilan_kanunlar": [
-        "4857/5"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_9HD_2016_34102"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2018_2290_GEREKCESI": {
-    "node_id": "KARAR_ID_2018_2290_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı işçi, aynı pozisyondaki erkek çalışanlar ile karşılaştırıldığında düşük ücret aldığını iddia etmiş; bu iddianın ispatı için bordro kayıtları, tanık beyanları ve SGK kayıtları incelenmiştir. 4857 m.5/4 uyarınca aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret kararlaştırılamaz. İspat yükü değerlendirmesinde davacı önce ücret eşitsizliğini kabul edilebilir delillerle ortaya koymuş; ardından ispat yükü işverene geçmiştir. İşveren esaslı bir neden göstermediğinden eşitsizliğin ayrımcılıktan kaynaklandığı kabul edilmiştir. 4857 m.5/5 uyarınca dört aya kadar tazminat ve yoksun kalınan ücret farkı hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2018_2290",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "4857/5"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_9HD_2016_34102"
-      ],
-      "anahtar_ilkeler": [
-        "eşit davranma ilkesi",
-        "cinsiyet ayrımı",
-        "ispat yükü çevrilmesi",
-        "ayrımcılık tazminatı"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2022_3312": {
-    "node_id": "KARAR_ID_2022_3312",
-    "node_type": "karar",
-    "embed_text": "İzmir 3. Asliye Ticaret Mahkemesi 2022/3312 esas 2023/1145 karar ön sözleşme bağlayıcılığı TBK madde 2 taşınmaz satışına ilişkin ön sözleşme ilerideki satışın esaslı şartları mevcut noter onayı",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İzmir 3. Asliye Ticaret Mahkemesi",
-      "esas_no": "2022/3312",
-      "karar_no": "2023/1145",
-      "karar_tarihi": "2023-04-17",
-      "konu": "ön sözleşme - bağlayıcılık - cezai şart",
-      "talep_konusu": "cayma tazminatı 150.000 TL",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "150.000 TL cezai şart",
-      "atif_yapilan_kanunlar": [
-        "TBK/2"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_1994_935"
-      ],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_IZM_2023_7741",
-      "hukuk_dali": "borçlar hukuku"
-    }
-  },
-  "KARAR_ID_2022_3312_GEREKCESI": {
-    "node_id": "KARAR_ID_2022_3312_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Taraflar arasında imzalanan ön sözleşme TBK m.2 kapsamında geçerli olup taşınmazın devrine ilişkin esaslı şartları içermekte ve noter onaylıdır. Ön sözleşme, tarafları asıl sözleşmeyi akdetme borcuyla bağlamaktadır. Davalının sözleşmeden dönmesi haksız olup kararlaştırılan cezai şart uygulanır. Hâkim TBK m.2/2'ye göre sözleşme şekline (asıl sözleşme olan tapu devri resmi şekli) uymak zorunda olan ön sözleşmenin noter onaylı yapılmış olduğunu tespit etmiş; YHK 1994/13-935 emsal kararına da dayanarak tüm koşulların sağlandığını belirlemiş ve cezai şartın tahsiline hükmetmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2022_3312",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TBK/2"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_1994_935"
-      ],
-      "anahtar_ilkeler": [
-        "ön sözleşme bağlayıcılığı",
-        "resmi şekle tabi ön sözleşme",
-        "cezai şart"
-      ],
-      "hukuk_dali": "borçlar hukuku"
-    }
-  },
-  "KARAR_ID_2013_712": {
-    "node_id": "KARAR_ID_2013_712",
-    "node_type": "karar",
-    "embed_text": "Konya 1. Asliye Hukuk Mahkemesi 2013/712 esas 2014/310 karar tenkis davası miras saklı pay TMK madde 560 murisin ölüme bağlı tasarrufu saklı pay ihlali",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Konya 1. Asliye Hukuk Mahkemesi",
-      "esas_no": "2013/712",
-      "karar_no": "2014/310",
-      "karar_tarihi": "2014-09-03",
-      "konu": "tenkis davası - saklı pay - miras",
-      "sonuc": "kısmen kabul",
-      "atif_yapilan_kanunlar": [
-        "TMK/560"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_2HD_2006_20451"
-      ],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "miras hukuku"
-    }
-  },
-  "KARAR_ID_2013_712_GEREKCESI": {
-    "node_id": "KARAR_ID_2013_712_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Muris, ölümünden önce taşınmazını üçüncü kişilere vasiyetname ile devretmiş; bu durum davacı zorunlu mirasçıların saklı paylarını ihlal etmiştir. TMK m.560/1 uyarınca saklı paylarının karşılığını alamayan mirasçılar, tasarruf oranını aşan kısım için tenkis talebinde bulunabilir. Mahkeme, miras bırakanın tasarruf edilebilir kısmını bilirkişiye hesaplattırmış; saklı pay oranını aşan tasarrufu tenkis ederek davacı lehine hükmetmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2013_712",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TMK/560"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_2HD_2006_20451"
-      ],
-      "anahtar_ilkeler": [
-        "tenkis davası",
-        "saklı pay",
-        "tasarruf edilebilir kısmın hesabı"
-      ],
-      "hukuk_dali": "miras hukuku"
-    }
-  },
-  "KARAR_ID_2014_5022": {
-    "node_id": "KARAR_ID_2014_5022",
-    "node_type": "karar",
-    "embed_text": "Ankara 19. İş Mahkemesi 2014/5022 esas 2015/1890 karar zincirleme belirli süreli iş sözleşmesi İş Kanunu madde 11 esaslı sebep bulunmaksızın art arda akdedilen sözleşmelerin belirsiz süreli sayılması işçinin işe iade hakkı",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Ankara 19. İş Mahkemesi",
-      "esas_no": "2014/5022",
-      "karar_no": "2015/1890",
-      "karar_tarihi": "2015-10-21",
-      "konu": "zincirleme belirli süreli sözleşme - belirsiz süreli dönüşüm - işe iade",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "fesih geçersiz; işe iade; 4 aylık boşta geçen süre; 6 aylık işe başlatmama tazminatı",
-      "atif_yapilan_kanunlar": [
-        "4857/11",
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_ANK_2015_4421",
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2014_5022_GEREKCESI": {
-    "node_id": "KARAR_ID_2014_5022_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İşçi, aynı işverenle art arda dört dönem, her biri altı aylık belirli süreli iş sözleşmesi imzalamıştır. 4857 m.11/2 uyarınca esaslı bir neden olmaksızın birden fazla üst üste yapılan belirli süreli sözleşmeler belirsiz süreli sayılır. Sözleşme konusu işin salt mevsimlik, proje tabanlı veya benzeri nitelikte olmadığı; aksine sürekli devam eden bir iş olduğu anlaşılmaktadır. Bu durumda işçi 4857 m.18 kapsamındaki iş güvencesinden yararlanmaya hak kazanmıştır. Feshin geçerli bir sebebe dayanmadığı tespit edilerek m.21 çerçevesinde işe iade kararı verilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2014_5022",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "4857/11",
-        "4857/18",
-        "4857/21"
-      ],
-      "anahtar_ilkeler": [
-        "zincirleme sözleşme yasağı",
-        "belirsiz süreli dönüşüm",
-        "iş güvencesi"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_ID_2021_3341": {
-    "node_id": "KARAR_ID_2021_3341",
-    "node_type": "karar",
-    "embed_text": "İstanbul Anadolu 9. Aile Mahkemesi 2021/3341 esas 2022/1102 karar velayetin değiştirilmesi TMK madde 183 çocuğun üstün yararı velayetin anadan babaya devri",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul Anadolu 9. Aile Mahkemesi",
-      "esas_no": "2021/3341",
-      "karar_no": "2022/1102",
-      "karar_tarihi": "2022-08-30",
-      "konu": "velayetin değiştirilmesi - çocuğun üstün yararı",
-      "sonuc": "kabul",
-      "atif_yapilan_kanunlar": [
-        "TMK/183"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_ID_2021_3341_GEREKCESI": {
-    "node_id": "KARAR_ID_2021_3341_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Velayet annede olup çocuk boşanma sonrasında anneyle yaşamaktadır. Baba, annenin yurt dışına taşındığını ve çocukla kişisel ilişki kurma imkânını ciddi biçimde engellediğini öne sürerek velayetin kendisine verilmesini talep etmektedir. Pedagog ve psikolog raporları ile çocuğun beyanı esas alınmıştır. TMK m.183 kapsamında zorunlu hal (annenin başka bir yere gitmesi) ortaya çıkmış ve çocuğun babasıyla daha yakın ilişki kurmasının üstün yararına olduğu değerlendirilmiştir. Velayetin babaya devrine karar verilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2021_3341",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TMK/183"
-      ],
-      "anahtar_ilkeler": [
-        "velayetin değiştirilmesi",
-        "zorunlu hal yurt dışına taşınma",
-        "çocuğun üstün yararı"
-      ],
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_ID_2023_4521": {
-    "node_id": "KARAR_ID_2023_4521",
-    "node_type": "karar",
-    "embed_text": "Ankara 4. Tüketici Mahkemesi 2023/4521 esas 2024/1205 karar ayıplı mal 6502 sayılı Tüketicinin Korunması Hakkında Kanun madde 11 hizmet kusuru tamir hakkı ücretsiz onarım yenisiyle değiştirme bedel iade seçimlik haklar",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Ankara 4. Tüketici Mahkemesi",
-      "esas_no": "2023/4521",
-      "karar_no": "2024/1205",
-      "karar_tarihi": "2024-02-06",
-      "konu": "ayıplı mal - tüketici hakkı - bedel iadesi",
-      "talep_konusu": "bedel iadesi 45.000 TL",
-      "sonuc": "kabul",
-      "atif_yapilan_kanunlar": [
-        "6502/11"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "tüketici hukuku"
-    }
-  },
-  "KARAR_ID_2023_4521_GEREKCESI": {
-    "node_id": "KARAR_ID_2023_4521_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Tüketici, satın aldığı beyaz eşyada imalat kaynaklı ayıp tespit edildiğini, onarım girişimlerinin kalıcı sonuç vermediğini belirtmektedir. 6502 sayılı TKHK m.11 uyarınca ayıplı mala karşı tüketicinin ücretsiz onarım, yenisiyle değiştirme, bedelin iadesi veya bedel indirimi seçimlik hakları mevcuttur. Malın onarımının mümkün olmadığına dair teknik rapor esas alınmıştır. Davacı bedel iadesi hakkını kullanmış; bu hakkın kullanılması haklı bulunarak iadesine hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2023_4521",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "6502/11"
-      ],
-      "anahtar_ilkeler": [
-        "tüketici seçimlik hakları",
-        "ayıplı mal",
-        "bedel iadesi"
-      ],
-      "hukuk_dali": "tüketici hukuku"
-    }
-  },
-  "KARAR_ID_2011_1120": {
-    "node_id": "KARAR_ID_2011_1120",
-    "node_type": "karar",
-    "embed_text": "İstanbul 3. Asliye Ticaret Mahkemesi 2011/1120 esas 2012/432 karar ticari sözleşme yorumu TBK geçiş dönemi 818 sayılı BK madde 18 sözleşmenin yorumu gerçek irade",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul 3. Asliye Ticaret Mahkemesi",
-      "esas_no": "2011/1120",
-      "karar_no": "2012/432",
-      "karar_tarihi": "2012-04-03",
-      "konu": "sözleşme yorumu - gerçek irade - 818 BK m.18 / TBK m.19",
-      "sonuc": "kısmen kabul",
-      "atif_yapilan_kanunlar": [
-        "818/18",
-        "TBK/19"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "YARGITAY'A GİTTİ",
-      "hukuk_dali": "borçlar hukuku - ticaret hukuku",
-      "not": "Karar TBK yürürlüğe girmeden önce açılan dava için 818 sayılı BK uygulandı"
-    }
-  },
-  "KARAR_ID_2011_1120_GEREKCESI": {
-    "node_id": "KARAR_ID_2011_1120_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Dava, TBK'nın yürürlüğe girdiği 01/07/2012 tarihinden önce 818 sayılı BK döneminde açılmıştır. 818 BK m.18 uyarınca bir akdin şeklini ve şartlarını belirlerken iki tarafın gerçek ve müşterek muradını aramak gerektiği; vâkıalara bağlanılan isim ve ifadelere itibar edilmeyeceği ilkesine dayanılmıştır. Sözleşmenin yorumunda irade teorisinin esas alındığı dönemde, tarafların aksi yönde bir niyetle hareket ettiği anlaşılmaktadır. Yargılama TBK yürürlüğe girdikten sonra devam etmiş; m.19'un aynı ilkeyi benimsediği görülerek sonuç değişmemiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2011_1120",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "818/18",
-        "TBK/19"
-      ],
-      "anahtar_ilkeler": [
-        "sözleşme yorumu",
-        "gerçek irade",
-        "kanunlar arası geçiş"
-      ],
-      "hukuk_dali": "borçlar hukuku"
-    }
-  },
-  "KARAR_ID_2020_5511": {
-    "node_id": "KARAR_ID_2020_5511",
-    "node_type": "karar",
-    "embed_text": "Samsun 2. Asliye Hukuk Mahkemesi 2020/5511 esas 2021/2003 karar eser sözleşmesi götürü bedel TBK madde 480 yüklenicinin ek ücret talebinin reddi inşaat sözleşmesi öda",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Samsun 2. Asliye Hukuk Mahkemesi",
-      "esas_no": "2020/5511",
-      "karar_no": "2021/2003",
-      "karar_tarihi": "2021-06-14",
-      "konu": "eser sözleşmesi götürü bedel - ek ücret talebinin reddi",
-      "talep_konusu": "yüklenicinin ek ücret talebi 180.000 TL",
-      "sonuc": "ret",
-      "atif_yapilan_kanunlar": [
-        "TBK/480"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "BAM'DA KESİNLEŞTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_SAM_2021_3312",
-      "hukuk_dali": "borçlar hukuku - inşaat"
-    }
-  },
-  "KARAR_ID_2020_5511_GEREKCESI": {
-    "node_id": "KARAR_ID_2020_5511_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Taraflar arasında götürü (toptan) bedelli inşaat sözleşmesi akdedilmiştir. Yüklenici, malzeme fiyatlarının artması ve ek iş çıkması gerekçesiyle ek ücret talep etmektedir. TBK m.480/1 uyarınca götürü bedel kararlaştırılmışsa yüklenici bu bedelle işi tamamlamak zorundadır; fazla emek ve masraf harcandığını öne sürerek ek ücret isteyemez. Yüklenicinin ileri sürdüğü sebepler TBK m.480/2 kapsamında 'öngörülemeyen esaslı sebepler' olarak değerlendirilemez; zira fiyat artışları piyasada yaygın ve öngörülebilir nitelikteydi. Talep reddedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2020_5511",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TBK/480"
-      ],
-      "anahtar_ilkeler": [
-        "götürü bedel bağlayıcılığı",
-        "ek ücret talebinin reddi",
-        "öngörülemeyen hal"
-      ],
-      "hukuk_dali": "borçlar hukuku - inşaat"
-    }
-  },
-  "KARAR_ID_2019_890": {
-    "node_id": "KARAR_ID_2019_890",
-    "node_type": "karar",
-    "embed_text": "Erzurum 1. Asliye Hukuk Mahkemesi 2019/890 esas 2020/345 karar tapu iptali istihkak dapcı taşınmazın haksız el koyması mülkiyet hakkının ihlali TMK madde 683 716",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "Erzurum 1. Asliye Hukuk Mahkemesi",
-      "esas_no": "2019/890",
-      "karar_no": "2020/345",
-      "karar_tarihi": "2020-07-08",
-      "konu": "tapu iptali ve tescil - sahte vekâletname - istihkap",
-      "sonuc": "kabul",
-      "atif_yapilan_kanunlar": [
-        "TMK/683",
-        "TMK/716"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_2003_603"
-      ],
-      "kanun_yolu": "İSTİNAFA GİTTİ",
-      "istinaf_sonucu_ref": "KARAR_BAM_ERZ_2020_2891_SON_REF",
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_ID_2019_890_GEREKCESI": {
-    "node_id": "KARAR_ID_2019_890_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı taşınmazın gerçek maliki olduğunu ileri sürmekte; sahte vekâletname ile yapılan tapu devrinin iptalini talep etmektedir. Adli bilirkişi incelemesinde vekâletnamenin sahte olduğu anlaşılmıştır. Sahte belgeyle yapılan işlem hukuken geçersizdir. TMK m.683 uyarınca mülkiyet hakkı koruması kapsamında tapu iptali talep hakkı doğmaktadır. Yargıtay HGK 2003/1-603 emsal kararına göre sahte imzayla yapılan tapu devirlerinde iyiniyetin korunmayacağı ilkesi uygulanmıştır. Tapu iptali ve davacı adına tesciline hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2019_890",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "TMK/683",
-        "TMK/716"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_2003_603"
-      ],
-      "anahtar_ilkeler": [
-        "sahte vekâletname",
-        "tapu iptali",
-        "iyiniyetin korunmaması"
-      ],
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_ID_2017_4401": {
-    "node_id": "KARAR_ID_2017_4401",
-    "node_type": "karar",
-    "embed_text": "İstanbul Anadolu 14. Asliye Hukuk Mahkemesi 2017/4401 esas 2018/1567 karar ispat yükü HMK madde 190 sözleşmeye aykırılık davası ispat yükümlülüğünün dağıtımı",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul Anadolu 14. Asliye Hukuk Mahkemesi",
-      "esas_no": "2017/4401",
-      "karar_no": "2018/1567",
-      "karar_tarihi": "2018-11-20",
-      "konu": "sözleşmeye aykırılık - ispat yükü - tazminat",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "tazminat 75.000 TL",
-      "atif_yapilan_kanunlar": [
-        "HMK/190",
-        "TBK/112"
-      ],
-      "atif_yapilan_kararlar": [],
-      "kanun_yolu": "KESİNLEŞTİ",
-      "hukuk_dali": "usul hukuku - borçlar hukuku"
-    }
-  },
-  "KARAR_ID_2017_4401_GEREKCESI": {
-    "node_id": "KARAR_ID_2017_4401_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Davacı, davalının sözleşme yükümlülüklerini yerine getirmediğini iddia etmektedir. HMK m.190/1 uyarınca ispat yükü, hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Davacı, öncelikle sözleşmenin varlığını ve içeriğini ispat etmiş; ardından davalının ifa etmediğini ortaya koymuştur. Davalı ise ifanın gerçekleştiğini veya imkânsızlaştığını kanıtlayamamıştır. TBK m.112 kapsamında borca aykırılık nedeniyle tazminata hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2017_4401",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "HMK/190",
-        "TBK/112"
-      ],
-      "anahtar_ilkeler": [
-        "ispat yükü dağılımı",
-        "sözleşme ihlali ispatı",
-        "borca aykırılık tazminatı"
-      ],
-      "hukuk_dali": "usul hukuku - borçlar hukuku"
-    }
-  },
-  "KARAR_ID_2015_8821": {
-    "node_id": "KARAR_ID_2015_8821",
-    "node_type": "karar",
-    "embed_text": "İstanbul 3. İş Mahkemesi 2015/8821 esas 2016/3312 karar işe iade davası iş güvencesi arabuluculuk öncesi dönem 4857 sayılı İş Kanunu madde 18 21",
-    "metadata": {
-      "mahkeme_turu": "ilk_derece",
-      "mahkeme_adi": "İstanbul 3. İş Mahkemesi",
-      "esas_no": "2015/8821",
-      "karar_no": "2016/3312",
-      "karar_tarihi": "2016-12-07",
-      "konu": "işe iade - performans gerekçesi - zorunlu arabuluculuk öncesi dönem",
-      "sonuc": "kabul",
-      "hukmedilen_miktar": "fesih geçersiz; işe iade; 4 aylık boşta geçen süre; 5 aylık işe başlatmama tazminatı",
-      "atif_yapilan_kanunlar": [
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_9HD_2016_24981"
-      ],
-      "kanun_yolu": "YARGITAY ONADI",
-      "yargitay_ref": "KARAR_YRG_9HD_2016_24981",
-      "hukuk_dali": "iş hukuku",
-      "onemli_not": "Dava 7036 sayılı Kanun öncesinde açıldığından arabuluculuk şartı aranmamıştır"
-    }
-  },
-  "KARAR_ID_2015_8821_GEREKCESI": {
-    "node_id": "KARAR_ID_2015_8821_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Bu dava, 7036 sayılı İş Mahkemeleri Kanunu'nun yürürlüğe girdiği 25/10/2017'den önce açıldığından zorunlu arabuluculuk dava şartı aranmamıştır. Davacı işçi yüksek performans beklentilerini karşılayamadığı gerekçesiyle işten çıkarılmıştır. Ancak performans değerlendirme kriterleri açık ve önceden belirlenmiş değildir. 4857 m.18/1 kapsamında geçerli sebep olarak kabul edilebilecek performans gerekçesi, somut ve belgelenebilir verilerle desteklenmek zorundadır. Bu şart karşılanmadığından fesih geçersiz kabul edilmiş, m.21 çerçevesinde işe iade ile birlikte boşta geçen süre tazminatına ve işe başlatmama tazminatına hükmedilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_ID_2015_8821",
-      "gerekce_turu": "esasa_iliskin",
-      "atif_yapilan_kanunlar": [
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_9HD_2016_24981"
-      ],
-      "anahtar_ilkeler": [
-        "performans gerekçesi belgeleme zorunluluğu",
-        "işe iade",
-        "arabuluculuk dava şartı öncesi dönem"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_YRG_1HD_2013_11205": {
-    "node_id": "KARAR_YRG_1HD_2013_11205",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 1. Hukuk Dairesi 2013/11205 esas 2014/8321 karar tapu iptali muvazaa temyiz incelemesi TMK madde 706 TBK madde 19 gerçek irade araştırması onama",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 1. Hukuk Dairesi",
-      "daire": "1. Hukuk Dairesi",
-      "esas_no": "2013/11205",
-      "karar_no": "2014/8321",
-      "karar_tarihi": "2014-03-12",
-      "ilk_derece_ref": "KARAR_ID_2012_541",
-      "konu": "tapu iptali - muvazaa temyizi",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TMK/706",
-        "TBK/19"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2012_541",
-        "YRG_HGK_1996_64"
-      ],
-      "hukuk_dali": "eşya hukuku",
-      "emsal_niteligi": "yerleşik içtihat"
-    }
-  },
-  "KARAR_YRG_1HD_2013_11205_GEREKCESI": {
-    "node_id": "KARAR_YRG_1HD_2013_11205_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Tapu devir işleminin gerçek bir satışa mı yoksa muvazaalı bir işleme mi dayandığı sorusu temyiz incelemesinin merkezinde yer almaktadır. HGK 1996 tarihli muvazaa ispat standardı kararı esas alınarak inceleme yapılmıştır. İlk derece mahkemesinin bedel ödenmediğini ve mal kaçırma amacını saptayan tespitleri maddi hatadan yoksun olup delil değerlendirmesi yerindedir. TMK m.706 kapsamındaki resmi şekil şartına karşın tarafların gerçek iradesi araştırılmış ve TBK m.19 uyarınca muvazaa tespit edilmiştir. Karar onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_1HD_2013_11205",
-      "ilk_derece_ref": "KARAR_ID_2012_541",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/706",
-        "TBK/19"
-      ],
-      "atif_yapilan_kararlar": [
-        "YRG_HGK_1996_64"
-      ],
-      "anahtar_ilkeler": [
-        "muvazaa tespiti",
-        "gerçek irade araştırması",
-        "bedelsiz devir mal kaçırma"
-      ],
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_YRG_9HD_2016_24981": {
-    "node_id": "KARAR_YRG_9HD_2016_24981",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 9. Hukuk Dairesi 2016/24981 esas 2017/18432 karar işe iade davası performans gerekçesi belgeleme zorunluluğu 4857 İş Kanunu madde 18 iş güvencesi emsal karar onama",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 9. Hukuk Dairesi",
-      "daire": "9. Hukuk Dairesi",
-      "esas_no": "2016/24981",
-      "karar_no": "2017/18432",
-      "karar_tarihi": "2017-05-16",
-      "ilk_derece_ref": "KARAR_ID_2015_8821",
-      "konu": "işe iade - performans gerekçesi - belgeleme zorunluluğu",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "4857/18",
-        "4857/21"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_ID_2015_8821"
-      ],
-      "hukuk_dali": "iş hukuku",
-      "emsal_niteligi": "işe iade performans gerekçesi için emsal"
-    }
-  },
-  "KARAR_YRG_9HD_2016_24981_GEREKCESI": {
-    "node_id": "KARAR_YRG_9HD_2016_24981_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Performans gerekçesiyle yapılan fesihlerde işverenin ispat yükü ağırdır. 4857 m.18 kapsamında geçerli sebep olarak kabul edilebilmesi için performans değerlendirme sisteminin önceden belirlenmiş objektif kriterlere dayanması, süreçlerin işçiyle paylaşılması ve iyileştirme fırsatı tanınması gerekmektedir. Bu koşulların sağlanmadığı durumlarda performans gerekçesi soyut iddia düzeyinde kalmakta ve fesih geçersiz sayılmaktadır. Soyut performans gerekçesiyle gerçekleştirilen fesih hakkında verilen işe iade kararı onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_9HD_2016_24981",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "4857/18"
-      ],
-      "anahtar_ilkeler": [
-        "performans fesih ispat yükü",
-        "iş güvencesi",
-        "soyut iddia yetersizliği"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_YRG_2HD_2021_6712": {
-    "node_id": "KARAR_YRG_2HD_2021_6712",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 2. Hukuk Dairesi 2021/6712 esas 2022/4531 karar babalık davası DNA delili TMK madde 295 soybağı tespiti temyiz onama",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 2. Hukuk Dairesi",
-      "daire": "2. Hukuk Dairesi",
-      "esas_no": "2021/6712",
-      "karar_no": "2022/4531",
-      "karar_tarihi": "2022-06-07",
-      "ilk_derece_ref": "KARAR_ID_2019_551",
-      "bam_ref": "KARAR_BAM_IST_2020_2110",
-      "konu": "babalık davası - DNA soybağı tespiti - temyiz",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TMK/282",
-        "TMK/295"
-      ],
-      "atif_yapilan_kararlar": [
-        "KARAR_BAM_IST_2020_2110"
-      ],
-      "hukuk_dali": "aile hukuku - soybağı"
-    }
-  },
-  "KARAR_YRG_2HD_2021_6712_GEREKCESI": {
-    "node_id": "KARAR_YRG_2HD_2021_6712_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "DNA delilinin bilimsel güvenilirliği tartışma konusu değildir; yüzde doksan dokuz virgül doksan sekizin üzerindeki olasılık oranı soybağının tespiti için yeterli kesinliği sağlamaktadır. TMK m.295 babalık davası kapsamında gerekli delil eşiği aşılmıştır. BAM kararı ve ilk derece kararı hukuka uygundur. Temyiz talebi reddedilerek her iki karar onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_2HD_2021_6712",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/295"
-      ],
-      "anahtar_ilkeler": [
-        "DNA delil güvenilirliği",
-        "soybağı kesinliği"
-      ],
-      "hukuk_dali": "aile hukuku - soybağı"
-    }
-  },
-  "KARAR_YRG_4HD_2009_8231": {
-    "node_id": "KARAR_YRG_4HD_2009_8231",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 4. Hukuk Dairesi 2009/8231 esas 2010/4512 karar haksız fiil illiyet bağı TBK BK madde 41 uygun nedensellik bağı teorisi bozma",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 4. Hukuk Dairesi",
-      "daire": "4. Hukuk Dairesi",
-      "esas_no": "2009/8231",
-      "karar_no": "2010/4512",
-      "karar_tarihi": "2010-09-28",
-      "konu": "haksız fiil - illiyet bağı - uygun nedensellik",
-      "sonuc": "BOZMA",
-      "bozma_gerekce_ozeti": "İlk derece mahkemesi illiyet bağını yeterince araştırmamış; uygun nedensellik bağının mevcut olup olmadığı bilirkişiyle tespit edilmelidir",
-      "atif_yapilan_kanunlar": [
-        "818/41",
-        "TBK/49"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "borçlar hukuku - haksız fiil",
-      "emsal_niteligi": "illiyet bağı araştırma zorunluluğu için emsal"
-    }
-  },
-  "KARAR_YRG_4HD_2009_8231_GEREKCESI": {
-    "node_id": "KARAR_YRG_4HD_2009_8231_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Haksız fiil sorumluluğu için fiil, zarar ve illiyet bağı koşulları birlikte aranmaktadır. Uygun nedensellik (adäquate Kausalität) teorisi esas alındığında, bir fiilin zararın ortaya çıkması için elverişli ve olağan koşullara uygun olması gerekmektedir. İlk derece mahkemesi, davalının eyleminin zararla nedensel bağlantısını yeterince araştırmaksızın tazminata hükmetmiştir. Dosyanın yeniden bilirkişi incelemesine gönderilmesine ve illiyet bağının ayrıntılı biçimde araştırılmasına karar verilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_4HD_2009_8231",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "818/41",
-        "TBK/49"
-      ],
-      "anahtar_ilkeler": [
-        "uygun nedensellik bağı",
-        "illiyet bağı araştırma zorunluluğu",
-        "haksız fiil unsurları"
-      ],
-      "hukuk_dali": "borçlar hukuku - haksız fiil"
-    }
-  },
-  "KARAR_YRG_HGK_1994_935": {
-    "node_id": "KARAR_YRG_HGK_1994_935",
-    "node_type": "karar",
-    "embed_text": "Yargıtay Hukuk Genel Kurulu 1994/1-935 esas 1994/13 karar ön sözleşme bağlayıcılığı emsal karar taşınmaz satışı noter onaylı ön sözleşme bağlayıcı",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay Hukuk Genel Kurulu",
-      "daire": "HGK",
-      "esas_no": "1994/1-935",
-      "karar_no": "1994/13",
-      "karar_tarihi": "1994-12-14",
-      "konu": "ön sözleşme bağlayıcılığı - taşınmaz satışı",
-      "sonuc": "HGK EMSAL KARARI",
-      "atif_yapilan_kanunlar": [
-        "818/22",
-        "TMK/706"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "borçlar hukuku",
-      "emsal_niteligi": "EMSAL — ön sözleşme bağlayıcılığı alanında yerleşik içtihat"
-    }
-  },
-  "KARAR_YRG_HGK_1994_935_GEREKCESI": {
-    "node_id": "KARAR_YRG_HGK_1994_935_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Taşınmaz satışına ilişkin ön sözleşme, asıl sözleşmenin şekline tabi olup noter huzurunda yapılmak zorundadır. Gereği gibi yapılmış noter onaylı ön sözleşme tarafları bağlamakta; tarafların birini asıl sözleşmeyi (tapu devri) akdetmeye zorlamak veya cayma halinde cezai şart uygulamak mümkündür. Bu kararda HGK, taşınmaz satışına yönelik ön sözleşmenin bağlayıcılığını prensip olarak tescil etmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_HGK_1994_935",
-      "gerekce_turu": "hgk_emsal",
-      "atif_yapilan_kanunlar": [
-        "818/22",
-        "TMK/706"
-      ],
-      "anahtar_ilkeler": [
-        "taşınmaz ön sözleşmesi zorunlu noter şekli",
-        "ön sözleşme bağlayıcılığı"
-      ],
-      "hukuk_dali": "borçlar hukuku"
-    }
-  },
-  "KARAR_YRG_13HD_2019_9812": {
-    "node_id": "KARAR_YRG_13HD_2019_9812",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 13. Hukuk Dairesi 2019/9812 esas 2020/6312 karar genel işlem koşulları banka masrafları TBK madde 20 21 25 tüketici sözleşmesi şaşırtıcı şart geçersizliği temyiz onama",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 13. Hukuk Dairesi",
-      "daire": "13. Hukuk Dairesi",
-      "esas_no": "2019/9812",
-      "karar_no": "2020/6312",
-      "karar_tarihi": "2020-09-15",
-      "konu": "GİK - banka masrafları - tüketici - şaşırtıcı şart",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "TBK/20",
-        "TBK/21",
-        "TBK/25"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "borçlar hukuku - tüketici",
-      "emsal_niteligi": "banka masrafları GİK geçersizliği için emsal"
-    }
-  },
-  "KARAR_YRG_13HD_2019_9812_GEREKCESI": {
-    "node_id": "KARAR_YRG_13HD_2019_9812_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Bankanın kredi sözleşmesine koyduğu dosya masrafı ve ipotek tesis ücreti kalemleri TBK m.21/2 kapsamında şaşırtıcı şart niteliğindedir. Bu kalemlerin müzakere edilmeksizin standart formla tüketiciye dayatılmış olması ve tüketicinin dikkatini yeterince çekmemesi, söz konusu şartların geçersiz sayılması sonucunu doğurmaktadır. 13. Hukuk Dairesi, banka masrafı kalemlerinin geçersizliğini teyit eden kararı onamıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_13HD_2019_9812",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/20",
-        "TBK/21"
-      ],
-      "anahtar_ilkeler": [
-        "GİK şaşırtıcı şart",
-        "banka masrafı geçersizliği",
-        "tüketici koruması"
-      ],
-      "hukuk_dali": "borçlar hukuku - tüketici"
-    }
-  },
-  "KARAR_YRG_2HD_2006_20451": {
-    "node_id": "KARAR_YRG_2HD_2006_20451",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 2. Hukuk Dairesi 2006/20451 esas 2007/11231 karar miras tenkis kanun seçimi TMK madde 560 Milletlerarası Özel Hukuk tenkis saklı pay bozma",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 2. Hukuk Dairesi",
-      "daire": "2. Hukuk Dairesi",
-      "esas_no": "2006/20451",
-      "karar_no": "2007/11231",
-      "karar_tarihi": "2007-04-23",
-      "konu": "tenkis - kanun seçimi - yabancılık unsuru",
-      "sonuc": "BOZMA",
-      "bozma_gerekce_ozeti": "Yabancılık unsuru içeren miras davalarında hangi hukukun uygulanacağının araştırılmamış olması hatalıdır",
-      "atif_yapilan_kanunlar": [
-        "TMK/560",
-        "5718/MÖHUK_22"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "miras hukuku - devletler özel hukuku"
-    }
-  },
-  "KARAR_YRG_2HD_2006_20451_GEREKCESI": {
-    "node_id": "KARAR_YRG_2HD_2006_20451_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Yabancılık unsuru içeren miras davalarında MÖHUK hükümleri uygulanır. Miras bırakan Türk vatandaşı olmayıp yurt dışında ikamet ediyorsa, miras statüsüne hangi hukukun uygulanacağı MÖHUK m.22 kapsamında araştırılmalıdır. TMK m.560 (tenkis) hükmünün doğrudan uygulanması, önce kanunlar ihtilafı kurallarının değerlendirilmesini zorunlu kılmaktadır. Bu araştırma yapılmaksızın kurulan hüküm bozulmuştur.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_2HD_2006_20451",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/560",
-        "5718/22"
-      ],
-      "anahtar_ilkeler": [
-        "yabancılık unsuru miras",
-        "kanunlar ihtilafı MÖHUK",
-        "tenkiste hangi hukuk"
-      ],
-      "hukuk_dali": "miras hukuku - devletler özel hukuku"
-    }
-  },
-  "KARAR_YRG_9HD_2016_34102": {
-    "node_id": "KARAR_YRG_9HD_2016_34102",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 9. Hukuk Dairesi 2016/34102 esas 2017/21213 karar eşit davranma borcu 4857 İş Kanunu madde 5 cinsiyet ayrımı ücret farkı ispat yükü çevrilmesi bozma",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 9. Hukuk Dairesi",
-      "daire": "9. Hukuk Dairesi",
-      "esas_no": "2016/34102",
-      "karar_no": "2017/21213",
-      "karar_tarihi": "2017-09-04",
-      "konu": "eşit davranma - cinsiyet ayrımı - ispat yükü",
-      "sonuc": "BOZMA",
-      "bozma_gerekce_ozeti": "İspat yükü çevrilmesinin koşulları yeterince araştırılmamış; ayrımcılığı gösteren emareye dair bir değerlendirme yapılmamıştır",
-      "atif_yapilan_kanunlar": [
-        "4857/5"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "iş hukuku",
-      "emsal_niteligi": "eşit davranma ispat yükü standı için emsal"
-    }
-  },
-  "KARAR_YRG_9HD_2016_34102_GEREKCESI": {
-    "node_id": "KARAR_YRG_9HD_2016_34102_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "4857 m.5'te düzenlenen eşit davranma borcunun ihlali halinde ispat yükü, önce işçide, ardından işverendedir. Ancak bu çevirme mekanizmasının devreye girebilmesi için işçinin ayrımcılığı kabul edilebilir bir emare düzeyinde ortaya koymuş olması gerekir. İlk derece mahkemesi, salt ücret eşitsizliğinin ayrımcılık emarez oluşturup oluşturmadığını yeterince değerlendirmeksizin doğrudan ispat yükünü işverene yüklemiştir. Bu durum hatalıdır. Đlk derece kararı bozularak dosya yeniden yargılama için geri gönderilmiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_9HD_2016_34102",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "4857/5"
-      ],
-      "anahtar_ilkeler": [
-        "eşit davranma ispat yükü mekanizması",
-        "ayrımcılık emarez standardı",
-        "ispat yükü çevirme koşulları"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_YRG_HGK_2003_603": {
-    "node_id": "KARAR_YRG_HGK_2003_603",
-    "node_type": "karar",
-    "embed_text": "Yargıtay Hukuk Genel Kurulu 2003/1-603 esas 2003/1 karar sahte vekâletname tapu devri iyiniyetin korunmaması mülkiyet hakkı TMK madde 1023 emsal karar",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay Hukuk Genel Kurulu",
-      "daire": "HGK",
-      "esas_no": "2003/1-603",
-      "karar_no": "2003/1",
-      "karar_tarihi": "2003-10-08",
-      "konu": "sahte vekâletname - tapu devri - iyiniyetin korunmaması",
-      "sonuc": "HGK EMSAL KARARI",
-      "atif_yapilan_kanunlar": [
-        "TMK/1023",
-        "TMK/716"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "eşya hukuku",
-      "emsal_niteligi": "EMSAL — sahte imzayla tapu devirlerinde iyiniyet korunmaz"
-    }
-  },
-  "KARAR_YRG_HGK_2003_603_GEREKCESI": {
-    "node_id": "KARAR_YRG_HGK_2003_603_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "TMK m.1023 tapu siciline güveni koruyan bir düzenleme olsa da bu koruma sahte imzaya dayanan işlemler için geçerli değildir. Sicildeki kaydın üçüncü kişiler için bağlayıcılığı, sicilin doğru ve gerçeği yansıtır nitelikte olmasına bağlıdır. Vekâletnamenin sahte olması, bu temeli ortadan kaldırmaktadır. HGK bu kararıyla sahte imzayla yapılan tapu devirlerinde iyiniyet savunmasının dinlenemeyeceğini karara bağlamıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_HGK_2003_603",
-      "gerekce_turu": "hgk_emsal",
-      "atif_yapilan_kanunlar": [
-        "TMK/1023",
-        "TMK/716"
-      ],
-      "anahtar_ilkeler": [
-        "sahte imza tapu iyiniyet korunmaz",
-        "tapu siciline güvenin sınırı",
-        "sahte vekâletname hükümsüzlüğü"
-      ],
-      "hukuk_dali": "eşya hukuku"
-    }
-  },
-  "KARAR_YRG_13HD_2019_1205": {
-    "node_id": "KARAR_YRG_13HD_2019_1205",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 13. Hukuk Dairesi 2019/1205 esas 2020/1890 karar ayıplı araç satışı değer kaybı tazminatı TBK madde 219 sıfır kilometre araçta gizli ayıp bozma hesaplama",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 13. Hukuk Dairesi",
-      "daire": "13. Hukuk Dairesi",
-      "esas_no": "2019/1205",
-      "karar_no": "2020/1890",
-      "karar_tarihi": "2020-03-10",
-      "konu": "ayıplı araç - değer kaybı tazminatı - TBK m.219",
-      "sonuc": "BOZMA",
-      "bozma_gerekce_ozeti": "Değer kaybı hesabı bilirkişi marifetiyle doğru metodoloji ile yapılmamış; hasarlı araçların piyasa değer düşüklüğü ayrı kalemde hesaplanmalıdır",
-      "atif_yapilan_kanunlar": [
-        "TBK/219",
-        "TBK/220"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "borçlar hukuku - satım",
-      "emsal_niteligi": "ayıplı araç değer kaybı hesaplama metodolojisi için emsal"
-    }
-  },
-  "KARAR_YRG_13HD_2019_1205_GEREKCESI": {
-    "node_id": "KARAR_YRG_13HD_2019_1205_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Sıfır km satışı yapılan araçta imalat veya önceki onarım kaynaklı gizli ayıp bulunması halinde, alıcının hakları TBK m.219 kapsamında değerlendirilerek ayıptan doğan sorumluluk belirlenir. Sözleşmeden dönme yerine değer kaybı talep edildiğinde, bu kaybın piyasada oluşan somut düşüş üzerinden hesaplanması gerekir. İlk derece mahkemesi, hasarlı araçların piyasa value düşüklüğü rakamlarını gözetmeksizin eksper raporuna dayanmıştır. Hesaplama metodolojisi hatalı olup karar bozulmuştur.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_13HD_2019_1205",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/219"
-      ],
-      "anahtar_ilkeler": [
-        "ayıplı araç değer kaybı hesaby metodolojisi",
-        "piyasa değer düşüklüğü",
-        "gizli ayıp"
-      ],
-      "hukuk_dali": "borçlar hukuku - satım"
-    }
-  },
-  "KARAR_YRG_9HD_2014_24100": {
-    "node_id": "KARAR_YRG_9HD_2014_24100",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 9. Hukuk Dairesi 2014/24100 esas 2015/16342 karar işe iade organizasyon reorganizasyon geçerli sebep 4857 İş Kanunu madde 18 onama",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 9. Hukuk Dairesi",
-      "daire": "9. Hukuk Dairesi",
-      "esas_no": "2014/24100",
-      "karar_no": "2015/16342",
-      "karar_tarihi": "2015-06-09",
-      "konu": "işe iade - reorganizasyon - geçerli sebep",
-      "sonuc": "ONAMA",
-      "atif_yapilan_kanunlar": [
-        "4857/18"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "iş hukuku",
-      "emsal_niteligi": "reorganizasyon geçerli sebep standardı için emsal"
-    }
-  },
-  "KARAR_YRG_9HD_2014_24100_GEREKCESI": {
-    "node_id": "KARAR_YRG_9HD_2014_24100_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "İşletme gereksinimi kapsamındaki reorganizasyonun geçerli sebep oluşturabilmesi için gerçek ve samimi bir yeniden yapılanma sürecinin belgelenmesi gerekir. Reorganizasyon kararı keyfi olmamalı; işçinin pozisyonunun kaldırılması veya başka bir çalışana devredilmemiş olması şartı aranmaktadır. Bu davada yeniden yapılanmanın gerçek ve belgelenebilir nitelikte olduğu anlaşılmış; işe iade talebinin reddi kararı onanmıştır.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_9HD_2014_24100",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "4857/18"
-      ],
-      "anahtar_ilkeler": [
-        "reorganizasyon geçerli sebep",
-        "belgeleme zorunluluğu",
-        "keyfi fesih yasağı"
-      ],
-      "hukuk_dali": "iş hukuku"
-    }
-  },
-  "KARAR_YRG_HGK_1996_64": {
-    "node_id": "KARAR_YRG_HGK_1996_64",
-    "node_type": "karar",
-    "embed_text": "Yargıtay Hukuk Genel Kurulu 1996/1-64 esas 1996/1 karar muvazaa ispat standardı emsal karar taşınmaz devir bedelsiz göreceli muvazaa",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay Hukuk Genel Kurulu",
-      "daire": "HGK",
-      "esas_no": "1996/1-64",
-      "karar_no": "1996/1",
-      "karar_tarihi": "1996-05-15",
-      "konu": "muvazaa - ispat standardı - taşınmaz devir",
-      "sonuc": "HGK EMSAL KARARI",
-      "atif_yapilan_kanunlar": [
-        "818/18",
-        "TBK/19"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "borçlar hukuku - eşya hukuku",
-      "emsal_niteligi": "EMSAL — muvazaa ispat standardı alanında yerleşik içtihat"
-    }
-  },
-  "KARAR_YRG_HGK_1996_64_GEREKCESI": {
-    "node_id": "KARAR_YRG_HGK_1996_64_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "Muvazaa, kural olarak yazılı delille ispat edilir; ancak taşınmaz devir işlemlerinde muvazaanın öğrenilmesi güç olduğundan tanık dahil her türlü delille ispat mümkündür. Bedelsiz ya da sembolik bir bedelle gerçekleştirilen devirlerde muvazaa karinesi kuvvetlidir; aksini ispat yükü devralan tarafa düşer. Bu kararla HGK, muvazaa davalarındaki ispat kolaylığını ve karinenin işleyişini ilke düzeyinde belirlemiştir.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_HGK_1996_64",
-      "gerekce_turu": "hgk_emsal",
-      "atif_yapilan_kanunlar": [
-        "818/18",
-        "TBK/19"
-      ],
-      "anahtar_ilkeler": [
-        "muvazaa ispat serbestisi",
-        "bedelsiz devir karinesi",
-        "ispat yükü devir alana"
-      ],
-      "hukuk_dali": "borçlar hukuku - eşya hukuku"
-    }
-  },
-  "KARAR_YRG_2HD_2015_3221": {
-    "node_id": "KARAR_YRG_2HD_2015_3221",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 2. Hukuk Dairesi 2015/3221 esas 2016/1890 karar boşanma maddi manevi tazminat TMK madde 174 kusurun ağırlığı tazminat miktarı hakkaniyet bozma",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 2. Hukuk Dairesi",
-      "daire": "2. Hukuk Dairesi",
-      "esas_no": "2015/3221",
-      "karar_no": "2016/1890",
-      "karar_tarihi": "2016-04-19",
-      "konu": "boşanma tazminatı - TMK m.174 - miktarın değerlendirmesi",
-      "sonuc": "BOZMA",
-      "bozma_gerekce_ozeti": "Tazminat miktarı, evlilik içindeki kusur ve ekonomik dengesizlikle orantısız biçimde düşük belirlemiştir",
-      "atif_yapilan_kanunlar": [
-        "TMK/174"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_YRG_2HD_2015_3221_GEREKCESI": {
-    "node_id": "KARAR_YRG_2HD_2015_3221_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "TMK m.174 kapsamındaki tazminat miktarı belirlenirken; evlilik süresi, tarafların ekonomik durumu, kusurun ağırlığı ve evliliğin sona ermesiyle meydana gelen ekonomik dengesizlik gözetilmesi gerekir. İlk derece mahkemesinin hükmettiği miktar bu ölçütler karşısında yetersiz kalmış; hakkaniyete aykırı bir sonuca yol açmıştır. Tazminatın yeniden değerlendirilmesi için karar bozulmuştur.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_2HD_2015_3221",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TMK/174"
-      ],
-      "anahtar_ilkeler": [
-        "boşanma tazminatı ölçütleri",
-        "hakkaniyet denetimi",
-        "ekonomik dengesizlik"
-      ],
-      "hukuk_dali": "aile hukuku"
-    }
-  },
-  "KARAR_YRG_9HD_2020_3812": {
-    "node_id": "KARAR_YRG_9HD_2020_3812",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 9. Hukuk Dairesi 2020/3812 esas 2021/2341 karar işe iade zorunlu arabuluculuk dava şartı 7036 İş Mahkemeleri Kanunu usul bozma",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 9. Hukuk Dairesi",
-      "daire": "9. Hukuk Dairesi",
-      "esas_no": "2020/3812",
-      "karar_no": "2021/2341",
-      "karar_tarihi": "2021-01-26",
-      "konu": "işe iade - zorunlu arabuluculuk - dava şartı eksikliği",
-      "sonuc": "BOZMA (usul)",
-      "bozma_gerekce_ozeti": "7036 m.3 uyarınca arabuluculuk zorunlu dava şartıdır; bu şart yerine getirilmeksizin açılan dava usulden reddedilmelidir",
-      "atif_yapilan_kanunlar": [
-        "7036/3",
-        "4857/20"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "iş hukuku - usul hukuku",
-      "emsal_niteligi": "arabuluculuk dava şartı işe iade için emsal"
-    }
-  },
-  "KARAR_YRG_9HD_2020_3812_GEREKCESI": {
-    "node_id": "KARAR_YRG_9HD_2020_3812_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "7036 sayılı İş Mahkemeleri Kanunu m.3/1 uyarınca işe iade davaları açılmadan önce zorunlu arabuluculuğa gidilmesi zorunludur. Bu, dava şartı niteliğinde olup mahkemece re'sen dikkate alınır. Arabuluculuğa başvurulmaksızın açılan dava, usul yönünden reddedilmelidir. Söz konusu zorunluluk, 4857 m.20'de öngörülen dava süresiyle birlikte değerlendirildiğinde; dava arabuluculuk sonrasında 2 iş günü içinde açılmalıdır. Dava şartı yerine getirilmeksizin açılmış olduğundan ihlilin giderilmesi için esas hakkında karar bozulmuştur.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_9HD_2020_3812",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "7036/3",
-        "4857/20"
-      ],
-      "anahtar_ilkeler": [
-        "arabuluculuk zorunlu dava şartı işe iade",
-        "usulden ret",
-        "dava süresi"
-      ],
-      "hukuk_dali": "iş hukuku - usul hukuku"
-    }
-  },
-  "KARAR_YRG_11HD_2011_12031": {
-    "node_id": "KARAR_YRG_11HD_2011_12031",
-    "node_type": "karar",
-    "embed_text": "Yargıtay 11. Hukuk Dairesi 2011/12031 esas 2012/8321 karar yabancı para borcu TBK madde 99 ödeme günündeki kur faiz hesabı bozma",
-    "metadata": {
-      "mahkeme_turu": "yargitay",
-      "mahkeme_adi": "Yargıtay 11. Hukuk Dairesi",
-      "daire": "11. Hukuk Dairesi",
-      "esas_no": "2011/12031",
-      "karar_no": "2012/8321",
-      "karar_tarihi": "2012-06-20",
-      "konu": "yabancı para borcu - TBK m.99 - kur tarihi",
-      "sonuc": "BOZMA",
-      "bozma_gerekce_ozeti": "Yabancı para borcunun TL karşılığı hesaplanırken ödeme günü kurunun esas alınması gerekirken akde giriş günündeki kur uygulanmıştır",
-      "atif_yapilan_kanunlar": [
-        "TBK/99"
-      ],
-      "atif_yapilan_kararlar": [],
-      "hukuk_dali": "borçlar hukuku - ticaret hukuku",
-      "emsal_niteligi": "yabancı para borcu kur tarihi için emsal"
-    }
-  },
-  "KARAR_YRG_11HD_2011_12031_GEREKCESI": {
-    "node_id": "KARAR_YRG_11HD_2011_12031_GEREKCESI",
-    "node_type": "karar_gerekce",
-    "embed_text": "TBK m.99/1 uyarınca yabancı para üzerinden kararlaştırılan borçlarda, vade tarihinde veya fiili ödeme tarihinde geçerli olan kur esas alınır. İlk derece mahkemesi TL karşılığını akdin kurulduğu tarihteki kurla hesaplamıştır; bu durum TBK m.99'a aykırıdır. Yabancı para borcunun ödeme-gün kuruyla yeniden hesaplanması için karar bozulmuştur.",
-    "metadata": {
-      "ust_karar": "KARAR_YRG_11HD_2011_12031",
-      "gerekce_turu": "temyiz_denetimi",
-      "atif_yapilan_kanunlar": [
-        "TBK/99"
-      ],
-      "anahtar_ilkeler": [
-        "yabancı para borcu",
-        "ödeme günü kuru",
-        "döviz borcunun TL hesabı"
-      ],
-      "hukuk_dali": "borçlar hukuku - ticaret hukuku"
-    }
-  },
-  "HMK_M1": {
+[
+  {
     "node_id": "HMK_M1",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 1 yargı yetkisi medenî yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır",
@@ -2105,7 +18,7 @@
       ]
     }
   },
-  "HMK_M1_F1": {
+  {
     "node_id": "HMK_M1_F1",
     "node_type": "fikra",
     "embed_text": "Medenî yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
@@ -2121,7 +34,7 @@
       "ust_node": "HMK_M1"
     }
   },
-  "HMK_M2": {
+  {
     "node_id": "HMK_M2",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 2 görev asliye hukuk mahkemesi malvarlığı haklarına ilişkin davalarda görevli mahkeme aksine hüküm bulunmadıkça asliye hukuk mahkemesidir",
@@ -2141,7 +54,7 @@
       ]
     }
   },
-  "HMK_M2_F1": {
+  {
     "node_id": "HMK_M2_F1",
     "node_type": "fikra",
     "embed_text": "Dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesidir.",
@@ -2157,7 +70,7 @@
       "ust_node": "HMK_M2"
     }
   },
-  "HMK_M2_F2": {
+  {
     "node_id": "HMK_M2_F2",
     "node_type": "fikra",
     "embed_text": "Bu kanunda ve diğer kanunlarda aksine düzenleme bulunmadıkça, asliye hukuk mahkemesi diğer dava ve işler bakımından da görevlidir.",
@@ -2173,7 +86,7 @@
       "ust_node": "HMK_M2"
     }
   },
-  "HMK_M3_V1": {
+  {
     "node_id": "HMK_M3_V1",
     "node_type": "madde_versiyon",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 3 aile mahkemelerinin görevi 2011 2020 yılları arası uygulaması aile mahkemesinin kurulamadığı yerlerde asliye hukuk mahkemesi",
@@ -2195,7 +108,7 @@
       ]
     }
   },
-  "HMK_M3_V1_F1": {
+  {
     "node_id": "HMK_M3_V1_F1",
     "node_type": "fikra",
     "embed_text": "Sulh hukuk mahkemeleri, dava konusunun değer veya miktarına bakılmaksızın; kiralanan taşınmazların, İcra ve İflâs Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları ve diğer tüm uyuşmazlıkları kapsayan davalar dahil tüm uyuşmazlıklara ilişkin davalar ile bu kanunun 4 üncü maddesinde ve diğer özel kanunlarda sulh hukuk mahkemesinde görülmesi öngörülen davalar ile çekişmesiz yargı işlerine bakar.",
@@ -2213,7 +126,7 @@
       "ust_node": "HMK_M3_V1"
     }
   },
-  "HMK_M3_V2": {
+  {
     "node_id": "HMK_M3_V2",
     "node_type": "madde_versiyon",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 3 sulh hukuk mahkemesinin görevi 7251 sayılı Kanun ile değiştirilmiş hali 28 Temmuz 2020 tarihinden itibaren geçerli",
@@ -2234,7 +147,7 @@
       ]
     }
   },
-  "HMK_M3_V2_F1": {
+  {
     "node_id": "HMK_M3_V2_F1",
     "node_type": "fikra",
     "embed_text": "Sulh hukuk mahkemeleri, dava konusunun değer veya miktarına bakılmaksızın; kiralanan taşınmazların, İcra ve İflâs Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları ile bu kanunun 4 üncü maddesinde ve diğer özel kanunlarda sulh hukuk mahkemesinde görülmesi öngörülen davalar ile çekişmesiz yargı işlerine bakar.",
@@ -2251,7 +164,7 @@
       "ust_node": "HMK_M3_V2"
     }
   },
-  "HMK_M6": {
+  {
     "node_id": "HMK_M6",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 6 genel yetkili mahkeme davalının yerleşim yeri mahkemesi genel yetkili mahkemedir",
@@ -2270,7 +183,7 @@
       ]
     }
   },
-  "HMK_M6_F1": {
+  {
     "node_id": "HMK_M6_F1",
     "node_type": "fikra",
     "embed_text": "Genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir.",
@@ -2286,7 +199,7 @@
       "ust_node": "HMK_M6"
     }
   },
-  "HMK_M16": {
+  {
     "node_id": "HMK_M16",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 16 haksız fiilden doğan davalarda yetki haksız fiilin işlendiği yer zarar gören kişinin yerleşim yeri mahkemesi yetkilidir",
@@ -2305,7 +218,7 @@
       ]
     }
   },
-  "HMK_M16_F1": {
+  {
     "node_id": "HMK_M16_F1",
     "node_type": "fikra",
     "embed_text": "Haksız fiilden doğan davalarda, haksız fiilin işlendiği yer, zararın meydana geldiği yer, zarar görenin yerleşim yeri veya davalının yerleşim yeri mahkemesi yetkilidir.",
@@ -2321,7 +234,7 @@
       "ust_node": "HMK_M16"
     }
   },
-  "HMK_M24": {
+  {
     "node_id": "HMK_M24",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 24 tasarruf ilkesi hâkim tarafların talep sonuçlarıyla bağlıdır re'sen dava konusunu genişletemez",
@@ -2341,7 +254,7 @@
       ]
     }
   },
-  "HMK_M24_F1": {
+  {
     "node_id": "HMK_M24_F1",
     "node_type": "fikra",
     "embed_text": "Hâkim, iki taraftan birinin talebi olmaksızın, kendiliğinden bir davayı inceleyemez ve karara bağlayamaz.",
@@ -2357,7 +270,7 @@
       "ust_node": "HMK_M24"
     }
   },
-  "HMK_M24_F2": {
+  {
     "node_id": "HMK_M24_F2",
     "node_type": "fikra",
     "embed_text": "Kanunda açıkça belirtilmedikçe, hiçbir kimse kendi lehine olan davayı açmaya zorlanamaz.",
@@ -2373,7 +286,7 @@
       "ust_node": "HMK_M24"
     }
   },
-  "HMK_M25": {
+  {
     "node_id": "HMK_M25",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 25 taraflarca getirilme ilkesi taraflar irade açıklamaları ve ispat araçlarını hâkime sunma hakkı",
@@ -2393,7 +306,7 @@
       ]
     }
   },
-  "HMK_M25_F1": {
+  {
     "node_id": "HMK_M25_F1",
     "node_type": "fikra",
     "embed_text": "Kanunda öngörülen istisnalar dışında, hâkim, iki taraftan birinin söylemediği şeyi re'sen gözetemez veya taraflardan birinin ileri sürmediği vakıaları, kendiliğinden dikkate alamaz.",
@@ -2409,7 +322,7 @@
       "ust_node": "HMK_M25"
     }
   },
-  "HMK_M25_F2": {
+  {
     "node_id": "HMK_M25_F2",
     "node_type": "fikra",
     "embed_text": "Bir taraf, kanunda belirtilen durumlar dışında, kendi muvafakatina aykırı olan delillere dayanamaz.",
@@ -2425,7 +338,7 @@
       "ust_node": "HMK_M25"
     }
   },
-  "HMK_M27": {
+  {
     "node_id": "HMK_M27",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 27 hukuki dinlenilme hakkı davanın tarafları kendi hakları ile ilgili olarak hukuki dinlenilme hakkına sahiptir",
@@ -2445,7 +358,7 @@
       ]
     }
   },
-  "HMK_M27_F1": {
+  {
     "node_id": "HMK_M27_F1",
     "node_type": "fikra",
     "embed_text": "Davanın tarafları, müdahiller ve yargılamanın diğer ilgililerinin, kendi hakları ile bağlantılı olarak hukukî dinlenilme hakkına sahip oldukları kabul edilir.",
@@ -2461,7 +374,7 @@
       "ust_node": "HMK_M27"
     }
   },
-  "HMK_M27_F2": {
+  {
     "node_id": "HMK_M27_F2",
     "node_type": "fikra",
     "embed_text": "Bu hak; yargılama ile ilgili olarak bilgi sahibi olunmasını, açıklama ve ispat hakkını, mahkemenin açıklamaları dikkate alarak değerlendirmesini ve kararların somut ve açık olarak gerekçelendirilmesini içerir.",
@@ -2477,7 +390,7 @@
       "ust_node": "HMK_M27"
     }
   },
-  "HMK_M187": {
+  {
     "node_id": "HMK_M187",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 187 ispat hakkı taraflar kanunda belirtilen süre ve usule uygun olmak koşuluyla ispat hakkına sahiptir",
@@ -2497,7 +410,7 @@
       ]
     }
   },
-  "HMK_M187_F1": {
+  {
     "node_id": "HMK_M187_F1",
     "node_type": "fikra",
     "embed_text": "Taraflar, kanunda belirtilen süre ve usule uygun olmak koşuluyla ispat hakkına sahiptirler.",
@@ -2513,7 +426,7 @@
       "ust_node": "HMK_M187"
     }
   },
-  "HMK_M187_F2": {
+  {
     "node_id": "HMK_M187_F2",
     "node_type": "fikra",
     "embed_text": "Kanunla yasaklanmış deliller, mahkeme önünde ispat aracı olarak kullanılamaz.",
@@ -2529,7 +442,7 @@
       "ust_node": "HMK_M187"
     }
   },
-  "HMK_M190": {
+  {
     "node_id": "HMK_M190",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 190 ispat yükü ispat yükü kanunda özel bir düzenleme bulunmadıkça iddia eden tarafa aittir",
@@ -2549,7 +462,7 @@
       ]
     }
   },
-  "HMK_M190_F1": {
+  {
     "node_id": "HMK_M190_F1",
     "node_type": "fikra",
     "embed_text": "İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir.",
@@ -2565,7 +478,7 @@
       "ust_node": "HMK_M190"
     }
   },
-  "HMK_M190_F2": {
+  {
     "node_id": "HMK_M190_F2",
     "node_type": "fikra",
     "embed_text": "Kanuni bir karine varsa, karinenin aksini ispat yükü, karinenin aleyhine olduğu tarafa düşer.",
@@ -2581,7 +494,7 @@
       "ust_node": "HMK_M190"
     }
   },
-  "HMK_M192_MULGA": {
+  {
     "node_id": "HMK_M192_MULGA",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 192 delil sözleşmesi mülga 7251 sayılı Kanun ile kaldırılmış yerine geçen düzenleme",
@@ -2598,7 +511,7 @@
       "hukuk_dali": "usul hukuku"
     }
   },
-  "HMK_M323": {
+  {
     "node_id": "HMK_M323",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 323 yargılama giderleri yargılama giderleri mahkeme harçları yargılama sırasında yapılan giderler avukatlık ücretinden oluşur",
@@ -2617,7 +530,7 @@
       ]
     }
   },
-  "HMK_M323_F1": {
+  {
     "node_id": "HMK_M323_F1",
     "node_type": "fikra",
     "embed_text": "Yargılama giderleri şunlardır: a) Başvurma, karar ve ilam harçları. b) Dava nedeniyle yapılan tebligat giderleri. c) Bilirkişi ve tanık ücretleri. d) Resmî daire ve kurumların yaptıkları işlemler nedeniyle aldıkları giderler. e) Vekâlet ücreti. f) Yargılamayla ilgili diğer giderler.",
@@ -2633,7 +546,7 @@
       "ust_node": "HMK_M323"
     }
   },
-  "HMK_M326": {
+  {
     "node_id": "HMK_M326",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 326 yargılama giderlerinin sorumluluğu yargılama giderleri aleyhine hüküm kurulan taraftan alınır",
@@ -2653,7 +566,7 @@
       ]
     }
   },
-  "HMK_M326_F1": {
+  {
     "node_id": "HMK_M326_F1",
     "node_type": "fikra",
     "embed_text": "Kanunda yazılı hâller dışında, yargılama giderlerinin, aleyhine hüküm verilen taraftan alınmasına karar verilir.",
@@ -2669,7 +582,7 @@
       "ust_node": "HMK_M326"
     }
   },
-  "HMK_M326_F2": {
+  {
     "node_id": "HMK_M326_F2",
     "node_type": "fikra",
     "embed_text": "Davada iki taraf için de ayrı ayrı veya birlikte birden fazla dava arkadaşı varsa, yargılama giderleri bunlar arasında paylaştırılır. Hâkim, iki tarafın haklılık durumunu dikkate alarak giderleri paylaştırabilir.",
@@ -2685,7 +598,7 @@
       "ust_node": "HMK_M326"
     }
   },
-  "HMK_M341": {
+  {
     "node_id": "HMK_M341",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 341 istinaf kanun yolu ilk derece mahkemesinin nihai kararlarına karşı istinaf yoluna başvurulabilir bölge adliye mahkemesi",
@@ -2707,7 +620,7 @@
       ]
     }
   },
-  "HMK_M341_F1": {
+  {
     "node_id": "HMK_M341_F1",
     "node_type": "fikra",
     "embed_text": "İlk derece mahkemelerinin nihai kararlarına karşı istinaf yoluna başvurulabilir.",
@@ -2724,7 +637,7 @@
       "ust_node": "HMK_M341"
     }
   },
-  "HMK_M341_F2": {
+  {
     "node_id": "HMK_M341_F2",
     "node_type": "fikra",
     "embed_text": "Miktar veya değeri üç bin Türk lirasını geçmeyen malvarlığı davalarına ilişkin kararlar kesindir.",
@@ -2740,7 +653,7 @@
       "ust_node": "HMK_M341"
     }
   },
-  "HMK_M343": {
+  {
     "node_id": "HMK_M343",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 343 istinaf başvurusu süresi istinaf süresi kararın tebliğ tarihinden itibaren iki haftadır",
@@ -2759,7 +672,7 @@
       ]
     }
   },
-  "HMK_M343_F1": {
+  {
     "node_id": "HMK_M343_F1",
     "node_type": "fikra",
     "embed_text": "İstinaf yoluna başvuru süresi, ilamın usulen taraflardan her birine tebliğinden itibaren iki haftadır.",
@@ -2775,7 +688,7 @@
       "ust_node": "HMK_M343"
     }
   },
-  "HMK_M346": {
+  {
     "node_id": "HMK_M346",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 346 BAM incelemesi bölge adliye mahkemesi kararı usul ve esas yönünden inceler",
@@ -2793,7 +706,7 @@
       ]
     }
   },
-  "HMK_M346_F1": {
+  {
     "node_id": "HMK_M346_F1",
     "node_type": "fikra",
     "embed_text": "Bölge adliye mahkemesi, davayı, kararı etkileyebilecek yargılama hatası veya eksikliği bulunup bulunmadığı yönünden inceleme yapar.",
@@ -2809,7 +722,7 @@
       "ust_node": "HMK_M346"
     }
   },
-  "HMK_M361": {
+  {
     "node_id": "HMK_M361",
     "node_type": "madde",
     "embed_text": "Hukuk Muhakemeleri Kanunu madde 361 temyiz yolu bölge adliye mahkemesi hukuk dairelerinin nihai kararlarına karşı Yargıtay'da temyiz yoluna başvurulabilir",
@@ -2828,7 +741,7 @@
       ]
     }
   },
-  "HMK_M361_F1": {
+  {
     "node_id": "HMK_M361_F1",
     "node_type": "fikra",
     "embed_text": "Bölge adliye mahkemesi hukuk dairelerinin nihai kararlarına karşı temyiz yoluna başvurulabilir.",
@@ -2844,7 +757,7 @@
       "ust_node": "HMK_M361"
     }
   },
-  "IK_M1": {
+  {
     "node_id": "IK_M1",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 1 amaç ve kapsam bu kanun işverenler ile bir iş sözleşmesine dayanarak çalıştırılan işçilerin çalışma koşullarını ve çalışma ortamına ilişkin hak ve sorumluluklarını düzenler",
@@ -2864,7 +777,7 @@
       ]
     }
   },
-  "IK_M1_F1": {
+  {
     "node_id": "IK_M1_F1",
     "node_type": "fikra",
     "embed_text": "Bu kanun, 4 üncü maddedeki istisnalar saklı kalmak üzere işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine ve işçilerine faaliyet konularına bakılmaksızın uygulanır.",
@@ -2880,7 +793,7 @@
       "ust_node": "IK_M1"
     }
   },
-  "IK_M1_F2": {
+  {
     "node_id": "IK_M1_F2",
     "node_type": "fikra",
     "embed_text": "Bu kanunun uygulanması bakımından işyeri, işveren, işveren vekili ve işçi kavramları 2 nci maddede tanımlanmıştır.",
@@ -2896,7 +809,7 @@
       "ust_node": "IK_M1"
     }
   },
-  "IK_M5": {
+  {
     "node_id": "IK_M5",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 5 eşit davranma ilkesi iş ilişkisinde dil ırk renk cinsiyet engelli siyasal düşünce felsefi inanç din mezhep ve benzeri sebeplere dayalı ayrım yapılamaz",
@@ -2919,7 +832,7 @@
       ]
     }
   },
-  "IK_M5_F1": {
+  {
     "node_id": "IK_M5_F1",
     "node_type": "fikra",
     "embed_text": "İş ilişkisinde dil, ırk, renk, cinsiyet, engelli olma, siyasal düşünce, felsefî inanç, din ve mezhep ve benzeri sebeplere dayalı ayrım yapılamaz.",
@@ -2935,7 +848,7 @@
       "ust_node": "IK_M5"
     }
   },
-  "IK_M5_F2": {
+  {
     "node_id": "IK_M5_F2",
     "node_type": "fikra",
     "embed_text": "İşveren, esaslı sebepler olmadıkça tam süreli çalışan işçi karşısında kısmî süreli çalışan işçiye, belirsiz süreli çalışan işçi karşısında belirli süreli çalışan işçiye farklı işlem yapamaz.",
@@ -2951,7 +864,7 @@
       "ust_node": "IK_M5"
     }
   },
-  "IK_M5_F3": {
+  {
     "node_id": "IK_M5_F3",
     "node_type": "fikra",
     "embed_text": "İşveren, biyolojik veya işin niteliğine ilişkin sebepler zorunlu kılmadıkça, bir işçiye, iş sözleşmesinin yapılmasında, şartlarının oluşturulmasında, uygulanmasında ve sona ermesinde, cinsiyet veya gebelik nedeniyle doğrudan veya dolaylı farklı işlem yapamaz.",
@@ -2967,7 +880,7 @@
       "ust_node": "IK_M5"
     }
   },
-  "IK_M5_F4": {
+  {
     "node_id": "IK_M5_F4",
     "node_type": "fikra",
     "embed_text": "Aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret kararlaştırılamaz.",
@@ -2983,7 +896,7 @@
       "ust_node": "IK_M5"
     }
   },
-  "IK_M5_F5": {
+  {
     "node_id": "IK_M5_F5",
     "node_type": "fikra",
     "embed_text": "İşçinin 4 üncü fıkra dahil bu madde hükümlerine aykırı davranışı nedeniyle uğradığı zarar için dört aya kadar ücreti tutarındaki uygun bir tazminattan başka yoksun bırakıldığı haklarını da talep edebilir.",
@@ -2999,7 +912,7 @@
       "ust_node": "IK_M5"
     }
   },
-  "IK_M8": {
+  {
     "node_id": "IK_M8",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 8 iş sözleşmesi tanımı iş sözleşmesi bir tarafın bağımlı olarak iş görmeyi diğer tarafın da ücret ödemeyi üstlendiği sözleşmedir",
@@ -3020,7 +933,7 @@
       ]
     }
   },
-  "IK_M8_F1": {
+  {
     "node_id": "IK_M8_F1",
     "node_type": "fikra",
     "embed_text": "İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın (işveren) da ücret ödemeyi üstlenmesinden oluşan sözleşmedir.",
@@ -3036,7 +949,7 @@
       "ust_node": "IK_M8"
     }
   },
-  "IK_M8_F2": {
+  {
     "node_id": "IK_M8_F2",
     "node_type": "fikra",
     "embed_text": "Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması zorunludur. Bu belgeler damga vergisi ve her çeşit resim ve harçtan muaftır.",
@@ -3052,7 +965,7 @@
       "ust_node": "IK_M8"
     }
   },
-  "IK_M8_F3": {
+  {
     "node_id": "IK_M8_F3",
     "node_type": "fikra",
     "embed_text": "Yazılı sözleşme yapılmayan hâllerde işveren işçiye en geç iki ay içinde genel ve özel çalışma koşullarını, günlük ya da haftalık çalışma süresini, temel ücreti ve varsa ücret eklerini, ücret ödeme dönemini, süresi belirli ise sözleşmenin süresini, fesih hâlinde tarafların uymak zorunda oldukları bildirim sürelerini ve varsa toplu iş sözleşmesini bildirmekle yükümlüdür.",
@@ -3068,7 +981,7 @@
       "ust_node": "IK_M8"
     }
   },
-  "IK_M11": {
+  {
     "node_id": "IK_M11",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 11 belirli süreli iş sözleşmesi esaslı neden olmaksızın birden fazla üst üste yapılan belirli süreli iş sözleşmeleri belirsiz süreli iş sözleşmesine dönüşür zincirleme sözleşme",
@@ -3088,7 +1001,7 @@
       ]
     }
   },
-  "IK_M11_F1": {
+  {
     "node_id": "IK_M11_F1",
     "node_type": "fikra",
     "embed_text": "İş ilişkisinin bir süreyle sınırlandırılması, bu sınırlandırmayı haklı kılacak esaslı bir nedenin bulunmasına bağlıdır. Aksi hâlde iş sözleşmesi belirsiz süreli sayılır.",
@@ -3104,7 +1017,7 @@
       "ust_node": "IK_M11"
     }
   },
-  "IK_M11_F2": {
+  {
     "node_id": "IK_M11_F2",
     "node_type": "fikra",
     "embed_text": "Esaslı bir neden olmaksızın birden fazla üst üste (zincirleme) yapılan belirli süreli iş sözleşmeleri, belirsiz süreli iş sözleşmesi sayılır.",
@@ -3120,7 +1033,7 @@
       "ust_node": "IK_M11"
     }
   },
-  "IK_M17": {
+  {
     "node_id": "IK_M17",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 17 süreli fesih ve bildirim süreleri belirsiz süreli iş sözleşmesinin feshinde işçinin kıdemine göre ihbar süreleri iki dört altı sekiz hafta",
@@ -3141,7 +1054,7 @@
       ]
     }
   },
-  "IK_M17_F1": {
+  {
     "node_id": "IK_M17_F1",
     "node_type": "fikra",
     "embed_text": "Belirsiz süreli iş sözleşmelerinin feshinden önce durumun diğer tarafa bildirilmesi gerekir.",
@@ -3157,7 +1070,7 @@
       "ust_node": "IK_M17"
     }
   },
-  "IK_M17_F2": {
+  {
     "node_id": "IK_M17_F2",
     "node_type": "fikra",
     "embed_text": "İş sözleşmeleri; a) İşi altı aydan az sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak iki hafta sonra, b) İşi altı aydan birbuçuk yıla kadar sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak dört hafta sonra, c) İşi birbuçuk yıldan üç yıla kadar sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak altı hafta sonra, d) İşi üç yıldan fazla sürmüş işçi için, bildirim yapılmasından başlayarak sekiz hafta sonra, feshedilmiş sayılır.",
@@ -3179,7 +1092,7 @@
       ]
     }
   },
-  "IK_M17_F2_Ba": {
+  {
     "node_id": "IK_M17_F2_Ba",
     "node_type": "bent",
     "embed_text": "İşi altı aydan az sürmüş olan işçi için, bildirimin diğer tarafa yapılmasından başlayarak iki hafta sonra iş sözleşmesi feshedilmiş sayılır.",
@@ -3196,7 +1109,7 @@
       "ust_node": "IK_M17_F2"
     }
   },
-  "IK_M17_F2_Bd": {
+  {
     "node_id": "IK_M17_F2_Bd",
     "node_type": "bent",
     "embed_text": "İşi üç yıldan fazla sürmüş işçi için, bildirimin diğer tarafa yapılmasından başlayarak sekiz hafta sonra iş sözleşmesi feshedilmiş sayılır.",
@@ -3213,7 +1126,7 @@
       "ust_node": "IK_M17_F2"
     }
   },
-  "IK_M17_F3": {
+  {
     "node_id": "IK_M17_F3",
     "node_type": "fikra",
     "embed_text": "Bu süreler asgari olup sözleşmeler ile artırılabilir.",
@@ -3229,7 +1142,7 @@
       "ust_node": "IK_M17"
     }
   },
-  "IK_M18": {
+  {
     "node_id": "IK_M18",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 18 feshin geçerli sebebe dayandırılması otuz ve daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan belirsiz süreli iş sözleşmesiyle çalışan işçinin iş sözleşmesi geçerli sebep olmaksızın feshedilemez",
@@ -3250,7 +1163,7 @@
       ]
     }
   },
-  "IK_M18_F1": {
+  {
     "node_id": "IK_M18_F1",
     "node_type": "fikra",
     "embed_text": "Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır.",
@@ -3266,7 +1179,7 @@
       "ust_node": "IK_M18"
     }
   },
-  "IK_M18_F2": {
+  {
     "node_id": "IK_M18_F2",
     "node_type": "fikra",
     "embed_text": "Aşağıdaki hususlar fesih için geçerli bir sebep oluşturmaz: a) Sendika üyeliği veya çalışma saatleri dışında ya da işverenin rızası ile çalışma saatlerinde sendikal faaliyete katılmak. b) İşyeri sendika temsilciliği yapmak. c) Mevzuattan yönetmelikten iş sözleşmesinden veya toplu iş sözleşmesinden doğan haklarını kullanmak. d) Irk, renk, cinsiyet, medeni hal, aile yükümlülükleri, hamilelik, doğum, din, siyasi görüş ve benzeri nedenler. e) 74 üncü maddede öngörülen ve kadın işçilerin çalıştırılmasının yasak olduğu sürelerde işe gelmemek. f) Hastalık veya kaza nedeniyle 25 inci maddenin (I) numaralı bendinin (b) alt bendinde öngörülen bekleme süresinde işe geçici devamsızlık.",
@@ -3282,7 +1195,7 @@
       "ust_node": "IK_M18"
     }
   },
-  "IK_M18_F3": {
+  {
     "node_id": "IK_M18_F3",
     "node_type": "fikra",
     "embed_text": "İşçinin altı aylık kıdemi, aynı işverenin bir veya birkaç işyerinde geçen süreler birleştirilerek hesap edilir.",
@@ -3298,7 +1211,7 @@
       "ust_node": "IK_M18"
     }
   },
-  "IK_M20": {
+  {
     "node_id": "IK_M20",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 20 fesih bildirimine itiraz ve usul iş sözleşmesi feshedilen işçi fesih bildiriminde sebep gösterilmediğini veya geçerli sebep bulunmadığını iddia ediyorsa arabulucuya başvurarak feshin geçersizliği ve işe iade talebiyle dava açabilir",
@@ -3319,7 +1232,7 @@
       ]
     }
   },
-  "IK_M20_F1": {
+  {
     "node_id": "IK_M20_F1",
     "node_type": "fikra",
     "embed_text": "İş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli bir sebep olmadığı iddiası ile fesih bildiriminin tebliği tarihinden itibaren bir ay içinde işe iade talebiyle, İş Mahkemeleri Kanunu hükümleri uyarınca arabulucuya başvurmak zorundadır.",
@@ -3337,7 +1250,7 @@
       "ust_node": "IK_M20"
     }
   },
-  "IK_M20_F2": {
+  {
     "node_id": "IK_M20_F2",
     "node_type": "fikra",
     "embed_text": "Arabuluculuk faaliyeti sonucunda anlaşma sağlanamaması hâlinde, son tutanağın düzenlendiği tarihten itibaren, iki hafta içinde iş mahkemesinde dava açılabilir.",
@@ -3354,7 +1267,7 @@
       "ust_node": "IK_M20"
     }
   },
-  "IK_M20_F3": {
+  {
     "node_id": "IK_M20_F3",
     "node_type": "fikra",
     "embed_text": "Dava seri muhakeme usulüne göre iki ay içinde sonuçlandırılır. Mahkemece verilen kararın temyizi hâlinde Yargıtay, bir ay içinde kesin olarak karar verir.",
@@ -3370,7 +1283,7 @@
       "ust_node": "IK_M20"
     }
   },
-  "IK_M21": {
+  {
     "node_id": "IK_M21",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 21 geçersiz sebeple yapılan feshin sonuçları mahkeme feshi geçersiz sayarsa işveren dört aya kadar boşta geçen süre ücreti ve diğer hakları ödemekle yükümlü işçiyi bir ay içinde işe başlatmak zorunda",
@@ -3391,7 +1304,7 @@
       ]
     }
   },
-  "IK_M21_F1": {
+  {
     "node_id": "IK_M21_F1",
     "node_type": "fikra",
     "embed_text": "İşverence geçerli sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı mahkemece veya özel hakem tarafından tespit edilerek feshin geçersizliğine karar verildiğinde, işveren, işçiyi bir ay içinde işe başlatmak zorundadır. İşçiyi başvurusu üzerine işveren bir ay içinde işe başlatmaz ise, işçiye en az dört aylık ve en çok sekiz aylık ücreti tutarında tazminat ödemekle yükümlü olur.",
@@ -3407,7 +1320,7 @@
       "ust_node": "IK_M21"
     }
   },
-  "IK_M21_F2": {
+  {
     "node_id": "IK_M21_F2",
     "node_type": "fikra",
     "embed_text": "Kararın kesinleşmesine kadar çalıştırılmadığı süre için işçiye en çok dört aya kadar doğmuş bulunan ücret ve diğer hakları ödenir.",
@@ -3423,7 +1336,7 @@
       "ust_node": "IK_M21"
     }
   },
-  "IK_M21_F3": {
+  {
     "node_id": "IK_M21_F3",
     "node_type": "fikra",
     "embed_text": "İşçi işe başlatılırsa, peşin olarak ödenen bildirim süresine ait ücret ile kıdem tazminatı, yukarıdaki fıkra hükümlerine göre yapılacak ödemeden mahsup edilir.",
@@ -3439,7 +1352,7 @@
       "ust_node": "IK_M21"
     }
   },
-  "IK_M25": {
+  {
     "node_id": "IK_M25",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 25 işverenin haklı nedenle derhal fesih hakkı ahlak ve iyi niyet kurallarına uymayan haller sağlık sebepleri zorlayıcı sebepler tutukluluğun devamı",
@@ -3461,7 +1374,7 @@
       ]
     }
   },
-  "IK_M25_F_I": {
+  {
     "node_id": "IK_M25_F_I",
     "node_type": "fikra",
     "embed_text": "Süresi belirli olsun veya olmasın işveren, aşağıda yazılı hâllerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir: I - Sağlık sebepleri: a) İşçinin kendi kastından veya derli toplu olmayan yaşayışından yahut içkiye düşkünlüğünden doğacak bir hastalığa veya sakatlığa uğraması hâlinde, bu sebeple doğacak devamsızlığın ardı ardına üç iş günü veya bir ayda beş iş gününden fazla sürmesi. b) İşçinin tutulduğu hastalığın tedavi edilemeyecek nitelikte olduğu ve işyerinde çalışmasında sakınca bulunduğunun Sağlık Kurulunca saptanması durumunda.",
@@ -3477,7 +1390,7 @@
       "ust_node": "IK_M25"
     }
   },
-  "IK_M25_F_II": {
+  {
     "node_id": "IK_M25_F_II",
     "node_type": "fikra",
     "embed_text": "II - Ahlak ve iyi niyet kurallarına uymayan haller ve benzerleri: a) İş sözleşmesi yapıldığı sırada bu sözleşmenin esaslı noktalarından biri için gerekli vasıflar veya şartlar kendisinde bulunmadığı hâlde bunların kendisinde bulunduğunu ileri sürerek, yahut gerçeğe uygun olmayan bilgiler veya sözler söyleyerek işçinin işvereni yanıltması. b) İşçinin, işveren yahut bunların aile üyelerinden birinin şeref ve namusuna dokunacak sözler sarf etmesi veya davranışlarda bulunması, yahut işveren hakkında şeref ve haysiyet kırıcı asılsız ihbar ve isnatlarda bulunması.",
@@ -3493,7 +1406,7 @@
       "ust_node": "IK_M25"
     }
   },
-  "IK_M25_F_III": {
+  {
     "node_id": "IK_M25_F_III",
     "node_type": "fikra",
     "embed_text": "III - Zorlayıcı sebepler: İşçiyi işyerinde bir haftadan fazla süre ile çalışmaktan alıkoyan zorlayıcı bir sebebin ortaya çıkması.",
@@ -3509,7 +1422,7 @@
       "ust_node": "IK_M25"
     }
   },
-  "IK_M25_F_IV": {
+  {
     "node_id": "IK_M25_F_IV",
     "node_type": "fikra",
     "embed_text": "IV - İşçinin gözaltına alınması veya tutuklanması hâlinde devamsızlığın 17 nci maddedeki bildirim süresini aşması.",
@@ -3525,7 +1438,7 @@
       "ust_node": "IK_M25"
     }
   },
-  "IK_M32": {
+  {
     "node_id": "IK_M32",
     "node_type": "madde",
     "embed_text": "İş Kanunu madde 32 ücretin tanımı ve ödenmesi genel anlamda ücret bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutar",
@@ -3546,7 +1459,7 @@
       ]
     }
   },
-  "IK_M32_F1": {
+  {
     "node_id": "IK_M32_F1",
     "node_type": "fikra",
     "embed_text": "Genel anlamda ücret bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutardır.",
@@ -3562,7 +1475,7 @@
       "ust_node": "IK_M32"
     }
   },
-  "IK_M32_F2": {
+  {
     "node_id": "IK_M32_F2",
     "node_type": "fikra",
     "embed_text": "Ücret, bir ay içinde ödenmelidir. İş sözleşmeleri veya toplu iş sözleşmeleri ile ödeme süresi bir haftaya kadar indirilebilir.",
@@ -3578,7 +1491,7 @@
       "ust_node": "IK_M32"
     }
   },
-  "IK_M32_F3": {
+  {
     "node_id": "IK_M32_F3",
     "node_type": "fikra",
     "embed_text": "Türk parası ile yapılacak ödemelerde işveren, kendi isteğiyle yapacağı ödemeler dışında, işçiye yabancı para cinsinden ödeme yapamaz.",
@@ -3594,7 +1507,7 @@
       "ust_node": "IK_M32"
     }
   },
-  "IK_M34_V1": {
+  {
     "node_id": "IK_M34_V1",
     "node_type": "madde_versiyon",
     "embed_text": "İş Kanunu madde 34 ücretin ödenmemesinde işçinin çalışmaktan kaçınma hakkı 2003 2016 arası ila ücret alacağı yukarı özel faiz oranı",
@@ -3615,7 +1528,7 @@
       ]
     }
   },
-  "IK_M34_V1_F1": {
+  {
     "node_id": "IK_M34_V1_F1",
     "node_type": "fikra",
     "embed_text": "Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden dışında ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir. Bu nedenle kişisel kararlarına dayanarak iş görme borcunu yerine getirmeyen işçilerin bu kanundan, iş sözleşmesinden veya toplu iş sözleşmesinden doğan hakları ortadan kalkmaz. Bu işçiler hakkında ücret alacağının mevduata uygulanan en yüksek faiz oranı üzerinden hesaplanacak fazla çalışma ücretine ilişkin hükümler uygulanmaz.",
@@ -3633,7 +1546,7 @@
       "ust_node": "IK_M34_V1"
     }
   },
-  "IK_M34_V2": {
+  {
     "node_id": "IK_M34_V2",
     "node_type": "madde_versiyon",
     "embed_text": "İş Kanunu madde 34 ücrete uygulanan faiz 6663 sayılı Kanun ile değişiklik 5 Şubat 2016 sonrası avans faizi kaldırılarak gecikme faizi uygulanmaya başlandı",
@@ -3654,7 +1567,7 @@
       ]
     }
   },
-  "IK_M34_V2_F1": {
+  {
     "node_id": "IK_M34_V2_F1",
     "node_type": "fikra",
     "embed_text": "Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden dışında ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir. Bu nedenle kişisel kararlarına dayanarak iş görme borcunu yerine getirmeyen işçilerin bu kanundan, iş sözleşmesinden veya toplu iş sözleşmesinden doğan hakları ortadan kalkmaz. Ücret alacakları için mevduata uygulanan en yüksek faiz oranı üzerinden faize hükmedilir.",
@@ -3671,7 +1584,7 @@
       "ust_node": "IK_M34_V2"
     }
   },
-  "IK_1475_M14": {
+  {
     "node_id": "IK_1475_M14",
     "node_type": "madde",
     "embed_text": "1475 sayılı İş Kanunu madde 14 kıdem tazminatı hükümleri hâlâ yürürlükte olan tek hüküm kıdem tazminatı hesaplama esasları bir yıl ve üzeri kıdem için her yıl için otuz günlük ücret",
@@ -3691,7 +1604,7 @@
       ]
     }
   },
-  "IK_1475_M14_F1": {
+  {
     "node_id": "IK_1475_M14_F1",
     "node_type": "fikra",
     "embed_text": "Bu kanuna tabi işçilerin hizmet akitlerinin işveren tarafından bu kanunun 17. maddesinin II numaralı bendinde gösterilen sebepler dışında, işçi tarafından bu kanunun 16. maddesi uyarınca, muvazzaf askerlik hizmeti dolayısıyla, bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malûllük aylığı yahut toptan ödeme almak amacıyla, feshedilmesi veya kadının evlendiği tarihten itibaren bir yıl içinde kendi arzusu ile sona erdirmesi veya işçinin ölümü sebebiyle son bulması hâllerinde işçinin işyerindeki çalışma süresi dikkate alınarak her geçen tam yıl için işverence işçiye otuz günlük ücreti tutarında kıdem tazminatı ödenir.",
@@ -3707,7 +1620,7 @@
       "ust_node": "IK_1475_M14"
     }
   },
-  "IK_1475_M14_F2": {
+  {
     "node_id": "IK_1475_M14_F2",
     "node_type": "fikra",
     "embed_text": "Kıdem tazminatının hesaplanması son ücret üzerinden yapılır. Parça başı, akort, götürü veya yüzde usulü gibi ücretin sabit olmadığı hâllerde son bir yıllık süre içinde ödenen ücretin o süre içinde çalışılan günlere bölünmesi suretiyle bulunacak ortalama ücret bu tazminatın hesabına esas tutulur.",
@@ -3723,7 +1636,7 @@
       "ust_node": "IK_1475_M14"
     }
   },
-  "TBK_M1": {
+  {
     "node_id": "TBK_M1",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 1 sözleşmenin kurulması tarafların karşılıklı ve birbirine uygun irade açıklamalarıyla sözleşme kurulmuş olur",
@@ -3744,7 +1657,7 @@
       ]
     }
   },
-  "TBK_M1_F1": {
+  {
     "node_id": "TBK_M1_F1",
     "node_type": "fikra",
     "embed_text": "Tarafların karşılıklı ve birbirine uygun irade açıklamalarıyla sözleşme kurulmuş olur.",
@@ -3760,7 +1673,7 @@
       "ust_node": "TBK_M1"
     }
   },
-  "TBK_M1_F2": {
+  {
     "node_id": "TBK_M1_F2",
     "node_type": "fikra",
     "embed_text": "İrade açıklaması açık veya örtülü olabilir.",
@@ -3776,7 +1689,7 @@
       "ust_node": "TBK_M1"
     }
   },
-  "TBK_M2": {
+  {
     "node_id": "TBK_M2",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 2 ön sözleşme bir sözleşmenin ileride kurulmasına ilişkin sözleşme edimlerin esaslı noktalarında uyuşma",
@@ -3797,7 +1710,7 @@
       ]
     }
   },
-  "TBK_M2_F1": {
+  {
     "node_id": "TBK_M2_F1",
     "node_type": "fikra",
     "embed_text": "Bir sözleşmenin ileride kurulmasına ilişkin sözleşme, bu sözleşmenin esas noktalarını kapsaması koşuluyla kurulmuş sayılır.",
@@ -3813,7 +1726,7 @@
       "ust_node": "TBK_M2"
     }
   },
-  "TBK_M2_F2": {
+  {
     "node_id": "TBK_M2_F2",
     "node_type": "fikra",
     "embed_text": "Kanunda öngörülen istisnalar dışında ön sözleşmelerin geçerliliği asıl sözleşmenin şekline bağlıdır.",
@@ -3829,7 +1742,7 @@
       "ust_node": "TBK_M2"
     }
   },
-  "TBK_M19": {
+  {
     "node_id": "TBK_M19",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 19 sözleşmenin içeriğinin belirlenmesi taraflar sözleşmenin içeriğini kanunda öngörülen sınırlar içinde serbestçe belirleyebilir",
@@ -3849,7 +1762,7 @@
       ]
     }
   },
-  "TBK_M19_F1": {
+  {
     "node_id": "TBK_M19_F1",
     "node_type": "fikra",
     "embed_text": "Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde özgürce belirleyebilirler.",
@@ -3865,7 +1778,7 @@
       "ust_node": "TBK_M19"
     }
   },
-  "TBK_M19_F2": {
+  {
     "node_id": "TBK_M19_F2",
     "node_type": "fikra",
     "embed_text": "Sözleşme içeriğinin belirlenmesinde özellikle genel ahlaka, kamu düzenine, kişilik haklarına ilişkin kurallara ve emredici hukuk kurallarına aykırı düzenlemeler yapılamaz.",
@@ -3881,7 +1794,7 @@
       "ust_node": "TBK_M19"
     }
   },
-  "TBK_M20": {
+  {
     "node_id": "TBK_M20",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 20 genel işlem koşulları bir sözleşme yapılırken düzenleyenin ileride çok sayıda benzer sözleşmede kullanmak amacıyla önceden hazırlayıp karşı tarafa sunduğu sözleşme koşulları",
@@ -3902,7 +1815,7 @@
       ]
     }
   },
-  "TBK_M20_F1": {
+  {
     "node_id": "TBK_M20_F1",
     "node_type": "fikra",
     "embed_text": "Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride çok sayıda benzer sözleşmede kullanmak amacıyla, önceden, tek başına hazırlayıp karşı tarafa sunduğu sözleşme hükümleridir.",
@@ -3918,7 +1831,7 @@
       "ust_node": "TBK_M20"
     }
   },
-  "TBK_M20_F2": {
+  {
     "node_id": "TBK_M20_F2",
     "node_type": "fikra",
     "embed_text": "Bu koşulların, sözleşme metninde veya ekinde yer alması, kapsamı, yazı türü ve şekli, niteliğini etkilemez.",
@@ -3934,7 +1847,7 @@
       "ust_node": "TBK_M20"
     }
   },
-  "TBK_M20_F3": {
+  {
     "node_id": "TBK_M20_F3",
     "node_type": "fikra",
     "embed_text": "Aynı amaçla düzenlenen sözleşmelerin içerikleri bakımından ortaya çıkan genel hatlar da genel işlem koşulu sayılır.",
@@ -3950,7 +1863,7 @@
       "ust_node": "TBK_M20"
     }
   },
-  "TBK_M21": {
+  {
     "node_id": "TBK_M21",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 21 genel işlem koşullarının sözleşme kapsamına girmesi yazılı sözleşmelerde karşı tarafın bu koşulların içeriğini öğrenme imkânı",
@@ -3970,7 +1883,7 @@
       ]
     }
   },
-  "TBK_M21_F1": {
+  {
     "node_id": "TBK_M21_F1",
     "node_type": "fikra",
     "embed_text": "Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin kapsamına girmesi için, düzenleyenin sözleşme kurulurken karşı tarafa koşulların varlığı hakkında açıkça bilgi vermesi ve bunların içeriğini öğrenmesine makul ölçüde olanak tanıması gerekir.",
@@ -3986,7 +1899,7 @@
       "ust_node": "TBK_M21"
     }
   },
-  "TBK_M21_F2": {
+  {
     "node_id": "TBK_M21_F2",
     "node_type": "fikra",
     "embed_text": "Genel işlem koşullarından olan şaşırtıcı koşullar, sözleşmenin kapsamına girmez; bir koşul, içeriği, açıkça belirtilmemiş olsa bile yaygın kullanım ve karşı tarafın bu esnadaki meşru beklentileri dışına çıkıyorsa şaşırtıcı sayılır.",
@@ -4002,7 +1915,7 @@
       "ust_node": "TBK_M21"
     }
   },
-  "TBK_M25": {
+  {
     "node_id": "TBK_M25",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 25 genel işlem koşullarına itiraz ve denetim sözleşme içeriğine denetim hakkı",
@@ -4020,7 +1933,7 @@
       ]
     }
   },
-  "TBK_M25_F1": {
+  {
     "node_id": "TBK_M25_F1",
     "node_type": "fikra",
     "embed_text": "Genel işlem koşullarına, dürüstlük kurallarına aykırı olarak, karşı tarafın aleyhine olan koşullar sözleşme kapsamında sayılmaz.",
@@ -4036,7 +1949,7 @@
       "ust_node": "TBK_M25"
     }
   },
-  "TBK_M41_MULGA": {
+  {
     "node_id": "TBK_M41_MULGA",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu eski madde 41 Borçlar Kanunu 818 haksız fiil genel hükmü mülga madde 49 ile yeniden düzenlenmiştir",
@@ -4054,7 +1967,7 @@
       "hukuk_dali": "borçlar hukuku"
     }
   },
-  "TBK_M49": {
+  {
     "node_id": "TBK_M49",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 49 haksız fiil sorumluluğu kusurlu ve hukuka aykırı bir fiille başkasına zarar veren bu zararı gidermekle yükümlüdür",
@@ -4074,7 +1987,7 @@
       ]
     }
   },
-  "TBK_M49_F1": {
+  {
     "node_id": "TBK_M49_F1",
     "node_type": "fikra",
     "embed_text": "Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür.",
@@ -4090,7 +2003,7 @@
       "ust_node": "TBK_M49"
     }
   },
-  "TBK_M49_F2": {
+  {
     "node_id": "TBK_M49_F2",
     "node_type": "fikra",
     "embed_text": "Zarar verici fiil yararlı bir işin görülmesi sırasında meydana gelmiş olsa bile bu sorumluluk doğar.",
@@ -4106,7 +2019,7 @@
       "ust_node": "TBK_M49"
     }
   },
-  "TBK_M51": {
+  {
     "node_id": "TBK_M51",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 51 tazminatın belirlenmesi hâkim tazminatın kapsamını ve ödenme biçimini belirlerken zarar ile kusur oranını ve hâlin gereklerini göz önünde tutar",
@@ -4125,7 +2038,7 @@
       ]
     }
   },
-  "TBK_M51_F1": {
+  {
     "node_id": "TBK_M51_F1",
     "node_type": "fikra",
     "embed_text": "Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve özellikle kusurun ağırlığını göz önünde tutarak belirler.",
@@ -4141,7 +2054,7 @@
       "ust_node": "TBK_M51"
     }
   },
-  "TBK_M83_MULGA": {
+  {
     "node_id": "TBK_M83_MULGA",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu eski madde 83 borçlunun temerrüdü teslim yükümlülüğü yabancı para mülga madde 99 ile yeniden düzenlenmiştir",
@@ -4158,7 +2071,7 @@
       "hukuk_dali": "borçlar hukuku"
     }
   },
-  "TBK_M97": {
+  {
     "node_id": "TBK_M97",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 97 defi hakkı ödemezlik def'i karşılıklı borçlarda taraflardan biri borcunu ifa etmedikçe diğeri de borcunu ifadan kaçınabilir",
@@ -4177,7 +2090,7 @@
       ]
     }
   },
-  "TBK_M97_F1": {
+  {
     "node_id": "TBK_M97_F1",
     "node_type": "fikra",
     "embed_text": "Karşılıklı borç yükleyen bir sözleşmede taraflardan biri, karşı taraf edimini ifa etmedikçe veya ifa için güvence vermedikçe, kendi edimini ifadan kaçınabilir.",
@@ -4193,7 +2106,7 @@
       "ust_node": "TBK_M97"
     }
   },
-  "TBK_M99": {
+  {
     "node_id": "TBK_M99",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 99 para borçları yabancı para borcunda ülke parası ile ödeme kur farkı alacaklının ülke parası ile ödeme isteminde bulunma hakkı",
@@ -4214,7 +2127,7 @@
       ]
     }
   },
-  "TBK_M99_F1": {
+  {
     "node_id": "TBK_M99_F1",
     "node_type": "fikra",
     "embed_text": "Yabancı para üzerinden yapılan sözleşme, aksi kararlaştırılmamışsa veya durumun gerekli kılmadığı anlaşılmıyorsa, ülke parasıyla ödenebilir.",
@@ -4230,7 +2143,7 @@
       "ust_node": "TBK_M99"
     }
   },
-  "TBK_M99_F2": {
+  {
     "node_id": "TBK_M99_F2",
     "node_type": "fikra",
     "embed_text": "Bu ödeme günün rayiciyle yapılır.",
@@ -4246,7 +2159,7 @@
       "ust_node": "TBK_M99"
     }
   },
-  "TBK_M99_F3": {
+  {
     "node_id": "TBK_M99_F3",
     "node_type": "fikra",
     "embed_text": "Vade veya ödeme gününde borçlunun temerrüde düşmesi durumunda alacaklı, borcun vade veya ödeme günündeki ya da fiili ödeme günündeki rayiçten hangisi daha yüksekse ona göre ülke parasıyla ödeme yapılmasını isteyebilir.",
@@ -4262,7 +2175,7 @@
       "ust_node": "TBK_M99"
     }
   },
-  "TBK_M112": {
+  {
     "node_id": "TBK_M112",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 112 borca aykırılık sözleşmeden doğan borçların ifa edilmemesi gereği gibi ifa edilmemesi veya geç ifa edilmesi halinde zarar ve ziyan tazminata hükmedilir",
@@ -4281,7 +2194,7 @@
       ]
     }
   },
-  "TBK_M112_F1": {
+  {
     "node_id": "TBK_M112_F1",
     "node_type": "fikra",
     "embed_text": "Borç hiç veya gereği gibi ifa edilmezse borçlu, alacaklının bundan doğan zararını gidermekle yükümlüdür; ancak borcun ifasının imkânsızlaştığını ispat etmesi hâlinde bu yükümlülükten kurtulur.",
@@ -4297,7 +2210,7 @@
       "ust_node": "TBK_M112"
     }
   },
-  "TBK_M117_V1": {
+  {
     "node_id": "TBK_M117_V1",
     "node_type": "madde_versiyon",
     "embed_text": "Türk Borçlar Kanunu madde 117 temerrüt muaccel bir borcun borçlusu alacaklının ihtarıyla temerrüde düşer 2012 tarihli ilk hali",
@@ -4319,7 +2232,7 @@
       ]
     }
   },
-  "TBK_M117_V1_F1": {
+  {
     "node_id": "TBK_M117_V1_F1",
     "node_type": "fikra",
     "embed_text": "Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer.",
@@ -4337,7 +2250,7 @@
       "ust_node": "TBK_M117_V1"
     }
   },
-  "TBK_M117_V1_F2": {
+  {
     "node_id": "TBK_M117_V1_F2",
     "node_type": "fikra",
     "embed_text": "Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı tutulan bir hakka dayanılarak taraflardan biri tarafından belirlenmiş ise borçlu, o günün geçmesiyle temerrüde düşmüş olur.",
@@ -4355,7 +2268,7 @@
       "ust_node": "TBK_M117_V1"
     }
   },
-  "TBK_M117_V2": {
+  {
     "node_id": "TBK_M117_V2",
     "node_type": "madde_versiyon",
     "embed_text": "Türk Borçlar Kanunu madde 117 temerrüt 6728 sayılı Kanun ile değiştirilmiş hali 13 Temmuz 2016 sonrası belirli eder işe temerrüt ihtar olmaksızın gerçekleşir",
@@ -4378,7 +2291,7 @@
       ]
     }
   },
-  "TBK_M117_V2_F1": {
+  {
     "node_id": "TBK_M117_V2_F1",
     "node_type": "fikra",
     "embed_text": "Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer.",
@@ -4395,7 +2308,7 @@
       "ust_node": "TBK_M117_V2"
     }
   },
-  "TBK_M117_V2_F2": {
+  {
     "node_id": "TBK_M117_V2_F2",
     "node_type": "fikra",
     "embed_text": "Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı tutulan bir hakka dayanılarak taraflardan biri tarafından belirlenmiş ise borçlu, o günün geçmesiyle temerrüde düşmüş olur. Belirli eder işlerde ise borçlu, belirlenen sürenin geçmesiyle ihbar gerekmeksizin temerrüde düşer.",
@@ -4412,7 +2325,7 @@
       "ust_node": "TBK_M117_V2"
     }
   },
-  "TBK_M117_V2_F3": {
+  {
     "node_id": "TBK_M117_V2_F3",
     "node_type": "fikra",
     "embed_text": "Sözleşmede aksine bir hüküm bulunmadıkça, faiz borcunda temerrüt, ayrıca ihtara gerek olmaksızın faizin muaccel olduğu tarihte gerçekleşir.",
@@ -4429,7 +2342,7 @@
       "ust_node": "TBK_M117_V2"
     }
   },
-  "TBK_M120": {
+  {
     "node_id": "TBK_M120",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 120 temerrüt faizi temerrüde düşen borçlu sözleşmede daha yüksek bir faiz oranı kararlaştırılmamışsa yasal faiz ödemekle yükümlüdür",
@@ -4449,7 +2362,7 @@
       ]
     }
   },
-  "TBK_M120_F1": {
+  {
     "node_id": "TBK_M120_F1",
     "node_type": "fikra",
     "embed_text": "Bir para borcunun ödenmesinde temerrüde düşen borçlu, sözleşmede daha yüksek bir faiz oranı kararlaştırılmamışsa, vade veya ihtar tarihinden itibaren yasal faiz işletilmesini kabul etmekle yükümlüdür.",
@@ -4465,7 +2378,7 @@
       "ust_node": "TBK_M120"
     }
   },
-  "TBK_M120_F2": {
+  {
     "node_id": "TBK_M120_F2",
     "node_type": "fikra",
     "embed_text": "Birinci fıkra uyarınca asgari olarak ödenmesi gereken yasal faizin oranı, yüzde beştir.",
@@ -4481,7 +2394,7 @@
       "ust_node": "TBK_M120"
     }
   },
-  "TBK_M207": {
+  {
     "node_id": "TBK_M207",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 207 satış sözleşmesi satıcı satılanı alıcıya teslim ve mülkiyetini geçirme borcunu üstlenir",
@@ -4500,7 +2413,7 @@
       ]
     }
   },
-  "TBK_M207_F1": {
+  {
     "node_id": "TBK_M207_F1",
     "node_type": "fikra",
     "embed_text": "Satış sözleşmesi, satıcının satılanın mülkiyetini alıcıya devretmeyi ve alıcının da buna karşılık bir bedel ödemeyi üstlendiği sözleşmedir.",
@@ -4516,7 +2429,7 @@
       "ust_node": "TBK_M207"
     }
   },
-  "TBK_M219": {
+  {
     "node_id": "TBK_M219",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 219 ayıptan sorumluluk satıcı alıcıya karşı satılanın ayıplarından sorumludur satılanda satıcı tarafından üstlenilen niteliklerin bulunmaması veya değerini azaltan eksiklikler ayıp sayılır",
@@ -4536,7 +2449,7 @@
       ]
     }
   },
-  "TBK_M219_F1": {
+  {
     "node_id": "TBK_M219_F1",
     "node_type": "fikra",
     "embed_text": "Satıcı, satılanı kararlaştırılan niteliklere sahip olmak ve satılanın değerini veya alıcının ondan beklediği yararı ortadan kaldıran ya da önemli ölçüde azaltan maddi, hukuki ya da ekonomik ayıplardan arî olarak teslim etmekle yükümlüdür.",
@@ -4552,7 +2465,7 @@
       "ust_node": "TBK_M219"
     }
   },
-  "TBK_M219_F2": {
+  {
     "node_id": "TBK_M219_F2",
     "node_type": "fikra",
     "embed_text": "Satıcı, bu ayıpların varlığını bilmese bile onlardan sorumludur.",
@@ -4568,7 +2481,7 @@
       "ust_node": "TBK_M219"
     }
   },
-  "TBK_M220": {
+  {
     "node_id": "TBK_M220",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 220 ayıptan sorumluluğun kaldırılması satıcı alıcıya karşı üstlendiği ayıptan sorumluluğu ortadan kaldıran veya sınırlayan bir anlaşma yapamaz",
@@ -4587,7 +2500,7 @@
       ]
     }
   },
-  "TBK_M220_F1": {
+  {
     "node_id": "TBK_M220_F1",
     "node_type": "fikra",
     "embed_text": "Satıcı, alıcıyı bilerek yanıltmışsa, ayıptan doğan sorumluluğunu ortadan kaldıran veya sınırlayan her anlaşma geçersizdir.",
@@ -4603,7 +2516,7 @@
       "ust_node": "TBK_M220"
     }
   },
-  "TBK_M231": {
+  {
     "node_id": "TBK_M231",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 231 tüketici satışları tüketiciye yönelik satışlardan doğan uyuşmazlıklarda 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri uygulanır",
@@ -4624,7 +2537,7 @@
       ]
     }
   },
-  "TBK_M231_F1": {
+  {
     "node_id": "TBK_M231_F1",
     "node_type": "fikra",
     "embed_text": "Tüketiciye yönelik satışlar, özel kanun hükümlerine tabidir; bu kanunda hüküm bulunmayan hâllerde genel hükümler uygulanır.",
@@ -4640,7 +2553,7 @@
       "ust_node": "TBK_M231"
     }
   },
-  "TBK_M352": {
+  {
     "node_id": "TBK_M352",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 352 kiracının temerrüdü kira sözleşmesi kiraya veren kiracının muaccel kira bedelini ödememesi halinde sözleşmeyi feshedebilir",
@@ -4660,7 +2573,7 @@
       ]
     }
   },
-  "TBK_M352_F1": {
+  {
     "node_id": "TBK_M352_F1",
     "node_type": "fikra",
     "embed_text": "Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini veya yan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak bir süre verip, bu sürede de ifa etmemesi hâlinde, sözleşmeyi feshedebileceğini bildirebilir.",
@@ -4676,7 +2589,7 @@
       "ust_node": "TBK_M352"
     }
   },
-  "TBK_M352_F2": {
+  {
     "node_id": "TBK_M352_F2",
     "node_type": "fikra",
     "embed_text": "Kiracı bu süre içinde kira bedelini ve yan gideri ödemezse kiraya veren, kira sözleşmesini hemen feshedebilir; aksi takdirde fesih hakkı sona erer.",
@@ -4692,7 +2605,7 @@
       "ust_node": "TBK_M352"
     }
   },
-  "TBK_M393": {
+  {
     "node_id": "TBK_M393",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 393 vekâlet sözleşmesi vekil üstlendiği işi ve görevi sadakat ve özenle yönetmek müvekkil yararı gözetmek borçludur",
@@ -4712,7 +2625,7 @@
       ]
     }
   },
-  "TBK_M393_F1": {
+  {
     "node_id": "TBK_M393_F1",
     "node_type": "fikra",
     "embed_text": "Vekâlet sözleşmesi, vekilin vekâlet verenin bir işini görmeyi veya işlemini yapmayı üstlendiği sözleşmedir.",
@@ -4728,7 +2641,7 @@
       "ust_node": "TBK_M393"
     }
   },
-  "TBK_M393_F2": {
+  {
     "node_id": "TBK_M393_F2",
     "node_type": "fikra",
     "embed_text": "Vekil, üstlendiği işi sözleşmeye uygun ve işin niteliği gerektirdiği özenle yapmak, vekil edenin açık talimatına uymak zorundadır.",
@@ -4744,7 +2657,7 @@
       "ust_node": "TBK_M393"
     }
   },
-  "TBK_M421": {
+  {
     "node_id": "TBK_M421",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 421 acentelik sözleşmesi acente müvekkil işletmesi hesabına belirli bir bölgede sürekli olarak ticari temsilcilik veya aracılık yapar",
@@ -4763,7 +2676,7 @@
       ]
     }
   },
-  "TBK_M421_F1": {
+  {
     "node_id": "TBK_M421_F1",
     "node_type": "fikra",
     "embed_text": "Acentelik sözleşmesi, acentenin müvekkili adına veya hesabına sözleşme yapma ya da sözleşme yapılmasına aracılık etme borcunu üstlendiği, müvekkelin de bu hizmet karşılığında bir ücret ödemeyi üstlendiği sözleşmedir.",
@@ -4779,7 +2692,7 @@
       "ust_node": "TBK_M421"
     }
   },
-  "TBK_M480": {
+  {
     "node_id": "TBK_M480",
     "node_type": "madde",
     "embed_text": "Türk Borçlar Kanunu madde 480 eser sözleşmesi bedel götürü bedel belirlenmiş ise yüklenici eseri o bedelle yapmak zorundadır fazla gider veya emek harcasa bile bedel artırımı talep edemez",
@@ -4799,7 +2712,7 @@
       ]
     }
   },
-  "TBK_M480_F1": {
+  {
     "node_id": "TBK_M480_F1",
     "node_type": "fikra",
     "embed_text": "Götürü bedel kararlaştırılmışsa yüklenici, eseri o bedelle yapmakla yükümlüdür; öngörülenden fazla emek ve masraf gerektiği iddiasıyla iş sahibinden ek ödeme isteyemez.",
@@ -4815,7 +2728,7 @@
       "ust_node": "TBK_M480"
     }
   },
-  "TBK_M480_F2": {
+  {
     "node_id": "TBK_M480_F2",
     "node_type": "fikra",
     "embed_text": "Öngörülemeyen esaslı nedenler ve özellikle eserin yapımını uzatan ya da güçleştiren hâllerin ortaya çıkması durumunda yüklenici, zamanında bildirmek koşuluyla hâkimden sözleşmenin yeni koşullara uyarlanmasını veya bozulmasını talep edebilir.",
@@ -4831,7 +2744,7 @@
       "ust_node": "TBK_M480"
     }
   },
-  "TMK_M8": {
+  {
     "node_id": "TMK_M8",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 8 hak ehliyeti her insanın hak ehliyeti vardır buna göre herkes hak ve borçlara ehil olmak bakımından eşittir",
@@ -4851,7 +2764,7 @@
       ]
     }
   },
-  "TMK_M8_F1": {
+  {
     "node_id": "TMK_M8_F1",
     "node_type": "fikra",
     "embed_text": "Her insanın hak ehliyeti vardır.",
@@ -4867,7 +2780,7 @@
       "ust_node": "TMK_M8"
     }
   },
-  "TMK_M8_F2": {
+  {
     "node_id": "TMK_M8_F2",
     "node_type": "fikra",
     "embed_text": "Buna göre, bütün insanlar, hukuk düzeninin sınırları içinde hak ve borçlara ehil olmak bakımından eşit haklara sahiptir.",
@@ -4883,7 +2796,7 @@
       "ust_node": "TMK_M8"
     }
   },
-  "TMK_M9": {
+  {
     "node_id": "TMK_M9",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 9 fiil ehliyeti ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehliyeti vardır",
@@ -4902,7 +2815,7 @@
       ]
     }
   },
-  "TMK_M9_F1": {
+  {
     "node_id": "TMK_M9_F1",
     "node_type": "fikra",
     "embed_text": "Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişi, fiil ehliyetine sahiptir.",
@@ -4918,7 +2831,7 @@
       "ust_node": "TMK_M9"
     }
   },
-  "TMK_M11": {
+  {
     "node_id": "TMK_M11",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 11 erginlik on sekiz yaşını doldurmakla başlar evlenme ile de ergin olunur",
@@ -4938,7 +2851,7 @@
       ]
     }
   },
-  "TMK_M11_F1": {
+  {
     "node_id": "TMK_M11_F1",
     "node_type": "fikra",
     "embed_text": "Erginlik, onsekiz yaşın doldurulmasıyla başlar.",
@@ -4954,7 +2867,7 @@
       "ust_node": "TMK_M11"
     }
   },
-  "TMK_M11_F2": {
+  {
     "node_id": "TMK_M11_F2",
     "node_type": "fikra",
     "embed_text": "Evlenme kişiyi ergin kılar.",
@@ -4970,7 +2883,7 @@
       "ust_node": "TMK_M11"
     }
   },
-  "TMK_M47": {
+  {
     "node_id": "TMK_M47",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 47 tüzel kişilik başlangıcı ve sona ermesi tüzel kişiler kanun veya kamuoyunca tanınmış amaçlar doğrultusunda kişi ya da mal toplulukları olarak kurulur",
@@ -4989,7 +2902,7 @@
       ]
     }
   },
-  "TMK_M47_F1": {
+  {
     "node_id": "TMK_M47_F1",
     "node_type": "fikra",
     "embed_text": "Başlı başına bir varlığı olmak üzere örgütlenmiş kişi toplulukları ve belli bir amaca özgülenmiş olan bağımsız mal toplulukları, kendileri ile ilgili özel hükümler çerçevesinde tüzel kişilik kazanır.",
@@ -5005,7 +2918,7 @@
       "ust_node": "TMK_M47"
     }
   },
-  "TMK_M124_V1": {
+  {
     "node_id": "TMK_M124_V1",
     "node_type": "madde_versiyon",
     "embed_text": "Türk Medeni Kanunu madde 124 evlenme yaşı on yedi yaşını doldurmayan erkek veya kadın evlenemez 2002 2019 yılları arasında geçerli hali",
@@ -5028,7 +2941,7 @@
       ]
     }
   },
-  "TMK_M124_V1_F1": {
+  {
     "node_id": "TMK_M124_V1_F1",
     "node_type": "fikra",
     "embed_text": "Erkek veya kadın on yedi yaşını doldurmadıkça evlenemez.",
@@ -5046,7 +2959,7 @@
       "ust_node": "TMK_M124_V1"
     }
   },
-  "TMK_M124_V1_F2": {
+  {
     "node_id": "TMK_M124_V1_F2",
     "node_type": "fikra",
     "embed_text": "Ancak, olağanüstü durumlarda ve pek önemli bir sebeple hâkim, on altı yaşını bitirmiş olan erkek veya kadının evlenmesine izin verebilir.",
@@ -5064,7 +2977,7 @@
       "ust_node": "TMK_M124_V1"
     }
   },
-  "TMK_M124_V2": {
+  {
     "node_id": "TMK_M124_V2",
     "node_type": "madde_versiyon",
     "embed_text": "Türk Medeni Kanunu madde 124 evlenme yaşı 7253 sayılı Kanun ile değiştirilen ve 4 Aralık 2019 tarihinden itibaren yürürlükte olan hali on sekiz yaşını doldurmayan evlenemez istisnalar kaldırılmıştır",
@@ -5085,7 +2998,7 @@
       ]
     }
   },
-  "TMK_M124_V2_F1": {
+  {
     "node_id": "TMK_M124_V2_F1",
     "node_type": "fikra",
     "embed_text": "Erkek veya kadın on sekiz yaşını doldurmadıkça evlenemez.",
@@ -5102,7 +3015,7 @@
       "ust_node": "TMK_M124_V2"
     }
   },
-  "TMK_M133": {
+  {
     "node_id": "TMK_M133",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 133 evlenme engelleri evlenmeden önceki nüfus kayıt belgesi alınması zorunludur hısımlık yaş engeli önceki evlilik devam etmesi",
@@ -5121,7 +3034,7 @@
       ]
     }
   },
-  "TMK_M133_F1": {
+  {
     "node_id": "TMK_M133_F1",
     "node_type": "fikra",
     "embed_text": "Aralarında evlenme yasağı bulunan kişiler evlenemez; bu yasak; hısımlık, önceki evlilik bağının devam etmesi veya kanunda gösterilen diğer sebeplere dayanır.",
@@ -5137,7 +3050,7 @@
       "ust_node": "TMK_M133"
     }
   },
-  "TMK_M161": {
+  {
     "node_id": "TMK_M161",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 161 zina evlilik birliği içinde zina eden eş boşanma davası açılabilir",
@@ -5158,7 +3071,7 @@
       ]
     }
   },
-  "TMK_M161_F1": {
+  {
     "node_id": "TMK_M161_F1",
     "node_type": "fikra",
     "embed_text": "Eşlerden biri zina ederse, diğer eş boşanma davası açabilir.",
@@ -5174,7 +3087,7 @@
       "ust_node": "TMK_M161"
     }
   },
-  "TMK_M161_F2": {
+  {
     "node_id": "TMK_M161_F2",
     "node_type": "fikra",
     "embed_text": "Davaya hakkı olan eşin boşanma sebebini öğrenmesinden başlayarak altı ay ve her hâlde zina eyleminin üzerinden beş yıl geçmekle dava hakkı düşer.",
@@ -5190,7 +3103,7 @@
       "ust_node": "TMK_M161"
     }
   },
-  "TMK_M161_F3": {
+  {
     "node_id": "TMK_M161_F3",
     "node_type": "fikra",
     "embed_text": "Affeden tarafın dava hakkı yoktur.",
@@ -5206,7 +3119,7 @@
       "ust_node": "TMK_M161"
     }
   },
-  "TMK_M163_MULGA": {
+  {
     "node_id": "TMK_M163_MULGA",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 163 terk boşanma sebebi mülga madde bu hüküm 162 ve 166 maddeleri kapsamına alınmıştır",
@@ -5226,7 +3139,7 @@
       "hukuk_dali": "aile hukuku"
     }
   },
-  "TMK_M166": {
+  {
     "node_id": "TMK_M166",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 166 evlilik birliğinin temelden sarsılması genel boşanma sebebi evlilik birliği ortak hayatı sürdürmesi eşlerden beklenmeyecek derecede temelinden sarsılmış olması",
@@ -5247,7 +3160,7 @@
       ]
     }
   },
-  "TMK_M166_F1": {
+  {
     "node_id": "TMK_M166_F1",
     "node_type": "fikra",
     "embed_text": "Evlilik birliği, ortak hayatı sürdürmeleri kendilerinden beklenmeyecek derecede temelinden sarsılmış olursa, eşlerden her biri boşanma davası açabilir.",
@@ -5263,7 +3176,7 @@
       "ust_node": "TMK_M166"
     }
   },
-  "TMK_M166_F2": {
+  {
     "node_id": "TMK_M166_F2",
     "node_type": "fikra",
     "embed_text": "Davacının ağır kusuru bulunması durumunda davalı eşin itiraz hakkı vardır; bu itiraz hakkın kötüye kullanılması niteliğinde olmayıp evlilik birliğini ve çocukları bakımından korunmaya değer bir yarar söz konusu olmadıkça dikkate alınır.",
@@ -5279,7 +3192,7 @@
       "ust_node": "TMK_M166"
     }
   },
-  "TMK_M166_F3": {
+  {
     "node_id": "TMK_M166_F3",
     "node_type": "fikra",
     "embed_text": "Evlilik en az üç yıl sürmüş ise, eşlerin birlikte başvurması ya da birinin diğerinin davasını kabul etmesi hâlinde evlilik birliği temelinden sarsılmış sayılır. Bu hâlde boşanma kararı verilebilmesi için, hâkimin tarafları bizzat dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi ve boşanmanın malî sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması şarttır.",
@@ -5295,7 +3208,7 @@
       "ust_node": "TMK_M166"
     }
   },
-  "TMK_M174": {
+  {
     "node_id": "TMK_M174",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 174 boşanmada maddi ve manevi tazminat mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu taraf maddi tazminat isteyebilir",
@@ -5315,7 +3228,7 @@
       ]
     }
   },
-  "TMK_M174_F1": {
+  {
     "node_id": "TMK_M174_F1",
     "node_type": "fikra",
     "embed_text": "Mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu taraf, kusurlu taraftan uygun bir maddî tazminat isteyebilir.",
@@ -5331,7 +3244,7 @@
       "ust_node": "TMK_M174"
     }
   },
-  "TMK_M174_F2": {
+  {
     "node_id": "TMK_M174_F2",
     "node_type": "fikra",
     "embed_text": "Boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan taraf, kusurlu olan diğer taraftan manevî tazminat olarak uygun miktarda bir para ödenmesini isteyebilir.",
@@ -5347,7 +3260,7 @@
       "ust_node": "TMK_M174"
     }
   },
-  "TMK_M182": {
+  {
     "node_id": "TMK_M182",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 182 velayet boşanmada çocukların velayeti mahkeme tarafından belirlenir çocuğun üstün yararı gözetilir",
@@ -5367,7 +3280,7 @@
       ]
     }
   },
-  "TMK_M182_F1": {
+  {
     "node_id": "TMK_M182_F1",
     "node_type": "fikra",
     "embed_text": "Mahkeme, boşanma veya ayrılığa hükmederken, olanak bulundukça ana ve babayı dinledikten ve çocuk vesayet altında ise vesayet makamının da görüşünü aldıktan sonra, ana ve babanın haklarını ve çocukla olan kişisel ilişkilerini düzenler.",
@@ -5383,7 +3296,7 @@
       "ust_node": "TMK_M182"
     }
   },
-  "TMK_M182_F2": {
+  {
     "node_id": "TMK_M182_F2",
     "node_type": "fikra",
     "embed_text": "Velayetin kullanılması kendisine verilmeyen eşin çocuk ile kişisel ilişkisi, çocuğun ve diğer eşin hakları gözetilerek belirlenir.",
@@ -5399,7 +3312,7 @@
       "ust_node": "TMK_M182"
     }
   },
-  "TMK_M183": {
+  {
     "node_id": "TMK_M183",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 183 velayetin değiştirilmesi velayet kendisine bırakılan eşin yeniden evlenmesi diğer eşin çocuğun menfaatini tehlikeye sokan davranışları velayetin değiştirilmesine neden olabilir",
@@ -5418,7 +3331,7 @@
       ]
     }
   },
-  "TMK_M183_F1": {
+  {
     "node_id": "TMK_M183_F1",
     "node_type": "fikra",
     "embed_text": "Ana veya babanın yeniden evlenmesi, başka bir yere gitmesi, ölmesi gibi zorunlu hâller çıktığı ya da çocuğun menfaati gerektirdiği takdirde, velayet düzenlemesi değiştirilebilir ya da kaldırılabilir.",
@@ -5434,7 +3347,7 @@
       "ust_node": "TMK_M183"
     }
   },
-  "TMK_M282": {
+  {
     "node_id": "TMK_M282",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 282 soybağının kurulması çocuk ile ana arasındaki soybağı doğumla kurulur çocuk ile baba arasındaki soybağı ise evlilik ana babanın evlenmesi ya da tanıma veya babalığa hükümle kurulur",
@@ -5454,7 +3367,7 @@
       ]
     }
   },
-  "TMK_M282_F1": {
+  {
     "node_id": "TMK_M282_F1",
     "node_type": "fikra",
     "embed_text": "Çocuk ile ana arasındaki soybağı doğumla kurulur.",
@@ -5470,7 +3383,7 @@
       "ust_node": "TMK_M282"
     }
   },
-  "TMK_M282_F2": {
+  {
     "node_id": "TMK_M282_F2",
     "node_type": "fikra",
     "embed_text": "Çocuk ile baba arasındaki soybağı, ana ile evlilik, tanıma veya hâkim hükmüyle kurulur.",
@@ -5486,7 +3399,7 @@
       "ust_node": "TMK_M282"
     }
   },
-  "TMK_M295": {
+  {
     "node_id": "TMK_M295",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 295 babalık davası babalık karinesinden yararlanamayan çocuk veya annesi babalık davası açabilir",
@@ -5506,7 +3419,7 @@
       ]
     }
   },
-  "TMK_M295_F1": {
+  {
     "node_id": "TMK_M295_F1",
     "node_type": "fikra",
     "embed_text": "Babalık karinesinden yararlanamayan çocuk ya da annesi, babalık davası açabilir.",
@@ -5522,7 +3435,7 @@
       "ust_node": "TMK_M295"
     }
   },
-  "TMK_M295_F2": {
+  {
     "node_id": "TMK_M295_F2",
     "node_type": "fikra",
     "embed_text": "Dava, babalığı iddia edilen kişiye; o ölmüşse mirasçılarına karşı açılır.",
@@ -5538,7 +3451,7 @@
       "ust_node": "TMK_M295"
     }
   },
-  "TMK_M335": {
+  {
     "node_id": "TMK_M335",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 335 velayet velayet küçüklere ait olup ana ve baba tarafından birlikte kullanılır",
@@ -5558,7 +3471,7 @@
       ]
     }
   },
-  "TMK_M335_F1": {
+  {
     "node_id": "TMK_M335_F1",
     "node_type": "fikra",
     "embed_text": "Ergin olmayan çocuk, ana ve babasının velayeti altındadır.",
@@ -5574,7 +3487,7 @@
       "ust_node": "TMK_M335"
     }
   },
-  "TMK_M335_F2": {
+  {
     "node_id": "TMK_M335_F2",
     "node_type": "fikra",
     "embed_text": "Yasal sebep olmadıkça velayet ana ve babadan alınamaz.",
@@ -5590,7 +3503,7 @@
       "ust_node": "TMK_M335"
     }
   },
-  "TMK_M560": {
+  {
     "node_id": "TMK_M560",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 560 tenkis davası saklı pay oranlarını zedeleyen tasarrufların tenkisi için her saklı pay alacaklısı tenkis davası açabilir",
@@ -5610,7 +3523,7 @@
       ]
     }
   },
-  "TMK_M560_F1": {
+  {
     "node_id": "TMK_M560_F1",
     "node_type": "fikra",
     "embed_text": "Saklı paylarının karşılığını alamayan mirasçılar, miras bırakanın tasarruf edebileceği kısmı aşan tasarrufların tenkisini dava edebilirler.",
@@ -5626,7 +3539,7 @@
       "ust_node": "TMK_M560"
     }
   },
-  "TMK_M560_F2": {
+  {
     "node_id": "TMK_M560_F2",
     "node_type": "fikra",
     "embed_text": "Tenkis iddiası, def'i yoluyla da ileri sürülebilir.",
@@ -5642,7 +3555,7 @@
       "ust_node": "TMK_M560"
     }
   },
-  "TMK_M683": {
+  {
     "node_id": "TMK_M683",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 683 mülkiyet hakkının içeriği bir şeyin maliki o şey üzerinde dilediği gibi kullanma yararlanma ve tasarrufta bulunma yetkisine sahiptir",
@@ -5662,7 +3575,7 @@
       ]
     }
   },
-  "TMK_M683_F1": {
+  {
     "node_id": "TMK_M683_F1",
     "node_type": "fikra",
     "embed_text": "Bir şeyin maliki, hukuk düzeninin sınırları içinde, o şey üzerinde dilediği gibi kullanma, yararlanma ve tasarrufta bulunma yetkisine sahiptir.",
@@ -5678,7 +3591,7 @@
       "ust_node": "TMK_M683"
     }
   },
-  "TMK_M683_F2": {
+  {
     "node_id": "TMK_M683_F2",
     "node_type": "fikra",
     "embed_text": "Malik, malını haksız olarak elinde bulunduran kimseye karşı istihkak davası açabileceği gibi, her türlü haksız elatmayı önlemek için de dava açabilir.",
@@ -5694,7 +3607,7 @@
       "ust_node": "TMK_M683"
     }
   },
-  "TMK_M706": {
+  {
     "node_id": "TMK_M706",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 706 taşınmaz mülkiyetin devri taşınmaz mülkiyetinin devrini amaçlayan sözleşmenin geçerli olması resmi şekle bağlıdır",
@@ -5713,7 +3626,7 @@
       ]
     }
   },
-  "TMK_M706_F1": {
+  {
     "node_id": "TMK_M706_F1",
     "node_type": "fikra",
     "embed_text": "Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması, resmî şekilde düzenlenmiş olmalarına bağlıdır. Bu kurala aykırı sözleşmeler geçersizdir.",
@@ -5729,7 +3642,7 @@
       "ust_node": "TMK_M706"
     }
   },
-  "TMK_M716": {
+  {
     "node_id": "TMK_M716",
     "node_type": "madde",
     "embed_text": "Türk Medeni Kanunu madde 716 tescile gerek olmayan kazanımlar işgal miras kanun veya mahkeme kararı gibi hallerde taşınmaz mülkiyeti tescilsiz kazanılır",
@@ -5749,7 +3662,7 @@
       ]
     }
   },
-  "TMK_M716_F1": {
+  {
     "node_id": "TMK_M716_F1",
     "node_type": "fikra",
     "embed_text": "Miras, mahkeme kararı, cebri icra, işgal veya kanun gereğinde taşınmaz mülkiyeti tescil yapılmaksızın kazanılır.",
@@ -5765,7 +3678,7 @@
       "ust_node": "TMK_M716"
     }
   },
-  "TMK_M716_F2": {
+  {
     "node_id": "TMK_M716_F2",
     "node_type": "fikra",
     "embed_text": "Ancak bu yollarla kazanan kişi, tapu kütüğüne tescil yaptırmak zorundadır; tescil yapılmadan mülkiyeti bir başkasına devredemez.",
@@ -5781,4 +3694,4 @@
       "ust_node": "TMK_M716"
     }
   }
-}
+]

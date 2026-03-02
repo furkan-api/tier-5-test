@@ -15,7 +15,8 @@
 
 set -euo pipefail
 
-DIR="$(cd "$(dirname "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 cd "$DIR"
 
 PYTHON="${GRAPHRAG_PYTHON:-$DIR/venv/bin/python}"

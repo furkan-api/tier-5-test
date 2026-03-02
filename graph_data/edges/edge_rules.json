@@ -1,0 +1,49 @@
+{
+  "description": "Dinamik kenar kuralları — build sırasında koşullarla hesaplanır. Statik kenarlar edges/structural_edges.json'da tanımlıdır.",
+  "version": "1.0.0",
+  "rules": [
+    {
+      "rule_id": "ayni_kanun_maddeleri",
+      "edge_type": "AYNI_KANUN",
+      "description": "Aynı kanuna ait maddeler arasında zayıf kenar oluşturulur",
+      "source_node_type": "madde",
+      "target_node_type": "madde",
+      "condition": {
+        "type": "metadata_match",
+        "source_field": "metadata.kanun_no",
+        "target_field": "metadata.kanun_no"
+      },
+      "weight": 0.3,
+      "bidirectional": true
+    },
+    {
+      "rule_id": "celisik_kararlar",
+      "edge_type": "CELISIK_KARAR",
+      "description": "Aynı hukuk dalında benzer konuda ancak zıt sonuca ulaşan kararlar arasında çelişki kenarı oluşturulur",
+      "source_node_type": "karar",
+      "target_node_type": "karar",
+      "condition": {
+        "type": "contradictory_decisions",
+        "similarity_threshold": 0.55
+      },
+      "weight": 0.8,
+      "bidirectional": true
+    },
+    {
+      "rule_id": "semantik_benzerlik",
+      "edge_type": "SEMANTIK_BENZER",
+      "description": "Embedding vektörleri arasında yüksek kosinüs benzerliği olan node'lar bağlanır — Neo4j vector index üzerinden post-build çalışır",
+      "source_node_type": "*",
+      "target_node_type": "*",
+      "condition": {
+        "type": "cosine_similarity",
+        "threshold": 0.82,
+        "max_neighbors": 5,
+        "exclude_self": true,
+        "exclude_existing_edges": true
+      },
+      "weight_from_similarity": true,
+      "bidirectional": true
+    }
+  ]
+}

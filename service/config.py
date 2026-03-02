@@ -72,17 +72,13 @@ class Settings(BaseSettings):
 
     # ── Graph data (for build/migration) ──────────────────────────────────
     graph_data_dir: Path = Field(default=PROJECT_ROOT / "graph_data")
+    ontology_path: Optional[Path] = None
     edge_rules_path: Optional[Path] = None
-    data_files: list[str] = Field(default=[
-        "kanunlar.json",
-        "kararlar_bam.json",
-        "kararlar_ilk_derece.json",
-        "kararlar_yargitay.json",
-        "maddeler_hmk.json",
-        "maddeler_ik.json",
-        "maddeler_tbk.json",
-        "maddeler_tmk.json",
-    ])
+    data_files: list[str] = Field(
+        default=[],
+        description="Legacy flat data files (backward compat). "
+        "Production builds use ontology.json → build_config → node_files.",
+    )
 
     # ── API ───────────────────────────────────────────────────────────────
     api_host: str = Field(default="0.0.0.0")
@@ -102,7 +98,15 @@ class Settings(BaseSettings):
     def _default_edge_rules(cls, v, info):
         if v is None or (isinstance(v, str) and v.strip() == ""):
             gd = info.data.get("graph_data_dir", PROJECT_ROOT / "graph_data")
-            return Path(gd) / "edge_rules.json"
+            return Path(gd) / "edges" / "edge_rules.json"
+        return v
+
+    @field_validator("ontology_path", mode="before")
+    @classmethod
+    def _default_ontology(cls, v, info):
+        if v is None or (isinstance(v, str) and v.strip() == ""):
+            gd = info.data.get("graph_data_dir", PROJECT_ROOT / "graph_data")
+            return Path(gd) / "ontology.json"
         return v
 
 

@@ -9,7 +9,8 @@
 #   ./update.sh full         ← add/update data without clearing
 set -euo pipefail
 
-DIR="$(cd "$(dirname "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 cd "$DIR"
 
 PYTHON="$DIR/venv/bin/python"
@@ -86,4 +87,4 @@ trap cleanup EXIT
 # ── Launch CLI ────────────────────────────────────────────────────────────────
 
 echo "Launching CLI …"
-GRAPHRAG_API="$API_URL" $PYTHON cli.py
+GRAPHRAG_API="$API_URL" $PYTHON tools/cli.py

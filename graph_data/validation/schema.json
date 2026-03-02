@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Apilex Graph Node Validation Schema",
+  "description": "JSON Schema for validating graph node data files before ingestion.",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/node"
+  },
+  "definitions": {
+    "node": {
+      "type": "object",
+      "required": ["node_id", "node_type", "embed_text"],
+      "properties": {
+        "node_id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[A-Za-z0-9_İÖÜŞÇĞ]+$",
+          "description": "Benzersiz düğüm kimliği"
+        },
+        "node_type": {
+          "type": "string",
+          "enum": [
+            "kanun",
+            "madde",
+            "madde_versiyon",
+            "fikra",
+            "bent",
+            "karar",
+            "karar_gerekce",
+            "mahkeme",
+            "hukuk_dali",
+            "kavram"
+          ]
+        },
+        "embed_text": {
+          "type": "string",
+          "minLength": 5,
+          "description": "Vektör arama için semantik metin — boş olmamalı"
+        },
+        "metadata": {
+          "type": "object",
+          "description": "Düğüme ait ek meta veriler"
+        }
+      },
+      "additionalProperties": true
+    },
+    "edge": {
+      "type": "object",
+      "required": ["edge_id", "source", "target", "edge_type"],
+      "properties": {
+        "edge_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Kaynak düğüm node_id'si"
+        },
+        "target": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Hedef düğüm node_id'si"
+        },
+        "edge_type": {
+          "type": "string",
+          "enum": [
+            "ICERIR",
+            "UST_NODE",
+            "VERSIYONU",
+            "ATIF_YAPAR",
+            "GEREKCESI",
+            "KANUN_YOLU",
+            "VERILDI",
+            "HUKUK_DALI",
+            "UST_DAL",
+            "AYNI_KANUN",
+            "ILGILI_KAVRAM",
+            "CELISIK_KARAR",
+            "SEMANTIK_BENZER"
+          ]
+        },
+        "weight": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0,
+          "default": 1.0
+        },
+        "properties": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}

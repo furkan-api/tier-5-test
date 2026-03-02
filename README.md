@@ -7,18 +7,22 @@ A production-ready **Graph-augmented Retrieval** (GraphRAG) system for Turkish l
 ## Architecture
 
 ```
-JSON data files (graph_data/)
+graph_data/
+ ├─ nodes/        (6 JSON files, 393 nodes)
+ ├─ edges/        (structural_edges.json + edge_rules.json)
+ ├─ ontology.json (10 node types, 13 edge types)
+ └─ embeddings/   (persistent cache — auto-generated)
         │
         ▼
- Neo4jGraphBuilder
-  ├─ embed nodes  (sentence-transformers)
-  ├─ upsert into Neo4j
-  └─ apply edge rules
+ Neo4jGraphBuilder + EmbeddingCache
+  ├─ hash-based embed cache (skip unchanged)
+  ├─ upsert nodes + vectors into Neo4j
+  └─ apply structural + dynamic edge rules
         │
         ▼
    Neo4j 5.26 + APOC
   ├─ LegalNode graph with embeddings
-  └─ RELATED edges (typed)
+  └─ 13 typed edge relationships
         │
         ▼
   FastAPI service (service/api.py)
@@ -30,7 +34,7 @@ JSON data files (graph_data/)
    ┌────┴────┐
    │         │
  CLI       MCP server
-(cli.py)  (service/mcp_server.py)
+(tools/)  (service/mcp_server.py)
            └─ Claude Desktop / Cursor / Copilot
 ```
 
@@ -82,13 +86,19 @@ Neo4j Browser available at [http://localhost:7474](http://localhost:7474) (user:
 ### 5. Build the graph
 
 ```bash
-./build.sh json
+./scripts/build.sh json
+```
+
+Or use the pipeline (embeds + builds in one pass with caching):
+
+```bash
+python -m service pipeline build
 ```
 
 ### 6. Start the API
 
 ```bash
-./serve.sh
+./scripts/serve.sh
 ```
 
 ### 7. Test
@@ -105,10 +115,12 @@ curl -X POST http://localhost:8000/query \
 
 ## Shell Scripts
 
-### `build.sh` — Build the graph
+All shell scripts live in `scripts/`.
+
+### `scripts/build.sh` — Build the graph
 
 ```
-./build.sh <subcommand> [options]
+./scripts/build.sh <subcommand> [options]
 ```
 
 | Subcommand | Description |
@@ -120,20 +132,20 @@ curl -X POST http://localhost:8000/query \
 | `status` | Show node/edge counts, types, degree stats, last build time |
 
 ```bash
-./build.sh json                          # fresh build from graph_data/
-./build.sh json --data /path/to/data     # custom data directory
-./build.sh json --no-clean               # upsert without wiping Neo4j
-./build.sh vector                        # re-embed everything
-./build.sh vector --skip-edges           # re-embed only, keep edges
-./build.sh edges                         # re-apply edge_rules.json
-./build.sh similarity --threshold 0.85   # create similarity edges
-./build.sh status                        # check current state
+./scripts/build.sh json                          # fresh build from graph_data/
+./scripts/build.sh json --data /path/to/data     # custom data directory
+./scripts/build.sh json --no-clean               # upsert without wiping Neo4j
+./scripts/build.sh vector                        # re-embed everything
+./scripts/build.sh vector --skip-edges           # re-embed only, keep edges
+./scripts/build.sh edges                         # re-apply edge_rules.json
+./scripts/build.sh similarity --threshold 0.85   # create similarity edges
+./scripts/build.sh status                        # check current state
 ```
 
-### `update.sh` — Incremental updates
+### `scripts/update.sh` — Incremental updates
 
 ```
-./update.sh <subcommand> [options]
+./scripts/update.sh <subcommand> [options]
 ```
 
 | Subcommand | Description |
@@ -144,35 +156,35 @@ curl -X POST http://localhost:8000/query \
 | `full` | nodes + vector + edges in one pass |
 
 ```bash
-./update.sh nodes                               # upsert all data files
-./update.sh nodes --files kararlar_yargitay.json  # update one file
-./update.sh vector --files new_data.json        # re-embed one file
-./update.sh edges                               # rebuild all edges
-./update.sh full                                # full incremental pass
-./update.sh full --files new_kararlar.json      # add a new source file
+./scripts/update.sh nodes                               # upsert all data files
+./scripts/update.sh nodes --files kararlar_yargitay.json  # update one file
+./scripts/update.sh vector --files new_data.json        # re-embed one file
+./scripts/update.sh edges                               # rebuild all edges
+./scripts/update.sh full                                # full incremental pass
+./scripts/update.sh full --files new_kararlar.json      # add a new source file
 ```
 
 All subcommands support:
 - `--data DIR` — override data directory
 - `--files f1.json,f2.json` — process specific files only
 
-### `serve.sh` — Start API server
+### `scripts/serve.sh` — Start API server
 
 ```bash
-./serve.sh                          # default: 0.0.0.0:8000
-./serve.sh --port 9000
-./serve.sh --workers 4              # production multi-worker
-./serve.sh --reload                 # dev auto-reload (single worker)
+./scripts/serve.sh                          # default: 0.0.0.0:8000
+./scripts/serve.sh --port 9000
+./scripts/serve.sh --workers 4              # production multi-worker
+./scripts/serve.sh --reload                 # dev auto-reload (single worker)
 ```
 
-### `debug.sh` — Start API + CLI
+### `scripts/debug.sh` — Start API + CLI
 
 Starts the API server (if not already running), then launches the interactive CLI.
 
 ```bash
-./debug.sh
-./debug.sh --port 9000
-./debug.sh --api http://remote-host:8000
+./scripts/debug.sh
+./scripts/debug.sh --port 9000
+./scripts/debug.sh --api http://remote-host:8000
 ```
 
 ---
@@ -268,7 +280,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 ## Interactive CLI
 
 ```bash
-./debug.sh
+./scripts/debug.sh
 ```
 
 | Command | Description |
@@ -290,17 +302,25 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 ### Source files (`graph_data/`)
 
-| File | Content |
-|---|---|
-| `kanunlar.json` | Law-level nodes (HMK, IK, TBK, TMK) |
-| `maddeler_hmk.json` | HMK article and clause nodes |
-| `maddeler_ik.json` | İş Kanunu article and clause nodes |
-| `maddeler_tbk.json` | TBK article and clause nodes |
-| `maddeler_tmk.json` | TMK article and clause nodes |
-| `kararlar_ilk_derece.json` | First instance court decisions |
-| `kararlar_bam.json` | Regional court of appeal (BAM) decisions |
-| `kararlar_yargitay.json` | Court of Cassation (Yargıtay) decisions |
-| `edge_rules.json` | Declarative edge-building rules |
+```
+graph_data/
+├── ontology.json              # Master schema: node types, edge types, build config
+├── nodes/                     # Node data files
+│   ├── kanunlar.json          # Statute-level nodes (HMK, IK, TBK, TMK)
+│   ├── maddeler.json          # All article & clause nodes (merged)
+│   ├── kararlar.json          # All court decisions (merged)
+│   ├── mahkemeler.json        # Court entity nodes
+│   ├── hukuk_dallari.json     # Legal domain nodes
+│   └── kavramlar.json         # Legal concept nodes
+├── edges/
+│   ├── structural_edges.json  # 1001 explicit edges
+│   └── edge_rules.json        # 3 dynamic edge-building rules
+├── embeddings/                # Persistent embedding cache (auto-generated)
+│   ├── cache.npz
+│   └── cache_meta.json
+└── validation/
+    └── schema.json            # JSON Schema for data validation
+```
 
 ### Node types
 
@@ -313,6 +333,9 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 | `madde_versiyon` | Historical version of an article |
 | `karar` | Court decision |
 | `karar_gerekce` | Reasoning section of a decision |
+| `mahkeme` | Court entity (e.g. Yargıtay, BAM) |
+| `hukuk_dali` | Legal domain (İş Hukuku, Borçlar Hukuku, …) |
+| `kavram` | Legal concept (kıdem tazminatı, ibraname, …) |
 
 ### Edge types
 
@@ -325,7 +348,11 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 | `GEREKCESI` | Decision → reasoning |
 | `KANUN_YOLU` | Appeal chain (first instance → BAM → Yargıtay) |
 | `CELISIK_KARAR` | Contradictory decisions between courts |
-| `BENZER_ANLAM` | Semantic similarity edge (optional, via `./build.sh similarity`) |
+| `ILGILI_KAVRAM` | Node → legal concept association |
+| `HUKUK_DALI` | Node → legal domain classification |
+| `YARGILAYAN` | Decision → court that issued it |
+| `DEGISTIREN` | Amendment relationship between versions |
+| `BENZER_ANLAM` | Semantic similarity edge (optional, via `./scripts/build.sh similarity`) |
 
 ### Node JSON schema
 
@@ -348,29 +375,40 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 ```
 GraphRAG/
-├── service/               # Production service (Neo4j backend)
-│   ├── api.py             # FastAPI REST endpoints
-│   ├── config.py          # Pydantic Settings (reads .env)
-│   ├── neo4j_driver.py    # Async Neo4j driver singleton
-│   ├── graph_builder.py   # JSON → embed → Neo4j pipeline
-│   ├── graph_store.py     # Neo4j CRUD, schema, stats
-│   ├── vector_search.py   # Neo4j native vector search + expansion
-│   ├── query_engine.py    # High-level query orchestration
-│   ├── mcp_server.py      # MCP stdio server for AI agents
-│   ├── embeddings.py      # Embedder abstraction (ST / OpenAI)
-│   ├── migrate.py         # Migration from old FAISS output/
-│   └── __main__.py        # python -m service entrypoint
-├── graph_data/            # Source JSON + edge rules
-├── Kanunlar/              # Raw law text files
-├── Kararlar/              # Raw court decision text files
-├── cli.py                 # Textual TUI debug client
-├── build.sh               # Build subcommands (json/vector/edges/similarity/status)
-├── update.sh              # Incremental update subcommands (nodes/vector/edges/full)
-├── serve.sh               # Start API server
-├── debug.sh               # Start API + CLI
-├── docker-compose.yml     # Neo4j 5.26 + APOC
+├── service/                  # Production service package
+│   ├── __main__.py           # python -m service entrypoint
+│   ├── api.py                # FastAPI REST endpoints
+│   ├── config.py             # Pydantic Settings (reads .env)
+│   ├── neo4j_driver.py       # Async Neo4j driver singleton
+│   ├── graph_builder.py      # Ontology-driven build pipeline
+│   ├── graph_store.py        # Neo4j CRUD, schema, stats
+│   ├── vector_search.py      # Neo4j native vector search + expansion
+│   ├── query_engine.py       # High-level query orchestration
+│   ├── embeddings.py         # Embedder abstraction (ST / OpenAI)
+│   ├── embedding_cache.py    # Content-hash embedding cache (.npz)
+│   ├── pipeline.py           # Pipeline CLI (embed/build/update/validate)
+│   ├── mcp_server.py         # MCP stdio server for AI agents
+│   └── migrate.py            # Migration from old FAISS output/
+├── graph_data/               # Graph source data
+│   ├── ontology.json         # Master schema
+│   ├── nodes/                # Node JSON files (393 nodes)
+│   ├── edges/                # Edge rules + structural edges
+│   ├── embeddings/           # Persistent cache (auto-generated)
+│   └── validation/           # JSON Schema
+├── scripts/                  # Shell scripts
+│   ├── build.sh              # Build subcommands
+│   ├── update.sh             # Incremental updates
+│   ├── serve.sh              # Start API server
+│   └── debug.sh              # Start API + CLI
+├── tools/                    # Development utilities
+│   └── cli.py                # Textual TUI debug client
+├── tests/                    # Tests & benchmarks
+│   └── test_api.py           # API endpoint tests
+├── data/                     # Raw source material
+│   └── raw/                  # Law text + court decisions
+├── docker-compose.yml        # Neo4j 5.26 + APOC
 ├── requirements.txt
-└── .env                   # Local config (not committed)
+└── .env                      # Local config (not committed)
 ```
 
 ---
@@ -380,7 +418,7 @@ GraphRAG/
 ### Run tests
 
 ```bash
-venv/bin/python test_api.py
+venv/bin/python tests/test_api.py
 ```
 
 ### Migrate from legacy FAISS output
@@ -394,11 +432,14 @@ Reads `output/` (old NetworkX + FAISS build) and imports into Neo4j.
 ### python -m service shortcuts
 
 ```bash
-python -m service           # start API server
-python -m service build     # build graph
-python -m service stats     # show stats
-python -m service mcp       # start MCP server
-python -m service migrate   # migrate from old output/
+python -m service              # start API server
+python -m service build        # build graph (with embedding cache)
+python -m service embed        # embed only (no graph build)
+python -m service update       # incremental update
+python -m service stats        # show stats
+python -m service mcp          # start MCP server
+python -m service migrate      # migrate from old output/
+python -m service pipeline <cmd>  # full pipeline (embed/build/update/validate/cache-info)
 ```
 
 ---

@@ -18,7 +18,12 @@
         "yururluk_tarihi": "1926-10-04",
         "mulga_tarihi": "2012-07-01"
       },
-      "alan": ["borç hukuku", "sözleşme hukuku", "haksız fiil", "sebepsiz zenginleşme"],
+      "alan": [
+        "borç hukuku",
+        "sözleşme hukuku",
+        "haksız fiil",
+        "sebepsiz zenginleşme"
+      ],
       "kaynak_dosya": "Kanunlar/TBK_6098_Turk_Borclar_Kanunu.txt"
     }
   },
@@ -41,7 +46,14 @@
         "yururluk_tarihi": "1926-10-04",
         "mulga_tarihi": "2002-01-01"
       },
-      "alan": ["kişiler hukuku", "aile hukuku", "miras hukuku", "eşya hukuku", "velayet", "soybağı"],
+      "alan": [
+        "kişiler hukuku",
+        "aile hukuku",
+        "miras hukuku",
+        "eşya hukuku",
+        "velayet",
+        "soybağı"
+      ],
       "kaynak_dosya": "Kanunlar/TMK_4721_Turk_Medeni_Kanunu.txt"
     }
   },
@@ -64,7 +76,13 @@
         "mulga_tarihi": "2003-06-10",
         "istisna": "1475/m.14 (kıdem tazminatı) hâlâ yürürlüktedir"
       },
-      "alan": ["iş hukuku", "işçi hakları", "iş sözleşmesi", "fesih", "tazminat"],
+      "alan": [
+        "iş hukuku",
+        "işçi hakları",
+        "iş sözleşmesi",
+        "fesih",
+        "tazminat"
+      ],
       "kaynak_dosya": "Kanunlar/IK_4857_Is_Kanunu.txt"
     }
   },
@@ -88,7 +106,13 @@
         "mulga_tarihi": "2011-10-01"
       },
       "onemli_not": "İstinaf (BAM) sistemi fiilen 20/07/2016 tarihinde faaliyete geçmiştir",
-      "alan": ["usul hukuku", "yargılama", "delil", "kanun yolları", "görev ve yetki"],
+      "alan": [
+        "usul hukuku",
+        "yargılama",
+        "delil",
+        "kanun yolları",
+        "görev ve yetki"
+      ],
       "kaynak_dosya": "Kanunlar/HMK_6100_Hukuk_Muhakemeleri_Kanunu.txt"
     }
   }

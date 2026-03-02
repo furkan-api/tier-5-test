@@ -1,22 +1,20 @@
-# GraphRAG - Turkish Legal System
-
-networkx>=3.0
+# GraphRAG — Turkish Legal Knowledge Graph
+# Core
 numpy>=1.24
-faiss-cpu>=1.7
-python-dotenv>=1.0
 sentence-transformers>=2.2
+neo4j>=5.0
+pydantic>=2.0
+pydantic-settings>=2.0
 
 # API
 fastapi>=0.110
 uvicorn[standard]>=0.27
-pydantic>=2.0
 
-# CLI (test only)
+# CLI / TUI (optional — only needed for tools/cli.py)
 textual>=0.50
 
-# Neo4j production service (service/ module)
-neo4j>=5.0
-pydantic-settings>=2.0
+# Optional: only needed for FAISS migration (service/migrate.py)
+# faiss-cpu>=1.7
 
 # Optional: only required if using OpenAI embeddings
 # openai>=1.0

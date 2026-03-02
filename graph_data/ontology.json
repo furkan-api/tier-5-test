@@ -1,0 +1,450 @@
+{
+  "$schema": "https://apilex.ai/ontology/v1",
+  "version": "1.0.0",
+  "name": "Apilex Hukuk Bilgi Grafı Ontolojisi",
+  "description": "Türk hukuk sistemi için production-grade bilgi grafı ontolojisi. Kanunlar, maddeler, yargı kararları, mahkemeler, hukuk dalları ve kavramlar arası ilişkileri tanımlar.",
+  "domain": "turkish_law",
+  "language": "tr",
+  "created_at": "2026-03-02",
+  "updated_at": "2026-03-02",
+
+  "node_types": {
+    "Kanun": {
+      "label": "Kanun",
+      "description": "Kanun, kanun hükmünde kararname veya yönetmelik gibi mevzuat düzenlemesi",
+      "color": "#2563EB",
+      "icon": "book",
+      "properties": {
+        "node_id":        { "type": "string",  "required": true,  "unique": true, "description": "Benzersiz düğüm kimliği, ör: kanun_tbk_6098" },
+        "node_type":      { "type": "string",  "required": true,  "enum": ["kanun"] },
+        "embed_text":     { "type": "string",  "required": true,  "indexed": true, "description": "Vektör arama için kullanılacak semantik metin" },
+        "kanun_adi":      { "type": "string",  "required": true,  "description": "Kanunun tam adı" },
+        "kisaltma":       { "type": "string",  "required": true,  "description": "Kısa adı (TBK, TMK, İK, HMK)" },
+        "kanun_no":       { "type": "integer", "required": true,  "description": "Kanun numarası" },
+        "kabul_tarihi":   { "type": "date",    "required": true,  "description": "TBMM kabul tarihi" },
+        "yururluk_tarihi":{ "type": "date",    "required": true,  "description": "Yürürlük tarihi" },
+        "resmi_gazete_tarihi": { "type": "date",    "required": false },
+        "resmi_gazete_sayisi": { "type": "integer", "required": false },
+        "alan":           { "type": "string[]", "required": false, "description": "Kanunun kapsadığı hukuk alanları" },
+        "kaynak_dosya":   { "type": "string",  "required": false, "description": "Ham veri kaynak dosya yolu" }
+      },
+      "embed_template": "{kanun_adi} kanun numarası {kanun_no} yürürlük tarihi {yururluk_tarihi} {alan_join}"
+    },
+
+    "Madde": {
+      "label": "Madde",
+      "description": "Bir kanunun belirli bir madde hükmü",
+      "color": "#059669",
+      "icon": "paragraph",
+      "properties": {
+        "node_id":          { "type": "string",  "required": true,  "unique": true, "description": "Ör: TBK_M1, HMK_M2" },
+        "node_type":        { "type": "string",  "required": true,  "enum": ["madde"] },
+        "embed_text":       { "type": "string",  "required": true,  "indexed": true },
+        "kanun_no":         { "type": "integer", "required": true },
+        "kanun_kisaltma":   { "type": "string",  "required": true },
+        "madde_no":         { "type": "integer", "required": true },
+        "madde_basligi":    { "type": "string",  "required": false },
+        "yururluk_tarihi":  { "type": "date",    "required": true },
+        "mulga_mi":         { "type": "boolean", "required": true, "default": false },
+        "mulga_tarihi":     { "type": "date",    "required": false },
+        "onceki_duzenleme": { "type": "string",  "required": false, "description": "Yürürlükten kaldırılan eski kanun referansı" },
+        "konu":             { "type": "string",  "required": false, "description": "Maddenin konu özeti" },
+        "hukuk_dali":       { "type": "string",  "required": false }
+      },
+      "embed_template": "{kanun_kisaltma} madde {madde_no} {madde_basligi} {konu}"
+    },
+
+    "MaddeVersiyon": {
+      "label": "MaddeVersiyon",
+      "description": "Değişikliğe uğramış bir maddenin belirli bir tarih aralığındaki versiyonu",
+      "color": "#D97706",
+      "icon": "history",
+      "properties": {
+        "node_id":                  { "type": "string",  "required": true, "unique": true, "description": "Ör: HMK_M3_V1, HMK_M3_V2" },
+        "node_type":                { "type": "string",  "required": true, "enum": ["madde_versiyon"] },
+        "embed_text":               { "type": "string",  "required": true, "indexed": true },
+        "kanun_no":                 { "type": "integer", "required": true },
+        "kanun_kisaltma":           { "type": "string",  "required": true },
+        "madde_no":                 { "type": "integer", "required": true },
+        "versiyon":                 { "type": "integer", "required": true },
+        "madde_basligi":            { "type": "string",  "required": false },
+        "yururluk_tarihi":          { "type": "date",    "required": true },
+        "gecerlilik_bitis_tarihi":  { "type": "date",    "required": false },
+        "mulga_mi":                 { "type": "boolean", "required": true },
+        "degistiren_kanun":         { "type": "string",  "required": false },
+        "konu":                     { "type": "string",  "required": false },
+        "hukuk_dali":               { "type": "string",  "required": false }
+      },
+      "embed_template": "{kanun_kisaltma} madde {madde_no} versiyon {versiyon} {konu} {yururluk_tarihi}"
+    },
+
+    "Fikra": {
+      "label": "Fikra",
+      "description": "Bir maddenin alt fıkrası — kanun metninin en küçük anlamlı birimi",
+      "color": "#7C3AED",
+      "icon": "text",
+      "properties": {
+        "node_id":        { "type": "string",  "required": true,  "unique": true, "description": "Ör: TBK_M1_F1" },
+        "node_type":      { "type": "string",  "required": true,  "enum": ["fikra"] },
+        "embed_text":     { "type": "string",  "required": true,  "indexed": true, "description": "Fıkranın tam metni" },
+        "kanun_no":       { "type": "integer", "required": true },
+        "kanun_kisaltma": { "type": "string",  "required": true },
+        "madde_no":       { "type": "integer", "required": true },
+        "fikra_no":       { "type": "integer", "required": true },
+        "yururluk_tarihi":{ "type": "date",    "required": true },
+        "mulga_mi":       { "type": "boolean", "required": true, "default": false },
+        "konu":           { "type": "string",  "required": false },
+        "hukuk_dali":     { "type": "string",  "required": false },
+        "ust_node":       { "type": "string",  "required": true, "description": "Üst madde veya madde_versiyon node_id'si" }
+      },
+      "embed_template": "{embed_text}"
+    },
+
+    "Bent": {
+      "label": "Bent",
+      "description": "Fıkranın alt bendi (a, b, c veya 1, 2, 3 gibi sıralı hükümler)",
+      "color": "#6366F1",
+      "icon": "list",
+      "properties": {
+        "node_id":        { "type": "string",  "required": true,  "unique": true },
+        "node_type":      { "type": "string",  "required": true,  "enum": ["bent"] },
+        "embed_text":     { "type": "string",  "required": true,  "indexed": true },
+        "kanun_no":       { "type": "integer", "required": true },
+        "kanun_kisaltma": { "type": "string",  "required": true },
+        "madde_no":       { "type": "integer", "required": true },
+        "fikra_no":       { "type": "integer", "required": true },
+        "bent_no":        { "type": "string",  "required": true },
+        "ust_node":       { "type": "string",  "required": true }
+      },
+      "embed_template": "{embed_text}"
+    },
+
+    "Karar": {
+      "label": "Karar",
+      "description": "Yargı kararı — ilk derece, istinaf (BAM) veya temyiz (Yargıtay)",
+      "color": "#DC2626",
+      "icon": "gavel",
+      "properties": {
+        "node_id":            { "type": "string",  "required": true,  "unique": true },
+        "node_type":          { "type": "string",  "required": true,  "enum": ["karar"] },
+        "embed_text":         { "type": "string",  "required": true,  "indexed": true },
+        "mahkeme_turu":       { "type": "string",  "required": true,  "enum": ["ilk_derece", "bam_istinaf", "yargitay"], "description": "Mahkeme kademesi" },
+        "mahkeme_adi":        { "type": "string",  "required": true },
+        "esas_no":            { "type": "string",  "required": true },
+        "karar_no":           { "type": "string",  "required": true },
+        "karar_tarihi":       { "type": "date",    "required": true },
+        "konu":               { "type": "string",  "required": true },
+        "sonuc":              { "type": "string",  "required": true, "description": "Karar sonucu: ONAMA, BOZMA, KABUL, RET, vb." },
+        "hukuk_dali":         { "type": "string",  "required": false },
+        "emsal_niteligi":     { "type": "string",  "required": false },
+        "atif_yapilan_kanunlar":  { "type": "string[]", "required": false, "description": "Kanun/Madde referansları, ör: TMK/706" },
+        "atif_yapilan_kararlar":  { "type": "string[]", "required": false, "description": "Diğer karar referansları" },
+        "ilk_derece_ref":     { "type": "string",  "required": false, "description": "İlk derece kararı referansı (istinaf/temyiz için)" },
+        "bam_ref":            { "type": "string",  "required": false, "description": "BAM kararı referansı (temyiz için)" },
+        "kanun_yolu":         { "type": "string",  "required": false, "description": "Kanun yolu durumu" }
+      },
+      "embed_template": "{mahkeme_adi} {esas_no} {konu} {sonuc}"
+    },
+
+    "KararGerekce": {
+      "label": "KararGerekce",
+      "description": "Yargı kararının hukuki gerekçe metni — ayrı düğüm olarak Graph RAG'de daha iyi semantic erişim sağlar",
+      "color": "#F59E0B",
+      "icon": "file-text",
+      "properties": {
+        "node_id":          { "type": "string",  "required": true, "unique": true },
+        "node_type":        { "type": "string",  "required": true, "enum": ["karar_gerekce"] },
+        "embed_text":       { "type": "string",  "required": true, "indexed": true, "description": "Gerekçe tam metni" },
+        "ust_karar":        { "type": "string",  "required": true, "description": "Bağlı olduğu kararın node_id'si" },
+        "gerekce_turu":     { "type": "string",  "required": true, "enum": ["esasa_iliskin", "istinaf_denetimi", "temyiz_denetimi", "usule_iliskin"] },
+        "anahtar_ilkeler":  { "type": "string[]", "required": false, "description": "Gerekçedeki temel hukuki ilkeler" },
+        "atif_yapilan_kanunlar":  { "type": "string[]", "required": false },
+        "atif_yapilan_kararlar":  { "type": "string[]", "required": false },
+        "hukuk_dali":       { "type": "string",  "required": false }
+      },
+      "embed_template": "{embed_text}"
+    },
+
+    "Mahkeme": {
+      "label": "Mahkeme",
+      "description": "Yargı organı / mahkeme kurumu — kararlarla ilişki kurmak için bağımsız düğüm",
+      "color": "#0891B2",
+      "icon": "building",
+      "properties": {
+        "node_id":        { "type": "string",  "required": true, "unique": true, "description": "Ör: MAHKEME_YRG_9HD — benzersiz mahkeme kimliği" },
+        "node_type":      { "type": "string",  "required": true, "enum": ["mahkeme"] },
+        "embed_text":     { "type": "string",  "required": true, "indexed": true },
+        "mahkeme_adi":    { "type": "string",  "required": true },
+        "mahkeme_turu":   { "type": "string",  "required": true, "enum": ["ilk_derece", "bam_istinaf", "yargitay", "anayasa_mahkemesi"] },
+        "sehir":          { "type": "string",  "required": false },
+        "daire":          { "type": "string",  "required": false },
+        "uzmanlik_alani": { "type": "string[]", "required": false, "description": "Hukuk, iş, aile, ticaret gibi uzmanlık alanları" }
+      },
+      "embed_template": "{mahkeme_adi} {sehir} {uzmanlik_alani_join}"
+    },
+
+    "HukukDali": {
+      "label": "HukukDali",
+      "description": "Hukuk dalı / alt dalı sınıflandırması — taksonomi düğümü",
+      "color": "#10B981",
+      "icon": "tag",
+      "properties": {
+        "node_id":        { "type": "string",  "required": true, "unique": true, "description": "Ör: HD_IS_HUKUKU" },
+        "node_type":      { "type": "string",  "required": true, "enum": ["hukuk_dali"] },
+        "embed_text":     { "type": "string",  "required": true, "indexed": true },
+        "dal_adi":        { "type": "string",  "required": true },
+        "ust_dal":        { "type": "string",  "required": false, "description": "Üst hukuk dalının node_id'si (hiyerarşi)" },
+        "aciklama":       { "type": "string",  "required": false },
+        "anahtar_kanunlar": { "type": "string[]", "required": false, "description": "Bu dala ait temel kanunların node_id listesi" }
+      },
+      "embed_template": "{dal_adi} {aciklama}"
+    },
+
+    "Kavram": {
+      "label": "Kavram",
+      "description": "Hukuki terim veya kavram — arama kalitesini artırmak için kavram düğümleri",
+      "color": "#8B5CF6",
+      "icon": "lightbulb",
+      "properties": {
+        "node_id":        { "type": "string",  "required": true, "unique": true, "description": "Ör: KAVRAM_MUVAZAA" },
+        "node_type":      { "type": "string",  "required": true, "enum": ["kavram"] },
+        "embed_text":     { "type": "string",  "required": true, "indexed": true },
+        "kavram_adi":     { "type": "string",  "required": true },
+        "tanim":          { "type": "string",  "required": true, "description": "Kavramın hukuki tanımı" },
+        "esanlamlilar":   { "type": "string[]", "required": false, "description": "Eş anlamlılar ve alternatif kullanımlar" },
+        "ilgili_kanunlar":{ "type": "string[]", "required": false },
+        "hukuk_dali":     { "type": "string",  "required": false }
+      },
+      "embed_template": "{kavram_adi} {tanim} {esanlamlilar_join}"
+    }
+  },
+
+  "edge_types": {
+    "ICERIR": {
+      "description": "Hiyerarşik içerme ilişkisi (kanun→madde, madde→fıkra, fıkra→bent)",
+      "direction": "directed",
+      "cardinality": "one_to_many",
+      "source_types": ["Kanun", "Madde", "MaddeVersiyon", "Fikra"],
+      "target_types": ["Madde", "Fikra", "Bent"],
+      "weight_range": [1.0, 1.0],
+      "properties": {},
+      "semantic_role": "structural"
+    },
+    "UST_NODE": {
+      "description": "Alt düğümden üst düğüme referans (fıkra→madde, bent→fıkra)",
+      "direction": "directed",
+      "cardinality": "many_to_one",
+      "source_types": ["Fikra", "Bent", "MaddeVersiyon"],
+      "target_types": ["Madde", "MaddeVersiyon", "Fikra"],
+      "weight_range": [1.0, 1.0],
+      "properties": {},
+      "semantic_role": "structural"
+    },
+    "VERSIYONU": {
+      "description": "Madde versiyonlama ilişkisi — hangi versiyonların aynı maddenin farklı zaman dilimlerindeki halleri olduğunu gösterir",
+      "direction": "directed",
+      "cardinality": "many_to_one",
+      "source_types": ["MaddeVersiyon"],
+      "target_types": ["Madde"],
+      "weight_range": [1.0, 1.0],
+      "properties": {
+        "gecerlilik_baslangic": { "type": "date" },
+        "gecerlilik_bitis":     { "type": "date" }
+      },
+      "semantic_role": "temporal"
+    },
+    "ATIF_YAPAR": {
+      "description": "Karşılıklı referans / atıf ilişkisi (karar→madde, karar→karar, madde→madde)",
+      "direction": "directed",
+      "cardinality": "many_to_many",
+      "source_types": ["Karar", "KararGerekce", "Madde"],
+      "target_types": ["Madde", "Karar"],
+      "weight_range": [0.7, 1.0],
+      "properties": {
+        "atif_tipi": { "type": "string", "enum": ["kanun_maddesi", "emsal_karar", "genel_referans"], "required": false }
+      },
+      "semantic_role": "reference"
+    },
+    "GEREKCESI": {
+      "description": "Karar gerekçesinden karara bağlantı",
+      "direction": "directed",
+      "cardinality": "one_to_one",
+      "source_types": ["KararGerekce"],
+      "target_types": ["Karar"],
+      "weight_range": [1.0, 1.0],
+      "properties": {},
+      "semantic_role": "structural"
+    },
+    "KANUN_YOLU": {
+      "description": "Yargısal hiyerarşi — üst mahkeme kararından alt mahkeme kararına bağlantı (temyiz/istinaf)",
+      "direction": "directed",
+      "cardinality": "many_to_one",
+      "source_types": ["Karar"],
+      "target_types": ["Karar"],
+      "weight_range": [0.9, 1.0],
+      "properties": {
+        "kanun_yolu_turu": { "type": "string", "enum": ["istinaf", "temyiz"], "required": false }
+      },
+      "semantic_role": "judicial_hierarchy"
+    },
+    "VERILDI": {
+      "description": "Kararın verildiği mahkeme ilişkisi",
+      "direction": "directed",
+      "cardinality": "many_to_one",
+      "source_types": ["Karar"],
+      "target_types": ["Mahkeme"],
+      "weight_range": [1.0, 1.0],
+      "properties": {},
+      "semantic_role": "institutional"
+    },
+    "HUKUK_DALI": {
+      "description": "Düğümün ait olduğu hukuk dalı ilişkisi — taksonomi kenarı",
+      "direction": "directed",
+      "cardinality": "many_to_many",
+      "source_types": ["Kanun", "Madde", "Karar", "KararGerekce", "Kavram"],
+      "target_types": ["HukukDali"],
+      "weight_range": [0.8, 1.0],
+      "properties": {},
+      "semantic_role": "taxonomy"
+    },
+    "UST_DAL": {
+      "description": "Hukuk dalı hiyerarşisi (alt dal→üst dal)",
+      "direction": "directed",
+      "cardinality": "many_to_one",
+      "source_types": ["HukukDali"],
+      "target_types": ["HukukDali"],
+      "weight_range": [1.0, 1.0],
+      "properties": {},
+      "semantic_role": "taxonomy"
+    },
+    "AYNI_KANUN": {
+      "description": "Aynı kanuna ait maddeler arasında zayıf bağlantı",
+      "direction": "undirected",
+      "cardinality": "many_to_many",
+      "source_types": ["Madde"],
+      "target_types": ["Madde"],
+      "weight_range": [0.2, 0.4],
+      "properties": {},
+      "semantic_role": "co-occurrence"
+    },
+    "ILGILI_KAVRAM": {
+      "description": "Bir düğümün ilişkili olduğu hukuki kavram",
+      "direction": "directed",
+      "cardinality": "many_to_many",
+      "source_types": ["Madde", "Karar", "KararGerekce", "Fikra"],
+      "target_types": ["Kavram"],
+      "weight_range": [0.7, 1.0],
+      "properties": {},
+      "semantic_role": "conceptual"
+    },
+    "CELISIK_KARAR": {
+      "description": "Aynı hukuk dalında zıt sonuca ulaşan kararlar arası çelişki ilişkisi",
+      "direction": "undirected",
+      "cardinality": "many_to_many",
+      "source_types": ["Karar"],
+      "target_types": ["Karar"],
+      "weight_range": [0.6, 0.9],
+      "properties": {
+        "hukuk_dali": { "type": "string", "required": false }
+      },
+      "semantic_role": "analytical"
+    },
+    "SEMANTIK_BENZER": {
+      "description": "Embedding vektörleri arasında yüksek kosinüs benzerliği tespit edilen düğümler",
+      "direction": "undirected",
+      "cardinality": "many_to_many",
+      "source_types": ["*"],
+      "target_types": ["*"],
+      "weight_range": [0.0, 1.0],
+      "properties": {
+        "similarity": { "type": "float", "description": "Kosinüs benzerlik skoru" }
+      },
+      "semantic_role": "semantic"
+    }
+  },
+
+  "constraints": [
+    {
+      "type": "uniqueness",
+      "target": "node",
+      "field": "node_id",
+      "description": "Her node_id benzersiz olmalıdır"
+    },
+    {
+      "type": "existence",
+      "target": "node",
+      "fields": ["node_id", "node_type", "embed_text"],
+      "description": "Her düğüm mutlaka node_id, node_type ve embed_text içermelidir"
+    },
+    {
+      "type": "referential_integrity",
+      "target": "edge",
+      "description": "Her kenarın source ve target'ı mevcut düğümlere işaret etmelidir"
+    },
+    {
+      "type": "edge_type_constraint",
+      "description": "Kenar tipleri yalnızca ontolojide tanımlanmış source_types→target_types arasında oluşturulabilir"
+    }
+  ],
+
+  "indexes": [
+    {
+      "name": "node_id_unique",
+      "type": "uniqueness",
+      "label": "LegalNode",
+      "property": "node_id"
+    },
+    {
+      "name": "node_type_idx",
+      "type": "btree",
+      "label": "LegalNode",
+      "property": "node_type"
+    },
+    {
+      "name": "kanun_kisaltma_idx",
+      "type": "btree",
+      "label": "LegalNode",
+      "property": "kanun_kisaltma"
+    },
+    {
+      "name": "mahkeme_turu_idx",
+      "type": "btree",
+      "label": "LegalNode",
+      "property": "mahkeme_turu"
+    },
+    {
+      "name": "node_text_ft",
+      "type": "fulltext",
+      "label": "LegalNode",
+      "property": "embed_text"
+    },
+    {
+      "name": "node_embedding_index",
+      "type": "vector",
+      "label": "LegalNode",
+      "property": "embedding",
+      "config": {
+        "dimensions": 384,
+        "similarity_function": "cosine"
+      }
+    }
+  ],
+
+  "build_config": {
+    "node_files_dir": "nodes",
+    "edge_files_dir": "edges",
+    "node_files": [
+      "kanunlar.json",
+      "maddeler.json",
+      "kararlar.json",
+      "mahkemeler.json",
+      "hukuk_dallari.json",
+      "kavramlar.json"
+    ],
+    "edge_files": [
+      "structural_edges.json"
+    ],
+    "edge_rules_file": "edge_rules.json",
+    "validation_schema": "validation/schema.json"
+  }
+}
