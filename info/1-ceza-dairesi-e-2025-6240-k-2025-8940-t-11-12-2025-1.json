@@ -1,0 +1,320 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 1. CD., E. 2025/6240 K. 2025/8940 T. 11.12.2025",
+    "EsasNo": "2025/6240",
+    "KararNo": "2025/8940",
+    "KararTarihi": "2025-12-11",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 1. Ceza Dairesi",
+    "MahkemeTuru": "yargitay_ceza",
+    "Daire": "1. Ceza Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, hüküm onanıp dosya ilk derece mahkemesine gönderildi",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "Kimliği belirtilmemiş sanık (müdafii aracılığıyla temsil edilen)",
+    "KatilanMusteki": "Katılan (vekili aracılığıyla temsil edilen)",
+    "CumhuriyetBassavciligi": "Yargıtay Cumhuriyet Başsavcılığı",
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Develi Ağır Ceza Mahkemesi",
+      "esas_no": "2024/173",
+      "karar_no": "2025/21",
+      "tarih": "2025-02-06",
+      "sonuc": "Sanık hakkında neticesi sebebiyle ağırlaşmış yaralama suçundan 6 yıl hapis cezası, hak yoksunlukları ve cezanın ikinci kez mükerrirlere özgü infaz rejimine göre çektirilmesi"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Cumhuriyet savcısı, katılan vekili ve sanık müdafii",
+      "mahkeme": "Kayseri Bölge Adliye Mahkemesi 1. Ceza Dairesi",
+      "esas_no": "2025/1174",
+      "karar_no": "2025/1267",
+      "sonuc": "İstinaf başvurularının 5271 sayılı Kanun'un 280/1-a maddesi uyarınca esastan reddi"
+    },
+    "TemyizBasvurusu": "Katılan vekili; eylemin kasten öldürmeye teşebbüs suçunu oluşturduğunu, suç vasfının hatalı belirlendiğini ileri sürmüştür. Sanık müdafii ise temyiz istemini süresinde sunmuş ancak sanık 09.10.2025 tarihli dilekçesiyle temyizden feragat etmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": {
+      "suc": "Neticesi sebebiyle ağırlaşmış yaralama",
+      "ceza": "Hapis cezası, hak yoksunlukları, mükerrirlere özgü infaz rejimi",
+      "sure": "6 yıl"
+    },
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": "6 yıl hapis cezası, hak yoksunlukları, cezanın ikinci kez mükerrirlere özgü infaz rejimine göre çektirilmesi",
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5271/286/1",
+      "5271/260/1",
+      "5271/291/1",
+      "5271/294/1",
+      "5271/298/1",
+      "5271/266/1",
+      "5271/280/1-a",
+      "5271/289/1",
+      "5271/302/1",
+      "5271/304/1",
+      "5237/86/1",
+      "5237/86/3-e",
+      "5237/87/1-d",
+      "5237/53",
+      "5237/58"
+    ],
+    "AnaSuc": "Neticesi sebebiyle ağırlaşmış yaralama",
+    "HukukiKonu": "ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Ön İnceleme ve Davanın Özeti",
+      "text": "Sanık müdafiinin temyiz istemi yönünden; sanık müdafii temyiz istemini kanunî süresi içinde öne sürdükten sonra, sanığın 09.10.2025 tarihli dilekçesi ile temyiz isteminden feragat ettiğini bildirdiği anlaşılmıştır.\n\nKatılan vekilinin temyiz istemi yönünden; İlk Derece Mahkemesince verilen hükme yönelik istinaf incelemesi üzerine Bölge Adliye Mahkemesi tarafından verilen kararın; 5271 sayılı Ceza Muhakemesi Kanunu'nun (5271 sayılı Kanun) 286/1. maddesi uyarınca temyiz edilebilir olduğu, 260/1. maddesi gereği temyiz edenin hükmü temyize hak ve yetkisinin bulunduğu, 291/1. maddesi gereği temyiz isteminin süresinde olduğu, 294/1. maddesi gereği temyiz dilekçesinde temyiz sebeplerine yer verildiği, 298/1. maddesi gereği temyiz isteminin reddini gerektirir bir durumun bulunmadığı yapılan ön inceleme neticesinde tespit edilmekle, gereği düşünüldü.",
+      "key_principles": [
+        "Temyiz hak ve yetkisinin varlığı şartı",
+        "Temyiz süresine uygunluk",
+        "Temyiz dilekçesinde sebep gösterme zorunluluğu",
+        "Temyiz isteminden feragat hakkı"
+      ],
+      "referenced_laws": [
+        "5271/286/1",
+        "5271/260/1",
+        "5271/291/1",
+        "5271/294/1",
+        "5271/298/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "Hukukî Süreç — İlk Derece ve İstinaf Kararları",
+      "text": "I. HUKUKÎ SÜREÇ\n\n1. Develi Ağır Ceza Mahkemesinin, 06.02.2025 tarihli ve 2024/173 Esas, 2025/21 Karar sayılı kararı ile sanık hakkında neticesi sebebiyle ağırlaşmış yaralama suçundan, 5237 sayılı Türk Ceza Kanunu'nun 86/1, 86/3-e, 87/1-d, 53, 58. maddeleri uyarınca 6 yıl hapis cezası ile cezalandırılmasına, hak yoksunluklarına ve cezanın ikinci kez mükerrirlere özgü infaz rejimine göre çektirilmesine karar verilmiştir.\n\n2. Kayseri Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 18.06.2025 tarihli ve 2025/1174 Esas, 2025/1267 Karar sayılı kararı ile sanık hakkında İlk Derece Mahkemesince kurulan hükme yönelik Cumhuriyet savcısı, katılan vekili ile sanık müdafiinin istinaf başvurularının 5271 sayılı Kanun'un 280/1-a maddesi uyarınca esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "Neticesi sebebiyle ağırlaşmış yaralama suçunun unsurları",
+        "Mükerrirlere özgü infaz rejiminin uygulanması",
+        "İstinaf başvurularının esastan reddi"
+      ],
+      "referenced_laws": [
+        "5237/86/1",
+        "5237/86/3-e",
+        "5237/87/1-d",
+        "5237/53",
+        "5237/58",
+        "5271/280/1-a"
+      ],
+      "referenced_decisions": [
+        "Develi Ağır Ceza Mahkemesi 2024/173 E. 2025/21 K.",
+        "Kayseri BAM 1. CD 2025/1174 E. 2025/1267 K."
+      ]
+    },
+    {
+      "order": 3,
+      "type": "cassation_grounds",
+      "title": "Temyiz Sebepleri",
+      "text": "II. TEMYİZ SEBEPLERİ\n\nKatılan vekilinin temyiz sebepleri özetle; eylemin kasten öldürmeye teşebbüs olduğundan bahisle suç vasfına ilişkindir.",
+      "key_principles": [
+        "Suç vasfının belirlenmesinde kastın önemi",
+        "Kasten öldürmeye teşebbüs ile neticesi sebebiyle ağırlaşmış yaralama arasındaki ayrım"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Gerekçe — Hukuki Değerlendirme",
+      "text": "III. GEREKÇE\n\nYargılama sürecindeki işlemlerin usûl ve kanuna uygun olarak yapıldığı, aşamalarda ileri sürülen iddia ve savunmaların toplanan ve dosya kapsamına göre yeterli olduğu anlaşılan delillerle birlikte gerekçeli kararda gösterilip tartışıldığı, hükme esas alınan ve reddedilen delillerin açıkça gösterildiği, vicdani kanının dosya içindeki belge ve bilgilerle uyumlu olarak kesin verilere dayandırıldığı, hükme esas alınan adlî raporların yeterli olduğu, eylemin sanık tarafından gerçekleştirildiğinin saptandığı, sanık ile katılan arasında öldürmeyi gerektirecek düzeyde bir husumetin bulunmaması, sanığın ciddi bir engel neden olmadan eyleme kendiliğinden son vermesi, katılanda tek isabet olması hususları birlikte değerlendirildiğinde, sanığın öldürme kastı ile hareket ettiğinin şüpheli kaldığı, kastının yaralamaya yönelik olduğu, bu itibarla suç vasfının kasten yaralama olarak belirlenmesinde isabetsizlik bulunmadığı,\n\nyargılama sonucunda oluşan kanaat ve takdire göre ceza yaptırımının yasal bağlamda ve gerekçesi gösterilerek belirlendiği anlaşıldığından temyiz sebeplerinin incelenmesinde hükümde hukuka aykırılık bulunmamıştır.",
+      "key_principles": [
+        "Öldürme kastının tespitinde husumetin önemi",
+        "Gönüllü vazgeçmenin kast belirlenmesindeki rolü",
+        "Tek isabet olgusunun kast değerlendirmesine etkisi",
+        "Şüpheden sanığın yararlanması ilkesi",
+        "Delillerin gerekçeli kararda tartışılması zorunluluğu",
+        "Vicdani kanaatin kesin verilere dayandırılması",
+        "Suç vasfı ile kastın birlikte değerlendirilmesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "conclusion_and_judgment",
+      "title": "Karar — Sonuç Hükmü",
+      "text": "IV. KARAR\n\nA. Sanık Müdafiinin Temyiz İstemi Yönünden\n\nSanık müdafinin temyiz istemini kanunî süresi içinde öne sürdükten sonra, sanığın 09.10.2025 tarihli dilekçesi ile temyiz isteminden feragat ettiğini bildirdiği ve temyiz davasının istek şartına bağlı olduğu anlaşılmakla, 5271 sayılı Kanun'un 266/1. maddesi gereği temyiz isteminden vazgeçme nedeniyle sanık müdafinin temyiz isteminin, oy birliğiyle REDDİNE,\n\nB. Katılan Vekilinin Temyiz İstemi Yönünden\n\nGerekçe bölümünde açıklanan nedenlerle Kayseri Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 18.06.2025 tarihli ve 2025/1174 Esas, 2025/1267 Karar sayılı kararında katılan vekili tarafından öne sürülen temyiz sebepleri ve 5271 sayılı Kanun'un 289/1. maddesi ile sınırlı olarak yapılan temyiz incelemesi neticesinde hükümde hukuka aykırılık görülmediğinden 5271 sayılı Kanun'un 302/1. maddesi gereği, Tebliğname'ye uygun olarak, oy birliğiyle TEMYİZ İSTEMİNİN ESASTAN REDDİ İLE HÜKMÜN ONANMASINA,\n\nDava dosyasının, 5271 sayılı Kanun'un 304/1. maddesi uyarınca Develi Ağır Ceza Mahkemesine, Yargıtay ilâmının bir örneğinin ise Kayseri Bölge Adliye Mahkemesi 1. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 11.12.2025 tarihinde karar verildi.",
+      "key_principles": [
+        "Temyizden feragat hakkı ve sonuçları",
+        "Temyiz davasının istek şartına bağlı olması",
+        "Temyiz incelemesinin sınırlılığı",
+        "Tebliğname görüşüne uygunluk",
+        "Kararın kesinleşmesi ve dosyanın iadesi"
+      ],
+      "referenced_laws": [
+        "5271/266/1",
+        "5271/289/1",
+        "5271/302/1",
+        "5271/304/1"
+      ],
+      "referenced_decisions": [
+        "Kayseri BAM 1. CD 2025/1174 E. 2025/1267 K."
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 1. Ceza Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Kayseri BAM 1. CD 2025/1174 E. 2025/1267 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Develi Ağır Ceza Mahkemesi 2024/173 E. 2025/21 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/286/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/260/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/291/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/294/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/298/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/266/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/280/1-a",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/289/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/302/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/304/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/86/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/86/3-e",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/87/1-d",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/53",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/58",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1.md"
+}

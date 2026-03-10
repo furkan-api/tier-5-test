@@ -1,0 +1,223 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 1. HD., E. 2024/1977 K. 2025/5810 T. 9.12.2025",
+    "EsasNo": "2024/1977",
+    "KararNo": "2025/5810",
+    "KararTarihi": "2025-12-09",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 1. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "1. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "temyiz incelemesi tamamlandı, onama kararı verildi",
+    "Davaci": "Murisin oğlu (davacı)",
+    "Davali": "Davalı torunlar (murisin torunu ve diğer torunu)",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Isparta 2. Asliye Hukuk Mahkemesi",
+      "esas_no": "2021/433",
+      "karar_no": "2022/256",
+      "tarih": null,
+      "sonuc": "Temlikin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu gerekçesiyle davanın kabulü"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalılar vekilleri",
+      "mahkeme": "Antalya Bölge Adliye Mahkemesi 1. Hukuk Dairesi",
+      "esas_no": "2022/1890",
+      "karar_no": "2024/387",
+      "sonuc": "Davalıların istinaf başvurusunun esastan reddi; devrin mal kaçırma amaçlı ve muvazaalı olduğu gerekçesiyle ilk derece kararı onanmıştır"
+    },
+    "TemyizBasvurusu": "Davalılar vekilleri; kararın haksız ve hukuka aykırı olduğunu, davacının devirden haberdar olduğunu, tanık beyanlarının bir bütün olarak değerlendirilmediğini, süresinde ıslah yapılmadığını, satılan taşınmaz bedelinden payları oranında sorumlu olmaları gerektiğini ileri sürerek kararın bozulmasını talep etmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6100/353/1-b-1",
+      "6100/371",
+      "6100/370/1"
+    ],
+    "AnaSuc": "muris muvazaası, tapu iptali ve tescil ile bedel istemi",
+    "HukukiKonu": "medeni hukuk, miras hukuku, tapu iptali"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Taraflar",
+      "text": "Dava, muris muvazaası hukuki nedenine dayalı tapu iptali ve tescil ile bedel istemine ilişkindir.\n\nDavacı; muris babası ...'ın dava konusu 7 70... parsel ve 14 13... parsel sayılı taşınmazlarını 12.03.2010 tarihinde satış göstermek suretiyle torunları olan davalılara devrettiğini, temlikin mirastan mal kaçırma amaçlı ve muvazaalı olduğunu, muris ile fazla anlaşamadığını ve aralarında problemler yaşandığını, 14 13... parselin satıldığını ileri sürerek dava konusu 7 70... parsel sayılı taşınmazın tapu kaydının iptali ile payı oranında adına tesciline, 14 13... parsel sayılı taşınmaz yönünden faizi ile birlikte payı oranında bedele karar verilmesini istemiştir.",
+      "key_principles": [
+        "muris muvazaası",
+        "mirastan mal kaçırma",
+        "tapu iptali ve tescil",
+        "bedel istemi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Davalıların Savunmaları",
+      "text": "Davalı ...; murisin davacı ile bir husumeti bulunmadığını, kendisinin murisin hastalığında ve sağlığında yanında olduğunu, ihtiyaçları ile ilgilendiğini, murisin mal kaçırma iradesi bulunmadığını, minnet duygusu ile temlikin gerçekleştiğini belirterek davanın reddini savunmuştur.\n\nDavalı ...; muris ile davacının problemli bir baba-oğul ilişkisi olduğunu, aralarının iyi olmadığını, murisin taşınmazlarını paylaştırmak istediğini, borçlarından dolayı davacının payının, murisle de ilgilendiğinden diğer davalıya, kendi babası ...'ın payının ise babasının isteği üzerine kendisine devredildiğini, murisin oğullarının bilgisi ve rızası bulunduğunu, satılan taşınmazın bedelini babası ve kardeşleri ile paylaştığını, kendisine verilen payda davacının bir hakkı bulunmadığını belirterek davanın reddini savunmuştur.",
+      "key_principles": [
+        "minnet duygusu ile temlik",
+        "mirasçı rızası",
+        "mal kaçırma kastının bulunmaması"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve İstinaf Kararları",
+      "text": "İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; temlikin mirasçıdan mal kaçırma amaçlı ve muvazaalı olduğu gerekçesiyle davanın kabulüne karar verilmiştir.\n\nİlk Derece Mahkemesinin yukarıda belirtilen kararına karşı süresi içinde davalılar vekilleri tarafından istinaf başvurusunda bulunulması üzerine, Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; devrin mal kaçırma amaçlı ve muvazaalı olduğu, davacının alacak talebi yönünden talebini arttırması ıslah niteliğinde olmadığından ıslah yönünden de verilen kararda usul ve yasaya aykırı bir husus bulunmadığı gerekçesiyle 6100 sayılı HMK'nın 353/1-b-1. maddesi uyarınca, davalıların istinaf başvurusunun esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "muris muvazaası",
+        "mirastan mal kaçırma",
+        "ıslah",
+        "istinaf başvurusunun esastan reddi"
+      ],
+      "referenced_laws": [
+        "6100/353/1-b-1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "cassation_grounds",
+      "title": "Temyiz Sebepleri",
+      "text": "Davalı ... vekili ve ... vekili ayrı ayrı verdikleri temyiz dilekçelerinde özetle; kararın haksız ve hukuka aykırı olduğunu, davacının devirden haberdar olduğunu, tanık beyanlarının bir bütün olarak değerlendirilmediğini, davacı lehine olan tanık beyanlarının hükme esas alındığını, hatalı tespitler yapıldığını, süresinde ıslah yapılmadığını, satılan taşınmaz bedelinden payları oranında sorumlu olmaları gerektiğini bildirerek ve önceki beyanlarını tekrarla kararın bozulmasını talep etmiştir.",
+      "key_principles": [
+        "tanık beyanlarının değerlendirilmesi",
+        "ıslah süresi",
+        "oranlı sorumluluk"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Yargıtay'ın Hukuki Değerlendirmesi",
+      "text": "Dosya içeriği ve toplanan delillerden; 1927 doğumlu muris ...'ın 16.05.2017 tarihinde ölümü ile geride davacı oğlu ... ile dava dışı oğlu ...'ın kaldığı, davalı ... 'ın davacının oğlu, diğer davalı ...'ın ise ...'ın oğlu olduğu, muris ...ın dava konusu 7 70... ve 14 13... parsel sayılı taşınmazlarını 12.03.2010 tarihinde satış suretiyle ve 1/2'şer paylarla davalı torunlarına devrettiği, 14 13... parsel sayılı taşınmazın 15.09.2020 tarihinde dava dışı kişiye temlik edildiği anlaşılmaktadır.\n\nBölge adliye mahkemelerinin nihai kararlarının bozulması 6100 sayılı Kanun'un 371. maddesinde yer alan sebeplerden birinin varlığı hâlinde mümkündür.\n\nTemyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre usul ve kanuna uygun olup özellikle dava konusu taşınmazlar davalılara 1/2'şer paylarla devredildiğinden davalılar bu oranda sorumlu olacaklarına göre, davalılar vekilleri tarafından temyiz dilekçelerinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.",
+      "key_principles": [
+        "temyiz bozma sebepleri",
+        "oranlı sorumluluk",
+        "muris muvazaasında ispat",
+        "bölge adliye mahkemesi kararının bozulma koşulları"
+      ],
+      "referenced_laws": [
+        "6100/371",
+        "6100/370/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Karar",
+      "text": "Açıklanan sebeplerle;\n\nDavalılar vekillerinin temyiz itirazlarının reddi ile temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370/1 hükmü uyarınca ONANMASINA,\n\n04.11.2025 tarihinde yürürlüğe giren Avukatlık Asgari Ücret Tarifesi uyarınca gelen temyiz edilen davacı vekili için 40.000,00 TL duruşma vekalet ücretinin temyiz eden davalılardan alınmasına,\n\nAşağıda yazılı 69.217,18 TL bakiye onama harcının temyiz eden davalılardan alınmasına,\n\nDosyanın İlk Derece Mahkemesine, kararın bir örneğinin Bölge Adliye Mahkemesine gönderilmesine, 09.12.2025 tarihinde kesin olmak üzere oy birliğiyle karar verildi.",
+      "key_principles": [
+        "onama",
+        "vekalet ücreti",
+        "yargılama giderleri",
+        "kesin karar",
+        "oybirliği"
+      ],
+      "referenced_laws": [
+        "6100/370/1"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 1. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Antalya Bölge Adliye Mahkemesi 1. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Isparta 2. Asliye Hukuk Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/353/1-b-1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/371",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/370/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "medeni hukuk",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "miras hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1.md"
+}

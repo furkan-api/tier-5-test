@@ -1,0 +1,292 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 22. HD., E. 2017/18356 K. 2018/25301",
+    "EsasNo": "2017/18356",
+    "KararNo": "2018/25301",
+    "KararTarihi": "2018-11-26",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 22. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "22. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, bozma kararı verildi",
+    "Davaci": "Hekim (davacı)",
+    "Davali": "Tıp Merkezi işleten şirket",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Belirtilmemiş",
+    "IlkDereceKarari": {
+      "mahkeme": "İş Mahkemesi",
+      "esas_no": null,
+      "karar_no": null,
+      "tarih": null,
+      "sonuc": "Davanın kabulü"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Taraflar vekilleri kararı temyiz etmiştir. Davacı, kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacaklarının tahsiline ilişkin kararı; davalı ise davanın reddedilmesi gerektiğini savunarak temyiz etmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Dava konusu kıdem tazminatı, ihbar tazminatı ve yıllık izin alacakları gerçekte belirlenebilir alacaklar olup belirsiz alacak davasına konu edilemeyeceğinden, taleplerin hukuki yarar yokluğundan usulden reddine karar verilmesi gerekirken esasa girilerek kabul edilmesi hatalı bulunmuş ve mahkeme kararı bozulmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Belirsiz alacak davası açılabilmesi için gerekli şartlar (davanın açıldığı tarihte alacağın miktarını tam ve kesin olarak belirleyebilmenin mümkün olmaması) tartışılmış; kıdem tazminatı, ihbar tazminatı ve yıllık izin alacaklarının belirlenebilir nitelikte olduğu saptanarak hukuki yarar yokluğu dava şartı eksikliği kabul edilmiştir.",
+    "Mevzuat": [
+      "6100/107",
+      "6100/107/1",
+      "6100/107/2",
+      "6100/107/3",
+      "6100/109",
+      "6100/110",
+      "6100/119/1",
+      "6100/119/2",
+      "6100/297/2",
+      "6098/50",
+      "6098/51",
+      "6098/56",
+      "1086/1"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "iş hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Özeti ve Tarafların Talepleri",
+      "text": "Davacı vekili, davacının hekim olarak 02.07.2010 tarihinde davalı şirkete ait ...Tıp Merkezinde çalışmaya başladığını, işe ilk girdiğinde aylık net 5.000,00 TL ücret aldığını ancak davalı tarafın iş sözleşmesine 3.000,00 TL yazdığını, davacı çalışmaya başladıktan 2 yıl kadar sonra davalı şirketin davacının maaşını muvafakati olmaksızın net 3.000,00 TL'ye düşürdüğü, düşürdükten kısa bir süre sonra da davacıya ücret kısmında 2.000,00 TL yazılı olan yeni bir sözleşme imzalattığı, davacının çalıştığı süre boyunca ücretini elden aldığı, iş sözleşmesinin Kasım 2014'te hiçbir haklı sebep olmaksızın ve herhangi bir gerekçe gösterilmeksizin davalı şirket tarafından sona erdirildiği belirterek kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacaklarının davalıdan tahsiline karar verilmesini talep etmiştir.\n\nDavalı vekili, davanın reddini savunmuştur.\n\nMahkemece, toplanan deliller ve bilirkişi raporuna dayanılarak, yazılı gerekçeyle davanın kabulüne karar verilmiştir.\n\nKararı, taraflar vekilleri temyiz etmiştir.",
+      "key_principles": [
+        "İş sözleşmesinin işveren tarafından haksız feshi",
+        "Ücretin tek taraflı olarak düşürülmesi",
+        "Kıdem ve ihbar tazminatı hakkı"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "legal_evaluation",
+      "title": "Belirsiz Alacak Davasının Hukuki Çerçevesi — HMK m. 107",
+      "text": "Taraflar arasında öncelikle çözümlenmesi gereken uyuşmazlık, davanın belirsiz alacak davası türünde açılabilmesi için gerekli şartları taşıyıp taşımadığı noktasında toplanmaktadır.\n\n01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 107. maddesiyle, mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nda yer almayan yeni bir dava türü olarak belirsiz alacak ve tespit davası kabul edilmiştir.\n\n6100 sayılı Kanun'un 107. maddesine göre,\n\"(1) Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir.\n(2) Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir.\n(3) Ayrıca, kısmi eda davasının açılabildiği hâllerde, tespit davası da açılabilir ve bu durumda hukuki yararın var olduğu kabul edilir.\"\n\nHükümet tasarısında yer almayan bu madde, Türkiye Büyük Millet Meclisi Adalet Komisyonu tarafından, esasen baştan miktar veya değeri tam tespit edilemeyen bir alacakla ilgili hak arama durumunda olan kişinin, hukuk sisteminde karşılaştığı güçlüklerin bertaraf edilerek hak arama özgürlüğü çerçevesinde mümkün olduğunca en geniş şekilde korunmasının sağlanması gerekçesi üzerinde durularak ihdas edilmiş ve nihayetinde kanunlaşmıştır.",
+      "key_principles": [
+        "Belirsiz alacak davası ancak alacağın miktarının belirlenememesi halinde açılabilir",
+        "Hak arama özgürlüğünün genişletilmesi",
+        "Alacağın belirsizliği objektif bir ölçütle değerlendirilmelidir",
+        "Kanunun amacına uygun yorum"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "6100/107/1",
+        "6100/107/2",
+        "6100/107/3",
+        "1086/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Belirsizlik Kriterlerinin Kapsamı ve Sınırları",
+      "text": "Davanın belirsiz alacak davası türünde açılabilmesi için, davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerinin tam ve kesin olarak davacı tarafca belirlenememesi gereklidir. Belirleyememe hali, davacının gerekli dikkat ve özeni göstermesine rağmen miktar veya değerin belirlenmesinin kendisinden gerçekten beklenilmemesi durumuna ya da objektif olarak imkansızlığa dayanmalıdır.\n\nSırf taraflar arasında alacak miktarı bakımından uyuşmazlık bulunması, talep sonucunun belirlenmesinin davacıdan beklenemeyecek olması anlamına gelmez. Önemli olan objektif olarak talep sonucunun belirlenmesinin davacıdan beklenemeyecek olmasıdır. Sadece alacak miktarında taraflar arasında uyuşmazlık bulunması ya da miktarın tartışmalı olmasının belirsiz alacak davası açılması için yeterli sayılması halinde, neredeyse tüm davaların belirsiz alacak davası olarak kabulü gerekir ki, bu da kanunun amacına aykırıdır.\n\nÖnemli olan davacının talebini belirli kılacak imkana sahip olup olmadığıdır. Burada, alacağın belirlenebilir olması ile ispat edilebilirliğinin de ayrıca değerlendirilmesi gerektiği unutulmamalıdır. Davacının talep ettiği alacağı belirlemesi objektif olarak mümkün, ancak belirleyebildiği alacağını ispat etmesi, kanunun öngördüğü şekilde (elindeki delillerle) mümkün değilse, burada da belirsiz alacak davası açılacağından söz edilemez. Çünkü, bir alacağın belirlenmesi ile onun ispatı ayrı şeylerdir.",
+      "key_principles": [
+        "Alacağın belirsizliği ile ispatının ayrı kavramlar olduğu",
+        "Objektif belirsizlik ölçütü",
+        "Taraflar arasındaki uyuşmazlığın alacağı belirsiz kılmayacağı",
+        "Hukuki yarar şartı"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Belirsiz Alacak Davası ile Kısmi Dava Ayrımı ve Yargısal Uygulama",
+      "text": "Alacağın miktarının belirlenebilmesinin, tahkikat aşamasında yapılacak delillerin incelenmesi, bilirkişi incelemesi veya keşif gibi sair işlemlerin yapılmasına bağlı olduğu durumlarda da belirsiz alacak davası açılabileceği kabul edilmelidir. Ne var ki, bir davada bilirkişi incelemesine gidilmesi belirsiz alacak davasının açılabilmesi için yeterli değildir. Bir davada bilirkişiye başvurulmasına rağmen davacı dava açarken alacak miktarını belirleyebiliyorsa, belirsiz alacak davası açılamaz.\n\nZaman zaman, 6100 sayılı Kanun ile birlikte kabul edilen belirsiz alacak davası ile kısmi davaya ilişkin yeni düzenlemedeki sınırın tam olarak tespit edilemediği, birinin diğeri yerine kullanıldığı görülmektedir. Oysa bu iki davanın amacı ve niteliği ayrıdır. Alacak, belirli veya belirlenebilir ise, belirsiz alacak davası açılamaz; ancak şartları varsa kısmi dava açılması mümkündür.\n\nBu noktada şu da açıklığa kavuşturulmalıdır ki, şartları bulunmadığı halde dava dilekçesinde davanın belirsiz alacak davası olarak açıldığı durumda davacıya herhangi bir süre verilmeden hukuki yarar yokluğundan davanın reddi yoluna gidilmelidir. Çünkü, alacağın belirlenebilmesi mümkün iken, böyle bir davanın açılmasına Kanun izin vermemiştir.\n\nHakime alacak miktarının tayin ve tespitinde takdir yetkisi tanındığı hallerde (Örn: 6098 sayılı Türk Borçlar Kanunu md 50, 51, 56), hakimin kullanacağı takdir yetkisi sonucu alacak belirli hale gelebileceğinden, davacının davanın açıldığı tarih itibariyle alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin imkansız olduğu kabul edilmelidir.",
+      "key_principles": [
+        "Belirsiz alacak davası ile kısmi davanın birbirinden farklı kurumlar olduğu",
+        "Hukuki yarar yokluğunda ek süre verilmeksizin davanın reddi gerektiği",
+        "Hakimin takdir yetkisinin alacağı belirsiz kılabileceği",
+        "Kısmi dava açma imkânının tamamen kaldırılmadığı"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "6100/109",
+        "6100/110",
+        "6100/119/1",
+        "6100/119/2",
+        "6100/297/2",
+        "6098/50",
+        "6098/51",
+        "6098/56"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 22. HD., E. 2012/30463 K. 2012/30091, 31.12.2012"
+      ]
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "İş Hukukundan Kaynaklanan Alacaklar Bakımından Belirsizlik Değerlendirmesi",
+      "text": "Tüm bu açıklamalar sonucunda şunu belirtmek gerekir ki, iş hukukundan kaynaklanan alacaklar bakımından baştan belirli veya belirsiz alacak davası şeklinde belirleme yapmak kural olarak doğru ve mümkün değildir. Bu sebeple iş hukukunda da belirsiz alacak davasının açılabilmesi, bu davanın açılması için gerekli şartların varlığına bağlıdır.\n\nİş Hukukundan kaynaklanan davalarda sıkça karşılaşıldığı üzere, taraflar arasında çalışma süresi ve ücret miktarı yönlerinden uyuşmazlık bulunması, alacağı belirsiz hale getirmez. Keza, işçi çalışma süresini ve ücretini belirleyebilmektedir. İşçinin ne zamandan beri çalıştığını veya ücretinin ne kadar olduğunu bilmemesi hayatın olağan akışına da aykırıdır. İşçinin kendisinin bilmediği çalışma süresini, tanıkların bildiğini veya bilirkişinin bileceğini farzetmek ispat kurallarına da aykırıdır.\n\nİşverenin maddi hukuktan doğan yükümlülüklerini (belge ve bordro düzenleme gibi) yerine getirmemesi, tuttuğu belgelerin gerçeği yansıtmaması, davadan önce işçinin alacaklarını inkar etmesi ya da ikrar etmekle beraber yerine getirmemesi davacıya kural olarak belirsiz alacak davası açma imkanını vermez. İşçi bu durumlarda dahi, alacağının miktarını veya değerini belirleyebiliyorsa, belirsiz alacak davası açamaz.",
+      "key_principles": [
+        "İş hukukunda da belirsiz alacak davası şartları genel hükümler çerçevesinde değerlendirilir",
+        "Çalışma süresi ve ücret uyuşmazlığı alacağı belirsiz kılmaz",
+        "İşverenin belge düzenleme yükümlülüğünü yerine getirmemesi belirsizlik sebebi değildir",
+        "İspat güçlüğü belirsizlik anlamına gelmez"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "appellate_evaluation",
+      "title": "Somut Olayın Değerlendirilmesi — Kıdem, İhbar ve Yıllık İzin Alacaklarının Belirsiz Alacak Olmadığı",
+      "text": "Somut olayda, dava dilekçesinde açıkça, davanın belirsiz alacak davası türünde açıldığı belirtilmiştir.\n\nYukarıda yapılan açıklamalar ışığında, somut olayın özellikleri dikkate alınarak, dava dilekçesinde, ileri sürülen taleplerin belirsiz alacak olup olmadığının ayrı ayrı değerlendirilmesi gereklidir.\n\nKıdem tazminatı, ihbar tazminatı ve yıllık izin alacakları bakımından davacı, çalışma süresini, kendisine en son ödenen aylık ücret miktarını, tazminat hesaplamasına esas alınacak aylık ücrete ek para veya parayla ölçülebilen sosyal menfaatleri ve ödenmemiş aylık ücret alacağı miktarını belirleyebilecek durumdadır. Taraflar arasında, alacağın varlığı veya miktarı noktasında varolan uyuşmazlıklar, söz konusu alacakları belirsiz alacak haline getirmez. Anılan sebeple, talebe konu kıdem tazminatı, ihbar tazminatı ve yıllık izin alacakları belirsiz alacak değildir.\n\nAçıklanan sebeplerle, dava konusu kıdem tazminatı, ihbar tazminatı ve yıllık izin alacakları gerçekte belirlenebilir alacaklar olup, belirsiz alacak davasına konu edilemezler. Bu halde, kıdem ve ihbar tazminatı ve yıllık izin alacağı taleplerinin hukuki yarar yokluğundan usulden reddine karar verilmesi gerekirken, esasa girilerek kabul edilmesi hatalı olmuştur.",
+      "key_principles": [
+        "Kıdem tazminatı belirlenebilir alacak niteliğindedir",
+        "İhbar tazminatı belirlenebilir alacak niteliğindedir",
+        "Yıllık izin ücreti alacağı belirlenebilir alacak niteliğindedir",
+        "Hukuki yarar yokluğunda usulden red kararı verilmesi zorunludur"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Yukarıda yazılı sebeplerden, eksik inceleme ve hatalı değerlendirmeyle karar verilmesi bozmayı gerektirmiştir.\n\nSONUÇ: Bu nedenlerle Mahkeme kararının BOZULMASINA, peşin alınan temyiz harcının istek halinde ilgiliye iadesine, 26.11.2018 tarihinde oybirliği ile karar verildi.",
+      "key_principles": [
+        "Belirsiz alacak şartları taşınmayan davada hukuki yarar yokluğundan usulden red kararı verilmesi gerekir",
+        "Esasa girilmeksizin usul hukuku kuralları uygulanmalıdır",
+        "Oybirliği ile bozma"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 22. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İş Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/107",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/109",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/110",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/119/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/119/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/297/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/50",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/51",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/56",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 22. HD., E. 2012/30463 K. 2012/30091, 31.12.2012",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "22. Hukuk Dairesi 2017_18356 E. , 2018_25301 K..md"
+}

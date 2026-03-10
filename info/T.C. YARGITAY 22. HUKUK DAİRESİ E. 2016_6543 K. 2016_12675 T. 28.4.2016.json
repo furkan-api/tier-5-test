@@ -1,0 +1,309 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 22. HD., E. 2016/6543 K. 2016/12675",
+    "EsasNo": "2016/6543",
+    "KararNo": "2016/12675",
+    "KararTarihi": "2016-04-28",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 22. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "22. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, karar bozuldu",
+    "Davaci": "İşçi (davacı)",
+    "Davali": "Belediye ve alt işveren Ltd. Şti.",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Belirtilmemiş",
+    "IlkDereceKarari": {
+      "mahkeme": "Belirtilmemiş",
+      "esas_no": null,
+      "karar_no": null,
+      "tarih": null,
+      "sonuc": "Davanın kısmen kabulü"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davalılar avukatları tarafından kanuni süre içinde temyiz edilmiş; davalı Ltd. Şti. avukatı duruşma talep etmiş ancak miktardan reddedilmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Belirsiz alacak davası şartlarının oluşmaması, asıl işveren-alt işveren birlikte sorumluluğunun gözetilmemesi ve çalışma süresinin eksik araştırılması gerekçesiyle karar bozulmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": "Davalı Belediye vekili husumet itirazında bulunmuştur.",
+    "DavaSarti": "Belirsiz alacak davası şartlarının oluşup oluşmadığı; kıdem, ihbar tazminatı ve yıllık izin ücreti alacaklarının belirsiz alacak olmadığından hukuki yarar yokluğu",
+    "Mevzuat": [
+      "1475/14",
+      "4857/2/6",
+      "4857/6",
+      "4857/17",
+      "4857/57",
+      "4857/120",
+      "6100/107",
+      "6100/109",
+      "6100/110",
+      "6100/119",
+      "6100/297",
+      "1086/438",
+      "6098/50",
+      "6098/51",
+      "6098/56"
+    ],
+    "AnaSuc": "İşçilik alacakları (kıdem tazminatı, ihbar tazminatı, yıllık izin ücreti, fazla mesai, giyim, yol, yemek ücreti)",
+    "HukukiKonu": "iş hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Tarafların Talepleri",
+      "text": "Davacı, kıdem, ihbar tazminatı, kötü niyet tazminatı, yıllık izin, fazla mesai, giyim, yol ve yemek ücreti alacaklarının ödetilmesine karar verilmesini istemiştir.\n\nDavacı vekili, asıl ve birleşen dosyalarda, davacının, davalı Belediyeye ait işyerinde altişveren şirketin işçisi olarak çalıştığını, iş sözleşmesinin işverence haksız olarak feshedildiğini, tazminat ve alacaklarının ödenmediğini ileri sürerek, kıdem tazminatı, ihbar tazminatı, kötü niyet tazminatı, ücretli yıllık izin alacağı, giyim, yol, yemek ücreti alacağı ve fazla mesai ücreti alacaklarının faizleriyle birlikte davalılardan tahsilini istemiştir.\n\nDavalı Belediye vekili, husumet itirazında bulunarak davanın reddini istemiştir. Davalı Şirket vekili ise davanın reddini savunmuştur.\n\nMahkeme, istemi kısmen hüküm altına almıştır. Kararı, kanuni süresi içinde davalılar temyiz etmiş; davalı Ltd. Şti. avukatı duruşma talep etmiş ise de, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun geçici 3. maddesi uyarınca uygulanmasına devam olunan mülga 1086 Sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 438. maddesi gereğince duruşma isteğinin miktardan reddine ve incelemenin evrak üzerinde yapılmasına karar verilmiştir.",
+      "key_principles": [
+        "İşçilik alacaklarında dava hakkı",
+        "Asıl işveren-alt işveren ilişkisi",
+        "Haksız fesih halinde tazminat hakkı"
+      ],
+      "referenced_laws": [
+        "6100/438",
+        "1086/438"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "legal_evaluation",
+      "title": "Belirsiz Alacak Davası Hukuki Çerçevesi",
+      "text": "1.10.2011 tarihinde yürürlüğe giren 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 107. maddesiyle, mülga 1086 Sayılı Hukuk Usulü Muhakemeleri Kanunu'nda yer almayan yeni bir dava türü olarak belirsiz alacak ve tespit davası kabul edilmiştir.\n6100 Sayılı Kanun'un 107. maddesine göre, \"(1) Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir. (2) Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir.\"\nDavanın belirsiz alacak davası türünde açılabilmesi için, davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerinin tam ve kesin olarak davacı tarafça belirlenememesi gereklidir. Belirleyememe hali, davacının gerekli dikkat ve özeni göstermesine rağmen miktar veya değerin belirlenmesinin kendisinden gerçekten beklenilmemesi durumuna ya da objektif olarak imkansızlığa dayanmalıdır.",
+      "key_principles": [
+        "Belirsiz alacak davasının açılabilmesi için alacağın objektif olarak belirlenememesi şartı",
+        "Hukuki yarar koşulu",
+        "Alacağın belirlenebilirliği ile ispat edilebilirliğinin ayrı kavramlar olduğu",
+        "Tahkikat sırasında bilirkişi incelemesi yapılacak olması tek başına belirsiz alacak davası açmaya yetmez"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Belirsiz Alacak Davası ile Kısmi Dava Ayrımı ve Usul Kuralları",
+      "text": "Sırf taraflar arasında alacak miktarı bakımından uyuşmazlık bulunması, talep sonucunun belirlenmesinin davacıdan beklenemeyecek olması anlamına gelmez. Önemli olan objektif olarak talep sonucunun belirlenmesinin davacıdan beklenemeyecek olmasıdır. Sadece alacak miktarının taraflar arasında uyuşmazlık bulunması ya da tartışmalı olmasının belirsiz alacak davası açılması için yeterli sayılması halinde, neredeyse tüm davaların belirsiz alacak davası olarak kabulü gerekir ki, bu da kanunun amacına aykırıdır.\nAlacak, belirli veya belirlenebilir ise, belirsiz alacak davası açılamaz; ancak şartları varsa kısmi dava açılması mümkündür. Şartları bulunmadığı halde dava dilekçesinde davanın belirsiz alacak davası olarak açıldığı durumda davacıya herhangi bir süre verilmeden hukuki yarar yokluğundan davanın reddi yoluna gidilmelidir. Çünkü, alacağın belirlenebilmesi mümkün iken, böyle bir davanın açılmasına Kanun izin vermemiştir.\n6100 Sayılı Kanun'un 110. maddesinde düzenlenen davaların yığılması (objektif dava birleşmesi) halinde, talep sayısı sayısı kadar dava bulunduğu kabul edildiğinden ve aynı Kanun'un 297/2. maddesi uyarınca da her bir talep bakımından ayrı ayrı hüküm verilmesi gerektiğinden, bu durumda da dava dilekçesinde ileri sürülen taleplerin belirsiz alacak olup olmadığının her bir talep bakımından ayrı ayrı değerlendirilmesi gerekecektir.",
+      "key_principles": [
+        "Belirsiz alacak davası ile kısmi davanın birbirinden ayrı nitelikte olduğu",
+        "Alacağın belirlenebilir olması halinde belirsiz alacak davası açılamaz",
+        "Hukuki yarar yokluğu sonradan tamamlanamaz",
+        "Davaların yığılmasında her talep ayrı ayrı değerlendirilmelidir",
+        "Taraflar arasında eşitlik ilkesi"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "6100/109",
+        "6100/110",
+        "6100/119",
+        "6100/297"
+      ],
+      "referenced_decisions": [
+        "2012/30463 E. 2012/30091 K."
+      ]
+    },
+    {
+      "order": 4,
+      "type": "appellate_evaluation",
+      "title": "Kıdem, İhbar Tazminatı ve Yıllık İzin Ücreti Bakımından Belirsiz Alacak Davası Değerlendirmesi",
+      "text": "Tüm bu açıklamalar sonucunda şunu belirtmek gerekir ki, iş hukukundan kaynaklanan alacaklar bakımından baştan belirli veya belirsiz alacak davası şeklinde belirleme yapmak kural olarak doğru ve mümkün değildir. Bu sebeple iş hukukunda da belirsiz alacak davasının açılabilmesi, bu davanın açılması için gerekli şartların varlığına bağlıdır. Eğer bu şartlar varsa, iş hukukunda da belirsiz alacak davası açılabilir, yoksa açılamaz.\nYukarıda yapılan açıklamalar ışığında eldeki davaya konu somut olayın özellikleri dikkate alınarak belirsiz alacak davası yönünden yapılan değerlendirmede; Asıl davanın belirsiz alacak davası olarak açıldığı şüphesizdir. Uyuşmazlık konusu, kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacağı bakımından; talep içeriğinden de açıkça anlaşıldığı üzere, davacı çalışma süresini, en son ödenen ücreti ve kullanmadığı yıllık izin süresini belirleyebilecek durumdadır. Bu halde, kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacağı belirsiz alacak değildir. Dava konusu edilen alacakların belirlenebilir olmaları ve belirsiz alacak davasına konu edilemeyecekleri anlaşılmakla, asıl davanın bu alacaklar yönünden hukuki yarar yokluğundan usulden reddi gerekirken yazılı şekilde esasa girilerek karar verilmesi hatalıdır.",
+      "key_principles": [
+        "İş hukukunda belirsiz alacak davasının açılabilmesi somut şartların varlığına bağlıdır",
+        "Davacı çalışma süresini, ücretini ve kullanmadığı izin süresini belirleyebiliyorsa alacak belirsiz değildir",
+        "Belirsiz alacak şartları oluşmadan açılan davada hukuki yarar yokluğundan usulden ret gerekir"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Asıl İşveren-Alt İşveren Birlikte Sorumluluğu",
+      "text": "4857 Sayılı İş Kanunu'nun 2/6 son cümlesi uyarınca asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak bu Kanundan, iş sözleşmesinden veya alt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerden alt işverenle birlikte sorumludur. 4857 Sayılı İş Kanunu ile asıl işverenin, bu Kanundan, iş sözleşmesinden ve alt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerden sorumlu tutulması şeklindeki düzenleme, asıl işverenin sorumluluğunun genişletilmesi olarak değerlendirilmelidir. Bu durumda, ihbar, kıdem, kötüniyet ve işe iade sonucu işe başlatmama tazminatları ile ücret, fazla çalışma, hafta tatili, bayram ve genel tatili, yıllık izin, ikramiye, pirim, yemek yardımı, yol yardımı gibi tüm işçilik haklarından birlikte sorumluluk esastır.\nSomut olayda, kıdem tazminatı alacağından asıl işveren ile son altişverenin birlikte sorumlu oldukları dikkate alınmayarak, bu alacaktan sadece asıl işveren Belediyenin sorumlu tutulması doğru olmamıştır.",
+      "key_principles": [
+        "Asıl işveren ile alt işveren arasında birlikte sorumluluk",
+        "Tüm işçilik haklarından birlikte sorumluluk esastır",
+        "Kıdem tazminatı alacağından asıl işveren ve son alt işveren birlikte sorumludur"
+      ],
+      "referenced_laws": [
+        "4857/2/6"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "İşyeri Devri ve Kıdem Tazminatı Sorumluluğu",
+      "text": "İşyeri devrinin esasları ve sonuçları 4857 Sayılı Kanun'un 6. maddesinde düzenlenmiştir. Sözü edilen hükümde, işyerinin veya bir bölümünün devrinde devir tarihinde mevcut olan iş sözleşmelerinin bütün hak ve borçlarıyla devralan işverene geçeceği öngörülmüştür. Devir tarihinden önce doğmuş ve devir tarihinde ödenmesi gereken borçlar açısından, devreden işverenle devralan işverenin birlikte sorumlu oldukları aynı Kanun'un üçüncü fıkrasında belirtilmiş, devreden işverenin sorumluluğunun devir tarihinden itibaren iki yıl süreyle sınırlı olduğu hükme bağlanmıştır.\n4857 Sayılı İş Kanunu'nun 120. maddesi uyarınca yürürlüğü devam eden mülga 1475 Sayılı İş Kanunu'nun 14. maddesi halen yürürlükte olduğundan, işyeri devirlerinde kıdem tazminatına hak kazanma ve hesap yöntemi bakımından belirtilen madde hükmü uygulanmalıdır. İşyeri devri halinde kıdem tazminatı bakımından devreden işveren kendi dönemi ve devir tarihindeki son ücreti ile sınırlı olmak üzere sorumludur. Feshe bağlı diğer haklar olan ihbar tazminatı ve kullanılmayan izin ücretlerinden son işveren sorumlu olup, devreden işverenin bu işçilik alacaklarından herhangi bir sorumluluğu bulunmamaktadır.",
+      "key_principles": [
+        "İşyeri devrinde iş sözleşmelerinin devri",
+        "Kıdem tazminatında devreden işverenin sorumluluğu kendi dönemi ile sınırlıdır",
+        "İhbar tazminatı ve yıllık izin ücretinden yalnızca son işveren sorumludur",
+        "1475 sayılı Kanunun 14. maddesi işyeri devri halinde kıdem tazminatı hesabında uygulanır"
+      ],
+      "referenced_laws": [
+        "4857/6",
+        "4857/120",
+        "1475/14"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "evidence_evaluation",
+      "title": "Çalışma Süresinin Tespiti ve Eksik İnceleme",
+      "text": "Davacının Sosyal Güvenlik Kurumu ve İşkur kayıtlarına göre, Ağrı Belediyesi ile İş Kur arasında yürütülen Toplum Yararına Programlar çerçevesinde 2.2.2012-12.7.2013 tarihleri arasında temizlik işçisi olarak Ağrı Belediyesi bünyesinde çalıştığı, davalılardan Ltd. Şti. bünyesinde ve Ağrı Belediyesi nezdinde ise 22.4.2014-14.10.2014 tarihleri arasında çalıştığı görülmektedir. Mahkemece, tanık beyanlarına göre kesintisiz olarak 2.2.2012-14.10.2014 tarihleri arasında iki yıl sekiz ay iki gün çalıştığı kabul edilmiş ise de, Sosyal Güvenlik Kurumu kayıtlarının aksi tanık beyanları dışında ıspatlanamamıştır. Tanıkların birlikte çalıştıkları süreye dair Sosyal Güvenlik Kurumu kayıtları ise dosya arasında bulunmamaktadır. Bu durumda, tanıkların Sosyal Güvenlik Kurumu kayıtları getirtilerek, çalışmanın bildirilmediği sürelerde işyerinde birlikte çalışan olup olmadıkları araştırılarak sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması usul ve kanuna aykırı olup bozmayı gerektirir.",
+      "key_principles": [
+        "SGK kayıtlarının aksinin tanık beyanlarıyla ispatı",
+        "Tanık beyanlarının güvenilirliğinin SGK kayıtları ile desteklenmesi gerekir",
+        "Eksik inceleme ile hüküm kurulamaz",
+        "Çalışma süresinin tespitinde resen araştırma ilkesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 8,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Bozma Kararı",
+      "text": "SONUÇ: Temyiz olunan kararın, yukarda yazılı sebeplerden BOZULMASINA, peşin alınan temyiz harcının istenmesi halinde ilgiliye iadesine, 28.04.2016 tarihinde oybirliğiyle karar verildi.\n\nBozma gerekçeleri: 1) Kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacaklarının belirsiz alacak olmadığı, davacının bu alacakları belirleyebilecek durumda olduğu, dolayısıyla asıl davanın bu alacaklar yönünden hukuki yarar yokluğundan usulden reddi gerekirken esasa girilerek karar verilmesinin hatalı olduğu. 2) Kıdem tazminatı alacağından asıl işveren ile son alt işverenin birlikte sorumlu oldukları gözetilmeksizin yalnızca Belediyenin sorumlu tutulmasının hatalı olduğu. 3) Tanık beyanlarına dayanılarak tespit edilen çalışma süresi bakımından, tanıkların SGK kayıtları getirtilerek birlikte çalışıp çalışmadıklarının araştırılması gerekirken eksik incelemeyle hüküm kurulmasının usul ve kanuna aykırı olduğu.",
+      "key_principles": [
+        "Belirsiz alacak davasında hukuki yarar yokluğu halinde usulden red",
+        "Asıl işveren-alt işveren birlikte sorumluluğu",
+        "Eksik inceleme ile hüküm kurulamaz",
+        "Temyiz harcının iadesi"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "4857/2/6",
+        "1475/14"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 22. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/107",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/2/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1475/14",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/17",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/57",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/109",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/110",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/297",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "E:2012/30463 K:2012/30091",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İlk Derece Mahkemesi Kararı",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    }
+  ],
+  "source_file": "T.C. YARGITAY 22. HUKUK DAİRESİ E. 2016_6543 K. 2016_12675 T. 28.4.2016.md"
+}

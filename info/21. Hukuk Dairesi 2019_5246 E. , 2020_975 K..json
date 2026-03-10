@@ -1,0 +1,234 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 21. HD., E. 2019/5246 K. 2020/975",
+    "EsasNo": "2019/5246",
+    "KararNo": "2020/975",
+    "KararTarihi": "2020-02-20",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 21. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "21. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Bölge Adliye Mahkemesi kararı kaldırıldı, ilk derece mahkemesi kararı bozuldu",
+    "Davaci": "İş kazasında vefat eden sigortalının eşi ve çocuğu",
+    "Davali": "... İnşaat San. ve Tic. Ltd. Şti. ve ...",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "... İş Mahkemesi",
+      "esas_no": null,
+      "karar_no": null,
+      "tarih": null,
+      "sonuc": "Davacı eşe 92.185,00 TL maddi tazminat ve 10.000,00 TL manevi tazminat; davacı çocuğa 20.301,00 TL maddi tazminat ve 5.000,00 TL manevi tazminat, 30/11/2007 tarihinden itibaren yasal faiziyle davalılardan müştereken ve müteselsilen tahsiline karar verilmiştir."
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Taraf vekilleri",
+      "mahkeme": "İstanbul Bölge Adliye Mahkemesi 29. Hukuk Dairesi",
+      "esas_no": null,
+      "karar_no": null,
+      "sonuc": "Taraf vekillerinin istinaf başvurularının HMK 353/1-b.1 maddesi uyarınca esastan reddine karar verilmiştir."
+    },
+    "TemyizBasvurusu": "Davacılar vekili: işverenin kusur oranının düşük belirlenmesi, kaçınılmazlık faktörünün hatalı uygulanması, hakkaniyet ilkesine aykırılık. Davalı ... İnşaat: iş kazasının nedensellik bağı, kusurun kanıtlanamaması, olayın iş kazası sayılamayacağı. Davalı ...: zamanaşımı, kusur oranına itiraz, müşterek sorumluluk ve asıl-alt işveren ilişkisi.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Bölge Adliye Mahkemesi kararı kaldırılmış, ilk derece mahkemesi kararı bozulmuştur. Kaçınılmazlık faktörünün %60 oranında etkili olduğu durumda davalı işverenlerin bu %60'lık oran içinde de kusurlu olduğu kabul edilerek yeniden hesaplama yapılması gerektiği tespit edilmiştir.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6098/51",
+      "818/43",
+      "6100/373/1",
+      "6100/353/1"
+    ],
+    "AnaSuc": "iş kazası sonucu ölüm - maddi ve manevi tazminat",
+    "HukukiKonu": "iş hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Taraflar",
+      "text": "Davacılar vekili dava, ek dava ve ıslah dilekçesinde özet olarak; iş kazası neticesinde vefat eden sigortalının eş ve çocuğu lehine maddi ve manevi tazminat isteminde bulunmuştur.\n\nDavalılar vekilleri cevap dilekçeleri ve akabinde özet olarak, davanın reddine karar verilmesini talep etmişlerdir.\n\nDava, iş kazası sonucu vefat eden sigortalının eş ve çocuğunun maddi ve manevi zararlarının giderilmesi istemine ilişkindir.",
+      "key_principles": [
+        "İş kazası sonucu ölüm halinde hak sahiplerinin tazminat talebi",
+        "Maddi ve manevi tazminat birlikte istenebilir"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve Bölge Adliye Mahkemesi Kararları",
+      "text": "İlk derece mahkemesince yapılan yargılama neticesinde; davacı eşe 92.185,00 TL maddi tazminat ve 10.000,00 TL manevi tazminatın; davacı çocuğa 20.301,00 TL maddi tazminat ile 5.000,00 TL manevi tazminatın iş kazası tarihi olan 30/11/2007 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsili ile ayrı ayrı davacılara verilmesine, fazlaya ilişkin istemin reddine karar verilmiştir.\n\nİstanbul Bölge Adliye Mahkemesi 29. Hukuk Dairesi'nce, taraf vekillerinin istinaf başvurularının HMK. 353/1-b.1 maddesi uyarınca esastan reddine karar verilmiştir.\n\nDosyadaki kayıt ve belgelerden, hükme esas alınan 17/06/2015 tarihli bilirkişi heyet raporunda; olayın meydana gelmesinde işçi sağlığı ve iş güvenliği için gerekli tedbirleri almayan asıl işveren ...'nın % 10 ve alt işveren ... İnşaat San. ve Tic. Ltd. Şti.'nin % 30 oranında kusurlu oldukları, % 60 oranında ise kaçınılmazlık faktörünün etkisi olduğu belirtilmiştir. Mahkemece hükme esas alınan 15/03/2016 tarihli kök ve ek hesap raporunda ise davalı tarafın kusurunun toplam % 40 oranında kabul edilerek hesaplamaların yapıldığı, % 60 kaçınılmazlık oranının ise göz ardı edildiği anlaşılmaktadır.",
+      "key_principles": [
+        "Asıl işveren-alt işveren müşterek ve müteselsil sorumluluğu",
+        "İş kazası tazminatında kusur oranlarının bilirkişi raporu ile belirlenmesi",
+        "Kaçınılmazlık faktörünün hesaplamaya etkisi"
+      ],
+      "referenced_laws": [
+        "6100/353/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "cassation_grounds",
+      "title": "Temyiz Nedenleri",
+      "text": "1-Davacıların Özetle Temyiz Nedenleri:\n• Müteveffanın kusursuz olarak tespit edildiği, ancak işverenler lehine düşük kusur oranı belirlenmek sureti ile kusur belirleme tekniği ve hakkaniyete aykırı hesap yapıldığını,\n• Müteveffanın gece ağır çalıştırıldığı, ancak bu konuda sağlık raporu aldırılmadığı, olayda işverenlerin tam kusurlu olduğu, kaçınılmazlıktan söz edilemeyeceğini,\n• İşverenin olayda en azından % 60 oranında kusuru bulunduğunu,\n• İşverenin % 100 ve % 60 kusur olması ihtimaline binaen kendilerince hesaplamaların yapıldığı belirterek Bölge Adliye Mahkemesi kararının bozulması talep edilmiştir.\n\n2-Davalı ... İnşaat'ın Özetle Temyiz Nedenleri:\n• Davacılar murisinin iş kazasında kusurlu olduğunun kanıtlanamadığını,\n• Davacılar murisinin işyerinde kendi sağlık sorunlarından kaynaklanan bir sebeple kalp krizi geçirmesi iş kazası olarak nitelendirilemeyeceğini belirterek Bölge Adliye Mahkemesi kararının bozulması talep edilmiştir.\n\n3-Davalı ...'nın Özetle Temyiz Nedenleri:\n• Davanın zamanaşımı nedeniyle reddi gerektiğini,\n• Müştereken sorumluluğa karar verilemeyeceği,\n• Müvekkili şirketin ihale yoluyla hizmet aldığı, bu nedenle sorumluluğu bulunmadığı, asıl-alt işveren sıfatları olmadığını belirterek Bölge Adliye Mahkemesi kararının bozulması talep edilmiştir.",
+      "key_principles": [
+        "İş kazasında kusur belirleme",
+        "Kaçınılmazlık faktörünün kusur paylaşımına etkisi",
+        "Asıl-alt işveren ilişkisi ve sorumluluk",
+        "Zamanaşımı def'i"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Kaçınılmazlık Kavramının Hukuki Değerlendirmesi",
+      "text": "Kaçınılmazlık; hukuksal ve teknik anlamda; fennen önlenmesi mümkün bulunmayan başka bir anlatımla, işverence mevzuatın öngördüğü tüm önlemlerin alınmış olduğu koşullarda dahi önlenmesi mümkün bulunmayan durum ve sonuçları ifade eder.\n\nKaçınılmazlık (beklenmedik durum, fevkalade hâl, kaza, kötü tesadüf, umulmayan hâl) sorumlu kişinin irade ve davranışından bağımsız olarak herkese ödev yükleyen genel bir davranış kuralının veya sözleşmeden doğan bir borcun kaçınılmaz surette ihlali sonucunu doğuran olaydır.\n\nKaçınılmazlıktan bahsedilebilmesi için öncelikle irade dışı olarak nitelendirilebilecek bir olayın meydana gelmesi gerekmektedir. Yağmur, fırtına, sel, buzlanma gibi olaylar, hastalık gibi psiko-fizyolojik olaylar kaçınılmaz bir olay olarak kabul edilebilir.\n\nKaçınılmazlığın son ve en önemli unsuru ise genel davranış normunun veya sözleşmeden doğan borcun ihlalinin önlenemez (kaçınılamaz) olmasıdır. Önlenemezlik, alınabilecek tüm tedbirlerin alınmış olmasına karşılık davranış kuralının veya sözleşmeden doğan bir borcun ihlal edilmiş olduğunu ifade etmektedir.\n\nKaçınılmazlık 6098 sayılı Türk Borçlar Kanunu'nun 51. vd. maddelerinde tazminatın kapsamı belirlenirken durumun gereğini, yani olayın özelliklerini göz önüne almakla yükümlü tuttuğundan, bazı hallerde zararın ortak ve kısmi sebebini oluşturan beklenmedik olaylar tazminattan indirim sebebi olabilir. Hakim kaçınılmaz olayları indirim sebebi olarak kabul etmelidir.",
+      "key_principles": [
+        "Kaçınılmazlığın hukuki tanımı",
+        "Kaçınılmazlığın unsurları: irade dışılık, nedensellik bağı, önlenemezlik",
+        "Kaçınılmazlığın tazminattan indirim sebebi teşkil etmesi",
+        "TBK 51. maddesi çerçevesinde hâkimin takdir yetkisi"
+      ],
+      "referenced_laws": [
+        "6098/51",
+        "818/43"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Kaçınılmazlık Durumunda Kusur Paylaşımı ve Hakkaniyet İlkesi",
+      "text": "Gerçekten de iş kazasının tamamen kaçınılmazlıktan kaynaklandığı durumlarda kaçınılmazlığın yükünü taraflardan sadece birisine yüklemek, adalet duygusunu zedeler. Kaçınılmazlık, her iki taraf açısından da önlenemez bir olay olduğuna göre, beklenmeyen olayın neden olduğu olumsuz sonuçlara her iki tarafta katlanmalıdır. Bu gibi durumlarda kaçınılmazlığın etki ettiği zarar, hakkaniyetin gerektirdiği ölçüde taraflara yüklenir.\n\nOlayın kaçınılmazlıktan kaynaklanması hâlinde sorumluluğun işçi ve işveren arasında % 50'şer oranında paylaştırılması uygun gibi görünebilirse de, işçinin işverene karşı daha güçsüz oluşu, nimet-külfet dengesi, işçiyi koruma ve sosyal devlet ilkesi gibi nedenler karşısında işverene daha fazla sorumluluk verilmesi hakkaniyet gereğidir.\n\nSonuç itibariyle iş kazasının meydana gelmesinde tamamen kaçınılmazlığın etkili olduğu durumlarda, hakim tarafından 6098 sayılı Türk Borçlar Kanunu'nun 51. maddesi çerçevesinde tazminat belirlenirken hakkaniyet ilkeleri gözetilerek işverenin % 60, işçinin ise % 40 kusurlu olduğunun kabulü adil bir çözüm olacaktır. (Yargıtay Hukuk Genel Kurulu'nun 07/03/2019 gün ve 2015/21-983 - 2019/252 Esas ve Karar sayılı ilamı bu yöndedir.)",
+      "key_principles": [
+        "Kaçınılmazlık yükünün taraflara hakkaniyete göre dağıtılması",
+        "İşçiyi koruma ilkesi",
+        "Nimet-külfet dengesi",
+        "Sosyal devlet ilkesi",
+        "Kaçınılmazlık durumunda işverene %60, işçiye %40 kusur atfedilmesi"
+      ],
+      "referenced_laws": [
+        "6098/51"
+      ],
+      "referenced_decisions": [
+        "Yargıtay HGK 2015/21-983 - 2019/252"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Bu açıklamalardan sonra somut olayda, iş kazasının % 60 kaçınılmazlık faktöründen kaynaklanmasına göre, davalı işverenlerin bu zararlandırıcı hadisenin meydana gelmesinde % 40 kusurunun bulunduğu gözetilerek yapılan bilirkişi hesap raporuna istinaden kurulan hüküm usul ve yasaya aykırıdır.\n\nYapılacak iş, davaya konu iş kazasının meydana gelmesinde % 60 kaçınılmazlık faktörünün % 60'lık oranından da davalı işverenlerin kusurlu olduğunun kabulü ile hak sahiplerinin maddi zararının belirlenmesi noktasında hesaplamanın yapıldığı yeni bir rapor almak ve fakat 15/03/2016 tarihli kök ve ek hesap raporundaki doneler dikkate alınarak, işlemiş dönem ileri çekilmeksizin ve taraflar lehine oluşan usulü kazanılmış haklara riayet edilerek rapor neticesine göre bir karar vermekten ibarettir.\n\nO halde, davacılar vekilinin bu yönleri amaçlayan temyiz itirazları kabul edilmeli ve Bölge Adliye Mahkemesi kararının kaldırılması ile İlk Derece Mahkemesi kararının bozulmasına karar vermek gerekmiştir.\n\nSONUÇ: Temyiz olunan Bölge Adliye Mahkemesi kararının, yukarıda yazılı sebeplerden dolayı 6100 sayılı HMK'nun 373/1. maddesi uyarınca KALDIRILMASINA, ilk derece mahkemesi kararının BOZULMASINA, aşağıda yazılı temyiz harcının davalılara yükletilmesine, dosyanın İlk Derece Mahkemesine, kararın bir örneğinin de Bölge Adliye Mahkemesi'ne gönderilmesine, 20/02/2020 gününde oy birliğiyle karar verildi.",
+      "key_principles": [
+        "Kaçınılmazlık oranı içinde de işverenin sorumluluğu",
+        "Usuli kazanılmış hakların korunması",
+        "Yeniden bilirkişi raporu alınması zorunluluğu",
+        "BAM kararının kaldırılması ve ilk derece kararının bozulması"
+      ],
+      "referenced_laws": [
+        "6100/373/1"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/51",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/43",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/373/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/353/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay HGK 2015/21-983 - 2019/252",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul Bölge Adliye Mahkemesi 29. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Yargıtay 21. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 21. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "21. Hukuk Dairesi 2019_5246 E. , 2020_975 K..md"
+}

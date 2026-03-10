@@ -1,0 +1,274 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 2. HD., E. 2023/7132 K. 2024/4132",
+    "EsasNo": "2023/7132",
+    "KararNo": "2024/4132",
+    "KararTarihi": "2024-06-03",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 2. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "2. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, onama kararı verildi",
+    "Davaci": "Davacı-davalı kadın",
+    "Davali": "Davalı-davacı erkek",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Kızıltepe Aile Mahkemesi",
+      "esas_no": "2019/336",
+      "karar_no": "2022/51",
+      "tarih": null,
+      "sonuc": "Asıl ve karşı davanın reddine karar verilmiştir"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Taraf vekilleri",
+      "mahkeme": "Diyarbakır Bölge Adliye Mahkemesi 2. Hukuk Dairesi",
+      "esas_no": "2022/877",
+      "karar_no": "2023/626",
+      "sonuc": "Esastan ret - İstinaf başvurusunun esastan reddine karar verilmiştir"
+    },
+    "TemyizBasvurusu": "Taraf vekilleri tarafından temyiz isteminde bulunulmuştur. Kadın vekili boşanma ve ziynet alacağı davasının reddi yönünden kararın kaldırılmasını, erkek vekili ise tarafların boşanmalarına karar verilmesini talep etmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Süresinde delil bildirilip bildirilmediği davada şart olarak incelenmiştir",
+    "Mevzuat": [
+      "4721/6",
+      "4721/166",
+      "6100/140",
+      "6100/190",
+      "6100/194",
+      "6100/353/1/b/1",
+      "6100/369/1",
+      "6100/370",
+      "6100/371"
+    ],
+    "AnaSuc": "Boşanma, ziynet alacağı, velayet",
+    "HukukiKonu": "aile hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Tarafların Talepleri",
+      "text": "Davacı-davalı kadın dava dilekçesinde; davalı-davacının babalık görevini yerine getirmeyen biri olduğunu, eşinin kendisini daha önceden darp ettiğini, eşine katlanacak gücünün kalmadığını, ortak çocuğunun velâyetinin kendisine verilmesini, düğünde kendisine takılan altınlarını erkeğin kendisinden alıp ev satın aldığını, erkeğin bu evi de eniştesi ...un adına yaptığını, erkekten 50.000,00'er TL tazminat talebinde bulunduğunu, ziynet alacağı talebi, erkekten aylık 1.000,00 TL nafaka talebinde bulunduğunu, tarafların evlilik birliğinin temelinden sarsılması nedeniyle boşanmalarına ve ziynet alacağının tarafına ödenmesine karar verilmesini talep ve dava etmiştir.",
+      "key_principles": [
+        "Evlilik birliğinin temelinden sarsılması",
+        "Ziynet alacağı",
+        "Velayet",
+        "Nafaka"
+      ],
+      "referenced_laws": [
+        "4721/166"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Davalı-Davacı Erkeğin Cevabı ve Karşı Davası",
+      "text": "Davalı-davacı erkek vekili karşı dava ve cevap dilekçesinde özetle; İstanbul'da yaşadıkları halde Mardin iline dönen kadının İstanbul'a gelmek istemediğini, müvekkilinin iş bulmakta zorlandığı için yeniden İstanbul'a gittiğini, kadının birlik görevlerini yerine getirmediğini, evi kırıp eşyaları da götürdüklerini belirterek asıl davanın reddine, karşı davanın kabulü ile velâyetin müvekkiline tevdiine karar verilmesini talep etmiştir.",
+      "key_principles": [
+        "Birlik görevlerinin yerine getirilmesi",
+        "Velayet talebi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararı",
+      "text": "İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; '...26.10.2020 tarihli duruşmamız ile dosya kapsamında ön inceleme yapılmış, davacı-davalı ve davalı-davacı vekiline tanık isim listeleri ile henüz bildirmedikleri delillerini bildirmeleri için 2 haftalık kesin süre verilmiştir. Davacı-davalı ve davalı-davacı vekili tanık ve delil listesini ibraz etmediği gibi 18.01.2021 tarihli ve sonraki tahkikat duruşma gününde de tanıklarını hazır etmediği, davaların ispatlanamadığı...' gerekçesiyle asıl ve karşı davanın reddine karar verilmiştir.",
+      "key_principles": [
+        "Kesin süre uygulaması",
+        "Delil bildirme yükümlülüğü",
+        "İspat yükü"
+      ],
+      "referenced_laws": [
+        "6100/140",
+        "6100/190",
+        "6100/194"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "cassation_grounds",
+      "title": "İstinaf ve Temyiz Başvuruları",
+      "text": "İlk Derece Mahkemesinin kararına karşı süresi içinde taraf vekilleri istinaf başvurusunda bulunmuştur. Davacı-davalı kadın istinaf dilekçesinde özetle; boşanma ve ziynet alacağı davasının reddi yönünden kararın kaldırılmasını istemiştir. Davalı-davacı erkek istinaf dilekçesinde özetle; karşı dava hakkında hiç değerlendirme yapılmadığını belirterek kararın kaldırılmasını istemiştir. Bölge Adliye Mahkemesince kararın usul ve kanuna uygun olduğu gerekçesi ile tarafların istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353 üncü maddesinin birinci fıkrasının (b) bendinin (1) inci alt bendi gereğince esastan reddine karar verilmiştir. Bölge Adliye Mahkemesi kararına karşı taraf vekilleri temyiz isteminde bulunmuştur. Davacı-davalı kadın temyiz dilekçesinde boşanma ve ziynet alacağı davasının reddi yönünden kararın kaldırılmasını, davalı-davacı erkek ise tarafların boşanmalarına karar verilmesini talep etmiştir.",
+      "key_principles": [
+        "İstinaf yolu",
+        "Temyiz yolu",
+        "Kararın usul ve kanuna uygunluğu"
+      ],
+      "referenced_laws": [
+        "6100/353/1/b/1",
+        "6100/371"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Yargıtay'ın Hukuki Değerlendirmesi",
+      "text": "Uyuşmazlık, davacı kadın tarafından açılan boşanma davasında evlilik birliğinin temelinden sarsılıp sarsılmadığı, davanın kabulü şartlarının oluşup oluşmadığı süresinde delil bildirilip bildirilmediği, karşı velâyet davasının kabulü şartlarının oluşup oluşmadığı noktasında toplanmaktadır.\n\nBölge Adliye Mahkemelerinin nihai kararlarının bozulması 6100 sayılı Kanun'un 371 inci maddesinde yer alan sebeplerden birinin varlığı hâlinde mümkündür.\n\nTemyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre usul ve kanuna uygun olup taraf vekillerince temyiz dilekçesinde ileri sürülen nedenler kararın bozulmasını gerektirecek nitelikte görülmemiştir.",
+      "key_principles": [
+        "Evlilik birliğinin temelinden sarsılması",
+        "Delil bildirme yükümlülüğü",
+        "Bölge Adliye Mahkemesi kararının bozulma şartları",
+        "Usul ve kanuna uygunluk denetimi"
+      ],
+      "referenced_laws": [
+        "4721/6",
+        "4721/166",
+        "6100/140",
+        "6100/190",
+        "6100/194",
+        "6100/369/1",
+        "6100/370",
+        "6100/371"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan sebeplerle; Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA, Adli yardımdan yararlanması sebebi ile başlangıçta alınmamış olan aşağıda yazılı karar ve ilam harcı ile temyiz başvuru harcının temyiz eden ..'ye yükletilmesine, Aşağıda yazılı temyiz giderinin temyiz eden ....'a yükletilmesine, Dosyanın İlk Derece Mahkemesine, kararın bir örneğinin Bölge Adliye Mahkemesine gönderilmesine, 03.06.2024 tarihinde oy birliğiyle karar verildi.",
+      "key_principles": [
+        "Onama kararı",
+        "Adli yardım",
+        "Yargılama giderlerinin yükletilmesi",
+        "Oybirliği ile karar"
+      ],
+      "referenced_laws": [
+        "6100/370"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 2. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Diyarbakır Bölge Adliye Mahkemesi 2. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Kızıltepe Aile Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/166",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/140",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/190",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/194",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/353/1/b/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/369/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/370",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/371",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "aile hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "Yargıtay 2. Hukuk Dairesi 2023_7132 Esas 2024_4132 Karar Sayılı Kararı.md"
+}

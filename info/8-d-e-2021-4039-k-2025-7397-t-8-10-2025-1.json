@@ -1,0 +1,273 @@
+{
+  "entities": {
+    "Karar": "Danıştay 8. D., E. 2021/4039 K. 2025/7397 T. 8.10.2025",
+    "EsasNo": "2021/4039",
+    "KararNo": "2025/7397",
+    "KararTarihi": "2025-10-08",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Sekizinci Dairesi",
+    "MahkemeTuru": "danistay",
+    "Daire": "8. Daire",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, bozma kararı verildi",
+    "Davaci": "Özel şahıs (maden işletme ruhsat sahibi)",
+    "Davali": "Maden ve Petrol İşleri Genel Müdürlüğü",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Danıştay Tetkik Hâkimi (isim gizlenmiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "İdare Mahkemesi (isim gizlenmiş)",
+      "esas_no": "gizlenmiş",
+      "karar_no": "gizlenmiş",
+      "tarih": "gizlenmiş",
+      "sonuc": "Dava konusu işlemin iptali"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalı idare ve davalı yanında müdahil TEİAŞ Genel Müdürlüğü",
+      "mahkeme": "Bölge İdare Mahkemesi İdari Dava Dairesi",
+      "esas_no": "gizlenmiş",
+      "karar_no": "gizlenmiş",
+      "sonuc": "İstinaf başvurusunun reddi"
+    },
+    "TemyizBasvurusu": "Davalı idare ve davalı yanında müdahil TEİAŞ Genel Müdürlüğü tarafından; davanın süresinde açılmadığı, bilirkişi raporuna itirazların karşılanmadığı, temyize konu kararın hukuka aykırı olduğu ileri sürülerek Bölge İdare Mahkemesi kararının bozulması istenilmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Bölge İdare Mahkemesi kararı bozulmuş; davada süre aşımı bulunduğundan davanın süre aşımı nedeniyle reddine karar verilmesi gerekirken işin esası yönünden değerlendirme yapılarak iptal kararı verilmesinin usul hükümlerine aykırı olduğu tespit edilmiştir.",
+    "KesinHukum": true,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "09/04/2014 tarih ve 2721 sayılı Makam Oluru ile 154 kV 1272 MCM İletkenli Konya II, Konya III BRS-Bağlar RES TM EİH projesi kapsamında ER:3313979 sayılı izne tabi özel izin alanı olarak sistem kayıtlarına işlenmesi; davacının 30/09/2019 tarihli bu işlemin kaldırılması başvurusunun reddi.",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": "Yürütmeyi durdurma harcı kullanılmamış; dosya tekemmül ettiğinden yürütmeyi durdurma istemi hakkında ayrıca karar verilmeksizin işin esası incelenmiştir.",
+    "DanistayTemyizIncelemesi": "Danıştay 8. Dairesi, 2577 sayılı Kanun'un 49. maddesi uyarınca temyiz istemlerini kabul ederek Bölge İdare Mahkemesi kararını bozmuştur.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Dava açma süresi — 2577 sayılı İYUK md. 7, 10 ve 11 kapsamında süre aşımı meselesi; davacının 02/07/2019 tarihinde öğrendiği işleme karşı genel dava açma süresi içinde dava açmaması veya 11. madde uyarınca başvuru yapmaması nedeniyle davanın süre aşımından reddi gerektiği saptanmıştır.",
+    "Mevzuat": [
+      "2577/7",
+      "2577/10",
+      "2577/11",
+      "2577/45/3",
+      "2577/49",
+      "2577/17/2",
+      "3213/7/13"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "idare hukuku — maden işletme ruhsatı, özel izin alanı, dava açma süresi, idari makamların sükutu"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu İstem ve Yargılama Süreci",
+      "text": "Dava, Konya ili, Selçuklu ilçesi, ... Köyü hudutları dahilinde bulunan S:... sayılı I-(b) grubu (çimento kili) maden işletme ruhsat sahası ile çakışmalı olduğu ileri sürülen 154 kV 1272 MCM İletkenli Konya II, Konya III BRS- Bağlar RES TM EİH projesi kapsamında ER:3313979 sayılı izne tabi özel izin alanı olarak sistem kayıtlarına işlenmesine ilişkin 09/04/2014 tarih ve 2721 sayılı Makam Oluru'nun kaldırılması ile Y:470031, X:4217862 ve Y:470021, X:4218107 koordinatlarında bulunan iki adet yüksek enerji nakil hattının işletme ruhsat sahası dışına çıkarılması istemiyle yapılan 30/09/2019 tarihli başvurunun reddine ilişkin Maden ve Petrol İşleri Genel Müdürlüğünün ... tarih ve E... sayılı işleminin iptali istemiyle açılmıştır.",
+      "key_principles": [
+        "İdari işlemin iptali talebi",
+        "Maden işletme ruhsatı ile enerji nakil hattı çakışması",
+        "Özel izin alanı tesis edilmesi"
+      ],
+      "referenced_laws": [
+        "3213/7/13"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve Bölge İdare Mahkemesi Kararlarının Özeti",
+      "text": "İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; uyuşmazlığa konu ruhsat sahasında iki adet yüksek enerji nakil hattı direği bulunmasının davacının maden işletme faaliyetlerini engelleyip engellemediği, davacı açısından bir kaynak kaybına yol açıp açmayacağı, söz konusu enerji nakil hatlarının bu saha içerisinden geçirilmesinin zorunluluk arz edip arz etmediği ve yine bu hatların ruhsat alanı dışına çıkarılmasında bir sakınca bulunup bulunmadığı hususlarında bir yargıya varılabilmesi özel ve teknik bilgi gerektirdiğinden mahallinde keşif ve bilirkişi incelemesi yapılmasına karar verilmesi üzerine 13/02/2020 günü yapılan keşif ve bilirkişi incelemesi sonucu dosyaya sunulan bilirkişi raporunda yer alan tespit ve değerlendirme doğrultusunda, davacıya ait ruhsat sahasından enerji nakil hattı geçirilmek üzere müdahil TEİAŞ Genel Müdürlüğünce yapılan başvuru üzerine tesis edilen işlemlerde davacının sözkonusu maden sahasına ilişkin kazanılmış haklarının gözetilmediği, uğrayacağı hak kayıpları yönünden yeterli bir araştırma yapılmadığı, müdahil kurum tarafından sunulan projenin gerçekleştirilmesinde kamu yararı bulunduğu gerekçesiyle ER:... sayılı sahanın izin alınarak çalışılacak saha olarak sistem kayıtlarına işlenmesine karar verildiği gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.\n\nBölge İdare Mahkemesi kararının özeti: İstinaf başvurusuna konu kararın hukuka ve usule uygun olduğu ileri sürülen iddiaların söz konusu kararın kaldırılmasını sağlayacak nitelikte görülmediği belirtilerek 2577 sayılı İdari Yargılama Usulü Kanunu'nun 45. maddesinin 3. fıkrası uyarınca istinaf başvurusunun reddine karar verilmiştir.",
+      "key_principles": [
+        "Bilirkişi incelemesi ile teknik meselelerin aydınlatılması",
+        "Kazanılmış hakların gözetilmesi zorunluluğu",
+        "Kamu yararı değerlendirmesi",
+        "İstinaf incelemesinde hukuka uygunluk denetimi"
+      ],
+      "referenced_laws": [
+        "2577/45/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Temyiz Eden Tarafların İddiaları ve Karşı Tarafın Savunması",
+      "text": "TEMYİZ EDENLERİN İDDİALARI: Davalı idare tarafından, davanın süresinde açılmadığı, TEİAŞ Genel Müdürlüğü'nün yazısı ile 154 kV 1272 MCM İletkenli Konya II, Konya III BRS- Bağlar RES TM EİH planlandığı belirtilerek konu ile ilgili olarak görüş sorulması üzerine Genel Müdürlük teknik heyetince EİH Projesi alanı ile çakışmalı durumda bulunan maden ruhsat sahalarında kaynak kaybı olup olmayacağı, projenin ruhsat sahalarında yapılacak madencilik faaliyetlerini etkileyip etkilemeyeceği yönünde mahallinde tetkik yapıldığı, hazırlanan raporda projenin gerçekleştirilmesinde kamu yararı bulunduğu ve Genel Müdürlükçe verilen ruhsatların projeden etkilenmeyeceği tespit edildiğinden ER:... sayılı sahanın izin alınarak çalışılacak saha olarak sistem kayıtlarına işlenmesinin 09/04/2014 tarih ve 2721 sayılı Makam Oluru ile uygun görüldüğü, davaya konu işlemin, işlem tarihinde yürürlükte olan mevzuat hükümlerine uygun olarak tesis edildiği ileri sürülmektedir. Davalı idare yanında müdahil tarafından; davacının 15/04/2019 tarihli başvurusuna verilen 27/06/2019 tarihli işlemle özel izin alanı Makam Oluru'ndan haberdar olduğu, genel dava açma süresi içinde dava açmadığı, bilirkişi raporuna yapılan esaslı itirazların karşılanmadığı, hükme esas alınan bilirkişi raporunda hiçbir teknik açıklama yapılmaksızın maliyet hesabı yapıldığı ileri sürülmektedir.\n\nKARŞI TARAFIN SAVUNMASI: Davacı tarafından, istemlerin reddi gerektiği savunulmuştur.",
+      "key_principles": [
+        "Davanın süresinde açılmaması — süre aşımı iddiası",
+        "Kamu yararı gerekçesiyle tesis edilen idari işlemin hukuka uygunluğu",
+        "Bilirkişi raporuna itiraz hakkı"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "İlgili Mevzuat — Dava Açma Süresi, İdari Makamların Sükutu ve Üst Makamlara Başvurma",
+      "text": "2577 sayılı İdari Yargılama Usulü Kanunu'nun 'Dava Açma Süresi' başlıklı 7. maddesinde, dava açma süresinin özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştay'da ve İdare Mahkemelerinde altmış gün olduğu; idari uyuşmazlıklarda bu sürenin yazılı bildirimin yapıldığı tarihi izleyen günden başlayacağı hükmüne yer verilmiş; Kanun'un 'İdari Makamların Sükutu' başlıklı 10. maddesinin dava konusu işlem tarihinde yürürlükte olan halinde; 'İlgililer, haklarında idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara başvurabilirler. Altmış gün içinde bir cevap verilmezse istek reddedilmiş sayılır. İlgililer altmış günün bittiği tarihten itibaren dava açma süresi içinde, konusuna göre Danıştaya, idare ve vergi mahkemelerine dava açabilirler...' düzenlemesine; aynı Kanun'un 'Üst makamlara başvurma' başlıklı 11. maddesinin dava konusu işlem tarihinde yürürlükte olan halinde ise 'İlgililer tarafından idari dava açılmadan önce, idari işlemin kaldırılması, geri alınması değiştirilmesi veya yeni bir işlem yapılması üst makamdan, üst makam yoksa işlemi yapmış olan makamdan, idari dava açma süresi içinde istenebilir. Bu başvurma, işlemeye başlamış olan idari dava açma süresini durdurur. Altmış gün içinde bir cevap verilmezse istek reddedilmiş sayılır. İsteğin reddedilmesi veya reddedilmiş sayılması halinde dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba katılır.' hükmüne yer verilmiştir.",
+      "key_principles": [
+        "İdari yargıda genel dava açma süresi altmış gündür",
+        "İdari makamların sükutu halinde altmış günün bitiminde ret sayılma",
+        "Üst makama başvurma dava açma süresini durdurur",
+        "10. madde ile 11. madde kapsamındaki başvuruların birbirinden farklı usullere tabi olması"
+      ],
+      "referenced_laws": [
+        "2577/7",
+        "2577/10",
+        "2577/11"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "appellate_evaluation",
+      "title": "Hukuki Değerlendirme — 10. ve 11. Madde Ayrımı ile Süre Tespiti",
+      "text": "Kişilerin, haklarında daha önce idarece tesis edilmiş herhangi bir işlem olmaksızın, idari davaya konu olabilecek yeni bir işlem veya eylemin yapılması için yapılan başvuru neticesinde tesis edilen işlemin 10. madde kapsamında yapılmış başvuru olduğu ve dava açma süresinin de, bu başvuru üzerine tesis edilen işlemin tebliğinden itibaren başlayacağı, kişilerin haklarında daha önce tesis edilmiş işlem olmakla birlikte, idari dava açılmadan önce işlemin kaldırılması, geri alınması, değiştirilmesi ya da yeni bir işlem yapılması amacıyla yaptıkları başvurunun ise, 11. madde kapsamında yapılmış başvuru olduğundan, dava açma süresinin de anılan maddede belirtilen esaslara göre hesaplanması gerekmektedir.\n\nBir başka deyişle; 2577 sayılı Kanun'un 10. maddesi kapsamında, idareden ilk defa bir işlem tesisi talep edilmesi için yapılan başvurunun, her zaman yapılabileceği -bunun için herhangi bir sürenin öngörülmediği- idarece cevap verilmemesi veya başvurunun reddi halinde dava açma süresinin başlayacağı, ancak; idarece tesis edilmiş bir işlemin kaldırılması, iptal edilmesi veya geri alınması gibi taleplerle yapılan başvuru için, kanun koyucunun bir süre öngördüğü, buna göre; iptali, geri alınması veyahut da kaldırılması istenilen işleme karşı, genel dava açma süresi içinde başvurunun yapılması ve bu başvurunun zımnen veya açıktan reddi halinde süresi içinde dava açılması gerektiği açıktır.\n\nDolayısıyla; ilgililerin dava açmadan önce yaptıkları başvurunun içeriği (talebinin mahiyeti), başvuru öncesinde idarece tesis edilmiş herhangi bir işlemin bulunup bulunmadığı hususlarına bakılarak başvurunun niteliğinin belirlenmesi gerekmekte olup; buna göre usuli işlemlerin yürütüleceği izahtan varestedir.",
+      "key_principles": [
+        "İYUK 10. madde kapsamındaki başvuru: daha önce işlem olmaksızın ilk kez işlem tesisi talebi",
+        "İYUK 11. madde kapsamındaki başvuru: mevcut işlemin kaldırılması/geri alınması/değiştirilmesi talebi",
+        "11. madde başvurusu genel dava açma süresi içinde yapılmalıdır",
+        "Başvurunun niteliğinin tespitinde talep içeriği ve önceki işlemin varlığı belirleyicidir"
+      ],
+      "referenced_laws": [
+        "2577/10",
+        "2577/11"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "evidence_evaluation",
+      "title": "Maddi Olayın Kronolojik Analizi ve Süre Hesabı",
+      "text": "Dava dosyasının incelenmesinden; Konya ili, Selçuklu ilçesi, ... Köyü hudutları dahilinde bulunan ER:... sayılı sahada, toplamda 39,43 hektarlık alanda, 14/03/2014-14/03/2024 tarihleri arasında geçerli olacak şekilde madencilik faaliyetinde bulunmak üzere davacıya S:... sayılı 1-b grubu maden işletme ruhsatının verildiği, davacı tarafından bu ruhsat sahası içerisindeki 9,99 hektarlık alan için 20/08/2014 tarihinde işletme izninin alındığı, 25/05/2016 tarihinde ise 13,24 hektar alan için işletme izninin alındığı, bu alanda Y:470031 X:4217862 ve Y:470021 X:4218107 koordinatlarında iki adet enerji nakil hattının varlığı fark edilince sözkonusu enerji nakil hattı direkleri ile ilgili olarak tarafına bildirimde bulunulmadığı, görüş ve onayının alınmadığından bahisle konunun incelenerek gereğinin yapılması hususunda davacı tarafından 15/04/2019 tarihli dilekçe ile davalı idareye başvurulduğu, davalı idarece verilen 27/06/2019 tarihli yanıtta; ruhsat sahasının 09/04/2014 tarih ve 2721 sayılı Makam Olur'una istinaden izne tabi özel izin alanı olarak sistem kayıtlarına işlendiği ve ihalelik saha konumunda olduğunun bildirildiği, Maden Kanunu'nun 7. maddesinin 13. fıkrası uyarınca bırakılması gereken mesafeler dikkate alınarak faaliyetlerin gerçekleştirilmesi gerektiğinin bildirildiği, TEİAŞ 9. Bölge Müdürlüğünün 23/08/2019 tarihli yazısı ile sahada enerji nakil hatlarına 60 metre mesafede madencilik faaliyeti yapılmaması hususunda davacıya ihtarda bulunulduğu, davacı tarafından 30/09/2019 tarihli dilekçe ile; sahadaki faaliyetlerinin TEİAŞ tarafından engellenmeye çalışıldığı, 09/04/2014 tarih ve 2721 sayılı Makam Oluru ile verilen iznin kaldırılması ve enerji nakil hatlarının işletme sahası dışına çıkarılması istemiyle davalı idareye başvurulduğu, davalı idarenin ... gün ve ... sayılı yazısında davacının ilk başvurusuna verilen cevap yazısına atıf yapılmak suretiyle başvurusunun reddedilmesi üzerine bakılan davanın açıldığı görülmektedir.\n\n154 kV 1272 MCM İletkenli Konya II, Konya III BRS- Bağlar RES TM EİH projesi kapsamında ER:3313979 sayılı izne tabi özel izin alanı olarak sistem kayıtlarına işlenmesine dair 09/04/2014 tarih ve 2721 sayılı Makam Oluru'na ilişkin davacıya yapılmış herhangi bir bildirimin bulunmadığı, dolayısıyla; proje kapsamında inşası gerçekleştirilen enerji iletim hattı direklerinin davacı tarafından fark edilmesi üzerine davacı tarafından 15/04/2019 tarihli dilekçe ile davalı idareye yapılan başvurunun bilgi edinme başvurusu kapsamında olduğunun kabul edilmesi gerektiği, anılan başvuruya davalı idarece verilen cevapla; izne tabi özel izin alanının 09/04/2014 tarih ve 2721 sayılı Makam Oluru ile sistem kayıtlarına işlendiğinin bildirildiği, işlemin davacının KEP adresine aynı tarihte iletildiği, anılan işlemin 02/07/2019 tarihinde tebliğ edilmiş sayıldığı, davacının uyuşmazlığa konu 09/04/2014 tarih ve 2721 sayılı Makam Oluru'ndan bu tarihte haberdar olduğu anlaşılmıştır.",
+      "key_principles": [
+        "İdari işlemden haberdar olma tarihi — tebliğ tarihi esas alınır",
+        "Bilgi edinme başvurusu ile 10. madde kapsamındaki başvurunun ayrımı",
+        "KEP adresi üzerinden tebligat geçerliliği",
+        "Önceki işlemden habersiz olan kişi açısından 10. madde hükümlerinin uygulanması"
+      ],
+      "referenced_laws": [
+        "2577/7",
+        "2577/10",
+        "3213/7/13"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Karar — Süre Aşımı Nedeniyle Bölge İdare Mahkemesi Kararının Bozulması",
+      "text": "Dolayısıyla; davacı tarafından, 154 kV 1272 MCM İletkenli Konya II, Konya III BRS- Bağlar RES TM EİH projesi kapsamında ER:... sayılı izne tabi özel izin alanı olarak sistem kayıtlarına işlenmesine dair 09/04/2014 tarih ve 2721 sayılı Makam Oluru'nun kaldırılması ile Y:470031, X:4217862 ve Y:470021, X:4218107 koordinatlarında bulunan iki adet yüksek enerji nakil hattının işletme ruhsat sahası dışına çıkarılması istemine yönelik olarak; 02/07/2019 tarihinden genel dava açma süresi içerisinde dava açılması ya da 2577 sayılı Kanun'un 11. maddesi uyarınca yapılacak başvuru üzerinde Kanun'da öngörülen sürecin işletilmesi suretiyle süresi içerisinde dava açılması gerektiğinden, bu süreler geçirildikten çok sonra 30/09/2019 tarihinde yapılan başvuru üzerine idarece verilen 08/11/2019 tarihli cevabın tebliği üzerine açılan davanın süre aşımı nedeniyle esasının incelenme olanağı bulunmamaktadır.\n\nÖte yandan; TEİAŞ 9. Bölge Müdürlüğünün 23/08/2019 tarihli yazısı ile sahada enerji nakil hatlarına 60 metre mesafede madencilik faaliyeti yapılmaması hususunda davacıya ihtarda bulunulduğu görülmekte ise de; söz konusu bildirimin yeni hukuki durum oluşturmadığı anlaşıldığından; anılan bildirimin, dava açma süresini canlandıracak yeni bir başvuru imkanı da oluşturmadığı açıktır.\n\nBu itibarla; görülmekte olan davada süre aşımı bulunduğundan davanın süre aşımı nedeniyle reddine karar verilmesi gerekirken işin esası yönünden hukuki değerlendirme yapılarak dava konusu işlemin iptali yolunda verilen Mahkeme kararına karşı yapılan istinaf başvurusunun reddine dair Bölge İdare Mahkemesi kararında usul hükümlerine uyarlık bulunmamaktadır.\n\nKARARIN SONUCU: 1. 2577 sayılı Kanun'un 49. maddesine uygun bulunan temyiz istemlerinin kabulüne, 2. Bölge İdare Mahkemesi İdari Dava Dairesinin kararının BOZULMASINA, 3. Kullanılmayan yürütmeyi durdurma harcının istemi hâlinde davalı yanında davaya müdahile iadesine, 4. Yeniden bir karar verilmek üzere dosyanın Bölge İdare Mahkemesi İdari Dava Dairesine gönderilmesine, 5. Kesin olarak 08/10/2025 tarihinde oybirliği ile karar verildi.",
+      "key_principles": [
+        "Süre aşımı halinde davanın esası incelenemez — dava şartı yokluğu",
+        "Yeni hukuki durum oluşturmayan bildirimler dava açma süresini canlandırmaz",
+        "İdari yargıda usul hükümlerine aykırılık bozma nedenidir",
+        "Kesin nitelikte temyiz kararı — oybirliği ile",
+        "Bozma sonrası dosyanın Bölge İdare Mahkemesine iadesi"
+      ],
+      "referenced_laws": [
+        "2577/11",
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay 8. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Bölge İdare Mahkemesi İdari Dava Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İdare Mahkemesi (ilk derece)",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/7",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/10",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/11",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/45/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/49",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/17/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3213/7/13",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1.md"
+}

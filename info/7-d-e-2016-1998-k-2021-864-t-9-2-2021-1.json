@@ -1,0 +1,286 @@
+{
+  "entities": {
+    "Karar": "Danıştay 7. D., E. 2016/1998 K. 2021/864 T. 9.2.2021",
+    "EsasNo": "2016/1998",
+    "KararNo": "2021/864",
+    "KararTarihi": "2021-02-09",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Yedinci Dairesi",
+    "MahkemeTuru": "danistay",
+    "Daire": "7. Daire",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, ilk derece mahkemesi kararı bozuldu",
+    "Davaci": "... Kimya İmalat Sanayi ve Ticaret Limited Şirketi",
+    "Davali": "... Vergi Dairesi Başkanlığı (... Vergi Dairesi Müdürlüğü)",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Belirtilmemiş (isim gizlenmiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "... Vergi Mahkemesi",
+      "esas_no": "Belirtilmemiş (gizlenmiş)",
+      "karar_no": "Belirtilmemiş (gizlenmiş)",
+      "tarih": "Belirtilmemiş (gizlenmiş)",
+      "sonuc": "Dava konusu ihtiyati haciz işlemi iptal edilmiştir; vergi incelemesi tamamlandıktan sonra ve teminat isteme süresi dolmadan ihtiyati haciz kararı alınamayacağı gerekçesiyle"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davalı Vergi Dairesi Başkanlığı tarafından; ihtiyati haciz kararı alınabilmesi için öncelikle teminat istenmesine gerek bulunmadığı, ihtiyati haczin Kanunda belirtilen sebeplerin bulunması halinde süre sınırı olmaksızın başvurulabilen bir yol olduğu ileri sürülerek ilk derece mahkemesi kararının bozulması istenilmiştir.",
+    "KararDuzeltme": "2577 sayılı Kanun'un (Geçici 8. maddesi uyarınca uygulanmasına devam edilen) 54. maddesinin 1. fıkrası uyarınca tebliğ tarihini izleyen günden itibaren onbeş gün içinde karar düzeltme yolu açık bırakılmıştır.",
+    "BozmaKarari": "Danıştay 7. Dairesi, vergi incelemesi tamamlandıktan sonra ve teminat isteme süresi dolmadan ihtiyati haciz kararı alınabileceğinden, ihtiyati haciz uygulanmasına ilişkin koşulların gerçekleşip gerçekleşmediği yönünden yargılama yapılması gerekirken işlemi iptal eden mahkeme kararında hukuka uyarlık bulunmadığına hükmederek bozma kararı vermiştir.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": "Karşı oy yazısında; çoğunluk kararının gerekçesine katılınmamış, ihtiyati haciz işleminin 13. maddenin 1. fıkrası dışındaki yasal koşullar yönünden incelenmesi gerektiği, eksik inceleme nedeniyle kararın bozulması gerektiği ancak bozma gerekçesinin farklı olması gerektiği savunulmuştur.",
+    "OyBirligi": false,
+    "OyCoklugu": true,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "6183 sayılı Kanun'un 13. maddesine göre, davacı şirketin 2009 yılı hesaplarının incelenmesi sırasında yapılan ilk hesaplara göre tespit edilen miktar üzerinden re'sen tarh edilecek özel tüketim vergileri ile kesilecek vergi zıyaı cezaları nedeniyle 18/02/2013 tarihli Başkanlık Olur'u ile uygulanan ihtiyati haciz işlemi",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Danıştay 7. Dairesi temyiz incelemesinde, 6183 sayılı Kanun'un 9. ve 13. maddeleri kapsamında ihtiyati haciz uygulamasının koşullarını değerlendirmiş; vergi incelemesi tamamlandıktan sonra dahi ihtiyati haciz kararı alınabileceğine hükmetmiş ve ilk derece kararını bozmuştur.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6183/9/1",
+      "6183/10/2",
+      "6183/13/1",
+      "6183/13/2",
+      "6183/13/3",
+      "6183/13/4",
+      "213/344",
+      "213/359",
+      "492/13",
+      "2577/54/1",
+      "2577/Geçici8"
+    ],
+    "AnaSuc": "İhtiyati haciz işleminin iptali (vergi hukuku - ihtiyati haciz)",
+    "HukukiKonu": "vergi hukuku / idare hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu İstem ve Yargılama Süreci",
+      "text": "Davacı şirketin 2009 yılı hesaplarının incelenmesi sırasında yapılan ilk hesaplara göre tespit edilen miktar üzerinden re'sen tarh edilecek özel tüketim vergileri ile kesilecek vergi zıyaı cezaları nedeniyle, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesine göre uygulanan ihtiyati haczin iptali istemiyle dava açılmıştır.\n\nTEMYİZ EDEN (DAVALI): .. Vergi Dairesi Başkanlığı (… Vergi Dairesi Müdürlüğü)\nVEKİLİ: Av. …\nKARŞI TARAF (DAVACI): … Kimya İmalat Sanayi ve Ticaret Limited Şirketi\nVEKİLİ: Av. …\nİSTEMİN KONUSU: ... Vergi Mahkemesinin … tarih ve E:…, K:… sayılı kararının temyizen incelenerek bozulması istenilmektedir.",
+      "key_principles": [
+        "İdari işlemin iptali davası açılabilmesi için menfaat ihlalinin bulunması gerekir",
+        "İhtiyati haciz bir idari işlem niteliği taşıdığından idare mahkemelerinde iptal davasına konu olabilir"
+      ],
+      "referenced_laws": [
+        "6183/13"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararının Özeti",
+      "text": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesinin 1. ve 3. fıkralarına göre, vergi incelemesinin devam ettiği durumlarda yapılan ilk hesaplamalara göre ihtiyati haciz kararı alınabileceği, bu madde uyarınca ilgililer hakkında ihtiyati haciz kararı alınabilmesi için incelemenin henüz tamamlanmamış olması gerektiği, uyuşmazlıkta ise, davacı adına düzenlenen vergi inceleme raporları 08/02/2013 tarihinde tamamlandıktan sonra 15/02/2013 tarihinde teminat istendiği, 18/02/2013 tarihli Başkanlık Olur'u ile ihtiyati haciz kararı alındığı, dolayısıyla, teminat isteme yazısının tebliğinden itibaren 15 gün beklenmeden ve vergi incelemesi tamamlandıktan sonra ihtiyati haciz kararı alınmasının mümkün bulunmadığı gerekçesiyle dava konusu işlem iptal edilmiştir.",
+      "key_principles": [
+        "6183 sayılı Kanun'un 13/1. maddesi kapsamında ihtiyati haciz kararı alınabilmesi için vergi incelemesinin henüz tamamlanmamış olması gerekir",
+        "Teminat isteme süresi dolmadan ihtiyati haciz kararı alınamaz"
+      ],
+      "referenced_laws": [
+        "6183/13/1",
+        "6183/13/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Temyiz Eden İddiaları ve Karşı Tarafın Savunması",
+      "text": "TEMYİZ EDENİN İDDİALARI: İhtiyati haciz kararı alınabilmesi için öncelikle teminat istenmesine gerek bulunmadığı, ihtiyati haczin Kanunda belirtilen sebeplerin bulunması halinde süre sınırı olmaksızın başvurulabilen bir yol olduğu ileri sürülmektedir.\n\nKARŞI TARAFIN SAVUNMASI: Savunma verilmemiştir.\n\nDANIŞTAY TETKİK HÂKİMİ … DÜŞÜNCESİ: Temyiz isteminin kabulü ile usul ve yasaya uygun olmayan kararın bozulması gerektiği düşünülmektedir.",
+      "key_principles": [
+        "İhtiyati haciz, Kanunda belirtilen sebeplerin varlığı halinde süre sınırı olmaksızın uygulanabilir",
+        "Teminat istenmesi ile ihtiyati haciz birbirinden bağımsız koruma önlemleridir"
+      ],
+      "referenced_laws": [
+        "6183/13"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "evidence_evaluation",
+      "title": "Maddi Olay ve İlgili Mevzuat",
+      "text": "MADDİ OLAY: Davacı hakkında 08/02/2013 tarihli vergi inceleme raporunun düzenlendiği, 15/02/2013 tarihinde teminat istenilmesine ilişkin işlemin tesis edildiği, 18/02/2013 tarihinde ise ihtiyati haciz olurunun alındığı, davacı tarafından tesis edilen işlemlerden haberdar olunması üzerine dava açıldığı anlaşılmıştır.\n\nİLGİLİ MEVZUAT: 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 9. maddesinin 1. fıkrasında, 213 sayılı Kanun'un 344. maddesi uyarınca vergi ziyaı cezası kesilmesini gerektiren haller ile 359. maddesinde sayılan hallere temas eden bir amme alacağının salınması için gerekli muamelelere başlanmış olduğu takdirde vergi incelemesine yetkili memurlarca yapılan ilk hesaplara göre belirtilen miktar üzerinden tahsil dairelerince teminat isteneceği; 10. maddesinin 2. fıkrasında, borç miktarının artması durumunda teminatın tamamlanması veya yerine başka teminat gösterilmesinin isteneceği, 13. maddesinin 1. fıkrasında, 9. madde gereğince teminat istenmesini mucip haller mevcut ise, 3. fıkrasında ise, borçlunun kaçmış olması veya kaçması, mallarını kaçırması ve hileli yollara sapması ihtimallerinin mevcudiyeti takdirinde ihtiyati haczin hiçbir müddetle mukayyet olmaksızın alacaklı amme idaresinin mahalli en büyük memurunun kararıyla, haczin ne suretle yapılacağına dair olan hükümlere göre derhal tatbik olunacağı hükme bağlanmıştır.",
+      "key_principles": [
+        "6183 sayılı Kanun'un 9. maddesi uyarınca teminat istenebilmesi için vergi incelemesine yetkili memurca ilk hesaplara göre belirlenen miktar esas alınır",
+        "İhtiyati haciz, borçlunun kaçması, mallarını kaçırması ve hileli yollara sapması ihtimali halinde de uygulanabilir",
+        "Teminat miktarı borç artışına paralel olarak tamamlatılabilir"
+      ],
+      "referenced_laws": [
+        "6183/9/1",
+        "6183/10/2",
+        "6183/13/1",
+        "6183/13/3",
+        "213/344",
+        "213/359"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Hukuki Değerlendirme",
+      "text": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un yukarıda hükmüne yer verilen 9. maddesine göre, vergi ziyaı cezası veya vergi kaçakçılığı cezasını gerektiren fiillerden birinin işlendiği kanaatine varılması halinde ilk hesaplara göre belirlenen miktar üzerinden teminat istenebilecektir. Kanun koyucu, madde metninde teminat istenebilmesi için gerekli olan koşulları belirtmiş olup, teminat istemenin zamanı hakkında sadece zamanın başlaması noktasında belirlemede bulunmuştur. Buna göre, vergi incelemesine yetkili memurca yapılan ilk hesaplara göre belirlenen miktar için teminat istenebilecektir. Madde metninde, bu hesaplamadan sonraki herhangi bir zamanda teminat istenemeyeceğine yönelik bir sınırlama yer almamaktadır. Nitekim, ilk belirlemelere göre istenebilen teminatın, hesaplamalar tamamlandıktan sonra daha gerçekçi miktarlar üzerinden istenebileceği açıktır. Anılan maddede, teminatın istenme zamanına yönelik bir sınırlama getirilmediği gibi, 6183 sayılı Kanun'un 10. maddesinin 2. fıkrasında borç miktarının artması durumunda teminatın tamamlanması veya yerine başka teminat gösterilmesinin isteneceği hususu düzenlenmiştir. Borç miktarının artması ise, kamu alacağının gerçek tutarının miktar itibarıyla tespiti halinde, diğer bir ifade ile tarh edilmesi sonucu ortaya çıkabilir. Buradan, kamu alacağının korunmasına yönelik tedbir mahiyetinde olan teminat isteme ve ihtiyati haciz müesseselerine, esasen alacağın var olduğu ve tahsili noktasında risk barındırdığı sürece başvurulabileceği sonucuna ulaşılmaktadır.\n\nBu bakımdan, 6183 sayılı Kanun'un birinci kısmının \"Amme Alacaklarının Korunması\" başlıklı ikinci bölümünde yer alan teminat istenilmesi, ihtiyati haciz ve ihtiyati tahakkuk müesseseleri, amme alacağının tahsil imkansızlığına karşı bir önlem olarak öngörülmüş olup, yukarıda izah edildiği gibi Kanun'da açıkça öngörülmeyen süre sınırlamasının uygulanması, anılan müesseselerin amacına ve bizatihi konuya ilişkin yer verilen yasal düzenlemelere aykırılık teşkil edecektir.\n\nÖte yandan, 6183 sayılı Kanun'un 13. maddesinde, 9. madde gereğince teminat istenmesini mucip hallerin varlığı halinde ihtiyati haciz tatbik edilebileceği hükme bağlanmış olup, teminat istenmesini gerekli kılan haller aynı zamanda ihtiyati haciz sebepleri arasında sayılmıştır. Teminat istenmesi ihtiyati hacizden ayrı bir korunma önlemi olarak düzenlendiğinden teminat istenmesini mucip hallerin varlığı halinde, teminat isteme süresi dolmadan ihtiyati haciz kararı alınmasına engel bulunmamaktadır.",
+      "key_principles": [
+        "6183 sayılı Kanun'da teminat istenmesinin zamanına ilişkin bir son sınır öngörülmemiştir; vergi incelemesi tamamlandıktan sonra da teminat istenebilir",
+        "Kamu alacağının korunmasına yönelik önlemlere, alacağın var olduğu ve tahsilinde risk bulunduğu sürece başvurulabilir",
+        "Kanun'da açıkça öngörülmeyen süre sınırlamalarının uygulanması hukuka aykırılık teşkil eder",
+        "Teminat istenmesi ile ihtiyati haciz birbirinden bağımsız koruma önlemleridir; teminat süresi dolmadan ihtiyati haciz kararı alınabilir",
+        "Amme alacaklarının korunması müesseseleri, tahsil imkansızlığına karşı alınan tedbirlerdir"
+      ],
+      "referenced_laws": [
+        "6183/9/1",
+        "6183/10/2",
+        "6183/13/1",
+        "6183/13/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Karar Sonucu",
+      "text": "Bu itibarla, vergi incelemesi tamamlandıktan sonra ve teminat isteme süresi dolmadan ihtiyati haciz kararı alınabileceğinden, dava konusu olayda, ihtiyati haciz uygulanmasına ilişkin koşulların gerçekleşip gerçekleşmediği yönünden yapılacak yargılama sonucuna göre karar verilmesi gerekirken; yukarıda yer verilen gerekçe ile dava konusu işlemi iptal eden mahkeme kararında hukuka uyarlık bulunmamıştır.\n\nAçıklanan nedenlerle;\n1. Temyiz isteminin kabulüne,\n2. ... Vergi Mahkemesinin … tarih ve E:…, K:.. sayılı kararının BOZULMASINA,\n3. Yeniden bir karar verilmek üzere dosyanın anılan Mahkemeye gönderilmesine,\n4. 492 sayılı Harçlar Kanunu'nun 13. maddesinin (j) bendi parantez içi hükmü uyarınca alınması gereken harç dahil olmak üzere, yargılama giderlerinin yeniden verilecek kararda karşılanması gerektiğine,\n5. 2577 sayılı Kanun'un (Geçici 8. maddesi uyarınca uygulanmasına devam edilen) 54. maddesinin 1. fıkrası uyarınca bu kararın tebliğ tarihini izleyen günden itibaren onbeş gün içinde karar düzeltme yolu açık olmak üzere, 09/02/2021 tarihinde oyçokluğuyla karar verildi.",
+      "key_principles": [
+        "Vergi incelemesi tamamlandıktan sonra da ihtiyati haciz kararı alınabilir",
+        "Teminat isteme süresi dolmadan ihtiyati haciz kararı alınabilir",
+        "İhtiyati haciz koşullarının gerçekleşip gerçekleşmediği esastan incelenmelidir",
+        "Kanun'da öngörülmeyen kısıtlamaların yargı yoluyla getirilmesi hukuka aykırıdır"
+      ],
+      "referenced_laws": [
+        "492/13",
+        "2577/54/1",
+        "2577/Geçici8"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "appellate_evaluation",
+      "title": "Karşı Oy Yazısı",
+      "text": "Temyiz istemi davacı şirketin 2009 yılı hesaplarının incelenmesi sırasında yapılan ilk hesaplara göre tespit edilen miktar üzerinden re'sen tarh edilecek özel tüketim vergileri ile kesilecek vergi zıyaı cezaları nedeniyle, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesine göre uygulanan ihtiyati haczi iptal eden mahkeme kararının bozulması istemine ilişkindir.\n\nMadde metninde belirtildiği üzere, vergi incelemesi başlandığı safhada vergi ziyaı cezalı bir tarhiyat yapılmasının vergi inceleme elemanınca öngörülmesi halinde, başka herhangi bir koşul bulunup bulunmadığına bakılmaksızın ilk hesaplara göre belirtilen miktar üzerinden tahsil dairesince teminat istenebilecektir. Bu hal dışında ise, tahsil dairesince teminat istenilmesi ancak amme borçlusunun durumunun amme alacağının tahsilinin tehlikede olduğunu göstermesine bağlı kılınmıştır.\n\nKanun koyucu vergi incelemesi başlangıcında henüz vergi ziyaına sebebiyet verilen olay nedeniyle kesin olarak hangi tutarda bir vergi kaybının bulunduğunun belli olmaması nedeniyle amme alacağının ihtiyaten güvence altına alınması amacıyla sıkı koşullar aramaksızın vergi incelemesine yetkili memurların belirlediği tutarlar üzerinden teminat istenilmesi hususunda tahsil dairesine yetki vermiştir. Vergi incelemesi sona erdikten sonra ise teminat istenilmesi ve ihtiyati haciz işlemleri 9. maddenin 1. fıkrası kapsamı dışına çıkmakta, 9/2. madde ve 13. maddede öngörülen koşullar çerçevesinde yasal dayanağına kavuşmaktadır.\n\nÇoğunluk kararında yer alan alacağın var olduğu ve tahsili konusunda risk barındırdığı sürece söz konusu tedbirlere başvurulabileceği yönündeki ifadeye iştirak etmekle birlikte söz konusu riskin varlığının 9. maddenin 1. fıkrası kapsamında ortada sadece vergi ziyaı cezalı bir tarhiyatın bulunması koşuluna bağlı kılınması ihtiyati haciz sebepleri yönünden sınırsız bir alan yaratmakta ve 13. maddenin 1. fıkrası dışındaki diğer fıkralarının uygulamada işlevsiz bırakılması sonucunu getirmektedir. Bu halde alacaklı amme idaresinin borçlunun durumunun amme alacağının tahsilinin tehlikede olduğunu gösterip göstermediğini ayrıca değerlendirmesine hacet olmadan adına vergi ziyaı cezalı tarhiyat olan herhangi bir mükelleften -durumu, ikametgahı ve mal varlığı itibarıyla tahsilat bakımından risk göstermese dahi- teminat istenilmesi suretiyle ihtiyati haciz yoluna başvurması olanaklı hale gelmektedir.\n\nBununla birlikte, teminat istenilmesi üzerine tesis edilen ihtiyati haciz işlemlerinin belirtilen fıkra dışındaki yasal koşullarının olayda oluşup oluşmadığının irdelenmesi, mükellefin durumu, tavır, davranış ve eylemleri, cezalı tarhiyatın nedenini teşkil eden fiilleri itibarıyla amme alacağının tahsilinin tehlikede olup olmadığının belirlenerek uyuşmazlığın çözümlenmesi gerekmektedir.\n\nDava konusu olayda, davacı hakkında düzenlenen vergi inceleme raporunda, satın almış olduğu baz yağı imalat faaliyetlerinde kullanmaksızın akaryakıt olarak kullanılmak üzere satışını gerçekleştirdiği, bununla birlikte defter ve belgelerinde imalat yaptığını kanıtlamak amacı ile sahte ve muhteviyatı itibarıyla yanıltıcı belge düzenlediği tespitlerinde bulunularak adına 3 kat vergi ziyaı cezalı tarhiyat yapıldığı ve 6183 sayılı Kanun'un 1-3. maddeleri uyarınca ihtiyati haciz işleminin tesis edildiği anlaşılmaktadır.\n\nMahkemece vergi incelemesinin tamamlanmasından sonra 9. maddenin 1. fıkrası uyarınca teminat istenilmesi üzerine ihtiyati haczin tesis edilmesi hukuka aykırı bulunarak işlemin iptaline karar verilmişse de, 13/1-3. madde uyarınca tesis edildiği anlaşılan ihtiyati haciz işleminin yukarıda belirtilen diğer yasal koşullar yönünden incelenmediği anlaşıldığından, eksik inceleme sonucu verilen kararın bozulması gerektiği oyu ile Daire kararına gerekçe yönünden katılmıyorum.",
+      "key_principles": [
+        "Vergi incelemesi tamamlandıktan sonra teminat istenmesi ve ihtiyati haciz işlemleri 6183/9/1 kapsamı dışına çıkar",
+        "Vergi incelemesi sona erdikten sonra ihtiyati haciz işlemleri 6183/9/2 ve 13. madde koşullarına tabi olur",
+        "Yalnızca vergi ziyaı cezalı tarhiyatın bulunması, 13/1 fıkrası kapsamında sınırsız ihtiyati haciz yetkisi vermez",
+        "İhtiyati haciz kararında mükellefin durumu, mal varlığı ve tahsilat riski değerlendirilmelidir",
+        "Eksik inceleme halinde karar bozulmalı, ancak esastan yeniden inceleme yapılmalıdır"
+      ],
+      "referenced_laws": [
+        "6183/9/1",
+        "6183/9/2",
+        "6183/13/1",
+        "6183/13/2",
+        "6183/13/3",
+        "6183/13/4"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay 7. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... Vergi Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/9/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/10/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/13/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/13/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/344",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/359",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "492/13",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/54/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "vergi hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1.md"
+}

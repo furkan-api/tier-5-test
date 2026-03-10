@@ -1,0 +1,259 @@
+{
+  "entities": {
+    "Karar": "Danıştay 8. D., E. 2022/2365 K. 2025/7392 T. 8.10.2025",
+    "EsasNo": "2022/2365",
+    "KararNo": "2025/7392",
+    "KararTarihi": "2025-10-08",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Sekizinci Dairesi",
+    "MahkemeTuru": "danistay",
+    "Daire": "8. Daire",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "temyiz incelemesi tamamlandı, bozma kararı verildi",
+    "Davaci": "... Madencilik San. ve Tic. A.Ş.",
+    "Davali": "... Müdürlüğü",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Danıştay Tetkik Hâkimi (isim belirtilmemiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "... İdare Mahkemesi",
+      "esas_no": "belirtilmemiş",
+      "karar_no": "belirtilmemiş",
+      "tarih": "belirtilmemiş",
+      "sonuc": "dava konusu işlemin iptali"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalı idare",
+      "mahkeme": "... Bölge İdare Mahkemesi ... İdari Dava Dairesi",
+      "esas_no": "belirtilmemiş",
+      "karar_no": "belirtilmemiş",
+      "sonuc": "istinaf başvurusunun reddi"
+    },
+    "TemyizBasvurusu": "Davalı idare tarafından, ruhsat süresi sonuna kadar 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmadığına dair belgenin verilmemesi nedeniyle ruhsat bitim tarihi itibarıyla dava konusu ruhsatın iptal edildiği, işlemin hukuka ve mevzuata uygun olduğu ileri sürülmektedir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Bölge İdare Mahkemesi kararı bozulmuş, dosya yeniden karar verilmek üzere Bölge İdare Mahkemesi İdari Dava Dairesine gönderilmiştir.",
+    "KesinHukum": true,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "Maden ve Petrol İşleri Genel Müdürlüğü tarafından davacı şirketin II-(a) grubu maden işletme ruhsatının 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcu bulunmadığına dair belge sunulmaması gerekçesiyle iptal edilmesi",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Danıştay 8. Dairesi, 2577 sayılı Kanun'un 49. maddesi uyarınca temyiz istemini kabul ederek Bölge İdare Mahkemesi kararını bozmuştur.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "3213/24",
+      "3213/13",
+      "6183/22A",
+      "2577/45",
+      "2577/49",
+      "7257/2",
+      "7257/3"
+    ],
+    "AnaSuc": "maden işletme ruhsatının iptali - idari işlemin iptali talebi",
+    "HukukiKonu": "idare hukuku, maden hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu İstem ve Yargılama Süreci",
+      "text": "İSTEMİN KONUSU: ... Bölge İdare Mahkemesi... İdari Dava Dairesinin... gün ve E:..., K:... sayılı kararının, temyizen incelenerek bozulması istenilmektedir.\n\nDava konusu istem: Davacı şirket tarafından, Konya ili, Selçuklu ilçesi sınırları dahilinde ve uhdesinde bulunan S... sayılı II-(a) grubu maden işletme ruhsatının iptal edilmesine ilişkin ... tarih ve E.-... sayılı Maden ve Petrol İşleri Genel Müdürlüğü işleminin iptali istenilmiştir.",
+      "key_principles": [
+        "İdari işlemin iptali davası",
+        "Maden işletme ruhsatının iptali"
+      ],
+      "referenced_laws": [
+        "2577/45",
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve Bölge İdare Mahkemesi Kararlarının Özeti",
+      "text": "İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen... tarih ve E:..., K:... sayılı kararda; her ne kadar davacı şirketin temdit talebinde bulunduğu tarih olan 13/08/2020 tarihi itibarıyla temdit talebinin kabulü için aranan şartlar arasında 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcun bulunmaması aranmakta ise de 25/11/2020 tarihli ve 7257 sayılı Kanun'un 2 ve 3 üncü maddeleriyle 3213 sayılı Maden Kanunu'nun sırasıyla 13'üncü maddesinin 4'üncü fıkrasında ve 24'üncü maddesinin 2'inci fıkrasında yapılan değişiklikten sonra temdit taleplerinin kabulü için 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmaması şartının kaldırıldığı görüldüğünden, kanunların derhal uygulanması ilkesi gereği dava konusu işlemin tesis edildiği tarihte yürürlükte olan halinde temdit talebinin kabulü için 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcun bulunmaması şartı aranmadığından, dava konusu işlemin tesis edildiği tarihteki mevzuat hükümleri uygulanarak işlem tesis edilmesi gerekirken eski mevzuat uyarınca aranan şartı davacının sağlamadığından bahisle işletme ruhsatının iptal edilmesine ilişkin dava konusu işlemde hukuka uyarlık bulunmadığı gerekçesi ile dava konusu işlemin iptaline karar verilmiştir.\n\nBölge İdare Mahkemesi kararının özeti: İstinaf başvurusuna konu kararın hukuka ve usule uygun olduğu ileri sürülen iddiaların söz konusu kararın kaldırılmasını sağlayacak nitelikte görülmediği belirtilerek 2577 sayılı İdari Yargılama Usulü Kanunu'nun 45. maddesinin 3. fıkrası uyarınca istinaf başvurusunun reddine karar verilmiştir.",
+      "key_principles": [
+        "Kanunların derhal uygulanması ilkesi",
+        "Lehe kanun uygulaması",
+        "İstinaf başvurusunun reddi"
+      ],
+      "referenced_laws": [
+        "6183/22A",
+        "3213/13",
+        "3213/24",
+        "7257/2",
+        "7257/3",
+        "2577/45"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Temyiz Eden ve Karşı Tarafın İddiaları",
+      "text": "TEMYİZ EDENİN İDDİALARI: Davalı idare tarafından, ruhsat süresi sonuna kadar 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmadığına dair belgenin verilmemesi nedeniyle ruhsat bitim tarihi olan 14/02/2021 tarihi itibarıyla dava konusu ruhsatın iptal edildiği, işlemin hukuka ve mevzuata uygun olduğu ileri sürülmektedir.\n\nKARŞI TARAFIN SAVUNMASI: Davacı tarafından, istemin reddi gerektiği savunulmuştur.\n\nDANIŞTAY TETKİK HÂKİMİ ...'İN DÜŞÜNCESİ: Temyiz isteminin kabulü ile Bölge İdare Mahkemesi kararının bozulması gerektiği düşünülmektedir.",
+      "key_principles": [
+        "İdari işlemin hukuka uygunluğu",
+        "Temyiz incelemesi"
+      ],
+      "referenced_laws": [
+        "6183/22A"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "evidence_evaluation",
+      "title": "Maddi Olay ve İlgili Mevzuat",
+      "text": "MADDİ OLAY:\n\nKonya ili, Selçuklu ilçesi sınırları dahilinde bulunan S... sayılı II-(a) grubu maden işletme ruhsatlı sahası için davacı adına 14/02/2011 tarihinde 10 süreli işletme ruhsatı düzenlenmiştir.\n\nDavalı idarenin 17/08/2020 tarihli yazısı ile davacı tarafından 13/08/2020 tarihinde davalı idareye süre uzatım istemli dilekçe ile başvuru yapıldığı ancak başvuru dilekçesi ekinde 6183 sayılı Kanun'un 27/A maddesi kapsamında iadesi geçmiş borcunun bulunmadığına dair belgenin sunulmadığı ruhsatın bitim tarihi olan 14/02/2021 tarihine kadar 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmadığına dair belgenin Genel Müdürlüğe tevdi edilmemesi halinde ruhsatın bitim tarihi olan 14/02/2021 tarihi itibariyle iptal edileceği bildirilmiştir.\n\nDaha sonra davalı idarenin ... tarih ve E.-... sayılı işlemi ile ise temdit talep aşamasında ruhsat süresi sonuna kadar 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmadığına dair belgenin verilmemesi nedeniyle işletme ruhsatı 14/02/2021 tarihi itibarıyla iptal edilmiştir. Bunun üzerine bakılan dava açılmıştır.",
+      "key_principles": [
+        "İdari işlemin tesis edilme koşulları",
+        "Süre uzatım başvurusu şartları",
+        "Belge ibrazı yükümlülüğü"
+      ],
+      "referenced_laws": [
+        "6183/22A",
+        "3213/24"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "İlgili Mevzuat ve Hukuki Değerlendirme",
+      "text": "İLGİLİ MEVZUAT:\n\n3213 sayılı Maden Kanunu'nun 'İşletme ruhsatı ve madenin işletilmesi' başlıklı 24. maddesinin 2. fıkrasında; 'Ruhsatların süre uzatım taleplerinde; ruhsat süresinin bitiş tarihinden en geç on iki ay öncesine kadar (...) Genel Müdürlüğün bütçesine gelir kaydedilmek üzere işletme ruhsat taban bedeli yatırılarak, yetkilendirilmiş tüzel kişilerce maden mühendisinin sorumluluğunda hazırlanmış işletme projesi ve aktif edilmiş tebligata esas kayıtlı elektronik posta adresinin (KEP) veya kurumsal elektronik tebligat sistemi (e-Tebligat) adresinin ruhsat sahibi tarafından Genel Müdürlüğe verilmesi zorunludur. (Değişik cümle:25/11/2020-7257/3 md.) Bu yükümlülüğe uymayan ruhsat sahiplerine 100.000 Türk lirası idari para cezası uygulanır ve ruhsat süresinin bitiş tarihinden en geç altı ay öncesine kadar da belirtilen yükümlülükleri yerine getirmeyen ruhsat sahiplerinin talepleri reddedilerek ruhsatları süresi sonunda iptal edilerek ilgili saha ihalelik saha konumuna getirilerek ihale yolu ile ruhsatlandırılır...' hükmü, ek fıkrasında da '(Ek fıkra:25/11/2020-7257/3 md.) Bu madde ile 13 üncü madde kapsamında maden arama ve işletme ruhsatlarının verilmesi, birleştirilmesi, sürelerinin uzatılması, devir ve intikalleri ile çevreyle uyum bedeli iadelerine ilişkin müracaatlarda 6183 sayılı Kanunun 22/A maddesi kapsamında vadesi geçmiş borcun bulunmaması şartı aranır.' hükmü yer almaktadır.\n\nHUKUKİ DEĞERLENDİRME:\n\nUyuşmazlıkta, idarece davacının Konya ili sınırları içinde bulunan maden işletme ruhsatının süresinin uzatılması istemiyle yapılan başvuru ekinde sunulan 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcu bulunmadığına ilişkin belgenin bulunmadığının tespit edildiğinden bahisle temdit talebinin reddi ile ruhsatın süre bitim tarihi itibarıyla iptaline karar verilmiştir.\n\n3213 sayılı Maden Kanunu'nun 24. maddesinin ikinci fıkrasında 25/11/2020 tarihli ve 7257 sayılı Kanun'un 3 üncü maddesiyle yapılan değişiklik ile bu fıkrada yer alan '6183 sayılı Kanunun 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmaması şartıyla' ibaresi madde metninden çıkarılsa da, aynı Kanun değişikliği ile 'bu madde ile 13 üncü madde kapsamında maden ve işletme ruhsatlarının, verilmesi, birleştirilmesi, sürelerin uzatılması, devir ve intikalleri ... 6183 sayılı Kanunun 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmaması şartı aranır.' ibaresinin eklendiği görülmekle Maden Kanunu'nun 24. maddesi gereği, ruhsat süresinin bitiş tarihinden en geç altı ay öncesine kadar, 6183 sayılı Kanun'un 22/A maddesi kapsamında vadesi geçmiş borcunun bulunmaması şartının devam ettirildiği açıktır.\n\nBu durumda davacı tarafından maden işletme süresi sona ermeden önce 6183 sayılı Kanun'un 22/A maddesi kapsamında vergi borcu bulunmadığına ilişkin belgenin idareye sunulmadığı görüldüğünden davacının temdit talebinin reddi ile ruhsatının iptaline ilişkin dava konusu işlemde hukuka aykırılık bulunmamıştır.",
+      "key_principles": [
+        "Kanun değişikliğinin yorumu",
+        "Ek fıkra ile devam eden vergi borcu yokluğu şartı",
+        "İdari işlemin hukuka uygunluğunun denetimi",
+        "Ruhsat iptalinin şartları",
+        "Kanunların sistematik yorumu"
+      ],
+      "referenced_laws": [
+        "3213/24",
+        "3213/13",
+        "6183/22A",
+        "7257/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Karar Sonucu",
+      "text": "KARAR SONUCU:\n\nAçıklanan nedenlerle;\n\n1. 2577 sayılı Kanun'un 49. maddesine uygun bulunan temyiz isteminin kabulüne,\n\n2. ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... gün ve E:... K:... sayılı kararının BOZULMASINA,\n\n3. Yeniden bir karar verilmek üzere dosyanın yukarıda belirtilen Bölge İdare Mahkemesi İdari Dava Dairesine gönderilmesine,\n\n4. Kesin olarak 08/10/2025 tarihinde oybirliği ile karar verildi.",
+      "key_principles": [
+        "Temyiz incelemesi sonucu bozma",
+        "Yeniden yargılama için dosyanın iadesi",
+        "Kesinlik",
+        "Oybirliği ile karar"
+      ],
+      "referenced_laws": [
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3213/24",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3213/13",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/22A",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/45",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/49",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "7257/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "7257/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... İdare Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... Bölge İdare Mahkemesi İdari Dava Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay 8. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "8-d-e-2022-2365-k-2025-7392-t-8-10-2025-1.md"
+}

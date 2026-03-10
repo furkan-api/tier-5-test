@@ -1,0 +1,244 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 3. HD., E. 2025/2561 K. 2025/5952 T. 8.12.2025",
+    "EsasNo": "2025/2561",
+    "KararNo": "2025/5952",
+    "KararTarihi": "2025-12-08",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 3. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "3. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "temyiz incelemesi tamamlandı",
+    "Davaci": "Gayrimenkul alıcısı (tüketici)",
+    "Davali": "Davalı inşaat/gayrimenkul şirketi",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Ankara 2. Tüketici Mahkemesi",
+      "esas_no": "2023/493",
+      "karar_no": "2024/446",
+      "tarih": "2024-01-01",
+      "sonuc": "Davanın reddi — sözleşmenin geçersiz olduğu tespit edildiğinden kira tazminatına hak kazanılması mümkün değil"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davacı vekili",
+      "mahkeme": "Ankara Bölge Adliye Mahkemesi 3. Hukuk Dairesi",
+      "esas_no": "2025/173",
+      "karar_no": "2025/787",
+      "sonuc": "Davacı vekilinin istinaf başvurusunun esastan reddi"
+    },
+    "TemyizBasvurusu": "Davacı vekili, taleplerinin sözleşmeden dönme değil geç teslim kaynaklı kira kaybı tazminatına ilişkin olduğunu, müspet zarar niteliğindeki kira kaybı alacağının tahsiline gidilebileceğini ileri sürerek kararın bozulmasını istemiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6100/370/1",
+      "6098/179/2",
+      "6100/165"
+    ],
+    "AnaSuc": "geç teslim kaynaklı kira tazminatı — sözleşmeden dönme sonrası cezai şart talebi",
+    "HukukiKonu": "özel hukuk — tüketici hukuku — borçlar hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Taraflar",
+      "text": "Davacı vekili; müvekkili ile davalı şirket arasında 18.10.2014 tarihinde gayrimenkul alım sözleşmesi akdedildiğini, sözleşmenin 8.maddesinde satışa konu bağımsız bölümün 30.04.2016 tarihinden itibaren 2 ay içinde tesliminin kararlaştırıldığını, sözleşmenin 10. maddesi uyarınca, \"satıcı tarafından konutun taahhüt edilen zamanda teslim edilmemesi durumunda takip eden ay sonundan itibaren satım konusu gayrimenkulun emsaline ve rayice uygun aylık kira getirisi gecikilen her ay için alıcıya gecikme cezası olarak ödenecektir.\" düzenlemesinin bulunduğunu, davalının herhangi bir mücbir sebep olmamasına rağmen konutu zamanında teslim etmediğini, müvekkili tarafından kira bedelinin ödenmesi için davalıya 09.08.2016 tarihinde ihtarname keşide edildiğini, satışa rağmen tapunun müvekkili adına devredilmemesi nedeni ile tapu iptal ve tescil davası açıldığını ve Ankara 1. Tüketici Mahkemesinin 13.09.2018 tarihli kararı ile müvekkilinin ödemiş olduğu paranın iadesine karar verildiğini, ancak, henüz bir ödeme olmadığını belirterek; fazlaya ilişkin hakları saklı kalmak kaydı ile rayiç kira getirisinin tespiti ile şimdilik 13.000,00 TL'nin davalının temerrüde düştüğü 11.08.2016 tarihinden itibaren hesaplanacak avans faizi ile birlikte davalıdan tahsilini talep etmiş; 28.03.2022 tarihli ıslah dilekçesi ile talebini fazlaya ilişkin hakları saklı kalmak üzere 39.989,62 TL'ye yükseltmiştir.",
+      "key_principles": [
+        "Gayrimenkul satış sözleşmesinde teslim yükümlülüğü",
+        "Gecikme cezası (cezai şart) düzenlemesi",
+        "Temerrüde düşme ve ihtarname",
+        "Mücbir sebep savunması"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "Ankara 1. Tüketici Mahkemesi 13.09.2018"
+      ]
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Davalı Cevabı",
+      "text": "Davalı vekili; davacının Ankara 1. Tüketici Mahkemesinin 2017/238 Esas sayılı dosyası ile sözleşmeden dönerek sözleşme bedeli olan 320.000,00 TL'nin ödeme tarihlerinden itibaren mevduata uygulanan en yüksek faiz ile davalıdan alınıp davacıya verilmesine karar verildiğini, ifaya bağlı gecikme cezasının, sözleşmenin feshi halinde istenemeyeceğini, davacının seçimlik haklarından sözleşmenin feshini talep ettiğini savunarak, davanın reddini istemiştir.",
+      "key_principles": [
+        "Sözleşmeden dönme halinde ifaya bağlı cezai şartın istenemeyeceği",
+        "Seçimlik haklar — fesih veya ifa",
+        "Cezai şartın sözleşmenin ayakta olması koşuluna bağlılığı"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "Ankara 1. Tüketici Mahkemesi 2017/238 E."
+      ]
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararları ve İstinaf Süreci",
+      "text": "1. İlk Derece Mahkemesinin 07.06.2022 tarihli kararıyla; alınan bilirkişi raporu doğrultusunda, davacının talebinin öncelikle taşınmazın kendi adına tescili olduğu, dolayısıyla sözleşmenin ayakta kalmasını istediği, son çare olarak ödediği bedelin kendisine iadesi cihetine gidilmesine bir nevi rıza gösterdiği, dolayısıyla TBK'nın 179/2. maddesi anlamında ifaya eklenen bir ceza koşulundan bahsedilebileceği, müspet zarar niteliğindeki kira kaybı alacağının tahsiline gidebileceği gerekçesiyle, davanın kabulüne, 39.989,62 TL'nin 11.08.2016 tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsiline karar verilmiş; karara karşı, süresi içinde davalı vekilince istinaf başvurusunda bulunulması üzerine, Bölge Adliye Mahkemesinin 08.11.2023 tarihli kararıyla; Ankara 1. Tüketici Mahkemesinin 2017/238 E., 2018/298 K. sayılı dosyasının kesinleşmesinin HMK'nun 165. maddesi de gözetilerek bekletici mesele yapılması, söz konusu sözleşmenin feshi ve satış bedelinin ödenmesine ilişkin hükmün kesinleşmesi halinde ise; davacı sözleşmeyi fesh etmekle, artık aynı sözleşmeye dayanarak davalıdan geç teslim iddiası ile kira tazminatını isteyemeyeceğinden, talebin reddine karar verilmesi gerektiği gözetilmeden, eksik inceleme ile karar verilmesinde isabet görülmediği gerekçesiyle, davalı vekilinin istinaf başvurusunun kabulü ile İlk Derece mahkemesi kararının kaldırılmasına, dosyanın İlk Derece Mahkemesine gönderilmesine karar verilmiştir.\n2. İlk Derece Mahkemesinin ilam başlığında tarih ve sayısı belirtilen kararıyla; Ankara 1. Tüketici Mahkemesinin 2017/238 E., ve 2018/298 K. sayılı ilamıyla, sözleşmenin geçersiz olduğundan bahisle tapu iptali ve tescil talebinin reddine ve bedelin tüketiciye iadesine karar verildiği, kararın 19.03.2024 tarihinde kesinleştiği, bu nedenle eldeki davada sözleşmenin geçersiz olduğunun tespit edildiği, davacının kira tazminatına hak kazanmasının mümkün olmayacağı gerekçesiyle, davanın reddine karar verilmiş; karara karşı, süresi içinde davacı vekili istinaf isteminde bulunmuştur.",
+      "key_principles": [
+        "TBK 179/2 — ifaya eklenen ceza koşulu",
+        "Müspet zarar ve kira kaybı alacağı",
+        "Bekletici mesele — HMK 165",
+        "Sözleşmenin feshi halinde ifaya bağlı cezai şart istenemez",
+        "Eksik inceleme yasağı"
+      ],
+      "referenced_laws": [
+        "6098/179/2",
+        "6100/165"
+      ],
+      "referenced_decisions": [
+        "Ankara 1. Tüketici Mahkemesi 2017/238 E., 2018/298 K."
+      ]
+    },
+    {
+      "order": 4,
+      "type": "appellate_evaluation",
+      "title": "İstinaf Değerlendirmesi (BAM Kararı)",
+      "text": "Bölge Adliye Mahkemesinin ilam başlığında tarih ve sayısı belirtilen kararıyla; davacının Ankara 1. Tüketici Mahkemesine 08.06.2017 tarihinde açmış olduğu 2017/238 Esas sayılı dava ile sözleşmeden dönme iradesini ortaya koyduğu, bu tarih itibariyle sözleşmeyi fesh etmekle, artık aynı sözleşmeye dayanarak davalıdan geç teslim iddiası ile kira tazminatını isteyemeyeceği, Mahkemece verilen kararda isabetsizlik bulunmadığı gerekçesiyle, davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiş; karara karşı, süresi içinde davacı vekili temyiz isteminde bulunmuştur.",
+      "key_principles": [
+        "Sözleşmeden dönme iradesinin dava açılmasıyla ortaya konulması",
+        "Fesih sonrası aynı sözleşmeye dayalı tazminat istenemez",
+        "İstinaf başvurusunun esastan reddi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "Ankara 1. Tüketici Mahkemesi 2017/238 E."
+      ]
+    },
+    {
+      "order": 5,
+      "type": "cassation_grounds",
+      "title": "Temyiz Sebepleri",
+      "text": "Davacı vekili; taleplerinin gayrimenkul satış sözleşmesine ilişkin konut tesliminin gerçekleştirilmemesi sebebiyle, tapu iptal davasının sonuçlandığı tarihe kadar olan zararın davalı şirketten tahsili istemine ilişkin olduğunu, müvekkilinin iradesinin hiçbir zaman sözleşmeden dönmek olmadığını, müspet zarar niteliğindeki kira kaybı alacağının tahsiline gidilebileceğini ileri sürerek; kararın bozulmasını istemiştir.",
+      "key_principles": [
+        "Müspet zarar — kira kaybı alacağı talebi",
+        "Sözleşmeden dönme iradesinin varlığının yorumu",
+        "Tapu iptal davası sonuçlanana kadar geçen süredeki zararın tazmini"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Hukuki Değerlendirme",
+      "text": "Uyuşmazlık, sözleşmeye konu taşınmazın geç teslimden kaynaklı kira tazminatı istemine ilişkindir.\nTemyiz olunan kararda belirtilen gerekçeye, davacı tarafından sözleşmenin feshi ve satış bedelinin ödenmesine ilişkin açılan davada hükmün kesinleşmesi ile sözleşmeden dönme iradesini ortaya koyduğu, bu tarih itibariyle sözleşmeyi fesh etmekle, artık aynı sözleşmeye dayanarak davalıdan geç teslim iddiası ile kira tazminatını isteyemeyeceğinin anlaşılmasına göre, davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar verilmiştir.",
+      "key_principles": [
+        "Sözleşmeden dönme sonrası aynı sözleşmeye dayalı ifaya bağlı cezai şart istenemez",
+        "Sözleşmeden dönme iradesinin kesinleşen dava ile ortaya konulması",
+        "Geç teslim kaynaklı kira tazminatının sözleşmenin geçerliliğine bağlılığı",
+        "Usul ve kanuna uygunluk"
+      ],
+      "referenced_laws": [
+        "6100/370/1"
+      ],
+      "referenced_decisions": [
+        "Ankara 1. Tüketici Mahkemesi 2017/238 E., 2018/298 K."
+      ]
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan sebeple;\nTemyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 370/1 maddesi uyarınca ONANMASINA,\nDosyanın İlk Derece Mahkemesine, kararın bir örneğinin Bölge Adliye Mahkemesine gönderilmesine,\n08.12.2025 tarihinde oybirliğiyle karar verildi.",
+      "key_principles": [
+        "HMK 370/1 uyarınca onama",
+        "Oybirliğiyle karar"
+      ],
+      "referenced_laws": [
+        "6100/370/1"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/370/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/179/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/165",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Ankara 2. Tüketici Mahkemesi 2023/493 E., 2024/446 K.",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Ankara Bölge Adliye Mahkemesi 3. Hukuk Dairesi 2025/173 E., 2025/787 K.",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 3. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "özel hukuk",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Ankara 1. Tüketici Mahkemesi 2017/238 E., 2018/298 K.",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    }
+  ],
+  "source_file": "3-hukuk-dairesi-e-2025-2561-k-2025-5952-t-8-12-2025-1.md"
+}

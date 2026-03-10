@@ -1,0 +1,214 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 10. CD., E. 2024/6367 K. 2026/362 T. 15.1.2026",
+    "EsasNo": "2024/6367",
+    "KararNo": "2026/362",
+    "KararTarihi": "2026-01-15",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 10. Ceza Dairesi",
+    "MahkemeTuru": "yargitay_ceza",
+    "Daire": "10. Ceza Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, hükümler onanarak kesinleşti",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "Birden fazla sanık (isimleri kararda gizlenmiş)",
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": "Yargıtay Cumhuriyet Başsavcılığı",
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Cizre 1. Ağır Ceza Mahkemesi",
+      "esas_no": null,
+      "karar_no": null,
+      "tarih": null,
+      "sonuc": "Sanıkların uyuşturucu madde ticareti yapma suçundan ayrı ayrı mahkûmiyetine karar verilmiştir"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Sanıklar müdafileri",
+      "mahkeme": "Diyarbakır Bölge Adliye Mahkemesi 3. Ceza Dairesi",
+      "esas_no": "2023/1",
+      "karar_no": "2024/550",
+      "sonuc": "Hükümlerdeki hukuka aykırılıklar düzeltilerek istinaf başvurularının esastan reddine karar verilmiştir"
+    },
+    "TemyizBasvurusu": "Sanık müdafileri; eylemlerin sabit olmadığı ve beraat kararı verilmesi gerektiği, etkin pişmanlık hükümlerinin uygulanması gerektiği, temel cezalar belirlenirken alt sınırdan uzaklaşılmasının hukuka aykırı olduğu gerekçeleriyle temyiz başvurusunda bulunmuşlardır.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": "Uyuşturucu madde ticareti yapma suçundan kovuşturma",
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": "Tutukluluk",
+    "TutuklamaTedbiri": "Sanıklardan en az biri tutuklu; salıverilme talebi reddedilmiştir",
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": {
+      "suc": "Uyuşturucu madde ticareti yapma",
+      "ceza": "Hapis cezası (miktarı kararda belirtilmemiş)",
+      "sure": "Alt sınır aşılarak belirlenen hapis cezası"
+    },
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": "Hapis cezası (TCK 188/3, 188/4-a, b kapsamında, alt sınır aşılarak)",
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5237/188/3",
+      "5237/188/4",
+      "5271/289/1",
+      "5271/302/1",
+      "5271/304/1"
+    ],
+    "AnaSuc": "Uyuşturucu madde ticareti yapma",
+    "HukukiKonu": "Ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Özeti ve Hukuki Süreç",
+      "text": "Sanıklar hakkında kurulan hükümlerin, yapılan ön inceleme neticesinde temyiz edilebilir olduğu, temyiz edenlerin hükümleri temyize hak ve yetkilerinin bulunduğu, temyiz istemlerinin süresinde olduğu, temyiz dilekçelerinde temyiz sebeplerine yer verildiği, temyiz istemlerinin reddini gerektirir bir durumun bulunmadığı tespit edilmekle, gereği düşünüldü:\n\nI. HUKUKİ SÜREÇ\n\nA. Cizre 1. Ağır Ceza Mahkemesince sanıkların uyuşturucu madde ticareti yapma suçundan ayrı ayrı mahkûmiyetlerine karar verilmiştir.\n\nB. Diyarbakır Bölge Adliye Mahkemesi 3. Ceza Dairesinin yukarıda belirtilen kararı ile sanıklar hakkında İlk Derece Mahkemesince kurulan ve re'sen de istinafa tabi olan hükümlerdeki hukuka aykırılıklar düzeltilerek istinaf başvurularının esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "Temyiz incelemesinin ön koşulları",
+        "Temyiz hak ve yetkisi",
+        "Temyiz süresine uygunluk",
+        "İstinaf denetiminde hukuka aykırılıkların re'sen düzeltilmesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "Diyarbakır BAM 3. Ceza Dairesi, 2023/1 E., 2024/550 K."
+      ]
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Temyiz Sebepleri",
+      "text": "II. TEMYİZ SEBEPLERİ\n\nA. Sanık ... müdafiinin temyiz sebepleri özetle;\n\n1. Eylemin sabit olmadığına, suçun manevi unsuru oluşmadığına, beraat kararı verilmesi gerektiğine,\n\n2. Etkin pişmanlık hükümlerinin uygulanması gerektiğine,\n\n3. Temel cezalar belirlenirken alt sınırdan uzaklaşılmasının hukuka aykırı olduğuna,\n\nİlişkindir.\n\nB. Sanık ... müdafiinin temyiz sebepleri özetle;\n\n1. Eylemlerin sabit olmadığına, beraat kararı verilmesi gerektiğine,\n\n2. Temel cezalar belirlenirken alt sınırdan uzaklaşılmasının hukuka aykırı olduğuna,\n\nİlişkindir.",
+      "key_principles": [
+        "Suçun manevi unsuru",
+        "Etkin pişmanlık hükümlerinin uygulanması",
+        "Temel ceza belirlenirken alt sınırdan uzaklaşma gerekçesi",
+        "Beraat kararı için suçun sübutu gereği"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Mahkemenin Hukuki Değerlendirmesi",
+      "text": "III. GEREKÇE\n\nİlk Derece Mahkemesinin ve Bölge Adliye Mahkemesinin, sanıkların eylemlerinin ayrı ayrı sübutuna ve vasfına, delillerin değerlendirilmesine ve hukuka uygun olarak toplandığına, sanıklar hakkında temel cezaların alt sınır aşılarak belirlenmesine, 5237 sayılı TCK'nın 188/3 (2. Cümle), 188/4-a, b maddelerinin uygulanmasına, etkin pişmanlık indirimi yapılmamasına; sanık ... hakkında zincirleme suç hükümlerinin uygulanmasına ilişkin takdirlerinde bir isabetsizlik bulunmadığı anlaşılmakla sanıklar müdafilerinin temyiz sebepleri yerinde görülmemiş; hükümlerde açıklanan gerekçeler, tüm dosya kapsamına göre usul ve yasaya uygun bulunarak, hükümlerde hukuka aykırılık tespit edilmemiştir.",
+      "key_principles": [
+        "Delillerin hukuka uygun toplanması ve değerlendirilmesi",
+        "Alt sınırdan uzaklaşma takdir yetkisi",
+        "Etkin pişmanlık hükümlerinin uygulanma koşulları",
+        "Zincirleme suç hükümlerinin uygulanması",
+        "TCK 188/3 ve 188/4-a,b kapsamında uyuşturucu madde ticareti",
+        "Temyiz incelemesinde takdir hakkı denetimi"
+      ],
+      "referenced_laws": [
+        "5237/188/3",
+        "5237/188/4"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "conclusion_and_judgment",
+      "title": "Karar",
+      "text": "IV. KARAR\n\nGerekçe bölümünde açıklanan nedenlerle, Diyarbakır Bölge Adliye Mahkemesi 3. Ceza Dairesi kararında sanıklar müdafileri tarafından öne sürülen temyiz sebepleri ve 5271 sayılı CMK'nın 289/1. maddesi ile sınırlı olarak yapılan temyiz incelemesi sonucunda hukuka aykırılık görülmediğinden; aynı Kanun'un 302/1. maddesi gereği, Tebliğname'ye uygun olarak, oy birliğiyle TEMYİZ İSTEMLERİNİN ESASTAN REDDİ İLE HÜKÜMLERİN ONANMASINA,\n\nHükmolunan ceza miktarı ile tutuklu kalınan süre dikkate alınarak sanık ... hakkındaki salıverilme talebinin REDDİNE,\n\nDava dosyasının, 5271 sayılı CMK'nın 304/1. maddesi uyarınca Cizre 1. Ağır Ceza Mahkemesine, Yargıtay ilâmının bir örneğinin ise Diyarbakır Bölge Adliye Mahkemesi 3. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE,\n\n15.01.2026 tarihinde karar verildi.",
+      "key_principles": [
+        "Temyiz incelemesinin CMK 289/1 sınırlılığı",
+        "Oybirliği ile onama",
+        "Salıverilme talebinin değerlendirilmesinde ceza miktarı ve tutukluluk süresi",
+        "CMK 302/1 kapsamında onama kararı",
+        "CMK 304/1 kapsamında dosyanın ilk derece mahkemesine iadesi"
+      ],
+      "referenced_laws": [
+        "5271/289/1",
+        "5271/302/1",
+        "5271/304/1"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/188/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/188/4",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/289/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/302/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/304/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Cizre 1. Ağır Ceza Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Diyarbakır Bölge Adliye Mahkemesi 3. Ceza Dairesi, 2023/1 E., 2024/550 K.",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 10. Ceza Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1.md"
+}

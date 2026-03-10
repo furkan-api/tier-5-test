@@ -1,0 +1,218 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 9. HD., E. 2016/26476 K. 2020/7547",
+    "EsasNo": "2016/26476",
+    "KararNo": "2020/7547",
+    "KararTarihi": "2020-09-14",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 9. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "9. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, onama kararı verildi",
+    "Davaci": "İşçi",
+    "Davali": "İşverenler (birden fazla davalı)",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Belirtilmemiş",
+    "IlkDereceKarari": {
+      "mahkeme": "İş Mahkemesi",
+      "esas_no": null,
+      "karar_no": null,
+      "tarih": null,
+      "sonuc": "Davacı lehine karar verildiği anlaşılmaktadır"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davalılar vekili, iş mahkemesinin kararını temyiz etmiştir",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Belirsiz alacak davasında hukuki yarar dava şartı; kıdem tazminatı belirlenebilir olduğundan belirsiz alacak davasına konu edilemez ancak bozma nedeni yapılmamıştır",
+    "Mevzuat": [
+      "6100/107",
+      "6100/107/1",
+      "6100/107/2",
+      "1086"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "iş hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Temyiz Talebi",
+      "text": "MAHKEMESİ: İş Mahkemesi\n\nTaraflar arasında görülen dava sonucunda verilen kararın, temyizen incelenmesi davalılar vekilince istenilmekle, temyiz taleplerinin süresinde olduğu anlaşıldı. Dava dosyası için Tetkik Hakimi ... tarafından düzenlenen rapor dinlendikten sonra dosya incelendi, gereği konuşulup düşünüldü.\n\nSomut uyuşmazlıkta, davacı tarafça kıdem tazminatı, fazla çalışma, fazla çalışma alacağının %5 fazlası, hafta tatili, ulusal bayram ve genel tatil alacakları talep edilerek belirsiz alacak davası açılmıştır.",
+      "key_principles": [
+        "Temyiz taleplerinin süresinde yapılması zorunluluğu",
+        "Belirsiz alacak davası kapsamında birden fazla işçilik alacağı talep edilebilir"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "legal_evaluation",
+      "title": "Belirsiz Alacak Davası - Yasal Düzenleme ve Genel Esaslar",
+      "text": "01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Kanunu'nun 107. maddesiyle, mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nda yer almayan yeni bir dava türü olarak belirsiz alacak ve tespit davası kabul edilmiştir.\n\n6100 sayılı Kanunun 107. maddesinin 1. fıkrasına göre, \"Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir\".\n\n6100 sayılı Kanunun 107. maddenin 2. fıkrasında, karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacının, iddianın genişletilmesi yasağına tâbi olmaksızın davanın başında belirtmiş olduğu talebini artırabileceği hüküm altına alınmış, madde gerekçesinde de \"karşı tarafın verdiği bilgiler ve sunduğu delillerle ya da delillerin incelenmesi ve tahkikat işlemleri sonucu (örneğin bilirkişi ya da keşif incelemesi sonucu)\" belirlenebilme hali açıklanmıştır.",
+      "key_principles": [
+        "Belirsiz alacak davası 6100 sayılı HMK ile getirilen yeni bir dava türüdür",
+        "Alacağın miktarı belirlenemiyor veya belirlenmesi imkânsızsa belirsiz alacak davası açılabilir",
+        "Tahkikat sonucunda alacak belirlenince talep iddianın genişletilmesi yasağına tabi olmaksızın artırılabilir"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "6100/107/1",
+        "6100/107/2",
+        "1086"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Belirsizlik Ölçütleri ve Objektif İmkânsızlık",
+      "text": "Davanın belirsiz alacak davası şeklinde açılabilmesi için, davanın açıldığı tarih itibariyle uyuşmazlığa konu alacağın miktar veya değerinin tam ve kesin olarak davacı tarafça belirlenememesi gereklidir. Belirleyememe hali, davacının gerekli dikkat ve özeni göstermesine rağmen miktar veya değerin belirlenmesinin kendisinden gerçekten beklenilmemesi durumuna ya da objektif olarak imkânsızlığa dayanmalıdır. Davacının alacağının miktar veya değerini belirleyebilmesi için elinde bulunması gerekli bilgi ve belgelere sahip olmaması ve bu belgelere dava açma hazırlığı döneminde ulaşmasının da (gerçekten) mümkün olmaması ve dolayısıyla alacağın miktarının belirlenmesinin karşı tarafın elinde bulunan bilgi ve belgelerin sunulmasıyla mümkün hale geleceği durumlarda alacak belirsiz kabul edilmelidir. Alacağın miktarının belirlenebilmesinin hâkimin takdirine bağlı olduğu durumlarda hukuki imkânsızlık söz konusu olur. Bu durumda davacı alacaklı, hâkimin takdir yetkisini nasıl kullanacağını bilemeyeceği için davanın açıldığı tarihte alacağının miktarını belirleyebilecek durumda değildir.\n\nSırf taraflar arasında alacak miktarı bakımından uyuşmazlık bulunması, talep sonucunun belirlenmesinin davacıdan beklenemeyecek olması anlamına gelmez. Önemli olan objektif olarak talep sonucunun belirlenmesinin davacıdan beklenemeyecek olmasıdır.",
+      "key_principles": [
+        "Belirsizlik subjektif değil objektif temele dayanmalıdır",
+        "Davacının gerekli dikkat ve özeni göstermesine rağmen belirleyememesi gerekir",
+        "Taraflar arasında uyuşmazlık bulunması tek başına belirsizlik ölçütü değildir",
+        "Hâkimin takdir yetkisine bağlı alacaklar hukuki imkânsızlık kapsamında belirsiz sayılır"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "İş Hukukunda Belirsiz Alacak Davası ve Dava Şartı Yokluğu",
+      "text": "Alacağın hangi hallerde belirsiz, hangi hallerde belirli veya belirlenebilir olduğu hususunda kesin bir sınıflandırma yapılması mümkün olmayıp, her bir davaya konu alacak bakımından somut olayın özelliklerinin nazara alınarak sonuca gidilmesi gereklidir. İş yargılamasında sıklıkla davaların yığılması söz konusu olmakla alacağın belirsiz olma kriterleri her bir talep için ayrı ayrı değerlendirilmelidir. Diğer yandan, aynı dava dilekçesinde talep yığılması şeklinde bazı alacaklar için belirsiz alacak davası bazıları için kısmi dava açılmasına yasal bir engel bulunmamaktadır.\n\nKıdem tazminatı, ihbar tazminatı, yıllık izin ücreti ve ücret alacakları işçi tarafından bilinmekle kural olarak belirsiz alacak davasına konu edilmez. Ancak hesabın unsurları olan sosyal hakların (ayni olarak sağlanan yemek yardımı gibi) miktarının belirlenmesi işveren tarafından sunulacak belgelere veya yargılama ile belirlenecek ise kıdem ve ihbar tazminatı belirsiz alacak davasına konu edilebilir.\n\nMadde gerekçesinde \"Alacaklının bu tür bir dava açması için, dava açacağı miktar ya da değeri tam ve kesin olarak gerçekten belirlemesi mümkün olmamalı ya da bu objektif olarak imkânsız olmalıdır. Açılacak davanın miktarı biliniyor yahut tespit edilebiliyorsa, böyle bir dava açılamaz. Çünkü, her davada arandığı gibi, burada da hukukî yarar aranacaktır, böyle bir durumda hukukî yararın bulunduğundan söz edilemez...\" şeklindeki açıklamayla, alacağın belirli veya belirlenebilir nitelikte olması durumunda, belirsiz alacak davası açılarak bu davanın sağladığı imkânlardan yararlanmanın mümkün olmadığına işaret edilmiştir. Şu halde davanın açıldığı tarihte alacağın miktarı yahut değeri belirlenebilir durumda ise, dava şartı yokluğundan davanın usulden reddine karar verilmelidir. Burada hukuki yarar eksikliğinin tamamlanabilir dava şartı olmadığı sonucuna varılmıştır.",
+      "key_principles": [
+        "Her alacak kalemi için belirsizlik ayrı ayrı değerlendirilmelidir",
+        "Kıdem, ihbar, yıllık izin ve ücret alacakları kural olarak belirsiz alacak davasına konu edilemez",
+        "Sosyal hakların hesapta kullanılması durumunda bu alacaklar belirsiz sayılabilir",
+        "Belirlenebilir alacak için belirsiz alacak davası açılırsa hukuki yarar yokluğundan usulden red kararı verilmelidir",
+        "Hukuki yarar eksikliği tamamlanabilir dava şartı değildir"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "7251 Sayılı Kanun Değişikliği ve Daireler Arası Uygulama Birliği",
+      "text": "7251 sayılı Kanun ile 107. maddede yapılan değişiklikler şartları olmadığı halde açılan belirsiz alacak davasında davacıya süre verilerek hukuki yarar eksikliğini tamamlama imkânı tanımamaktadır. Dairemizce sözü edilen düzenleme, şartları mevcut olan belirsiz alacak davasında yapılan yargılama ile alacağın belirli hale gelmesi durumunda hâkimin geçici talep sonucunu kesin talep sonucuna dönüştürmesi için alacaklıya süre vermesi gerektiği yönünde değerlendirilmiştir.\n\nYargıtay 9.Hukuk Dairesi tarafından daha önce verilen kararlarda hukuki yarar yokluğu sebebiyle dava şartı yokluğuna bağlı davanın reddi kararları verilmediğinden aynı Dairenin görev alanındaki bölgelerden gelen dosyalarda birleşme öncesi uygulamalarına güven duyularak açılan davalarda aynı Dairenin önceki uygulamalarına devam edilecektir.\n\nHukuki belirlilik ve öngörülebilirlik ilkeleri ve sürpriz karar verme yasağı gereği birleşme tarihinden önce yukarıda belirtilen esasları dikkate alan ilk kararın Yargıtay Kararları Dergisi veya başkaca yolla yayını tarihinden sonra açılan davalarda belirtilen ilkeler uygulanacaktır. Başka bir anlatımla açıklanan kararın yayınından önce açılan davalarda her iki Daire görev alanına giren bölgelerde verilen kararlar bakımından Yargıtay 9. Hukuk Dairesi ile Yargıtay 22. Hukuk Dairesinin önceki uygulamalarına devam edilecektir.",
+      "key_principles": [
+        "7251 sayılı Kanun değişikliği şartsız belirsiz alacak davasında süre verilmesine imkân tanımaz",
+        "Hukuki belirlilik ve öngörülebilirlik ilkeleri esas alınır",
+        "Sürpriz karar verme yasağı uygulanır",
+        "Daire birleşmesi öncesi uygulamalara güven duyularak açılan davalarda önceki içtihada devam edilir"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Somut uyuşmazlıkta, davacı tarafça kıdem tazminatı, fazla çalışma, fazla çalışma alacağının %5 fazlası, hafta tatili, ulusal bayram ve genel tatil alacakları talep edilerek belirsiz alacak davası açılmıştır. Davanın açıldığı tarihte kıdem tazminatı miktarı belirlenebilir olduğundan belirsiz alacak davasına konu edilmez. Ancak yukarıda açıklandığı üzere Yargıtay 9.Hukuk Dairesi tarafından daha önce verilen kararlarda hukuki yarar yokluğu sebebiyle dava şartı yokluğuna bağlı davanın reddi kararları verilmediğinden Dairenin görüşüne güvenilerek belirsiz alacak şeklinde açılan bu davada belirtilen husus bozma nedeni yapılmamıştır.\n\nDosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve delillerin takdirinde bir isabetsizlik görülmemesine göre, davalılar vekilinin yerinde görülmeyen bütün temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı temyiz giderinin temyiz edenlere yükletilmesine, 14/09/2020 tarihinde oybirliği ile karar verildi.",
+      "key_principles": [
+        "Kıdem tazminatı belirlenebilir olduğundan belirsiz alacak davasına konu edilemez",
+        "Önceki Daire içtihadına güvenerek açılan davalarda bozma yoluna gidilmez",
+        "Temyiz itirazlarının tamamı reddedilerek usul ve kanuna uygun hüküm onanır",
+        "Temyiz giderleri temyiz eden tarafa yüklenir"
+      ],
+      "referenced_laws": [
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 9. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/107",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/107/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/107/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İş Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    }
+  ],
+  "source_file": "9. Hukuk Dairesi 2016_26476 E. , 2020_7547 K..md"
+}

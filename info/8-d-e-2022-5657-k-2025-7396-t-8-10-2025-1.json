@@ -1,0 +1,294 @@
+{
+  "entities": {
+    "Karar": "Danıştay 8. D., E. 2022/5657 K. 2025/7396 T. 8.10.2025",
+    "EsasNo": "2022/5657",
+    "KararNo": "2025/7396",
+    "KararTarihi": "2025-10-08",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Sekizinci Dairesi",
+    "MahkemeTuru": "danistay",
+    "Daire": "8. Daire",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "temyiz incelemesi tamamlandı",
+    "Davaci": "Balıkesir ili Havran ilçesi köyünde ikamet eden gerçek kişi",
+    "Davali": "İlgili Müdürlük",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Danıştay Tetkik Hâkimi (isim belirtilmemiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "İdare Mahkemesi",
+      "esas_no": "belirtilmemiş",
+      "karar_no": "belirtilmemiş",
+      "tarih": "belirtilmemiş",
+      "sonuc": "Davanın reddi - işletme ruhsatı ve işletme izninde hukuka aykırılık bulunmadığı"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davacı",
+      "mahkeme": "Bölge İdare Mahkemesi İdari Dava Dairesi",
+      "esas_no": "belirtilmemiş",
+      "karar_no": "belirtilmemiş",
+      "sonuc": "2577 sayılı Kanunun 45. maddesinin 3. fıkrası uyarınca istinaf başvurusunun reddi"
+    },
+    "TemyizBasvurusu": "Davacı tarafından; zeytinlik alanına yakın mesafede faaliyet yürütüldüğü, zeytin yasasına aykırılık bulunduğu, çevreye ve insan sağlığına zarar verildiği, keşif yapılmaksızın karar verildiği, kamu yararı bulunmadığı ileri sürülerek Bölge İdare Mahkemesi kararının bozulması istenilmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Eksik inceleme ve araştırmaya dayanılarak davanın reddi yönündeki İdare Mahkemesi kararına yönelik istinaf isteminin reddine ilişkin Bölge İdare Mahkemesi kararı bozulmuş; keşif ve bilirkişi incelemesi yapılarak zeytinlik alanına mesafe ve 3573 sayılı Kanun kapsamında değerlendirme yapılması amacıyla dosya geri gönderilmiştir.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "Balıkesir ili Havran ilçesinde müdahil şirket uhdesindeki II(a) grubu kalker mıcır maden işletme ruhsatı ve işletme izninin düzenlenmesi; ruhsatın 3213 sayılı Kanunun 24/11. maddesi uyarınca iptal edilmesinin ardından mahkeme kararlarına istinaden yeniden yürürlüğe alınması",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Danıştay 8. Dairesi, Bölge İdare Mahkemesinin istinaf başvurusunu reddeden kararını, eksik inceleme gerekçesiyle bozmuştur. Zeytinlik alanına mesafe, 3573 sayılı Kanun kapsamında değerlendirme ve bilirkişi incelemesi yapılmadan karar verilmesi hukuka aykırı bulunmuştur.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "3213/24",
+      "3213/24/11",
+      "3213/7",
+      "3573/20",
+      "3573/20/1",
+      "2577/31",
+      "2577/45",
+      "2577/45/3",
+      "2577/49",
+      "6100/266"
+    ],
+    "AnaSuc": "Maden işletme ruhsatı ve işletme izninin iptali - zeytinlik alanına yakın madencilik faaliyeti",
+    "HukukiKonu": "idare hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Yargılama Süreci Özeti",
+      "text": "Balıkesir ili, Havran ilçesi, köyünde ikamet etmekte olan davacı tarafından anılan mahalde bulunan İnş. ve Tic. Ltd. Şti uhdesindeki ruhsat alanına ilişkin yürürlüğe giriş tarihli ve bitiş tarihli II-a Grubu İşletme Ruhsatı ile İşletme İzninin iptali istenilmiştir. Maden Sahasında sonlandırılan faaliyetlerin yeniden başlaması üzerine davacı tarafından 18/04/2019 tarihinde Balıkesir valiliği yatırım izleme ve koordinasyon başkanlığına başvuru yapılarak müdahil şirkete çalışma ruhsatı ve izni verilip verilmediğinin sorulması üzerine gönderilen belgeler sonrasında, 08/07/2018 yürürlüğe giriş tarihli ve 08/07/2023 bitiş tarihli işletme ruhsatı ve izninin iptali istemiyle bakılan dava açılmıştır.",
+      "key_principles": [
+        "Maden işletme ruhsatı ve izninin iptali istemiyle idari dava açılabilir",
+        "Zeytinlik sahalarına yakın madencilik faaliyetleri idari denetim konusudur"
+      ],
+      "referenced_laws": [
+        "3213/24",
+        "3213/7",
+        "3573/20"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve Bölge İdare Mahkemesi Kararlarının Özeti",
+      "text": "İlk Derece Mahkemesi kararının özeti: İdare Mahkemesince verilen kararda; dava konusu edilen Ruhsat No.lu II(a) Grubu Kalker (mıcır) İşletmesine ait işletme ruhsatının usulüne uygun olarak düzenlenip düzenlenmediği hususunda değerlendirme yapılarak; 08/07/2008 tarihinde yürürlüğe giren davalı yanında müdahil şirket uhdesinde bulunan II (a) grubu İşletme Ruhsatının izni Maden İşleri Genel Müdürlüğünün işlemi ile yeniden yürürlüğe alındığının anlaşıldığı, 3213 sayılı Maden Kanunu uyarınca, düzenlenmesi ÇED belgesine de bağlı olmayan ve alınması gerekli izinler alındıktan ve yasal işlemler tamamlandıktan sonra usulüne uygun şekilde düzenlenen işletme ruhsatında hukuka aykırılık olmadığı, işletme izni verilmesinde de ÇED Olumlu Kararı ile Maden Kanununun ilgili maddeleri gereği izinlerin alınarak şartların sağlandığı görüldüğünden dava konusu işletme izni yönünden de hukuka aykırılık bulunmadığı gerekçesi ile davanın reddine karar verilmiştir. Bölge İdare Mahkemesi kararının özeti: İstinaf başvurusuna konu kararın hukuka ve usule uygun olduğu ileri sürülen iddiaların söz konusu kararın kaldırılmasını sağlayacak nitelikte görülmediği belirtilerek 2577 sayılı İdari Yargılama Usulü Kanununun 45. maddesinin 3. fıkrası uyarınca istinaf başvurusunun reddine karar verilmiştir.",
+      "key_principles": [
+        "ÇED belgesi alınmış ve yasal izinler tamamlanmış ise işletme ruhsatında hukuka aykırılık bulunmaz",
+        "İstinaf mahkemesi hukuka ve usule uygun bulunan ilk derece kararını 2577/45-3 uyarınca reddedebilir"
+      ],
+      "referenced_laws": [
+        "3213/24",
+        "2577/45",
+        "2577/45/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Temyiz Eden Davacının İddiaları ve Karşı Tarafın Savunması",
+      "text": "TEMYİZ EDENİN İDDİALARI: Davacı tarafından, tüm işletme izinlerinin verildiği 23/12/1994 tarih ve 6471/800 sayılı Çevresel Etkileri Önemsizdir kararı verilen 62.023 m² alanın muhtelif kısımları için idarece verilen izinlerin zeytin yasasının hükümlerine aykırı bulunarak iptal edildiği, çevre koşullarında farklılık bulunmamasına rağmen alanın idarece yeniden ruhsatlandırıldığı, faaliyetin zeytin yasasına aykırılığının yanı sıra insan sağlığına, çevreye, zeytinciliğe, ormanlara, bitkilere, yer altı sularına zarar verdiği, uzun dönemde bölgede kuraklığa neden olacağı, Mahkemece keşif yapılmaksızın karar verildiği, maden ve işletme sahasına çok yakın mesafede ikamet ettiği, yapılan patlamaların gürültüleri, kırıcı delici iş makinelerinin mütemadiyen çıkardığı periyodik sesler, sürdürülen madencilik faaliyetleri sonucu oluşan toz ve gürültülerden zarar gördüğü, bu faaliyetler nedeniyle sağlıklı bir çevrede yaşam hakkının engellendiği, yapılan faaliyette kamu yararının olmadığı ileri sürülmektedir. KARŞI TARAFIN SAVUNMASI: Davalı yanında müdahil tarafından, istemin reddi gerektiği savunulmuştur. Davalı tarafından savunma dilekçesi verilmemiştir.",
+      "key_principles": [
+        "Zeytinlik alanına 3 km mesafede zararlı tesis kurulamaz",
+        "Keşif ve bilirkişi incelemesi yapılmadan teknik davalarda karar verilemez",
+        "Sağlıklı çevrede yaşam hakkı anayasal güvence altındadır"
+      ],
+      "referenced_laws": [
+        "3573/20"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "İlgili Mevzuat Değerlendirmesi",
+      "text": "3213 sayılı Maden Kanununda İşletme Ruhsatı işletme faaliyetlerinin yürütülebilmesi için verilen yetki belgesi olarak; İşletme İzni bir madenin işletmeye alınabilmesi için izin olarak tanımlanmıştır. Aynı Kanunun 24. maddesinin on birinci fıkrasında ise, 7 nci maddeye göre gerekli izinlerin alınmasından itibaren işletme izni verilir. Ruhsat sahibince, işletme ruhsatı yürürlük tarihinden itibaren üç yıl içinde 7 nci maddeye göre alınması gerekli olan çevresel etki değerlendirme kararı, mülkiyet izni, işyeri açma ve çalışma ruhsatı ile Genel Müdürlüğün kayıtlarına işlenmiş alanlar ile ilgili izinlerin Genel Müdürlüğe verilmesini müteakip işletme izni düzenlenir. Süresi içinde yükümlülükleri yerine getirilmeyen ruhsatlar için her yıl 50.000 TL idari para cezası verilir. 3573 sayılı Zeytinciliğin Islahı ve Yabanilerinin Aşılattırılması Hakkında Kanunun 20/1. maddesinde Zeytinlik sahaları içinde ve bu sahalara en az 3 kilometre mesafede zeytinyağı fabrikası hariç zeytinliklerin vegatatif ve generatif gelişmesine mani olacak kimyevi atık bırakan, toz ve duman çıkaran tesis yapılamaz ve işletilemez hükmü yer almaktadır. 2577 sayılı İdari Yargılama Usulü Kanununun 31. maddesinde bilirkişi ve keşif konusunda Hukuk Usulü Muhakemeleri Kanunu hükümlerinin uygulanacağı düzenlenmiş; 6100 sayılı Hukuk Muhakemeleri Kanununun 266. maddesinde ise mahkemenin çözümü hukuk dışında özel veya teknik bilgiyi gerektiren hallerde bilirkişinin oy ve görüşünün alınmasına karar vereceği kurala bağlanmıştır.",
+      "key_principles": [
+        "Maden işletme ruhsatı üretim yapılabilmesi için tek başına yeterli değildir; ayrıca işletme izni gerekmektedir",
+        "3573 sayılı Kanunun 20. maddesi gerekli tedbirler alınmış olsa dahi zeytinlik sahalarına 3 km mesafede zararlı tesis kurulmasını yasaklar",
+        "Teknik bilgi gerektiren davalarda bilirkişi incelemesi zorunludur"
+      ],
+      "referenced_laws": [
+        "3213/24",
+        "3213/24/11",
+        "3213/7",
+        "3573/20",
+        "3573/20/1",
+        "2577/31",
+        "6100/266"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "appellate_evaluation",
+      "title": "Danıştay Hukuki Değerlendirmesi - Eksik İnceleme",
+      "text": "3213 sayılı Kanun çerçevesinde maden üretim faaliyetlerinde bulunulabilmesi için ilgililer tarafından önce maden işletme ruhsatının alınması gerektiği, ancak maden işletme ruhsatının maden üretimi yapılabilmesi için yeterli olmadığı, ilgililerin maden işletme izni olmadan üretim yapamayacakları, maden işletme izninin alınabilmesi için de maden işletme ruhsatının alınmasından sonra 3213 sayılı Kanunun 7. maddesi kapsamında alınması gerekli izinlerin ve bu kapsamda ÇED Gerekli Değildir veya ÇED Olumlu belgelerinin alınması gerektiği anlaşılmaktadır. Zeytinlik alanlarında yürütülecek faaliyetlere ilişkin olarak öncelikle dikkate alınması gereken düzenlemenin 3573 sayılı Kanun hükümleri olduğuna kuşku bulunmamaktadır. Anılan Kanunun 20. maddesinin amacının, gerekli tedbirler alınmış olsa bile, zeytinlik sahalarında ve bu sahalara 3 kilometre mesafede zeytinyağı fabrikaları ile küçük ölçekli tarımsal sanayi işletmeleri hariç kimyevi atık bırakan, toz ve duman çıkaran ya da sayılan olumsuz sonuçlara yol açma ihtimali bulunan tesislerin yapılmasını ve işletilmesini önlemek olduğu açıktır. Dosya kapsamındaki bilgi ve belgelerin incelenmesinden, dava konusu sahanın sınır komşusu olan maden sahasına ilişkin yapılan incelemede tesisin doğusu, kuzeyi ve batısında zeytinliklerin bulunduğu, zeytin bahçeleri ile sınır komşusu olduğu, tesisin zeytinliklere doğu yönünde en yakın 190 metre, kuzey yönünde en yakın 429 metre, batı yönünde ise en yakın 373 metre mesafede olduğu ifadesi bulunduğu, sahanın zeytinliklere en yakın yerleşim yerine konut bağ ve bahçe gibi mülklerin dava konusu sahaya mesafesinin ne olduğuna ilişkin başkaca açıklayıcı bir bilgi ve belgenin bulunmadığı anlaşılmaktadır. Müdahil uhdesindeki II (a) grubu maden işletme ruhsatının iptali istemiyle açılan davada, işlemin mevzuata uygun olarak tesis edilip edilmediği hususu ile işletme izni döneminde değerlendirilmesi gerekli durumların işletme ruhsatına etkisinin ne olacağı hususunun da açıklığa kavuşturulması gerektiği kuşkusuzdur. Mahkemenin bu hususları keşif ve bilirkişi incelemesi yapmak suretiyle aydınlatması, sahadaki durumun işletme ruhsatının iptalini gerektirip gerektirmediği hakkında değerlendirme yaparak bir karar vermesi gerekirken dosyada mevcut bilgi ve belgelere göre karar verilmesinde hukuki isabet bulunmadığı sonucuna varılmıştır.",
+      "key_principles": [
+        "Zeytinlik sahasına 3 km mesafe içinde kalan maden işletmelerinde 3573/20 kapsamında değerlendirme yapılması zorunludur",
+        "Keşif ve bilirkişi incelemesi yapılmadan teknik mesele çözülemez",
+        "Eksik incelemeye dayalı karar bozma sebebidir"
+      ],
+      "referenced_laws": [
+        "3213/7",
+        "3213/24/11",
+        "3573/20",
+        "6100/266",
+        "2577/31"
+      ],
+      "referenced_decisions": [
+        "E:2020/5785 K:2020/10788",
+        "E:2021/15445 K:2022/3619"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Karar Sonucu - Bozma",
+      "text": "Bu itibarla, eksik inceleme ve araştırmaya dayanılarak davanın reddi yönündeki İdare Mahkemesi kararına yönelik istinaf isteminin reddine ilişkin temyize konu Bölge Mahkemesi kararında hukuka uygunluk bulunmamaktadır. Açıklanan nedenlerle; 1. 2577 sayılı Kanunun 49. maddesine uygun bulunan temyiz isteminin kabulüne, 2. Bölge İdare Mahkemesi İdari Dava Dairesinin kararının BOZULMASINA, 4. Yeniden bir karar verilmek üzere dosyanın yukarıda belirtilen Bölge İdare Mahkemesi İdari Dava Dairesine gönderilmesine, 5. Kesin olarak 08/10/2025 tarihinde oybirliği ile karar verildi.",
+      "key_principles": [
+        "Eksik inceleme ve araştırmaya dayalı karar bozma sebebidir",
+        "Keşif ve bilirkişi incelemesi yapılması zorunlu olan davalarda bu yola başvurulmadan hüküm kurulamaz",
+        "Bölge İdare Mahkemesi ilk derece kararındaki eksiklikleri denetlemek zorundadır"
+      ],
+      "referenced_laws": [
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay 8. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Bölge İdare Mahkemesi İdari Dava Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Danıştay 8. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3213/24",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3213/24/11",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3213/7",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3573/20",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3573/20/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/31",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/45",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/49",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/266",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "E:2020/5785 K:2020/10788",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "E:2021/15445 K:2022/3619",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "8-d-e-2022-5657-k-2025-7396-t-8-10-2025-1.md"
+}

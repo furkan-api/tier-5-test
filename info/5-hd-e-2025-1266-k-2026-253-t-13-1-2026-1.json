@@ -1,0 +1,261 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 5. HD., E. 2025/1266 K. 2026/253 T. 13.1.2026",
+    "EsasNo": "2025/1266",
+    "KararNo": "2026/253",
+    "KararTarihi": "2026-01-13",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 5. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "5. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Kısmen bozma kararı verildi",
+    "Davaci": "K1 ve diğerleri",
+    "Davali": "A1 Belediye Başkanlığı ve Karayolları Genel Müdürlüğü",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "İstanbul Anadolu 22. Asliye Hukuk Mahkemesi",
+      "esas_no": "2022/391",
+      "karar_no": "2023/34",
+      "tarih": "2023-01-19",
+      "sonuc": "Davanın davalı A1 Belediye Başkanlığı yönünden husumet yokluğu nedeniyle reddine, davalı Karayolları Genel Müdürlüğü yönünden kabulüne"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalı Karayolları Genel Müdürlüğü vekili",
+      "mahkeme": "Bölge Adliye Mahkemesi",
+      "esas_no": "2023/800",
+      "karar_no": "2023/2030",
+      "sonuc": "İstinaf başvurusunun esastan reddine"
+    },
+    "TemyizBasvurusu": "Davalı Karayolları Genel Müdürlüğü vekili; belirlenen metrekare birim bedelinin yüksek olduğunu, el atma tarihindeki niteliğe göre değerlendirme yapılması gerektiğini, emsallerin uygun olmadığını ileri sürerek temyiz yoluna başvurmuştur.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "K13 davacısı yönünden kamulaştırma işleminin kesinleştiği ve hak düşürücü süre içinde dava açılmadığından davanın reddi gerektiği; 2.360 m²lik bölüm yönünden 221 sayılı Kanun kapsamı araştırması yapılmaksızın eksik incelemeyle hüküm kurulması nedeniyle İlk Derece Mahkemesi kararı bozulmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "KISMI_BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": "Davalı A1 Belediye Başkanlığı yönünden husumet yokluğu nedeniyle ret",
+    "DavaSarti": "Kesinlik sınırı — bazı davacılar yönünden temyiz miktarı 238.730,00 TL kesinlik sınırının altında kaldığından temyiz dilekçesi reddedilmiştir.",
+    "Mevzuat": [
+      "6100/362",
+      "6100/366",
+      "6100/352/1/b",
+      "6100/371",
+      "6100/369/1",
+      "221"
+    ],
+    "AnaSuc": "Kamulaştırmasız el atma nedeniyle taşınmaz bedelinin tahsili",
+    "HukukiKonu": "Kamulaştırma hukuku / taşınmaz hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Taraflar",
+      "text": "Taraflar arasındaki kamulaştırmasız el atılan taşınmazlar bedelinin tahsili istemine ilişkin davada yapılan yargılama sonunda davanın davalı A1 Belediye Başkanlığı yönünden husumet yokluğu nedeniyle reddine, davalı Karayolları Genel Müdürlüğü yönünden kısmen kabulüne karar verilmiştir.\n\nDavacılar vekili dava dilekçesinde özetle; müvekkillerin kendi adlarına ve murisleri adlarına kayıtlı olan A1 ilçesi, A2 Mahallesi N1 ada 31 parsel sayılı taşınmaza davalı idareler tarafından kamulaştırma yapılmaksızın fiilen el atılarak yol ve koruma bantları haline getirildiğini ileri sürerek belirlenecek tazminatın davalı idareden tahsiline karar verilmesini istemiştir.",
+      "key_principles": [
+        "Kamulaştırmasız el atma",
+        "Taşınmaz bedelinin tahsili",
+        "Husumet"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Tarafların İddia ve Savunmaları",
+      "text": "1. Davalı A1 Belediye Başkanlığı vekili cevap dilekçesinde özetle; dava konusu edilen taşınmazın ana arter üzerinde bulunması sebebiyle belediyelerinin bir bağlantısı bulunmadığını savunarak davanın usul ve esastan reddine karar verilmesini istemiştir.\n\n2. Davalı Karayolları Genel Müdürlüğü vekili cevap dilekçesinde özetle; dava konusu taşınmaz 10.949.00 m² yüzölçümlü olup 8.589 m²sinin arsa, 2.360.00 m²sinin fiili yol olarak kamulaştırılmış olduğunu, taşınmazın 8.589.00 m²lik kısmına bedel takdiri yapıldığını, K15'in N1 ada 4 parseldeki 1/2880 payı ve 40/7200 payı 08.09.1975 tarihli ve N2 yevmiye ile idareleri adına yola terkin edilmiş olduğunu, bedelinin kendisine ödendiğini, terkin işleminin tapu siciline işlenmeyerek ifrazen oluşan 31 parselde K15'in yeniden 1/2880 pay ile hisselendirilmiş olduğunu, davacılardan K13 adına Beyoğlu 2. Noteriliğinden 02.10.1974 tarihli ve N3 sayılı noter tebligatı gönderilmiş olup idareleri tarafından taşınmazda N4 bina malikleri K13 (1/2) ve K16 (1/2)'ya ait bina bedeli ve arsa bedelinin tenkisi için A1 1. Asliye Hukuk Mahkemesinde 1974/1047 Esas sayılı dosyası ile dava açılmış olduğunu, taşınmaza mahkeme kararı ile istimlak şerhinin tescil edilmiş olduğunu belirterek davanın reddine karar verilmesini istemiştir.",
+      "key_principles": [
+        "Kamulaştırma tebligatı",
+        "Tapu siciline tescil",
+        "Tenkis bedeli davası",
+        "İstimlak şerhi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "A1 1. Asliye Hukuk Mahkemesi 1974/1047 Esas"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve İstinaf Kararları",
+      "text": "İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile davanın davalı A1 Belediye Başkanlığı yönünden husumet yokluğu nedeniyle reddine, davalı Karayolları Genel Müdürlüğü yönünden kabulüne karar verilmiştir.\n\nBölge Adliye Mahkemesi yukarıda tarihi ve sayısı belirtilen kararı ile arsa niteliğindeki taşınmaza mahallinde yapılan keşif sonucu emsal karşılaştırması yapılarak değer biçen, usul ve kanuna uygun olarak düzenlenen bilirkişi raporuna göre el atma bedelinin davalı idareden tahsiline karar verilmesi doğru olduğu gibi taşınmazın bilirkişi raporunda belirlenen niteliğine göre bedelinin uygun olduğu, böylece mahkeme kararında usul ve esas yönünden hukuka aykırılık bulunmadığı gerekçesi ile davalı idare vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "Emsal karşılaştırması",
+        "Bilirkişi raporu",
+        "Husumet yokluğu",
+        "İstinaf incelemesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "İstanbul Anadolu 22. Asliye Hukuk Mahkemesi 2022/391 E. 2023/34 K."
+      ]
+    },
+    {
+      "order": 4,
+      "type": "cassation_grounds",
+      "title": "Temyiz Sebepleri ve Kesinlik Sınırı Değerlendirmesi",
+      "text": "Bölge Adliye Mahkemesi kararı davalı Karayolları Genel Müdürlüğü vekilince temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, Miktar veya her paydaş için değeri kesinlik sınırını geçmeyen davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362 nci maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın her paydaş için değeri kesinlik sınırının altında kalması hâlinde anılan Kanun'un 366 ncı maddesi atfıyla aynı Kanun'un 352 nci maddesinin birinci fıkrasının (b) bendi uyarınca temyiz dilekçesinin reddine karar vermek gerekir.\n\nDavacılar K5, K6, K7, K8, K9 payları yönünden hüküm altına alınan ve temyize konu edilen miktarlar Bölge Adliye Mahkemesinin karar tarihi itibari ile kesinlik sınırı olan 238.730,00 TL'nin altında kalmaktadır. Bu nedenle; davacılar K5, K6, K7, K8, K9 payları yönünden davalı idare vekilinin temyiz isteminin reddine karar vermek gerekmiştir.\n\nDavalı Karayolları Genel Müdürlüğü vekili temyiz dilekçesinde özetle; istinaf dilekçesinde ileri sürdüğü hususları tekrar ederek temyiz yoluna başvurmuştur.",
+      "key_principles": [
+        "Kesinlik sınırı",
+        "Temyiz koşulları",
+        "Paydaş başına temyiz miktarı"
+      ],
+      "referenced_laws": [
+        "6100/362",
+        "6100/366",
+        "6100/352/1/b"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Hukuki Değerlendirme — Hak Düşürücü Süre ve Eksik İnceleme",
+      "text": "Dosya içindeki bilgi ve belgelere göre; dava konusu taşınmazın kök hali N1 ada 4 parsel sayılı taşınmaz iken davalı Karayolları Genel Müdürlüğünün 11.02.1974 tarihli kamu yararı kapsamında taşınmazın 10.949.00 m²lik kısmının kamulaştırılmasına karar verildiği, 8.589.00 m²lik kısmına bedel takdiri yapıldığı, kalan 2.360.00 m²lik bölüme ise 221 sayılı Kanun kapsamında kaldığından bahisle bedel takdiri yapılmadığı anlaşılmıştır. Kamulaştırma tarihindeki malikler adına düzenlenen kamulaştırma noter tebligatları usulsüz olduğundan 8.589.00 m²lik kısım yönünden davacı K13 dışında kalan davacılar yönünden işin esasına girilmesinde bir isabetsizlik görülmemiştir.\n\nDavacı K13 bakımından yapılan incelemede ise adı geçen davacıya karşı davalı Karayolları Genel Müdürlüğü tarafından A1 1. Asliye Hukuk Hakimliğinin 1974/1047 Esas, 1975/914 Karar sayılı kararı tenkisi bedel davası açıldığı ve davalı K13'in kendisini bu yargılama sırasında vekille temsil ettirdiği gözetildiğinde davalı K13'in tenkisi bedel davasına konu olan 8.589.00 m²lik kısımdan hissesine (17/5760) isabet eden bölüm yönünden kamulaştırma işleminin kesinleştiği ve hak düşürücü süre içerisinde dava açılmadığından davanın reddi gerektiğinden kararın bozulması gerekmiştir.\n\nDava konusu N1 ada 31 (eski N1 ada 4) parsel sayılı 10.561.00 m² yüzölçümlü taşınmazın 2.360.00 m²lik bölümü yönünden 221 sayılı Kanun kapsamında kaldığı iddiası ileri sürüldüğünden bu hususta araştırma yapılarak dava konusu taşınmazın bu bölümüne hangi tarihte el atıldığı net bir şekilde tespit edilip, 09.10.1956 tarihinden önce el atıldığının anlaşılması halinde, dava konusu taşınmazın ilk tedavüllerini gösterir kadastro tutanağı temin edilip taşınmazda ilk kadastro tespit çalışmalarının hangi tarihte yapıldığı belirlenip, ilk kadastro tutanağının 13.01.1963 tarihinden önce oluştuğunun anlaşılması halinde 221 sayılı Kanun'un iptaline ilişkin Anayasa Mahkemesinin 21.4.2022 tarihli ve 2021/19 Esas, 2022/46 Karar sayılı iptal kararının kazanılmış hakları etkilemeyeceği hususu gözetilerek bu bölüm yönünden iki yıllık hak düşürücü sürenin geçip geçmediği denetlenerek davanın reddine karar verilmesi, şayet ilk kadastro tutanağının 13.01.1963 tarihinden sonra oluştuğunun anlaşılması halinde ise bu bölüm yönünden işin esasına girilerek karar verilmesi gerekirken eksik inceleme ile hüküm kurulması doğru görülmemiştir.",
+      "key_principles": [
+        "Hak düşürücü süre",
+        "Kamulaştırma işleminin kesinleşmesi",
+        "Usulsüz tebligat",
+        "221 sayılı Kanun kapsamı",
+        "Kazanılmış hak",
+        "Kadastro tutanağı",
+        "Eksik inceleme"
+      ],
+      "referenced_laws": [
+        "221",
+        "6100/371",
+        "6100/369/1"
+      ],
+      "referenced_decisions": [
+        "A1 1. Asliye Hukuk Hakimliği 1974/1047 E. 1975/914 K.",
+        "Anayasa Mahkemesi 2021/19 E. 2022/46 K."
+      ]
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan sebeplerle;\n\nA. Davalı Karayolları Genel Müdürlüğü Vekilinin Davacılar K5, K6, K7, K8, K9'a İlişkin Temyizi Yönünden; Davalı idare vekilinin temyiz dilekçesinin miktardan REDDİNE,\n\nB. Davalı Karayolları Genel Müdürlüğü Vekilinin Davacılar K10, K11, K12, K13, K14'e İlişkin Temyizi Yönünden;\n1. Davalı idare vekilinin diğer temyiz itirazlarının REDDİNE,\n2. Davalı idare vekilinin temyiz itirazlarının kısmen kabulü ile İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA,\n3. İlk Derece Mahkemesi kararının BOZULMASINA,\nDosyanın İlk Derece Mahkemesine, kararın bir örneğinin Bölge Adliye Mahkemesine gönderilmesine,\n13.01.2026 tarihinde oy birliğiyle karar verildi.",
+      "key_principles": [
+        "Kesinlik sınırından red",
+        "Kısmi bozma",
+        "BAM kararının ortadan kaldırılması",
+        "Oybirliği"
+      ],
+      "referenced_laws": [
+        "6100/362",
+        "6100/366",
+        "6100/352/1/b"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/362",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/366",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/352/1/b",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/371",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/369/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "221",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Anayasa Mahkemesi 2021/19 E. 2022/46 K.",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul Anadolu 22. Asliye Hukuk Mahkemesi 2022/391 E. 2023/34 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Bölge Adliye Mahkemesi 2023/800 E. 2023/2030 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 5. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "adli_yargi",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1.md"
+}
