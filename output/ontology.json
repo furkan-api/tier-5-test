@@ -1077,14 +1077,15 @@
     "node_files_dir": "nodes",
     "edge_files_dir": "edges",
     "node_files": [
+      "laws.jsonl",
+      "articles.jsonl",
       "decisions.jsonl",
-      "decision_chunks.jsonl",
       "courts.jsonl",
       "legal_branches.jsonl",
-      "law_articles.jsonl"
+      "concepts.jsonl"
     ],
     "edge_files": [
-      "decision_edges.jsonl"
+      "structural_edges.jsonl"
     ],
     "edge_rules_file": "edge_rules.json",
     "validation_schema": "validation/schema.json"

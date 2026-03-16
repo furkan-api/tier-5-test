@@ -44,7 +44,7 @@ class Settings(BaseSettings):
     neo4j_connection_acquisition_timeout: float = Field(default=60.0)
 
     # ── Embedding ─────────────────────────────────────────────────────────
-    embedding_provider: Literal["sentence_transformer", "openai"] = Field(
+    embedding_provider: Literal["sentence_transformer", "openai", "gemini"] = Field(
         default="sentence_transformer",
     )
     embedding_model: str = Field(
@@ -53,6 +53,7 @@ class Settings(BaseSettings):
     embedding_dimension: int = Field(default=384)
     embedding_batch_size: int = Field(default=64)
     openai_api_key: Optional[SecretStr] = Field(default=None)
+    gemini_api_key: Optional[SecretStr] = Field(default=None)
 
     # ── Vector index ──────────────────────────────────────────────────────
     vector_index_name: str = Field(

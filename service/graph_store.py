@@ -58,7 +58,33 @@ async def ensure_schema() -> None:
         logger.warning("Fulltext index creation skipped: %s", e)
 
     # Vector index for semantic search (Neo4j 5.11+)
+    # Drop and recreate if the stored dimension differs from configured dimension.
     try:
+        existing = await execute_query(
+            "SHOW VECTOR INDEXES WHERE name = $name",
+            {"name": s.vector_index_name},
+        )
+        if existing:
+            # Neo4j stores index config in db.indexes() procedure
+            dim_rows = await execute_query(
+                "CALL db.indexes() YIELD name, properties, type, config "
+                "WHERE name = $name "
+                "RETURN config",
+                {"name": s.vector_index_name},
+            )
+            stored_dim = None
+            if dim_rows and dim_rows[0].get("config"):
+                stored_dim = dim_rows[0]["config"].get("vector.dimensions")
+            if stored_dim is not None and int(stored_dim) != s.embedding_dimension:
+                logger.warning(
+                    "Vector index '%s' has dim=%s but config wants dim=%d — "
+                    "dropping and recreating.",
+                    s.vector_index_name, stored_dim, s.embedding_dimension,
+                )
+                await execute_write(
+                    "DROP INDEX $index_name IF EXISTS",
+                    {"index_name": s.vector_index_name},
+                )
         await execute_write(
             "CREATE VECTOR INDEX $index_name IF NOT EXISTS "
             "FOR (n:LegalNode) ON (n.embedding) "
