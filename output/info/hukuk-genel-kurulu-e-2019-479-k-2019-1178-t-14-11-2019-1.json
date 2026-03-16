@@ -1,0 +1,345 @@
+{
+  "entities": {
+    "Karar": "Yargıtay HGK., E. 2019/479 K. 2019/1178 T. 14.11.2019",
+    "EsasNo": "2019/479",
+    "KararNo": "2019/1178",
+    "KararTarihi": "2019-11-14",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay Hukuk Genel Kurulu",
+    "MahkemeTuru": "yargitay_hgk",
+    "Daire": "Hukuk Genel Kurulu",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Direnme kararı bozuldu",
+    "Davaci": "Mirasbırakanın kızı ve torunları",
+    "Davali": "Mirasbırakanın eşi",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Eskişehir 1. Asliye Hukuk Mahkemesi",
+      "esas_no": "2013/465",
+      "karar_no": "2015/371",
+      "tarih": "2015-03-31",
+      "sonuc": "Davanın kısmen kabulü"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davacılar vekili ve davalı vekili tarafından ilk derece kararı temyiz edilmiş; Yargıtay 1. Hukuk Dairesi davalı vekilinin temyizini kabul ederek hükmü bozmuştur",
+    "KararDuzeltme": "Kararın tebliğ tarihinden itibaren on beş gün içinde karar düzeltme yolu açık",
+    "BozmaKarari": "Yargıtay 1. Hukuk Dairesi 17.04.2018 tarihli kararıyla, soyut tanık beyanları ve salt değerler arasındaki farkın muvazaa kanıtı için yeterli olmadığı gerekçesiyle davanın reddi gerekirken kabulünün isabetsiz olduğunu belirterek hükmü bozmuştur",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": "Bir kısım üye, mirasbırakanın davalı eşine yapmış olduğu temlikin diğer mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğunun kanıtlandığını, direnme kararının yerinde olduğunu ve tazminat miktarı bakımından dosyanın Özel Daireye gönderilmesi gerektiğini belirterek çoğunluğun bozma kararına katılmamıştır",
+    "OyBirligi": false,
+    "OyCoklugu": true,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6098/19",
+      "818/18",
+      "4721/6",
+      "6100/190",
+      "1086/429",
+      "1086/440",
+      "4721/706",
+      "6098/237",
+      "2644/26",
+      "4721/507",
+      "4721/603",
+      "4721/499",
+      "4721/500",
+      "4721/508"
+    ],
+    "AnaSuc": "Muris muvazaası hukuksal nedenine dayalı tazminat",
+    "HukukiKonu": "miras hukuku, muvazaa hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Taraf İddiaları",
+      "text": "Dava, muris muvazaası hukuksal nedenine dayalı tazminat isteğine ilişkindir.\n\nDavacılar vekili; tarafların ortak mirasbırakanının 726 parsel sayılı taşınmazdaki 1 numaralı bağımsız bölümün intifa hakkını üzerinde tutarak çıplak mülkiyetini eşi olan davalıya satış suretiyle temlik ettiğini, satışın hayatın olağan akışına aykırı olduğu gibi ortada bir sebep yokken eşler arasında yapılan temlikin muvazaalı olduğunu, geliri bulunmayan davalının devir karşılığında bir bedel ödemediğini, ayrıca satışta gösterilen değerin çok düşük olduğunu, eşe yapılan devrin gerçekte satış değil bağış niteliğinde olduğunu ve mirasbırakanın davacı mirasçılardan mal kaçırmak amacıyla temlikte bulunduğunu, keza aynı binadaki diğer bağımsız bölümü de kızı ve onun oğluna devrettiğini, onlar hakkında da ayrı dava açıldığını, yapılan bu temlikler nedeniyle davacıların mirastan hiçbir pay alamadıklarını, murisin ölümünden sonra intifa hakkını terkin ettiren davalının taşınmazı 22.10.2012 tarihinde arkadaşına sattığını, bu nedenle davayı tazminat davası şeklinde açtıklarını belirterek, taşınmaz bedelinin üçüncü kişiye devir tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiş, 23.02.2015 tarihli dilekçe ile de 20.000,00TL olan dava değerini davacıların hissesi oranında toplam 65.000,00TL olarak ıslah etmiştir.\n\nDavalı vekili; murisin intifa hakkı kendinde kalmak koşuluyla dava konusu bağımsız bölümü eşine devrettiğini, amacının mirasçılardan mal kaçırmak olmadığını, mirasbırakanın 1915 davalı eşinin ise 1928 doğumlu olduğunu, kendisi öldüğünde eşinin mirasçılar tarafından rahatsız edilip bakılmayacağını düşünerek böyle bir satış işlemi yaptığını, müvekkilinin de maaşı yetmediği için masraflarını rahatça karşılamak amacıyla taşınmazı sattığını, ayrıca davacıların mirasbırakanın ölümünden önce evin satışından bilgileri olduğunu belirterek, davanın reddine karar verilmesini talep etmiştir.",
+      "key_principles": [
+        "Muris muvazaasında ispat yükü davacı tarafa aittir",
+        "Muvazaalı temlikte gerçek irade ve amacın ortaya çıkarılması esastır"
+      ],
+      "referenced_laws": [
+        "6098/19",
+        "818/18",
+        "4721/6",
+        "6100/190"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararı ve Özel Daire Bozma Kararı",
+      "text": "Mahkemece; mirasbırakanın yaptığı satışın gerçek olduğu savunulmuş ise de davacı tanıklarının somut ve ayrıntılı beyanları ile bilirkişi raporu gözetildiğinde murisin dava konusu taşınmaz haricinde adına kayıtlı olan diğer bağımsız bölümü de dava dışı kızına devrettiği, dava konusu taşınmazı eşine satmayı gerektirecek ekonomik bir zorluk içerisinde bulunmadığı, ayrıca taşınmazın resmî akitte gösterilen değeri ile o tarihteki gerçek değeri arasında açık ve aşırı nispetsizlik bulunduğu, taşınmazı eşine düşük bedelle temlik etmesinin makul ve zorunlu bir sebebinin bulunmadığı gerekçesiyle davanın kısmen kabulüne karar verilmiştir.\n\nKarar davacılar vekili ile davalı vekili tarafından temyiz edilmiş, Özel Dairece davacıların temyiz itirazı reddedilmiş, davalı vekilinin temyiz itirazı ise kabul edilerek hüküm bozulmuştur. Özel Daire bozma kararında; soyut tanık beyanlarının ve salt değerler arasındaki farkın muvazaanın kanıtı için yeterli bulunmadığı sonuç ve kanaatine varılarak, davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme ile kabul edilmesinin isabetsiz olduğu belirtilmiştir.\n\nMahkemece bozma kararına karşın; davacı tanıklarının yanı sıra davalı tanıklarının da muvazaanın varlığına yönelik olarak murisin tüm mal varlığını kızı ve eşine bırakacağına dair beyanları birlikte değerlendirildiğinde, mirasbırakanın yaptığı temlikin diğer mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu gerekçesiyle direnme kararı verilmiştir.",
+      "key_principles": [
+        "Taşınmazın gerçek değeri ile satış bedeli arasındaki fahiş fark tek başına muvazaa kanıtı değildir",
+        "Tanık beyanlarının somut ve ayrıntılı olması gerekir",
+        "Bilirkişi raporu değerlendirmede esas alınabilir"
+      ],
+      "referenced_laws": [
+        "6100/190",
+        "4721/6"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 1. Hukuk Dairesi, E. 2015/10694, K. 2018/9160, T. 17.04.2018"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Muris Muvazaasının Hukuki Niteliği ve Unsurları",
+      "text": "Hemen belirtilmelidir ki; irade ve beyan arasında bilerek yaratılan uyumsuzluk şeklinde tanımlanan muvazaa, pozitif hukukumuzda 6098 sayılı Türk Borçlar Kanunu'nun 19. (mülga 818 sayılı Borçlar Kanunu'nun 18.) maddesinde düzenlenmiş ve anılan maddede, \"Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır.\" hükmüne yer verilmiştir.\n\nBuna göre muvazaa; tarafların üçüncü kişileri aldatmak amacı ile ve fakat kendi gerçek iradelerine uymayan ve aralarında hüküm ve sonuç doğurmayan bir görünüş yaratmak hususunda anlaşmalarıdır. Muvazaa daha çok sözleşmenin yorumuyla ilgili olduğundan, öğreti ve uygulamada kapsamlı olarak incelenmiş ve belirli kurallara bağlanmıştır. Gerek öğretide ve gerekse uygulamada muvazaa, mutlak ve nispi muvazaa olarak iki gruba ayrılmaktadır; mutlak muvazaada taraflar herhangi bir hukuki işlem yapmayı (oluşturmayı) istemezler, yalnız görünüşte bir hukuki işlem için gerekli irade açıklamasında bulunurlar; nispi muvazaada ise taraflar gerçekten belli bir hukuki işlem yapmak isterler, ancak onu saklamak amacıyla, bir başka hukuki işlemin kurulduğu görüşünü yaratmak üzere irade açıklamasında bulunurlar.\n\nEldeki davanın konusunu oluşturan ve 'muris muvazaası' olarak isimlendirilen muvazaa türünün ise Türk Hukukunda büyük bir yeri ve önemi vardır. Muris muvazaası kaynağını daha çok Yargıtay İçtihatlarından ve bilimsel görüşlerden almakla birlikte esas kaynağını 1.4.1974 tarih ve 1/2 sayılı İçtihatları Birleştirme Kararı oluşturmaktadır.\n\n1.4.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararı ile 'Bir kimsenin; mirasçısını miras hakkından yoksun etmek amacıyla, gerçekte bağışlamak istediği tapu sicilinde kayıtlı taşınmaz malı hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklamış olduğunun gerçekleşmiş bulunması halinde, saklı pay sahibi olsun ya da olmasın miras hakkı çiğnenen tüm mirasçıların, görünürdeki satış sözleşmesinin Borçlar Kanunu'nun 18. maddesine dayanarak muvazaalı olduğunu ve gizli bağış sözleşmesinin de şekil koşulundan yoksun bulunduğunu ileri sürerek dava açabileceklerine' karar verilmiştir.",
+      "key_principles": [
+        "Muris muvazaası nispi muvazaa türüdür",
+        "Muris muvazaasının esas kaynağı 01.04.1974 tarih ve 1/2 sayılı İçtihadı Birleştirme Kararıdır",
+        "Saklı pay sahibi olsun ya da olmasın tüm mirasçılar dava açabilir",
+        "Gizli bağış sözleşmesi şekil koşulundan yoksun olduğundan geçersizdir",
+        "Görünüşteki işlem tarafların gerçek iradelerine uymadığından sonuç doğurmaz"
+      ],
+      "referenced_laws": [
+        "6098/19",
+        "818/18",
+        "4721/507",
+        "4721/603"
+      ],
+      "referenced_decisions": [
+        "Yargıtay İçtihadı Birleştirme Kararı, E. 1/2, T. 01.04.1974"
+      ]
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "İspat Yükü ve Delillerin Değerlendirilmesi",
+      "text": "Muris muvazaasında, miras bırakanın gerçek irade ve amacının mirasçılardan mal kaçırmak olduğunu, gerek 4721 sayılı Türk Medeni Kanunu'nun 6. maddesindeki 'Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür' hükmü ve gerekse 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 190/1. maddesindeki 'İspat yükü, kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir' hükmü uyarınca davacı taraf kanıtlamalıdır.\n\nDiğer bir anlatımla, muris muvazaasında temlikin muvazaalı ve terekeden mal kaçırma amacıyla yapıldığını ispat yükü davacı tarafa aittir. Delillerin az yukarıda açıklanan olgulardan da yararlanılmak suretiyle her somut olayın özelliğine göre değerlendirmesi gerekmektedir.\n\nMuris muvazaası iddiasına dayalı uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi, mirasbırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bunun için de ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, miras bırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alış gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile mirasbırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.",
+      "key_principles": [
+        "İspat yükü davacı taraftadır",
+        "Deliller birlikte ve doğru şekilde değerlendirilmelidir",
+        "Davalının alım gücü araştırılmalıdır",
+        "Satış bedeli ile gerçek değer arasındaki fark dikkate alınmalıdır",
+        "Olayların olağan akışı ve yöre gelenekleri değerlendirmede esas alınır"
+      ],
+      "referenced_laws": [
+        "4721/6",
+        "6100/190"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "appellate_evaluation",
+      "title": "HGK'nın Somut Olayı Değerlendirmesi",
+      "text": "Tüm bu açıklamalar ışığında somut olaya bakıldığında; muris muvazaası hukuksal nedenine dayalı olarak açılan eldeki davada, taşınmazın çıplak mülkiyeti tapuda satış gösterilmek suretiyle davalıya temlik edilmiş ise de devir karşılığında bir bedel ödediği yönünde savunması ve ödeme gücü bulunmayan davalının murisin eşi olduğu da gözetildiğinde yapılan devrin gerçek yönünün satış değil, bağış niteliğinde olduğu açıktır. Böyle olunca, Borçlar Hukuku anlamında muvazaa mevcut ise de muris muvazaasından söz edilebilmesi için murisin temliki yaparken mirasçılarından mal kaçırma iradesiyle hareket ettiğinin kanıtlanması gerekmektedir.\n\nDosyadaki deliller bu açıdan değerlendirildiğinde ise öncelikle belirtmek gerekir ki, davacı tarafça mirasbırakanın mirasçılarından mal kaçırmasını gerektirir bir nedeninin varlığı ortaya konulup kanıtlanamadığı gibi dinlenen davacı tanıkları da temlik tarihinde murisin çocukları ile arasında mal kaçırmasını gerektirir bir durumun bulunmadığını beyan etmişlerdir. Davacı tanığı olarak dinlenen ve murisin gelini olan kişi, zaman zaman evlerine gittiğinde kayınpeder ve kayınvalidesinin kendisini istemedikleri yönünde beyanda bulunmuş ise de bu beyanın mal kaçırma kastının kabulü için yeterli olduğu söylenemez. Çünkü, taşınmazın devir tarihinde murisin tek oğlu hayatta olup, aynı beyanında hem eşinin hem de murisin kızının babaları ile yakından ilgilendiklerini dile getiren tanığın beyanı bir bütün olarak irdelendiğinde murisle mirasçıları arasında mal kaçırmasını gerektirir bir durumun bulunmadığını göstermektedir.\n\nDiğer yandan, devrin yapıldığı 02.10.2001 tarihinde 1915 doğumlu muris ile 1928 doğumlu eşinin yaşlarının oldukça ilerlediği açıktır. Bu nedenle murisin vefatını düşünerek, ölümü halinde 1950 yılından beri evli olduğu ve dava konusu taşınmazın edinilmesinde emek ve desteğinin bulunduğu kuşkusuz olan hayat arkadaşını koruma ve onu güvenceye alma düşüncesinin, ortak evlatları dışında başkaca mirasçılarının da bulunmadığı gözetildiğinde mal kaçırma kastı olarak değerlendirilmesi mümkün değildir.",
+      "key_principles": [
+        "Borçlar Hukuku anlamında muvazaa varlığı tek başına muris muvazaası için yeterli değildir",
+        "Mal kaçırma iradesinin ayrıca kanıtlanması zorunludur",
+        "Uzun süreli evlilikte eşi koruma güdüsü mal kaçırma kastı sayılamaz",
+        "Tanık beyanları bir bütün olarak ve birlikte değerlendirilmelidir"
+      ],
+      "referenced_laws": [
+        "6098/19",
+        "818/18",
+        "4721/6",
+        "6100/190"
+      ],
+      "referenced_decisions": [
+        "Yargıtay İçtihadı Birleştirme Kararı, E. 1/2, T. 01.04.1974"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Hukuk Genel Kurulundaki görüşmeler sırasında, mirasbırakan tarafından davalı eşine yapılan temlikin gerçekte diğer mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğunun dosya kapsamı ve toplanan delillere göre kanıtlandığı, bu nedenle direnme kararının yerinde olduğu ve tazminat miktarlarına yönelik temyiz itirazlarının incelenmesi için dosyanın Özel Daireye gönderilmesi gerektiği yönünde görüşler ileri sürülmüş ise de yukarıda açıklanan gerekçelerle bu görüşler Kurul çoğunluğu tarafından kabul edilmemiştir.\n\nHâl böyle olunca; Hukuk Genel Kurulunca da benimsenen Özel Daire bozma kararına uyulmak gerekirken önceki kararda direnilmesi usul ve yasaya aykırıdır.\n\nSONUÇ: Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Hukuk Muhakemeleri Kanunu'nun geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA, istek hâlinde temyiz peşin harcının yatırana geri verilmesine, aynı Kanunun 440. maddesi uyarınca kararın tebliğ edildiği tarihten itibaren on beş gün içerisinde karar düzeltme yolu açık olmak üzere 14.11.2019 tarihinde yapılan ikinci görüşmede oy çokluğu ile karar verildi.",
+      "key_principles": [
+        "Direnme kararı usul ve yasaya aykırıdır",
+        "HGK Özel Daire bozma kararını benimsemiştir",
+        "Muris muvazaası için mal kaçırma kastının kanıtlanamaması davayı reddettirir"
+      ],
+      "referenced_laws": [
+        "6100/3",
+        "1086/429",
+        "1086/440"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 1. Hukuk Dairesi, E. 2015/10694, K. 2018/9160, T. 17.04.2018"
+      ]
+    },
+    {
+      "order": 7,
+      "type": "party_claims",
+      "title": "Karşı Oy Gerekçeleri",
+      "text": "Somut olayda; tarafların ortak miras bırakanı 01.07.1915 doğumlu olup, 22.05.2011 tarihinde ölümüyle mirasçı olarak davalı eşi, davacı kızı ile 2003 yılında ölen oğlundan olma davacı torunları ve dava dışı kızı kaldığı; murisin 876 ada 726 parsel sayılı zemin kat 1 nolu mesken ile 1. kat 2 nolu meskenin kayden maliki iken, tayin ettiği vekili aracılığıyla 02.10.2001 tarihinde anılan bağımsız bölümlerin intifa haklarını uhdesinde ipka ederek çıplak mülkiyetlerini 5.000.000.000'er TL bedelle 1 nolu bağımsız bölümü davalı eşine, 2 nolu bağımsız bölümü dava dışı kızı ile torununa satış suretiyle temlik ettiği; 1 nolu meskenin murisin ölümünden sonra intifa hakkının 27.08.2001 tarihinde terkin edilerek davalı tarafından 22.10.2012 tarihinde dava dışı kişiye satış biçiminde devredildiği anlaşılmaktadır.\n\nMiras bırakan temlik yaptığı tarihte 86 yaşında olup, temlik konusu taşınmazlardan birinde ikamet etmekte ve diğerinin kira gelirini almaktadır ve ayrıca emekli maaşı bulunmaktadır. Miras bırakanın tüm malvarlığı olan taşınmazlarını satmasını gerektirecek haklı ve makul bir nedeninin olmadığı ve davalı eşinin de alım gücünün bulunmadığı dosya kapsamıyla sabittir. Ayrıca, çekişmeli taşınmazın satış bedeli ile sözleşme tarihindeki gerçek değer arasında fahiş fark bulunduğu da keşfen alınan bilirkişi raporu ile saptanmıştır. Davalı da, satış bedelini ödediğini kanıtlayamamıştır.\n\nDavalının savunması farklı bir ifadeyle, aslında çekişmeli taşınmazın tüm mirasçılara kalması halinde davalının diğer mirasçılar tarafından rahatsız edilebileceği düşüncesiyle taşınmazın diğer mirasçılara kalmayıp sadece davalıya aidiyetini sağlamak amaçlı olduğu şeklindedir ve bu ifade dahi mirasbırakanın diğer mirasçılardan çekişmeli taşınmazı kaçırmak amacıyla hareket ettiğinin ikrarı niteliğindedir. O hâlde Yerel Mahkemenin direnme kararı yerinde olup, tazminat miktarının incelenmesi bakımından dosyanın Özel Dairesine gönderilmesi gerektiği düşüncesinde olduğumuzdan, sayın çoğunluğun bozma kararına iştirak edemiyoruz.",
+      "key_principles": [
+        "Davalının savunması mal kaçırma kastının ikrarı niteliği taşıyabilir",
+        "Satış bedelini kanıtlayamayan tarafın savunması zayıflar",
+        "Fahiş bedel farkı muvazaa karinesi oluşturabilir",
+        "Alım gücü bulunmayan eşe yapılan temlik bağış niteliğindedir"
+      ],
+      "referenced_laws": [
+        "818/18",
+        "6098/19",
+        "4721/706",
+        "6098/237",
+        "2644/26"
+      ],
+      "referenced_decisions": [
+        "Yargıtay İçtihadı Birleştirme Kararı, E. 1/2, T. 01.04.1974"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/19",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/18",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/190",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086/429",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086/440",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/706",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/237",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2644/26",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/507",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/603",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay İçtihadı Birleştirme Kararı E. 1/2 T. 01.04.1974",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 1. Hukuk Dairesi E. 2015/10694 K. 2018/9160",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Eskişehir 1. Asliye Hukuk Mahkemesi E. 2013/465 K. 2015/371",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Yargıtay 1. Hukuk Dairesi E. 2015/10694 K. 2018/9160",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay Hukuk Genel Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "miras hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "borçlar hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1.md"
+}

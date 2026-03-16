@@ -1,0 +1,306 @@
+{
+  "entities": {
+    "Karar": "Yargıtay YİBBGK., E. 2016/6 K. 2017/5 T. 15.12.2017",
+    "EsasNo": "2016/6",
+    "KararNo": "2017/5",
+    "KararTarihi": "2017-12-15",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+    "MahkemeTuru": "yargitay_hgk",
+    "Daire": "İçtihatları Birleştirme Büyük Genel Kurulu",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "İçtihadı birleştirme incelemesi tamamlandı",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Dr. K4",
+    "IlkDereceKarari": null,
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "RED",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6100/107",
+      "6100/109",
+      "6100/119",
+      "4857/1",
+      "4857/2",
+      "4857/3",
+      "4857/8",
+      "4857/22",
+      "4857/28",
+      "4857/32",
+      "4857/37",
+      "4857/59",
+      "4857/67",
+      "6098/1",
+      "2004/67",
+      "2797/16",
+      "2797/45"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "iş hukuku, medeni usul hukuku, belirsiz alacak davası"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "İçtihadı Birleştirme Başvurusu ve Konusu",
+      "text": "Avukatlar K1, K2, K3 29.08.2014 tarihli dilekçesinde; işçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hususunda Yargıtay 9., 22. Hukuk Daireleri ve Yargıtay Hukuk Genel Kurulu kararları arasında çelişki bulunduğunu, Av. K8 31.10.2014 tarihli dilekçesinde; Yargıtay Hukuk Genel Kurulu ile Yargıtay 22. Hukuk Dairesinin kararları arasında fark kıdem tazminatı alacağı yönünden ortaya çıkan içtihat farklılığının içtihatların birleştirilmesi yoluyla giderilmesini, Av. K6 03.11.2014 tarihli dilekçesinde; Yargıtay 22. Hukuk Dairesinin ihbar tazminatı, kıdem tazminatı, yıllık ücretli izin alacaklarını belirli, fazla çalışma, hafta tatili ve genel tatil ücretlerini ise belirsiz işçilik alacağı olarak kabul ettiğini, oysa Yargıtay 9. Hukuk Dairesinin ise iş davalarının tamamını belirsiz alacak davası olarak kabul ettiğini ileri sürerek içtihatların birleştirilmesini talep etmişlerdir. Yargıtay Birinci Başkanlık Kurulunca 23.11.2016 tarihinde işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusuyla ilgili olarak görüş aykırılığı bulunduğu, farklı uygulamaların sürdüğü sonucuna varıldığından; aykırılığın İçtihatları Birleştirme Büyük Genel Kurulunca giderilmesi gerektiğine karar verilmiştir.",
+      "key_principles": [
+        "içtihadı birleştirme başvurusu",
+        "görüş aykırılığının tespiti",
+        "işçilik alacaklarında belirsiz alacak davası"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "2797/16",
+        "2797/45"
+      ],
+      "referenced_decisions": [
+        "YHGK 2012/9-838 E. 2012/715 K.",
+        "Y9HD 2011/47206 E. 2011/39092 K.",
+        "Y22HD 2014/442 E. 2014/2051 K.",
+        "Y7HD 2014/6541 E. 2014/10401 K."
+      ]
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Dairelerin ve Hukuk Genel Kurulunun Görüşleri",
+      "text": "Kapatılan Yedinci Hukuk Dairesi: İşçilik alacaklarına esas hizmet süresi ve ücret miktarı gibi hesaplamaya ilişkin unsurların tartışmalı olduğu durumlarda alacağın likit olması hususundaki ölçütlerinin bu tür dosyalarda da benimsenmesi ve alacağın belirsiz olduğunun kabul edilmesi gerektiğini, özellikle kayıtların işverenin elinde bulunması hâlinde işçinin, alacağın miktarını veya değerini tam ve kesin olarak belirlemesi kendisinden beklenemeyeceğinden alacağın belirsiz olduğunun kabulünün gerektiğini ifade etmiştir. Yargıtay Dokuzuncu Hukuk Dairesi: İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağının somut olayın özelliğine göre değerlendirilmesi gerektiğini, alacağın hesabının yapılmasının işçiden beklenemeyeceği hâllerin belirsiz alacak davası olarak nitelendirilmesi gerektiğini belirtmiştir. Yargıtay Yirmiikinci Hukuk Dairesi: İşçilik alacakları yönünden belirsiz alacak davası açılmasının mümkün olup olmadığının her somut olaya göre ayrı ayrı değerlendirilmesi gerektiğini, davacının alacağını belirleyebilmesi için ihtiyaç duyduğu bilgi ve belgelere sahip olmaması yanında, dava açma hazırlığı döneminde bu belgelere ulaşmasının gerçekten mümkün olmaması ve dolayısıyla alacağın miktarının belirlenmesinin karşı tarafın elinde bulunan bilgi ve belgelerin sunulmasıyla gerçekleşmesi gerektiğini ifade etmiştir. Hukuk Genel Kurulu: Alacağın belirli olup olmadığının somut olayın özellikleri dikkate alınarak değerlendirilmesi gerektiğini belirtmiştir.",
+      "key_principles": [
+        "somut olayın özelliğine göre değerlendirme",
+        "likit alacak kavramı",
+        "işverenin kayıt tutma yükümlülüğü",
+        "hak arama özgürlüğü"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "6100/109",
+        "4857/3",
+        "4857/8",
+        "4857/22",
+        "4857/28",
+        "4857/32",
+        "4857/37",
+        "4857/67",
+        "2004/67"
+      ],
+      "referenced_decisions": [
+        "YHGK 2012/9-838 E. 2012/715 K.",
+        "YHGK 14.07.2010 T. 2010/19-376 E. 397 K."
+      ]
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Belirsiz Alacak Davasına İlişkin Yasal Düzenleme ve Gerekçesi",
+      "text": "6100 sayılı Hukuk Muhakemeleri Kanunu'nun 107'nci maddesi: (1) Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir. (2) Karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesinin mümkün olduğu anda davacı, iddianın genişletilmesi yasağına tabi olmaksızın davanın başında belirtmiş olduğu talebini artırabilir. 107'nci maddenin gerekçesinde belirsiz alacak davasının amacı şu şekilde ifade edilmiştir: Hak arama durumunda olan kişi, talepte bulunacağı hukuki ilişkiyi, muhatabını ve bu ilişkiden dolayı talep edeceği miktarı asgari olarak bilmesine ve tespit edebilmesine rağmen, alacağının tamamını tam olarak tespit edemeyebilir. Özellikle, zararın baştan belirlenemediği, ancak bir incelemeden sonra tam olarak tespiti mümkün olan tazminat taleplerinde böyle bir durumla karşılaşılabilmesi söz konusudur. Anılan düzenleme, İsviçre Federal Usul Kanunundan (ZPO) m. 85'teki hükmünden esinlenilerek getirilmiştir. Belirsiz alacak davasının amaçlarından birisi, davanın başında talep sonucunu tam olarak belirleyemeyen davacının yüksek yargılama giderine mahkûm olma riskinin giderilmesidir. Diğer taraftan zamanaşımı süresi belirsiz alacak davası açılması ile tüm alacak için kesildiğinden, davacının belirleyemediği alacağının zamanaşımına uğraması söz konusu olmayacaktır.",
+      "key_principles": [
+        "belirsiz alacak davası",
+        "hak arama özgürlüğü",
+        "iddianın genişletilmesi yasağı",
+        "zamanaşımının kesilmesi",
+        "usul ekonomisi"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "6100/109",
+        "6100/119"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "İçtihadı Birleştirme Kararlarının Özelliği ve İşçilik Alacaklarının Niteliği",
+      "text": "Yargıtay içtihatları birleştirme kararları (İBK) kaynağını, Yargıtay Kanunu'nun 16 ve 45'inci maddelerinden almaktadır. İBK kararları kesin olup aleyhine yargı yoluna başvurulamaz. Diğer yargı mercilerini bağlar. İçtihadı birleştirme kararları nitelik olarak, diğer yargı kararlarının üzerinde ve tüm yargı organlarını bağlayan özelliği itibariyle, yargısal kararlardan çok, yasama işlevine yakın ve bir kural koyucu işlem niteliğindedir. İBK, somut bir dava veya uyuşmazlıkla ilgili olmayıp, İBK ile aynı tür uyuşmazlıkların tümü için geçerli soyut ve genel nitelikte kurallar ortaya konulmaktadır.\n\nİşçilik alacakları bakımından değerlendirildiğinde: 4857 sayılı İş Kanunu'nun 2'nci maddesinde bir iş sözleşmesine dayanarak çalışan gerçek kişi işçi, işçi çalıştıran gerçek veya tüzel kişi ile tüzel kişiliği olmayan kurum ve kuruluşlar işveren olarak tanımlanmıştır. Bir iş sözleşmesinde düzenlenecek tarafların hak ve borçlarının öngörülmesinin olanaksızlığı karşısında, öncelikle işçilik alacakları kavramının hangi alacak türlerinden oluşacağını belirlemek mümkün değildir. İşçilik alacakları çok değişik tür ve nitelikte uyuşmazlık olarak mahkemeler önüne gelebileceğinden, alacağın türü itibariyle bir alacağın belirli veya belirsiz alacak olduğundan söz edilemeyeceği sonucuna ulaşılmıştır.",
+      "key_principles": [
+        "içtihadı birleştirme kararlarının bağlayıcılığı",
+        "soyut ve genel kural niteliği",
+        "işçilik alacaklarının çeşitliliği",
+        "somut olaya göre değerlendirme"
+      ],
+      "referenced_laws": [
+        "2797/16",
+        "2797/45",
+        "4857/1",
+        "4857/2",
+        "4857/8",
+        "6098/1"
+      ],
+      "referenced_decisions": [
+        "YHGK 20.02.1963 T. 4/71-21"
+      ]
+    },
+    {
+      "order": 5,
+      "type": "evidence_evaluation",
+      "title": "İşçilik Alacak Türleri ve Belirsizlik Değerlendirmesi",
+      "text": "İş sözleşmesinin feshedilmesi koşuluna bağlı ve fesih sonrası talep edilebilecek alacaklar: kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacaklarıdır. Kıdem tazminatına esas alınacak olan ücretin tespitinde 4857 sayılı İş Kanunu'nun 32'nci maddesinde sözü edilen asıl ücrete ek olarak işçiye sağlanan para veya para ile ölçülebilen menfaatler göz önünde tutulur. Buna göre ikramiye, devamlılık arz eden prim, yakacak yardımı, giyecek yardımı, kira aydınlatma, servis yardımı, yemek yardımı ve benzeri ödemeler kıdem tazminatı hesabında dikkate alınır.\n\nÜcret miktarı, iş sözleşmesinde maktu bir tutar olarak yahut asgari ücret olarak kararlaştırılabilir. Böyle bir durumda ücret miktarı taraflar açısından belirli olduğundan, bu açıdan feshe bağlı alacakların belirsiz alacak niteliğinde olmadığı kabul edilebilir. Diğer taraftan yüzde usulü ücret, parça başı ücret yahut çıplak ücrete ilaveten prim sistemi ve buna benzer usuller ile çalışılması ve bu anlamda ücret alacağının varlığı ve miktarının münhasıran işveren kayıtlarına dayalı olarak belirlenebileceği durumlarda ücret miktarı taraflar arasında belirli şekilde kararlaştırılmadığından, aynı sonuca ulaşılamayacaktır. Fazla çalışma ücreti, hafta tatili ücreti ve genel tatil ücreti alacaklarının tanık beyanlarına dayalı olarak belirlenmesi durumunda, davacının öngöremeyeceği ve tamamen hâkimin takdirine bağlı oranda uygun bir indirim yapılacağından, bu durumda söz konusu alacakların belirsiz nitelikte olduğu konusunda uygulama birliği mevcuttur.",
+      "key_principles": [
+        "kıdem tazminatı hesabı",
+        "giydirilmiş ücret",
+        "maktu ücret",
+        "hâkimin takdir yetkisi",
+        "tanık beyanlarına dayalı indirim"
+      ],
+      "referenced_laws": [
+        "4857/32",
+        "4857/59",
+        "6100/107"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç: İçtihadı Birleştirmeye Gerek Bulunmadığına Dair Karar",
+      "text": "İçtihatları Birleştirme Büyük Genel Kurulunda yapılan görüşmeler sonucunda, işçilik alacaklarının çok değişik tür ve nitelikte uyuşmazlık olarak mahkemeler önüne gelebileceği, aynı tür ve nitelikteki işçilik alacaklarında dahi her defasında alacağın belirli veya belirsiz olmasından söz edilmesinin mümkün olmadığı, her bir somut olayın özelliğine göre mahkemelerin alacağın belirli mi yoksa belirsiz alacak mı olduğunu tespit etmeleri gerektiği, alacağın türü itibariyle bir alacağın belirli veya belirsiz alacak olduğundan söz edilemeyeceği, bu hususta yapılacak içtihadı birleştirmenin, içtihadı birleştirme kararlarının soyut, genel ve her defasında geçerli normatif yapısıyla bağdaşmadığı gerekçeleriyle içtihadı birleştirmeye gerek olmadığına, 15.12.2017 tarihinde oy birliğiyle karar verilmiştir.\n\nBir alacağın belirsiz olup olmadığı ile ilgili olarak kabul edilen kıstaslar: 1- Davacının kendisinden beklenememesi, 2- Bunun olanaksız olması, 3- Açıkça karşı tarafın verdiği bilgi veya tahkikat sonucu alacağın miktarı ve değerinin tam ve kesin olarak belirlenebilmesinin mümkün olması, olarak ifade edilebilir. İşçilik alacakları bakımından da, belirtilen kıstaslar doğrultusunda, talep edilen alacağın niteliği, hesaplanma şekli, alacağın miktarının münhasıran işveren kayıtlarına dayalı olarak tespit edilip edilmediği, alacağın miktarını tam ve kesin olarak belirleyebilmesinin davacıdan beklenip beklenemeyeceği, talep edilen alacak toplu iş sözleşmesinden kaynaklanmakta ise düzenlemenin niteliği ve objektif olarak belirlenebilmesinin mümkün olup olmadığı gibi ve buna benzer hususlar gözetilerek somut uyuşmazlığın koşullarına göre değerlendirme yapılması gerektiği sonucuna ulaşılmıştır.",
+      "key_principles": [
+        "somut olaya göre değerlendirme ilkesi",
+        "içtihadı birleştirme kararlarının normatif niteliği",
+        "belirsiz alacak davasının şartları",
+        "oybirliği"
+      ],
+      "referenced_laws": [
+        "6100/107",
+        "2797/16",
+        "2797/45"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/107",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/109",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/119",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/32",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/59",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2797/16",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2797/45",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/67",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "YHGK 2012/9-838 E. 2012/715 K.",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Y9HD 2011/47206 E. 2011/39092 K.",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Y22HD 2014/442 E. 2014/2051 K.",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "medeni usul hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "e-2016-6-k-2017-5-t-15-12-2017-1.md"
+}

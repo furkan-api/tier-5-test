@@ -1,0 +1,207 @@
+{
+  "entities": {
+    "Karar": "Danıştay 8. D., E. 2024/1876 K. 2025/7434 T. 8.10.2025",
+    "EsasNo": "2024/1876",
+    "KararNo": "2025/7434",
+    "KararTarihi": "2025-10-08",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Sekizinci Dairesi",
+    "MahkemeTuru": "danistay",
+    "Daire": "8. Daire",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı",
+    "Davaci": "Davacı (kimlik gizlenmiş)",
+    "Davali": "Yalova Valiliği",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Gizlenmiş",
+    "IlkDereceKarari": {
+      "mahkeme": "İdare Mahkemesi (Yalova)",
+      "esas_no": "Gizlenmiş",
+      "karar_no": "Gizlenmiş",
+      "tarih": "Gizlenmiş",
+      "sonuc": "Dava konusu işlemin iptali"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davacı ve davalı Yalova Valiliği tarafından İdare Mahkemesi kararının hukuka aykırı olduğu öne sürülerek 2577 sayılı Kanun'un 49. maddesi uyarınca karşılıklı olarak temyizen incelenerek bozulması istenilmektedir.",
+    "KararDuzeltme": "Kararın tebliğ tarihini izleyen 15 gün içerisinde kararın düzeltilmesi yolu açık bırakılmıştır.",
+    "BozmaKarari": "Danıştay 8. Dairesinin 23/06/2023 tarih ve E:2020/5082, K:2023/3426 sayılı kararı ile daha önce verilen İdare Mahkemesi kararı bozulmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "KISMI_BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "Yalova ili, ilgili parselin üzerindeki şerhin kaldırılarak 6292 sayılı Kanun'un 2/B niteliğindeki taşınmazlar ile ilgili hükümleri uyarınca işlem yapılması yolundaki 24/05/2012 günlü başvurusunun reddine ilişkin Yalova Valiliği Defterdarlık Milli Emlak Müdürlüğü işlemi",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Davacının temyiz istemi reddedilerek İdare Mahkemesi kararı onanmış; davalı idarenin temyiz istemi ise 30 günlük yasal süre geçirildikten sonra 13/02/2025 tarihinde yapıldığından süre yönünden reddedilmiştir.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Temyiz süresinin kaçırılması nedeniyle davalı idarenin temyiz istemi süre yönünden reddedilmiştir.",
+    "Mevzuat": [
+      "6292/2",
+      "2577/46",
+      "2577/48/6",
+      "2577/49",
+      "2577/49/1"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "idare hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve İstemin Özeti",
+      "text": "İstemin Özeti : Yalova ili, ... Köyü, ... Mevkii, ... ada,... sayılı parselin üzerindeki şerhin kaldırılarak 6292 sayılı Kanun'un 2/B niteliğindeki taşınmazlar ile ilgili hükümleri uyarınca işlem yapılması yolundaki 24/05/2012 günlü başvurusunun reddine ilişkin Yalova Valiliği Defterdarlık Milli Emlak Müdürlüğünü... tarih ve ... sayılı işlemin iptali istemiyle açılan davada; dava konusu işlemin iptali yolundaki İdare Mahkemesi kararını bozan Danıştay 8. Dairesinin 23/06/2023 tarih ve E:2020/5082, K:2023/3426 sayılı kararına uyan .... İdare Mahkemesinin ... tarih ve E:... K:... sayılı kararının hukuka aykırı olduğu öne sürülerek, 2577 sayılı Kanun'un 49. maddesi uyarınca karşılıklı olarak temyizen incelenerek bozulması istenilmektedir.",
+      "key_principles": [
+        "6292 sayılı Kanun kapsamında 2/B niteliğindeki taşınmazlara ilişkin işlemlerin iptali",
+        "İdare mahkemesi kararlarının temyiz yoluyla incelenmesi"
+      ],
+      "referenced_laws": [
+        "6292/2",
+        "2577/49"
+      ],
+      "referenced_decisions": [
+        "E:2020/5082, K:2023/3426"
+      ]
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Tarafların Savunmaları",
+      "text": "Savunmanın Özeti: Davalı idare tarafından davacının istemin reddi gerektiği savunulmaktadır.\n\nDanıştay Tetkik Hakimi : ...\n\nDüşüncesi : İstemin reddi gerektiği düşünülmektedir.",
+      "key_principles": [
+        "Davalı idarenin savunma hakkı",
+        "Tetkik hakimi görüşü"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Davacının Temyiz İstemi Yönünden Hukuki Değerlendirme",
+      "text": "Davacının temyiz istemi yönünden;\n\nİdare ve vergi mahkemeleri tarafından verilen kararların temyiz yolu ile incelenip bozulabilmeleri 2577 sayılı İdari Yargılama Usulü Kanunu'nun 49. maddesinin 1. fıkrasında yazılı nedenlerin bulunmasına bağlıdır.\n\nİdare Mahkemesince verilen karar ve dayandığı gerekçe usul ve yasaya uygun olup, bozulmasını gerektiren bir neden bulunmadığından, temyiz isteminin reddi gerekmektedir.",
+      "key_principles": [
+        "Temyiz incelemesinin 2577 sayılı Kanun'un 49/1. maddesindeki nedenlerle sınırlı olması",
+        "Usul ve yasaya uygun mahkeme kararlarının bozulmaması gerekliliği"
+      ],
+      "referenced_laws": [
+        "2577/49",
+        "2577/49/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Davalı İdarenin Temyiz İstemi ve Süre Aşımı Değerlendirmesi",
+      "text": "Davalı idarenin temyiz istemi yönünden ise;\n\n2577 sayılı Kanun'un 'Temyiz' başlıklı 46. maddesinde, Danıştay dava dairelerinin nihai kararları ile bölge idare mahkemelerinin aşağıda sayılan davalar hakkında verdikleri kararlar, başka kanunlarda aksine hüküm bulunsa dahi Danıştay'da kararın tebliğinden itibaren otuz gün içinde temyiz edilebilir.'' hükmü ile; aynı Kanun'un 'Temyiz Dilekçesi' başlıklı 48. maddesinin 6. fıkrasında '... Temyizin kanuni süre geçtikten sonra yapılması veya kesin bir karar hakkında olması halinde de kararı veren merci, temyiz isteminin reddine karar verir.'' hükmü kurala bağlanmıştır.\n\nDosyanın incelenmesinden; ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararının hem davacıya hem davalı idareye 12/03/2024 tarihinde tebliğ edildiği ve mevzuat gereği 17/03/2024 tarihinde otomatik olarak okundu sayıldığı, davacı tarafından 21/03/2024 tarihinde Mahkeme kayıtlarına giren dilekçe ile temyiz başvurusunda bulunulduğu; davalı idare tarafından ise, yukarıda yer verilen mevzuat hükmünde belirtilen temyiz kanun yoluna başvurma süresinden sonraki bir tarih olan 13/02/2025 tarihinde Mahkeme kayıtlarına giren dilekçe ile Mahkeme kararının temyiz edildiği anlaşılmaktadır.\n\nBu durumda, mahkeme kararını 30 günlük yasal süresi içinde temyiz edilmediği anlaşıldığından, davalı idarenin temyiz isteminin incelenme olanağı bulunmamaktadır.",
+      "key_principles": [
+        "Temyiz süresinin tebliğden itibaren 30 gün olması",
+        "Kanuni süre geçtikten sonra yapılan temyiz başvurularının reddi zorunluluğu",
+        "Elektronik tebliğde otomatik okundu sayılma kuralı",
+        "Süre aşımı halinde temyiz başvurusunun esastan incelenemeyeceği"
+      ],
+      "referenced_laws": [
+        "2577/46",
+        "2577/48/6"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan nedenlerde; davacının temyiz istemi yönünden istemin reddi ile İdare Mahkemesince verilen kararın bozulmasını gerektiren bir neden bulunmadığından anılan kararın onanmasına, davalı idarenin temyiz başvurusu yönünden ise, temyiz isteminin süre yönünden reddine, temyiz giderlerinin istemde bulunanlar üzerinde bırakılmasına, bu kararın tebliğ tarihini izleyen 15 (onbeş) gün içerisinde kararın düzeltilmesi yolu açık olmak üzere, 08/10/2025 tarihinde oybirliği ile karar verildi.",
+      "key_principles": [
+        "Davacının temyiz isteminin reddi ile İdare Mahkemesi kararının onanması",
+        "Davalı idarenin temyiz isteminin süre yönünden reddi",
+        "Temyiz giderlerinin istemde bulunanlara yüklenmesi",
+        "Karar düzeltme yolunun açık tutulması",
+        "Oybirliği ile karar verilmesi"
+      ],
+      "referenced_laws": [
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/49",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/46",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/48/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6292/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "E:2020/5082 K:2023/3426",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İdare Mahkemesi (Yalova)",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay 8. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1.md"
+}

@@ -30,7 +30,7 @@ from rich.table import Table
 from textual import on, work
 from textual.app import App, ComposeResult
 from textual.binding import Binding
-from textual.containers import Horizontal, Vertical
+from textual.containers import Container, Horizontal, Vertical
 from textual.reactive import reactive
 from textual.widgets import (
     DataTable,
@@ -90,12 +90,12 @@ HELP_TEXT = """\
 
 [bold cyan]Keyboard Shortcuts[/]
 
-  [bold]/[/]             Focus search bar
-  [bold]s[/]             Show stats
-  [bold]b[/]             Go back (node navigation)
+  [bold]Escape[/]        Focus search bar
+  [bold]Ctrl+S[/]        Show stats
+  [bold]Ctrl+B[/]        Go back (node navigation)
   [bold]Ctrl+L[/]        Clear screen
-  [bold]q[/]             Quit
-  [bold]Enter[/]         Inspect selected node / edge target
+  [bold]Ctrl+Q[/]        Quit
+  [bold]Enter[/]         Submit query / inspect selected node
 """
 
 
@@ -166,11 +166,11 @@ class GraphRAGCLI(App):
     """
 
     BINDINGS = [
-        Binding("q", "quit", "Quit", priority=False),
+        Binding("ctrl+q", "quit", "Quit"),
         Binding("ctrl+l", "clear_screen", "Clear"),
-        Binding("s", "show_stats", "Stats", priority=False),
-        Binding("slash", "focus_search", "/Search", key_display="/"),
-        Binding("b", "go_back", "Back", priority=False),
+        Binding("ctrl+s", "show_stats", "Stats"),
+        Binding("escape", "focus_search", "Search"),
+        Binding("ctrl+b", "go_back", "Back"),
     ]
 
     # Adjustable query parameters
@@ -189,7 +189,7 @@ class GraphRAGCLI(App):
 
     def compose(self) -> ComposeResult:
         yield Header()
-        with Vertical(id="search-bar"):
+        with Container(id="search-bar"):
             yield Input(
                 placeholder="Search query or /help for commands…",
                 id="search-input",
@@ -211,13 +211,13 @@ class GraphRAGCLI(App):
         table.add_columns("Score", "ID", "Type")
         table.cursor_type = "row"
         self._nav_stack = []
+        self.query_one("#search-input", Input).focus()
+        self._check_health()
 
     def _set_left_label(self, text: str) -> None:
         """Update the left panel section label."""
         label = self.query_one("#left-panel > .section-label", Static)
         label.update(text)
-        self.query_one("#search-input", Input).focus()
-        self._check_health()
 
     # ── Helpers ───────────────────────────────────────────────────────────
 
@@ -266,6 +266,7 @@ class GraphRAGCLI(App):
         text = event.value.strip()
         if not text:
             return
+        self.query_one("#search-input", Input).value = ""
 
         if text == "/help":
             log = self.query_one("#detail-log", RichLog)
@@ -637,7 +638,7 @@ class GraphRAGCLI(App):
                 )
 
         total = len(in_edges) + len(out_edges)
-        back_hint = "  |  [b] back" if self._nav_stack else ""
+        back_hint = "  |  Ctrl+B back" if self._nav_stack else ""
         self._set_summary(
             f"[green]✓[/] {n['node_id']} ({n['node_type']}) — "
             f"{total} edges, {len(seen)} unique targets  |  "

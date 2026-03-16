@@ -1,0 +1,304 @@
+{
+  "entities": {
+    "Karar": "Danıştay VDDK., E. 2023/1417 K. 2025/747 T. 8.10.2025",
+    "EsasNo": "2023/1417",
+    "KararNo": "2025/747",
+    "KararTarihi": "2025-10-08",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Vergi Dava Daireleri Kurulu",
+    "MahkemeTuru": "danistay",
+    "Daire": "Vergi Dava Daireleri Kurulu",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, ısrar kararı bozuldu",
+    "Davaci": "... İnşaat Sanayi ve Ticaret Limited Şirketi",
+    "Davali": "... Defterdarlığı - ... Vergi Dairesi Müdürlüğü",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Danıştay Tetkik Hâkimi (isim gizlenmiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "... Vergi Mahkemesi",
+      "esas_no": "gizlenmiş",
+      "karar_no": "gizlenmiş",
+      "tarih": null,
+      "sonuc": "Katma değer vergileri ve vergi ziyaı cezaları kaldırıldı"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalı idare",
+      "mahkeme": "... Bölge İdare Mahkemesi ... Vergi Dava Dairesi",
+      "esas_no": "gizlenmiş",
+      "karar_no": "gizlenmiş",
+      "sonuc": "İstinaf istemi reddedildi; ısrar kararıyla aynı sonuca ulaşıldı"
+    },
+    "TemyizBasvurusu": "Davalı idare, gerçek emtia teslimi veya hizmet ifasına dayanmayan fatura düzenleyen mükelleften temin edilen faturaların kayıtlara intikal ettirilmesi nedeniyle tarh edilen vergi ve kesilen cezalarda hukuka aykırılık bulunmadığı gerekçesiyle ısrar kararının bozulmasını talep etmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Danıştay Dördüncü Dairesinin 16/02/2023 tarih ve E:2019/9759, K:2023/755 sayılı kararıyla; fatura düzenleyen mükellefin yeterli ticari organizasyona sahip olmaması, tedarikçilerinin sahte belge düzenleyicisi olması, araç plakalarının nakliyecilerce tanınmaması gibi tespitler nedeniyle faturaların gerçek emtia teslimine dayanmadığı sonucuna ulaşılarak Bölge İdare Mahkemesi kararı bozulmuştur.",
+    "KesinHukum": true,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": "Temyiz dilekçesinde ileri sürülen iddialar, dayandığı hukuksal nedenler ve gerekçe karşısında ısrar kararının bozulmasını gerektirecek nitelikte bulunmadığından, istemin reddi gerektiği oyu ile karara katılınmamıştır.",
+    "OyBirligi": false,
+    "OyCoklugu": true,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "2016 yılının Nisan-Temmuz, Kasım ve Aralık dönemleri için davacı adına vergi inceleme raporuna istinaden resen tarh edilen katma değer vergileri ile vergilerin bir katı tutarında kesilen vergi ziyaı cezaları",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Danıştay Vergi Dava Daireleri Kurulu, Bölge İdare Mahkemesi ısrar kararını oyçokluğuyla bozmuştur.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "3065/29",
+      "3065/30",
+      "213/359",
+      "213/344",
+      "213/341"
+    ],
+    "AnaSuc": "Sahte fatura (gerçek emtia teslimi veya hizmet ifasına dayanmayan belge) kullanımı suretiyle KDV indirimi",
+    "HukukiKonu": "vergi hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Yargılama Süreci",
+      "text": "Dava konusu istem: Davacı adına, gerçek emtia teslimi veya hizmet ifasına dayanmayan bir kısım faturayı kayıtlarına intikal ettirerek indirim konusu yaptığından bahisle düzenlenen vergi inceleme raporuna istinaden 2016 yılının Nisan ila Temmuz, Kasım ve Aralık dönemleri için resen tarh edilen katma değer vergileri ile vergilerin bir katı tutarında kesilen vergi ziyaı cezalarının kaldırılması istemiyle dava açılmıştır.",
+      "key_principles": [
+        "Sahte fatura kullanımında KDV indirimi",
+        "Vergi ziyaı cezası",
+        "Resen tarhiyat"
+      ],
+      "referenced_laws": [
+        "3065/29",
+        "3065/30",
+        "213/344"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "Vergi Mahkemesi Kararı ve Fatura Düzenleyici Mükellef Hakkındaki Tespitler",
+      "text": "Davacıya fatura düzenleyen Karabük Vergi Dairesi mükellefi ... Demir Çelik Nakliyat İnşaat Taahhüt Sanayi ve Ticaret Limited Şirketi hakkında tanzim edilen Vergi Tekniği Raporu'nda şu tespit ve değerlendirmelere yer verilmiştir: i. Mükellef şirket 07/12/2015 tarihinde demir/çelikten diğer birincil formdaki ürünlerin toptan ticareti ile iştigal etmek üzere kurulmuştur. ii. 09/12/2015 tarihinde yapılan yoklamada, ofis olan iş yerinin mülkiyetinin şirketin %100 hisseli ortağı olan ...'ün babası ve şirket yöneticisi olan ...'e ait olduğu, aylık net 350,00 TL kira ödenen iş yerinde iki adet büro masası, iki koltuk ve dört sandalye bulunduğu tespit edilmiştir. Bu tespitler doğrultusunda mükellefin demir ticareti yapmak için gerekli olan nakliye, yükleme, boşaltma işlerini yapacak aracının olmadığı ve beyan ettiği satış hacmini gerçekleştirebilecek kapasitesinin olmadığı yönünde değerlendirme yapılmıştır. iii. \"... - ... Demir Çelik Nakliye ve Komisyon\" ünvanlı ticari işletme, öz sermaye raporu ile aktif ve pasifi ile yeni kurulan mükellef şirkete devredilmiştir. iv. 2016 yılında toplam 112.953.038,75 TL katma değer vergisi matrahı beyan edilmiş olmasına rağmen hiçbir dönemde ödenecek verginin çıkmadığı görülmüştür. v. Mükellef şirketin %100 hisseli ortağı ve müdürü olan ... özel esaslara alınmış ancak daha sonra özel esaslardan çıkarılmıştır. vi. 2016 yılına ilişkin olarak verdiği muhtasar beyannamelerde her ay üç ila dört işçi çalıştırdığını beyan etmiştir. vii. Mükellefin mal alışlarına ilişkin Form Ba bildirimleri içinde yer alan mükelleflerin %12'si hakkında gerçek emtia teslimi veya hizmet ifasına dayanmayan belge düzenleme yönünden vergi tekniği raporu tanzim edildiği, %83'ünün özel esaslar kapsamında olduğu görülmüştür.",
+      "key_principles": [
+        "Vergi tekniği raporu tespitlerinin değerlendirilmesi",
+        "Ticari organizasyon kapasitesi",
+        "Özel esaslar uygulaması",
+        "Form Ba/Bs bildirimleri"
+      ],
+      "referenced_laws": [
+        "3065/29",
+        "213/359"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "evidence_evaluation",
+      "title": "Karşıt İnceleme Tespitleri ve Nakliyeci Beyanları",
+      "text": "Mükelleften mal aldığını bildiren ... Demir Çelik İnşaat Nakliye Sanayi ve Ticaret Limited Şirketi nezdinde yapılan karşıt incelemede, anılan şirketin temsilcisi, nakliye ödemeleri dahil tüm ödemelerin mükellefe EFT yoluyla yapıldığını, alışların tamamının gerçek olduğunu, bu malların sevkiyatını yapan araçlara ilgili vergi dairesince denetim noktalarında yapılan denetimlerde sevk irsaliyelerinin arkasına \"görülmüştür\" kaşesi basıldığını beyan etmiş ve ilgili yol denetimlerinde malların sevki sırasında ilgili araçların fazla tonajdan veya taşınan miktarın sevk irsaliyesinde sehven belirtilmemesinden dolayı kesilen cezaların evraklarını ibraz etmiştir. Mükellefin ibraz ettiği fatura ve sevk irsaliyelerinde plakaları yer alan araçların nakliyecileri nezdinde yapılan karşıt incelemelerde, bazı nakliyeciler mal sevkiyatını doğrulamış; bazı nakliyeciler söz konusu tarihlerde belirtilen tonajda sevkiyat yaptıklarını ancak şirketin farklı olduğunu ve çalıştıkları şirketin malı kimden aldığını bilemeyeceklerini beyan etmiştir. Bazı plakalı araçların nakliyecileri söz konusu tarihlerde başka firmaların sevkiyatlarını yaptıkları için o tarihte mükellef şirket ile çalışmalarının mümkün olmadığını beyan etmiştir. Bazı plakalı araçların nakliyecileri ise sevkiyat yapılmadığını ve araç plakalarının neden verildiğini bilmediklerini beyan etmiştir. Şirketin münhasıran komisyon karşılığında gerçek emtia teslimi veya hizmet ifasına dayanmayan belge düzenleme faaliyetinde bulunmak üzere kurulduğu sonucuna varılmıştır.",
+      "key_principles": [
+        "Karşıt inceleme delil değeri",
+        "Sevk irsaliyesi ve nakliye belgelerinin ispat gücü",
+        "Banka transferlerinin delil niteliği",
+        "Paravan şirket tespiti"
+      ],
+      "referenced_laws": [
+        "213/227",
+        "213/229"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "lower_court_decision",
+      "title": "Vergi Mahkemesi Değerlendirmesi ve Kararı",
+      "text": "Aktarılan hususların değerlendirilmesinden, anılan mükellefin davacıya fatura düzenlediği dönemler itibarıyla gerçekte faal olmadığı yönünde yapılmış yeterli ve somut bir tespitin bulunmadığı, mükelleften mal alımında bulunan firma temsilcileri nezdinde yapılan karşıt incelemelerde mükellef hakkında olumsuz bir ifadenin yer almadığı, ilgili dönem kurumlar vergisi, geçici vergi ve katma değer vergisi beyannamelerini verdiği, vergi tekniği raporunda herhangi bir envanter araştırmasının yapılmadığı, 2016 yılının tüm dönemlerinde üç ila dört işçi çalıştırdığı, yapılan yoklamada yerinde bulunduğu, ticari faaliyetini sürdürdüğü ve mükellefiyetinin resen terkin edilmediği, uyuşmazlık konusu dönemlerde iş yerinin kapalı olduğu veya faaliyette bulunmadığına yönelik herhangi bir tespitin de bulunmadığı sonucuna ulaşılmıştır. Yukarıda yer verilen bazı olumsuz tespitler, anılan mükellefin komisyon geliri elde etmek amacıyla kurulan paravan bir firma olduğunun ve düzenlediği tüm faturaların da gerçek bir emtia teslimi veya hizmet ifasına dayanmadığının kabulüne olanak tanımamaktadır. Bu durumda, bahsi geçen mükellefin ilgili dönemlerde gerçek bir ticari faaliyette bulunmadığının yeterli verilerle ortaya konulamaması ve eleştiri konusu faturalar içeriği emtianın bu mükelleften alınmadığı yönünde yapılmış somut bir tespitin bulunmaması karşısında davacının söz konusu mükelleften temin ettiği faturalara ilişkin katma değer vergisi indirimlerinin reddi suretiyle yapılan dava konusu cezalı tarhiyatlarda hukuka uygunluk bulunmamaktadır. Vergi Mahkemesi bu gerekçeyle vergi ve cezaları kaldırmıştır.",
+      "key_principles": [
+        "İspat yükü idarede",
+        "Sahte fatura tespitinde somut delil aranması",
+        "Faaliyetin gerçekliğinin kanıtlanması",
+        "Envanter araştırmasının önemi"
+      ],
+      "referenced_laws": [
+        "3065/29",
+        "3065/30",
+        "213/344"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "appellate_evaluation",
+      "title": "Bölge İdare Mahkemesi İstinaf ve Israr Kararı",
+      "text": "Davacıya fatura düzenleyen mükellef adına, gerçek emtia teslimi veya hizmet ifasına dayanmayan fatura düzenlemek suretiyle komisyon geliri elde ettiğinden bahisle re'sen tarh edilen kurumlar vergisi, geçici vergiler ve katma değer vergileri ile kesilen vergi ziyaı cezalarının kaldırılması yolunda verilen kararlara davalı idarece yöneltilen istinaf istemlerinin reddedildiği görülmüştür. Vergi Dava Dairesi istinaf istemine konu kararın usul ve hukuka uygun olduğu ve kaldırılmasını gerektiren bir nedenin bulunmadığı gerekçesiyle istinaf istemini reddetmiştir. Davalının temyiz istemini inceleyen Danıştay Dördüncü Dairesinin 16/02/2023 tarih ve E:2019/9759, K:2023/755 sayılı kararı ile bozma kararı üzerine Vergi Dava Dairesi aynı hukuksal nedenler ve gerekçeyle ısrar etmiştir.",
+      "key_principles": [
+        "İstinaf incelemesinde usul ve hukuka uygunluk denetimi",
+        "Israr kararı mekanizması"
+      ],
+      "referenced_laws": [
+        "2577/46",
+        "2577/49"
+      ],
+      "referenced_decisions": [
+        "E:2019/9759 K:2023/755"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "cassation_grounds",
+      "title": "Danıştay Dördüncü Dairesinin Bozma Kararı ve Temyiz İddiaları",
+      "text": "Danıştay Dördüncü Dairesinin 16/02/2023 tarih ve E:2019/9759, K:2023/755 sayılı kararında: Davacıya fatura düzenleyen mükellef hakkında tanzim edilen vergi tekniği raporunda yer alan tespitlerin değerlendirilmesinden, yüksek tutarlı katma değer vergisi matrahları beyan etmesine rağmen anılan hasılatları yapabilecek ticari organizasyonunun olmaması, mal ve hizmet alımı yaptığını bildirdiği mükelleflerin çoğu hakkında düzenledikleri faturaların gerçek bir emtia teslimi veya hizmet ifasına dayanmadığı yönünde tanzim edilmiş raporlar veya olumsuz tespitler bulunması, elde ettiği yüksek cirolara rağmen tahakkuk eden düşük tutarlı vergi borçlarını ödememesi, fatura ve sevk irsaliyelerinde plakaları yer alan araçların nakliyecileri nezdinde yapılan karşıt incelemelerde bu kişilerce tanınmaması, sevkiyat tarihlerinde başka şirketlere sevkiyat yapılması ya da hiç sevkiyat yapılmadığının beyan edilmesi hususları birlikte dikkate alındığında anılan mükellef tarafından davacıya düzenlenen faturaların gerçek bir emtia teslimi veya hizmet ifasına dayanmadığı sonucuna ulaşıldığından, aksi yönde verilen Vergi Dava Dairesi kararında hukuka uygunluk bulunmamaktadır. Temyiz eden davalı idare, hakkında tanzim edilen vergi tekniği raporuyla düzenlediği faturaların gerçek bir emtia teslimi veya hizmet ifasına dayanmadığı belirlenen mükelleften temin ettiği faturaları kayıtlarına intikal ettirerek indirim konusu yaptığı tespit edilen davacı adına tarh edilen vergi ve kesilen cezalarda hukuka aykırılık bulunmadığı belirtilerek ısrar kararının bozulması gerektiği ileri sürülmektedir.",
+      "key_principles": [
+        "Sahte fatura tespitinde bütüncül değerlendirme",
+        "Ticari organizasyon kapasitesi",
+        "Nakliye belgelerinin gerçekliği",
+        "Vergi borcu ödeme performansı",
+        "Tedarik zinciri olumsuz tespitleri"
+      ],
+      "referenced_laws": [
+        "3065/29",
+        "3065/30",
+        "213/359",
+        "213/344"
+      ],
+      "referenced_decisions": [
+        "E:2019/9759 K:2023/755"
+      ]
+    },
+    {
+      "order": 7,
+      "type": "legal_evaluation",
+      "title": "Danıştay VDDK Hukuki Değerlendirmesi",
+      "text": "Karar veren Danıştay Vergi Dava Daireleri Kurulunca, Tetkik Hâkiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra gereği görüşüldü:\n\nHUKUKİ DEĞERLENDİRME:\n\nDanıştay Dördüncü Dairesinin yukarıda yer verilen kararının dayandığı aynı hukuksal nedenler ve gerekçeyle ısrar kararının bozulması gerekmektedir.\n\nDanıştay Tetkik Hâkiminin düşüncesi de temyizen incelenen ısrar kararının, Danıştay Dördüncü Dairesinin kararında yer alan hukuksal nedenler ve gerekçe uyarınca bozulması gerektiği yönündedir.",
+      "key_principles": [
+        "VDDK'nın Danıştay dairesi kararına uyumu",
+        "Israr kararının bozulma gerekçesi",
+        "Sahte fatura kullanan mükellefin indirim hakkı"
+      ],
+      "referenced_laws": [
+        "2577/49"
+      ],
+      "referenced_decisions": [
+        "E:2019/9759 K:2023/755"
+      ]
+    },
+    {
+      "order": 8,
+      "type": "conclusion_and_judgment",
+      "title": "Karar Sonucu ve Karşı Oy",
+      "text": "KARAR SONUCU:\n\nAçıklanan nedenlerle;\n\n1- Davalının temyiz isteminin KABULÜNE,\n\n2- ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı ısrar kararının BOZULMASINA,\n\n3- Yeniden verilecek kararda karşılanacağından, yargılama giderleri hakkında hüküm kurulmasına gerek bulunmadığına,\n\n08/10/2025 tarihinde oyçokluğuyla kesin olarak karar verildi.\n\nKARŞI OY:\n\nTemyiz dilekçesinde ileri sürülen iddialar, dayandığı hukuksal nedenler ve gerekçe karşısında ısrar kararının bozulmasını gerektirecek nitelikte bulunmadığından, istemin reddi gerektiği oyu ile karara katılmıyoruz.",
+      "key_principles": [
+        "Kesin karar niteliği",
+        "Oyçokluğuyla karar",
+        "Yargılama giderleri",
+        "Karşı oy hakkı"
+      ],
+      "referenced_laws": [
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay Vergi Dava Daireleri Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... Vergi Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... Bölge İdare Mahkemesi ... Vergi Dava Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Danıştay 4. Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "E:2019/9759 K:2023/755",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3065/29",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3065/30",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/344",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/359",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/49",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "vergi hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1.md"
+}

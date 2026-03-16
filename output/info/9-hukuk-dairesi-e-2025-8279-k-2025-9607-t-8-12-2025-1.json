@@ -1,0 +1,254 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 9. HD., E. 2025/8279 K. 2025/9607 T. 8.12.2025",
+    "EsasNo": "2025/8279",
+    "KararNo": "2025/9607",
+    "KararTarihi": "2025-12-08",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 9. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "9. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı; kısmen red, kısmen bozma",
+    "Davaci": "Ekskavatör operatörü işçi",
+    "Davali": "... Havalimanları İnşaatı Adi Ortaklığı Ticari İşletmesi ve ... Uluslararası Nakliyat İhr. ve Tic. Ltd. Şti.",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Tetkik Hâkimi (isim belirtilmemiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "Bakırköy 16. İş Mahkemesi",
+      "esas_no": "2017/438",
+      "karar_no": "2020/368",
+      "tarih": null,
+      "sonuc": "Davanın kısmen kabulü; kıdem tazminatı, yıllık ücretli izin, fazla çalışma ücreti, ulusal bayram ve genel tatil ücreti ile hafta tatili ücretine hükmedildi"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalılar vekilleri",
+      "mahkeme": "İstanbul Bölge Adliye Mahkemesi 32. Hukuk Dairesi",
+      "esas_no": "2020/2800",
+      "karar_no": "2025/1334",
+      "sonuc": "İstinaf başvurularının ayrı ayrı esastan reddi"
+    },
+    "TemyizBasvurusu": "Davalılar ... Adi Ortaklığını oluşturan Şirketler vekili; ücretin bordrolar yerine tanık beyanıyla belirlenmesinin hatalı olduğunu, alacakların bulunmadığını, tüm ödemelerin banka kanalıyla yapıldığını ve faiz başlangıç tarihlerinin hukuka aykırı olduğunu ileri sürmüştür. Davalı ... Ltd. Şti. vekilinin temyiz dilekçesi miktardan reddedilmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "İş sözleşmesinin 12/3 hükmü uyarınca fazla çalışmanın aylık ücrete dahil olduğu kararlaştırıldığından, yıllık 270 saatlik (aylık 22,5 saat, haftalık 5,2 saat) fazla çalışma ücretinin ispatlanan fazla çalışmadan indirilmesi gerekirken bu husus gözetilmeksizin karar verilmesi hatalı olup bozma gerektirmiştir.",
+    "KesinHukum": false,
+    "HukumSonucu": "KISMI_BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Kesinlik sınırı nedeniyle ... Ltd. Şti. temyiz dilekçesi miktardan reddedilmiştir; 6100 sayılı HMK ek madde 1/2 uyarınca dava tarihi itibarıyla 41.530,00 TL kesinlik sınırı uygulanmıştır.",
+    "Mevzuat": [
+      "6100/362",
+      "6100/366",
+      "6100/352/1",
+      "6100/ek_madde_1/2",
+      "4857/41",
+      "7550/20"
+    ],
+    "AnaSuc": "İşçilik alacakları (kıdem tazminatı, yıllık ücretli izin, fazla çalışma ücreti, ulusal bayram ve genel tatil ücreti, hafta tatili ücreti)",
+    "HukukiKonu": "iş hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Ön İnceleme",
+      "text": "Bölge Adliye Mahkemesi kararı davalılar vekillerince temyiz edilmekle; yapılan ön inceleme sonucunda gereği düşünüldü:\n\nMiktar veya değeri kesinlik sınırını geçmeyen davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 362. maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın kesinlik sınırının altında kalması hâlinde anılan Kanun'un 366. maddesi atfıyla aynı Kanun'un 352/1-(b) hükmü uyarınca temyiz dilekçesinin reddine karar vermek gerekir.\n\nSomut uyuşmazlıkta, davalılardan ... Uluslararası Nakliyat İhr. ve Tic. Ltd. Şti. (... Ltd. Şti.) aleyhine hükmedilen ve temyize konu edilen toplam miktar, Bölge Adliye Mahkemesinin karar tarihi dikkate alındığında, 04.06.2025 tarihli Resmî Gazete'de yayımlanarak yürürlüğe giren 7550 sayılı Kanun'un 20. maddesi ile değiştirilen 6100 sayılı Kanun'un ek madde 1/2 hükmü uyarınca dava tarihi itibarıyla kesinlik sınırı olan 41.530,00 TL'nin altında kaldığı anlaşılmakla; davalı vekilinin temyiz dilekçesinin miktardan reddine karar vermek gerekmiştir.",
+      "key_principles": [
+        "Kesinlik sınırının altında kalan davalarda temyiz yolu kapalıdır",
+        "Temyiz dilekçesi kesinlik sınırı nedeniyle reddedilebilir"
+      ],
+      "referenced_laws": [
+        "6100/362",
+        "6100/366",
+        "6100/352/1",
+        "6100/ek_madde_1/2",
+        "7550/20"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Davacının İddiaları (Dava Dilekçesi)",
+      "text": "I. DAVA\n\nDavacı vekili dava dilekçesinde; müvekkilinin davalı ... Adi Ortaklığı nezdinde 18.12.2014-10.06.2015 tarihleri arasında ve davalı ... Adi Ortaklığının alt işveren işçisi olarak 26.08.2015 tarihinden iş sözleşmesini haklı olarak feshettiği 03.07.2017 tarihine kadar diğer davalı ... Ltd. Şti. nezdinde İstanbul 3. Havalimanı inşaatında ekskavatör operatörü olarak en son 3.550,00 TL net ücretle çalıştığını ve işçilik alacaklarının ödenmediğini ileri sürerek kıdem tazminatı, yıllık ücretli izin, fazla çalışma ücreti, ulusal bayram ve genel tatil ücreti ile hafta tatili ücretinin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.",
+      "key_principles": [
+        "Alt işveren-asıl işveren ilişkisinde müşterek ve müteselsil sorumluluk",
+        "İş sözleşmesinin işçi tarafından haklı sebeple feshi halinde kıdem tazminatı hakkı doğar"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Davalıların Savunmaları (Cevap Dilekçeleri)",
+      "text": "II. CEVAP\n\n1. Davalılar ... Adi Ortaklığını oluşturan Şirketler vekili cevap dilekçesinde; davacı iddialarının gerçeği yansıtmadığını, diğer davalı Şirketin sunduğu belgelerden de görüleceği üzere davacıya her türlü alacağının ödendiğini ve Şirket nezdinde herhangi bir alacağının kalmadığını, her ay fazla çalışma ücret tahakkuku bulunan ücret bordrolarının imzalı olduğunu ve davacı tarafından ihtirazı kayıt sunulmadığını, haftanın yedi günü günde 12 saat çalışılmasının hayatın olağan akışına aykırı olduğunu, davacıya hafta tatilleri ile ulusal bayram genel tatil izinlerinin kullandırıldığını, kullandırılmayan tatil günlerine ilişkin alacaklarının eksiksiz ödendiğini, davacının yıllık ücretli izin alacağının bulunmadığını savunarak davanın reddini istemiştir.\n\n2. Davalı ... Ltd. Şti. vekili cevap dilekçesinde; müvekkili Şirketin İstanbul 3. Havalimanı şantiyesinde alt yüklenici olarak hafriyat işlerini yürüten bir firma olduğunu, davacının da müvekkili Şirkette 26.08.2015-03.07.2017 tarihleri arasında ekskavatör operatörü olarak çalıştığını, müvekkili şirketin sadece davacının hizmet aldığı bu tarihler arası için sorumlu tutulabileceğini, bundan önceki dönem işçilik alacaklarından sorumlu tutulmasının hukuka ve hakkaniyete aykırı olduğunu, müvekkili Şirkette haftanın 5 günü çalışıldığını ancak zaman zaman fazla çalışma, hafta tatili ya da millî bayram çalışması yapıldığını ve ücretinin ödendiğini, fesih ihtarnamesinde ileri sürülen sebeplerin gerçeği yansıtmadığını ve kıdem tazminatı talebinde bulunulamayacağını savunarak davanın reddini istemiştir.",
+      "key_principles": [
+        "İmzalı ücret bordrosu ispat aracı olarak kullanılabilir",
+        "İhtirazı kayıt olmaksızın imzalanan bordronun hukuki sonuçları",
+        "Alt yüklenicinin sorumluluğu çalışma dönemle sınırlıdır"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararı ve İstinaf Sonucu",
+      "text": "III. İLK DERECE MAHKEMESİ KARARI\n\nİlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; iş sözleşmesinin davacı tarafından haklı sebeple feshedildiğinden kıdem tazminatına hak kazandığının kabulü gerektiği, bakiye 14 günlük yıllık ücretli izin alacağı olduğu, davacının fazla çalışma yaptığı, ulusal bayram ve genel tatil günleri ile hafta tatili günlerinde çalıştığına ilişkin iddiasının ispatlandığı ancak bu çalışmaların karşılığının ödenmediğinin anlaşıldığı gerekçesiyle davanın kısmen kabulüne karar verilmiştir.\n\nIV. İSTİNAF\n\nİlk Derece Mahkemesinin yukarıda belirtilen kararına karşı süresi içinde davalılar vekilleri tarafından istinaf başvurusunda bulunulması üzerine, Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile; İlk Derece Mahkemesinin vakıa ve hukuki değerlendirmesinde usul ve esas yönünden yasaya aykırılık bulunmadığı gerekçesiyle istinaf başvurularının ayrı ayrı esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "Haklı sebeple fesihte kıdem tazminatı hakkı",
+        "İspat yükü işçide olmakla birlikte ispatlanan fazla çalışmanın karşılığının ödenmesi gerekir",
+        "İstinaf mahkemesi ilk derece kararını hukuki ve vakıa açısından denetler"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "cassation_grounds",
+      "title": "Temyiz Sebepleri",
+      "text": "V. TEMYİZ\n\nA. Temyiz Sebepleri\n\n1. Davalılar ... Adi Ortaklığını oluşturan Şirketler vekili temyiz dilekçesinde;\n\na. Davacının ücretinin dosyada mübrez ücret bordrolarının aksine salt davacı tanık beyanlarıyla belirlenmesinin hatalı olduğunu,\n\nb. Davacının kıdem tazminatı ve yıllık ücretli izin alacağı ile dava konusu diğer taleplere ilişkin hak ve alacağının bulunmadığını,\n\nc. Davacıya hak kazandığı tüm ödemelerin banka kanalı ile yapıldığını ve davacının ücret bordrolarını aşan istemlerinin kabul edilemeyeceğini,\n\nd. Faiz başlangıç tarihlerinin hukuka aykırı olduğunu ileri sürmüştür.\n\n2. Davalı ... Ltd. Şti. vekilinin temyiz dilekçesinin miktardan reddine karar verildiğinden, temyiz sebeplerine yer verilmemiştir.",
+      "key_principles": [
+        "Ücretin belirlenmesinde yazılı belgeler esas alınmalıdır",
+        "Banka kanalıyla yapılan ödemeler ispat aracıdır",
+        "Faiz başlangıç tarihlerinin doğru tespiti zorunludur"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Fazla Çalışma Ücretinin Aylık Ücrete Dahil Edilmesinin Geçerliliği",
+      "text": "B. Değerlendirme ve Gerekçe\n\nUyuşmazlık, davacının dava konusu işçilik alacaklarına hak kazanıp kazanmadığı ve fazla çalışmanın ücrete dâhil olduğuna dair iş sözleşmesi hükmünün dikkate alınıp alınamayacağı hususlarındadır.\n\n1. Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki nitelendirilmesi ile uygulanması gereken hukuk kurallarına, dava şartlarına, yargılamaya hâkim olan ilkelere, ispat kurallarına ve temyiz olunan kararda belirtilen gerekçelere göre davalılar ... Adi Ortaklığını oluşturan Şirketler vekilinin aşağıdaki paragrafın kapsamı dışındaki temyiz itirazları yerinde görülmemiştir.\n\n2. Sözleşme özgürlüğü kuralı uyarınca yasal sınırlar içinde kalan fazla çalışma ücretinin aylık ücretin içinde olduğuna dair sözleşme hükümleri kural olarak geçerlidir. Dairemiz; yerleşik hâle gelen ilkeleri ile fazla çalışma ücretinin, ücrete dâhil olarak kararlaştırılmış olmasına sınırlı olarak değer vermektedir. Bu bağlamda sözleşme hükümlerinin geçerliliğine getirilen iki temel sınırlama mevcuttur. Bunlardan ilki, 4857 sayılı İş Kanunu'nun 41. maddesi gereği fazla çalışma süresinin bir yılda 270 saatten fazla olamayacağı; diğeri ise kararlaştırılan aylık temel ücretin asgari ücretin üzerinde olması gerekliliğidir. Bir başka anlatımla Dairemiz, ücret seviyesinin yüksekliğini kaydın geçerliliğinin tespitinde dikkate almaktadır.\n\nDiğer yandan iş sözleşmesinin devamı sırasında işçinin bir hakkından feragat etmesi veya hakkından feragat sonucu doğuran bir işlem yapması geçersizdir. Ancak fazla çalışmanın temel ücret içinde ödeneceğinin kararlaştırılmış olması, fazla çalışma ücretinden feragat anlamına gelmez. Fazla çalışma ücreti ödenmeyeceğinin kararlaştırılması ile fazla çalışmanın temel ücret içinde ödeneceğinin belirlenmesi birbirinden farklı kavramlardır. Bu bağlamda davacı fazla çalışma ücretinden feragat etmiş değildir.\n\nFazla çalışma onayı alınmasına ilişkin düzenleme, işçinin fazla çalışma yapmaya zorlanamaması bakımından önemlidir. Düzenlemenin amacı, işçiyi işverenin olası haksız feshine karşı korumaktır. Fazla çalışma ücretinin karşılığının kararlaştırılan temel ücretin içinde olduğuna ilişkin kayıtlar ise fazla çalışmanın ücretlendirilmesine ilişkindir. İş sözleşmesindeki kayıt ile taraflar, fiilen yapılan fazla çalışmanın nasıl ücretlendirileceğini belirlemişlerdir. Fazla çalışma ücreti dâhil edilerek belirlenen ücret, işçinin aylık temel ücreti olduğundan iş sözleşmesindeki kayda rağmen yapılmayan fazla çalışmanın karşılığı ücretin, işverence geri istenmesi de mümkün olmaz.",
+      "key_principles": [
+        "Sözleşme özgürlüğü ilkesi çerçevesinde fazla çalışma ücretinin aylık ücrete dahil edilmesi yasal sınırlar içinde geçerlidir",
+        "Yıllık fazla çalışma 270 saati aşamaz (4857/41)",
+        "Aylık temel ücretin asgari ücretin üzerinde olması şartı aranır",
+        "Fazla çalışmanın temel ücret içinde ödeneceğinin kararlaştırılması, fazla çalışma ücretinden feragat anlamına gelmez",
+        "İşçi iş sözleşmesi devam ederken haklarından feragat edemez"
+      ],
+      "referenced_laws": [
+        "4857/41"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Somut uyuşmazlıkta davacının davalılardan ... Ltd. Şti. nezdinde çalıştığı süre kapsamında taraflar arasında imzalanan iş sözleşmesinin 12/3 hükmünde fazla çalışmanın aylık ücrete dâhil olduğu kararlaştırılmıştır. Davacının kabul edilen ücretinin yıllık 270 saatlik fazla çalışma süresini karşılayacak miktarda olması karşısında, ücretin içinde ödendiği anlaşılan fazla çalışmanın (aylık 22,5 saat, haftalık 5,2 saat) ispatlanan fazla çalışmadan indirilmesi gerekir. Bu husus gözetilmeden karar verilmesi hatalı olup bozmayı gerektirmiştir.\n\nVI. KARAR\n\nAçıklanan sebeplerle;\n\nA. Davalı ... Ltd. Şti. Temyizi Yönünden\nDavalı vekilinin temyiz isteminin miktardan REDDİNE, Peşin alınan temyiz karar harcının istek hâlinde ilgiliye iadesine,\n\nB. Davalılar ... Havalimanları İnşaatı Adi Ortaklığı Ticari İşletmesini Oluşturan Şirketlerin Temyizi Yönünden\n1. Temyiz olunan, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA,\n2. İlk Derece Mahkemesi kararının BOZULMASINA,\nPeşin alınan temyiz karar harcının istek hâlinde ilgiliye iadesine,\nDosyanın kararı veren İlk Derece Mahkemesine, bozma kararının bir örneğinin kararı veren Bölge Adliye Mahkemesine gönderilmesine,\n08.12.2025 tarihinde oy birliğiyle karar verildi.",
+      "key_principles": [
+        "İş sözleşmesinde kararlaştırılan fazla çalışma dahil ücret, ispatlanan fazla çalışmadan mahsup edilmelidir",
+        "Yıllık 270 saat sınırı dikkate alınarak aylık ve haftalık ortalama fazla çalışma hesaplanmalıdır",
+        "BAM kararının ortadan kaldırılması ve ilk derece kararının bozulması birlikte uygulanabilir"
+      ],
+      "referenced_laws": [
+        "4857/41",
+        "6100/362",
+        "6100/366",
+        "6100/352/1"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/362",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/366",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/352/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/ek_madde_1/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4857/41",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "7550/20",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Bakırköy 16. İş Mahkemesi, E:2017/438 K:2020/368",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul BAM 32. Hukuk Dairesi, E:2020/2800 K:2025/1334",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 9. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1.md"
+}

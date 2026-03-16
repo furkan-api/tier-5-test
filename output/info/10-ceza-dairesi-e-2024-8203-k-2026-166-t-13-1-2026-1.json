@@ -1,0 +1,272 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 10. CD., E. 2024/8203 K. 2026/166 T. 13.1.2026",
+    "EsasNo": "2024/8203",
+    "KararNo": "2026/166",
+    "KararTarihi": "2026-01-13",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 10. Ceza Dairesi",
+    "MahkemeTuru": "yargitay_ceza",
+    "Daire": "10. Ceza Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Kanun yararına bozma kararı verildi",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "Sanık (kimlik bilgisi belirtilmemiş)",
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": "Denizli Cumhuriyet Başsavcılığı",
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Denizli 1. Asliye Ceza Mahkemesi",
+      "esas_no": "2014/443",
+      "karar_no": "2015/53",
+      "tarih": "2015-02-03",
+      "sonuc": "Tedavi ve denetimli serbestlik tedbirine tabi tutulmasına, hükmün açıklanmasının geri bırakılmasına, 5 yıl denetim süresine tabi tutulmasına karar verildi"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Adalet Bakanlığının istemi üzerine Yargıtay Cumhuriyet Başsavcılığı tarafından 5271 sayılı CMK'nın 309/1. maddesi uyarınca kanun yararına bozma yoluna başvurulmuştur.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Denizli 3. Ağır Ceza Mahkemesinin 23.03.2015 tarihli ve 2015/260 Değişik iş sayılı kararı kanun yararına bozulmuştur. Mahkumiyet hükmü kurulmadan HAGB kararı verilmesi ve kovuşturma şartı gerçekleşmeksizin doğrudan yargılama yapılması kanuna aykırı bulunmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": "Denizli Cumhuriyet Başsavcılığının 06.08.2014 tarihli ve 2014/18181 soruşturma no'lu dosyasında kullanmak için uyuşturucu madde bulundurma suçundan soruşturma yürütülmüştür.",
+    "Kovusturma": "Denizli Cumhuriyet Başsavcılığının 2014/6275 Esas, 2014/2438 sayılı iddianamesi ile kamu davası açılmıştır.",
+    "Iddianame": "Denizli Cumhuriyet Başsavcılığı tarafından 06.08.2014 tarihinde düzenlenen 2014/2438 sayılı iddianame ile kullanmak için uyuşturucu madde bulundurma suçundan kamu davası açılmıştır.",
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": "Denetimli serbestlik tedbiri",
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": "Sanığın itirazı üzerine mercii Denizli 3. Ağır Ceza Mahkemesinin 23.03.2015 tarihli kararı ile itirazın reddine kesin olarak karar verilmiştir.",
+    "KanunYararinaBozma": "Adalet Bakanlığının 17.09.2024 tarihli ve 2024/3329 sayılı evrakı ile kanun yararına bozma isteminde bulunulmuş, Yargıtay Cumhuriyet Başsavcılığının 01.10.2024 tarihli ve KYB-2024/96233 sayılı tebliğnamesi ile Daireye gönderilmiştir.",
+    "HAGB": "Denizli 1. Asliye Ceza Mahkemesinin 03.02.2015 tarihli kararı ile sanık hakkında 5271 sayılı CMK'nın 231/5. maddesi uyarınca hükmün açıklanmasının geri bırakılmasına ve 5 yıl denetim süresine tabi tutulmasına karar verilmiş; ancak mahkumiyet hükmü kurulmadan HAGB kararı verilmesi kanuna aykırı bulunmuştur.",
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": "Tedavi ve denetimli serbestlik tedbiri",
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Kovuşturma şartı gerçekleşmeden kamu davası açılması; 6545 sayılı Kanun'un yürürlükte olduğu iddianame tarihinde savcılıkça önce kamu davasının açılmasının ertelenmesi kararı verilmesi gerekirken doğrudan iddianame düzenlenmesi kovuşturma şartını ortadan kaldırmaktadır.",
+    "Mevzuat": [
+      "5237/191/2",
+      "5237/191/3",
+      "5271/231/5",
+      "5271/231/8",
+      "5271/232/6",
+      "5271/309/1",
+      "5271/309/3",
+      "5271/309/4",
+      "5320/7",
+      "6545/68",
+      "6545/85",
+      "5560/1"
+    ],
+    "AnaSuc": "Kullanmak için uyuşturucu madde bulundurma",
+    "HukukiKonu": "ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve İnceleme Kapsamı",
+      "text": "Denizli 3. Ağır Ceza Mahkemesinin yukarıda belirtilen kararı ile sanık hakkında kullanmak için uyuşturucu madde bulundurma suçundan, 5237 sayılı TCK'nın 5560 sayılı Kanun ile değişik 191/2. maddesi uyarınca tedavi ve denetimli serbestlik tedbiri uygulanmasına, 6545 sayılı Türk Ceza Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun'un 85. maddesi ile 5320 sayılı Kanun'a eklenen geçici 7/2. maddesi ve 5271 sayılı CMK'nın 231/5. maddesi uyarınca hükmün açıklanmasının geri bırakılmasına, aynı Kanun'un 231/8. maddesi uyarınca beş yıl denetim süresine tabi tutulmasına dair karara itiraz üzerine itirazın reddine 23.03.2015 tarihinde kesin olarak karar verildiği anlaşılmıştır. Adalet Bakanlığının, 5271 sayılı CMK'nın 309/1. maddesi uyarınca, 17.09.2024 tarihli ve 2024/3329 sayılı evrakı ile kanun yararına bozma istemine istinaden düzenlenen, Yargıtay Cumhuriyet Başsavcılığının, 01.10.2024 tarihli ve KYB-2024/96233 sayılı Tebliğnamesi ile dava dosyası Daireye gönderilmekle, gereği düşünüldü.",
+      "key_principles": [
+        "Kanun yararına bozma yolu ile kesinleşmiş kararların denetimi",
+        "Hükmün açıklanmasının geri bırakılması kararlarına itiraz"
+      ],
+      "referenced_laws": [
+        "5237/191/2",
+        "5271/231/5",
+        "5271/231/8",
+        "5271/309/1",
+        "5320/7",
+        "6545/85"
+      ],
+      "referenced_decisions": [
+        "Denizli 3. Ağır Ceza Mahkemesi 2015/260 Değişik iş"
+      ]
+    },
+    {
+      "order": 2,
+      "type": "cassation_grounds",
+      "title": "Kanun Yararına Bozma İstemi ve Gerekçeleri",
+      "text": "Yargıtay Cumhuriyet Başsavcılığının, 01.10.2024 tarihli ve KYB-2024/96233 sayılı kanun yararına bozma isteminin gerekçesi şu şekilde özetlenebilir:\n1- Sanık hakkında tedavi ve denetimli serbestlik tedbiri uygulanmasına karar verildikten sonra mahkûmiyet hükmü kurulmadan hükmün açıklanmasının geri bırakılmasına karar verilmesinin kanunen mümkün olmadığı, suç tarihi 27/06/2014 olup 6545 sayılı Kanun'un yürürlüğe girmesinden önce olsa da Denizli Cumhuriyet Başsavcılığının iddianame tarihi olan 06/08/2014 tarihinde 6545 sayılı Kanun yürürlükte olduğundan, savcılıkça 6545 sayılı Kanun'un 68. maddesi ile değişik 5237 sayılı TCK'nın 191/2. maddesi uyarınca beş yıl süre ile kamu davasının açılmasının ertelenmesine karar verilmesi gerektiği, erteleme kararı verilmeden kamu davası açılamayacağı, bu durumda mahkemece kovuşturma şartı gerçekleşmediğinden bahisle durma kararı verilerek Cumhuriyet Başsavcılığına bildirimde bulunulması gerektiğinin gözetilmeden itirazın kabulü yerine reddine karar verilmesinde isabet görülmemiştir.\n2- Kabule göre de; cezalandırmaya ilişkin maddeler yazılmadan hüküm kurulduğu, sanığın denetimli serbestlik süresi içerisinde yükümlülüklere uygun davranmadığı veya aynı suçu yeniden işlemek suretiyle mahkûm olduğu takdirde açıklanacak bir hüküm bulunmamasının karışıklığa yol açacağı, mahkemece CMK'nın 232/6. maddesi uyarınca denetime imkân verecek biçimde bir hüküm kurulmasını ardından 5320 sayılı Kanun'un geçici 7/3. maddesi uyarınca yargılamaya devam edilerek hükmün açıklanmasının geri bırakılmasına karar verilip verilmeyeceğinin takdir edilmesi gerektiği gözetilmeden yazılı şekilde karar verilmesinde isabet görülmemiştir.",
+      "key_principles": [
+        "Mahkumiyet hükmü kurulmadan HAGB kararı verilemez",
+        "Kamu davasının açılmasının ertelenmesi kararı olmadan iddianame düzenlenemez",
+        "Kovuşturma şartının gerçekleşmemesi halinde durma kararı verilmesi zorunludur",
+        "Yürürlükteki kanun iddianame tarihinde uygulanan kanundur"
+      ],
+      "referenced_laws": [
+        "5237/191/2",
+        "5237/191/3",
+        "5271/231/5",
+        "5271/232/6",
+        "5271/309/1",
+        "5320/7",
+        "6545/68",
+        "6545/85"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Dairedeki Hukuki Değerlendirme",
+      "text": "D. Dosya kapsamına göre, Denizli 1. Asliye Ceza Mahkemesinin 03.02.2015 tarihli ve 2014/443 Esas, 2015/53 Karar sayılı kararı ile 6545 sayılı Kanun değişikliğinden önceki 5237 sayılı TCK'nın 5560 sayılı Kanun ile değişik 191/2. maddesi uyarınca tedavi ve denetimli serbestlik tedbirine tabi tutulmasına ve 6545 sayılı Kanun'un 85. maddesi ile 5320 sayılı Kanun'a eklenen geçici 7/2. maddesi uyarınca 5271 sayılı CMK'nın 231. maddesinin beşinci fıkrası gereğince hükmün açıklanmasının geri bırakılmasına, 5 yıl denetim süresine tabi tutulmasına karar verildiği, sanık hakkında tedavi ve denetimli serbestlik tedbiri uygulanmasına karar verildikten sonra mahkûmiyet hükmü kurulmadan hükmün açıklanmasının geri bırakılmasına karar verilmesinin kanunen mümkün olmadığı, suç tarihi 27.06.2014 olup 6545 sayılı Kanun'un yürürlüğe girmesinden önce olsa da Denizli Cumhuriyet Başsavcılığının iddianame tarihi olan 06.08.2014 tarihinde 6545 sayılı Kanun yürürlükte olduğundan, Denizli Cumhuriyet Başsavcılığınca 6545 sayılı Kanun'un 68. maddesi ile değişik 5237 sayılı TCK'nın 191/2. maddesi uyarınca beş yıl süre ile kamu davasının açılmasının ertelenmesine, aynı maddenin üçüncü fıkrası uyarınca tedavi ve/veya denetimli serbestlik tedbiri uygulanmasına karar verilmesi gerektiği, erteleme kararı verilmeden kamu davası açılamayacağı, bu durumda Denizli 1. Asliye Ceza Mahkemesince kovuşturma şartı gerçekleşmediğinden \"durma\" kararı verilerek kamu davasının açılmasının ertelenmesine ve tedavi ve/veya denetimli serbestlik tedbiri uygulanmasına karar verilmek üzere Denizli Cumhuriyet Başsavcılığına bildirimde bulunulması gerektiği gözetilmeden, doğrudan hükmün açıklanmasının geri bırakılmasına karar verilmesi Kanun'a aykırı olup kanun yararına bozma istemi yerinde görülmüştür.",
+      "key_principles": [
+        "İddianame tarihinde yürürlükte olan kanunun uygulanması zorunludur",
+        "TCK 191/2 kapsamında savcılığın önce erteleme kararı vermesi şarttır",
+        "Erteleme kararı olmaksızın açılan kamu davası kovuşturma şartını ortadan kaldırır",
+        "Mahkeme kovuşturma şartı gerçekleşmediğinde durma kararı vermek zorundadır",
+        "HAGB uygulanabilmesi için önce mahkumiyet hükmü kurulmalıdır"
+      ],
+      "referenced_laws": [
+        "5237/191/2",
+        "5237/191/3",
+        "5271/231/5",
+        "5271/232/6",
+        "5320/7",
+        "6545/68",
+        "6545/85",
+        "5560/1"
+      ],
+      "referenced_decisions": [
+        "Denizli 1. Asliye Ceza Mahkemesi E:2014/443 K:2015/53"
+      ]
+    },
+    {
+      "order": 4,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Karar",
+      "text": "III. KARAR\nA. Yargıtay Cumhuriyet Başsavcılığının kanun yararına bozma isteminin KABULÜNE,\nB. Denizli 3. Ağır Ceza Mahkemesinin 23.03.2015 tarihli ve 2015/260 Değişik iş sayılı kararının 5271 sayılı CMK'nın 309/3. maddesi gereği, oy birliğiyle KANUN YARARINA BOZULMASINA,\n5271 sayılı CMK'nın 309/4-a maddesi uyarınca gerekli işlemin yapılması için dava dosyasının, Mahkemesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE,\n13.01.2026 tarihinde karar verildi.",
+      "key_principles": [
+        "Kanun yararına bozma kararı hükümlünün hukuki durumunu ağırlaştıramaz",
+        "Kanun yararına bozma sonrasında yeniden yargılama için dosya mahkemesine gönderilir"
+      ],
+      "referenced_laws": [
+        "5271/309/3",
+        "5271/309/4"
+      ],
+      "referenced_decisions": [
+        "Denizli 3. Ağır Ceza Mahkemesi 2015/260 Değişik iş"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 10. Ceza Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Denizli 1. Asliye Ceza Mahkemesi E:2014/443 K:2015/53",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Denizli 3. Ağır Ceza Mahkemesi 2015/260 Değişik iş",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/191/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/191/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/231/5",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/231/8",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/232/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/309/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/309/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/309/4",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5320/7",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6545/68",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6545/85",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1.md"
+}

@@ -1,0 +1,380 @@
+{
+  "entities": {
+    "Karar": "Yargıtay İBK., E. 1974/1 K. 1974/2 T. 1.4.1974",
+    "EsasNo": "1974/1",
+    "KararNo": "1974/2",
+    "KararTarihi": "1974-04-01",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+    "MahkemeTuru": "yargitay_hgk",
+    "Daire": "İçtihatları Birleştirme Büyük Genel Kurulu",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "İçtihatları birleştirme kararı verildi",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": null,
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "KABUL",
+    "KarsiOy": "M. Saygın ve diğer 39 üye ile Feridun Müderrisoğlu (4. HD. Bşk.) karşı oy kullanmıştır. Karşı görüşe göre mirasçılar ancak miras bırakanın külli halefi sıfatıyla ve oybirliğiyle muvazaa davası açabilirler; saklı pay sahipleri ise tenkis ve iade davası yoluna gidebilirler.",
+    "OyBirligi": false,
+    "OyCoklugu": true,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "818/18",
+      "743/507/4",
+      "743/508",
+      "743/499",
+      "743/500",
+      "743/502",
+      "743/603",
+      "743/5",
+      "743/581",
+      "743/616",
+      "743/690",
+      "2004/277",
+      "YargıtayK/18",
+      "YargıtayK/19/7",
+      "YargıtayK/20/2"
+    ],
+    "AnaSuc": "Muris muvazaası — tapu sicilinde kayıtlı taşınmazın gerçekte bağış amacıyla görünürde satış işlemine tabi tutulması",
+    "HukukiKonu": "miras hukuku, borçlar hukuku, muvazaa, tenkis, tapu iptali"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "İçtihadı Birleştirme Konusu ve Kapsam",
+      "text": "Bir kimsenin; mirasçısını miras hakkından yoksun etmek amacıyla; tapu sicilinde kayıtlı taşınmaz malını, gerçekte bağışlamak istediği halde, tapu sicil memuru önünde iradesini satış biçiminde açıkladığının gerçekleşmemiş olması durumunda, saklı pay sahibi olan mirasçıların, tenkis ya da mirasta iade davası açmak haklarını kullanmayıp Borçlar Kanununun 18. maddesine dayanarak muvazaa nedeniyle tapu kaydının iptalini isteyebilip isteyemeyecekleri ve saklı pay sahibi olmayan mirasçıların da aynı davayı açmak yetkisine sahip olup olmadıkları ve miras bırakanın bu davranışının, Medeni Kanunun 603. maddesinin 2. fıkrası gereğince o taşınmazı iade etmekten aylık tutmuş bulunduğu anlamına gelip gelmediği konusunda Yargıtay ikinci Hukuk Dairesinin 22/12/1964 gün 6411 esas ve 6298 karar sayılı ve 1/10/1973 gün 528 esas 5437 karar sayılı ve Yargıtay Hukuk Genel Kurulunun 4/5/1960 gün 2/24 esas ve 24 karar sayılı ve 21/2/1968 gün 2/1510 esas 99 karar sayılı kararları arasında içtihat aykırılığı bulunduğu ve bu aykırılığının içtihatlarının birleştirilmesi yoluyla giderilmesi gerektiği, İkinci Hukuk Dairesi Başkanı tarafından Yargıtay Birinci Başkanlığına bildirilmesi üzerine konu incelenmiştir. Yargıtay Kanununun 20. maddesinin 2. fıkrası hükmü gereğince Yargıtay Başkanlık Divanı işi incelemiş ve içtihadın birleştirilmesi yoluna gidilmesi gerektiğine karar vermiştir. İçtihadı Birleştirme Büyük Genel Kurulunun 11/3/1974 günlü birinci toplantısında içtihat aykırılığının varlığı oybirliğiyle kabul edilmiş; ancak esasa ilişkin görüşmeler sonucunda üçte iki çoğunluk sağlanamadığından 1/4/1974 tarihinde ikinci toplantı yapılmıştır.",
+      "key_principles": [
+        "İçtihat aykırılığının tespiti ve içtihadın birleştirilmesi zorunluluğu",
+        "Muris muvazaasında mirasçıların dava hakkının kapsamı",
+        "BK m.18 ile MK m.507/4 arasındaki ilişki"
+      ],
+      "referenced_laws": [
+        "818/18",
+        "743/507/4",
+        "743/603",
+        "YargıtayK/20/2",
+        "YargıtayK/18",
+        "YargıtayK/19/7"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 2. HD., E.6411 K.6298, 22.12.1964",
+        "Yargıtay 2. HD., E.528 K.5437, 01.10.1973",
+        "Yargıtay HGK, E.2/24 K.24, 04.05.1960",
+        "Yargıtay HGK, E.2/1510 K.99, 21.02.1968"
+      ]
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Çatışan İçtihatlar: Hukuk Genel Kurulu ile İkinci Hukuk Dairesi Görüşleri",
+      "text": "Yargıtay Hukuk Genel Kurulunun kararlarında; mirasçıyı miras hakkında yoksun etmek amacıyla miras bırakanın muvazaalı olarak yapmış olduğu tasarruf işlemlerinin iptalini dava etmek hakkı, saklı pay sahibi olsun ya da olmasın tüm mirasçılara tanınmış ve tenkis ve mirasta iade ile ilgili hükümlerin aslında geçerli tasarruflar için uygulanabileceği açıklanmıştır. Yargıtay İkinci Hukuk Dairesi kararlarında ise, böyle bir dava hakkı tanınmamış; sadece saklı pay sahiplerinin Medeni Kanunun 507. maddesinin 4. fıkrası gereğince tenkis davası açabilecekleri ve miras bırakanın bu davranışının Medeni Kanunun 603. maddesinin 2. fıkrası gereğince o taşınmazı iade etmekten ayrık tutmak istediği anlamına geldiği kabul edilmiştir. İçtihadı Birleştirme Büyük Genel Kurulunda konu, sadece sevk edildiği olayla sınırlı olarak ele alınmış; daha açık bir deyimle tasarruf işleminin tapu sicilinde kayıtlı olan taşınmaz malın, görünüşte satış ve gerçekte ise hibe biçiminde oluştuğu olayıyla sınırlandırılmıştır. Muvazaa iddiasının ispatı ve ispat biçimi, içtihadı birleştirmenin kapsamı dışında kalmıştır.",
+      "key_principles": [
+        "Muvazaalı tasarruflara karşı tüm mirasçıların dava hakkı (HGK görüşü)",
+        "Yalnızca saklı pay sahiplerinin tenkis davası açabileceği (2. HD görüşü)",
+        "Tenkis ve iade hükümlerinin yalnızca geçerli tasarruflara uygulanacağı ilkesi"
+      ],
+      "referenced_laws": [
+        "743/507/4",
+        "743/603"
+      ],
+      "referenced_decisions": [
+        "Yargıtay HGK, E.2/24 K.24, 04.05.1960",
+        "Yargıtay HGK, E.2/1510 K.99, 21.02.1968",
+        "Yargıtay 2. HD., E.6411 K.6298, 22.12.1964",
+        "Yargıtay 2. HD., E.528 K.5437, 01.10.1973"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Karşı Görüşün Gerekçeleri",
+      "text": "İkinci Hukuk Dairesi Başkanlığının düşünce yazılarında ve görüşmeler sırasında Hukuk Genel Kurulu kararlarına karşı sürülen görüş özetle şu gerekçelere dayanmıştır:\na - Borçlar Kanununun 18. maddesinde yer alan aktin yorumu ve muvazaa ile Medeni Kanunun 507/4. maddesine dayanan saklı pay sahibi mirasçıya tanınmış olan tenkis davası hakkı, ayrı ayrı hukuksal müesseselerdir. Bir akitten doğan hukuk bağı, yalnız o aktin taraflarının ve onların külli haleflerini bağlar. Bir aktin tarafı olmayan kimse, başkalarının yaptığı akte dayanarak onlar arasında doğan hukuk bağını, açacağı davaya dayanak yapamaz. Bu nedenle Borçlar Kanununun 18. maddesine göre mirasçıların muvazaa iddiasında bulunmaları olanaksızdır.\nb - Miras hukukunun özellikleri nedeniyle Medeni Kanunun 507/4. maddesinde getirilen hüküm, özel bir hüküm niteliğini taşır. Oysa ki, Borçlar Kanununun 18. maddesi hükmü, genel hüküm niteliğindedir. Özel hüküm varken genel hükme gidilemez.\nc - Medeni Kanunun 508. maddesinde iyi niyetli kişi korunmuştur. Muvazaalı işlemlerde iyi niyet söz konusu olamayacağına göre 507/4. maddesinin muvazaayla ilişkisinin bulunmadığı kendiliğinden ortaya çıkar.\nd - Medeni Kanunun 507/4. maddesinin dayanağı, ölenin son arzularına saygı ilkesidir. Borçlar Kanununun 18. maddesi hükmü gereğince dava hakkı tanındığı takdirde bu ilke zedelenmiş olur.\ne - Gizli akit biçim koşuluna bağlı olsa dahi geçerlidir. Nitekim 27/3/1957 gün ve 12/2 sayılı şufa ile ilgili içtihadı birleştirme kararı ile bu görüş benimsenmiştir.\nf - Miras bırakanın taşınmazını tapu memuru önünde satmış gibi ifade eden kişinin bu davranışı Medeni Kanunun 603. maddesinin 2. fıkrası gereğince o taşınmazı iadeden ayrık tutmak istediği anlamına gelir.",
+      "key_principles": [
+        "Akdin tarafı olmayan kimsenin muvazaa iddiasında bulunamayacağı ilkesi",
+        "Özel hükmün genel hükme önceliği",
+        "Gizli aktin geçerliliği meselesi",
+        "Ölenin son arzularına saygı ilkesi"
+      ],
+      "referenced_laws": [
+        "818/18",
+        "743/507/4",
+        "743/508",
+        "743/603",
+        "2004/277",
+        "743/690"
+      ],
+      "referenced_decisions": [
+        "Yargıtay İBK, 07.10.1953, E.8/7",
+        "Yargıtay İBK, 27.03.1957, E.12/2"
+      ]
+    },
+    {
+      "order": 4,
+      "type": "appellate_evaluation",
+      "title": "Büyük Genel Kurulun Hukuki Değerlendirmesi",
+      "text": "Borçlar Kanununun 18. maddesine dayanan muvazaa ile Medeni Kanununun 507/4. maddesine dayanan tenkis davasının ayrı ayrı hukuk müesseseleri olduğu yönünden görüşler arasında bir uyuşmazlık bulunmamaktadır. Medeni Kanunun 5 inci maddesi hükmünce sözleşmelerin doğumuna, hükümlerine ve sukutu nedenlerine ilişkin olup borçlar kısmında yer alan genel kuralların Medeni Hukukun diğer kısımlarında da uygulanması öngörülmüştür. O halde Borçlar Kanununun genel hükümleri arasında yer alan 18. maddenin miras hukukunda da uygulanması doğaldır.\nMiras hükümleri arasında bu kuralı engelleyecek bir hükme de yer verilmemiştir. Medeni Kanunun 507/4. maddesinin miras kısmında yer alması, mirasçının Borçlar Kanununun 18. maddesine dayanan dava hakkını engelleyecek bir sonuç doğurmaz. Her iki maddenin ayrı ayrı hukuk müesseselerini düzenlemiş olması karşısında sorunun başka türlü düşünülmesi de olanaksızdır.\nMuvazaalı satış işlemiyle miras hakkından yoksun edilen kimse külli halef olarak değil, doğrudan doğruya üçüncü kişi olarak dava açmak hakkına sahiptir. Çünkü bu üçüncü kişinin hakkı, miras bırakanla alıcı tarafından birlikte yapılan hukuk işlemiyle çiğnenmiştir. Böyle bir durumda üçüncü kişinin dava hakkının varlığı, kanunda belli konulara hasredilmemiştir. İsviçre Federal Mahkemesi de kararlı içtihatlarıyla konuyu bu doğrultuda çözüme bağlamıştır.\nMedeni Kanunun 507/4. maddesindeki dava hakkı, aslında geçerli işlemler için tanınmış bir dava hakkıdır. Borçlar Kanununun 18. maddesine dayanan dava hakkı ise, işlemin aslında geçersizliği nedenine dayanır; onun içindir ki, Medeni Kanununun 508. maddesinde iyi niyetli olan ve kendisine teberruda bulunulan kimse korunmuştur.\nMiras hukuku, miras bırakanın iptali mümkün ölüme bağlı tasarruflarında bile onun son arzularına değer verilmemiştir. (Medeni Kanunun Md. 499 ve 500) Ölenin son arzularına saygı ilkesi, ancak onun hukuka uygun tasarrufları için söz konusudur.",
+      "key_principles": [
+        "BK m.18'in miras hukukunda da uygulanacağı ilkesi (MK m.5 atfıyla)",
+        "Mirasçının üçüncü kişi sıfatıyla dava hakkı",
+        "MK m.507/4'ün yalnızca geçerli tasarruflara uygulandığı",
+        "BK m.18'e dayanan davanın geçersizliğe dayandığı",
+        "Ölenin son arzularına saygının yalnızca hukuka uygun tasarruflar için geçerli olduğu"
+      ],
+      "referenced_laws": [
+        "818/18",
+        "743/5",
+        "743/507/4",
+        "743/508",
+        "743/499",
+        "743/500",
+        "743/603"
+      ],
+      "referenced_decisions": [
+        "Yargıtay İBK, 07.10.1953, E.8/7",
+        "Yargıtay İBK, 27.03.1957, E.12/2"
+      ]
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Gizli Akdin Geçerliliği ve Biçim Koşulu Meselesi",
+      "text": "Muvazaa nedeniyle satış sözleşmesi geçersiz sayılsa bile gizli hibe akti geçerli olacağından mirasçının Borçlar Kanununun 18. maddesine dayanarak açacağı davada yarar bulunmadığı ve bu nedenle bir sonuç doğurmayacağı düşüncesini de kabul etmek olanaksızdır. Gerçekten böyle bir davayı açacak kimsenin, davada yararının bulunması zorunludur. Ve ilke olarak da gizli akit geçerlidir. Ancak gizli aktin geçerli sayılabilmesi için tüm koşulların oluşmuş olması zorunludur.\nİçtihadı birleştirmeye konu, tapuda kayıtlı bir taşınmaz malın muvazaalı olarak satışıdır. Böyle bir durumda gizli aktin geçerli sayılabilmesi için gizli akit, biçim koşuluna (şekil şartına) bağlı ise biçim koşulunun da gerçekleşmiş olmasında zorunluluk vardır. Aksi durumda hibe sözleşmesinin varlığından söz edilemez. Çünkü tapu memuru önünde açıklanan irade, bir ivaz karşılığı mülkiyetin aktarması iradesidir ki, sadece bu iradeye resmiyet verilmiştir. Satışa ilişkin resmi işlemin gizli akti de içine alacağı kabul edilemez.\nNitekim İsviçre Federal Mahkemesinin kararlı içtihatları ve yabancı bilimsel hakim görüşler de bu doğrultuda yerleşmiştir. Ayrıca 7/10/1953 gün 8/7 sayılı Yargıtay İçtihadı Birleştirme Kararında bu temel görüş benimsenmiştir. Sonradan çıkarılan 27/3/1957 gün ve 12/2 sayılı İçtihadı Birleştirme Kararı ise, şufa ile ilgilidir; bu karar, 1953 günlü içtihadı birleştirmenin kabul ettiği ilkeyi bozmamıştır.\nMedeni Kanunun 603. maddesi hükmü de aslında geçerli tasarruflara karşı mirasçıların miras payını diğer mirasçılara karşı koruyan bir hükümdür. Geçersiz tasarruf miras payına etki yapmayacağından, mirasçının bu hükme dayanmasında bir yarar yoktur.",
+      "key_principles": [
+        "Gizli akdin geçerliliği için biçim koşulunun gerçekleşmesi zorunluluğu",
+        "Taşınmaz hibelerinde resmi şekil şartı",
+        "Satış akdine verilen resmiyet gizli hibeleyi kapsamaz",
+        "MK m.603'ün yalnızca geçerli tasarruflara uygulanacağı"
+      ],
+      "referenced_laws": [
+        "818/18",
+        "743/603"
+      ],
+      "referenced_decisions": [
+        "Yargıtay İBK, 07.10.1953, E.8/7",
+        "Yargıtay İBK, 27.03.1957, E.12/2"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç: İçtihadı Birleştirme Kararı",
+      "text": "Bir kimsenin; mirasçısını miras hakkından yoksun etmek amacıyla, gerçekte bağışlamak istediği tapu sicillinde kayıtlı taşınmaz malı hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklamış olduğunun gerçekleşmiş bulunması halinde, saklı pay sahibi olsun ya da olmasın miras hakkı çiğnenen tüm mirasçılarının, görünürdeki satış sözleşmesinin Borçlar Kanununun 18. maddesine dayanarak muvazaalı olduğunu ve gizli bağış sözleşmesinin de şekil koşulundan yoksun bulunduğunu ileri sürerek dava açabileceklerine ve bu dava hakkının geçerli sözleşmeler için söz konusu olan Medeni Kanununun 507. ve 603. maddelerinin sağladığı haklara etkili olmayacağına, Yargıtay İçtihatları Birleştirme Büyük Genel Kurulunun 1/4/1974 günlü ikinci toplantısında oyçokluğuyla karar verildi.",
+      "key_principles": [
+        "Muris muvazaasında tüm mirasçıların (saklı paylı olsun olmasın) dava hakkı",
+        "Görünürdeki satış sözleşmesinin muvazaa nedeniyle geçersizliği",
+        "Gizli bağış sözleşmesinin şekil koşulundan yoksunluğu nedeniyle geçersizliği",
+        "BK m.18'e dayanan muvazaa davasının MK m.507 ve 603'teki haklara etkisizliği"
+      ],
+      "referenced_laws": [
+        "818/18",
+        "743/507",
+        "743/603"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "evidence_evaluation",
+      "title": "Karşı Oy Gerekçesi: Feridun Müderrisoğlu",
+      "text": "Feridun Müderrisoğlu (4. HD. Bşk.) karşı oy gerekçesinde uyuşmazlığın birden fazla boyutu kapsadığını belirtmiştir: (A) mirasçıların muvazaalı işlemlerden ötürü iptal davası açıp açamayacakları, (B) tenkis davasının yalnızca geçerli işlemlere karşı açılabilirliği, (C) külli haleflik mi yoksa saklı pay hakkının ihlali mi esas alınacağı, (Ç) davanın açılış koşulları ve (D) ispat biçimi.\nMüderrisoğlu'na göre Medeni Yasa ile Borçlar Yasası bir bütündür. Medeni Yasanın 499, 502, 603. maddeleri muvazaalı işlemlerden söz ettiğine ve bu maddeler tenkis ve iadeden söz ettiğine göre bu maddelerin uygulanması yalnız miras bırakanın ölümüyle doğan saklı payla iadeyi isteme hakkının mevcut bulunduğu durumlarla sınırlı olmalıdır. Borçlar Yasasının öngördüğü anlamda bir muvazaadan söz edilmemesi nedeniyle özel-genel önceliği bu müessesede söz konusu değildir.\nMiras bırakan sağlığında muvazaalı sözleşme yapmışsa ve mirasçıları arasında saklı pay hakkı bulunan derecede mirasçı vardır veya yoksa, miras bırakan yaptığı bu sözleşmeden nasıl cayarak muvazaayı ileri sürerek iptal davası açabilirse külli halefi olan mirasçılar da aynen iptal davası açabilirler. Ancak bu dava için Medeni Yasanın 581. maddesi uyarınca mirasçıların oybirliği gerekir. Bu sağlanamazsa temsilci atanır.\nSonuç olarak Müderrisoğlu: (I) miras bırakanın muvazaalı tasarrufları nedeniyle ayrımsız bütün mirasçıların birleşerek veya temsilci atanması yoluyla miras bırakanın külli halefi olarak sınırlı biçimde iptal davası açabileceklerine, (II) muvazaayı ispat olanağı bulunmayanlar için saklı pay sahiplerinin tenkis ve iade davası yoluna gidebileceklerine, (III) koşullar varsa tenkis ve iade davası açma olanağı bulunduğuna ilişkin görüş ve çekincesiyle genel kurul kararı doğrultusunda beliren çoğunluğa katıldığını belirtmiştir.",
+      "key_principles": [
+        "Külli halef sıfatıyla muvazaa davası açılabilmesi için mirasçıların oybirliği şartı",
+        "Saklı pay ihlali olmaksızın muvazaa davası açılmasının sınırları",
+        "Mirasçıların miras bırakanın ispat olanaklarıyla sınırlı tutulması ilkesi",
+        "MK m.499, 502, 603'ün muvazaalı işlemlere özel çözüm getirdiği argümanı"
+      ],
+      "referenced_laws": [
+        "743/499",
+        "743/502",
+        "743/603",
+        "743/581",
+        "743/616",
+        "818/18",
+        "743/5"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/18",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/5",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/507/4",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/508",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/603",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/499",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/500",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/502",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/581",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/616",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "743/690",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/277",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay İBK, E.8/7, 07.10.1953",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay İBK, E.12/2, 27.03.1957",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay HGK, E.2/24 K.24, 04.05.1960",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay HGK, E.2/1510 K.99, 21.02.1968",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 2. HD., E.6411 K.6298, 22.12.1964",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 2. HD., E.528 K.5437, 01.10.1973",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "miras hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "borçlar hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1.md"
+}

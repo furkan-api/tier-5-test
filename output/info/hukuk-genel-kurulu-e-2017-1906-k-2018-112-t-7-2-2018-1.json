@@ -1,0 +1,233 @@
+{
+  "entities": {
+    "Karar": "Yargıtay HGK., E. 2017/1906 K. 2018/112 T. 7.2.2018",
+    "EsasNo": "2017/1906",
+    "KararNo": "2018/112",
+    "KararTarihi": "2018-02-07",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay Hukuk Genel Kurulu",
+    "MahkemeTuru": "yargitay_hgk",
+    "Daire": "Hukuk Genel Kurulu",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Direnme kararı incelendi; dosya Özel Daireye gönderildi",
+    "Davaci": "Davacı karşı davalı (erkek)",
+    "Davali": "Davalı karşı davacı (kadın)",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Ankara 7. Aile Mahkemesi",
+      "esas_no": "2012/1668",
+      "karar_no": "2013/650",
+      "tarih": "2013-05-21",
+      "sonuc": "Davacı karşı davalının (erkeğin) davasının reddine, davalı karşı davacının (kadının) davasının kabulüne; 500 TL yoksulluk nafakası, 30.000 TL maddi ve 5.000 TL manevi tazminata hükmedilmesine"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Her iki taraf vekilinin temyizi üzerine Yargıtay 2. Hukuk Dairesince bozma; ardından direnme kararının davacı karşı davalı (erkek) vekili tarafından temyizi",
+    "KararDuzeltme": "Karar düzeltme yolu açık olmak üzere karar verilmiştir",
+    "BozmaKarari": "Yargıtay 2. Hukuk Dairesi 20.01.2014 gün ve 2013/19410 E. 2014/895 K. sayılı kararıyla; kadının katılma yoluyla temyiz talebinin süre aşımı nedeniyle reddine, erkeğin boşanma davasının da kabulü gerekirken reddinin doğru olmadığı gerekçesiyle bozma kararı verilmiştir",
+    "KesinHukum": false,
+    "HukumSonucu": "DIGER",
+    "KarsiOy": "Davacı karşı davalı erkeğin sadakat yükümlülüğüne aykırı davranışı karşısında kadının sözlerinin tepki olarak söylendiğinin kabulünün olanaksız olduğu, az da olsa kusurlu sayılması gerektiği ve bozma kararının yerinde olduğu görüşü azınlıkta kalmıştır",
+    "OyBirligi": false,
+    "OyCoklugu": true,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "4721/166/1",
+      "4721/166/2",
+      "6100/254",
+      "1086/433/2"
+    ],
+    "AnaSuc": "Evlilik birliğinin temelinden sarsılması nedeniyle boşanma (karşılıklı dava)",
+    "HukukiKonu": "aile hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Tarafların Talepleri",
+      "text": "Dava ve karşı dava Türk Medeni Kanunu'nun (TMK) 166. maddesinin birinci fıkrasında düzenlenen evlilik birliğinin sarsılması nedenine dayalı boşanma istemine ilişkindir.\n\nDavacı karşı davalı (erkek) vekili müvekkilinin evlilik süresince birlik görevlerini yerine getirdiğini, çocuklarının olmaması sebebiyle tedavi olmasına rağmen davalının tıbbi teşhis ve tedavi sürecinden ısrarla kaçındığını, sürekli olarak sorunun müvekkilinde olduğunu dile getirdiğini ve davalının müvekkilinin annesiyle de tartışmalar yaşadığını, evlilik birliğinin çekilmez hâle geldiğini belirterek boşanma kararı verilmesini talep etmiştir.\n\nDavalı karşı davacı (kadın) vekili evliliğin ilk yıllarında hamile kaldığını, bu hamileliğinin düşükle sonuçlandığını, buna bağlı olarak tedavi gördüğünü ancak eşinin alkol alışkanlığı ve gece yaşantısı sebebiyle çocuklarının olmadığını, Ankara'ya yerleştikten sonra davacı karşı davalının çeşitli bahanelerle eve geç geldiğini, pavyon hayatına yöneldiğini, evin ihtiyaçlarını karşılamamaya ve başka bir kadınla yaşamaya başladığını, hakaret ettiğini, karşı davalının en son 24 Kasım 2012'de evi terk ettiğini belirterek, tam kusurlu olan erkeğin davasının reddine, karşı davanın kabulü ile boşanmaya karar verilmesini, 800,-TL tedbir ve yoksulluk nafakası ile 50.000,-TL maddi ve 50.000,-TL manevi tazminata hükmedilmesini istemiştir.",
+      "key_principles": [
+        "Evlilik birliğinin temelinden sarsılması",
+        "Karşılıklı boşanma davası",
+        "Kusur tespiti"
+      ],
+      "referenced_laws": [
+        "4721/166/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararı ve Özel Daire Bozma Kararı",
+      "text": "Mahkemece davacı karşı davalının sadakat yükümlülüğünü yerine getirmediği, bu nedenle kusurlu olduğu, kimsenin kendi kusurundan yararlanamayacağı gerekçesiyle asıl davanın reddine, karşı davanın kabulü ile tarafların boşanmalarına, davalı karşı davacı (kadın) yararına 500,-TL yoksulluk nafakası ile 30.000,-TL maddi ve 5.000,-TL manevi tazminata hükmedilmesine karar verilmiştir.\n\nTaraf vekillerinin temyizi üzerine karar, Yargıtay 2. Hukuk Dairesinin 20.01.2014 gün ve 2013/19410 E. 2014/895 K. sayılı kararı ile bozulmuştur. Bozma kararında özetle; kadının katılma yoluyla temyiz talebinin süre aşımı sebebiyle reddine karar verilmesi gerektiği, erkeğin sadakat yükümlülüğüne aykırı davranışına karşın kadının da eşine 'zürriyetsiz, dürzü, gavat' şeklinde hakaret ettiği, bu durumda erkeğin boşanma davasının da TMK 166/2 maddesi koşulları gerçekleştiğinden kabulü gerekirken reddinin doğru olmadığı belirtilmiştir.\n\nYerel mahkemece davacı karşı davalının sadakat yükümlüğünü yerine getirmediği, eşini alenen ve fütursuzca aldatan bir eş karşısında kadının söylemiş olduğu sözlerin tepki niteliğinde olduğu belirtilmek suretiyle erkeğin davasının reddi, kadının davasının kabulüne ilişkin önceki hükümde direnilmiştir.",
+      "key_principles": [
+        "Kimse kendi kusurundan yararlanamaz",
+        "Sadakat yükümlülüğü",
+        "Tepki niteliğindeki davranışlar"
+      ],
+      "referenced_laws": [
+        "4721/166/1",
+        "4721/166/2"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 2. HD., E. 2013/19410 K. 2014/895"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "cassation_grounds",
+      "title": "Katılma Yoluyla Temyiz ve Süre Meselesi",
+      "text": "Hüküm, davacı-davalı (koca) tarafından temyiz edilmiş, diğer taraf vekili de, temyize cevap dilekçesinde hükme ilişkin itirazlarını bildirerek temyiz isteğinde bulunmuştur. (HUMK. m.433/2) Hükmü süresinde temyiz etmemiş olan tarafın, temyize cevap dilekçesindeki temyiz itirazlarının incelenebilmesi, temyiz dilekçesinin tebliğinden itibaren on gün içinde cevap verilmesi halinde mümkündür. (HUMK. m. 433/2) Aksi halde, süresinden sonra verilen cevap dilekçesindeki temyiz itirazları dikkate alınamaz. Davacı-davalı (koca)'nın temyiz dilekçesi, diğer tarafa 12.07.2013 günü tebliğ edilmiş; karşı taraf, hükme ilişkin itirazlarını da ihtiva eden temyize cevap dilekçesini, yasal on günlük süreden sonra 25.07.2013 günü vermiştir. Bu durumda davalı-davacı (kadın)'ın katılma yoluyla temyiz talebinin süre aşımı sebebiyle reddine karar verilmesi gerekmiştir.",
+      "key_principles": [
+        "Katılma yoluyla temyizde on günlük süre şartı",
+        "Süre aşımı nedeniyle temyiz talebinin reddi"
+      ],
+      "referenced_laws": [
+        "1086/433/2"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "HGK Hukuki Değerlendirmesi: Kusur ve Tepki Kavramı",
+      "text": "Uyuşmazlığın çözümü için ilgili yasal düzenlemelerin değerlendirilmesinde yarar vardır.\n\n4721 sayılı Türk Medeni Kanunu (TMK)'nın 166. maddesi: 'Evlilik birliği, ortak hayatı sürdürmeleri kendilerinden beklenmeyecek derecede temelinden sarsılmış olursa, eşlerden her biri boşanma davası açabilir. Yukarıdaki fıkrada belirtilen hallerde, davacının kusuru daha ağır ise, davalının açılan davaya itiraz hakkı vardır. Bununla beraber bu itiraz, hakkın kötüye kullanılması niteliğinde ise ve evlilik birliğinin devamında davalı ve çocuklar bakımından korunmaya değer bir yarar kalmamışsa boşanmaya karar verilebilir…'\n\nAnılan maddeye göre, boşanmayı talep edebilmek için tamamen kusursuz ya da az kusurlu olmaya gerek olmayıp, daha fazla kusurlu bulunan tarafın dahi dava hakkı bulunmakla beraber, boşanmaya karar verilebilmesi için, diğer tarafın az da olsa kusurunun varlığı ve bunun belirlenmesi kaçınılmazdır. Az kusurlu eş boşanmaya karşı çıkarsa bu hâlin tespiti dahi tek başına boşanma kararı verilebilmesi için yeterli olmaz. Az kusurlu eşin davaya karşı çıkması hakkın kötüye kullanılması niteliğinde olmalı, evlilik birliğinin devamında bu eş ve çocuklar bakımından korunmaya değer bir yararın kalmadığı anlaşılmalıdır.\n\nÖte yandan, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 254. maddesi uyarınca aksine ciddi ve inandırıcı delil ve olaylar bulunmadıkça asıl olan tanıkların gerçeği söylemiş olmalarıdır. Akrabalık veya diğer bir yakınlık başlı başına tanık beyanını değerden düşürücü bir sebep sayılamaz.",
+      "key_principles": [
+        "Daha fazla kusurlu tarafın da dava hakkı mevcuttur",
+        "Boşanmaya karar verilebilmesi için davalının az da olsa kusurlu olması şarttır",
+        "Az kusurlu eşin itirazı hakkın kötüye kullanılması niteliğinde ise boşanmaya karar verilebilir",
+        "Tanıkların gerçeği söylemiş olması asıldır",
+        "Akrabalık tek başına tanık beyanını değerden düşürmez"
+      ],
+      "referenced_laws": [
+        "4721/166/1",
+        "4721/166/2",
+        "6100/254"
+      ],
+      "referenced_decisions": [
+        "HGK., E. 2013/2-1417 K. 2014/1090, T. 24.12.2014"
+      ]
+    },
+    {
+      "order": 5,
+      "type": "evidence_evaluation",
+      "title": "Somut Olayın Değerlendirilmesi: Tepki Niteliğindeki Davranışlar",
+      "text": "Somut olayda da davacı karşı davalı erkeğin başka bir kadınla ilişki kurmak, bu kişiyi yakın çevresine 'yengeniz' diyerek tanıtıp, sosyal ortamlarda birlikte bulunmak suretiyle açık şekilde sadakat yükümlülüğüne aykırı davrandığı anlaşılmıştır. Davacı karşı davalı erkeğe atfedilen bu kusur belirlemesi Özel Daire ve mahkeme arasında çekişme konusu olmamakla birlikte davacı karşı davalı erkeğin annesi olan ve tanık olarak dinlenen Mürüvvet Kalıç beyanına göre davalı karşı davacı kadının da eşine 'zürriyetsiz, dürzü, gavat' şeklinde hakaret ettiği anlaşılmıştır.\n\nAncak hemen belirtilmelidir ki, olaya özgü nedenlerle davalı karşı davacı kadının evlilik birliği içinde aleni bir şekilde sadakatsiz bir yaşam süren eşine bu şekilde söylemiş olduğu hakaret sözcüklerinin tepki ile söylenmiş olduğu kabul edilmelidir. Tepki ile söylenen sözler nedeniyle kadını az da olsa kusurlu saymak mümkün değildir. Burada TMK'nın 166/2. maddesi koşullarının oluştuğundan söz edilemez.\n\nHukuk Genel Kurulundaki görüşmeler sırasında davacı karşı davalı erkeğin sadakat yükümlülüğüne aykırı davranışı karşısında kadının sözlerinin tepki olarak söylendiğinin kabulünün olanaklı olmadığı, sarf ettiği sözler nedeniyle az da olsa kusurunun bulunduğu, bu nedenle bozma kararının yerinde olduğu görüşü ileri sürülmüş ise de bu görüş yukarıda açıklanan sebeplerle Kurul çoğunluğunca benimsenmemiştir.",
+      "key_principles": [
+        "Tepki niteliğindeki davranışlar kusur olarak değerlendirilemez",
+        "Aleni sadakatsizlik karşısında söylenen sözler kusur teşkil etmez",
+        "Eşlerin birbirine karşı tutum ve davranışlarının bütünlük içinde değerlendirilmesi"
+      ],
+      "referenced_laws": [
+        "4721/166/2"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Bu itibarla, tarafların karşılıklı iddia ve savunmalarına, tanık beyanlarına, mahkeme kararında açıklanan gerektirici nedenler ve özellikle tepki niteliğinde olduğu kabul edilen davranışlarda bulunan davalı karşı davacı kadına boşanmaya sebep olan olaylarda herhangi bir kusur yüklenemeyeceği sonucuna varıldığından davacı karşı davalı erkeğin davasının reddine ilişkin direnme kararı yerindedir.\n\nNe var ki, davalı karşı davacı kadının boşanma davası ile fer'ilerine ilişkin temyiz itirazları Özel Dairece incelenmediğinden, bu yönlere ilişkin temyiz itirazlarının incelenmesi için dosya Özel Daireye gönderilmelidir.\n\nSONUÇ: Yukarıda açıklanan nedenlerle davacı karşı davalı erkeğin davasının reddine ilişkin direnme kararı yerinde olup davalı karşı davacı vekilinin boşanma davası ile fer'ilerine ilişkin temyiz itirazlarının incelenmesi için dosyanın 2. HUKUK DAİRESİNE GÖNDERİLMESİNE 07.02.2018 gününde tebliğ tarihinden itibaren on beş günlük süre içinde karar düzeltme yolu açık olmak üzere yapılan ikinci görüşmede oy çokluğuyla karar verildi.",
+      "key_principles": [
+        "Direnme kararının yerinde olması halinde Özel Daireye gönderme",
+        "Fer'i talepler yönünden inceleme zorunluluğu",
+        "Oyçokluğuyla karar"
+      ],
+      "referenced_laws": [
+        "4721/166/2"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay Hukuk Genel Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Ankara 7. Aile Mahkemesi, E. 2012/1668 K. 2013/650",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Yargıtay 2. HD., E. 2013/19410 K. 2014/895",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/166/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "4721/166/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/254",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086/433/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "HGK., E. 2013/2-1417 K. 2014/1090",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "aile hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1.md"
+}

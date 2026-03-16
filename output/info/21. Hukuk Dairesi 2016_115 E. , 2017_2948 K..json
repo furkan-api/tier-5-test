@@ -1,0 +1,257 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 21. HD., E. 2016/115 K. 2017/2948",
+    "EsasNo": "2016/115",
+    "KararNo": "2017/2948",
+    "KararTarihi": "2017-04-10",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 21. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "21. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "temyiz incelemesi tamamlandı - bozma kararı verildi",
+    "Davaci": "İş kazasında vefat eden sigortalının eşi, annesi ve babası",
+    "Davali": "İşveren şirket ve sigorta şirketi",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Belirtilmemiş",
+    "IlkDereceKarari": {
+      "mahkeme": "İş Mahkemesi",
+      "esas_no": null,
+      "karar_no": null,
+      "tarih": null,
+      "sonuc": "Davacı eş lehine 18.870,33 TL maddi, 10.000 TL manevi tazminat; davacı anne ve baba lehine 7.500 TL manevi tazminat hükmedilmiş, anne ve babanın maddi tazminat talebi reddedilmiştir."
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davacılar ve davalı sigorta şirketi vekillerince hükmün temyiz edilmesi; kaçınılmazlık oranı, rücu edilemeyen gelirin tazminattan indirimi, manevi tazminat miktarı ve faiz başlangıcına ilişkin itirazlar",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Mahkeme kararı; kaçınılmazlıkta sorumluluk oranının %50 yerine %60 olması gerektiği, rücuya kabil olmayan gelirin tazminattan indirilemeyeceği, manevi tazminat miktarlarının yetersiz olduğu ve sigorta şirketi için faiz başlangıç tarihinin dava tarihi olması gerektiği gerekçesiyle bozulmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "818/43",
+      "818/47",
+      "818/101",
+      "6098/55",
+      "6098/56",
+      "6098/117",
+      "6101/2"
+    ],
+    "AnaSuc": "İş kazası sonucu ölüm - maddi ve manevi tazminat",
+    "HukukiKonu": "iş hukuku - iş kazası tazminatı"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Taraflar",
+      "text": "Dava, iş kazası sonucu vefat eden sigortalının hak sahibi yakınları olan eş, anne ve babasının maddi ve manevi zararlarının giderilmesi istemine ilişkindir.\n\nDosyadaki kayıt ve belgelerden, davacıların desteği sigortalının davalı şirkette kamyon şoförü olarak çalışırken, 16.01.2007 tarihinde yüklediği kumaşları götürdüğü esnada bölünmüş karayolunda hareket halinde iken, sol ön lastiğin patlaması neticesinde meydana gelen tek taraflı trafik kazası neticesinde vefat ettiği, olayın Kurum tarafından iş kazası olarak kabul edildiği, itibar olunan kusur raporuna göre olayın gerçekleşmesinde %100 oranında kaçınılmazlığın etkili olduğu anlaşılmaktadır.",
+      "key_principles": [
+        "İş kazası sonucu ölümde hak sahibi yakınların tazminat hakkı",
+        "Kaçınılmazlık faktörünün sorumluluğa etkisi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararı",
+      "text": "Mahkemece davacı eş lehine 18.870,33 TL maddi, 10.000 TL manevi tazminatın, davacı anne ve baba lehine ise 7.500 TL manevi tazminatın kaza tarihi olan 16.01.2007 tarihinden itibaren işleyecek yasal faiziyle ve sigorta şirketi yönünden poliçe limitleri ile sınırlı olmak üzere müştereken ve müteselsilen tahsili ile davacılara verilmesine, davacı anne ve babanın maddi tazminat talebinin ise reddine karar verilmiştir.\n\nMahkemece %100 kusur üzerinden ve davacı eş ve anne için bağlanan gelirin ilk peşin sermaye değeri davacıların maddi tazminat istemlerinden tenzil edilmek suretiyle yapılan hesabın hükme esas alındığı ve gerekçede işaret olunduğu şekilde tazminat alacaklarından %50 oranında hakkaniyet indirimi yapılarak maddi tazminatlar hakkında karar verildiği anlaşılmaktadır.",
+      "key_principles": [
+        "Peşin sermaye değerinin tazminattan indirimi",
+        "Hakkaniyet indirimi uygulaması"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Kaçınılmazlık ve İşveren Sorumluluğunun Tespiti",
+      "text": "Kaçınılmazlık, hukuksal ve teknik anlamda, fennen önlenmesi mümkün bulunmayan başka bir anlatımla, işverence mevzuatın öngördüğü tüm önlemlerin alınmış olduğu koşullarda dahi önlenmesi mümkün bulunmayan durum ve sonuçları ifade eder.\n\nBir olayın tamamen kaçınılmazlık sonucu meydana geldiğinin saptanması halinde hakim, işverenin sorumluluğunu, Borçlar Kanunu'nun 43. maddesini gözönünde tutarak hakkaniyet ölçüsünde saptamalıdır. Her iki taraf yönünden % 50'şer sorumluluğun paylaştırılması ilk bakışta uygun görünebilirse de, işçi-işveren arasındaki bu tür davalarda tarafların ekonomik ve sosyal durumlarının göz önünde bulundurulması halinde; işverene biraz daha fazla sorumluluk verilmesi; sosyal hukuk devleti ilkesi gereği düşünülebilir. Yargıtay'ın yerleşik uygulaması da bu yöndedir. Somut olayda iş kazasının gerçekleşmesinde % 100 oranında kaçınılmazlığın etkili olduğu tesbit edildiğine göre yukarıda söz edilen ilkeler göz önünde bulundurularak, özellikle nimet ve külfet dengesinin sağlanması açısından kaçınılmazlığın % 60'ı davalı işverene yüklenmek suretiyle davalı işverenin sorumluluğu belirlenmesi gerekirken, davalının kaçınılmazlığın %50'si oranında sorumluluğunu doğuracak şekilde ve olayda uygulanma ihtimali bulunmayan hakkaniyet indirimine yönelik hukuki düzenlemeye atıfla, davalı işverenin sorumluluğu hafifletilmek suretiyle yazılı şekilde karar verilmesi usul ve yasaya aykırıdır.",
+      "key_principles": [
+        "Kaçınılmazlık kavramının hukuki tanımı",
+        "Sosyal hukuk devleti ilkesi gereği işverene daha fazla sorumluluk yüklenmesi",
+        "Nimet ve külfet dengesi",
+        "%100 kaçınılmazlık halinde işverenin %60 oranında sorumlu tutulması gerekliliği",
+        "Hakkaniyet indirimi ile kaçınılmazlık indirimi ayrımı"
+      ],
+      "referenced_laws": [
+        "818/43"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Rücuya Kabil Olmayan Gelirin Tazminattan İndirilemeyeceği",
+      "text": "Karar tarihinde yürürlükte bulunan 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2. maddesine göre 'Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları, gerçekleştirildikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanır'. Dairemizin ve giderek Yargıtay'ın yerleşmiş görüşleri, Kurumca bağlanan gelirlerin peşin sermaye değerinin ve geçici işgöremezlik ödeneklerinin hesaplanan zarardan indirilmesi, Kurumun rücu hakkının korunması ve mükerrer ödemeyi önleme ilkesine dayandığından, kamu düzenine ilişkin olarak kabul edilmiştir. Kaldı ki, 6098 sayılı Kanunun 55. maddesi de emredici bir hükme yer verdiğinden gerçekleştiği tarihe bakılmaksızın tüm fiil ve işlemlere uygulanmalıdır.\n\nBu açıklamalara göre 6098 sayılı Türk Borçlar Kanunun 55. maddesinde yer alan 'kısmen veya tamamen rücu edilemeyen sosyal güvenlik ödemeleri ile ifa amacını taşımayan ödemelerin zarar veya tazminattan indirilemeyeceği' düzenlemesi dikkate alındığında iş kazasının gerçekleşmesinde %100 oranında kaçınılmazlık faktörünün etkili olması nedeniyle davacı eş ve anneye bağlanan gelirin ilk peşin sermaye değerinin rücuya kabil olmaması nedeniyle tazminat alacağından indirilmesinin mümkün olmadığı gözetilmeden, bağlanan gelirin tazminat alacağından indirilmek suretiyle karar verilmesi usul ve yasaya aykırı olmuştur.",
+      "key_principles": [
+        "TBK kamu düzenine ilişkin hükümlerinin geriye yürümesi",
+        "Rücuya kabil olmayan sosyal güvenlik ödemelerinin tazminattan indirilemeyeceği",
+        "Mükerrer ödemeyi önleme ilkesi",
+        "Kurumun rücu hakkının korunması"
+      ],
+      "referenced_laws": [
+        "6098/55",
+        "6101/2"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Manevi Tazminat Miktarının Belirlenmesi",
+      "text": "Manevi tazminata yönelik temyiz itirazlarının incelenmesinde, Gerek mülga B.K'nun 47 ve gerekse yürürlükteki 6098 sayılı T.B.K'nun 56. maddesi hükmüne göre Hakim, ölenin yakınlarına manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verebilir. Hakimin manevi zarar adı ile ölenin yakınlarına verilmesine karar vereceği para tutarı adalete uygun olmalıdır. Hükmedilecek bu para, zarara uğrayanda manevi huzuru doğurmayı gerçekleştirecek tazminata benzer bir fonksiyonu olan özgün bir nitelik taşır. Bir ceza olmadığı gibi, mamelek hukukuna ilişkin zararın karşılanmasını da amaç edinmemiştir.\n\nHakimin bu takdir hakkını kullanırken, ülkenin ekonomik koşulları tarafların sosyal ve ekonomik durumları paranın satın alma gücü, tarafların kusur durumu olayın ağırlığı olay tarihi gibi özellikleri göz önünde tutması, bunun yanında olayın işverenin sağlığı ve güvenliği önlemlerini yeterince alınmamasından kaynaklandığı da gözetilerek gelişen hukuktaki yaklaşıma da uygun olarak tatmin duygusu yanında caydırıcılık uyandıran oranda manevi tazminat takdir edilmesi gerektiği açıkça ortadadır. (HGK 23.6.2004, 13/291-370)\n\nBu ilkeler gözetildiğinde, davacı eş için takdir edilen 10.000 TL manevi tazminat ile davacı anne ve babanın her biri için takdir edilen 7.500 TL manevi tazminatın az olduğu açıktır.",
+      "key_principles": [
+        "Manevi tazminatın fonksiyonu ve amacı",
+        "Manevi tazminat takdirinde hakimin gözetmesi gereken ölçütler",
+        "Caydırıcılık ve tatmin işlevi",
+        "Ekonomik koşullar ve paranın satın alma gücünün dikkate alınması"
+      ],
+      "referenced_laws": [
+        "818/47",
+        "6098/56"
+      ],
+      "referenced_decisions": [
+        "HGK 23.6.2004, 13/291-370"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Sigorta Şirketi Yönünden Faiz Başlangıç Tarihi",
+      "text": "Gerek olay tarihinde yürürlükte bulunan Mülga 818 sayılı BK'nun 101. maddesinde gerekse karar tarihinde yürürlükte bulunan 6098 sayılı Türk Borçlar Kanununun 117. maddesindeki düzenlemeye göre 'Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer' şeklindeki düzenlenme karşısında iş kazası nedeniyle takdir edilen tazminat alacakları için davalı sigorta şirketinin daha önce temerrüde düşürüldüğünün ispat edilememiş olması nedeniyle sigorta şirketinin dava tarihinden itibaren işleyecek yasal faizden sorumlu tutulması gerekirken; kaza tarihinden itibaren işleyecek yasal faizden sorumlu tutulması sonucunu doğuracak şekilde karar verilmesi doğru olmamıştır.",
+      "key_principles": [
+        "Temerrüt ve ihtarla temerrüde düşme ilkesi",
+        "Sigorta şirketinin faiz başlangıcının dava tarihi olması gerektiği",
+        "İspat yükü - temerrüdün önceden gerçekleştiğinin ispatı"
+      ],
+      "referenced_laws": [
+        "818/101",
+        "6098/117"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Mahkemece bu maddi ve hukuki olgular göz önünde tutulmaksızın yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozma nedenidir.\n\nO halde, Davacıların ve Davalı sigorta şirketinin bu yöne ilişkin temyiz itirazları kabul edilmeli ve hüküm bozulmalıdır.\n\nSONUÇ: Hükmün yukarıda açıklanan nedenlerle BOZULMASINA, temyiz harcının istek halinde temyiz eden davacı ve davalı sigorta şirketine iadesine 10.04.2017 gününde oybirliğiyle karar verildi.",
+      "key_principles": [
+        "Usul ve yasaya aykırı kararın bozulması",
+        "Temyiz harcının iadesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 21. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İş Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/43",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/47",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/101",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/55",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/56",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/117",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6101/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "HGK 23.6.2004, 13/291-370",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "21. Hukuk Dairesi 2016_115 E. , 2017_2948 K..md"
+}

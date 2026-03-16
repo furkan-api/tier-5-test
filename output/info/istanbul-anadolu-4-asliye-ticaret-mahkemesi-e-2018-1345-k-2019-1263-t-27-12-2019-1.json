@@ -1,0 +1,245 @@
+{
+  "entities": {
+    "Karar": "İstanbul Anadolu 4. Asliye Ticaret Mahkemesi, E. 2018/1345 K. 2019/1263, T. 27.12.2019",
+    "EsasNo": "2018/1345",
+    "KararNo": "2019/1263",
+    "KararTarihi": "2019-12-27",
+    "YargiOrgani": "Asliye Ticaret Mahkemesi",
+    "Mahkeme": "İstanbul Anadolu 4. Asliye Ticaret Mahkemesi",
+    "MahkemeTuru": "ilk_derece_hukuk",
+    "Daire": "4. Asliye Ticaret Mahkemesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Yargılama tamamlandı, karar verildi",
+    "Davaci": "Asansör işlerini yapan yüklenici firma",
+    "Davali": "İş sahibi firma",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "İstanbul Anadolu 4. Asliye Ticaret Mahkemesi",
+      "esas_no": "2018/1345",
+      "karar_no": "2019/1263",
+      "tarih": "2019-12-27",
+      "sonuc": "Davanın kabulü - bakiye iş bedelinin ticari faiziyle birlikte davalıdan tahsiline"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": null,
+      "mahkeme": "İstanbul Bölge Adliye Mahkemesi ilgili Hukuk Dairesi",
+      "esas_no": null,
+      "karar_no": null,
+      "sonuc": "İstinaf kanun yolu açık bırakıldı"
+    },
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": false,
+    "HukumSonucu": "KABUL",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "4721/479",
+      "6102/1",
+      "213/1",
+      "3095/2",
+      "5335/1"
+    ],
+    "AnaSuc": "Eser sözleşmesinden kaynaklanan bakiye iş bedeli alacağı",
+    "HukukiKonu": "Borçlar hukuku - Eser sözleşmesi"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Tarafların Tespiti",
+      "text": "DAVA: Alacak (Eser Sözleşmesinden Kaynaklanan)\n\nMahkememizde görülmekte olan Alacak (Eser Sözleşmesinden Kaynaklanan) davasının yapılan açık yargılaması sonunda,\n\nDavanın ve uyuşmazlık konularının tespiti: Dava, eser sözleşmesi nedeniyle ödenmeyen bakiye iş bedelinin tahsili istemine ilişkin olup, davalı tarafın davaya süresinde cevap vermediği, buna göre tarafların uyuştukları husus bulunmadığı, taraflar arasındaki uyuşmazlığın;\na-Davalının sözleşmeden doğan yükümlülüklerini yerine getirip getirmediği,\nb-Davacının, davalıdan alacağı olup olmadığı, varsa miktarının ne kadar olduğu noktalarında toplandığı tespit olunmuştur.",
+      "key_principles": [
+        "Eser sözleşmesinde bakiye iş bedelinin tahsili",
+        "Uyuşmazlık konularının tespiti",
+        "Süresinde cevap verilmemesinin hukuki sonuçları"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Davacı İddiası ve Davalı Savunması",
+      "text": "İDDİA: Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı firma arasında asansör işlerinin yapılmasına ilişkin sözleşme imzalandığını, müvekkili firma tarafından sözleşmeye uygun olarak asansör işlerinin eksiksiz tamamlanarak iş sahibine teslim edilmesine rağmen davalının sözleşme gereği yükümlülüğünün bir kısmını ödediğini, ancak bakiye kısmını ödemediğini, telefon ve e-posta yoluyla davalıya ulaşılmaya çalışıldığını, ancak ulaşılamadığını, bu nedenle alacağın tahsilinin mümkün olmadığını, dava öncesinde Sulh Hukuk Mahkemesi'nde delil tespiti yapıldığını, tüm bu nedenlerle dava tarihinden itibaren en yüksek ticari faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.\n\nSAVUNMA: Dava dilekçesinin davalı şirkete tebliğ olunduğu, davalının süresi içinde davaya cevap vermediği anlaşılmıştır. Davalı vekili, cevap dilekçesi süresi geçtikten sonra sunduğu beyan dilekçesinde özetle; ödemeler için öncelikle fatura düzenlenmesi gerektiğini, hakkediş raporunun incelendiğinde taraflar arasındaki sözleşme gereği tüm ödemelerin yapıldığının görüleceğini, sözleşme uyarınca işin kesin hakkediş düzenlenmesi, kesin kabulü ve tasfiyesinin yapılmadığından davacı yanın henüz ödemeye hak kazanmadığını, dava konusu işin davacı tarafça hatalı ve eksik ifa edildiğinden davacının taleplerinin haksız olduğunu beyan etmiş ve hukuki dayanaktan yoksun taleplerin reddini talep etmiştir.",
+      "key_principles": [
+        "Yüklenicinin işi teslim yükümlülüğü",
+        "İş sahibinin bedel ödeme yükümlülüğü",
+        "Fatura düzenlenmesinin ödeme şartı olup olmadığı",
+        "Eksik ifa iddiası"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "evidence_evaluation",
+      "title": "Deliller: Defter İncelemesi, Sözleşme ve Kabul Tutanakları",
+      "text": "2-Deliller:\n2-a) Defter incelemesi: Mali müşavir bilirkişi tarafından tarafların ticari defter ve kayıtları incelenmiş olup, bilirkişi raporunun ilgili bölümünde açıklandığı üzere, davacı şirketin ticari defterlerinin açılış ve kapanış tasdiklerinin TTK hükümlerine göre zamanında yapıldığı tespit edilmiştir. Davacı şirketin incelenen defterlerinde davalı şirketten almış olduğu ödemeler ve teminat mektuplarına ilişkin toplam ödeme yaptığı görülse de davacının ikrarı ve kabulünde olan tutarda ödeme aldığı tespit edilmiştir.\n\n2-b) Sözleşme: Davacı vekili tarafından dava dosyasına sunulan sözleşmenin incelemesinde özetle, iş sahibi ile yüklenici şirket arasında akdedilen sözleşme ile asansör işlerinin yapımının üstlenildiği, işin malzeme ve işçilik dahil bedelinin götürü bedel olarak kararlaştırıldığı, hakedişlerin ödeme şeklinin aylık hakedişler ile ödeneceği, her hakediş tutarının fatura tarihinden itibaren vadeli çekle ödeneceğinin kabul edildiği görülmüştür.\n\n2-c) Geçici Kabul Tutanakları İncelemesi: Davacı vekili tarafından dava dosyasına sunulan geçici kabul tutanaklarının incelemesinde, asansörlerin sözleşmeye uygun olarak tamamlandığı, yönetmeliğe ve ilgili normlara uygunluğu açısından gerekli bütün kontrolleri işverenle birlikte yapılarak çalışabilir durumda ve kapalı vaziyette teslim edildiği ve teslim tarihinden itibaren garanti süresinin başladığının belirtildiği görülmüştür.\n\n2-ç) Değişik iş dosyası: Sulh Hukuk Mahkemesinin ilgili dosyasının incelenmesinde, taşınmazda kurulu asansörlerin imalatlarının sözleşme esasları doğrultusunda yapılmış olduğu, herhangi bir noksanlarının bulunmadığı, bu asansörlerin ilgili standartlara uygun olduğu belirtildiği anlaşılmıştır.",
+      "key_principles": [
+        "Ticari defterlerin ispat değeri",
+        "TTK ve VUK uyarınca defter tutma yükümlülüğü",
+        "Geçici kabul tutanaklarının hukuki niteliği",
+        "Götürü bedel uygulaması"
+      ],
+      "referenced_laws": [
+        "6102/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "evidence_evaluation",
+      "title": "Keşif ve Bilirkişi Raporu Değerlendirmesi",
+      "text": "2-d) Keşif: Mahkeme başkanı hakim başkanlığında, makine mühendisi bilirkişi ile, taraf vekillerinin katılımıyla yapılan keşifte, asansörlerin çalışır durumda olduğu, makine dairesi, kabin kaplaması ve kabin aksesuarlarının paslanmaz çelik, kat ve kabin kapılarının otomatik, doğal havalandırmalı ve paslanmaz çelik olduğu görülmüş ve test edilmiştir.\n\nMakine mühendisi bilirkişi tarafından raporun ilgili bölümünde belirtildiği üzere, davaya konu olan iş kapsamında 13 adet asansörün sözleşme esasları doğrultusunda montajı bitirilerek imalatlarının tamamlanmış olduğu, ilgili standarda uygun ve çalışır durumda oldukları, asansör kullanım izin belgelerinin düzenlenmiş ve yeşil etiketlerinin her asansörün kapısına yapıştırıldığı tespit edilmiştir.\n\nBilirkişi heyetince düzenlenen rapor, teknik yönden dosya kapsamına uygun, denetime elverişli ve yeterli görülmekle hükme esas alınmıştır.\n\nHer ne kadar davalı vekili, bilirkişi raporuna itiraz etmiş ve dosyanın yeni bilirkişi heyetine verilmesini, bu talep kabul olmazsa aynı bilirkişi heyetinden ek rapor alınmasını talep etmiş ise de, bilirkişi heyetince düzenlenen bilirkişi raporunun dosya kapsamına uygun, denetime elverişli ve yeterli olduğu anlaşılmakla, sonuca etkili olmadığından bu talepler reddedilmiştir.",
+      "key_principles": [
+        "Bilirkişi raporunun hükme esas alınabilme koşulları",
+        "Keşif delilinin ispat değeri",
+        "Yeni bilirkişi heyetine gönderme talebinin reddi kriterleri",
+        "13 adet asansörün sözleşmeye uygun tamamlanması"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Hukuki Değerlendirme: Eser Sözleşmesi, İspat Yükü ve KDV",
+      "text": "3-Delillerin tartışılması ve değerlendirilmesi, hukuki nedenler ve sonuç:\n\nTBK'nin 479. maddesi hükmüne göre, eser sözleşmelerinde aksi kararlaştırılmamışsa işin parası teslim zamanında ödeneceğinden işin yapılıp teslim edildiğini kanıtlamak yükleniciye, bedelin ödendiğini ispat etmek de iş sahibine aittir.\n\nKeşif mahallinde yapılan incelemede davacı yüklenicinin yapımını üstlendiği asansörlerin taraflar arasında akdedilen sözleşme şartlarına uygun olarak bitirilip teslim edildiği ve çalışır durumda oldukları tespit edilmiştir.\n\nTaraflar arasında imzalanan sözleşmenin 6.1 maddesinde yapılacak işin fiyatı ve ödeme şartları belirlenmiştir. İmzalanan sözleşmede ödeme faturanın tanzim edilmesine değil, sözleşme kapsamında ve teknik şartnamede belirtildiği şekilde tamamlanmasına bağlanmıştır. Bu sebeple bedelin ödendiğini ispat yükü davalı işverendedir.\n\nDavalı iş sahibinin somut olarak eksik ifaya ilişkin delili de bulunmadığından, davalının sözleşme konusu kalan ödeme edimi yerine getirmesi gerektiği hususları topluca değerlendirildiğinde, sonuç olarak davacının yapımını üstlendiği işin ödenmeyen bakiye bedelini davalıdan isteyebileceği kanaatine varılmıştır.\n\nKDV meselesinde, eser sözleşmelerinden doğan davaların temyiz incelemesini yapan Yargıtay ilgili Hukuk Dairesi'nin emsal ilamlarında belirtildiği üzere sözleşmede KDV istenemeyeceğine ilişkin hüküm olmadığı takdirde KDV talep edilebilmesi için fatura düzenlenmesi zorunluluğu bulunmamaktadır. Taraflar arasında düzenlenen sözleşmede sözleşme bedeli belirlendiğinden ve her iki taraf tacir olduğundan davacının davalıdan KDV isteyebileceği kanaatine varılmıştır.",
+      "key_principles": [
+        "TBK 479 uyarınca eser sözleşmesinde ispat yükü dağılımı",
+        "İşin teslim edildiğini ispat yükü yükleniciye aittir",
+        "Bedelin ödendiğini ispat yükü iş sahibine aittir",
+        "Fatura düzenlenmeksizin KDV talep edilebilirliği",
+        "Sözleşmede ödemenin tamamlanmaya bağlanması"
+      ],
+      "referenced_laws": [
+        "6098/479",
+        "6102/1",
+        "213/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Faiz Türü ve Temerrüt Tarihi Değerlendirmesi",
+      "text": "4-Faizin cinsi ve temerrüt tarihi ile ilgili gerekçe: Davacı vekili dava dilekçesi ile ticari faiz istemiştir.\n\n5335 sayılı Yasa ile değişik 3095 sayılı Yasa hükümlerinde, yasal faizin reeskont oranına göre belirlenmesi düzenlemesinden vazgeçilip, reeskont oranı tabiri madde metninden çıkartılmış, bunun yerine artırılma-indirilme yetkisi bırakılan ve belli bir oranı ifade etmekte olan faiz uygulamasına geçilmiştir.\n\nBuna göre, davacı faiz istemini 3095 sayılı Kanun'un 2. maddesinde belirtilen şekilde ticari işlerde uygulanacak temerrüt faizi olan avans faiz oranı üzerinden talep etmemiş; her ne kadar ticari davalara bakan bir kısım Yargıtay yüksek Daireleri ticari faizin karşılığının yasal faiz olduğu yönünde uygulama yapıyorlarsa da, işbu davanın temyiz inceleme görev ve yetkisi ilgili Yargıtay Hukuk Dairesi'ne ait olup, bu yüksek Daire'nin yerleşik uygulamasına göre işin ticari olması durumunda ticari faize hükmedilmesine karar verilmesi gerektiği anlaşıldığından davacının dava dilekçesindeki talebi de göz önüne alınarak alacağa değişen oranlarda hesaplanacak ticari faiz uygulanmasına karar vermek gerekmiştir.",
+      "key_principles": [
+        "Ticari işlerde avans faiz oranı uygulaması",
+        "3095 sayılı Kanun kapsamında ticari faiz",
+        "Talep bağlılığı ilkesi",
+        "Yargıtay dairelerinin faiz uygulamasındaki farklılıkları"
+      ],
+      "referenced_laws": [
+        "3095/2",
+        "5335/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Hüküm",
+      "text": "HÜKÜM: Yukarıda açıklanan nedenlerle;\n\n1-Davanın KABULÜ ile, taleple bağlı kalınarak davanın açıldığı tarihten tahsil tarihine kadar işleyecek değişen oranlarda ticari faizi ile birlikte davalıdan alınarak davacıya verilmesine,\n\n2-Harçlar Kanunu uyarınca alınması gereken harcın dava açılırken davacı tarafından yatırılan peşin harçtan mahsubu ile bakiye harcın davalıdan alınarak Hazineye gelir kaydına,\n\n3-Davacı tarafından yatırılan harcın davalıdan alınarak davacıya verilmesine,\n\n4-Davacı tarafından sarf edilen yargılama giderinin davalıdan alınarak davacıya verilmesine,\n\n5-Davacı kendisini vekille temsil ettirdiğinden karar tarihinde yürürlükte bulunan vekalet ücretinin davalıdan alınarak davacıya verilmesine,\n\n6-Dosyada mevcut gider avansının karar kesinleştiğinde ve talep halinde yatıran tarafa iadesine,\n\nDair, davacı vekili ve davalı vekilinin yüzlerine karşı, gerekçeli kararın taraflara tebliğinden itibaren iki haftalık süre içinde İstanbul Bölge Adliye Mahkemesi'nin ilgili Hukuk Dairesine istinaf kanun yolu açık olmak üzere oy birliğiyle verilen karar açıkça okunup usulen anlatıldı.",
+      "key_principles": [
+        "Talep bağlılığı ilkesi",
+        "Yargılama giderlerinin kaybeden tarafa yükletilmesi",
+        "Vekalet ücretine hükmedilmesi",
+        "İstinaf kanun yolunun açık bırakılması",
+        "Ticari faize hükmedilmesi"
+      ],
+      "referenced_laws": [
+        "3095/2"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "İstanbul Anadolu 4. Asliye Ticaret Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul Bölge Adliye Mahkemesi ilgili Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/479",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "3095/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5335/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6102/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "borçlar hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ticaret hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "istanbul-anadolu-4-asliye-ticaret-mahkemesi-e-2018-1345-k-2019-1263-t-27-12-2019-1.md"
+}

@@ -1,0 +1,227 @@
+{
+  "entities": {
+    "Karar": "Ankara 24. İdare Mahkemesi, E. 2024/1728, K. 2025/454, T. 26.03.2025",
+    "EsasNo": "2024/1728",
+    "KararNo": "2025/454",
+    "KararTarihi": "2025-03-26",
+    "YargiOrgani": "Ankara 24. İdare Mahkemesi",
+    "Mahkeme": "Ankara 24. İdare Mahkemesi",
+    "MahkemeTuru": "idare_mahkemesi",
+    "Daire": null,
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "İlk derece yargılaması tamamlandı, iptal kararı verildi",
+    "Davaci": "K1 (Yenimahalle Sosyal Hizmet Merkezi Müdürlüğü'nde Sosyal Çalışmacı)",
+    "Davali": "1- Ankara Valiliği (Av. K2) 2- Aile ve Sosyal Hizmetler Bakanlığı (Huk. Müş. K3)",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": null,
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": false,
+    "HukumSonucu": "KABUL",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "Aile ve Sosyal Hizmetler Bakanlığı Personel Genel Müdürlüğü'nün 22.10.2024 tarih ve 13398534 sayılı işlemine istinaden, davacının 657 sayılı Kanun Ek-43. maddesi kapsamında doğum sonrası yarım zamanlı çalışma talebinin Cumhurbaşkanı'nca usul ve esaslar belirlenmediği gerekçesiyle reddedilmesi",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Davalı Ankara Valiliği, dava konusu işlemin kesin ve icrai nitelikte olmadığını öne sürerek davanın reddi gerektiğini savunmuş; mahkeme bu itirazı yerinde görmemiştir.",
+    "Mevzuat": [
+      "2709/128/2",
+      "657/104/F",
+      "657/Ek-43",
+      "6663/10"
+    ],
+    "AnaSuc": "Doğum sonrası yarım zamanlı çalışma hakkının kullanımının reddi - idari işlemin iptali",
+    "HukukiKonu": "idare hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Özeti ve Konusu",
+      "text": "Dava, Yenimahalle Sosyal Hizmet Merkezi Müdürlüğü'nde Sosyal Çalışmacı olarak görev yapan davacı tarafından, 657 sayılı Devlet Memurları Kanunu'nun 'Doğum sonrası yarım zamanlı çalışma' başlıklı Ek-43. maddesinden yararlanmak amacıyla yaptığı 11.10.2024 tarihli başvurusunun, Aile ve Sosyal Hizmetler Bakanlığı Personel Genel Müdürlüğü'nün 22.10.2024 tarih ve 13398534 sayılı işlemine istinaden reddedilmesine ilişkin işlemin; hukuka aykırı olduğu, kanunen tanınan bir hakkın kullanılmasının, bu hususta ikincil mevzuatta bir düzenleme yapılmadığı gerekçesiyle engellenemeyeceği ileri sürülerek iptali istenilmektedir.",
+      "key_principles": [
+        "Kanunla tanınan hakkın kullanımı ikincil mevzuatın yokluğuna rağmen engellenemez",
+        "İdari işlemin hukuka uygunluğu denetimi",
+        "Memur haklarının kanunla düzenlenmesi ilkesi"
+      ],
+      "referenced_laws": [
+        "657/Ek-43"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Tarafların Savunmaları",
+      "text": "ANKARA VALİLİĞİ SAVUNMASININ ÖZETİ: Usule ilişkin olarak; dava konusu işlemin kesin ve icrai bir işlem olmaması nedeniyle reddi gerektiği, esasa ilişkin olarak; yarım zamanlı çalışma hakkının kullanımına ilişkin usul ve esaslar hakkında Cumhurbaşkanı tarafından herhangi bir düzenleme yapılmadığından, dava konusu başvuruya ilişkin herhangi bir işlem tesis edilemediği belirtilerek davanın reddi gerektiği savunulmaktadır.\n\nAİLE VE SOSYAL HİZMETLER BAKANLIĞI SAVUNMASININ ÖZETİ: Dayanak mevzuat hükmünde yarım zamanlı çalışma hakkına ilişkin usul ve esasları belirlemeye Cumhurbaşkanının yetkili olduğunun düzenlendiği, yarım zamanlı çalışma hakkının kullanılmasına ilişkin usul ve esasların Cumhurbaşkanı tarafından yürürlüğe konulması şartıyla memurların bu haktan yararlanabileceği, Cumhurbaşkanlığı tarafından hakkın kullanımına ilişkin usul ve esaslar ile hangi memurların bu haktan yararlanabileceği belirlenmeden bu hakkın memurlara kullandırılmasının mümkün olmadığı belirtilerek davanın reddi gerektiği savunulmaktadır.",
+      "key_principles": [
+        "Kesin ve icrai işlem koşulu",
+        "Cumhurbaşkanlığı düzenleyici işleminin ön koşul olup olmadığı meselesi",
+        "İkincil mevzuat yokluğunun hak kullanımına etkisi"
+      ],
+      "referenced_laws": [
+        "657/Ek-43"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "İlgili Mevzuat Hükümleri",
+      "text": "Türkiye Cumhuriyeti Anayasası'nın 128. maddesinin 2. fıkrasında; 'Memurların ve diğer kamu görevlilerinin nitelikleri, atanmaları, görev ve yetkileri, hakları ve yükümlülükleri, aylık ve ödenekleri ve diğer özlük işleri kanunla düzenlenir. Ancak, malî ve sosyal haklara ilişkin toplu sözleşme hükümleri saklıdır.' hükmü yer almaktadır.\n\n657 sayılı Devlet Memurları Kanunu'nun 'Mazeret İzni' başlıklı 104. maddesinin (F) fıkrasında; 'Doğum sonrası analık izni süresi sonunda kadın memur, isteği hâlinde çocuğun hayatta olması kaydıyla analık izni bitiminde başlamak üzere ayrıca süt izni verilmeksizin birinci doğumda iki ay, ikinci doğumda dört ay, sonraki doğumlarda ise altı ay süreyle günlük çalışma süresinin yarısı kadar çalışabilir...' hükmüne yer verilmiştir.\n\n'Doğum sonrası yarım zamanlı çalışma' başlıklı Ek 43. maddesinde; 'Doğum yapan memurlar doğum sonrası analık izninin veya 104 üncü maddenin (F) fıkrası uyarınca kullanılan iznin, eşi doğum yapan memurlar ise babalık izninin bitiminden, ilgili mevzuatı uyarınca çocuğun mecburi ilköğretim çağının başladığı tarihi takip eden ay başına kadar olan dönemde, ayrıca süt izni verilmeksizin haftalık çalışma saatlerinin normal çalışma süresinin yarısı olarak düzenlenmesini talep edebilirler... Yarım zamanlı çalışma hakkının kullanımına ilişkin usul ve esaslar ile bu haktan yararlanamayacak memurları; hizmet sınıfı, kadro unvanı, kurum veya teşkilat bazında birlikte veya ayrı ayrı belirlemeye Cumhurbaşkanı yetkilidir.' hükümlerine yer verilmiştir.",
+      "key_principles": [
+        "Memur haklarının kanunla düzenlenmesi anayasal ilkesi",
+        "Doğum sonrası yarım zamanlı çalışma hakkının kapsamı",
+        "Cumhurbaşkanlığı yetkisinin sınırı ve niteliği",
+        "Haktan yararlanma koşulları"
+      ],
+      "referenced_laws": [
+        "2709/128/2",
+        "657/104/F",
+        "657/Ek-43",
+        "6663/10"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "evidence_evaluation",
+      "title": "Dosya İncelemesi ve Olayın Tespiti",
+      "text": "Dosyanın incelenmesinden; Yenimahalle Sosyal Hizmet Merkezi Müdürlüğü'nde Sosyal Çalışmacı olarak görev yapan davacının, 30.12.2023 tarihinde doğan çocuğuna bakabilmek amacıyla doğum sonrası yarım zamanlı çalışma hakkının tarafına sağlanması talebiyle yaptığı 11.10.2024 tarihli başvurusunun, 'Yarım zamanlı çalışma hakkının kullanımına ilişkin usul ve esaslar ile bu haktan yararlanamayacak memurları; hizmet sınıfı, kadro unvanı, kurum veya teşkilat bazında birlikte veya ayrı ayrı belirlemeye Cumhurbaşkanı'nın yetkili olduğu, bu sebeple yarım zamanlı çalışma hakkından yararlanılmasının konuya ilişkin mevzuatın yürürlüğe girmesinden sonra mümkün olabileceği' gerekçesiyle, Aile ve Sosyal Hizmetler Bakanlığı Personel Genel Müdürlüğü'nün 22.10.2024 tarih ve 13398534 sayılı işlemine istinaden reddedilmesi üzerine bakılmakta olan davanın açıldığı anlaşılmaktadır.\n\nYukarıda yer verilen mevzuat hükümleri incelendiğinde; 29/01/2016 tarihinde kabul edilen ve 10/02/2016 tarih ve 29620 sayılı Resmi Gazetede yayımlanan 6663 sayılı Kanun'un 10. maddesi ile 657 sayılı Kanun'a Ek 43. madde eklenmiş olup, bu düzenleme ile doğum yapan, eşi doğum yapan ya da bir çocuğu eşiyle birlikte veya münferit olarak evlat edinen memurlar ile memur olmayan eşin münferit olarak evlat edinmesi hâlinde memur olan eşler açısından çalışma saatlerinin normal çalışma süresinin yarısı olarak düzenlenmesini talep edebilme hakkı tanındığı ve bu hakkın çocuğun mecburi ilköğretim çağının başladığı tarihi takip eden ay başına kadar olan dönemi kapsadığı anlaşılmaktadır.",
+      "key_principles": [
+        "İdari ret işleminin gerekçesi",
+        "Kanunun yürürlük tarihi ve haktan yararlanma dönemi",
+        "Fiili koşulların tespiti"
+      ],
+      "referenced_laws": [
+        "657/Ek-43",
+        "6663/10"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "appellate_evaluation",
+      "title": "Mahkemenin Hukuki Değerlendirmesi",
+      "text": "Uyuşmazlık konusu olayda, her ne kadar ilgili mevzuatta yarım zamanlı çalışma hakkının kullanımına ilişkin usul ve esaslar ile bu haktan yararlanamayacak memurları, hizmet sınıfı, kadro unvanı, kurum veya teşkilat bazında birlikte veya ayrı ayrı belirlemeye Cumhurbaşkanı'nın yetkili olduğu ve bu kapsamda Cumhurbaşkanı'nca alınmış bir karar bulunmadığı gerekçesiyle davacı tarafından yapılan başvuru reddedilmiş ise de, davacının 30.12.2023 doğum tarihli bir kızının bulunduğu, kızının henüz mecburi ilköğretim çağına gelmediği ve 657 sayılı Kanun'a tabi memur olarak görev yapmakta olan davacının kendisine kanunen tanınan bu hakkı kullanmasının önünde yasal bir engel bulunmadığı, kanunen aranan koşulların davacı tarafından sağlandığı, haktan yararlandırılma hususunda Cumhurbaşkanlığı'nca henüz bir düzenleme yapılmamış olmasının açıkça kanunla tanınmış hakkın kullanılmasına engel olmayacağı, söz konusu düzenlemenin ne zaman yapılacağı hususunda herhangi bir sürenin de belirlenmediği anlaşılmaktadır.\n\nBu durumda, henüz mecburi ilköğretim çağına gelmemiş çocuğu bulunan davacının yarım zamanlı çalışma hakkından yararlanmak amacıyla yaptığı başvurunun reddine ilişkin dava konusu işlemde hukuka uygunluk bulunmadığı sonucuna varılmıştır.\n\nNitekim, benzer uyuşmazlıkta Ankara Bölge İdare Mahkemesi 7. İdari Dava Dairesi'nin 26/04/2023 tarihli E:2023/830 ve K:2023/1092 sayılı, 05/10/2023 tarihli E:2023/2620 ve K:2023/2390 sayılı kararları da bu yöndedir.",
+      "key_principles": [
+        "Cumhurbaşkanlığı düzenleyici işleminin yokluğu kanuni hakkın kullanımını engellemez",
+        "Kanuni koşulların sağlanması halinde hakkın kullanımı zorunludur",
+        "İkincil mevzuatın asli kanun hükmünü işlevsiz kılamayacağı ilkesi",
+        "Emsal karar yoluyla içtihat birliği"
+      ],
+      "referenced_laws": [
+        "657/Ek-43"
+      ],
+      "referenced_decisions": [
+        "Ankara BİM 7. İdari Dava Dairesi, E:2023/830, K:2023/1092, 26.04.2023",
+        "Ankara BİM 7. İdari Dava Dairesi, E:2023/2620, K:2023/2390, 05.10.2023"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan nedenlerle, dava konusu işlemin iptaline, aşağıda dökümü yapılan 2.225,70-TL yargılama giderinin davalı idarelerce davacıya ödenmesine, artan posta ücretinin talep edilmemesi halinde kararın kesinleşmesinden sonra resen davacı ve davalı idareye iadesine, kararın tebliğini izleyen günden itibaren 30 gün içerisinde Ankara Bölge İdare Mahkemesi'ne istinaf yolu açık olmak üzere, 26/03/2025 tarihinde oybirliğiyle karar verildi.",
+      "key_principles": [
+        "İdari işlemin iptali",
+        "Yargılama giderlerinin davalıya yükletilmesi",
+        "Oybirliğiyle karar",
+        "İstinaf kanun yolu"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2709/128/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "657/104/F",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "657/Ek-43",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6663/10",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Ankara BİM 7. İdari Dava Dairesi, E:2023/830, K:2023/1092, 26.04.2023",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Ankara BİM 7. İdari Dava Dairesi, E:2023/2620, K:2023/2390, 05.10.2023",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Ankara 24. İdare Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Ankara Bölge İdare Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1.md"
+}

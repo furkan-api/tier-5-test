@@ -1,0 +1,164 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 2. HD., E. 2024/9214 K. 2025/10806 T. 8.12.2025",
+    "EsasNo": "2024/9214",
+    "KararNo": "2025/10806",
+    "KararTarihi": "2025-12-08",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 2. Hukuk Dairesi",
+    "MahkemeTuru": "yargitay_hukuk",
+    "Daire": "2. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "temyiz incelemesi tamamlandı, bozma kararı verildi",
+    "Davaci": "Boşanan eş (davacı)",
+    "Davali": "Davalı (eski eş) ve davalı ablası",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Belirtilmemiş",
+    "IlkDereceKarari": {
+      "mahkeme": "Alanya 3. Aile Mahkemesi",
+      "esas_no": "2023/32",
+      "karar_no": "2023/374",
+      "tarih": null,
+      "sonuc": "Davanın kabulü; dava konusu taşınmazda 5/8 hisseyle davalı adına kayıtlı taşınmazın 1/4 (yeni oran 2/8) hissesinin tapu kaydının iptali ile davacı adına tapuya kayıt ve tesciline, geriye kalan 3/8 oranındaki hissenin davalı adına kayıtlı kalmaya devam edeceğinin tespitine karar verilmiştir."
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalı vekili",
+      "mahkeme": "Antalya Bölge Adliye Mahkemesi 2. Hukuk Dairesi",
+      "esas_no": "2023/2741",
+      "karar_no": "2024/2011",
+      "sonuc": "İlk Derece Mahkemesi kararının kaldırılmasına ve davanın reddine karar verilmiştir."
+    },
+    "TemyizBasvurusu": "Davacı vekili, Bölge Adliye Mahkemesinin davanın reddine ilişkin kararını duruşma istemli olarak temyiz etmiştir. Davalılar arasında muvazaalı işbirliği bulunduğu, diğer davalının taşınmazın boşanma protokolüyle davacıya devredileceğini bilerek satın aldığı ileri sürülmüştür.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Davalılar arasında dava konusu taşınmazın satımı ile ilgili el ve işbirliği bulunduğunun kabulü gerektiğinden, muvazaa nedeniyle davanın kabulüne karar verilmesi gerekirken yazılı şekilde reddine karar verilmesi doğru görülmemiş ve bozmayı gerektirmiştir.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [],
+    "AnaSuc": "muvazaa nedeniyle tapu iptali ve tescil",
+    "HukukiKonu": "medeni hukuk - aile hukuku - muvazaa - tapu iptali ve tescil"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Taraflar",
+      "text": "Davacı vekili, dava dilekçesinde davacı ile davalı ...'ın anlaşmalı boşandıklarını, taraflar arasındaki anlaşmalı boşanma protokolüne göre davalı ... adına kayıtlı dava konusu taşınmazın 1/4 hissesinin davacı adına devredileceğinin kararlaştırıldığı ancak dava konusu taşınmazın davalı ... tarafından mal kaçırmak amacıyla davalının ablası diğer davalı ...'ya satış yoluyla devredildiğini belirterek söz konusu taşınmazın 5/8 hissesine ilişkin tapu kaydının iptaline, 1/4 (yeni oran 2/8) oranındaki hissenin davacı adına tapuya tespit ve tesciline karar verilmesini talep ve dava etmiştir.",
+      "key_principles": [
+        "Anlaşmalı boşanma protokolünün tarafları bağlayıcılığı",
+        "Mal kaçırma amacıyla yapılan devirlerin muvazaalı sayılabileceği",
+        "Tapu iptali ve tescil davası açılabilmesi için hukuki yarar"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararı ve İstinaf Aşaması",
+      "text": "İlk Derece Mahkemesince, anlaşmalı boşanma protokolü dikkate alınarak, davanın kabulü ile dava konusu taşınmazda 5/8 hisseyle davalı ... adına kayıtlı taşınmazın 1/4 (yeni oran 2/8) hissesinin tapu kaydının iptali ile davacı ... adına tapuya kayıt ve tesciline, geriye kalan 3/8 oranındaki hissenin davalı ... adına kayıtlı kalmaya devam edeceğinin tespitine karar verilmiştir. Davalı ... vekilinin istinaf başvurusu üzerine Bölge Adliye Mahkemesince, davanın muvazaa nedeniyle tapu iptali ve tescil davası olduğu, davalı ...'ın diğer davalı ...'ya yaptığı taşınmazın devrinin muvazaalı olduğunun kanıtlanamadığı, yapılan satışın gerçek bir satış olduğu gerekçesiyle İlk Derece Mahkemesi kararının kaldırılmasına ve davanın reddine karar verilmiştir. Karar davacı vekili tarafından temyiz edilmiştir.",
+      "key_principles": [
+        "Anlaşmalı boşanma protokolünün tapu devrine esas alınabilmesi",
+        "Muvazaanın ispatında ispat yükü",
+        "Bölge Adliye Mahkemesinin ilk derece kararını kaldırma yetkisi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "Alanya 3. Aile Mahkemesi 2023/32 E., 2023/374 K.",
+        "Antalya Bölge Adliye Mahkemesi 2. Hukuk Dairesi 2023/2741 E., 2024/2011 K."
+      ]
+    },
+    {
+      "order": 3,
+      "type": "legal_evaluation",
+      "title": "Yargıtay'ın Hukuki Değerlendirmesi — Muvazaa İncelemesi",
+      "text": "Somut olayda; boşanma dava dosyası, boşanma kararı, boşanma davasına esas alınan protokol, tüm tanık beyanları ve özellikle dahili davalı ...'ın beyanlarından diğer davalı ...'nın dava konusu taşınmazın anlaşmalı boşanma protokolü ile davacıya devredileceğinin kararlaştırıldığını bilerek taşınmazı satın aldığı anlaşılmaktadır. Bu durumda davalılar arasında dava konusu taşınmazın satımı ile ilgili el ve işbirliği bulunduğunun kabulü gerekir. Hal böyle iken, muvazaa nedeniyle davanın kabulüne karar verilmesi gerekirken yazılı şekilde reddine karar verilmesi doğru görülmemiş ve bozmayı gerektirmiştir.",
+      "key_principles": [
+        "Üçüncü kişinin protokolden haberdar olması halinde muvazaa koşulunun oluşabileceği",
+        "Davalılar arasında el ve işbirliğinin muvazaanın delili sayılması",
+        "Boşanma protokolünün üçüncü kişiye karşı ileri sürülebilirliği",
+        "Tanık beyanlarının muvazaa ispatında delil niteliği"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan sebeplerle;\n\nTemyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA,\n\n40.000,00 TL vekâlet ücretinin davalılar ...'ten ve ...'tan alınarak kendisini duruşmada vekil ile temsil ettiren davacı ...'na verilmesine,\n\nPeşin alınan temyiz karar harcının istek halinde temyiz edene iadesine,\n\nDosyanın Bölge Adliye Mahkemesine gönderilmesine,\n\n08.12.2025 tarihinde oy birliğiyle karar verildi.",
+      "key_principles": [
+        "Bozma kararı sonrası dosyanın Bölge Adliye Mahkemesine iadesi",
+        "Duruşmalı temyizde vekâlet ücretine hükmedilmesi",
+        "Oybirliğiyle karar verilmesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 2. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Antalya Bölge Adliye Mahkemesi 2. Hukuk Dairesi 2023/2741 E., 2024/2011 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Alanya 3. Aile Mahkemesi 2023/32 E., 2023/374 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "medeni hukuk",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "aile hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1.md"
+}

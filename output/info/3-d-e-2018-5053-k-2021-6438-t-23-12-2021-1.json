@@ -1,0 +1,225 @@
+{
+  "entities": {
+    "Karar": "Danıştay 3. D., E. 2018/5053 K. 2021/6438 T. 23.12.2021",
+    "EsasNo": "2018/5053",
+    "KararNo": "2021/6438",
+    "KararTarihi": "2021-12-23",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay Üçüncü Dairesi",
+    "MahkemeTuru": "danistay",
+    "Daire": "3. Daire",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, karar kesinleşti",
+    "Davaci": "... Tekstil Sanayi İç ve Dış Ticaret Limited Şirketi",
+    "Davali": "... Vergi Dairesi Müdürlüğü",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": "Danıştay Tetkik Hâkimi (adı gizlenmiş)",
+    "IlkDereceKarari": {
+      "mahkeme": "... Vergi Mahkemesi",
+      "esas_no": "gizlenmiş",
+      "karar_no": "gizlenmiş",
+      "tarih": "gizlenmiş",
+      "sonuc": "Davanın reddi; muhtelif banka hesaplarına ihtiyati haciz uygulanmasında hukuka aykırılık bulunmadığı"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davacı",
+      "mahkeme": "... Bölge İdare Mahkemesi ... Vergi Dava Dairesi",
+      "esas_no": "gizlenmiş",
+      "karar_no": "gizlenmiş",
+      "sonuc": "İstinaf başvurusunun reddi; Vergi Mahkemesi kararının onanması"
+    },
+    "TemyizBasvurusu": "Davacı, henüz tahakkuk etmemiş vergi ve cezalar için ihtiyati haciz uygulanabileceğini, ancak tahsili duran vergi ve cezalar hakkında bu yola başvurulamayacağını, ödeme emirlerinin vergi mahkemesi kararlarıyla iptal edildiğini ve vergi inceleme raporu düzenlendikten sonra ihtiyati haciz kararı alınamayacağını ileri sürerek kararın bozulmasını talep etmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameininKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "2015 yılı işlemlerinin incelenmesi sonucu düzenlenen 01/03/2017 tarihli vergi inceleme raporu uyarınca adına salınan vergi ve cezalardan oluşan kamu alacağının güvence altına alınması amacıyla 6183 sayılı Kanun'un 13. maddesinin 3. bendi uyarınca alınan 21/03/2017 tarihli ihtiyati haciz kararı ve banka hesabı üzerine uygulanan ihtiyati haciz",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Danıştay Üçüncü Dairesi, Bölge İdare Mahkemesi kararını temyizen incelemiş; kararın usul ve hukuka uygun olduğunu, temyiz nedenlerinin kararın bozulmasını gerektirecek nitelikte görülmediğini tespit ederek temyiz istemini reddetmiştir.",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6183/13/3",
+      "2577/45/3",
+      "2577/49",
+      "2577/50",
+      "492/3"
+    ],
+    "AnaSuc": "İhtiyati haciz işleminin iptali",
+    "HukukiKonu": "vergi hukuku, idare hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Yargılama Süreci",
+      "text": "TEMYİZ EDEN (DAVACI): ... Tekstil Sanayi İç ve Dış Ticaret Limited Şirketi\nKARŞI TARAF (DAVALI): ... Vergi Dairesi Müdürlüğü/...\n\nİSTEMİN KONUSU: ... Vergi Mahkemesinin ... tarih ve E:..., K:... sayılı kararına yöneltilen istinaf başvurusuna ilişkin ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının temyizen incelenerek bozulması istenilmektedir.\n\nDava konusu istem: Davacı şirketin, 2015 yılı işlemlerinin incelenmesi sonucu düzenlenen 01/03/2017 tarihli vergi inceleme raporu uyarınca adına salınan vergi ve cezalardan oluşan kamu alacağının güvence altına alınması amacıyla 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesinin 3. bendi uyarınca alınan 21/03/2017 tarihli ihtiyati haciz kararı uyarınca ... tarih ve ... sayılı haciz bildirisiyle banka hesabı üzerine uygulanan ihtiyati haczin kaldırılması istemine ilişkindir.",
+      "key_principles": [
+        "Kamu alacağının güvence altına alınması",
+        "İhtiyati haciz uygulaması",
+        "6183 sayılı Kanun kapsamında ihtiyati haciz şartları"
+      ],
+      "referenced_laws": [
+        "6183/13/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi ve Bölge İdare Mahkemesi Kararlarının Özeti",
+      "text": "İlk Derece Mahkemesi kararının özeti: Davalı idarece yapılan ve dosyaya ibraz edilen tespitler nedeniyle borçları karşılıksız bırakmak amacıyla mal varlıklarını ve mevcutlarını elden çıkardığından bahisle hakkında ... Asliye Hukuk Mahkemesi nezdinde E:... sayısı ile tasarrufun iptali davası açılan davacının mallarını kaçırma ve el değiştirme ihtimali bulunduğundan bahisle muhtelif banka hesaplarına ihtiyati haciz uygulanmasında hukuka aykırılık bulunmadığı gerekçesiyle dava reddedilmiştir.\n\nBölge İdare Mahkemesi kararının özeti: İstinaf başvurusunun, usul ve hukuka uygun olduğu sonucuna varılan Vergi Mahkemesi kararının kaldırılmasını sağlayacak nitelikte görülmediği gerekçesiyle 2577 sayılı İdari Yargılama Usulü Kanunu'nun 45. maddesinin 3. fıkrası uyarınca reddine karar verilmiştir.",
+      "key_principles": [
+        "Malları kaçırma ve el değiştirme ihtimali ihtiyati haciz sebebi oluşturur",
+        "Tasarrufun iptali davası açılmış olması ihtiyati haczi destekler",
+        "İstinaf incelemesinde ilk derece kararının usul ve hukuka uygunluğu"
+      ],
+      "referenced_laws": [
+        "2577/45/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Temyiz Eden Davacının İddiaları ve Davalının Savunması",
+      "text": "TEMYİZ EDENİN İDDİALARI: Henüz tahakkuk etmemiş vergi ve cezalar hakkında kamu alacağının güvenceye bağlanması amacıyla ihtiyati haciz uygulanabileceği, tarh ve tebliğ üzerine davaya konu edilmekle tahsili duran vergi ve cezalar hakkında bu yola başvurulamayacağı, hakkında düzenlenen ödeme emirlerinin vergi mahkemesi kararlarıyla iptal edildiği, davalı idarece adına 01/03/2017 tarihli vergi inceleme raporu düzenlendikten sonra ihtiyati haciz kararı alındığı, bu nedenle banka hesapları ve gayrimenkulleri üzerine ihtiyati haciz uygulanamayacağı ileri sürülerek kararın bozulması istenilmektedir.\n\nKARŞI TARAFIN SAVUNMASI: Davacı adına Temmuz ve Ağustos 2015 dönemindeki ihracat kaynaklı yüksek tutarlı katma değer vergisi iadesi dolayısıyla tanzim edilen katma değer vergisi tasdik raporu üzerine Gelir İdaresi Başkanlığı ve davalı idarece iktisadi, ticari ve teknik icaplara uymayan bir takım olumsuzluklar tespit edilerek 19/11/2015 tarihli yazı ile ayrıntılı bir vergi incelemesi sonucu tespit edilecek tutarın iadesinin yapılması, söz konusu rapor öncesinde yapılacak iade taleplerinin de yine yaptırılacak incelemeye göre sonuçlandırılması gerektiğinin belirtildiği, bu kapsamda 2016 yılında başlatılan takip işlemleri sırasında davacı, kanuni temsilcisi ve ortakları elden çıkarttıkları malvarlıklarının önemli bir kısmını kullanmaya devam ettiğinden muvazaalı tasarrufların iptaline yönelik açılan davanın halen derdest olduğu, davacı ile kanuni temsilcisi ve ortakları adına uygulanan e-hacizlere karşı açılan davaların haciz işlemine dayanak teşkil eden ödeme emirlerinin iptal edildiği gerekçesiyle kaldırıldığı, haksız alınan iadenin iadesi yönünde düzenlenen 01/03/2017 tarihli vergi inceleme raporunun davalı idareye ulaşmasının ardından dava konusu ihtiyati haciz kararının alınarak uygulandığı belirtilerek istemin reddi gerektiği savunulmaktadır.",
+      "key_principles": [
+        "İhtiyati haczin tahakkuk etmemiş alacaklar için uygulanabilirliği",
+        "Tahsili duran alacaklarda ihtiyati haciz yasağı iddiası",
+        "Muvazaalı tasarruf ve kamu alacağının korunması"
+      ],
+      "referenced_laws": [
+        "6183/13/3"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Hukuki Değerlendirme",
+      "text": "HUKUKİ DEĞERLENDİRME:\n\nBölge idare mahkemelerinin nihai kararlarının temyizen bozulması, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 49. maddesinde yer alan sebeplerden birinin varlığı hâlinde mümkündür.\n\nTemyizen incelenen karar usul ve hukuka uygun olup, dilekçede ileri sürülen temyiz nedenleri kararın bozulmasını gerektirecek nitelikte görülmemiştir.\n\nDANIŞTAY TETKİK HÂKİMİ'NİN DÜŞÜNCESİ: Temyiz isteminin reddi gerektiği düşünülmektedir.",
+      "key_principles": [
+        "Bölge idare mahkemesi kararlarının temyizen bozulma şartları",
+        "2577 sayılı Kanun'un 49. maddesi kapsamında bozma nedenleri",
+        "Usul ve hukuka uygunluk denetimi"
+      ],
+      "referenced_laws": [
+        "2577/49"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "conclusion_and_judgment",
+      "title": "Karar Sonucu",
+      "text": "KARAR SONUCU:\n\nAçıklanan nedenlerle;\n\n1. Temyiz isteminin reddine,\n\n2. ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının ONANMASINA,\n\n3. Davacıdan 492 sayılı Harçlar Kanununa bağlı (3) sayılı Tarife uyarınca ...-TL maktu harç alınmasına,\n\n4. 2577 sayılı İdari Yargılama Usulü Kanunu'nun 50. maddesi uyarınca, kararın taraflara tebliğini ve bir örneğinin de belirtilen Vergi Dava Dairesine gönderilmesini teminen dosyanın kararı veren ilk derece mahkemesine gönderilmesine, 23/12/2021 tarihinde oybirliğiyle kesin olarak karar verildi.",
+      "key_principles": [
+        "Temyiz isteminin reddi halinde kararın onanması",
+        "Maktu harç uygulaması",
+        "Kesin karar niteliği"
+      ],
+      "referenced_laws": [
+        "2577/50",
+        "492/3"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay 3. Daire",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... Vergi Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "... Bölge İdare Mahkemesi ... Vergi Dava Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/13/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/45/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/49",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2577/50",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "492/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "vergi hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1.md"
+}

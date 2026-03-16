@@ -1,0 +1,183 @@
+{
+  "entities": {
+    "Karar": "Bakırköy 2. Fikrî Ve Sınai Haklar Ceza Mahkemesi, E. 2014/574, K. 2015/68, T. 19.2.2015",
+    "EsasNo": "2014/574",
+    "KararNo": "2015/68",
+    "KararTarihi": "2015-02-19",
+    "YargiOrgani": "Adli Yargı İlk Derece Mahkemesi",
+    "Mahkeme": "Bakırköy 2. Fikrî Ve Sınai Haklar Ceza Mahkemesi",
+    "MahkemeTuru": "ilk_derece_ceza",
+    "Daire": null,
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Karar kesinleşmeye açık, temyiz yolu açık",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "K2",
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": "Bakırköy Cumhuriyet Başsavcılığı",
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Bakırköy 2. Fikrî Ve Sınai Haklar Ceza Mahkemesi",
+      "esas_no": "2014/574",
+      "karar_no": "2015/68",
+      "tarih": "2015-02-19",
+      "sonuc": "Beraat"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Karar kesinleştikten sonra yedi gün içinde dilekçe verilmesi veya zabıt katibine beyan yoluyla Yargıtay'a temyiz başvurusunda bulunma yolu açık bırakılmıştır.",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": false,
+    "HukumSonucu": "DIGER",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": "Bakırköy C.Başsavcılığı soruşturması kapsamında K1 adlı kişinin seyyar tezgahından ele geçirilen X1 isimli eser üzerindeki bandrolün orijinal süreli olmayan yayın bandrolü olduğu bilirkişi raporu ile tespit edilmiştir. Bandrolün F1 Yayıncılık adına alınan bandrol olduğu ve talep formunda sanık K2'nin kimlik bilgilerinin bulunduğu tespit edilmiştir.",
+    "Kovusturma": "Bakırköy C.Başsavcılığı iddianamesiyle sanık K2 hakkında bir eser için usulünce temin edilmiş bandrolleri başka bir eser üzerinde tatbik etmek suçundan kamu davası açılmıştır.",
+    "Iddianame": "Bakırköy C.Başsavcılığı iddianamesi ile sanık K2 hakkında 5846 Sayılı FSEK'nun 81/10. maddesi ile TCK 53. maddesi gereğince cezalandırılması talebiyle kamu davası açılmıştır.",
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": "Sanık, mahkumiyet hükmü kurulması halinde hükmün açıklanmasının geri bırakılması kararının verilmesini kabul etmiştir; ancak beraat kararı verildiğinden HAGB uygulanmamıştır.",
+    "Mahkumiyet": null,
+    "Beraat": "Sanık K2, yüklenen suçun unsurlarının oluşmaması ve mahkumiyetine yeter her türlü şüpheden uzak kesin ve inandırıcı delil elde edilememesi nedeniyle CMK 223/2-a-c-e bendi uyarınca beraat etmiştir.",
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5846/81/10",
+      "5237/53",
+      "5271/223/2",
+      "5320/16"
+    ],
+    "AnaSuc": "Bir eser ile ilgili usulünce temin edilmiş bandrolleri başka bir eser üzerinde tatbik etmek",
+    "HukukiKonu": "fikri ve sınai haklar ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "İddia ve Dava Konusu",
+      "text": "İDDİA: Bakırköy C.Başsavcılığının iddianamesi ile suç tarihinde; K1'ın seyyar tezgahından ele geçirilen kitaplardan 1 adet \"X1\" isimli eser üzerinde bulunan bandrolün, orjinal süreli olmayan yayın bandrolü olduğunun bilirkişi raporu ile tespit edildiği, Kültür Bakanlığı İstanbul Telif Hakları ve Sinema Müdürlüğüne yazılan müzekkere cevabından, söz konusu kitap üzerinde bulunan bandrolün F1 Yayıncılık adına bandrol talep edilen \"Ceza Hukuku-Genel Hükümler\" isimli eser için alındığının, bandrol talep formunda yayınevi adına Şüphelinin kimlik bilgilerinin yazılı olduğunun tespit edildiği anlaşılmakla sanık hakkında Bir eser ile ilgili usulünce temin edilmiş bandrolleri başka bir eser üzerinde tatbik etmek suçundan 5846 Sayılı FSEK'nun 81/10.mad ile TCK 53.maddeleri gereğince cezalandırılması istemi ile mahkememize kamu davası açılmıştır.",
+      "key_principles": [
+        "Bandrol zorunluluğu",
+        "Fikir ve Sanat Eserleri Kanunu kapsamında bandrol ihlali"
+      ],
+      "referenced_laws": [
+        "5846/81/10",
+        "5237/53"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Sanık ve Sanık Müdafiinin Savunması",
+      "text": "SAVUNMA: Sanığın yargılama sürecindeki savunmasında: F1 Yayıncılıkta yönetici olarak çalışmakta olduğunu, ve ortaklığının da sözkonusu olduğunu, Ceza hukuku genel hükümler isimli eser için bandrol müracaatını kendisinin yaptığını ve Telif Hakları Genel Müdürlüğündeki bandrol talep formu altındaki imzanın kendisine ait olduğunu fakat iddianame belirtilen K1 adlı kişinin seyyar tezgahında ele geçen X1 isimli kitabı mahkememizin de izni ile Adli Emanet Memurluğunda incelediğinde bu eser üzerindeki bandrolün sahte olduğunu tespit ettiğini dolayısıyla kendi aldıkları bandrollerin başka eser üzerinde kullanılması gibi bir durumun söz konusu olmadığını, soruşturma evresinde rapor düzenleyen bilirkişinin bandrolün sahte olup olmadığını ki bu husus gözle anlaşılabilir bir olgu olmasına rağmen tespit etmeden sadece Telif Hakları Sinema Genel Müdürlüğünden bandrol sorgulaması yapılıp hakkında işlem yapıldığını, bu nedenle atılı suçlamaları kabul etmediğini, beraatini talep etmiş, yapılacak yargılama sonunda hakkında mahkumiyet hükmü kurulması halinde hükmün açıklanmasının geri bırakılması kararının verilmesini kabul ettiğini eklemiştir.\n\nSanık Müdafii Beyanında: Soruşturma evresinde görev alan bilirkişinin bandrollerin sahte olduğuna ilişkin herhangi bir inceleme yapmadığını, bandrollerin üzerindeki sahteliğin ortada olduğunu, müvekkilinin yöneticisi bulunduğu yayınevinin de korsanla mücadelede etkin faaliyetlerde bulunmakta olduğunu müvekkilinin beraatine karar verilmesini talep etmiştir.",
+      "key_principles": [
+        "Şüpheden sanık yararlanır ilkesi",
+        "Bilirkişi incelemesinin kapsamı",
+        "Kastın ispatı zorunluluğu"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "evidence_evaluation",
+      "title": "Delillerin Tartışılması",
+      "text": "DELİLLERİN TARTIŞILMASI VE GEREKÇE: Bakırköy C.Başsavcılığının iddianamesi ile suç tarihinde; K1'ın seyyar tezgahından ele geçirilen kitaplardan 1 adet \"X1\" isimli eser üzerinde bulunan bandrolün, orjinal süreli olmayan yayın bandrolü olduğunun bilirkişi raporu ile tespit edildiği, Kültür Bakanlığı İstanbul Telif Hakları ve Sinema Müdürlüğüne yazılan müzekkere cevabından, söz konusu kitap üzerinde bulunan bandrolün F1 Yayıncılık adına bandrol talep edilen \"Ceza Hukuku-Genel Hükümler\" isimli eser için alındığının, bandrol talep formunda yayınevi adına sanığın kimlik bilgilerinin yazılı olduğunun tespit edilmiştir.\n\nMahkememizce yapılan yargılama sonucunda; sanık ve müdafiinin savunmaları birlikte değerlendirildiğinde; sanık K2 hakkında bir eser ile ilgili usulünce temin edilmiş bandrolleri başka bir eser üzerinde tatbik etmek suçundan kamu davası açılmış ise de; mahkememizce yapılan yargılama sonucunda, yüklenen suçun unsurlarının oluşmadığı gibi, sanığın yüklenen suçu işleme kastıyla hareket ettiğine dair sanığın savunmasının aksine mahkumiyetine yeter her türlü şüpheden uzak kesin ve inandırıcı delil elde olunamadığından CMK'nun 223/2-a-c-e bendi uyarınca sanığın beraatine dair hüküm aşağıdaki şekilde tesis edilmiştir.",
+      "key_principles": [
+        "Şüpheden sanık yararlanır",
+        "Mahkumiyet için her türlü şüpheden uzak delil aranması",
+        "Kastın varlığının ispatı",
+        "Bilirkişi raporunun yeterliliğinin denetimi"
+      ],
+      "referenced_laws": [
+        "5271/223/2"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "conclusion_and_judgment",
+      "title": "Hüküm",
+      "text": "HÜKÜM: Yukarıda gerekçesi açıklandığı üzere;\n\n1- Sanık K2 hakkında bir eser ile ilgili usulünce temin edilmiş bandrolleri başka bir eser üzerinde tatbik etmek suçundan kamu davası açılmış ise de; mahkememizce yapılan yargılama sonucunda, yüklenen suçun unsurlarının oluşmadığı gibi, sanığın yüklenen suçu işleme kastıyla hareket ettiğine dair sanığın savunmasının aksine mahkumiyetine yeter her türlü şüpheden uzak kesin ve inandırıcı delil elde olunamadığından CMK'nun 223/2-a-c-e bendi uyarınca sanığın BERAATİNE,\n\n2- Bakırköy Adli Emanetin 2014/10048 sırasında kayda alınan X1 isimli kitap üzerindeki bandrolün sahte olduğu iddiası üzerine gereğinin takdir ve ifası için Bakırköy C.Başsavcılığına SUÇ DUYURUSUNDA BULUNULMASINA ve bu nedenle Bakırköy Adli emanetin 2014/10048 Sırasında kayıtlı kitapla ilgili olarak Müsaadere yönünde hüküm tesisine YER OLMADIĞINA,\n\n3- Kendisini vekille temsil ettirdiği anlaşılan sanık için Avukatlık asgari ücret Tarifesine göre belirlenen 2.200,00 TL maktu ücreti vekaletin hazineden alınarak sanığa verilmesine,\n\n3- Yapılan yargılama giderlerinin hazine üzerinde bırakılmasına,\n\n4- 5320 Sayılı Yasanın 16. maddesi uyarınca karar kesinleştikten sonra karardan bir örneğinin gereği için soruşturmada görev alan kolluk birimlerine gönderilmesine,\n\nSanık ve sanık müdafiinin yüzüne karşı /yokluğunda hazır bulunanlara açıklama/ yoklukta verilenlere tebliğ tarihinden itibaren yedi gün içerisinde dilekçe verilmesi veya zabıt katibine yapılacak beyanla Yargıtaya temyiz başvurusunda bulunma yolu açık olmak üzere yapılan açık yargılama sonucunda verilen karar CMK'nun 231. maddesi gereğince açıkça okunup usulen açıklandı ve karar örneği verildi. 19/02/2015",
+      "key_principles": [
+        "Beraat kararında vekalet ücreti hazineden ödenir",
+        "Sahte bandrol iddiasında ayrıca suç duyurusunda bulunulması",
+        "Müsadere kararı için hukuki koşulların sağlanması zorunluluğu",
+        "Temyiz yolunun açık tutulması"
+      ],
+      "referenced_laws": [
+        "5271/223/2",
+        "5271/231",
+        "5320/16"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5846/81/10",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/53",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/223/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/231",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5320/16",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Bakırköy 2. Fikrî Ve Sınai Haklar Ceza Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "fikri ve sınai haklar ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1.md"
+}

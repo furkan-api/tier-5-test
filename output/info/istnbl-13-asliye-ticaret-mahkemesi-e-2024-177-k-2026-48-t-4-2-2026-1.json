@@ -1,0 +1,257 @@
+{
+  "entities": {
+    "Karar": "İstanbul 13. Asliye Ticaret Mahkemesi, E. 2024/177 K. 2026/48",
+    "EsasNo": "2024/177",
+    "KararNo": "2026/48",
+    "KararTarihi": "2026-02-04",
+    "YargiOrgani": "Asliye Ticaret Mahkemesi",
+    "Mahkeme": "İstanbul 13. Asliye Ticaret Mahkemesi",
+    "MahkemeTuru": "ilk_derece_hukuk",
+    "Daire": null,
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Karar verildi, istinaf yolu açık",
+    "Davaci": "Makina Enerji Tarım Gıda İthalat İhracat Sanayi Ticaret Limited Şirketi",
+    "Davali": "Ve Ticaret Limited Şirketi",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": null,
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": false,
+    "HukumSonucu": "KISMI_BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": "Başlangıçta yetkisiz mahkemede açılan dava, yetkisizlik kararı üzerine İstanbul 13. Asliye Ticaret Mahkemesi'ne devredilmiştir.",
+    "Husumet": null,
+    "DavaSarti": "İtirazın iptali davasında İİK m.67 uyarınca bir yıllık süre şartı incelenmiş, davanın süresinde açıldığı tespit edilmiştir.",
+    "Mevzuat": [
+      "2004/67",
+      "2004/67/2",
+      "6100/120/2",
+      "492/32",
+      "6325/18A/14",
+      "CMR/23",
+      "CMR/29"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "Taşıma sözleşmesinden kaynaklanan alacak - itirazın iptali"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Tarafların Genel Durumu",
+      "text": "Davacı vekili, müvekkili şirketin ezme, tahin ve püre makineleri ürettiğini, yapılan satışların büyük bir bölümünün ihracata konu olması sebebiyle taşımacılık yapan davalı şirket ile aralarında anlaşarak, üretilen makinelerin alıcısına ulaşmasını sağladığını, davalı şirket tarafından satışı gerçekleştirilen makinelerin alıcısına teslim edilirken yükün hatalı bir şekilde taşındığı araçtan indirilmesi neticesinde makinelerin ağır hasar aldığını, bu sebeple satışı gerçekleştirilen makinelerin alıcıları tarafından müvekkiline iade edildiğini, müvekkili şirketin ciddi zararlara uğradığını, TTK'ya göre taşıyıcı, eşyanın taşınmak üzere teslim alınmasından teslim edilmesine kadar geçecek süre içinde eşyanın zıyaandan, hasarından veya teslimindeki gecikmeden doğan zararlardan sorumlu olduğunu, müvekkilinin uğradığı zararların tazmininin davalı şirketten talep edildiğini, ancak olumlu bir dönüş alamadığını, bunun üzerine tahsili için İcra Dairesinin 2023/... takip sayılı dosyasında icra takibi başlatıldığını, davalının borcun 12.755,52 TL'lik kısmını ödediğini geri kalan kısmına itiraz ederek takibin durdurulduğunu ileri sürerek, itirazın iptaline, takibin devamına ve %20'sinden az olmamak üzere icra inkar tazminatı ödenmesine karar verilmesini talep ve dava etmiştir. Dava, faturadan kaynaklanan alacağa ilişkin İcra Dairesinin 2023/... esas sayılı dosyasında davalının takibe yaptığı kısmi itirazının iptalini ve asıl alacağın %20'sinden aşağı olmamak üzere icra inkar tazminatına hükmedilmesine ilişkindir.",
+      "key_principles": [
+        "Taşıyıcının eşya hasarından doğan sorumluluğu",
+        "İtirazın iptali davasının hukuki niteliği",
+        "İcra takibine itiraz ve takibin durdurulması"
+      ],
+      "referenced_laws": [
+        "2004/67",
+        "CMR/23",
+        "CMR/29"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Tarafların İddia ve Savunmaları",
+      "text": "Davacı vekili; müvekkili şirketin davalı taşıyıcı şirket aracılığıyla ihracat kapsamında makinelerini yurt dışındaki alıcılara gönderttiğini, taşıma sırasında meydana gelen hasarlar nedeniyle makinelerin alıcılar tarafından iade edildiğini ve bu sebeple ciddi zarara uğradığını, itirazın iptali ile icra inkar tazminatına hükmedilmesini talep etmiştir.\n\nDavalı vekili ise; dava dilekçesinin usulsüz tebliğ edildiğini, davanın yetkisiz mahkemede açıldığını, yetkili mahkemenin sözleşme ile kararlaştırılan İstanbul Asliye Ticaret Mahkemesi olduğunu, davacının müvekkili şirketten doğrudan ve dolaylı zararlara ilişkin herhangi bir tazminat alacağı talebinde bulunmasının mümkün bulunmadığını, davacı tarafın bildirim yükümlülüğünü de yerine getirmediğini, davacının davaya konu 392670095, 282682681 ve diğer konşimento numaralı gönderilerinin müvekkili şirketin kusuru nedeni ile hasarlı olarak teslim edildiğine ilişkin iddia ve talepleri kabul etmediklerini savunarak, davanın reddini istemiştir.\n\nDavacı vekilinin 04/06/2025 tarihli açıklama dilekçesinde ise; davalı hakkında İcra Dairesinin 2023/... E. sayılı dosyasında toplam 110.253,00-TL asıl alacak üzerinden ilamsız takip başlatıldığını, bu tutarın 15.202,56 TL'sinin davalı tarafından ödendiğini ve davalının bakiye 95.050,44 TL'lik kısma haksız şekilde itiraz ederek takibi durdurduğunu, davanın itiraz edilen kısmın tahsiline yönelik itirazın iptali davası olduğunu, dava dilekçesinde sehven yazılmış olan 10.000 TL alacak talebinin maddi hatadan ibaret olduğunu ve bu kısımla ilgili karar verilmesine yer olmadığına karar verilmesini talep ettikleri belirtilmiştir.",
+      "key_principles": [
+        "Yetkisizlik itirazı",
+        "Bildirim yükümlülüğü",
+        "Sınırlı sorumluluk ilkesi",
+        "CMR Konvansiyonu kapsamında taşıyıcı sorumluluğu"
+      ],
+      "referenced_laws": [
+        "CMR/29",
+        "CMR/23"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "Yetkisizlik Kararı ve Dosyanın Mahkemeye Tevzii",
+      "text": "Asliye Ticaret Mahkemesinin yetkisizlik kararı üzerine dosya mahkememize gönderilmiş olup mahkememizin 2024/177 esasına tevzi yapılmıştır. Dosya, Asliye Ticaret Mahkemesi sayılı yetkisizlik kararının tarafların kararı istinaf etmemesi nedeniyle 12/03/2024 tarihinde kesinleşmesi üzerine Mahkememize tevzi edilerek Mahkememizin 2024/177 esas sırasına kaydedildiği görülmüştür. Yetkisizlik kararı verilen Mahkemece ön inceleme aşaması tamamlandığından Mahkememizce yeniden ön inceleme yapılmasına gerek görülmemiştir.\n\nAsliye Ticaret Mahkemesi esas sayılı dosyasında yapılan ön inceleme duruşmasında, uyuşmazlığın taşıma sözleşmesinden kaynaklı tazminat alacağının tahsili için başlatılan icra takibine itirazın iptali istemine ilişkin olduğu, çekişmenin, davacının satışını yaptığı ve dava dışı alıcısına teslim edilmek üzere davalıya teslim ettiği makinelerin hasarlı şekilde teslim edilip edilmedikleri, davacının bu nedenle zararı olup olmadığı, icra dairesinin yetkisine itirazın yerinde bulunup bulunmadığı hususlarına ilişkin olduğu tespit edilmiştir.",
+      "key_principles": [
+        "Yetkisizlik kararının kesinleşmesi",
+        "Ön inceleme aşamasının devamı",
+        "Yetki itirazının sonuçları"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "evidence_evaluation",
+      "title": "Harç İkmali ve Dava Değerinin Tespiti",
+      "text": "Mahkememizce dava dilekçesi içeriği ve davacının talep sonucunun incelenmesi neticesinde, davacının taleplerinin İcra Dairesinin 2023/... esas sayılı dosyasında davalı aleyhine takip başlatıldığı ve davalının 12.755,52-TL tutarında kısmi ödeme yaptığını ve takibin geri kalan kısmına itiraz ettiğini belirterek davalının takibe itirazının iptalini ve asıl alacağın %20'sinden aşağı olmamak üzere icra inkar tazminatına hükmedilmesini ve sözleşmeye aykırılık sebebiyle fazlaya ilişkin hakları saklı tutarak 10.000,00-TL tutarında alacağın ticari faizi ve diğer yasal faizi ile birlikte davalıdan tahsilinin talep edildiği görülmüş, dava dilekçesinin içeriği ve takip dosyası kapsamı birlikte değerlendirildiğinde takibe konu tutarın; 110.253,00-TL asıl alacak ve 8.423,34-TL işlemiş faiz olmak üzere toplam 118.676,34-TL tutarında alacağa ilişkin olduğu ve takipte asıl alacağa takip tarihinden itibaren %9 yasal faiz işletilmesinin talep edildiği, davalı borçlunun itiraz dilekçesi ile takibe konu edilen alacağın 12.755,52-TL asıl alacak tutarının kabul edildiği ve başka hiçbir borcu bulunmadığının bildirildiği, bu hali ile davalı borçlunun 110.253,00-TL tutarındaki asıl alacaktan kabul edilen 12.755,52-TL'nin mahsubu neticesinde davalının takibe itirazının 97.497,48-TL asıl alacak ve 8.423,34-TL işlemiş faiz olmak üzere toplam 105.920,82-TL tutarındaki kısmına ilişkin olduğu belirlenmiştir. Mahkememizin 04/06/2025 tarihli celse ara kararında eksik harcın ikmali için davacı vekiline 6100 sayılı HMK 120/2.maddesi gereğince iki haftalık kesin süre verilmesine, verilen kesin süre içerisinde eksikliğin ikmal edilmemesi halinde Harçlar Kanunu'nun 32.maddesi gereğince müteakip işlemlerin yapılmayacağının ihtarına karar verilmiş ve harç ikmali yapıldığı görülmüştür.",
+      "key_principles": [
+        "Dava değerinin doğru tespiti",
+        "Harç ikmalinin zorunluluğu",
+        "Kısmi itiraz durumunda dava değerinin hesaplanması"
+      ],
+      "referenced_laws": [
+        "6100/120/2",
+        "492/32",
+        "2004/67"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "evidence_evaluation",
+      "title": "Bilirkişi Raporları ve Ticari Defter İncelemesi",
+      "text": "Bilirkişi 04/10/2024 tarihli raporunda özetle; Davacı şirketin ticari defter kayıtlarına göre; Davalı şirkete ilişkin kayıtların, davacı şirketin ticari defterlerinde 329-F001 ve 320-T013 hesap kodları ile takip edildiği, davacı şirket tarafından, davalı şirkete düzenlenen toplam 110.253,00 TL tutarındaki dava konusu 4 adet fatura, davalı şirket tarafından davacı şirkete düzenlenen toplam 97.263,60 TL tutarındaki 6 adet fatura ile davacı şirket tarafından davalı şirkete düzenlenen toplam 97.263,60 TL tutarındaki 6 adet iade faturasının davacı şirketin ticari defterlerinde kayıtlı olduğu, dava tarihi (25.04.2023) itibariyle davalı şirketin, davacı şirkete 110.253,00 TL bakiye borcunun bulunduğu bildirilmiştir.\n\nBilirkişi heyeti 27/01/2025 tarihli raporunda özetle; taraflar arasındaki ihtilaf noktalarının CMR hükümlerine göre çözümlenmesi gerektiği; Davalı şirketin ticari defterlerinin usule uygun tutulmuş olduğu ve takip tarihi itibariyle ticari defterlerinde davacı şirketten cari hesaba dayalı 134.934,22 TL alacağının kayıtlı olduğu, davacıya herhangi bir borç kaydının bulunmadığı, davalı şirketin huzurdaki davada sorumlu olduğunun takdir edilmesi halinde, CMR m.29 gereği davacının, davalı taşıyıcı tarafından işlenen pervasızca davranış kusuru yüzünden dava konusu hasarın meydana geldiğini ispat edememesi nedeniyle sınırlı sorumluluk hükümlerinden yararlanabileceği değerlendirilmiş; CMR Konvansiyonunun maktu bir tazminat düzenlemesi yapmadığı ve bu çerçevede zarar miktarının ispatının davacı şirketi üzerinde olduğu bildirilmiştir.",
+      "key_principles": [
+        "Ticari defterlerin delil değeri",
+        "CMR Konvansiyonu kapsamında sınırlı sorumluluk",
+        "Pervasızca davranış kusurunun ispatı",
+        "Zarar miktarının ispatı yükü"
+      ],
+      "referenced_laws": [
+        "CMR/23",
+        "CMR/29"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Hukuki Değerlendirme - İtirazın İptali ve CMR Sorumluluk Sınırı",
+      "text": "2004 sayılı İİK madde 67 uyarınca; 'takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde Mahkemeye başvurarak, genel hükümler dairesinde alacağın varlığını ispat suretiyle itirazın iptalini dava edebilir'. İtiraz üzerine takibin durdurulmasına dair bir kararın alacaklı/vekiline tebliğine dair takip dosyası kapsamında mazbataya ve sair bilgi belgeye rastlanmamakla birlikte, eldeki itirazın iptali davasının 25/04/2023 tarihinde açıldığı, alacaklı/vekiline itiraz üzerine takibin durdurulması kararının tebliğine dair mazbata, sair bilgi belge de bulunmadığından İİK madde 67'de öngörülen bir yıllık sürenin işlemeye başlamadığı gibi takip tarihi ile dava tarihi arasında da 1 yıldan az süre bulunduğu görülmekle eldeki itirazın iptali davasının süresi içerisinde açıldığının kabulü gerektiği anlaşılmıştır.\n\nYapılan inceleme neticesinde, davacının davalı adına düzenlediği 02/02/2022 tarihli ardiye giderleri faturası davalı tarafından borca itiraz dilekçesinde belirtildiği ve tarafların kayıtlarından anlaşıldığı üzere davalı tarafından kabul edilerek işlendiğinden ve ödendiğine dair somut veri bulunmadığından, bu fatura bedeli yönünden davacının talebinin yerinde olduğu değerlendirilmiştir. 27/01/2022 ve 18/05/2022 tarihli navlun hasar tespit bedeli faturaları ise davalı tarafından kayıtlarına işlendiği gün iade edildiğinden iadelerinin süresinde olduğu ve fatura içeriğinin kesinleşmediği değerlendirilmiştir.\n\nDavalı taşıyıcının CMR m.29 gereği kusuru ispatlanamadığından davalının sınırlı sorumluluk hükümlerinden yararlanabileceği sonucuna varılmış; 18/05/2022 tarihli fatura için sorumluluk sınırının 839,12 Euro (13.898,18-TL), 07/01/2022 tarihli fatura için sorumluluk sınırının 932,96 SDR (14.377,38-TL) olduğu belirlenmiştir. 27/01/2022 tarihli fatura için konişmentonun sunulmadığı ve bu nedenle sınırlı sorumluluk gereği hesaplamanın yapılamadığı belirlendiğinden bu fatura yönünden talepte bulunulamayacağı değerlendirilmiştir.",
+      "key_principles": [
+        "İtirazın iptali davasında bir yıllık hak düşürücü süre",
+        "CMR sınırlı sorumluluk ilkesi",
+        "Fatura iadesinin süresinde yapılması durumunda kesinleşmeme",
+        "Konişmento ibraz yükümlülüğü",
+        "Taşıyıcının pervasızca davranış kusurunun ispatı"
+      ],
+      "referenced_laws": [
+        "2004/67",
+        "CMR/23",
+        "CMR/29"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Hüküm",
+      "text": "HÜKÜM: Gerekçesi Yukarıda Açıklandığı Üzere;\n\n1-Davanın Kısmen Kabulüne, İcra Dairesinin 2023/... esas sayılı takip dosyasında davalının itirazının 21.810,35-TL asıl alacak üzerinden iptaline, takip tarihinden itibaren asıl alacağa yıllık %9 yasal faiz işletilmek suretiyle takibin devamına, Fazlaya dair talebin reddine,\n\n2-Asıl alacağın %20'si oranında 4.362,07-TL icra inkar tazminatının davalıdan alınarak davacıya verilmesine,\n\n3-Karar tarihi itibariyle alınması gereken 1.489,87-TL harcın, (179,90-TL peşin harç ile 1.893,86-TL tamamlama harcı olmak üzere) peşin olarak alınan toplam 2.073,76-TL'den mahsubu fazla 583,89-TL harcın karar kesinleştiğinde davacıya iadesine, 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 18/A-14 maddesi ile Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği'nin 26.md göre; Adalet Bakanlığı bütçesinden karşılanan 3.120,00-TL arabuluculuk ücretinin haklılık durumuna göre 560,38-TL tutarındaki kısmının davalıdan, bakiye 2.559,62-TL tutarındaki kısmının ise davacıdan tahsili ile hazineye gelir kaydına,\n\n4-Davacı tarafından yapılan 1.325,00-TL posta gideri, 20.000,00-TL bilirkişi ücreti olmak üzere 21.325,00-TL'nin haklılık durumuna göre 3.830,18-TL tutarındaki kısmı ile 179,90-TL başvurma harcı, 1.489,87-TL karar ve ilam harcı, 25,60-TL vekalet harcı olmak üzere toplam 5.525,55-TL yargılama giderinin davalıdan alınarak davacıya verilmesine, bakiye tutarın davacı üzerinde bırakılmasına,\n\n5-Kendini vekille temsil ettiren davacı lehine karar tarihinde yürürlükte bulunan AAÜT uyarınca 21.810,35-TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,\n\n6-Kendini vekille temsil ettiren davalı lehine karar tarihinde yürürlükte bulunan AAÜT uyarınca 45.000,00-TL maktu vekalet ücretinin davacıdan alınarak davalıya verilmesine,\n\n7-Yatırılan avanstan artan kısmın karar kesinleştiğinde yatırana/vekiline iadesine karar verilmiştir.",
+      "key_principles": [
+        "Kısmi kabul halinde yargılama giderlerinin paylaşımı",
+        "İcra inkar tazminatının hesabı (%20)",
+        "Arabuluculuk ücretinin haklılık oranına göre dağıtımı",
+        "Vekalet ücretinin hüküm altına alınması"
+      ],
+      "referenced_laws": [
+        "2004/67/2",
+        "6325/18A/14",
+        "492/32"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "İstanbul 13. Asliye Ticaret Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "adli_yargi",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/67",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/67/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/120/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "492/32",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6325/18A/14",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "CMR/23",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "CMR/29",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul Bölge Adliye Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    }
+  ],
+  "source_file": "istnbl-13-asliye-ticaret-mahkemesi-e-2024-177-k-2026-48-t-4-2-2026-1.md"
+}

@@ -1,0 +1,426 @@
+{
+  "entities": {
+    "Karar": "Danıştay İBK., E. 2021/6 K. 2022/2 T. 27.5.2022",
+    "EsasNo": "2021/6",
+    "KararNo": "2022/2",
+    "KararTarihi": "2022-05-27",
+    "YargiOrgani": "Danıştay",
+    "Mahkeme": "Danıştay İçtihatları Birleştirme Kurulu",
+    "MahkemeTuru": "danistay",
+    "Daire": "İçtihatları Birleştirme Kurulu",
+    "YargiKolu": "idari_yargi",
+    "DosyaDurumu": "İçtihat birleştirme kararı verildi",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": null,
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "KARAR_BOZULDU",
+    "KarsiOy": "Usule ilişkin karşı oy: İçtihatların birleştirilmesine lüzum bulunmadığı, istemin esasa girilmeksizin usul yönünden reddi gerektiği yönünde. Esasa ilişkin karşı oy (İdari Dava Daireleri Kurulu): Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebileceği doğrultusunda içtihadın birleştirilmesi gerektiği.",
+    "OyBirligi": false,
+    "OyCoklugu": true,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendi uyarınca tesis edilen ihtiyati haciz işlemi",
+    "IptalDavasi": true,
+    "TamYargiDavasi": false,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": "Danıştay Üçüncü ve Dokuzuncu Daireleri ile Dördüncü, Yedinci Daireleri ve Vergi Dava Daireleri Kurulu kararları arasındaki içtihat aykırılığının giderilmesi amacıyla Danıştay Başkanı tarafından re'sen açılan içtihat birleştirme davası",
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6183/1",
+      "6183/9",
+      "6183/10",
+      "6183/13",
+      "6183/13/1",
+      "6183/13/2",
+      "6183/13/3",
+      "6183/13/4",
+      "6183/13/5",
+      "6183/13/6",
+      "6183/13/7",
+      "6183/17",
+      "6183/18",
+      "6183/54",
+      "6183/62",
+      "213/20",
+      "213/21",
+      "213/22",
+      "213/139",
+      "213/341",
+      "213/344",
+      "213/359",
+      "2575/39",
+      "2575/40",
+      "5345/1"
+    ],
+    "AnaSuc": "İhtiyati haciz - vergi incelemesi sonrası ihtiyati haciz tesis edilip edilemeyeceği",
+    "HukukiKonu": "vergi hukuku / idare hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Kararın Konusu ve İçtihat Aykırılığının Tespiti",
+      "text": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda Danıştay Üçüncü ve Dokuzuncu Daireleri kararları ile Danıştay Dördüncü, Yedinci Daireleri ve Vergi Dava Daireleri Kurulu kararları arasındaki aykırılığın, içtihatların birleştirilmesi yoluyla giderilmesinin Danıştay Başkanı tarafından istenilmesi üzerine, konuyla ilgili kararlar ile yasal düzenlemeler incelendikten ve Raportör Üyenin açıklamaları ile Danıştay Başsavcısının düşüncesi dinlenildikten sonra gereği görüşüldü.\n\n1) Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilemeyeceği doğrultusunda içtihadın birleştirilmesi hakkında.\n\n2) Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesinin 3. bendine göre ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda içtihatların birleştirilmesine gerek bulunmadığı hakkında.",
+      "key_principles": [
+        "İçtihat aykırılığının içtihatların birleştirilmesi yoluyla giderilmesi",
+        "Danıştay Başkanının re'sen içtihat birleştirme isteme yetkisi",
+        "Vergi incelemesi sonrası ihtiyati haciz tesis edilip edilemeyeceği sorunu"
+      ],
+      "referenced_laws": [
+        "6183/13",
+        "6183/13/1",
+        "6183/13/3",
+        "2575/39"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "İhtiyati Haciz Tesis Edilemeyeceğine İlişkin Daire Kararları",
+      "text": "Danıştay Üçüncü Dairesince verilen 23/12/2020 tarih ve E:2018/1878, K:2020/6078 sayılı karar: 6183 sayılı Kanun'un 13. maddesinin 1. bendi uyarınca ihtiyati haciz kararı alındığı belirtildikten sonra, 6183 sayılı Kanun'un 9. maddesi, 13. maddesinin 1. bendi ve 17. maddesine göre, ancak vergi incelemesinin devam ettiği durumlarda yapılan ilk hesaplamalara göre teminat istenebileceği, ihtiyati haciz ve ihtiyati tahakkuk kararı alınabileceği, inceleme sonuçlanıp tarhiyat yapıldıktan sonra ihtiyati tahakkuk ve ihtiyati haciz kararı alınamayacağı gerekçesiyle Bölge İdare Mahkemesi Vergi Dava Dairesinin kararı bozulmuştur.\n\nDanıştay Dokuzuncu Dairesince verilen 06/04/2018 tarih ve E:2016/1917, K:2018/2163 sayılı karar: 6183 sayılı Kanun'un kamu alacağının korunması ile ilgili hükümlerini kapsayan Birinci Kısmının ikinci Bölümünde yer alan teminat istenilmesi, ihtiyati haciz ve ihtiyati tahakkuk müesseselerinin, henüz kamu alacağı olma niteliği kazanmamış vergi ve cezaların, tahakkuk ettikleri tarihte karşılaşılabilecek tahsil imkansızlığına bir önlem olarak öngörüldüğü, vergi incelemesinin devam ettiği durumlarda yapılan ilk hesaplamalara göre teminat istenebileceği ve ihtiyati haciz kararı alınabileceği, diğer bir deyimle bu madde uyarınca ilgililer hakkında ihtiyati haciz kararı alınabilmesi için incelemenin henüz tamamlanmamış olması gerektiği, vergi incelemesi tamamlandıktan sonra ihtiyati haciz kararı alınamayacağından, uyuşmazlık konusu işleme karşı açılan davayı kabul eden mahkeme kararında sonucu itibarıyla hukuka aykırılık bulunmadığı gerekçesiyle temyiz isteminin reddine karar verilmiştir.",
+      "key_principles": [
+        "Vergi incelemesi tamamlandıktan sonra ihtiyati haciz kararı alınamaz",
+        "İhtiyati haciz ancak inceleme devam ederken ilk hesaplamalara göre alınabilir",
+        "Teminat istenilmesi, ihtiyati haciz ve ihtiyati tahakkuk müesseseleri tahsil imkansızlığına önlem olarak öngörülmüştür"
+      ],
+      "referenced_laws": [
+        "6183/9",
+        "6183/13",
+        "6183/13/1",
+        "6183/17"
+      ],
+      "referenced_decisions": [
+        "Danıştay 3. Daire E:2018/1878 K:2020/6078",
+        "Danıştay 3. Daire E:2013/2900 K:2015/1148",
+        "Danıştay 9. Daire E:2016/1917 K:2018/2163",
+        "Danıştay 9. Daire E:2018/1596 K:2019/1306",
+        "Danıştay 9. Daire E:2016/5401 K:2018/6084",
+        "Danıştay 9. Daire E:2016/4492 K:2018/1991",
+        "Danıştay 9. Daire E:2019/2591 K:2021/4815",
+        "Danıştay 9. Daire E:2016/4515 K:2018/2512",
+        "Danıştay 9. Daire E:2016/5625 K:2017/10688"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "İhtiyati Haciz Tesis Edilebileceğine İlişkin Daire ve Kurul Kararları",
+      "text": "Danıştay Dördüncü Dairesince verilen 06/04/2016 tarih ve E:2015/7735, K:2016/1492 sayılı karar: 6183 sayılı Kanun'un 9. maddesinde sayılan hallerin varlığı halinde vergi inceleme safhasından başlanarak cebren tahsil aşamasına kadar teminat istenmesinin önünde herhangi bir engel bulunmadığı, 6183 sayılı Kanun'un 9. maddesinde yer alan '...amme alacağının salınması için gerekli muamelelere başlanmış olduğu takdirde...' ibaresi başlangıç anını tayine yönelik olup, teminat istemek için alacağın tarh, tahakkuk ve tebliğ ettirilmiş olmasının şart olmadığı, herhangi bir sebeple inceleme safhasında teminatın istenmemiş olmasının; incelemenin bitmesi ile tarha kadarki süre içerisinde veya alacağın itirazlı olduğu bir devrede veya daha sonraki aşamalarda (ödeme emri ve kesin haciz aşamasına kadar) teminat istenmesine engel oluşturmayacağı, aynı durumun, Kanun'un 13. maddesi uyarınca yapılan ihtiyati haciz ile 17 ve 18. maddeleri uyarınca yapılan ihtiyati tahakkuk ve buna bağlı haciz uygulamaları için de geçerli olduğu belirtilmiştir.\n\nVergi Dava Daireleri Kurulunca verilen 18/11/2020 tarih ve E:2020/1318, K:2020/1231 sayılı karar: Kanun'un 9. maddesi uyarınca ilgiliden teminat istenebilmesi ve dolayısıyla ilgili hakkında Kanun'un 13. maddesinin 1. bendi uyarınca ihtiyati haciz kararı alınabilmesi için vergi incelemesine başlanmış ve ilk hesaplamaların yapılmış olmasının gerekli ve yeterli olduğu, zira maddede ilk hesaplamalardan sonraki bir aşamada teminat istenemeyeceğine dair bir sınırlama öngörülmediği, geçici bir koruma tedbiri olan teminat isteme, ihtiyati tahakkuk ve ihtiyati haciz işlemlerine kanunda belirtilen koşulların varlığı halinde cebren takip safhasına kadar her zaman başvurulabileceği belirtilmiştir.",
+      "key_principles": [
+        "Kanunda açıkça öngörülmeyen süre sınırlaması uygulanamaz",
+        "İhtiyati haciz cebren takip safhasına kadar her zaman uygulanabilir",
+        "Teminat istemek için alacağın tarh, tahakkuk ve tebliğ edilmiş olması şart değildir"
+      ],
+      "referenced_laws": [
+        "6183/9",
+        "6183/10",
+        "6183/13",
+        "6183/13/1",
+        "6183/13/3",
+        "6183/17",
+        "6183/18"
+      ],
+      "referenced_decisions": [
+        "Danıştay 4. Daire E:2015/7735 K:2016/1492",
+        "Danıştay 4. Daire E:2018/7289 K:2018/13723",
+        "Danıştay 7. Daire E:2019/2114 K:2021/967",
+        "Danıştay 7. Daire E:2016/1998 K:2021/864",
+        "VDDK E:2020/1318 K:2020/1231",
+        "VDDK E:2014/250 K:2014/555",
+        "Danıştay 3. Daire E:2015/5722 K:2015/8988",
+        "Danıştay 3. Daire E:2019/6583 K:2020/4991",
+        "Danıştay 3. Daire E:2018/5053 K:2021/6438"
+      ]
+    },
+    {
+      "order": 4,
+      "type": "party_claims",
+      "title": "Danıştay Başsavcısının Düşüncesi",
+      "text": "Danıştay Başsavcısı, esas yönünden şu değerlendirmeleri yapmıştır: İhtiyati haczin henüz tahakkuk etmemiş veya tahakkuk ettiği halde ödeme vadesi gelmemiş veya vadesi geldiği halde henüz cebren tahsil ve takibata başlanmamış kamu alacakları için öngörülen geçici nitelikli bir koruma önlemi olduğundan hareketle ve ihtiyati haciz uygulamasında, vergi incelemesi tamamlanarak tarhiyatın yapılıp yapılmamasının, belirleyici bir husus olarak değerlendirilemeyeceği ve kamu alacağının cebren tahsili aşamasına kadar her safhasında ihtiyati haciz uygulanmasına ilişkin koşulların gerçekleşip gerçekleşmediği yönünden yapılacak inceleme sonucuna göre ihtiyati haciz kararı alınabileceği hususları da dikkate alınarak, aykırı olduğu ileri sürülen içtihatların; 'vergi incelemesi sonuçlanıp tarhiyatlar yapıldıktan sonra ihtiyati haciz kararı alınabileceği' yönündeki kararlar doğrultusunda birleştirilmesine karar verilmesi gerektiği düşünülmektedir.\n\nBaşsavcı ayrıca, 213 sayılı VUK'un 344 ve 359. maddesinde sayılan hallere temas eden durumlarda; vergi incelemesinin tamamlanıp vergi ve ceza ihbarnamelerinin tebliğinden sonra, alacak tahakkuk edip kesinleştiği için artık Kanun'un 17. ve 18. maddelerinde düzenlenen ihtiyati tahakkuka bağlı ihtiyati haczin uygulanma olanağı kalmadığından doğrudan ihtiyati haciz yöntemine başvurulabileceğini belirtmiştir.",
+      "key_principles": [
+        "İhtiyati haciz geçici koruma önlemidir",
+        "Vergi incelemesinin tamamlanması ihtiyati haciz için belirleyici değildir",
+        "Kamu alacağının cebren tahsili aşamasına kadar ihtiyati haciz uygulanabilir"
+      ],
+      "referenced_laws": [
+        "6183/9",
+        "6183/13",
+        "6183/17",
+        "6183/18",
+        "213/344",
+        "213/359"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "İlgili Yasal Düzenlemeler",
+      "text": "6183 sayılı Kanun'un 'İhtiyati haciz' başlıklı 13. maddesinde; 'İhtiyati haciz aşağıdaki hallerden herhangi birinin mevcudiyeti takdirinde hiçbir müddetle mukayyet olmaksızın alacaklı amme idaresinin mahalli en büyük memurunun karariyle, haczin ne suretle yapılacağına dair olan hükümlere göre, derhal tatbik olunur: 1. 9'uncu madde gereğince teminat istenmesini mucip haller mevcut ise, 2. Borçlunun belli ikametgahı yoksa, 3. Borçlu kaçmışsa veya kaçması, mallarını kaçırması ve hileli yollara sapması ihtimalleri varsa, 4. Borçludan teminat gösterilmesi istendiği halde belli müddette teminat veya kefil göstermemiş yahut şahsi kefalet teklifi veya gösterdiği kefil kabul edilmemişse, 5. Mal bildirimine çağrılan borçlu belli müddet içinde mal bildiriminde bulunmamış veya noksan bildirimde bulunmuşsa, 6. Hüküm sadır olmuş bulunsun bulunmasın para cezasını müstelzim fiil dolayısiyle amme davası açılmış ise, 7. İptali istenen muamele ve tasarrufun mevzuunu teşkil eden mallar... bu kanunun 27, 29, 30 uncu maddelerinin tatbikını icabettiren haller varsa.'\n\n6183 sayılı Kanun'un 'Teminat isteme' başlıklı 9. maddesinde: '213 sayılı Vergi Usul Kanununun 344'üncü maddesi uyarınca vergi ziyaı cezası kesilmesini gerektiren haller ile 359'uncu maddesinde sayılan hallere temas eden bir amme alacağının salınması için gerekli muamelelere başlanmış olduğu takdirde vergi incelemesine yetkili memurlarca yapılan ilk hesaplara göre belirtilen miktar üzerinden tahsil dairelerince teminat istenir.' hükmü yer almaktadır.",
+      "key_principles": [
+        "İhtiyati haciz hiçbir süreyle sınırlı olmaksızın uygulanır",
+        "Teminat isteme yetkisi vergi incelemesine yetkili memurlara aittir",
+        "İhtiyati haciz kararı alacaklı amme idaresinin mahalli en büyük memurunun kararıyla tatbik olunur"
+      ],
+      "referenced_laws": [
+        "6183/1",
+        "6183/9",
+        "6183/10",
+        "6183/13",
+        "6183/17",
+        "6183/18",
+        "213/20",
+        "213/21",
+        "213/22",
+        "213/341",
+        "213/344",
+        "213/359",
+        "2575/39",
+        "2575/40"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "appellate_evaluation",
+      "title": "13. Maddenin 3. Bendi Yönünden İçtihat Birleştirilmesine Gerek Olmadığı",
+      "text": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 3. bendine göre ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda Danıştay Dokuzuncu Daire kararları ile diğer Vergi Dava Daireleri ve Kurulu kararları arasında uyumsuzluk bulunduğu görülmekle birlikte bu durum içtihadı birleştirmeyi gerekli kılmamaktadır. Zira; Dokuzuncu Dairenin vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 13. maddenin 3. bendine göre ihtiyati haciz işlemi tesis edilemeyeceğine ilişkin kararları incelendiğinde, ihtiyati haczin dayanağı olan 13. maddenin 3. bendinin yanı sıra anılan Kanun'un 9. maddesi değerlendirilmek suretiyle sonuca varıldığı görülmektedir. Halbuki, 9. maddeye atıf, 13. maddenin sadece 1. bendinde yapılmış olup, bu bend yönünden yapılacak incelemede 9. maddenin yorumu ele alınacaktır.\n\nÖte yandan, Dokuzuncu Dairenin konuya ilişkin kararları sınırlı sayıda olduğundan süregelen bir içtihat farklılığı da oluşmamıştır. Bu nedenlerle, vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 3. bendine göre ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda Danıştay Dokuzuncu Daire kararları ile diğer Daire ve Vergi Dava Daireleri Kurulu kararları arasında içtihatların birleştirilmesine gerek bulunmadığına oybirliğiyle karar verildi.",
+      "key_principles": [
+        "Süregelen içtihat farklılığı bulunmadığında içtihat birleştirmeye gerek yoktur",
+        "13. maddenin 3. bendi için 9. madde değerlendirmesi gerekmez",
+        "İçtihat birleştirmesinin amacı hukuki istikrarı sağlamaktır"
+      ],
+      "referenced_laws": [
+        "6183/13/3",
+        "6183/9",
+        "2575/39"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "legal_evaluation",
+      "title": "13. Maddenin 1. Bendi Yönünden Esas İnceleme",
+      "text": "6183 sayılı Kanun'un 9. maddesinin birinci fıkrasında, 213 sayılı Kanun'un 344. maddesi uyarınca vergi ziyaı cezası kesilmesini gerektiren haller ile 359. maddesinde sayılan hallere temas eden bir amme alacağının salınması için gerekli muamelelere başlanmış olduğu takdirde vergi incelemesine yetkili memurlarca yapılan ilk hesaplara göre belirtilen miktar üzerinden tahsil dairelerince teminat isteneceği kurala bağlanmıştır.\n\n13. maddenin 1. bendinin atıfta bulunduğu 9. maddenin 1. fıkrası hükmüne göre teminat istenebilmesi için, maddede sayılan hallere temas eden bir kamu alacağının salınması için gerekli işlemlere başlanmış olması, ayrıca vergi incelemesine yetkili memurlarca yapılan ilk hesaplamalara göre teminat altına alınacak alacak konusunda bir miktar belirlenmesi ve bu miktarla sınırlı olarak inceleme elemanının talepte bulunması gerekmektedir.\n\n213 sayılı Vergi Usul Kanununun 139. maddesine göre vergi incelemeleri esas itibarıyla incelemeye tâbi olanın iş yerinde yapılacağından, iş yeri ve mükellef hakkında en doğru tespitleri yapabilecek ve onun mâli, iktisadî ve ticarî durumunu en iyi şekilde değerlendirebilecek olan inceleme elemanıdır. Bu nedenle 13. maddenin 1. bendinin atıfta bulunduğu 9. maddenin 1. fıkrasında belirtilen ve ihtiyati haciz kararı alınması için ön işlem mahiyetinde olan teminat tutarının belirlenmesi ve talep konusunda fiilen vergi incelemesini yapan inceleme elemanına yetki tanınmıştır. İnceleme elemanının vergi incelemesini tamamlayıp vergi inceleme raporunu, tarhiyatı yapacak olan vergi dairesine göndermekle bu hususlara ilişkin görev ve yetkileri sona ermektedir. İstenecek teminat miktarını belirleme ve teminat istenmesi yönünde talepte bulunma yetkisini, incelemeyi yapan yetkili memurdan başkasının kullanması mümkün bulunmadığı gibi, inceleme elemanı da, inceleme tamamlandıktan sonra bu yetkisini artık kullanamaz.",
+      "key_principles": [
+        "Teminat miktarını belirleme yetkisi inceleme elemanına aittir",
+        "İnceleme elemanının yetkisi inceleme tamamlandıktan sonra sona erer",
+        "Mülkiyet hakkını kısıtlayan tedbirlerde özenli davranılması gerekir",
+        "İhtiyati haciz kararı yargı kararı olmadan mülkiyet hakkını kısıtlar"
+      ],
+      "referenced_laws": [
+        "6183/9",
+        "6183/13/1",
+        "213/139",
+        "213/344",
+        "213/359"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 8,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Açıklanan nedenlerle,\n\n1) Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilemeyeceği doğrultusunda içtihadın birleştirilmesine, 13/05/2022 tarihli birinci toplantıda karar yeter sayısı sağlanamadığından ikinci toplantıda mevcudun oyçokluğuyla;\n\n2) Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 3. bendine göre ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda Danıştay Vergi Dava Daireleri ve Kurulu kararları arasındaki aykırılığın içtihadın birleştirilmesi yoluyla giderilmesine yer olmadığına oybirliğiyle;\n\n27/05/2022 tarihinde karar verildi.\n\nInceleme sonuçlandıktan sonra 13. maddenin 1. bendine göre ihtiyati haciz kararı alınamayacağından, şartların varlığı halinde 13. maddenin diğer bentlerine göre ihtiyati haciz kararı alınabileceğinde ise tereddüt bulunmamaktadır.",
+      "key_principles": [
+        "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra 6183/13/1 uyarınca ihtiyati haciz tesis edilemez",
+        "13. maddenin 3. bendi yönünden içtihat birleştirmeye gerek yoktur",
+        "İçtihadın birleştirilmesi kararları bağlayıcıdır"
+      ],
+      "referenced_laws": [
+        "6183/13/1",
+        "6183/13/3",
+        "2575/39",
+        "2575/40"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 9,
+      "type": "cassation_grounds",
+      "title": "Usule ve Esasa İlişkin Karşı Oylar",
+      "text": "USULE İLİŞKİN KARŞI OY: 2575 sayılı Danıştay Kanunu'nun 39. maddesinde yer alan hüküm uyarınca, içtihatların birleştirilmesi yoluna gidilebilmesi için birden fazla yargısal kararın olması, bu kararlar arasında aykırılık veya uyuşmazlığın bulunması ve içtihadın birleştirilmesinin lüzumlu görülmesi gerekmektedir. İçtihatların birleştirilmesi kararıyla, soyut ve genel bir kural belirlenmekte, belirlenen bu kurala da 2575 sayılı Danıştay Kanunu'nun 40. maddesi gereğince Danıştay daire ve kurulları ile idari mahkemeleri ve idare uymak zorunda bulunmaktadır. Bu zorunluluk ise hukuku kalıplaştırıcı, dondurucu etki doğurmakta, somut olay adaletinin tesisi için zorunlu olan takdir yetkisini kısıtlamaktadır. Var olan aykırılıkların yargılamanın genel seyrinde belirli bir yol izlenmek suretiyle giderilebileceği ve istikrar sağlanacağından, içtihatların birleştirilmesine lüzum bulunmadığı, istemin esasa girilmeksizin usul yönünden reddi gerektiği oyu ile işin esasının incelenmesine geçilmesine ilişkin karara katılmıyoruz.\n\nESASA İLİŞKİN KARŞI OY (İdari Dava Daireleri Kurulu): 13. maddenin 1. bendi uyarınca ihtiyati haciz işlemi tesis edilebilmesi için 9. maddedeki düzenleme nedeniyle kamu alacağının salınması için gerekli işlemlere başlanmış olması gerekmekle birlikte maddede vergi incelemesi tamamlandıktan sonra ihtiyati haciz işlemi tesis edilemeyeceği yolunda bir sınırlama bulunmamaktadır. Vergi incelemesinin sonuçlanmış olması, alacağın tahsil riskini ortadan kaldırmayacağından, ihtiyati haciz işleminin tesis edilmesine engel olarak görülmemiştir. Bu itibarla, borçlu hakkında koşulların varlığı halinde, henüz alacak miktarı kesin olarak belirlenmeden vergi incelemesine yetkili memurlarca yapılan ilk hesaplara göre belirtilen miktar üzerinden tesis edilebilecek olan ihtiyati haciz işleminin, vergi incelemesi tamamlandıktan sonra miktarı kesin olarak belirlenen alacak için de tesis edilebileceği sonucuna ulaşılmıştır. Açıklanan nedenlerle, içtihadın, vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebileceği doğrultusunda birleştirilmesi gerektiği oyu ile karara katılmıyoruz.",
+      "key_principles": [
+        "İçtihat birleştirme kararları hukuku dondurucu etki yaratır",
+        "Lüzum şartı içtihat birleştirme için zorunludur",
+        "Vergi incelemesinin tamamlanması tahsil riskini ortadan kaldırmaz",
+        "Kanunda açıkça belirtilmeyen sınırlamalar uygulanamaz"
+      ],
+      "referenced_laws": [
+        "6183/9",
+        "6183/13/1",
+        "2575/39",
+        "2575/40"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/9",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/13",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/13/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/13/3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/17",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6183/18",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/344",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/359",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "213/139",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2575/39",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2575/40",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Danıştay 3. Daire E:2018/1878 K:2020/6078",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Danıştay 9. Daire E:2016/1917 K:2018/2163",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Danıştay 4. Daire E:2015/7735 K:2016/1492",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Danıştay 7. Daire E:2019/2114 K:2021/967",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "VDDK E:2020/1318 K:2020/1231",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "VDDK E:2014/250 K:2014/555",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Danıştay İçtihatları Birleştirme Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "idare hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "vergi hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1.md"
+}

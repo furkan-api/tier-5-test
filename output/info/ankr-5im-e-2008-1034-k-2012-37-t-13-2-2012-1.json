@@ -1,0 +1,197 @@
+{
+  "entities": {
+    "Karar": "Ankara 3. İş Mahkemesi, E. 2008/1034, K. 2012/37, T. 13.02.2012",
+    "EsasNo": "2008/1034",
+    "KararNo": "2012/37",
+    "KararTarihi": "2012-02-13",
+    "YargiOrgani": "İlk Derece Mahkemesi",
+    "Mahkeme": "Ankara 3. İş Mahkemesi",
+    "MahkemeTuru": "ilk_derece_hukuk",
+    "Daire": null,
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Karar kesinleşti, Yargıtay 9. HD yolu açık",
+    "Davaci": "Sigortalı işçi (davacı)",
+    "Davali": "S.S. F1 Kooperatifi ve SGK (Sosyal Güvenlik Kurumu)",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Ankara 3. İş Mahkemesi",
+      "esas_no": "2008/1034",
+      "karar_no": "2012/37",
+      "tarih": "2012-02-13",
+      "sonuc": "Davanın kısmen kabul kısmen reddine; 15.07.2002-31.08.2002 arası asgari ücretle S.S. F1 Kooperatifinde fiilen çalışıldığının tespitine, diğer taleplerin reddine"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "8 gün içinde Yargıtay 9. Hukuk Dairesi yolu açık",
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": false,
+    "HukumSonucu": "KISMI_BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "506",
+      "506/geçici_81/A",
+      "2926"
+    ],
+    "AnaSuc": "Sigortasız çalıştırma - hizmet tespiti davası",
+    "HukukiKonu": "iş hukuku / sosyal güvenlik hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Tarafların İddiaları",
+      "text": "Davacı vekili mahkememize verdiği dava dilekçesinde davacının davalı Kooperatifte 15.07.2002-18.07.2005 tarihleri arasında haftada 6 gün ve günde 12 saat olmak üzere kanuni tatil günleri dahil çalıştığını, net aylık ücretinin 500,00 TL olup ancak, maaşının işverence ödenmediğini ve davacının alacağını talep etmesi üzerine iş akdinin bildirimsiz feshedildiğini ve sigorta primlerinin eksik ödendiğini beyanla davacının sigortasız çalıştırıldığı sürenin tesbitiyle o süreye ilişkin sigorta primlerinin davalıya ödettirilmesine karar verilmesini istemiştir.\n\nDavalı Kurum vekili, davacıyla ilgili olarak 2002/3. dönemde 120 gün, 2003/2. dönemde 90 gün, 2004/1. dönemde 120 gün, 2004 Haziran ayından itibaren her ay 30 günlük hizmeti olduğunu beyanla davanın reddini istemiştir.\n\nDavalı Kooperatif vekili, haksız ve yersiz açılan davanın reddini istemiştir.",
+      "key_principles": [
+        "Hizmet tespiti davası",
+        "Sigortasız çalıştırma",
+        "İşçinin korunması ilkesi"
+      ],
+      "referenced_laws": [
+        "506"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "evidence_evaluation",
+      "title": "Davacının Sigortalılık ve Çalışma Durumuna İlişkin Tespitler",
+      "text": "01.05.1953 doğumlu ve N1 sigorta sicil no.lu olan davacı, 02.07.1973-04.03.1975 tarihleri arasında askerlik görevini yapmıştır.\n\nDavacının 2926 Sayılı Yasa kapsamında Bağ-Kur'a tabi 01.01.1985-21.09.1987 arası 982 günlük zorunlu ve primi ödenmiş tarım sigortalılığı bulunmaktadır.\n\n506 Sayılı Yasa kapsamında sigortalılık başlangıcı 01.10.1975 olup SSK'na prim ödeme gün sayısı 3429 gün olup davacıya, SGK'ca 05.05.2008 tarihli başvurusu üzerine 01.06.2008 tarihinden geçerli olmak üzere (982 + 3429) = 4411 gün karşılığı, 506 Sayılı Yasa'nın geçici 81/A maddesi uyarınca ve 55 yaşı ikmal ettiği nedeniyle yaşlılık aylığı bağlanmıştır.\n\nS.S. F1 Kooperatifi adına, A1 adresinde kurulu olup SGK'da N2 sicil no. ile tescilli işyerinden, SGK'na davacının 01.09.2002 tarihinde işe girişi ve 01.01.2003 tarihinde işten çıkışı bildirilmiştir, davacı asil 23.12.2009 günlü celsede 'dosyada bulunan sigortalı işe giriş bildirgesindeki imzaların kendisine ait olduğunu' beyan etmiştir.",
+      "key_principles": [
+        "Sigortalı işe giriş bildirgesi",
+        "SGK kaydı ve prim ödeme günleri",
+        "Yaşlılık aylığı bağlanması"
+      ],
+      "referenced_laws": [
+        "506",
+        "506/geçici_81/A",
+        "2926"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "evidence_evaluation",
+      "title": "Bildirilmediği İddia Edilen Süreler ve Tanık Beyanları",
+      "text": "02.01.2003-31.05.2003 arası dönemde SGK'na davacıyla ilgili bir bildirim yapılmamış olup davalı Kooperatifte N2 sicil no. ile tescilli işyerinden, SGK'na davacının imzasını havi olarak 01.06.2003 tarihinde işe girişini havi sigortalı işe giriş bildirgesi verilip 31.07.2005 tarihinde ise çıkışı bildirilmiştir.\n\nBu durumda SGK'na bildirilmediği iddia edilen süreler 15.07.2002-31.08.2002, 02.01.2003-31.05.2003, 01.05.2004-31.05.2004 arası süre olmaktadır.\n\nDavacı tanığı K1, 2002 Temmuz-2005 Temmuz arası davalı Kooperatif'te davacıyla birlikte güvenlik görevlisi olarak çalıştıklarını, anılan sürelerde davacının aralıksız çalıştığını beyan etmiştir.\n\nDavacı tanığı K2, davacıyla birlikte davalı Kooperatifte 2002 Temmuz ayından 2005 Temmuz ayına kadar güvenlik görevlisi olarak ve asgari ücretle çalıştıklarını, davacının çalışmasının aralıksız olduğunu beyan etmiştir.\n\nBordro tanığı K3, davacının 2002 yılından 2005 Temmuz ayı ortasına kadar işyerinde gece bekçisi olarak aralıksız çalıştığını beyan etmiştir.\n\nBordro tanığı K4, kendisinin 2001 yılından 2005 yılı sonuna kadar davacının ise 2002 Temmuz ayından 2005 Temmuz ortalarına kadar asgari ücretle aralıksız çalıştığını beyan etmiştir.",
+      "key_principles": [
+        "Tanık beyanı delil değeri",
+        "Bildirilmemiş çalışma sürelerinin tespiti",
+        "SGK bildirimsiz dönemler"
+      ],
+      "referenced_laws": [
+        "506"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Mahkemenin Hukuki Değerlendirmesi",
+      "text": "Davalı Kooperatifçe davacının, SGK'na bildirilen sigortalı hizmetleri (01.09.2002-01.01.2003) ve (01.06.2003-31.07.2003) arası süreyle sınırlı olup 01.09.2002 ve 01.06.2003 tarihinde işe girişleri havi sigortalı işe giriş bildirgelerindeki imzaların kendisine ait olduğunu davacı asil 23.12.2009 tarihli celsede açıkça kabul ve beyan etmiştir.\n\nDavacı vekili, önceki rapora yönelik itirazında, tanık beyanlarına istinaden davacının 15.07.2002-08.07.2005 tarihleri arasında hizmetinin kesintisiz olduğunu ileri sürmekte ise de, 01.09.2002 ve 01.06.2003 tarihlerinde işe girişleri havi sigortalı işe giriş bildirgelerindeki imzaların davacıya ait olduğunu, davacının ikrarı ile sabittir.\n\nBu durumda aynı işyerinden birden fazla ve sigortalının imzasını havi olarak SGK'na sigortalı işe giriş bildirgesi verilmesi davacının aynı yerde devamlı çalıştığı ancak giriş çıkış yapıldığı sonucunu çıkarmaktadır. Aynı zamanda işe giriş bildirgesinin davacının işe girdikten 1,5 ay kadar sonra verilmesi tanık beyanlarından anlaşıldığından davanın kısmen kabul kısmen reddine karar verilerek aşağıdaki şekilde hüküm kurulmuştur.",
+      "key_principles": [
+        "İkrar (açık kabul) delil değeri",
+        "İşe giriş bildirgesinin geç verilmesi",
+        "Sigortalının imzasını taşıyan belgelerin ispat kuvveti",
+        "Giriş-çıkış yapılması ile devamlı çalışma arasındaki fark"
+      ],
+      "referenced_laws": [
+        "506"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "conclusion_and_judgment",
+      "title": "Hüküm",
+      "text": "KARAR: Yukarıda açıklanan nedenlere dayanılarak,\n\n1- Davanın kısmen kabul kısmen reddine,\n- 15.7.2002-31.8.2002 arasında asgari ücretle fiilen S.S. F1 Kooperatifinde çalıştığının tespitine,\n- Davacının diğer taleplerinin reddine,\n\n2- Alınması lazım gelen 21,15 TL harçtan davacının önceden yatırdığı harcın mahsubu ile 7,15 TL harcın davalı S.S. F1 Kooperatifi'nden tahsiline,\n\n3- Davacının peşin yatırdığı 14,00 TL harcın davalı S.S. F1 Kooperatifi'nden alınarak davacıya verilmesine,\n\n4- Davacı tarafından harcanan toplam 660 TL mahkeme masrafının tarafların haklı ve haksız çıktıkları oranlar gözönünde bulundurularak taktiren 440 TL sının davacı üzerinde bırakılmasına, davacının harcamış bulunduğu toplam 220 TL nın davalıdan alınıp davacıya verilmesine,\n\n5- Karar kesinleştikten sonra davacının veya davalının fazladan yatırdıkları gider ve delil avansı miktarlarının talep halinde taraflara iadesine,\n\n6- Davacı vekili için yürürlükte bulunan Avukatlık Ücret Tarifesine göre ölçümlenen 1.200 TL ücreti vekaletin davalılardan alınıp davacıya verilmesine,\n\n7- Davalılar vekilleri için aynı tarife hükümleri uyarınca ölçümlenen taktiren 1.200 TL nın davacıdan alınıp davalılara verilmesine,\n\n8- 8 gün içinde Yargıtay 9. H.D. yolu açık olmak üzere, davacı vekilinin ve davalı SGK vekilinin yüzlerine karşı diğerinin yokluğunda verilen karar açıkça okunup usulen tefhim kılındı. 13/02/2012",
+      "key_principles": [
+        "Kısmi kabul",
+        "Yargılama giderlerinin orana göre paylaştırılması",
+        "Vekalet ücreti",
+        "Temyiz yolu"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Ankara 3. İş Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "506",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "506/geçici_81/A",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2926",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "sosyal güvenlik hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Yargıtay 9. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    }
+  ],
+  "source_file": "ankr-5im-e-2008-1034-k-2012-37-t-13-2-2012-1.md"
+}

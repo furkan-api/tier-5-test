@@ -1,0 +1,281 @@
+{
+  "entities": {
+    "Karar": "Yargıtay HGK., E. 2015/983 K. 2019/252",
+    "EsasNo": "2015/983",
+    "KararNo": "2019/252",
+    "KararTarihi": "2019-03-07",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay Hukuk Genel Kurulu",
+    "MahkemeTuru": "yargitay_hgk",
+    "Daire": "Hukuk Genel Kurulu",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Direnme kararı bozuldu, kesin karar",
+    "Davaci": "İş kazasına uğrayan sigortalı işçi",
+    "Davali": "Kuzey Anadolu Madencilik A.Ş.",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Mengen Asliye Hukuk Mahkemesi (İş Mahkemesi Sıfatıyla)",
+      "esas_no": "2013/45",
+      "karar_no": "2013/103",
+      "tarih": "2013-11-21",
+      "sonuc": "Davanın reddine karar verilmiştir (iş kazasının %100 kaçınılmazlık nedeniyle meydana geldiği, davalı işverene kusur atfedilemeyeceği gerekçesiyle)"
+    },
+    "IstinafBasvurusu": null,
+    "TemyizBasvurusu": "Davacı vekili, iş kazasının tamamen kaçınılmazlıktan kaynaklandığı gerekçesiyle davanın reddedilmesinin usul ve yasaya aykırı olduğunu, TBK m.51 çerçevesinde hakkaniyet gereği işverene %60 kusur atfedilerek maddi tazminata hükmedilmesi gerektiğini ileri sürerek direnme kararını temyize getirmiştir.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Yargıtay 21. Hukuk Dairesinin 12.05.2014 tarihli ve 2014/2165 E., 2014/10603 K. sayılı kararı ile; kaçınılmazlık halinde dahi TBK m.51 gereği hakkaniyet ilkesi çerçevesinde işverene %60, işçiye %40 kusur oranı atfedilerek maddi tazminatın belirlenmesi gerektiği gerekçesiyle yerel mahkeme kararı bozulmuştur.",
+    "KesinHukum": true,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "6098/51",
+      "818/43",
+      "6100/GEÇİCİ3",
+      "1086/438",
+      "1086/429",
+      "1086/95"
+    ],
+    "AnaSuc": "İş kazası nedeniyle maddi tazminat",
+    "HukukiKonu": "iş hukuku, tazminat hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Tarafların Talepleri",
+      "text": "Dava, iş kazası nedeniyle maddi tazminat istemine ilişkindir.\n\nDavacı vekili; müvekkilinin davalıların sorumlu oldukları maden ocağında çalışırken 16.09.1996 tarihinde geçirdiği iş kazası sonucu malul kaldığını, kazadan dolayı davalılar aleyhine fazlaya dair hakları saklı kalmak kaydıyla 100,00TL maddi ve 4.000,00TL manevi tazminat istemli davanın Mengen Asliye Hukuk (İş) Mahkemesinin 2006/50 E. sayılı dosyası ile hükme bağlandığını, 2006/50 E. sayılı dosyada iş kazası nedeniyle kusur raporu alındığını ve bu hususun kesinleştiğini, kaza sonrası müvekkilinin ekonomik geleceğinin sarsıldığını ileri sürerek fazlaya dair hakları saklı kalmak kaydıyla 15.000,00TL maddi tazminatın iş kazası tarihinden itibaren yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.\n\nDavalılar vekili; Mengen Asliye Hukuk (İş) Mahkemesinin 2006/50 E. sayılı dosyasında, maddi tazminat davasının feragat nedeniyle reddine karar verildiğini, Yargıtay bozma ilamında maddi tazminattan feragate dair herhangi bir gerekçenin belirtilmemiş olduğunu, bu nedenle maddi tazminat hususunun kesinleştiğini ve müvekkili şirketler lehine usulü müktesep hak oluştuğunu, kabul anlamına gelmemek kaydıyla kesinleşen dosyada müvekkili şirketlere kusur atfedilmediğini, kaza ile ilgili olarak alınan üç değişik bilirkişi raporunda %100 kaçınılmazlık bulunduğunun tespit edildiğini belirterek davanın reddini savunmuştur.",
+      "key_principles": [
+        "İş kazasından doğan maddi tazminat hakkı",
+        "Kısmi dava ve fazlaya ilişkin hakların saklı tutulması",
+        "Feragatin kapsamının belirlenmesi"
+      ],
+      "referenced_laws": [
+        "1086/95"
+      ],
+      "referenced_decisions": [
+        "Mengen Asliye Hukuk Mahkemesi 2006/50 E., 2006/52 K."
+      ]
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "Yerel Mahkeme Kararları ve Önceki Yargılama Süreci",
+      "text": "Mahkemece 17.06.2010 tarihinde verilen kararda; 2006/50 E. dosyada, davacı vekilinin 17.07.2000 tarihli dilekçesiyle fazlaya dair hakları saklı kalmak kaydıyla maddi tazminat isteminden feragat ettiği, mahkemece maddi tazminat isteminin feragat nedeniyle reddine karar verildiği gerekçesiyle davanın feragat nedeniyle reddine karar verilmiştir.\n\nDavacı vekilinin temyizi üzerine karar, Özel Dairece; dava dilekçesinde fazlaya ilişkin haklar saklı tutmak suretiyle 100,00TL maddi tazminat talep edildiği, bu haliyle açılan davanın kısmi dava olduğu, kısmi davadaki feragatin bu davada talep edilen miktarla sınırlı olduğu gerekçesiyle bozulmuştur.\n\nBozma kararına uyularak yapılan yargılama sonucunda Yerel Mahkemece 21.11.2013 tarihli kararda; 2006/50 E. sayılı dosyada alınan bilirkişi raporuna göre davalı şirketlere atfı kabil herhangi bir kusur bulunmadığı, kazanın %100 kaçınılmazlık nedeni ile meydana geldiğinin tespit edildiği gerekçesiyle davanın reddine karar verilmiştir.\n\nMahkemece 18.09.2014 tarihinde verilen direnme kararında; dava konusu iş kazasının tamamen kaçınılmazlık sonucunda meydana geldiği, davalı işverenin kusurunun olmaması nedeniyle aleyhine maddi tazminata hükmedilemeyeceği gerekçesiyle direnme kararı verilmiştir.",
+      "key_principles": [
+        "Feragatin kapsamı ve kısmi davada feragat",
+        "Kaçınılmazlık halinde işverenin sorumluluğunun bulunmadığı yönündeki yerel mahkeme tutumu",
+        "Direnme kararının gerekçesi"
+      ],
+      "referenced_laws": [
+        "1086/95"
+      ],
+      "referenced_decisions": [
+        "Mengen Asliye Hukuk Mahkemesi 2013/45 E., 2013/103 K.",
+        "Mengen Asliye Hukuk Mahkemesi 2006/50 E., 2006/52 K."
+      ]
+    },
+    {
+      "order": 3,
+      "type": "cassation_grounds",
+      "title": "Özel Daire Bozma Kararının Gerekçesi",
+      "text": "Yargıtay 21. Hukuk Dairesinin 12.05.2014 tarihli ve 2014/2165 E., 2014/10603 K. sayılı kararı ile;\n\n'...Kaçınılmazlık(kötü tesadüf); hukuksal ve teknik anlamda; fennen önlenmesi mümkün bulunmayan başka bir anlatımla, işverence mevzuatın öngördüğü tüm önlemlerin alınmış olduğu koşullarda dahi önlenmesi mümkün bulunmayan durum ve sonuçları ifade eder.\n\nBir olayın tamamen kaçınılmazlık(kötü tesadüf) sonucu meydana geldiğinin saptanması halinde hakim, işverenin sorumluluğunu, 6098 sayılı Türk Borçlar Kanunu'nun 51. maddesini göz önünde tutarak hakkaniyet ölçüsünde saptamalı, işçi-işveren arasındaki bu tür davalarda tarafların ekonomik ve sosyal durumları da göz önünde bulundurulduğunda işverene biraz daha fazla sorumluluk verilmesi sosyal hukuk devleti ilkesinin bir gereği olarak düşünülmelidir. Yargıtay'ın yerleşik uygulaması da bu yöndedir.\n\nYapılacak iş davaya konu iş kazasında davalı işverenlerin %60 oranında, kazalının ise %40 oranında kusurlu olduğunun kabulü ile bu kusur oranları dikkate alınarak hak sahiplerinin maddi zararının belirlenmesi noktasında hesap raporu alarak çıkacak neticeye göre karar vermekten ibarettir.\n\nMahkemece bu maddi ve hukuki olgular göz önünde tutulmaksızın yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozma nedenidir...' gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.",
+      "key_principles": [
+        "Kaçınılmazlık halinde TBK m.51 uyarınca hakkaniyet ilkesi",
+        "Sosyal hukuk devleti ilkesi gereği işverene daha fazla sorumluluk yüklenmesi",
+        "İşverene %60, işçiye %40 oranında kusur atfedilmesi"
+      ],
+      "referenced_laws": [
+        "6098/51"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 21. HD. 2014/2165 E., 2014/10603 K."
+      ]
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Kaçınılmazlık Kavramının Hukuki Analizi",
+      "text": "Kaçınılmazlık (beklenmedik durum, fevkalade hâl, kaza, kötü tesadüf, umulmayan hâl) sorumlu kişinin irade ve davranışından bağımsız olarak herkese ödev yükleyen genel bir davranış kuralının veya sözleşmeden doğan bir borcun kaçınılmaz surette ihlali sonucunu doğuran olaydır.\n\nKaçınılmazlıktan bahsedilebilmesi için öncelikle irade dışı olarak nitelendirilebilecek bir olayın meydana gelmesi gerekmektedir. Yağmur, fırtına, sel, buzlanma gibi olaylar, hastalık gibi psiko-fizyolojik olaylar kaçınılmaz bir olay olarak kabul edilebilir.\n\nDiğer taraftan kaçınılmaz hâl teşkil eden olay nedeniyle bir davranış kuralı veya borç ihlal edilmeli, diğer bir söyleyişle ifa edilememesine neden olmuş olmalıdır. Ayrıca kaçınılmazlıktan bahsedilebilmesi için beklenmeyen hâl teşkil eden olay ile borcun ihlali arasında uygun illiyet bağı da bulunmalıdır.\n\nKaçınılmazlığın son ve en önemli unsuru ise genel davranış normunun veya sözleşmeden doğan borcun ihlalinin önlenemez (kaçınılamaz) olmasıdır. Önlenemezlik, alınabilecek tüm tedbirlerin alınmış olmasına karşılık davranış kuralının veya sözleşmeden doğan bir borcun ihlal edilmiş olduğunu ifade etmektedir. Örneğin; bir inşaat işçisinin üzerinde çalışacağı tabiyeyi hazırlamak için duvara beton çivisi çakarken çivinin başının kırılıp gözüne kaçması olayında çivinin kırılması irade dışı ve önlenemez bir olay olmakla birlikte kırılan bu çivinin işçinin gözüne kaçması önlenemez bir olay değildir. Zira çalışma esnasında gözlük kullanılarak bu neticenin önüne geçilebilir.",
+      "key_principles": [
+        "Kaçınılmazlığın unsurları: irade dışılık, önlenemezlik, uygun illiyet bağı",
+        "Önlenemezlik kavramı ve sınırları",
+        "Kaçınılmazlık ile mücbir sebep arasındaki ilişki"
+      ],
+      "referenced_laws": [
+        "6098/51"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Tamamen Kaçınılmazlıktan Kaynaklanan İş Kazasında Tazminat Belirlenmesi",
+      "text": "Olay tamamen kaçınılmazlıktan kaynaklanmış ise normal şartlarda kusur oranları ile belirlenen işverenin sorumluluğunun sınırını belirleyebilmek mümkün değildir. Bu tür olaylarda kaza tümüyle kaçınılmaz etkenlerin ürünüdür. O nedenle normal şartlarda kusur oranları ile belirlenen işveren sorumluluğunun sınırını belirleyebilmek mümkün değildir. Matematiksel değerlerin ortadan kalktığı böyle bir halde tazminat miktarının belirlenmesinde 6098 sayılı Türk Borçlar Kanunu'nun 51. maddesi (mülga 818 sayılı Borçlar Kanunu 43. madde) karşımıza çıkmaktadır.\n\nGerçekten de iş kazasının tamamen kaçınılmazlıktan kaynaklandığı durumlarda kaçınılmazlığın yükünü taraflardan sadece birisine yüklemek, adalet duygusunu zedeler. Kaçınılmazlık, her iki taraf açısından da önlenemez bir olay olduğuna göre, beklenmeyen olayın neden olduğu olumsuz sonuçlara her iki tarafta katlanmalıdır.\n\nOlayın kaçınılmazlıktan kaynaklanması hâlinde sorumluluğun işçi ve işveren arasında %50'şer oranında paylaştırılması uygun gibi görünebilirse de, işçinin işverene karşı daha güçsüz oluşu, nimet-külfet dengesi, işçiyi koruma ve sosyal devlet ilkesi gibi nedenler karşısında işverene daha fazla sorumluluk verilmesi hakkaniyet gereğidir.\n\nSonuç itibariyle iş kazasının meydana gelmesinde tamamen kaçınılmazlığın etkili olduğu durumlarda, hakim tarafından 6098 sayılı Türk Borçlar Kanunu'nun 51. maddesi çerçevesinde tazminat belirlenirken hakkaniyet ilkeleri gözetilerek işverenin %60, işçinin ise %40 kusurlu olduğunun kabulü adil bir çözüm olacaktır.",
+      "key_principles": [
+        "Tamamen kaçınılmazlık halinde tazminat belirlenmesinde TBK m.51 uygulanması",
+        "İşçiyi koruma ilkesi",
+        "Nimet-külfet dengesi",
+        "Sosyal devlet ilkesi gereği işverene %60, işçiye %40 kusur atfı",
+        "Hakkaniyet ilkesi"
+      ],
+      "referenced_laws": [
+        "6098/51",
+        "818/43"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "evidence_evaluation",
+      "title": "Somut Olayın Değerlendirilmesi",
+      "text": "Tüm bu açıklamalar ve yasal düzenlemeler ışığında somut olay incelendiğinde; davacının 16.09.1996 tarihinde Kuzey Anadolu Madencilik A.Ş.'ye ait maden ocağında çalışırken tahkimat için kullanılacak ağaç direklerini istiften alarak ocağa taşıyacak krikonun bulunduğu yere kadar omuzunda taşıması sırasında belini incitmesi sonucu iş kazasının meydana geldiği, Mengen Asliye Hukuk (İş) Mahkemesinin 27.05.2004 tarihli ve 2003/168 E., 2004/41 K. sayılı kararıyla, davacının 16.09.1996 tarihinde geçirmiş olduğu olayın iş kazası olduğunun tespitine karar verildiği, Mengen Asliye Hukuk (İş) Mahkemesinin 2006/50 E. sayılı dosyasında aldırılan 17.05.2000 tarihli bilirkişi raporunda, davacının yaptığı işin ağır olduğu, zaman zaman ağır malzemeleri taşıması gerektiği, belinde oluşan arızanın olay tarihinde direk taşıması sırasında iyice nüksettiği ve bel fıtığı ile sonuçlandığı, olayda gerek işverene gerekse davacıya atfedilecek bir kusur bulunmadığı, ağır malzemelerin taşınması sırasında zaman zaman kaçınılmaz olarak belde incinmelerin oluşabileceği, olayda %100 kaçınılmazlık bulunduğu sonucuna varıldığı anlaşılmaktadır.\n\nMahkemenin 08.06.2006 tarihli ve 2006/50 E., 2006/52 K. sayılı kararında, kazada %100 kaçınılmazlık unsurunun müessir olduğu gerekçesiyle manevi tazminat isteminin kabulüne karar verildiği, davalılar vekilinin temyizi üzerine Yargıtay 21. Hukuk Dairesinin 28.11.2006 tarihli ve 2006/15579 E., 2006/13393 K. sayılı kararıyla hükmün onanması ile meydana gelen iş kazasında %100 kaçınılmazlık unsurunun bulunduğunun kesinleştiği anlaşılmaktadır.",
+      "key_principles": [
+        "%100 kaçınılmazlık tespitinin kesinleşmesi",
+        "İş kazasının tespiti",
+        "Bilirkişi raporunun değerlendirilmesi"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "Mengen Asliye Hukuk Mahkemesi 2003/168 E., 2004/41 K.",
+        "Mengen Asliye Hukuk Mahkemesi 2006/50 E., 2006/52 K.",
+        "Yargıtay 21. HD. 2006/15579 E., 2006/13393 K."
+      ]
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Yukarıda belirtildiği üzere iş kazasının tamamen kaçınılmazlıktan kaynaklandığı durumlarda kaçınılmazlığın yükünü taraflardan sadece birisine yüklemek, adalet duygusunu zedeler. Beklenmeyen olayın neden olduğu olumsuz sonuçlara her iki tarafta katlanmalıdır. İşçinin işverene karşı daha güçsüz oluşu, nimet-külfet dengesi, işçiyi koruma ve sosyal devlet ilkesi gibi nedenler karşısında işverene daha fazla sorumluluk verilmesi hakkaniyet gereğidir.\n\nBu itibarla, iş kazasının meydana gelmesinde tamamen kaçınılmazlığın etkili olduğu somut olayda, mahkemece, 6098 sayılı Türk Borçlar Kanunu'nun 51. maddesi göz önünde tutularak davalı işverenlerin %60 oranında, davacının ise %40 oranında kusurlu olduğunun kabulü ile bu kusur oranları dikkate alınmak suretiyle maddi zararın belirlenmesi için hesap bilirkişisinden rapor alınarak sonucuna göre bir karar verilmesi gerekmektedir.\n\nHâl böyle olunca, Hukuk Genel Kurulunca da benimsenen Özel Daire bozma kararına uyulması gerekirken önceki kararda direnilmesi usul ve yasaya aykırıdır.\n\nSONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında açıklanan nedenlerden dolayı 6100 sayılı Hukuk Muhakemeleri Kanunu'nun Geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA, istek hâlinde temyiz peşin harcının yatırana iadesine, karar düzeltme yolu kapalı olmak üzere 07.03.2019 tarihinde oy birliği ile kesin olarak karar verildi.",
+      "key_principles": [
+        "Direnme kararının bozulması",
+        "TBK m.51 çerçevesinde hakkaniyet ilkesi uygulaması",
+        "İşverene %60 kusur, işçiye %40 kusur atfı",
+        "Hesap bilirkişisinden rapor alınması zorunluluğu",
+        "Oybirliği ile kesin karar"
+      ],
+      "referenced_laws": [
+        "6098/51",
+        "6100/GEÇİCİ3",
+        "1086/429"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 21. HD. 2014/2165 E., 2014/10603 K."
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/51",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "818/43",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086/429",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086/438",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1086/95",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/GEÇİCİ3",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Mengen Asliye Hukuk Mahkemesi 2013/45 E., 2013/103 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Yargıtay 21. HD. 2014/2165 E., 2014/10603 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 21. HD. 2006/15579 E., 2006/13393 K.",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay Hukuk Genel Kurulu",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "iş hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "tazminat hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "Hukuk Genel Kurulu         2015_983 E.md"
+}

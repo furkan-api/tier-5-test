@@ -1,0 +1,370 @@
+{
+  "entities": {
+    "Karar": "Bakırköy 3. İcra Hukuk Mahkemesi, E. 2017/854, K. 2018/1085, T. 20.11.2018",
+    "EsasNo": "2017/854",
+    "KararNo": "2018/1085",
+    "KararTarihi": "2018-11-20",
+    "YargiOrgani": "Adli Yargı",
+    "Mahkeme": "Bakırköy 3. İcra Hukuk Mahkemesi",
+    "MahkemeTuru": "ilk_derece_hukuk",
+    "Daire": null,
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Yargılama tamamlandı, karar verildi",
+    "Davaci": "Müşteki (yabancı gerçek/tüzel kişi - alacaklı)",
+    "Davali": "Karşı taraf (borçlu)",
+    "Sanik": null,
+    "KatilanMusteki": "Müşteki vekili",
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Bakırköy 3. İcra Hukuk Mahkemesi",
+      "esas_no": "2017/367",
+      "karar_no": "2017/228",
+      "tarih": "2017-04-03",
+      "sonuc": "Davanın kabulü ile Bakırköy 17. İcra Müdürlüğü 2015/16955 E. sayılı dosyasındaki müdürlük kararının kaldırılmasına, teminat miktarının asıl alacak olan 149.786,84 Euro'nun %10'u oranında belirlenmesine hükmedildi"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalı vekili",
+      "mahkeme": "İstanbul Bölge Adliye Mahkemesi 22. Hukuk Dairesi",
+      "esas_no": "2017/1041",
+      "karar_no": "2017/1276",
+      "sonuc": "İstinaf talebi kabul edilerek mahkeme kararı bozulmuş, dosya MÖHUK 48. madde uygulanarak teminata vücut veren kalemlerin tespiti için mahkemesine iade edilmiştir"
+    },
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": "İstanbul BAM 22. Hukuk Dairesi 2017/1041 E. - 2017/1276 K. sayılı 12/07/2017 tarihli kararıyla mahkeme kararı bozulmuş; MÖHUK 48. madde ve HMK 33, 355. maddeleri uyarınca teminatı oluşturan kalemlerin doğru tespit edilmesi gerektiği gerekçesiyle dosya iade edilmiştir",
+    "KesinHukum": false,
+    "HukumSonucu": "KABUL",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5718/48",
+      "6100/33",
+      "6100/282",
+      "6100/323",
+      "6100/333",
+      "6100/355",
+      "2004/15",
+      "2004/16",
+      "2004/17",
+      "2004/59",
+      "2004/61",
+      "2004/138",
+      "492/15",
+      "AİHS/6"
+    ],
+    "AnaSuc": null,
+    "HukukiKonu": "İcra hukuku - yabancılardan teminat (MÖHUK 48. madde) - şikayet (icra memur muamelesi)"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Davanın Konusu ve Tarafların Talepleri",
+      "text": "Davacı vekili dava dilekçesinde beyanlarında özetle; Bakırköy 7. İcra Mahkemesinin 2016/552 Esas sayılı dosyasında 16/02/2017 tarihli celsenin 1 nolu ara kararı gereğince teminat yatırmak üzere 2 ay kesin süre verildiği, bu arada kararda teminat oranının gösterilmediğini, Bakırköy 17. İcra Dairesinin 2015/16955 Esas sayılı takip dosyasında 23/03/2017 tarihli müdürlük kararıyla toplam alacak üzerinden %30 oranında teminata hükmedildiğini, bu oranın yüksek olduğunu bu nedenle müdürlük kararının kaldırılmasını talep etmiştir.\n\nMüşteki, vekili aracılığıyla yapmış olduğu başvuruda Bakırköy 17. İcra Müdürlüğünün 2015/16955 E. Sayılı dosyası aracılığıyla ittihaz olunan 23/03/2017 tarihli kararı ile takip çıkışı olan 161.892,90 Euro'nun %30'u oranındaki 48.567,87 Euro teminatın, teminine ilişkin kararının erişim hakkı ve MÖHUK 48. maddesine aykırı olduğundan bahisle öncelikle şikayet yoluyla ortadan kaldırılmasına, hüküm verilinceye kadar takibin durdurulmasına hükmedilmesini istemiştir.",
+      "key_principles": [
+        "İcra memur muamelesinin şikayet yoluyla denetimi",
+        "Yabancılardan teminat alınması (MÖHUK 48)",
+        "Adalete erişim hakkı",
+        "Teminat oranının hukuka uygunluğu"
+      ],
+      "referenced_laws": [
+        "5718/48",
+        "2004/16",
+        "2004/17"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "Önceki Mahkeme Kararı ve İstinaf Süreci",
+      "text": "Mahkememizin önceki 2017/367 E - 2017/228 K sayılı 03/04/2017 tarihli kararı anılan karar istinaf incelemesi neticesinde İstanbul B.A.M 22. Hukuk Dairesinin 2017/1041 E- 2017/1276 K sayılı 12/07/2017 tarihli kararıyla bozulmasına karar verilmiş, dosya mahkememizin yukarıdaki esasına kaydedilerek yargılamaya devam edilmiştir.\n\nMahkeme bir dizi yargılama sonucunda ittihaz etmiş olduğu 03/04/2017 tarih 2017/367 E. 2017/228 sayılı kararı ile talebin kabulü ile Bakırköy 17. İcra Müdürlüğünün 2015/16955 E. Sayılı takip dosyasındaki 23/03/2017 tarihli müdürlük kararının kaldırılmasına teminat miktarının asıl alacak olan 75.003,84 Euro hasar alacağı ve 74.783,00 Euro toplamı olan 149.786,84 Euro'nun %10'u oranında belirlenmesine hükmettiği, Hüküm aleyhine İstanbul Bölge Adliye Mahkemesi 22. Hukuk Dairesi nezdinde istinaf isteminde bulunulduğu anlaşılmaktadır.",
+      "key_principles": [
+        "İstinaf mahkemesinin bozma yetkisi",
+        "Teminat miktarının belirlenmesinde gerekçe zorunluluğu",
+        "HMK 355 kapsamında kamu düzeni denetimi"
+      ],
+      "referenced_laws": [
+        "6100/355",
+        "5718/48",
+        "6100/33"
+      ],
+      "referenced_decisions": [
+        "Bakırköy 3. İcra Hukuk Mahkemesi E.2017/367 K.2017/228",
+        "İstanbul BAM 22. HD E.2017/1041 K.2017/1276"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "cassation_grounds",
+      "title": "İstinaf Mahkemesinin Bozma Gerekçeleri",
+      "text": "22. Hukuk Dairesi'nin istinaf talebini kabul ederek \"Somut olayda mahkeme asıl alacağın %10 nispetinde teminata hükmetmiştir. Tarafların her ikisi de belirlenen miktar üzerindeki karara itiraz etmişlerdir. Teminat miktarının ise teminatı oluşturan bileşenlerin doğru tespit edilmesi tarafların istinafında özel kamu düzenini koruyan hükümlerin uygulanmasını gerektirir. Dolayısı ile dairemiz tarafların sebep ve gerekçelerinden ayrı olarak somut olayda HMK 355 maddesini uygulanması kanaatindedir. Buna göre sorunun rasyonel bir biçimde çözülebilmesi için MÖHUK 48. maddenin referans alınması gerekir. Anılan düzenlemeye göre Türk Mahkemesinde dava açan davaya katılan veya icra talebinde bulunan gerçek ve tüzel kişiler yargılama masrafı ve takip giderleri ile karşı tarafın zarar ve ziyanını karşılamak üzere mahkemenin belirleyeceği teminatı göstermekle yükümlü olduklarını emretmektedir. Bu düzenleme teminatı takip ve dava koşulu haline getirirken teminat koşulunu tahakkuk edip etmediğini, yerine göre icra müdürlüğüne ve yargıca ödev olarak yüklemektedir. Bu düzenlemeye göre yasa yapıcı teminatı oluşturan kalemleri yargılama ve takip giderleri ile karşı tarafın zarar ve ziyan miktarı olarak saklamaktadır. Öteki deyişle teminatı oluşturan kalemler sayılarak sınırlamakta, sınırlı ve sayılı bu teminatı oluşturacak kalemleri somut olayın özelliğine göre icra müdürü ya da mahkeme tarafından özenli bir şekilde lokal ve likit hale getirilmesi istenmektedir. Buradan bakıldığında ne icra müdürlüğü ne mahkeme MÖHUK 48. maddede belirlenen usul ve esasları izleyerek teminatın miktarını belirlememiştir...\" hükmettiği anlaşılmaktadır.",
+      "key_principles": [
+        "MÖHUK 48 kapsamında teminat kalemlerinin sınırlı sayıda belirlenmesi",
+        "Kamu düzeni kapsamında resen inceleme (HMK 355)",
+        "Teminat belirlemesinde gerekçe ve somut delil zorunluluğu",
+        "HMK 33 uyarınca uygulanacak hukukun re'sen tespiti"
+      ],
+      "referenced_laws": [
+        "5718/48",
+        "6100/33",
+        "6100/355"
+      ],
+      "referenced_decisions": [
+        "İstanbul BAM 22. HD E.2017/1041 K.2017/1276"
+      ]
+    },
+    {
+      "order": 4,
+      "type": "evidence_evaluation",
+      "title": "Bilirkişi Raporu ve Değerlendirmesi",
+      "text": "Mahkememiz anılan gerekçelere sadık kalmakla yükümlüdür. Ortadan kaldırma kararından sonra mahkeme ortadan kaldırma kararı ile bağlı kalarak bilirkişiden teminatın objektif kapsamına giren kalemler ve karşılığı tutarların tayin ve tespiti için mütala almış ve bilirkişi söz konusu bir örneği dosya içerisinde bulunan 02/07/2018 tarihli mütalasını sunmuştur. Bilirkişi teminatın objektif kapsamını alacaklı vekili tarafından yapılan ödemeler, borçlu vekili tarafından yapılan ödemeler, icra tahsil harcı, icra vekalet ücreti toplamı 64.294,08 TL olarak belirlemiş ve bununla yaklaşık olarak takip çıkış miktarının %13'üne tekabül ettiği konusunda mütala vermiştir.\n\nTürk Hukuk Sisteminde HMK 282 maddesi gereğince bağlayıcı değildir, öteki deyişle hakim bilirkişinin oy ve görüşünü diğer delilerle birlikte serbestçe taktir yetkisine sahiptir. Dolayısıyla anılan bilirkişi raporunun bağlayıcı olabilmesi için öncelikle MÖHUK 48 ile bilahare ortadan kaldırma kararı ile uyumlu olması koşuluna bağlıdır.\n\nBilirkişinin raporu incelendiğinde; bilirkişinin kanuni dayanağı olmamasına rağmen 22.832,78 TL tahsil icra harcı ve icra vekalet ücreti takip çıkış miktarını baz alarak kapsama dahil ettiği görülmektedir. Oysa somut olayda bir tahsilatın yapılmadığı gibi icra vekalet ücretinin de takip çıkış miktarı baz alınarak nispi olarak hesaplanmasını gerektiren yasal bir dayanağın mevcut olmadığı aşikardır. Dolayısıyla bilirkişi raporunun objektif kapsamı somut olayla bağdaşmayacak şekilde genişleten raporuna itibar etmek mümkün değildir.",
+      "key_principles": [
+        "Hakimin bilirkişi görüşünü serbestçe takdir yetkisi (HMK 282)",
+        "Bilirkişi raporunun bağlayıcı olmadığı ilkesi",
+        "Teminat kalemlerinin kanuni dayanağa sahip olma zorunluluğu",
+        "Gerçekleşmemiş tahsilat için tahsil harcı alınamayacağı"
+      ],
+      "referenced_laws": [
+        "6100/282",
+        "5718/48",
+        "492/15"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "MÖHUK 48. Maddesi ve AİHS 6. Maddesinin Birlikte Yorumu",
+      "text": "MÖHUK 48. maddesi dikkatle irdelendiğinde; yasa yapıcının Türk Mahkemelerinde dava açan yabancı meşru ilgililerin yargılama ve takip giderleri ile karşı tarafın zarar ve ziyanını karşılamakla ödevlidirler. Bu ödevden muafiyet karşılılık esası ile istisnaya uğratılmıştır.\n\nMÖHUK 48. madde yabancılar tarafından dava açılırken ya da takip yapılırken teminat adı altında bloke etmeleri gereken teminat kalemlerini sayarak sınırlamıştır. Öteki deyişle 48. madde teminatın konumuz açısından objektif kapsamını takip giderleri ile karşı tarafın zarar ve ziyanı ile sınırlamıştır. Bunları genişletmek ya da başkalaştırmak mümkün olmadığı gibi objektif kapsamı soyut koşulla uyumlu olacak şekilde belirlenmesi koşul addedilmiştir.\n\n48. maddenin eş zamanlı olarak Avrupa İnsan Hakları Sözleşmesi'nin 6. maddesi ile temin edilmek istenen adil yargılama hakkını mahkemelere erişim boyutu ile uyumlu olacak şekilde yorumlanması böylelikle yabancı gerçek ve tüzel kişilerin adil yargılanma taleplerinin önlerine koyulan aşkın yoruma dayalı mali ve ekonomik bariyerlerle engellenmemesi zorunludur.\n\nMahkemeye erişim hakkı somut ve etkili olmalıdır. (Bellet/Fransa p.38) Bir başvuru kapsamında ceza yargılamalarına taraf olarak katılmak için gerekli mahkeme masrafları ve teminat tutarının aşırı yüksek olması ihlal olarak değerlendirilmiştir. (Garcia Manibardo-İspanya p.38-45) (Reuther Almanya davalarında kk)\n\nYine usule ilişkin bir kuralın ulusal mahkemeler tarafından özellikle katı bir şekilde yorumlanması erişim hakkının engeli olarak tanımlanmıştır. (RTBF/Belçika p.71,72,74) Bu örnekler bize mahkemelere erişim hakkının boyutu niteliğindeki infaz hukukunun da şekilcilikten kaçınmasının erişim hakkını etkili ve verimli kılacak yorumlar yapmasını önermektedir.",
+      "key_principles": [
+        "Mahkemeye erişim hakkının somut ve etkili olması zorunluluğu",
+        "MÖHUK 48 kapsamında teminat kalemlerinin sınırlı sayıda olması",
+        "AİHS 6. maddesi ile MÖHUK 48. maddesinin uyumlu yorumlanması",
+        "Aşırı teminatın adalete erişimi engelleme yasağı",
+        "Karşılıklılık ilkesine dayalı teminat muafiyeti"
+      ],
+      "referenced_laws": [
+        "5718/48",
+        "AİHS/6"
+      ],
+      "referenced_decisions": [
+        "AİHM Bellet/Fransa",
+        "AİHM Garcia Manibardo/İspanya",
+        "AİHM Reuther/Almanya",
+        "AİHM RTBF/Belçika"
+      ]
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Teminat Kalemlerinin Tespiti - Takip Masrafları ve Vekalet Ücreti",
+      "text": "Somut olayda davalıya yeteri kadar savunma imkanı verilmiştir. Kendisine yönelen takipten ötürü, mamelekinde vücuda gelmiş somut bir zarar ve ziyanın varlığı münhasıran öne sürülmediği gibi ortada bir münhasır zarar ve ziyanın varlığı da söz konusu değildir. İddia ve savunma birlikte değerlendirildiğinde; açılan takipten ötürü karşı tarafın herhangi bir zarar ve ziyanının gerçekleşmediği aşikardır. Zira takiple birlikte davalı taraf borçlu sıfatıyla takip hukukunun kendisine vermiş olduğu hak ve yetkiye istinaden süresi içerisinde takibe itiraz etmiş ve takibin kendisine yönelmesini zarar vermesini tamamen engellemiştir.\n\nTakip masrafları İİK 138/3 maddesi aracılığıyla belirlenmiştir. Takip masraflarından kasıt icra organlarının icra takibini tam ve doğru olarak yapabilmelerini temin için alınan paradır. Alacaklının temsili için gerçekleştirilen giderler buna dahil değildir.\n\nİİK'nın 138/3 maddesine göre, borçlunun ödeme emri üzerine takibin durdurulması için yaptığı itiraz başvurusu için hak edilen ücret yanlar arasında gerçekleştirilen sözleşme ile öngörülen ücret değil AAÜT'ye göre İcra Müdürlüğü tarafından belirlenen ücrettir.\n\nBuna göre davalının takibe karşı koyarken aldığı hukuki yardım karşılığında AAÜT'ye göre kendisine ödenmesi gereken miktar 485,00 TL ücreti vekalettir. Ücreti vekalet, İİK'nın 138/3 ve 15/1 maddeleri gereğince MÖHUK 48. maddenin objektif kapsamı içerisindedir. Bunun dışında MÖHUK 48. madde ile İİK 138/3 ve 15. maddenin objektif kapsamını giderecek bir diğer yargılama gideri davalının vekalet ücretine tanzim ederken sarf ettiği vekalet harcıdır. Vekalet harcının ise miktarı somut olayda 10,60 TL'dir.\n\nHarçlar Kanunu'nun 15. maddesine göre; İcra İflas harçları kanunda hilafı yazılı değilse bütün harç ve masraflar borçluya aittir. Somut olayda; takip itiraz üzerine durduğu için alacağın tahsilinden kaynaklanan tahsil harcının tahsili imkanı mevcut değildir.",
+      "key_principles": [
+        "Zarar ve ziyanın somut olarak ispat edilmesi zorunluluğu",
+        "Takibe itirazla takibin durması halinde teminat kapsamının daralması",
+        "AAÜT'ye göre vekalet ücretinin belirlenmesi",
+        "Tahsil harcının yalnızca fiili tahsilat halinde doğması",
+        "İİK 138/3 kapsamında takip masraflarının sınırlı yorumu"
+      ],
+      "referenced_laws": [
+        "5718/48",
+        "2004/15",
+        "2004/59",
+        "2004/61",
+        "2004/138",
+        "492/15"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Netice itibariyle somut olayda davacı tarafın adalete erişmek isterken bloke etmesi gereken teminatın iki kalemden oluştuğu ve bunlardan ücreti vekalete 485,00 TL, vekalet harcının ise 10,60 TL olmak üzere toplam 495,60 TL ile sınırlı olduğu sabittir.\n\nO halde mahkememizin yapması gereken teminata bu iki kalem ve miktarla sınırlı tutarak kişinin adalete erişimini güvenceye almaktır. Müdürlük kararı anılan sebeplerden ötürü kanuni temelden yoksun ve erişim hakkını engeller niteliktedir. Bu tek başına somut olayda İİK 16. maddesi gereğince İİK 17. maddesi uyarınca müdürlük kararının ortadan kaldırılması için yeterlidir.\n\nYARGI: Gerekçesi izah edildiği üzere;\n1. Davanın kabulü ile Bakırköy 17. İcra Müdürlüğünün 2015/16955 E. Sayılı takip dosyasında 23/07/2017 tarihli müdürlük kararının şikayet yoluyla ortadan kaldırılmasına,\n2. Teminat miktarının 495,60 TL ile sınırlandırılmasına,\n3. Peşin harcın mahsubu ile başkaca harç alınmasına yer olmadığına,\n4. Davacı tarafça yapılan 50,50 TL harç ve 376,30 TL davetiye gideri toplam 426,80 TL yargılama giderinin HMK 323 ve devam maddeleri uyarınca davalıdan alınıp davacıya verilmesine,\n5. Davacı taraf kendisini vekille temsil ettirdiğinden AAÜT uyarınca 725,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine,\n6. HMK 333. maddesi gereğince karar kesinleştiğinde gider avansının kullanılmayan kısmının davacıya iadesine,\n7. Karar suretinin taraflara tebliğine.\nDair tarafların yüzüne karşı tefhimden itibaren 10 gün içerisinde İstanbul Bölge Adliye Mahkemesine istinaf yasa yolu açık olmak üzere verilen karar açıkça okunup usulen anlatıldı.",
+      "key_principles": [
+        "Teminatın yalnızca yasal kalemleri kapsaması",
+        "Adalete erişim hakkının güvence altına alınması",
+        "İcra müdürlüğü kararının şikayet yoluyla kaldırılması",
+        "Yargılama giderlerinin haksız çıkan taraftan alınması",
+        "İstinaf yolunun açık bırakılması"
+      ],
+      "referenced_laws": [
+        "2004/16",
+        "2004/17",
+        "6100/323",
+        "6100/333",
+        "5718/48"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5718/48",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/33",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/282",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/323",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/333",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/355",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/15",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/16",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/17",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/59",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/61",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/138",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "492/15",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "AİHS/6",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "AİHM Bellet/Fransa",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "AİHM Garcia Manibardo/İspanya",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "AİHM RTBF/Belçika",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul BAM 22. HD E.2017/1041 K.2017/1276",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Bakırköy 3. İcra Hukuk Mahkemesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "adli_yargi",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1.md"
+}

@@ -1,0 +1,250 @@
+{
+  "entities": {
+    "Karar": "Samsun BAM, 6. CD., E. 2024/1088 K. 2025/667 T. 18.2.2025",
+    "EsasNo": "2024/1088",
+    "KararNo": "2025/667",
+    "KararTarihi": "2025-02-18",
+    "YargiOrgani": "Bölge Adliye Mahkemesi",
+    "Mahkeme": "Samsun Bölge Adliye Mahkemesi 6. Ceza Dairesi",
+    "MahkemeTuru": "bam_ceza",
+    "Daire": "6. Ceza Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "İstinaf incelemesi tamamlandı, bozma kararı verildi",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "Tefecilik suçundan yargılanan sanıklar",
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Amasya 2. Asliye Ceza Mahkemesi",
+      "esas_no": "2022/994",
+      "karar_no": "2024/209",
+      "tarih": "2024-03-07",
+      "sonuc": "Mahkumiyet"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Sanıklar",
+      "mahkeme": "Samsun Bölge Adliye Mahkemesi 6. Ceza Dairesi",
+      "esas_no": "2024/1088",
+      "karar_no": "2025/667",
+      "sonuc": "Bozma"
+    },
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": "Eksik inceleme ve yetersiz gerekçeyle hüküm kurulması; Hatay Antakya'daki 2019/3080 suç numaralı tefecilik dosyasının akıbetinin araştırılmaması, zincirleme suç ve hukuki kesinti değerlendirmesinin yapılmaması, vergi inceleme raporunun aldırılmaması ve TCK'nın 43/1 maddesi uyarınca artırımın 1/4 yerine 1/2 oranında uygulanması hukuka aykırı bulunarak hükümler bozuldu.",
+    "KesinHukum": true,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": "Tefecilik suçundan kovuşturma; kolluk tarafından düzenlenen 06/08/2021 tarihli tutanakta sanıklar hakkında Hatay Antakya Şehit Özen Polis Merkezi Amirliği'nce 2019/3080 suç numarasıyla tefecilik suçundan işlem yapıldığı belirtilmiştir.",
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": {
+      "suc": "Tefecilik",
+      "ceza": "TCK 241 kapsamında mahkumiyet; TCK 43/1 uyarınca artırım uygulanmış",
+      "sure": "Belirtilmemiş (artırım oranı 1/2 uygulanmış, doğru oran 1/4 olmalıydı)"
+    },
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": "Hapis cezası (TCK 241 kapsamında, TCK 43/1 ile artırımlı)",
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5237/241",
+      "5237/43/1",
+      "5237/43/2",
+      "5237/3/1",
+      "5237/61",
+      "5271/280/1-f",
+      "5271/286/1"
+    ],
+    "AnaSuc": "Tefecilik",
+    "HukukiKonu": "Ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve İncelenen Karar Bilgileri",
+      "text": "İNCELENEN KARARIN; MAHKEMESİ : Amasya 2. Asliye Ceza Mahkemesi\nTARİHİ : 07/03/2024\nNUMARASI : 2022/994 (E) ve 2024/209(K)\nSUÇ : Tefecilik\nSUÇ TARİHİ : 10/10/2020\nHÜKÜM : Mahkumiyet\nTEBLİĞ TARİHİ : 07/03/2024\n\nYerel Mahkemece kurulan hükümlere karşı istinaf yoluna başvurulmakla, başvuruların süresi ve kararların niteliği ile suç tarihine göre dosya görüşüldü.\n\nİstinaf başvurularının reddi nedenleri bulunmadığından işin esasına geçildi. Vicdani kanının oluştuğu duruşma sürecini yansıtan tutanaklar, belgeler ve gerekçe içeriğine göre; gerekçeli karar başlığında tefecilik fiilinin pasif faili konumunda bulunan faiz karşılığı ödünç para alan veya aldığı iddia edilen kişilerin, \"ihbar eden\" yerine, \"suçtan zarar gören\" olarak gösterilmeleri, mahallinde düzeltilmesi mümkün hata kabul edilmiştir.",
+      "key_principles": [
+        "Tefecilik suçunda faiz karşılığı para alan kişiler suçtan zarar gören konumundadır, mağdur değildir",
+        "Gerekçeli karar başlığındaki hata mahallinde düzeltilebilir"
+      ],
+      "referenced_laws": [
+        "5237/241"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "legal_evaluation",
+      "title": "Tefecilik Suçunun Hukuki Niteliği ve Zincirleme Suç Değerlendirmesi",
+      "text": "Yargıtay Ceza Genel Kurulunun 26/04/2016 gün ve 2014/118-2016/208 sayılı Kararında da belirtildiği üzere, tefecilik suçu ile korunan hukuki yarar ve suçun TCK'nın topluma karşı suçlar bölümünde düzenlenmesi karşısında, bu suçun mağdurunun toplumu oluşturan bireylerin tamamı, diğer bir ifadeyle kamu olduğu, eylemin belirli bir kişinin zararına olarak işlenmesi halinde bu kişinin mağdur değil, suçtan zarar gören olacağının kabulü gerektiği, bu bağlamda TCK'nın 241. maddesinde düzenlenen tefecilik suçunun kazanç elde etmek amacıyla borç para verilmesiyle oluşacağı, bunu meslek haline getirmenin suçun unsurları içerisinde yer almadığı, değişik zamanlarda ve/veya farklı kişilere karşı tefecilik eylemini zincirleme olarak işleyen sanıklar hakkında TCK'nın 43. maddesinin uygulanması gerektiği, zincirleme suçlarda son suçun işlendiği günün suç tarihi olduğu, bu itibarla hukuki kesinti oluşturan iddianame tarihinden evvel tüm eylemlerin teselsülün içerisinde değerlendirilmesi, iddianame tarihinden sonraki eylemlerin ise gerçek içtima hükümleri ve varsa kendi içinde teselsül hükümleri değerlendirilmek suretiyle karara bağlanması gerekeceği nazara alınmalıdır.",
+      "key_principles": [
+        "Tefecilik suçunda korunan hukuki yarar kamusaldır; mağdur toplumdur",
+        "Tefecilik suçunun oluşması için meslek haline getirilmesi şart değildir",
+        "Zincirleme tefecilik suçunda son suçun işlendiği gün suç tarihi sayılır",
+        "Hukuki kesinti iddianame tarihiyle gerçekleşir; önceki eylemler teselsül kapsamında değerlendirilir",
+        "İddianame sonrası eylemler gerçek içtima veya kendi içinde teselsül hükümleriyle değerlendirilir"
+      ],
+      "referenced_laws": [
+        "5237/241",
+        "5237/43",
+        "5237/43/1",
+        "5237/3/1",
+        "5237/61"
+      ],
+      "referenced_decisions": [
+        "Yargıtay CGK 2014/118-2016/208, 26/04/2016"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "cassation_grounds",
+      "title": "Bozma Gerekçeleri - Eksik İnceleme ve Araştırma Zorunluluğu",
+      "text": "Kolluk tarafından düzenlenen 06/08/2021 tarihli tutanakta sanıklar hakkında Hatay Antakya Şehit Özen Polis Merkezi Amirliği'nce 2019/3080 suç numarasıyla tefecilik suçundan işlem yapıldığının belirtilmesi karşısında, anılan suç numarasıyla yapılan işlemin akıbetinin araştırılması, kamu davası açıldığının derdest olduğunun tespiti halinde ve gerektiğinde davaların birleştirilmesi, karara çıkmış ve kesinleşmiş ise onaylı örneklerinin getirtilerek incelenmesi sonrasında, suç ve iddianame tarihlerine göre eylemler arasında hukuki kesinti oluşup oluşmadığının, zincirleme suç hükümlerinin uygulanıp uygulanmayacağının ve mükerrer dava olup olmadığının saptanması, zincirleme suç hükümlerinin uygulanması gerektiğinin belirlenmesi halinde, TCK'nın 3/1 ve 61. maddeleri de nazara alınarak, TCK'nın 241. maddesi gereğince verilecek cezadan aynı Kanun'un 43/1. maddesi uyarınca artırım yapıldıktan sonra kesinleşen dava dosyasından verilen cezanın mahsubu ile oluşur ise aradaki fark kadar cezaya hükmedilmesi, hukuki kesintinin gerçekleşmesi halinde ise ayrı ceza verilmesi gerektiği, dava konusu olaya ilişkin maddi gerçeğin kuşkuya yer vermeyecek şekilde ortaya çıkarılması açısından, sanıkların vergi mükellefi olduğunun tespiti halinde vergi dairesine yazı yazılarak suç tarihini kapsayacak şekilde vergi inceleme raporu düzenlettirilmesinden sonra hasıl olacak sonuca göre sanıkların hukuki durumunun takdir ve tayin edilmesi gerektiği gözetilmeden eksik inceleme ve yetersiz gerekçeyle yazılı şekilde hükümler kurulması hukuka aykırıdır.",
+      "key_principles": [
+        "Mükerrer dava bulunup bulunmadığının araştırılması zorunludur",
+        "Zincirleme suç halinde mahsup uygulanmalı, fark kadar cezaya hükmedilmelidir",
+        "Maddi gerçeğin kuşkuya yer vermeyecek şekilde ortaya çıkarılması ilkesi gereği vergi inceleme raporu aldırılmalıdır",
+        "Eksik inceleme bozma nedenidir"
+      ],
+      "referenced_laws": [
+        "5237/241",
+        "5237/43/1",
+        "5237/3/1",
+        "5237/61"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "cassation_grounds",
+      "title": "Bozma Gerekçeleri - TCK 43/1 Artırım Oranının Hatalı Uygulanması",
+      "text": "Kabul ve uygulama göre de; sanıklar hakkında hükmolunan cezalardan 1/4'den 3/4'e kadar ceza artırımı öngören TCK'nun 43/2. maddesi yollamasıyla 43/1. maddesi uyarınca, adalet, hak ve nesafet kuralları ile daha vahim hallerin de varlığı dikkate alınarak, cezanın 1/4 oranında artırım yapılması gerektiği gözetilmeden, 1/2 orandan artırım yapılması hukuka aykırıdır.",
+      "key_principles": [
+        "TCK 43/1-2 kapsamında zincirleme suç artırımında adalet, hak ve nesafet kuralları gözetilmelidir",
+        "Daha vahim haller yoksa asgari artırım oranı olan 1/4 uygulanmalıdır",
+        "Tefecilik suçunda 1/2 artırım oranı uygulanması hatalıdır"
+      ],
+      "referenced_laws": [
+        "5237/43/1",
+        "5237/43/2"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "conclusion_and_judgment",
+      "title": "Sonuç ve Hüküm",
+      "text": "Hukuka aykırı olup, istinaf başvurusunda bulunanların istinaf istemleri bu nedenlerle yerinde görüldüğünden, CMK'nun 280/1-f maddesi uyarınca hükümlerin bu sebeplerden dolayı BOZULMASINA, dosyanın yeniden incelenmek ve hükmolunmak üzere hükmü bozulan ilk derece mahkemesine GÖNDERİLMESİNE, CMK'nın 286/1. maddesi uyarınca KESİN olmak üzere 18/02/2025 tarihinde oybirliğiyle karar verildi.",
+      "key_principles": [
+        "İstinaf mahkemesi CMK 280/1-f kapsamında bozma kararı verebilir",
+        "Bozma kararı kesin olup temyiz yolu kapalıdır (CMK 286/1)",
+        "Dosya yeniden incelenmek üzere ilk derece mahkemesine gönderilir"
+      ],
+      "referenced_laws": [
+        "5271/280/1-f",
+        "5271/286/1"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Samsun Bölge Adliye Mahkemesi 6. Ceza Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Amasya 2. Asliye Ceza Mahkemesi, E:2022/994 K:2024/209",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/241",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/43/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/43/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/3/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/61",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/280/1-f",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/286/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay CGK E:2014/118 K:2016/208, 26/04/2016",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1.md"
+}

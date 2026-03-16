@@ -1,0 +1,315 @@
+{
+  "entities": {
+    "Karar": "İzmir BAM, 4. HD., E. 2026/406 K. 2026/376 T. 12.2.2026",
+    "EsasNo": "2026/406",
+    "KararNo": "2026/376",
+    "KararTarihi": "2026-02-12",
+    "YargiOrgani": "İzmir Bölge Adliye Mahkemesi",
+    "Mahkeme": "İzmir Bölge Adliye Mahkemesi 4. Hukuk Dairesi",
+    "MahkemeTuru": "bam_hukuk",
+    "Daire": "4. Hukuk Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "İstinaf incelemesi tamamlandı, kesin karar verildi",
+    "Davaci": "Trafik kazasında yaralanan yaya ve ailesi",
+    "Davali": "Araç sürücüleri ve sigorta şirketi",
+    "Sanik": null,
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": null,
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "İzmir 4. Asliye Ticaret Mahkemesi",
+      "esas_no": "2025/391",
+      "karar_no": null,
+      "tarih": "2025-06-20",
+      "sonuc": "İhtiyati hacze itirazın reddine karar verildi"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Davalılar",
+      "mahkeme": "İzmir BAM 4. Hukuk Dairesi",
+      "esas_no": "2026/406",
+      "karar_no": "2026/376",
+      "sonuc": "İhtiyati haciz kararının esasına yönelik istinaf itirazları reddedildi; hacizde ölçülülük ilkesi bakımından istinaf başvuruları kabul edilerek banka hesapları ve araçlar üzerindeki ihtiyati hacizler kaldırıldı"
+    },
+    "TemyizBasvurusu": null,
+    "KararDuzeltme": null,
+    "BozmaKarari": null,
+    "KesinHukum": true,
+    "HukumSonucu": "KISMI_BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": "İhtiyati haciz",
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": null,
+    "Beraat": null,
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": null,
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": "Zorunlu arabuluculuk dava şartı itirazı davalı tarafından ileri sürülmüştür",
+    "Mevzuat": [
+      "2004/257",
+      "2004/261",
+      "2004/265",
+      "6100/355",
+      "6100/357",
+      "6100/353",
+      "6100/362",
+      "6100/36",
+      "6098/117",
+      "6100/389"
+    ],
+    "AnaSuc": "Trafik kazasından kaynaklanan bedensel yaralanma nedeniyle tazminat - ihtiyati haciz",
+    "HukukiKonu": "özel hukuk - tazminat - ihtiyati haciz"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Tarafların Özeti",
+      "text": "Taraflar arasındaki davanın yapılan yargılaması sonunda ilk derece mahkemesince verilen, yukarıda tarih ve numarası gösterilen kararına karşı, istinaf başvurusunda bulunulmakla dosya incelendi.\n\nTaraflar arasındaki uyuşmazlık, trafik kazasından kaynaklanan bedensel yaralanma nedeniyle maddi ve manevi davası ile birlikte istenen ve verilen ihtiyati haciz kararına yapılan itirazın reddine karar verilmesinden kaynaklanmaktadır.\n\n26/11/2019 tarihinde davalı ...'in kullandığı ... plakalı araç ile ... Bulvarında seyir halinde iken ... nolu Sokağın Kavşağına gelindiğinde ... Sokak istikametinden gelip... Sokak istikametine yürüyen davacı yaya ...'a aracın önü ile çarptığı, yaralı olarak yerde yatarken bu seferde davalı ...'ın idaresindeki ... plakalı aracı ile üzerinden geçtiğini, olay ile ilgili olarak davalılar ... ve ... hakkında 26.ASCM'nin 2023/500 Esas sayılı dosyasından açılan davanın devam ettiğini, İzmir ATK tarafından düzenlenen 25/12/2024 tarihli raporunda müvekkilleri ...'da kaza nedeniyle genel beden ve kafa travması, kafa içi yaralanma, çoklu kemik kırıkları oluştuğu, yaralanma ile ilgili olarak duyularından veya organlarından birinin işlevinin yitirilmesi niteliğinde olduğu ve iyileşme olanağı bulunmayan hastalığa neden olduğunun belirlendiği anlaşılmaktadır.",
+      "key_principles": [
+        "Trafik kazasından kaynaklanan bedensel zarar",
+        "Haksız fiil sorumluluğu",
+        "İhtiyati haciz"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": [
+        "İzmir 26.ASCM 2023/500 E",
+        "İzmir 2.SHM 2019/2082 E - 2020/697 K"
+      ]
+    },
+    {
+      "order": 2,
+      "type": "party_claims",
+      "title": "Davacı İsteminin Özeti",
+      "text": "Davacılar vekili dava dilekçesinde özetle; 26/11/2019 tarihinde davalı ...'in kullandığı ... plakalı araç ile ... Bulvarında seyir halinde iken ... nolu Sokağın Kavşağına gelindiğinde ... Sokak istikametinden gelip... Sokak istikametine yürüyen davacı yaya ...'a aracın önü ile çarptığı, yaralı olarak yerde yatarken bu seferde davalı ...'ın idaresindeki ... plakalı aracı ile üzerinden geçtiğini ileri sürerek adı geçen davacı bakımından belirsiz alacak davacı niteliğinde fazlaya ilişkin hakları saklı kalmak kaydı ile 3.000,00 TL sürekli, 1.000,00 TL geçici iş göremezlik 2.000,00 TL tedavi, 250,00 TL bakıcı gideri, 250,00 TL yol gideri olmak üzere toplam 6.500,00 TL maddi tazminatın davalılardan 26/11/2019 tarihinden itibaren işleyecek yasal faizi ile birlikte tahsilini talep etmiştir.\n\nDavacı ... için 5.000.000,00 TL, davacı eş ... için 2.000.000,00 TL, ...'ın çocukları ..., ..., ..., ...., ..., ...'ın her biri için 500.000,00 TL (8X500.000,00 TL=4.000.000,00) TL genel toplamda 11.000.000,00 TL manevi tazminatın sigorta şirketi dışındaki davalılardan müştereken ve müteselsilen tahsili ile davacılara verilmesini talep etmiştir.\n\nDavacılar vekili aynı dilekçede adli yardım talebinde bulunduktan sonra davalı gerçek kişiler adına kayıtlı taşınır taşınmaz malları ile 3.kişilerdeki ve bankalardaki hak ve alacaklar üzerine özellikle davaya konu kazaya sebebiyet veren araçlar olan ... ve ... plakalı araçlar üzerine ihtiyati haciz konulmasına karar verilmesini istemiştir.",
+      "key_principles": [
+        "Belirsiz alacak davası",
+        "Maddi tazminat",
+        "Manevi tazminat",
+        "İhtiyati haciz talebi",
+        "Adli yardım"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Davalı Cevaplarının Özeti",
+      "text": "Davalı .... vekili cevap dilekçesinde özetle; Manevi tazminatın bölünemeyeceğinden kısmi dava olarak açılamayacağını, zorunlu arabuluculuk dava şartının yerine getirilmediğini, zorunlu dava arkadaşlığı olduğu halde ... aleyhine dava açılmadığını, usulden reddi gerektiğini, ayrıca bu sigorta şirketinin davanın ihbarını talep ettiklerini, zamanaşımı itirazlarının bulunduğunu, kusur değerlendirilmesinin yapılması gerektiğini, asli kusurlu olanın.... soyadlı şahıslara ait olduğunun ceza mahkemesinde tespit edildiğini, ceza dosyasının bekletici mesele yapılmasını savunarak maddi ve manevi tazminat taleplerini kabul etmediklerini savunarak davanın reddine karar verilmesini istemiştir.\n\nDavalı ....ve ... vekili cevap dilekçesinde özetle; Zarar görenin zararını ve zarar verenin kusurunu ispat yükümlülüğü altında bulunduğunu, zorunlu dava arkadaşlığı bulunmasına rağmen ...ya dava açılmadığından bu sürenin reddi gerektiğini, davacının iyileşme süreci tamamlanmadığından dava açılamayacağını, zamanaşımı itirazları bulunduğunu, kusur iddiasını kabul etmediklerini, maddi ve manevi tazminat koşullarının oluşmadığını, ihtiyati haciz kararının kaldırılması gerektiğini, ceza davasının bekletici mesele yapılması gerektiğini savunarak davanın reddine karar verilmesini istemişlerdir.",
+      "key_principles": [
+        "Manevi tazminatın bölünmezliği",
+        "Zorunlu arabuluculuk dava şartı",
+        "Zorunlu dava arkadaşlığı",
+        "Zamanaşımı itirazı",
+        "İspat yükümlülüğü"
+      ],
+      "referenced_laws": [],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "lower_court_decision",
+      "title": "İlk Derece Mahkemesi Kararının Özeti",
+      "text": "İDM'nce davacıların ihtiyati haciz talebinde bulunması üzerine 12/05/2025 tarihli ara karar ile İzmir 26.ASCM'nin 2023/500 Esas sayılı dava dosyası, ATK Şube Müdürlüğünün 25/12/2024 tarihli raporunun incelenmesi sonucunda, dava konusu zararın haksız fiilden kaynaklandığından haksız fiilin gerçekleştiği tarihte muaccel hale geldiğini, dava dilekçesinde 11.000,00 TL manevi tazminat, belirsiz alacak davası niteliğinde 13.000,00 TL maddi tazminat istendiğini, 2004 Sayılı İİK'nun 257.maddesi gereğince manevi tazminat bakımından ihtiyati haciz isteğinin haklı bulunduğu, mal varlıkları yönünden herhangi bir sınırlama yoluna gidilmesinin gerekmediği gerekçesi ile davalılar ..., ....., ... ve ...'in 5.000.000,00 TL borç ve masrafa yeter miktarda taşınır ve taşınmaz malları ile 3.kişilerdeki hak ve alacakları üzerine 2004 Sayılı İİK'nun 257 ve devamı maddeleri gereğince ihtiyati haciz konulmasına karar verilmiştir.\n\nİDM'nce 20/06/2025 tarihinde yapılan soruşturma inceleme sonucunda, alacağın rehine teminat altına alınmamış olması, ceza dosyası ve bilirkişi raporlarının değerlendirilmesi sonucu yaklaşık ispat koşulunun sağlandığını, itirazların haklı görülmediğini, dayanılan itiraz sebeplerinin 2004 Sayılı İİK'nun 265.maddesinde sayılan sebeplerden olmadığını, aşkın haciz itirazının icra müdürlüğüne karşı sürülmesi halinde verilecek karar ile icra hukuk mahkemesine şikayet yoluna gidilmesinin mümkün olduğu gerekçeleri ile reddetmiştir.",
+      "key_principles": [
+        "Haksız fiilde alacağın muacceliyeti",
+        "Yaklaşık ispat",
+        "İhtiyati haciz şartları",
+        "Aşkın haciz"
+      ],
+      "referenced_laws": [
+        "2004/257",
+        "2004/261",
+        "2004/265"
+      ],
+      "referenced_decisions": [
+        "İzmir 26.ASCM 2023/500 E"
+      ]
+    },
+    {
+      "order": 5,
+      "type": "cassation_grounds",
+      "title": "İstinaf Nedenleri",
+      "text": "Davalı .... vekili istinaf dilekçesinde özetle; Manevi tazminatın bölünmezliği ilkesi gereğince kısmi ve belirsiz alacak davası olarak açılamayacağının, usulden reddi gerektiğini, İDM'nin kararının gerekçesiz olduğunu, kaza nedeniyle kesin rapor bulunmadığını, ceza dosyasının derdest olup kesinleşmediğini, ihtiyati haczin yasal koşullarının oluşmadığını, kendi araçları ile diğer davalıların araç ve taşınmazlarında haczedilmesi karşısında en azından banka hesaplarındaki haczin kaldırılması gerektiğini, 2004 Sayılı İİK'nun 257/2.fıkrasının koşullarının oluşmadığını ileri sürerek istinaf taleplerinin kabulüne, İDM'nin 20/06/2025 tarihli ara kararının kaldırılmasına, ihtiyati haczi kaldırılmasına, aksi halde banka hesapları üzerindeki ihtiyati haczin kaldırılmasını istemiştir.\n\nDavalı .... ve ... vekili istinaf dilekçesinde özetle; İhtiyati haciz kararı verilmesi için gerekli şartların oluşmadığını, yaklaşık ispat koşullarının sağlanmadığını, itiraz dilekçesinde belirttiği taşınmazların güncel piyasa değerinin 147.500,00 TL olduğunu, 5.000.000,00 TL için verilen ihtiyati haciz kararından daha fazla değerde bulunduğundan yalnızca taşınmazlar yönünden ihtiyati haciz kararının verilmesinin yeterli olacağını, müvekkilinin ticaret ile uğraştığından ihtiyati haciz konulan araçlar ile geçimini sağladığını ve yine banka hesaplarına konulan haciz nedeniyle iş yapmasının imkansız hale geleceğini ileri sürerek istinaf başvurularının kabulüne 20/06/2025 tarihli ara kararın kaldırılmasına, ihtiyati haczin kaldırılmasına, aksi halde müvekkillerinin banka hesaplarındaki ihtiyati haciz ile araçları üzerindeki ihtiyati haczin kaldırılmasına, taşınmazlar üzerine ihtiyati haciz konulmasına karar verilmesini istemiştir.",
+      "key_principles": [
+        "Manevi tazminatın bölünmezliği ilkesi",
+        "Yaklaşık ispat koşulu",
+        "Hacizde ölçülülük ilkesi",
+        "İhtiyati haciz şartları"
+      ],
+      "referenced_laws": [
+        "2004/257"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "legal_evaluation",
+      "title": "Mahkemenin Hukuki Değerlendirmesi",
+      "text": "6100 Sayılı HMK'nun 355. maddesi uyarınca inceleme, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır, kamu düzenine aykırılık olup olmadığı ise re'sen gözetilir.\n\nBilindiği üzere uyuşmazlık bir miktar para alacağına ilişkin ise 2004 Sayılı İİK 257. vd. maddeleri gereğince ihtiyati haciz; uyuşmazlığın dava konusu hakkında olması halinde 6100 Sayılı HMK'nun 389. vd maddeleri gereğince ihtiyati tedbire ilişkin geçici hukuki koruma kararı verilmesi istenebileceği açıktır. İstem, tazminata (para alacağı) yöneliktir.\n\n2004 Sayılı İİK 257. vd. maddeleri gereğince ihtiyati hacize karar verebilmek için bir alacağın varlığı ve bu alacağın muaccel olup olmadığı önem taşımaktadır.\n\nSomut olayda; bu kazayla davacı ...'ın İzmir ATK tarafından düzenlenen 25/12/2024 tarihli raporunda müvekkilleri ...'da kaza nedeniyle genel beden ve kafa travması, kafa içi yaralanma, çoklu kemik kırıkları oluştuğu, yaralanma ile ilgili olarak duyularından veya organlarından birinin işlevinin yitirilmesi niteliğinde olduğu ve iyileşme olanağı bulunmayan hastalığa neden olduğunun belirlendiğini bu şekilde meydana gelen haksız eyleme dayanıldığına göre, alacağının 6098 Sayılı TBK 117. maddesi gereğince olay tarihinde muaccel hale geldiği açıktır.\n\nManevi tazminat isteminde zararın tekliği ve bölünmezliği ilkesi gereğince kısmi ve belirsiz alacak davası olarak açılmaya elverişli değildir. Bu sebeple davacıların manevi zararlarına karşılık ihtiyati haciz taleplerinin tamamının tek kalemde istenebileceğinden göz önünde tutularak ihtiyati haciz talebinin kabulü, hacizde ölçülülük ilkesi gereğince kısmen kabul-kısmen reddi veya reddine karar verilmiş olması ileride hükmedilecek olan manevi tazminat istemi için 6100 Sayılı HMK'nun 36/1-b bendi gereğince davada iki taraftan birine veya üçüncü kişiye kanunen gerekmediği halde görüşünü açıklamış olması niteliğinde görülemez. Diğer bir anlatımla ihtiyati hacizde verilen karar ne olursa olsun buna bağlı olmaksızın nihai kararda 22/06/1966 tarihli 7/7 sayılı İBK'da göz önünde tutularak manevi tazminatın hüküm altına alınması mümkündür.\n\nDavacılar vekili 6.500,00 TL maddi tazminat ile 11.000,00 TL manevi tazminat talep ederken ihtiyati haciz talebinde davalı ..., ...., ... ve.... adına kayıtlı taşınır ve taşınmaz malları ile 3.kişilerdeki ve bankalardaki hak ve alacakları üzerine özellikle kazaya sebebiyet veren araçlar olan ... ve ... plakalı araçlar üzerine ihtiyati haciz konulmasını talep etmiştir.\n\nDavacılar vekilinin ihtiyati hacizde ölçülülük ilkesine aykırı şekilde ihtiyati haciz talep ettiği buna karşılık İDM'nin aynı şekilde hacizde ölçülülük ilkesine aykırı biçimde ihtiyati haciz kararı verildiği ve ihtiyati hacze itirazlar bu ilke gereğince yerinde olduğu halde İDM'nce dosya içeriğine uymayacak şekilde aşkın hacze karşı şikayet yoluna gidilebileceği, reddi halinde İcra Hukuk Mahkemesine başvurulabileceği gerekçeleriyle davalıların itirazının tümünün reddine karar verilmiş olması usul ve yasaya aykırı görülmüştür.",
+      "key_principles": [
+        "İstinaf incelemesinin sınırlılığı",
+        "İhtiyati hacizde muacceliyet",
+        "Haksız fiilde alacağın doğumu",
+        "Manevi tazminatın bölünmezliği",
+        "Hacizde ölçülülük ilkesi",
+        "Aşkın haciz yasağı"
+      ],
+      "referenced_laws": [
+        "6100/355",
+        "6100/357",
+        "2004/257",
+        "6100/389",
+        "6098/117",
+        "6100/36"
+      ],
+      "referenced_decisions": [
+        "22/06/1966 tarihli 7/7 sayılı İBK",
+        "Yargıtay 12.HD 2021/12136 E"
+      ]
+    },
+    {
+      "order": 7,
+      "type": "conclusion_and_judgment",
+      "title": "Hüküm",
+      "text": "H Ü K Ü M : Yukarıda açıklanan nedenlerle;\n\n1-Davalılar ... vekili ve ... ile ... vekillerinin ihtiyati haciz kararının esasına yönelik istinaf itirazlarının 6100 Sayılı HMK'nın 353/1.fıkra (b-1) bendi gereğince ayrı ayrı ESASTAN REDDİNE,\n\n2-Adı geçen davalılar vekillerinin ihtiyati hacizde ölçülülük ilkesi gereğince yapmış oldukları istinaf başvurularının 6100 Sayılı HMK'nın 353/1.fıkra (b-2) bendi gereğince AYRI AYRI KABULÜNE,\n\n3-İlk Derece Mahkemesi olan İzmir 4.Asliye Ticaret Mahkemesinin ihtiyati hacze itirazın reddine ilişkin 20/06/2025 tarihli kararının hacizde ölçülülük ilkesi bakımından KALDIRILMASINA,\n\n4- İhtiyati hacize itiraz bakımından yeniden esas hakkında karar verilmek suretiyle;\na)Davalı .... ve ... vekilinin 30/05/2025 tarihli itiraz dilekçesinde gösterilen şekilde adı geçenlerin banka hesapları ile (konulmuşsa trafik kazasına karışan ... plakalı araç dışında kalan diğer) araçlara konulan ihtiyati haciz ile davalı .... vekilinin 22/05/2025 tarihli itiraz dilekçesinde gösterilen şekilde banka hesaplarına koyulan ihtiyati haciz bakımından itirazlarının AYRI AYRI KABULÜNE, diğer itirazlarının REDDİNE,\nb)İDM'nin 12/05/2025 tarihli kararıyla davalı.... ve ....'nin banka hesapları ile (konulmuşsa trafik kazasına karışan ... plakalı araç dışında kalan diğer) araçlara konulan ihtiyati haciz ile davalı ....'ın banka hesaplarına koyulan ihtiyati hacizlerin KALDIRILMASINA\nc)Kararın derdest olan dava dosyası üzerinden taraflara bildirilmesine,\nç)Davalı ... tarafından peşin yatırılan 1.683,10 TL istinaf yoluna başvurma harcının Hazineye gelir kaydına, 615,40 TL istinaf karar ve ilam harcının ve gider avansının talep halinde yatırana iadesine,\nd)Davalı ... tarafından peşin yatırılan 1.683,10 TL istinaf yoluna başvurma harcının Hazineye gelir kaydına, 615,40 TL istinaf karar ve ilam harcının ve gider avansının talep halinde yatırana iadesine,\n5- Kesin olan işbu kararın taraflara tebliği, avans ve harç iade işlemlerinin İlk Derece Mahkemesi'nce yerine getirilmesine,\n12/02/2026 tarihinde, 6100 Sayılı HMK'nun 362. Maddesi (1-f) bendi ve 2004 Sayılı İİK'nun 265/Son fıkrası gereğince KESİN olarak oy birliği ile karar verildi.",
+      "key_principles": [
+        "Hacizde ölçülülük ilkesi",
+        "İstinafta kısmen kabul kısmen ret",
+        "Kesin karar",
+        "Banka hesapları ve araçlar üzerindeki aşkın haczin kaldırılması"
+      ],
+      "referenced_laws": [
+        "6100/353",
+        "6100/362",
+        "2004/265"
+      ],
+      "referenced_decisions": []
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "İzmir BAM 4. Hukuk Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İzmir 4. Asliye Ticaret Mahkemesi 2025/391",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/257",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/261",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "2004/265",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/355",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/357",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/353",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/362",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/36",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6100/389",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "6098/117",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 12.HD 2021/12136 E",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "22/06/1966 tarihli 7/7 sayılı İBK",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "özel hukuk",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1.md"
+}

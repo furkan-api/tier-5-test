@@ -1,0 +1,319 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 1. CD., E. 2024/6671 K. 2025/8927 T. 11.12.2025",
+    "EsasNo": "2024/6671",
+    "KararNo": "2025/8927",
+    "KararTarihi": "2025-12-11",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 1. Ceza Dairesi",
+    "MahkemeTuru": "yargitay_ceza",
+    "Daire": "1. Ceza Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, bozma kararı verildi",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "Birden fazla sanık (aralarında nitelikli kasten öldürme suçlaması bulunanlar)",
+    "KatilanMusteki": "Katılan Kurum vekili",
+    "CumhuriyetBassavciligi": "Yargıtay Cumhuriyet Başsavcılığı",
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Karaman Ağır Ceza Mahkemesi",
+      "esas_no": "2024/92",
+      "karar_no": "2024/201",
+      "tarih": "2024-03-28",
+      "sonuc": "Bir sanık hakkında nitelikli kasten öldürme suçundan ağırlaştırılmış müebbet hapis cezası; diğer üç sanık hakkında beraat"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Katılan Kurum vekili ve sanık müdafii",
+      "mahkeme": "Konya Bölge Adliye Mahkemesi 1. Ceza Dairesi",
+      "esas_no": "2024/1555",
+      "karar_no": "2024/1584",
+      "sonuc": "İstinaf başvurularının esastan reddi"
+    },
+    "TemyizBasvurusu": "Katılan Kurum vekili: eksik inceleme, hatalı değerlendirme, beraat kararlarının hukuka aykırılığı, suç vasfının hatalı belirlenmesi, TCK 82/1-b uygulanması ve vekalet ücreti talepleri. Sanık ve müdafii: maktul bebeğin ölü doğduğu, suçun yasal unsurlarının oluşmadığı, sanık lehine hükümlerin uygulanmaması.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "Konya BAM 1. Ceza Dairesinin 26.06.2024 tarihli kararı; BAM'ın duruşma açmaksızın verdiği bozma kararının CMK 280/1-e ve f bentlerinde sayılan bozma nedenleri arasında yer almaması ve duruşma açılarak yeniden yargılama yapılması gerekirken yazılı şekilde esastan ret kararı verilmesi nedeniyle bozulmuştur.",
+    "KesinHukum": false,
+    "HukumSonucu": "BOZMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": "Nitelikli kasten öldürme suçu nedeniyle kovuşturma",
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": {
+      "suc": "Nitelikli kasten öldürme (TCK 82/1-a-d-e)",
+      "ceza": "Ağırlaştırılmış müebbet hapis cezası ve hak yoksunlukları",
+      "sure": "Ağırlaştırılmış müebbet"
+    },
+    "Beraat": "Sanıklardan üçü hakkında nitelikli kasten öldürme suçundan CMK 223/2-e uyarınca beraat kararı verilmiştir.",
+    "YargilamaninYenilenmesi": null,
+    "YaptirimTuru": "Ağırlaştırılmış müebbet hapis cezası (bir sanık için)",
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5271/286/1",
+      "5271/260/1",
+      "5271/291/1",
+      "5271/294/1",
+      "5271/298/1",
+      "5271/280/1",
+      "5271/280/2",
+      "5271/223/2-e",
+      "5271/289/1-i",
+      "5271/152",
+      "5271/302/2",
+      "5271/304/2-b",
+      "5237/82/1-a",
+      "5237/82/1-d",
+      "5237/82/1-e",
+      "5237/82/1-b",
+      "5237/53/1",
+      "1136/38/1"
+    ],
+    "AnaSuc": "Nitelikli kasten öldürme",
+    "HukukiKonu": "Ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Dava Konusu ve Ön İnceleme",
+      "text": "İlk Derece Mahkemesince verilen hükümlere yönelik istinaf incelemesi üzerine Bölge Adliye Mahkemesi tarafından verilen kararların; 5271 sayılı Ceza Muhakemesi Kanunu'nun (5271 sayılı Kanun) 286/1. maddesi uyarınca temyiz edilebilir olduğu, 260/1. maddesi gereği temyiz edenlerin hükümleri temyize hak ve yetkilerinin bulunduğu, 291/1. maddesi gereği temyiz istemlerinin süresinde olduğu, 294/1. maddesi gereği temyiz dilekçelerinde temyiz sebeplerine yer verildiği, 298/1. maddesi gereği temyiz istemlerinin reddini gerektirir bir durumun bulunmadığı yapılan ön inceleme neticesinde tespit edilmekle, gereği düşünüldü. SUÇ: Nitelikli kasten öldürme. HÜKÜMLER: İstinaf başvurularının esastan reddi kararları. TEBLİĞNAME GÖRÜŞÜ: Bozma.",
+      "key_principles": [
+        "Temyiz yoluna başvuru koşullarının varlığı",
+        "Temyiz süresine uygunluk",
+        "Temyiz dilekçesinde sebep gösterme zorunluluğu"
+      ],
+      "referenced_laws": [
+        "5271/286/1",
+        "5271/260/1",
+        "5271/291/1",
+        "5271/294/1",
+        "5271/298/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "Hukuki Süreç — İlk Derece ve İstinaf Kararları",
+      "text": "1. Bölge Adliye Mahkemesinin bozma ilamı üzerine verilen Karaman Ağır Ceza Mahkemesinin, 28.03.2024 tarihli ve 2024/92 Esas, 2024/201 Karar sayılı kararı ile; a. Sanık ... hakkında maktule karşı nitelikli kasten öldürme suçundan, 5237 sayılı Türk Ceza Kanunu'nun (5237 sayılı Kanun) 82/1-a-d-e, 53/1. maddeleri uyarınca ağırlaştırılmış müebbet hapis cezası ile cezalandırılmasına ve hak yoksunluklarına, b. Sanıklar ..., ... ve ... hakkında maktule karşı nitelikli kasten öldürme suçundan, 5271 sayılı Kanun'un 223/2-e maddesi uyarınca ayrı ayrı beraatlerine, Karar verilmiştir. 2. Konya Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 26.06.2024 tarihli ve 2024/1555 Esas, 2024/1584 Karar sayılı kararı ile sanıklar hakkında İlk Derece Mahkemesince verilen hükümlere yönelik katılan Kurum vekili ve sanık ... müdafiinin istinaf başvurularının 5271 sayılı Kanun'un 280/1-a maddesi uyarınca esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "Nitelikli kasten öldürme suçunda ağırlaştırılmış müebbet hapis cezası",
+        "İştirak şüphesinde beraat ilkesi",
+        "İstinaf incelemesinde esastan ret"
+      ],
+      "referenced_laws": [
+        "5237/82/1-a",
+        "5237/82/1-d",
+        "5237/82/1-e",
+        "5237/53/1",
+        "5271/223/2-e",
+        "5271/280/1"
+      ],
+      "referenced_decisions": [
+        "Karaman Ağır Ceza Mahkemesi 2024/92 E. 2024/201 K.",
+        "Konya BAM 1. CD. 2024/1555 E. 2024/1584 K."
+      ]
+    },
+    {
+      "order": 3,
+      "type": "party_claims",
+      "title": "Temyiz Sebepleri",
+      "text": "1. Katılan Kurum vekilinin temyiz sebepleri özetle; eksik inceleme ve hatalı değerlendirme ile karar verildiğine, sanıklar ..., ... ve ... hakkında verilen beraat kararlarının hukuka aykırı olduğuna, sanıkların atılı suçtan en üst sınırdan hiçbir takdiri indirim uygulanmaksızın cezalandırılmaları gerektiğine, sanık ... hakkında suç vasfının hatalı belirlendiğine, tüm sanıklar hakkında 5237 sayılı Kanun'un 82/1-b maddesinin uygulanması ve katılan Kurum lehine vekalet ücretine hükmedilmesi gerektiğine, 2. Sanık ... ve müdafiinin temyiz sebepleri özetle; maktul bebeğin ölü doğduğuna, suçun yasal unsurlarının oluşmadığına ve sanık lehine hükümlerin uygulanmamasının hukuka aykırı olduğuna, İlişkindir.",
+      "key_principles": [
+        "Suç vasfının doğru belirlenmesi",
+        "Takdiri indirim uygulamasının denetimi",
+        "Suçun yasal unsurlarının varlığı",
+        "Vekalet ücreti hakkı"
+      ],
+      "referenced_laws": [
+        "5237/82/1-b"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 4,
+      "type": "legal_evaluation",
+      "title": "Gerekçe — BAM Bozma Kararının Hukuka Aykırılığı",
+      "text": "Sanıklar hakkında İlk Derece Mahkemesi tarafından verilen kararların istinaf edilmesi üzerine inceleme yapan Bölge Adliye Mahkemesince 5271 sayılı Kanun'un 280... maddeleri gereğince duruşma açılmaksızın hükümlerin 'Sanıklar .... ve ...'in savunmalarının ayrı ayrı müdafiler yerine aynı müdafiiye yaptırılarak 1136 sayılı Avukatlık Kanunu'nun 38/1 ve 5271 sayılı Kanun'un 152. maddelerine aykırı davranılması ve bu surette hukuka aykırı olarak elde edilen savunmaların hükme esas alınarak aynı Kanun'un 289/1-i maddesine aykırı davranılması ve sanıklar ..., ... ve ...'un diğer sanık ... tarafından gerçekleştirilen eyleme iştirak ettiklerine dair, savunmalarının aksine her türlü şüpheden uzak kesin delil bulunmadığı halde müsnet suçtan mahkumiyetlerine karar verilmesi' nedenleriyle bozulmasına karar verildiği, fakat 5271 sayılı Kanun'un 280/1. maddesinin (e) ve (f) bentlerinde İlk Derece Mahkemesi kararlarının hangi hallerde bozulabileceğinin açık ve tahdidi şekilde belirtildiği, verilen bu bozma kararının anılan maddenin (e) ve (f) bentlerinde sınırlı olarak sayılan bozma nedenleri arasında gösterilmediği anlaşılmaktadır.",
+      "key_principles": [
+        "BAM'ın bozma yetkisinin CMK 280/1-e ve f bentleriyle sınırlı ve tahdidi olduğu",
+        "Hukuka aykırı savunma alınması (aynı müdafi çelişkisi) CMK 289/1-i kapsamında mutlak bozma nedeni",
+        "Avukatlık Kanunu 38/1 gereği menfaat çatışmasında aynı avukatın birden fazla sanığı savunamayacağı ilkesi",
+        "Şüpheden sanık yararlanır ilkesi"
+      ],
+      "referenced_laws": [
+        "5271/280/1",
+        "5271/289/1-i",
+        "5271/152",
+        "1136/38/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "appellate_evaluation",
+      "title": "BAM'ın Yükümlülüğü — Duruşma Açarak Yeniden Yargılama",
+      "text": "Bölge Adliye Mahkemesince duruşma açılarak ve taraflar da çağrılarak, tespit edilen hukuka aykırılığın giderilmesi ve delillerin değerlendirilmesi sonucunda 5271 sayılı Kanun'un 280/2. maddesi uyarınca yeniden hüküm kurmak yerine sınırlı olarak sayılan bozma nedenleri göz ardı edilerek dosya üzerinden yapılan inceleme neticesinde verilen bozma kararının ve bu karara istinaden verilmiş olan İlk Derece Mahkemesi kararının hukuka aykırı olması karşısında, Bölge Adliye Mahkemesince duruşma açılarak yeniden yargılama yapıldıktan sonra karar verilmesi yerine yazılı şekilde İlk Derece Mahkemesinin kararına yönelik esastan ret kararı verilmesi, hukuka aykırı bulunmuştur.",
+      "key_principles": [
+        "BAM'ın CMK 280/2 uyarınca duruşma açma ve yeniden hüküm kurma yükümlülüğü",
+        "Dosya üzerinden verilen bozma kararının yasal dayanaktan yoksunluğu",
+        "Hukuka aykırı bozma ilamı üzerine verilen ilk derece kararının da hukuka aykırı olacağı"
+      ],
+      "referenced_laws": [
+        "5271/280/2",
+        "5271/280/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Karar — Bozma",
+      "text": "Başkaca yönleri incelenmeyen Konya Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 26.06.2024 tarihli ve 2024/1555 Esas, 2024/1584 Karar sayılı kararının, gerekçe bölümünde açıklandığı üzere Bölge Adliye Mahkemesince verilen bozma kararının hukuka aykırı olması ve duruşma açılarak yeniden yargılama yapıldıktan sonra karar verilmesi yerine yazılı şekilde bozma üzerine verilen hukuka aykırı İlk Derece Mahkemesinin kararına yönelik esastan ret kararı verilmesi nedeniyle, 5271 sayılı Kanun'un 302/2. maddesi gereği, Tebliğname'ye uygun olarak, oy birliğiyle BOZULMASINA, Dava dosyasının, bozma nedenine göre 5271 sayılı Kanun'un 304/2-b maddesi uyarınca takdiren Konya Bölge Adliye Mahkemesi 1. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 11.12.2025 tarihinde karar verildi.",
+      "key_principles": [
+        "Tebliğname görüşüne uygunluk",
+        "Oybirliğiyle bozma",
+        "Bozma sonrası dosyanın BAM'a gönderilmesi"
+      ],
+      "referenced_laws": [
+        "5271/302/2",
+        "5271/304/2-b"
+      ],
+      "referenced_decisions": [
+        "Konya BAM 1. CD. 2024/1555 E. 2024/1584 K."
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 1. Ceza Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Konya BAM 1. CD. 2024/1555 E. 2024/1584 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Karaman Ağır Ceza Mahkemesi 2024/92 E. 2024/201 K.",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/286/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/280/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/280/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/289/1-i",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/302/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/304/2-b",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/152",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/223/2-e",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/82/1-a",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/82/1-b",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/53/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "1136/38/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1.md"
+}

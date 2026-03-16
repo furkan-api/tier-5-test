@@ -1,0 +1,333 @@
+{
+  "entities": {
+    "Karar": "Yargıtay 1. CD., E. 2025/1261 K. 2025/8928 T. 11.12.2025",
+    "EsasNo": "2025/1261",
+    "KararNo": "2025/8928",
+    "KararTarihi": "2025-12-11",
+    "YargiOrgani": "Yargıtay",
+    "Mahkeme": "Yargıtay 1. Ceza Dairesi",
+    "MahkemeTuru": "yargitay_ceza",
+    "Daire": "1. Ceza Dairesi",
+    "YargiKolu": "adli_yargi",
+    "DosyaDurumu": "Temyiz incelemesi tamamlandı, düzeltilerek onandı",
+    "Davaci": null,
+    "Davali": null,
+    "Sanik": "Hükümlüler (üç ayrı suça sürüklenen çocuk)",
+    "KatilanMusteki": null,
+    "CumhuriyetBassavciligi": "Yargıtay Cumhuriyet Başsavcılığı",
+    "TetkikHakimi": null,
+    "IlkDereceKarari": {
+      "mahkeme": "Bakırköy 2. Çocuk Ağır Ceza Mahkemesi",
+      "esas_no": "2013/11",
+      "karar_no": "2015/363",
+      "tarih": "2015-11-19",
+      "sonuc": "Hükümlüler hakkında nitelikli kasten öldürmeye teşebbüs suçundan mahkumiyet (6 yıl 3 ay ve 4 yıl 8 ay 7 gün hapis cezası)"
+    },
+    "IstinafBasvurusu": {
+      "basvuran": "Hükümlüler müdafileri",
+      "mahkeme": "İstanbul Bölge Adliye Mahkemesi 1. Ceza Dairesi",
+      "esas_no": "2023/1481",
+      "karar_no": "2024/1336",
+      "sonuc": "İstinaf başvurularının 5271/280/1-a maddesi uyarınca esastan reddi"
+    },
+    "TemyizBasvurusu": "Hükümlüler müdafileri; mahkumiyet için yeterli delil bulunmadığı, beraat kararı verilmesi gerektiği, suç vasfının hatalı belirlendiği, neticesi sebebiyle ağırlaşmış yaralama olarak nitelendirilmesi gerektiği, lehe hükümlerin uygulanmaması gerekçeleriyle temyiz başvurusunda bulunmuştur.",
+    "KararDuzeltme": null,
+    "BozmaKarari": "İstanbul BAM 1. Ceza Dairesi'nin 04.10.2024 tarihli kararı, 5271/323/1 maddesine aykırı olarak yargılamanın yenilenmesi sonrası hükümlerin onaylanması ile yetinilmeyip ayrıca yeniden hükümler kurulduğu gerekçesiyle bozulmuş; ancak yeniden yargılama gerektirmediğinden 5271/303/1 maddesi uyarınca düzeltilerek onanmıştır.",
+    "KesinHukum": true,
+    "HukumSonucu": "DUZELTILEREK_ONAMA",
+    "KarsiOy": null,
+    "OyBirligi": true,
+    "OyCoklugu": false,
+    "Sorusturma": null,
+    "Kovusturma": null,
+    "Iddianame": null,
+    "IddianameninKabulu": null,
+    "KorumaTedbiri": null,
+    "TutuklamaTedbiri": null,
+    "AdliKontrol": null,
+    "CezaMuhakemesiItiraz": null,
+    "KanunYararinaBozma": null,
+    "HAGB": null,
+    "Mahkumiyet": {
+      "suc": "Nitelikli kasten öldürmeye teşebbüs (5237/82/1-e, 35/2)",
+      "ceza": "Hapis cezası",
+      "sure": "Hükümlülerden ikisi için 6 yıl 3 ay, biri için 4 yıl 8 ay 7 gün"
+    },
+    "Beraat": "Yargılamanın yenilenmesi sonucunda mağdura karşı işlenen suç yönünden 5271/223/2-b uyarınca beraat kararı verilmiş; ancak bu karar istinafta bozulmuş ve önceki mahkumiyet hükümleri onaylanmıştır.",
+    "YargilamaninYenilenmesi": "Hükümlüler müdafilerinin talebi üzerine Bakırköy 2. Çocuk Ağır Ceza Mahkemesi yargılamanın yenilenmesi talebini kabul etmiş; yeniden yapılan yargılama sonunda 16.12.2021 tarihli ek kararla hükümlüler beraat etmiş; ancak Cumhuriyet savcısının istinaf başvurusu üzerine BAM tarafından bu karar bozulmuş ve önceki hükümler onaylanmıştır.",
+    "YaptirimTuru": "Hapis cezası (6 yıl 3 ay ve 4 yıl 8 ay 7 gün)",
+    "IdariIslem": null,
+    "IptalDavasi": null,
+    "TamYargiDavasi": null,
+    "YurutmeninDurdurulmasi": null,
+    "DanistayTemyizIncelemesi": null,
+    "Gorev": null,
+    "Yetki": null,
+    "Husumet": null,
+    "DavaSarti": null,
+    "Mevzuat": [
+      "5271/286/1",
+      "5271/260/1",
+      "5271/291/1",
+      "5271/294/1",
+      "5271/298/1",
+      "5271/299/1",
+      "5271/280/1-e",
+      "5271/280/1-a",
+      "5271/223/2-b",
+      "5271/323/1",
+      "5271/302/2",
+      "5271/303/1",
+      "5271/304/1",
+      "5237/37/1",
+      "5237/82/1-e",
+      "5237/35/2",
+      "5237/29/1",
+      "5237/31/2",
+      "5237/31/3",
+      "5237/62/1",
+      "5237/50",
+      "5237/51",
+      "5271/231",
+      "7079/94"
+    ],
+    "AnaSuc": "Nitelikli kasten öldürmeye teşebbüs",
+    "HukukiKonu": "ceza hukuku"
+  },
+  "chunks": [
+    {
+      "order": 1,
+      "type": "case_summary",
+      "title": "Ön İnceleme ve Davanın Özeti",
+      "text": "Hükümlüler hakkında verilen hükümlerin; karar tarihi itibarıyla 5271 sayılı Ceza Muhakemesi Kanunu'nun (5271 sayılı Kanun) 286/1. maddesi uyarınca temyiz edilebilir olduğu, 260/1. maddesi gereği temyiz edenlerin hükümleri temyize hak ve yetkilerinin bulunduğu, 291/1. maddesi gereği temyiz istemlerinin süresinde olduğu, 294/1. maddesi gereği temyiz dilekçelerinde temyiz sebeplerine yer verildiği, 298/1. maddesi gereği temyiz istemlerinin reddini gerektirir bir durumun bulunmadığı yapılan ön inceleme neticesinde tespit edilmiştir.\n\nHükümlüler ... ve ... müdafilerinin duruşmalı inceleme taleplerinin, 7079 sayılı Kanun'un 94. maddesiyle değişik 5271 sayılı Kanun'un 299/1. maddesi gereği reddine karar verilmekle, gereği düşünüldü.\n\nSUÇ: Nitelikli kasten öldürmeye teşebbüs\nHÜKÜMLER: Önceki hükümlerin onaylanması\nTEBLİĞNAME GÖRÜŞÜ: Temyiz istemlerinin esastan reddi ile hükümlerin onanması",
+      "key_principles": [
+        "Temyiz edilebilirlik şartlarının ön inceleme aşamasında değerlendirilmesi",
+        "Duruşmalı inceleme talebinin reddi yetkisi",
+        "Temyiz süresine uygunluk denetimi"
+      ],
+      "referenced_laws": [
+        "5271/286/1",
+        "5271/260/1",
+        "5271/291/1",
+        "5271/294/1",
+        "5271/298/1",
+        "5271/299/1",
+        "7079/94"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 2,
+      "type": "lower_court_decision",
+      "title": "Hukuki Süreç — İlk Derece ve Sonraki Kararlar",
+      "text": "1. Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 19.11.2015 tarihli ve 2013/11 Esas, 2015/363 Karar sayılı kararı ile;\na. Hükümlüler... ve ... hakkında nitelikli kasten öldürmeye teşebbüs suçundan, 5237 sayılı Türk Ceza Kanunu'nun (5237 sayılı Kanun) 37/1, 82/1-e, 35/2, 29/1, 31/3, 62/1. maddeleri uyarınca ayrı ayrı 6 yıl 3 ay hapis cezası ile cezalandırılmalarına,\nb. Hükümlü ... hakkında nitelikli kasten öldürmeye teşebbüs suçundan, 5237 sayılı Kanun'un 37/1, 82/1-e, 35/2, 29/1, 31/2, 62/1. maddeleri uyarınca 4 yıl 8 ay 7 gün hapis cezası ile cezalandırılmasına,\n2. Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 19.11.2015 tarihli kararının; hükümlü ... ve müdafii, hükümlü ... müdafii ve hükümlü ... müdafiinin temyizi üzerine Yargıtay 1. Ceza Dairesinin, 22.10.2019 tarihli ve 2019/1901 Esas, 2019/4496 Karar sayılı kararı ile onanmasına,\n3. Hükümlüler müdafileri tarafından ibraz edilen yargılamanın yenilenmesi talepli dilekçeler üzerine Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 15.02.2021 ve ...03.2021 tarihli ek kararları ile yargılamanın yenilenmesi isteminin kabule değer olduğuna karar verilmiş ve duruşma açılmak suretiyle yeniden yapılan yargılama sonunda Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 16.12.2021 tarihli ve 2013/11 Esas, 2015/363 Karar sayılı ek kararı ile yargılamanın yenilenmesi talebinin kabulüne, Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 19.11.2015 tarihli ilamı ile hükümlüler hakkında mağdur ...'e karşı verilen hükümlerin iptaline, hükümlülerin üzerine atılı nitelikli kasten öldürmeye teşebbüs suçundan 5271 sayılı Kanun'un 223/2-b maddesi gereğince ayrı ayrı beraatlerine karar verilmiştir.",
+      "key_principles": [
+        "Yargılamanın yenilenmesi kurumu",
+        "Beraat kararı verilebilmesi için gerekli koşullar",
+        "Suça sürüklenen çocuklar hakkında uygulanacak indirim hükümleri",
+        "Haksız tahrik indirimi"
+      ],
+      "referenced_laws": [
+        "5237/37/1",
+        "5237/82/1-e",
+        "5237/35/2",
+        "5237/29/1",
+        "5237/31/2",
+        "5237/31/3",
+        "5237/62/1",
+        "5271/223/2-b"
+      ],
+      "referenced_decisions": [
+        "Yargıtay 1. CD. E. 2019/1901 K. 2019/4496 T. 22.10.2019"
+      ]
+    },
+    {
+      "order": 3,
+      "type": "lower_court_decision",
+      "title": "İstinaf ve Yargılamanın Yenilenmesi Sonrası Kararlar",
+      "text": "4. İstanbul Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 10.10.2022 tarihli ve 2022/887 Esas, 2022/1307 Karar sayılı kararı ile hükümlüler hakkında İlk Derece Mahkemesince verilen hükümlere yönelik Cumhuriyet savcısının (aleyhe) istinaf başvurusu üzerine hükümlerin 5271 sayılı Kanun'un 280/1-e maddesi uyarınca bozulmasına,\n5. Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 07.09.2023 tarihli ve 2022/361 Esas, 2023/399 Karar sayılı kararı ile hükümlüler ..., ... ve ...'ın yeniden yargılanma taleplerinin reddi ile 5271 sayılı Kanun'un 323. maddesi gereğince Bakırköy 2. Çocuk Ağır Ceza Mahkemesinin, 19.11.2015 tarihli ve 2013/11 Esas, 2015/363 Karar sayılı hükmünün onaylanmasına,\na. Hükümlüler ... ve ... hakkında nitelikli kasten öldürmeye teşebbüs suçundan, 5237 sayılı Kanun'un 37/1, 82/1-e, 35/2, 29/1, 31/3, 62/1. maddeleri uyarınca ayrı ayrı 6 yıl 3 ay hapis cezası ile cezalandırılmalarına,\nb. Hükümlü ... hakkında nitelikli kasten öldürmeye teşebbüs suçundan, 5237 sayılı Kanun'un 37/1, 82/1-e, 35/2, 29/1, 31/2, 62/1. maddeleri uyarınca 4 yıl 8 ay 7 gün hapis cezası ile cezalandırılmasına,\n6. İstanbul Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 04.10.2024 tarihli ve 2023/1481 Esas, 2024/1336 Karar sayılı kararı ile hükümlüler hakkında İlk Derece Mahkemesince verilen hükümlere yönelik hükümlüler müdafilerinin istinaf başvurularının 5271 sayılı Kanun'un 280/1-a maddesi uyarınca esastan reddine karar verilmiştir.",
+      "key_principles": [
+        "Yargılamanın yenilenmesi sonrası hüküm onaylama usulü",
+        "İstinaf denetiminin kapsamı",
+        "5271/323. maddesi uyarınca önceki hükmün onaylanması"
+      ],
+      "referenced_laws": [
+        "5271/280/1-e",
+        "5271/280/1-a",
+        "5271/323/1"
+      ],
+      "referenced_decisions": [
+        "İstanbul BAM 1. CD. E. 2022/887 K. 2022/1307 T. 10.10.2022",
+        "İstanbul BAM 1. CD. E. 2023/1481 K. 2024/1336 T. 04.10.2024",
+        "Bakırköy 2. Çocuk Ağır Ceza Mahkemesi E. 2022/361 K. 2023/399 T. 07.09.2023"
+      ]
+    },
+    {
+      "order": 4,
+      "type": "party_claims",
+      "title": "Temyiz Sebepleri",
+      "text": "1. Hükümlü ... müdafiinin temyiz sebepleri özetle; suça sürüklenen çocuğun atılı suçu işlediğine dair mahkumiyetine yeterli delil bulunmadığına, beraatine karar verilmesi gerektiğine, aksi kanaatte suç vasfının hatalı belirlendiğine,\n2. Hükümlü ... müdafiinin temyiz sebepleri özetle; maddi gerçeklerle bağdaşmayan, hatalı ve hukuka aykırı olarak karar verildiğine, suça sürüklenen çocuğun atılı suçu işlediği hususunda her türlü şüpheden uzak, kesin ve inandırıcı delil bulunmadığına, beraatine karar verilmesi gerektiğine, aksi kanaatte suç vasfının neticesi sebebiyle ağırlaşmış yaralama suçu olarak belirlenmesi, suça sürüklenen çocuğun yardım eden olarak alt sınırdan ve tüm lehe hükümler uygulanarak cezalandırılması gerektiğine, suça sürüklenen çocuk hakkında 5237 sayılı Kanun'un 50, 51... sayılı Kanun'un 231. maddelerinin uygulanmamasının hukuka aykırı olduğuna,\n3. Hükümlü ... müdafiinin temyiz sebepleri özetle; suça sürüklenen çocuğun atılı suçu işlemediğine ve beraatine karar verilmesi gerektiğine, delillerin değerlendirilmesinde hataya düşüldüğüne, İlişkindir.",
+      "key_principles": [
+        "Şüpheden sanık yararlanır ilkesi",
+        "Delil yetersizliği halinde beraat",
+        "Suç vasfının doğru belirlenmesi",
+        "Lehe hükümlerin uygulanması zorunluluğu",
+        "Suça sürüklenen çocuklar hakkında özel hükümler"
+      ],
+      "referenced_laws": [
+        "5237/50",
+        "5237/51",
+        "5271/231"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 5,
+      "type": "legal_evaluation",
+      "title": "Gerekçe — Hukuki Değerlendirme",
+      "text": "1. Yargılamanın yenilenmesi talebinin kabulü ile yeniden yapılan duruşma sonucunda, yargılanmanın yenilenmesini gerektirir bir neden bulunmadığının, dava dosyası kapsamına uygun ve gerekçeleri denetime imkân verecek şekilde tutanaklara yansıtılarak mahkemece kabul ve takdir kılınan önceki hükümlerin onaylanmasına dair kararda düzeltme nedeni dışında hukuka aykırılık bulunmadığı anlaşılmıştır.\n2. Yargılamanın yenilenmesine ilişkin talebin kabulüne karar verildikten sonra, yeniden yapılan yargılama sonunda hükümlerde değişiklik yapılmaması halinde hükümlerin onaylanması ile yetinilmesi gerektiği gözetilmeden, infazda tereddüt oluşturacak biçimde ayrıca yeniden hükümler kurulması suretiyle 5271 sayılı Kanun'un 323/1. maddesine aykırı davranılması, hukuka aykırı bulunmuş ise de söz konusu hukuka aykırılık Yargıtay tarafından giderilmiştir.",
+      "key_principles": [
+        "Yargılamanın yenilenmesi sonrası hükmün onaylanması ile yetinilmesi ilkesi",
+        "İnfazda tereddüt oluşturulmaması zorunluluğu",
+        "5271/323/1 uyarınca ayrıca hüküm kurulmaması gerektiği",
+        "Yargıtay'ın re'sen düzeltme yetkisi"
+      ],
+      "referenced_laws": [
+        "5271/323/1",
+        "5271/302/2",
+        "5271/303/1"
+      ],
+      "referenced_decisions": []
+    },
+    {
+      "order": 6,
+      "type": "conclusion_and_judgment",
+      "title": "Karar — Düzelterek Onama",
+      "text": "Gerekçe bölümünün (2) numaralı bendinde açıklandığı üzere hükümlerin onaylanması ile yetinilmesi gerektiği gözetilmeden, infazda tereddüt oluşturacak biçimde ayrıca yeniden hükümler kurulması suretiyle 5271 sayılı Kanun'un 323/1. maddesine aykırı davranılması nedeniyle hükümlüler müdafilerinin temyiz istemleri yerinde görüldüğünden İstanbul Bölge Adliye Mahkemesi 1. Ceza Dairesinin, 04.10.2024 tarihli ve 2023/1481 Esas, 2024/1336 Karar sayılı kararının 5271 sayılı Kanun'un 302/2. maddesi gereği BOZULMASINA, ancak bu husus yeniden yargılamayı gerektirmediğinden aynı Kanun'un 303/1. maddesi gereği karardan (A), (B), (C) paragraflarının çıkartılması, (1) numaralı paragraftan sonra gelmek üzere \"2-Hükümlüler ..., ... ve ... hakkında durdurulmasına karar verilen İNFAZIN AYNEN DEVAMINA,\" şeklindeki paragrafın eklenmesi suretiyle, oy birliğiyle TEMYİZ İSTEMLERİNİN ESASTAN REDDİ İLE HÜKÜMLERİN DÜZELTİLEREK ONANMASINA,\nDava dosyasının, 5271 sayılı Kanun'un 304/1. maddesi uyarınca Bakırköy 2. Çocuk Ağır Ceza Mahkemesine, Yargıtay ilâmının bir örneğinin ise İstanbul Bölge Adliye Mahkemesi 1. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına TEVDİİNE, 11.12.2025 tarihinde karar verildi.",
+      "key_principles": [
+        "Düzelterek onama yetkisi",
+        "Yeniden yargılama gerektirmeyen hukuka aykırılıklarda 303/1 uygulaması",
+        "İnfazın devamına karar verilmesi",
+        "Oybirliği ile karar",
+        "Temyiz isteminin esastan reddi"
+      ],
+      "referenced_laws": [
+        "5271/302/2",
+        "5271/303/1",
+        "5271/304/1",
+        "5271/323/1"
+      ],
+      "referenced_decisions": [
+        "İstanbul BAM 1. CD. E. 2023/1481 K. 2024/1336 T. 04.10.2024"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "edge_type": "DECIDED_BY",
+      "target_ref": "Yargıtay 1. Ceza Dairesi",
+      "target_type": "court",
+      "reference_type": null,
+      "appeal_type": null
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul BAM 1. CD. E. 2023/1481 K. 2024/1336",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "cassation"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "İstanbul BAM 1. CD. E. 2022/887 K. 2022/1307",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "APPEAL_CHAIN",
+      "target_ref": "Bakırköy 2. Çocuk Ağır Ceza Mahkemesi E. 2013/11 K. 2015/363",
+      "target_type": "decision",
+      "reference_type": null,
+      "appeal_type": "appeal"
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/286/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/299/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/323/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/302/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/303/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5271/223/2-b",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/82/1-e",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/35/2",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "5237/29/1",
+      "target_type": "law_article",
+      "reference_type": "law_article",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "REFERENCES",
+      "target_ref": "Yargıtay 1. CD. E. 2019/1901 K. 2019/4496",
+      "target_type": "decision",
+      "reference_type": "precedent_decision",
+      "appeal_type": null
+    },
+    {
+      "edge_type": "LEGAL_BRANCH",
+      "target_ref": "ceza hukuku",
+      "target_type": "legal_branch",
+      "reference_type": null,
+      "appeal_type": null
+    }
+  ],
+  "source_file": "1-ceza-dairesi-e-2025-1261-k-2025-8928-t-11-12-2025-1.md"
+}
