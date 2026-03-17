@@ -1,0 +1,18 @@
+{
+  "run_id": "toy-run-1",
+  "config_label": "toy test run",
+  "results": [
+    {
+      "query_id": "TQ1",
+      "retrieved_docs": ["D04", "D01", "D03", "D10", "D08", "D02", "D09", "D07", "D06", "D05"]
+    },
+    {
+      "query_id": "TQ2",
+      "retrieved_docs": ["D05", "D08", "D06", "D07", "D10", "D01", "D02", "D03", "D04", "D09"]
+    },
+    {
+      "query_id": "TQ3",
+      "retrieved_docs": ["D10", "D08", "D07", "D04", "D06", "D09", "D01", "D03", "D02", "D05"]
+    }
+  ]
+}

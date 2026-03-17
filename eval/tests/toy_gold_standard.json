@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "created_at": "2026-03-12",
+  "queries": [
+    {
+      "query_id": "TQ1",
+      "query_text": "Toy query 1",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [],
+      "relevant_code": [],
+      "topic_tags": [],
+      "relevance_judgments": [
+        {"doc_id": "D01", "relevance": 3, "rationale": "directly on point"},
+        {"doc_id": "D02", "relevance": 2, "rationale": "related"},
+        {"doc_id": "D03", "relevance": 1, "rationale": "tangentially relevant"},
+        {"doc_id": "D04", "relevance": 0, "rationale": "irrelevant"}
+      ],
+      "difficulty": "easy",
+      "source": "llm_generated",
+      "validation_status": "unvalidated"
+    },
+    {
+      "query_id": "TQ2",
+      "query_text": "Toy query 2",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [],
+      "relevant_code": [],
+      "topic_tags": [],
+      "relevance_judgments": [
+        {"doc_id": "D05", "relevance": 3, "rationale": "directly on point"},
+        {"doc_id": "D06", "relevance": 3, "rationale": "directly on point"},
+        {"doc_id": "D07", "relevance": 0, "rationale": "irrelevant"},
+        {"doc_id": "D08", "relevance": 0, "rationale": "irrelevant"}
+      ],
+      "difficulty": "medium",
+      "source": "llm_generated",
+      "validation_status": "unvalidated"
+    },
+    {
+      "query_id": "TQ3",
+      "query_text": "Toy query 3",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [],
+      "relevant_code": [],
+      "topic_tags": [],
+      "relevance_judgments": [
+        {"doc_id": "D01", "relevance": 2, "rationale": "related"},
+        {"doc_id": "D09", "relevance": 1, "rationale": "tangentially relevant"},
+        {"doc_id": "D10", "relevance": 0, "rationale": "irrelevant"}
+      ],
+      "difficulty": "hard",
+      "source": "llm_generated",
+      "validation_status": "unvalidated"
+    }
+  ]
+}

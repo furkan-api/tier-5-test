@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Gold Standard Evaluation Dataset",
+  "description": "Evaluation dataset for Turkish legal jurisprudence retrieval system",
+  "type": "object",
+  "required": ["version", "created_at", "queries"],
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Semver version, e.g. 1.0.0"
+    },
+    "created_at": {
+      "type": "string",
+      "description": "ISO date of creation"
+    },
+    "queries": {
+      "type": "array",
+      "minItems": 50,
+      "items": {
+        "type": "object",
+        "required": ["query_id", "query_text", "query_type", "law_branch", "relevance_judgments", "difficulty"],
+        "properties": {
+          "query_id": {
+            "type": "string",
+            "pattern": "^Q[0-9]{3}$",
+            "description": "Unique query ID: Q001-Q999"
+          },
+          "query_text": {
+            "type": "string",
+            "minLength": 10,
+            "description": "Natural language query in Turkish"
+          },
+          "query_type": {
+            "type": "string",
+            "enum": ["topical", "case_law_search", "statute_application", "procedural", "contradictory_precedent"]
+          },
+          "law_branch": {
+            "type": "string",
+            "enum": ["hukuk", "ceza", "idari", "anayasa", "cross_branch"]
+          },
+          "relevant_court": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Courts expected to have relevant decisions"
+          },
+          "relevance_judgments": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["doc_id", "relevance"],
+              "properties": {
+                "doc_id": {
+                  "type": "string",
+                  "description": "Filename stem from corpus_manifest.json"
+                },
+                "relevance": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 3,
+                  "description": "3=directly on point, 2=related, 1=tangential, 0=irrelevant (hard negative)"
+                },
+                "rationale": {
+                  "type": "string",
+                  "description": "Brief explanation of relevance grade"
+                }
+              }
+            }
+          },
+          "contradictory_pairs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["doc_a", "doc_b", "description"],
+              "properties": {
+                "doc_a": { "type": "string" },
+                "doc_b": { "type": "string" },
+                "description": { "type": "string" }
+              }
+            }
+          },
+          "difficulty": {
+            "type": "string",
+            "enum": ["easy", "medium", "hard"]
+          }
+        }
+      }
+    }
+  }
+}

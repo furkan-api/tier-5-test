@@ -1,0 +1,3054 @@
+{
+  "version": "1.0.0",
+  "created_at": "2026-03-12",
+  "queries": [
+    {
+      "query_id": "Q001",
+      "query_text": "Muris muvazaası nedeniyle tapu iptali ve tescil davası",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 1. HD",
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q002",
+      "query_text": "Miras bırakanın sağlığında mirasçılardan mal kaçırmak amacıyla yaptığı satış işleminin geçersizliği",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 1. HD",
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q003",
+      "query_text": "Babam vefat etmeden önce evi kardeşime sattı ama gerçek bir satış değildi, ne yapabilirim?",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 1. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q004",
+      "query_text": "1974 tarihli muris muvazaası içtihadı birleştirme kararı",
+      "query_type": "case_law_search",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay İBK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q005",
+      "query_text": "Anlaşmalı boşanma davasında tarafların eşit kusurlu kabul edilmesi",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 2. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q006",
+      "query_text": "Boşanma davasında yoksulluk nafakası ve manevi tazminat talepleri",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 2. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q007",
+      "query_text": "Eşlerin evlilik birliğinde karşılıklı kusurlu davranışları ve tazminat hakları",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 2. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q008",
+      "query_text": "Velayet hakkının değiştirilmesi ve çocuğun üstün yararı ilkesi",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 2. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q009",
+      "query_text": "İş sözleşmesinin feshinde kıdem ve ihbar tazminatı hesaplaması",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 9. HD",
+        "Yargıtay 22. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q010",
+      "query_text": "İşe iade davasında işverenin fesih gerekçesinin geçerli neden oluşturup oluşturmadığı",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 9. HD",
+        "Yargıtay 22. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q011",
+      "query_text": "Toplu iş sözleşmesinden kaynaklanan işçilik alacaklarında zamanaşımı süresi",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 9. HD",
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q012",
+      "query_text": "Patronum beni sebepsiz yere çıkardı, 8 yıllık çalışanım, haklarım nedir?",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 9. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q013",
+      "query_text": "İş kazası nedeniyle maddi ve manevi tazminat davası",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 21. HD",
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q014",
+      "query_text": "İş kazasında işverenin kusur oranının belirlenmesi ve bilirkişi raporu",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 21. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q015",
+      "query_text": "Belirsiz alacak davası olarak açılan işçilik alacağı talebi",
+      "query_type": "contradictory_precedent",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay YİBBGK",
+        "Yargıtay 9. HD",
+        "Yargıtay 22. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "e-2016-6-k-2017-5-t-15-12-2017-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_b": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "description": "9. HD ve 22. HD arasında işçilik alacaklarının belirsiz alacak olarak talep edilip edilemeyeceği konusundaki görüş ayrılığı"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q016",
+      "query_text": "HMK m.107 kapsamında belirsiz alacak davasının şartları ve işçilik alacaklarında uygulanması",
+      "query_type": "statute_application",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay YİBBGK",
+        "Yargıtay 9. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "e-2016-6-k-2017-5-t-15-12-2017-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q017",
+      "query_text": "Kasten öldürme suçunda haksız tahrik indirimi uygulaması",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 1. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q018",
+      "query_text": "TCK m.81 kasten öldürme suçunun nitelikli halleri ve ceza tayini",
+      "query_type": "statute_application",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 1. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q019",
+      "query_text": "Adam öldürmeye teşebbüs suçunda meşru müdafaa savunması",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 1. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q020",
+      "query_text": "Neticesi sebebiyle ağırlaşmış yaralama suçu ile kasten öldürmeye teşebbüs ayrımı",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 1. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q021",
+      "query_text": "Kavga sırasında bıçakla yaralama sonucu ölüm meydana gelmesi halinde suç vasfı",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 1. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q022",
+      "query_text": "Uyuşturucu madde ticareti yapma suçunda etkin pişmanlık hükmü",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 10. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q023",
+      "query_text": "Kullanmak amacıyla uyuşturucu madde bulundurma ile ticaret ayrımı kriterleri",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 10. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q024",
+      "query_text": "Silahlı terör örgütüne üye olma suçunda ByLock kullanımının delil değeri",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 3. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "3-ceza-dairesi-e-2023-11086-k-2026-1058-t-15-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q025",
+      "query_text": "Vergi incelemesi sonrası tarhiyat yapıldıktan sonra ihtiyati haciz uygulanabilir mi?",
+      "query_type": "contradictory_precedent",
+      "law_branch": "idari",
+      "relevant_court": [
+        "Danıştay İBK",
+        "Danıştay 3. D.",
+        "VDDK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_b": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "description": "Danıştay 3. ve 9. Daire ile 4. ve 7. Daire arasında tarhiyat sonrası ihtiyati haciz konusundaki görüş ayrılığı — İBK 2021/6 ile çözülmüştür"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q026",
+      "query_text": "6183 sayılı Kanun m.13 uyarınca ihtiyati haciz işleminin şartları",
+      "query_type": "statute_application",
+      "law_branch": "idari",
+      "relevant_court": [
+        "Danıştay İBK",
+        "VDDK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q027",
+      "query_text": "Vergi dairesinin mükellefi hakkında tesis ettiği ödeme emrinin iptali",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "VDDK",
+        "BİM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q028",
+      "query_text": "İndirimli orana tabi KDV iade alacağının hesaplanması ve mahsubu",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "VDDK",
+        "BİM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q029",
+      "query_text": "Konut teslimlerinde KDV oranı ve büro niteliğindeki taşınmazların durumu",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "VDDK",
+        "BİM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "doc_b": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1",
+          "description": "Büro olarak nitelendirilen ancak fiilen konut olarak kullanılan taşınmazlarda KDV oranı uyuşmazlığı"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q030",
+      "query_text": "İdari işlemin iptali davasında yürütmenin durdurulması kararı",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "Danıştay 8. D."
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2022-2365-k-2025-7392-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q031",
+      "query_text": "Kamu görevlisinin disiplin cezasına karşı idari yargıda dava açma süresi",
+      "query_type": "procedural",
+      "law_branch": "idari",
+      "relevant_court": [
+        "Danıştay 8. D.",
+        "İdare Mahkemesi"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q032",
+      "query_text": "Danıştay İdari Dava Daireleri Kurulu ısrar kararlarına ilişkin emsal",
+      "query_type": "case_law_search",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İDDK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q033",
+      "query_text": "Kamulaştırma bedelinin tespiti davasında taşınmazın değerinin belirlenmesi",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 5. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "5-hd-e-2025-832-k-2026-249-t-13-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q034",
+      "query_text": "Acele kamulaştırma kararının hukuka uygunluğu ve denetimi",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 5. HD",
+        "Danıştay 8. D.",
+        "İDDK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q035",
+      "query_text": "Bölge Adliye Mahkemesi istinaf incelemesinde hukuki denetim kapsamı",
+      "query_type": "procedural",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "BAM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q036",
+      "query_text": "Menfi tespit davasında ispat yükü ve BAM kararları",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "BAM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q037",
+      "query_text": "Eser sözleşmesinden kaynaklanan alacak davası ve yüklenicinin sorumluluğu",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Asliye Ticaret Mahkemesi"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "brs-4-asliye-ticaret-mahkemesi-e-2026-317-k-2026-64-t-16-2-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-anadolu-4-asliye-ticaret-mahkemesi-e-2018-1345-k-2019-1263-t-27-12-2019-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istnbl-13-asliye-ticaret-mahkemesi-e-2024-177-k-2026-48-t-4-2-2026-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "istnblandl-12-asliye-ticaret-mahkemesi-e-2025-1196-k-2026-144-t-17-2-2026-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q038",
+      "query_text": "Anayasa Mahkemesi bireysel başvuruda adil yargılanma hakkı ihlali",
+      "query_type": "topical",
+      "law_branch": "anayasa",
+      "relevant_court": [
+        "AYM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "2013-7449",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "k-2016-13036-t-21-2-2019-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q039",
+      "query_text": "Grev hakkının engellenmesi nedeniyle AYM'ye bireysel başvuru",
+      "query_type": "contradictory_precedent",
+      "law_branch": "anayasa",
+      "relevant_court": [
+        "AYM",
+        "Yargıtay 22. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "2013-7449",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "2013-7449",
+          "doc_b": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "description": "Yargıtay 22. HD ile 7. HD arasında THY grev hakkı konusundaki görüş ayrılığı — AYM bireysel başvuruya konu olmuştur"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q040",
+      "query_text": "Kamu görevlisinin doğum sonrası yarım zamanlı çalışma hakkı",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İdare Mahkemesi"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "ankara-7-idare-mahkemesi-e-2017-2777-k-2019-904-t-4-4-2019-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q041",
+      "query_text": "İdare Mahkemesinde iptal davası açma süresinin hesaplanması",
+      "query_type": "procedural",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İdare Mahkemesi",
+        "Danıştay 8. D."
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "ankara-7-idare-mahkemesi-e-2017-2777-k-2019-904-t-4-4-2019-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q042",
+      "query_text": "Banka kartı ile yapılan dolandırıcılık işleminde bankanın sorumluluğu",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Tüketici Mahkemesi"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q043",
+      "query_text": "Bandrolsüz yayın satışı suçu ve ceza yargılaması",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Fikri ve Sınai Haklar Ceza Mahkemesi"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q044",
+      "query_text": "İcra takibine itiraz ve itirazın iptali davası prosedürü",
+      "query_type": "procedural",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "İcra Hukuk Mahkemesi"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q045",
+      "query_text": "Temyiz başvurusunun süresinde yapılıp yapılmadığının değerlendirilmesi",
+      "query_type": "procedural",
+      "law_branch": "cross_branch",
+      "relevant_court": [
+        "Yargıtay",
+        "Danıştay"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1",
+          "relevance": 0,
+          "rationale": "unrelated topic (consumer law)"
+        },
+        {
+          "doc_id": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1",
+          "relevance": 0,
+          "rationale": "unrelated topic (IP crime)"
+        },
+        {
+          "doc_id": "2013-7449",
+          "relevance": 0,
+          "rationale": "unrelated topic (constitutional review)"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q046",
+      "query_text": "Direnme kararı üzerine Hukuk Genel Kuruluna başvuru usulü",
+      "query_type": "procedural",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q047",
+      "query_text": "Muvazaalı borç ikrarı senedinin geçersizliği ve dürüstlük kuralı",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q048",
+      "query_text": "Yargıtay 9. ve 22. Hukuk Dairesi arasında işçilik alacaklarına ilişkin içtihat farklılıkları",
+      "query_type": "contradictory_precedent",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 9. HD",
+        "Yargıtay 22. HD",
+        "YİBBGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "e-2016-6-k-2017-5-t-15-12-2017-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_b": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "description": "9. HD ve 22. HD arasındaki işçilik alacakları konusundaki sistematik içtihat farklılıkları"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q049",
+      "query_text": "Yargıtay bozma kararına karşı ilk derece mahkemesinin direnme kararı vermesi",
+      "query_type": "contradictory_precedent",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "HGK",
+        "Yargıtay"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "hukuk-genel-kurulu-e-2015-983-1",
+          "doc_b": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "description": "HGK kararı ile bozma kararı veren daire arasındaki görüş ayrılığı"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q050",
+      "query_text": "Danıştay Vergi Dava Daireleri Kurulu ısrar kararına konu vergi uyuşmazlıkları",
+      "query_type": "contradictory_precedent",
+      "law_branch": "idari",
+      "relevant_court": [
+        "VDDK",
+        "Danıştay"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "doc_b": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "description": "VDDK ile ilgili Danıştay dairesi arasındaki vergi hukuku yorumu farklılığı"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q051",
+      "query_text": "Miras bırakanın muvazaalı işlemleri hakkında Yargıtay daireleri arasındaki görüş ayrılığı",
+      "query_type": "contradictory_precedent",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay İBK",
+        "Yargıtay 1. HD",
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "doc_b": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "description": "1974 İBK öncesi daireler arası görüş ayrılığı — İBK ile çözülmüştür"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q052",
+      "query_text": "Danıştay daireleri arasında ihtiyati tahakkuk ve ihtiyati haciz konusundaki içtihat birliği",
+      "query_type": "contradictory_precedent",
+      "law_branch": "idari",
+      "relevant_court": [
+        "Danıştay İBK",
+        "Danıştay 3. D.",
+        "VDDK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_b": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "description": "Danıştay 3./9. Daire ile 4./7. Daire arasındaki ihtiyati haciz konusundaki görüş ayrılığı"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q053",
+      "query_text": "Tefecilik suçunun unsurları ve cezası",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "BAM"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q054",
+      "query_text": "TCK kapsamında tehdit ve şantaj suçlarının cezai yaptırımları",
+      "query_type": "statute_application",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 4. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q055",
+      "query_text": "Vergi ziyaı cezası ve usulsüzlük cezasına karşı dava açma hakkı",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "Danıştay 9. D."
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "danistay-9-daire-e-2019-2591-k-2021-4815-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q056",
+      "query_text": "Kira bedelinin tespiti davası ve emsal kira araştırması",
+      "query_type": "topical",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 3. HD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "3-hukuk-dairesi-e-2025-2561-k-2025-5952-t-8-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q057",
+      "query_text": "Hukuk Genel Kurulu kararlarında işçilik alacaklarına ilişkin emsal kararlar",
+      "query_type": "case_law_search",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q058",
+      "query_text": "Bölge İdare Mahkemesi vergi dava dairesi kararlarına karşı temyiz yolu",
+      "query_type": "procedural",
+      "law_branch": "idari",
+      "relevant_court": [
+        "BİM",
+        "VDDK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q059",
+      "query_text": "Birini bıçakladım ama o bana saldırdı, kendimi savundum, cezam ne olur?",
+      "query_type": "topical",
+      "law_branch": "ceza",
+      "relevant_court": [
+        "Yargıtay 1. CD"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q060",
+      "query_text": "Devlet memuruyum, haksız yere soruşturma açıldı, ne yapabilirim?",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İdare Mahkemesi",
+        "Danıştay 8. D."
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "ankara-7-idare-mahkemesi-e-2017-2777-k-2019-904-t-4-4-2019-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q061",
+      "query_text": "İYUK m.7 uyarınca idari dava açma süresinin başlangıcı ve hesaplanması",
+      "query_type": "statute_application",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İdare Mahkemesi",
+        "Danıştay 8. D."
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "ankara-7-idare-mahkemesi-e-2017-2777-k-2019-904-t-4-4-2019-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query_id": "Q062",
+      "query_text": "Rekabet Kurulu kararının iptali davasında yargısal denetim kapsamı",
+      "query_type": "topical",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İdare Mahkemesi",
+        "Danıştay"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "query_id": "Q063",
+      "query_text": "TBK m.49 haksız fiil tazminatında zamanaşımı süresi ve başlangıcı",
+      "query_type": "statute_application",
+      "law_branch": "hukuk",
+      "relevant_court": [
+        "Yargıtay 1. HD",
+        "HGK"
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 3,
+          "rationale": "directly on point"
+        },
+        {
+          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "relevance": 2,
+          "rationale": "related topic/court"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "relevance": 0,
+          "rationale": "same branch, different topic"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "query_id": "Q064",
+      "query_text": "İdari yargıda ısrar kararlarına ilişkin Danıştay daireleri arasındaki görüş farklılıkları",
+      "query_type": "contradictory_precedent",
+      "law_branch": "idari",
+      "relevant_court": [
+        "İDDK",
+        "Danıştay 8. D."
+      ],
+      "relevance_judgments": [
+        {
+          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "relevance": 3,
+          "rationale": "İDDK ısrar kararı"
+        },
+        {
+          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "Danıştay 8. Daire ilgili karar"
+        },
+        {
+          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "relevance": 2,
+          "rationale": "Danıştay 8. Daire ilgili karar"
+        },
+        {
+          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "relevance": 0,
+          "rationale": "unrelated (civil property law)"
+        },
+        {
+          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "relevance": 0,
+          "rationale": "unrelated (criminal law)"
+        },
+        {
+          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1",
+          "relevance": 0,
+          "rationale": "unrelated (consumer law)"
+        }
+      ],
+      "contradictory_pairs": [
+        {
+          "doc_a": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "doc_b": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "description": "İDDK ile Danıştay 8. Daire arasındaki idari işlem yorumu farklılığı"
+        }
+      ],
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Corpus Manifest",
+  "description": "Metadata for all documents in the Turkish legal corpus",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["doc_id", "filename", "court", "daire", "law_branch", "court_level", "esas_no", "karar_no", "decision_date", "topic_keywords", "excluded"],
+    "properties": {
+      "doc_id": { "type": "string", "description": "Filename stem (no .md extension)" },
+      "filename": { "type": "string" },
+      "court": { "type": "string", "description": "Court type: Yargıtay, Danıştay, AYM, BAM, BİM, İlk Derece" },
+      "daire": { "type": "string", "description": "Specific chamber/court name" },
+      "law_branch": { "type": "string", "enum": ["hukuk", "ceza", "idari", "anayasa", ""] },
+      "court_level": { "type": "integer", "minimum": 0, "maximum": 4 },
+      "esas_no": { "type": "string" },
+      "karar_no": { "type": "string" },
+      "decision_date": { "type": "string", "description": "DD.MM.YYYY format" },
+      "topic_keywords": { "type": "array", "items": { "type": "string" } },
+      "excluded": { "type": "boolean" },
+      "exclude_reason": { "type": "string" }
+    }
+  }
+}
