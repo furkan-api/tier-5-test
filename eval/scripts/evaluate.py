@@ -3,7 +3,7 @@
 Evaluation harness for Turkish legal jurisprudence retrieval.
 
 Computes: Recall@K, NDCG@K, MRR, Hit Rate@5.
-Logs results to SQLite. Compares runs by metric deltas and per-query wins/losses.
+Logs results to PostgreSQL. Compares runs by metric deltas and per-query wins/losses.
 
 Usage:
     # Evaluate a run file against gold standard
@@ -19,15 +19,18 @@ Usage:
 import argparse
 import json
 import math
-import sqlite3
+import os
 import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+import psycopg2
+import psycopg2.errors
+
 EVAL_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_GOLD = EVAL_DIR / "gold_standard.json"
-DEFAULT_DB = EVAL_DIR / "results.db"
+DEFAULT_DB_URL = "postgresql://legal_rag:legal_rag_dev@localhost:5432/legal_rag"
 
 METRIC_NAMES = [
     "recall_at_5", "recall_at_10", "recall_at_20",
@@ -153,66 +156,70 @@ def get_git_commit():
 
 
 # ---------------------------------------------------------------------------
-# SQLite storage
+# PostgreSQL storage
 # ---------------------------------------------------------------------------
 
-def init_db(db_path):
-    conn = sqlite3.connect(db_path)
-    conn.execute("""
+def init_db(db_url):
+    conn = psycopg2.connect(db_url)
+    conn.autocommit = True
+    cur = conn.cursor()
+    cur.execute("""
         CREATE TABLE IF NOT EXISTS runs (
-            run_id       TEXT PRIMARY KEY,
-            timestamp    TEXT NOT NULL,
-            config_label TEXT NOT NULL DEFAULT '',
-            git_commit   TEXT NOT NULL DEFAULT 'unknown',
-            recall_at_5  REAL NOT NULL,
-            recall_at_10 REAL NOT NULL,
-            recall_at_20 REAL NOT NULL,
-            ndcg_at_5    REAL NOT NULL,
-            ndcg_at_10   REAL NOT NULL,
-            mrr          REAL NOT NULL,
-            hit_rate_at_5 REAL NOT NULL
+            run_id        TEXT PRIMARY KEY,
+            timestamp     TIMESTAMPTZ NOT NULL,
+            config_label  TEXT NOT NULL DEFAULT '',
+            git_commit    TEXT NOT NULL DEFAULT 'unknown',
+            recall_at_5   DOUBLE PRECISION NOT NULL,
+            recall_at_10  DOUBLE PRECISION NOT NULL,
+            recall_at_20  DOUBLE PRECISION NOT NULL,
+            ndcg_at_5     DOUBLE PRECISION NOT NULL,
+            ndcg_at_10    DOUBLE PRECISION NOT NULL,
+            mrr           DOUBLE PRECISION NOT NULL,
+            hit_rate_at_5 DOUBLE PRECISION NOT NULL
         )
     """)
-    conn.execute("""
+    cur.execute("""
         CREATE TABLE IF NOT EXISTS query_metrics (
-            run_id       TEXT NOT NULL,
-            query_id     TEXT NOT NULL,
-            recall_at_5  REAL NOT NULL,
-            recall_at_10 REAL NOT NULL,
-            recall_at_20 REAL NOT NULL,
-            ndcg_at_5    REAL NOT NULL,
-            ndcg_at_10   REAL NOT NULL,
-            mrr          REAL NOT NULL,
-            hit_rate_at_5 REAL NOT NULL,
+            run_id        TEXT NOT NULL,
+            query_id      TEXT NOT NULL,
+            recall_at_5   DOUBLE PRECISION NOT NULL,
+            recall_at_10  DOUBLE PRECISION NOT NULL,
+            recall_at_20  DOUBLE PRECISION NOT NULL,
+            ndcg_at_5     DOUBLE PRECISION NOT NULL,
+            ndcg_at_10    DOUBLE PRECISION NOT NULL,
+            mrr           DOUBLE PRECISION NOT NULL,
+            hit_rate_at_5 DOUBLE PRECISION NOT NULL,
             PRIMARY KEY (run_id, query_id),
             FOREIGN KEY (run_id) REFERENCES runs(run_id)
         )
     """)
-    conn.commit()
+    conn.autocommit = False
     return conn
 
 
 def log_run(conn, run_id, config_label, git_commit, aggregate, per_query):
     ts = datetime.now(timezone.utc).isoformat()
+    cur = conn.cursor()
     try:
-        conn.execute(
+        cur.execute(
             "INSERT INTO runs (run_id, timestamp, config_label, git_commit, "
             "recall_at_5, recall_at_10, recall_at_20, ndcg_at_5, ndcg_at_10, mrr, hit_rate_at_5) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
             (run_id, ts, config_label, git_commit,
              aggregate["recall_at_5"], aggregate["recall_at_10"], aggregate["recall_at_20"],
              aggregate["ndcg_at_5"], aggregate["ndcg_at_10"],
              aggregate["mrr"], aggregate["hit_rate_at_5"]),
         )
-    except sqlite3.IntegrityError:
+    except psycopg2.errors.UniqueViolation:
+        conn.rollback()
         print(f"ERROR: run_id '{run_id}' already exists. Use a different run_id or delete the old one.", file=sys.stderr)
         sys.exit(1)
 
     for pq in per_query:
-        conn.execute(
+        cur.execute(
             "INSERT INTO query_metrics (run_id, query_id, "
             "recall_at_5, recall_at_10, recall_at_20, ndcg_at_5, ndcg_at_10, mrr, hit_rate_at_5) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)",
             (run_id, pq["query_id"],
              pq["recall_at_5"], pq["recall_at_10"], pq["recall_at_20"],
              pq["ndcg_at_5"], pq["ndcg_at_10"],
@@ -222,10 +229,12 @@ def log_run(conn, run_id, config_label, git_commit, aggregate, per_query):
 
 
 def load_run_aggregate(conn, run_id):
-    row = conn.execute(
+    cur = conn.cursor()
+    cur.execute(
         "SELECT recall_at_5, recall_at_10, recall_at_20, ndcg_at_5, ndcg_at_10, mrr, hit_rate_at_5 "
-        "FROM runs WHERE run_id = ?", (run_id,)
-    ).fetchone()
+        "FROM runs WHERE run_id = %s", (run_id,)
+    )
+    row = cur.fetchone()
     if row is None:
         print(f"ERROR: run_id '{run_id}' not found in database.", file=sys.stderr)
         sys.exit(1)
@@ -233,10 +242,12 @@ def load_run_aggregate(conn, run_id):
 
 
 def load_run_per_query(conn, run_id):
-    rows = conn.execute(
+    cur = conn.cursor()
+    cur.execute(
         "SELECT query_id, recall_at_5, recall_at_10, recall_at_20, ndcg_at_5, ndcg_at_10, mrr, hit_rate_at_5 "
-        "FROM query_metrics WHERE run_id = ? ORDER BY query_id", (run_id,)
-    ).fetchall()
+        "FROM query_metrics WHERE run_id = %s ORDER BY query_id", (run_id,)
+    )
+    rows = cur.fetchall()
     result = []
     for row in rows:
         d = {"query_id": row[0]}
@@ -331,13 +342,13 @@ def main():
     parser.add_argument("--run-id", action="append", default=[], help="Run ID(s). Two = compare mode.")
     parser.add_argument("--per-query", action="store_true", help="Show per-query breakdown")
     parser.add_argument("--gold-standard", type=Path, default=DEFAULT_GOLD, help="Path to gold standard JSON")
-    parser.add_argument("--db", type=Path, default=DEFAULT_DB, help="Path to SQLite results database")
+    parser.add_argument("--db-url", default=os.environ.get("DATABASE_URL", DEFAULT_DB_URL), help="PostgreSQL connection URL")
     parser.add_argument("--config-label", type=str, default="", help="Configuration label for this run")
     args = parser.parse_args()
 
     # Mode 1: Compare two stored runs
     if len(args.run_id) == 2 and not args.run_file:
-        conn = init_db(args.db)
+        conn = init_db(args.db_url)
         agg_a = load_run_aggregate(conn, args.run_id[0])
         agg_b = load_run_aggregate(conn, args.run_id[1])
         print_comparison_table(agg_a, agg_b, args.run_id[0], args.run_id[1])
@@ -349,7 +360,7 @@ def main():
 
     # Mode 2: Show per-query breakdown for a stored run
     if len(args.run_id) == 1 and not args.run_file and args.per_query:
-        conn = init_db(args.db)
+        conn = init_db(args.db_url)
         agg = load_run_aggregate(conn, args.run_id[0])
         print_metrics_table(agg, args.run_id[0])
         pq = load_run_per_query(conn, args.run_id[0])
@@ -371,11 +382,11 @@ def main():
         if args.per_query:
             print_per_query_breakdown(per_query)
 
-        conn = init_db(args.db)
+        conn = init_db(args.db_url)
         git_commit = run_data.get("git_commit", get_git_commit())
         log_run(conn, run_id, config_label, git_commit, aggregate, per_query)
         conn.close()
-        print(f"  Logged as run_id='{run_id}' to {args.db}")
+        print(f"  Logged as run_id='{run_id}' to PostgreSQL")
         return
 
     parser.print_help()

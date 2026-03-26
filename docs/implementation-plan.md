@@ -46,7 +46,7 @@
   - **NDCG@5, NDCG@10** (using the graded relevance scores)
   - **MRR** (mean reciprocal rank)
   - **Hit Rate@5** (at least one relevant doc in top 5)
-- Results are logged to a persistent store (CSV or SQLite) with: run ID, timestamp, configuration label, git commit hash
+- Results are logged to PostgreSQL with: run ID, timestamp, configuration label, git commit hash
 - A comparison command: given two run IDs, show metric deltas and per-query wins/losses
 
 **Acceptance criteria:**
@@ -86,16 +86,16 @@
   - **Court level:** 1=İlk Derece, 2=BAM/BİM, 3=Yargıtay Daire/Danıştay Daire, 4=Yargıtay HGK/CGK/Danıştay İDDGK/VDDGK
   - **Note:** `decision_type` (bozma/onama/direnme) and `decision_authority` (daire_karari/genel_kurul_karari/ibk) require reading document content — these are extracted in Tier 5, not here.
 - Assigns a unique document ID (deterministic hash of Esas No + Karar No + Court, so re-ingestion is idempotent)
-- Stores metadata in SQLite (or PostgreSQL for production path)
+- Stores metadata in PostgreSQL
 
 **Acceptance criteria:**
-- [ ] All documents in the corpus are ingested with no failures (zero documents dropped — or dropped docs are logged with reason)
-- [ ] Each document has metadata fields: `doc_id`, `esas_no`, `karar_no`, `court`, `daire`, `court_level`, `law_branch`, `decision_date`, `file_path`
-- [ ] Esas No and Karar No are extracted correctly for >= 95% of documents (spot-check 30)
-- [ ] `SELECT count(*) FROM documents` returns the expected corpus size
-- [ ] Court level distribution query produces sensible numbers (most docs should be level 3 Yargıtay/Danıştay daire decisions)
-- [ ] Metadata extraction accuracy: spot-check 30 random documents — all have correct Esas No, Karar No, court, daire, and date
-- [ ] Re-running ingestion on the same directory produces no duplicates (idempotent)
+- [x] All documents in the corpus are ingested with no failures (zero documents dropped — or dropped docs are logged with reason)
+- [x] Each document has metadata fields: `doc_id`, `esas_no`, `karar_no`, `court`, `daire`, `court_level`, `law_branch`, `decision_date`, `file_path`
+- [x] Esas No and Karar No are extracted correctly for >= 95% of documents (spot-check 30)
+- [x] `SELECT count(*) FROM documents` returns the expected corpus size
+- [x] Court level distribution query produces sensible numbers (most docs should be level 3 Yargıtay/Danıştay daire decisions)
+- [x] Metadata extraction accuracy: spot-check 30 random documents — all have correct Esas No, Karar No, court, daire, and date
+- [x] Re-running ingestion on the same directory produces no duplicates (idempotent)
 
 ---
 
@@ -107,10 +107,10 @@
 - Store chunks in a table alongside documents
 
 **Acceptance criteria:**
-- [ ] Every chunk has a valid `doc_id` back-pointer
-- [ ] No chunk exceeds the configured token limit (verify with tokenizer count on 100 random chunks)
-- [ ] Reconstructing all chunks for a given `doc_id` in order reproduces the original document text (minus overlap dedup)
-- [ ] Total chunk count and average chunks-per-document are logged
+- [x] Every chunk has a valid `doc_id` back-pointer
+- [x] No chunk exceeds the configured token limit (verify with tokenizer count on 100 random chunks)
+- [x] Reconstructing all chunks for a given `doc_id` in order reproduces the original document text (minus overlap dedup)
+- [x] Total chunk count and average chunks-per-document are logged
 
 ---
 
@@ -138,14 +138,20 @@
 - Store embeddings in a vector database (Qdrant, Chroma, or FAISS)
 - Implement cosine similarity search: query → top-k chunks
 
+> **Implementation note (completed):** Milvus chosen as vector DB (not Qdrant/FAISS) — the dataset is scaling to 50M+ docs (~750M vectors) next month. Milvus's distributed architecture, S3-native storage, and GPU-accelerated indexing are needed at this scale. IVF_FLAT index used for current eval corpus; will switch to IVF_PQ or HNSW at production scale. Project restructured into FastAPI microservice (`app/`) ahead of Epic 4.2 — see `app/core/`, `app/ingestion/`, `app/retrieval/`, `app/api/`.
+>
+> **Baseline (text-embedding-3-small, Milvus, max-score aggregation):** Recall@5=0.38, Recall@10=0.55, Recall@20=0.74, NDCG@10=0.45, MRR=0.55, Hit Rate@5=0.78
+
 **Acceptance criteria:**
-- [ ] Vector DB contains exactly `num_chunks` embeddings (counts match)
-- [ ] A sample query returns chunks from multiple different documents (not all from one doc)
-- [ ] Retrieval returns results for all 50 evaluation queries (no empty results)
+- [x] Vector DB contains exactly `num_chunks` embeddings (counts match) — 1143/1143
+- [x] A sample query returns chunks from multiple different documents — 3 unique docs in top 10
+- [x] Retrieval returns results for all 50 evaluation queries (no empty results) — 64/64 queries returned results
 
 ---
 
 ### Epic 3.2 — Document-Level Score Aggregation
+
+> **Implementation note (completed):** All three aggregation strategies implemented in `app/retrieval/aggregation.py`. R&D comparison completed 2026-03-26. **Winner: max_score** — best Recall@10 (0.545) and NDCG@10 (0.445). CombSUM worst across all metrics. Mean trades Recall@10 for MRR. Full results in `docs/experiment-results.md`.
 
 **What to build:**
 - Given top-k retrieved chunks (top 100), aggregate scores to the document level
@@ -161,10 +167,10 @@
 - Also measure: average number of unique documents in top-100 chunks (diversity metric)
 
 **Acceptance criteria:**
-- [ ] The system returns `doc_id`s (not `chunk_id`s) in the final ranked list
-- [ ] Aggregation comparison table shows all three strategies with Recall@5, Recall@10, NDCG@10
-- [ ] The chosen strategy is documented with rationale
-- [ ] Given a result, the system can return the full document file path for each
+- [x] The system returns `doc_id`s (not `chunk_id`s) in the final ranked list
+- [x] Aggregation comparison table shows all three strategies with Recall@5, Recall@10, NDCG@10 — see `docs/experiment-results.md`
+- [x] The chosen strategy is documented with rationale — max_score wins on primary metrics
+- [x] Given a result, the system can return the full document file path for each — via PG metadata join in API
 
 ---
 
@@ -250,6 +256,8 @@
 
 ### Epic 4.2 — REST API
 
+> **Implementation note (completed early):** Built as part of FastAPI restructure during Tier 3. The API is at `app/api/routes/search.py`, served by `app/main.py`. Response includes full document metadata (court, daire, esas_no, karar_no, decision_date, score).
+
 **What to build:**
 - `POST /search` with body `{"query": "...", "top_k": 10}`
 - Response: `[{"doc_id": "...", "score": 0.85, "court": "...", "date": "...", "case_number": "...", "file_path": "..."}]`
@@ -257,10 +265,10 @@
 - OpenAPI/Swagger docs auto-generated
 
 **Acceptance criteria:**
-- [ ] API returns valid JSON for all 50 evaluation queries
-- [ ] API response time is under 2 seconds (p95) for a single query
-- [ ] Invalid requests return proper error responses (400), not 500s
-- [ ] Swagger docs are accessible at `/docs`
+- [x] API returns valid JSON for all 50 evaluation queries
+- [ ] API response time is under 2 seconds (p95) for a single query — not yet benchmarked at scale
+- [x] Invalid requests return proper error responses (400), not 500s — FastAPI/Pydantic validation
+- [x] Swagger docs are accessible at `/docs`
 
 ---
 

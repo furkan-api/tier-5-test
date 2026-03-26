@@ -17,7 +17,7 @@ GOLD_STANDARD = EVAL_DIR / "gold_standard.json"
 CORPUS_MANIFEST = EVAL_DIR / "corpus_manifest.json"
 
 
-def load_json(path: Path) -> dict | list:
+def load_json(path: Path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 

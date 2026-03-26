@@ -14,7 +14,8 @@ The evaluation harness (`scripts/evaluate.py`) takes a retrieval system's ranked
 | `gold_standard.json` | 64 queries with relevance judgments |
 | `corpus_manifest.json` | Parsed metadata for each corpus document |
 | `schema/` | JSON Schemas for validating both data files |
-| `scripts/evaluate.py` | Evaluation harness: compute metrics, log to SQLite, compare runs |
+| `scripts/evaluate.py` | Evaluation harness: compute metrics, log to PostgreSQL, compare runs |
+| `scripts/run_retrieval.py` | Batch retrieval runner: queries all gold standard queries through the pipeline → run file JSON |
 | `scripts/validate_schema.py` | Validates gold_standard.json against acceptance criteria |
 | `scripts/test_evaluate.py` | Tests for evaluate.py with hand-computed expected values |
 | `scripts/build_corpus_manifest.py` | Parses `corpus/*.md` headers → corpus_manifest.json |
@@ -59,7 +60,7 @@ Each entry in `corpus_manifest.json` describes one document in `corpus/`:
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `doc_id` | string | Filename without `.md` extension — used as the key in relevance_judgments |
+| `doc_id` | string | 16-char hex hash of `court\|daire\|esas_no` — deterministic identifier for each case |
 | `filename` | string | Full filename including `.md` |
 | `court` | string | Top-level court: Yargıtay, Danıştay, BAM, BİM, İlk Derece, AYM |
 | `daire` | string | Specific chamber, e.g. "1. Hukuk Dairesi", "Hukuk Genel Kurulu" |
@@ -99,12 +100,12 @@ A retrieval run is a JSON file mapping each query to a ranked list of document I
 
 "Relevant" = relevance grade >= 1 for binary metrics (Recall, MRR, Hit Rate). NDCG uses the full graded scale.
 
-Results are logged to SQLite (`eval/results.db`, gitignored) with run ID, timestamp, config label, and git commit hash.
+Results are logged to PostgreSQL (same `legal_rag` database as the ingestion pipeline) with run ID, timestamp, config label, and git commit hash.
 
 ### Usage
 
 ```bash
-# Evaluate a run file (results logged to SQLite)
+# Evaluate a run file (results logged to PostgreSQL)
 python3 eval/scripts/evaluate.py --run-file path/to/run.json
 
 # Compare two logged runs

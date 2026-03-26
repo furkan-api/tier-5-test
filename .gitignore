@@ -1,40 +1,7 @@
-# Environment & secrets — NEVER commit .env (contains API keys)
-.env
-
-# Python
+.DS_Store
 __pycache__/
 *.pyc
-*.pyo
-*.egg-info/
-dist/
-build/
-
-# Virtual environments
-venv/
-.venv/
-
-# graph_data/ — sadece örnek veri, ana kaynak output/ klasörüdür
-# Embedding cache'i yeniden üretilebildiği için ignore
-graph_data/embeddings/
-# graph_data/ klasörünün kendisini tamamen ignore etmek için aşağıdaki satırı aç:
-# graph_data/
-
-# Raw / unprocessed input data (large, not needed for graph build)
-data/raw/
-
-# IDE & OS
 .idea/
-.vscode/
-*.DS_Store
-
-# Temp & logs
-*.log
-*.bak
-*.tmp
-*.swp
-
-# ── output/ is TRACKED — contains pre-embedded data for build_from_cache.sh ──
-# output/nodes/        → node JSONL files
-# output/edges/        → edge JSONL + edge_rules.json
-# output/embeddings/   → cache.npz + cache_meta.json  (~5 MB for Gemini 3072-dim)
-# output/ontology.json → build config
+data/
+.env
+*.egg-info/

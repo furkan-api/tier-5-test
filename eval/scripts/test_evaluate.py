@@ -9,7 +9,6 @@ by hand and verified independently. See the plan for derivations.
 import json
 import os
 import sys
-import tempfile
 from pathlib import Path
 
 # Allow importing evaluate.py from the same directory
@@ -26,6 +25,11 @@ from evaluate import (
 
 TESTS_DIR = Path(__file__).resolve().parent.parent / "tests"
 TOL = 1e-4
+
+DB_URL = os.environ.get(
+    "DATABASE_URL",
+    "postgresql://legal_rag:legal_rag_dev@localhost:5432/legal_rag",
+)
 
 
 def close(a, b):
@@ -125,26 +129,35 @@ def test_edge_cases():
 
 
 # ---------------------------------------------------------------------------
-# Test 4: SQLite round-trip and comparison
+# Test 4: PostgreSQL round-trip and comparison
 # ---------------------------------------------------------------------------
 
-def test_sqlite_roundtrip():
+def test_pg_roundtrip():
     gold = load_json(TESTS_DIR / "toy_gold_standard.json")
     run = load_json(TESTS_DIR / "toy_run.json")
     aggregate, per_query = compute_run_metrics(run, gold)
 
-    with tempfile.NamedTemporaryFile(suffix=".db", delete=False) as f:
-        db_path = Path(f.name)
+    conn = init_db(DB_URL)
+
+    # Use unique test run_ids to avoid conflicts
+    test_run_1 = "__test_run_1__"
+    test_run_2 = "__test_run_2__"
 
     try:
-        conn = init_db(db_path)
-        log_run(conn, "test-run-1", "test label", "abc123", aggregate, per_query)
+        # Clean up any leftover test data
+        cur = conn.cursor()
+        for rid in (test_run_1, test_run_2):
+            cur.execute("DELETE FROM query_metrics WHERE run_id = %s", (rid,))
+            cur.execute("DELETE FROM runs WHERE run_id = %s", (rid,))
+        conn.commit()
 
-        loaded_agg = load_run_aggregate(conn, "test-run-1")
+        log_run(conn, test_run_1, "test label", "abc123", aggregate, per_query)
+
+        loaded_agg = load_run_aggregate(conn, test_run_1)
         for m in aggregate:
             assert_close(loaded_agg[m], aggregate[m], f"roundtrip {m}")
 
-        loaded_pq = load_run_per_query(conn, "test-run-1")
+        loaded_pq = load_run_per_query(conn, test_run_1)
         assert len(loaded_pq) == len(per_query), "roundtrip per-query count mismatch"
 
         # Log a second run (perfect ordering) and verify comparison loads both
@@ -157,16 +170,21 @@ def test_sqlite_roundtrip():
             ],
         }
         agg2, pq2 = compute_run_metrics(perfect_run, gold)
-        log_run(conn, "test-run-2", "perfect", "abc123", agg2, pq2)
+        log_run(conn, test_run_2, "perfect", "abc123", agg2, pq2)
 
-        loaded_agg2 = load_run_aggregate(conn, "test-run-2")
+        loaded_agg2 = load_run_aggregate(conn, test_run_2)
         assert_close(loaded_agg2["ndcg_at_5"], 1.0, "perfect run ndcg@5")
         assert_close(loaded_agg2["mrr"], 1.0, "perfect run mrr")
 
-        conn.close()
-        print("  PASS: SQLite round-trip and comparison data correct")
+        print("  PASS: PostgreSQL round-trip and comparison data correct")
     finally:
-        os.unlink(db_path)
+        # Clean up test data
+        cur = conn.cursor()
+        for rid in (test_run_1, test_run_2):
+            cur.execute("DELETE FROM query_metrics WHERE run_id = %s", (rid,))
+            cur.execute("DELETE FROM runs WHERE run_id = %s", (rid,))
+        conn.commit()
+        conn.close()
 
 
 # ---------------------------------------------------------------------------
@@ -178,5 +196,5 @@ if __name__ == "__main__":
     test_per_query_metrics()
     test_aggregate_metrics()
     test_edge_cases()
-    test_sqlite_roundtrip()
+    test_pg_roundtrip()
     print("\nALL TESTS PASSED\n")
