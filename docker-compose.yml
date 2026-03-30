@@ -70,7 +70,7 @@ services:
 
   tei:
     image: ghcr.io/huggingface/text-embeddings-inference:latest
-    command: --model-id BAAI/bge-m3 --port 8080 --max-client-batch-size 100
+    command: --model-id ${TEI_MODEL_ID:-BAAI/bge-m3} --port 8080 --max-client-batch-size 100
     ports:
       - "8080:8080"
     volumes:

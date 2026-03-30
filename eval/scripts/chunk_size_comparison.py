@@ -56,6 +56,17 @@ log = logging.getLogger(__name__)
 
 ENCODING = tiktoken.get_encoding("cl100k_base")
 GOLD_STANDARD = PROJECT_ROOT / "eval" / "gold_standard.json"
+CORPUS_MANIFEST = PROJECT_ROOT / "eval" / "corpus_manifest.json"
+
+
+def load_doc_id_map() -> dict[str, str]:
+    """Load corpus manifest and build hash_doc_id → filename_doc_id map."""
+    with open(CORPUS_MANIFEST, encoding="utf-8") as f:
+        manifest = json.load(f)
+    return {
+        entry["doc_id"]: entry["filename"].removesuffix(".md")
+        for entry in manifest
+    }
 CHUNK_SIZES = [256, 512, 1024]
 DEFAULT_OVERLAP = 50
 
@@ -181,6 +192,7 @@ def run_retrieval(
     model_name: str,
     collection: Collection,
     gold_queries: list[dict],
+    doc_id_map: dict[str, str],
     top_k: int = 20,
     top_k_chunks: int = 100,
 ) -> list[dict]:
@@ -202,9 +214,10 @@ def run_retrieval(
             for h in hits[0]
         ]
         ranked = max_score(chunk_results, top_k=top_k)
+        translated = [doc_id_map.get(doc_id, doc_id) for doc_id, _ in ranked]
         results.append({
             "query_id": query["query_id"],
-            "retrieved_docs": [doc_id for doc_id, _ in ranked],
+            "retrieved_docs": translated,
         })
         if (i + 1) % 20 == 0:
             log.info("Queries: %d/%d", i + 1, len(gold_queries))
@@ -312,9 +325,10 @@ def main():
 
     # 3. Retrieval
     gold_data = eval_harness.load_json(GOLD_STANDARD)
+    doc_id_map = load_doc_id_map()
     log.info("Running retrieval on %d queries...", len(gold_data["queries"]))
     results = run_retrieval(
-        client, model_name, collection, gold_data["queries"],
+        client, model_name, collection, gold_data["queries"], doc_id_map,
         top_k=args.top_k, top_k_chunks=args.top_k_chunks,
     )
 

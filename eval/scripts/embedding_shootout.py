@@ -4,32 +4,33 @@ Embedding model shootout (Epic 3.3).
 
 Compares 4 embedding models on Recall@10, NDCG@10, and query latency (p50, p95).
 Each model gets its own Milvus collection. Results logged to PG via evaluate.py.
+All models run locally via HuggingFace Text Embeddings Inference (TEI).
 
 Models:
-  1. text-embedding-3-small  (OpenAI, 1536d, multilingual incl. Turkish)
-  2. text-embedding-3-large  (OpenAI, 3072d, multilingual incl. Turkish)
-  3. multilingual-e5-large   (open-source, 1024d, strong Turkish)
-  4. bge-base-en-v1.5        (open-source, 768d, English-only cross-lingual baseline)
+  1. BAAI/bge-m3                        (1024d, multilingual incl. Turkish — current default)
+  2. intfloat/multilingual-e5-large-instruct (1024d, MTEB #7, instruction-tuned)
+  3. BAAI/bge-base-en-v1.5              (768d, English-only cross-lingual baseline)
+  4. intfloat/e5-large-v2                (1024d, English-centric, high quality)
 
 Usage:
-    # Run a single OpenAI model (needs OPENAI_API_KEY)
-    python eval/scripts/embedding_shootout.py --model text-embedding-3-small
+    # Run a single model (TEI must be serving this model)
+    uv run python eval/scripts/embedding_shootout.py --model bge-m3
 
-    # Run a local model (TEI must be serving this model at --base-url)
-    python eval/scripts/embedding_shootout.py --model multilingual-e5-large \\
-        --base-url http://localhost:8080
+    # Run all models sequentially (restarts TEI for each model via docker compose)
+    uv run python eval/scripts/embedding_shootout.py --all
 
     # Turkish synonym similarity check
-    python eval/scripts/embedding_shootout.py --model text-embedding-3-small --synonym-check
+    uv run python eval/scripts/embedding_shootout.py --model bge-m3 --synonym-check
 
     # Compare all previously stored shootout runs
-    python eval/scripts/embedding_shootout.py --compare
+    uv run python eval/scripts/embedding_shootout.py --compare
 """
 
 import argparse
 import json
 import logging
 import os
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -62,37 +63,47 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
 
 GOLD_STANDARD = PROJECT_ROOT / "eval" / "gold_standard.json"
+CORPUS_MANIFEST = PROJECT_ROOT / "eval" / "corpus_manifest.json"
+
+
+def load_doc_id_map() -> dict[str, str]:
+    """Load corpus manifest and build hash_doc_id → filename_doc_id map.
+
+    PG/Milvus uses hash-based doc_ids, gold standard uses filename-based IDs.
+    """
+    with open(CORPUS_MANIFEST, encoding="utf-8") as f:
+        manifest = json.load(f)
+    return {
+        entry["doc_id"]: entry["filename"].removesuffix(".md")
+        for entry in manifest
+    }
 
 # ── Model configurations ────────────────────────────────────────────────────
 
 MODEL_CONFIGS = {
-    "text-embedding-3-small": {
-        "dimension": 1536,
-        "default_base_url": "https://api.openai.com/v1",
-        "needs_api_key": True,
-        "short_name": "te3s",
-        "description": "OpenAI text-embedding-3-small (1536d, multilingual incl. Turkish)",
-    },
-    "text-embedding-3-large": {
-        "dimension": 3072,
-        "default_base_url": "https://api.openai.com/v1",
-        "needs_api_key": True,
-        "short_name": "te3l",
-        "description": "OpenAI text-embedding-3-large (3072d, multilingual incl. Turkish)",
-    },
-    "multilingual-e5-large": {
+    "bge-m3": {
         "dimension": 1024,
-        "default_base_url": None,
-        "needs_api_key": False,
-        "short_name": "me5l",
-        "description": "intfloat/multilingual-e5-large (1024d, strong Turkish support)",
+        "tei_model_id": "BAAI/bge-m3",
+        "short_name": "bgem3",
+        "description": "BAAI/bge-m3 (1024d, multilingual incl. Turkish — current default)",
+    },
+    "multilingual-e5-large-instruct": {
+        "dimension": 1024,
+        "tei_model_id": "intfloat/multilingual-e5-large-instruct",
+        "short_name": "me5li",
+        "description": "intfloat/multilingual-e5-large-instruct (1024d, MTEB #7, instruction-tuned)",
     },
     "bge-base-en-v1.5": {
         "dimension": 768,
-        "default_base_url": None,
-        "needs_api_key": False,
+        "tei_model_id": "BAAI/bge-base-en-v1.5",
         "short_name": "bge15",
         "description": "BAAI/bge-base-en-v1.5 (768d, English-only cross-lingual baseline)",
+    },
+    "e5-large-v2": {
+        "dimension": 1024,
+        "tei_model_id": "intfloat/e5-large-v2",
+        "short_name": "e5l2",
+        "description": "intfloat/e5-large-v2 (1024d, English-centric, high quality)",
     },
 }
 
@@ -126,12 +137,56 @@ def cosine_similarity(a: list[float], b: list[float]) -> float:
     return float(np.dot(a_arr, b_arr) / (np.linalg.norm(a_arr) * np.linalg.norm(b_arr)))
 
 
-def resolve_base_url(args_base_url: str | None, config: dict) -> str:
-    if args_base_url:
-        return args_base_url
-    if config["default_base_url"]:
-        return config["default_base_url"]
-    return get_settings().embedding_base_url
+def resolve_base_url(args_base_url: str | None) -> str:
+    return args_base_url or get_settings().embedding_base_url
+
+
+def restart_tei(model_id: str, compose_dir: Path, timeout: int = 180) -> None:
+    """Restart the TEI docker service with a different model."""
+    log.info("Restarting TEI with model: %s", model_id)
+    # Stop TEI
+    subprocess.run(
+        ["docker", "compose", "stop", "tei"],
+        cwd=compose_dir, check=True, capture_output=True,
+    )
+    subprocess.run(
+        ["docker", "compose", "rm", "-f", "tei"],
+        cwd=compose_dir, check=True, capture_output=True,
+    )
+    # Start with new model via env override
+    env = os.environ.copy()
+    env["TEI_MODEL_ID"] = model_id
+    subprocess.run(
+        ["docker", "compose", "up", "-d", "tei"],
+        cwd=compose_dir, check=True, capture_output=True, env=env,
+    )
+    # Wait for health
+    base_url = get_settings().embedding_base_url
+    health_url = base_url.rstrip("/") + "/health"
+    log.info("Waiting for TEI to be ready at %s ...", health_url)
+    import urllib.request
+    for i in range(timeout):
+        try:
+            req = urllib.request.urlopen(health_url, timeout=2)
+            if req.status == 200:
+                log.info("TEI ready after %ds", i)
+                return
+        except Exception:
+            pass
+        time.sleep(1)
+    raise TimeoutError(f"TEI did not become ready after {timeout}s")
+
+
+def get_current_tei_model() -> str | None:
+    """Query TEI /info to get the currently loaded model."""
+    base_url = get_settings().embedding_base_url
+    try:
+        import urllib.request, json as _json
+        req = urllib.request.urlopen(base_url.rstrip("/") + "/info", timeout=5)
+        data = _json.loads(req.read())
+        return data.get("model_id")
+    except Exception:
+        return None
 
 
 # ── Corpus indexing ──────────────────────────────────────────────────────────
@@ -229,10 +284,14 @@ def run_retrieval_with_latency(
     model_name: str,
     collection: Collection,
     gold_queries: list[dict],
+    doc_id_map: dict[str, str],
     top_k: int = 20,
     top_k_chunks: int = 100,
 ) -> tuple[list[dict], list[float]]:
-    """Run retrieval for all queries. Returns (results, latencies_ms)."""
+    """Run retrieval for all queries. Returns (results, latencies_ms).
+
+    doc_id_map translates hash-based PG doc_ids to filename-based gold standard IDs.
+    """
     results = []
     latencies: list[float] = []
 
@@ -253,10 +312,13 @@ def run_retrieval_with_latency(
         ]
         ranked = max_score(chunk_results, top_k=top_k)
 
+        # Translate hash doc_ids to filename-based IDs used by gold standard
+        translated = [doc_id_map.get(doc_id, doc_id) for doc_id, _ in ranked]
+
         latencies.append((time.time() - t0) * 1000)
         results.append({
             "query_id": query["query_id"],
-            "retrieved_docs": [doc_id for doc_id, _ in ranked],
+            "retrieved_docs": translated,
         })
 
         if (i + 1) % 20 == 0:
@@ -359,61 +421,40 @@ def compare_runs() -> None:
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Embedding model shootout (Epic 3.3)")
-    parser.add_argument("--model", choices=list(MODEL_CONFIGS.keys()), help="Model to test")
-    parser.add_argument("--base-url", help="Override embedding API base URL (for local TEI models)")
-    parser.add_argument("--batch-size", type=int, default=100, help="Embedding batch size")
-    parser.add_argument("--top-k", type=int, default=20, help="Top-K documents")
-    parser.add_argument("--top-k-chunks", type=int, default=100, help="Top-K chunks from vector search")
-    parser.add_argument("--recreate", action="store_true", help="Drop and recreate Milvus collection")
-    parser.add_argument("--synonym-check", action="store_true", help="Run Turkish synonym check only")
-    parser.add_argument("--compare", action="store_true", help="Compare all stored shootout runs")
-    args = parser.parse_args()
-
-    if args.compare:
-        compare_runs()
-        return
-
-    if not args.model:
-        parser.error("--model is required (or use --compare)")
-
-    config = MODEL_CONFIGS[args.model]
-    base_url = resolve_base_url(args.base_url, config)
-    api_key = os.environ.get("OPENAI_API_KEY", "local")
-
-    if config["needs_api_key"] and api_key == "local":
-        log.error("OPENAI_API_KEY required for %s", args.model)
-        sys.exit(1)
-
-    client = OpenAI(api_key=api_key, base_url=base_url)
-    log.info("Model: %s — %s", args.model, config["description"])
-    log.info("Base URL: %s", base_url)
-
-    if args.synonym_check:
-        turkish_synonym_check(client, args.model)
-        return
+def run_single_model(
+    model_name: str,
+    config: dict,
+    base_url: str,
+    batch_size: int = 100,
+    top_k: int = 20,
+    top_k_chunks: int = 100,
+    recreate: bool = False,
+) -> dict:
+    """Run the full shootout pipeline for one model. Returns aggregate metrics."""
+    client = OpenAI(api_key="local", base_url=base_url)
+    model_id = config["tei_model_id"]
 
     connect_milvus()
 
     # 1. Embed corpus
     collection = embed_corpus(
-        client, args.model, config, batch_size=args.batch_size, recreate=args.recreate
+        client, model_id, config, batch_size=batch_size, recreate=recreate
     )
 
     # 2. Retrieval + latency
     gold_data = eval_harness.load_json(GOLD_STANDARD)
+    doc_id_map = load_doc_id_map()
     log.info("Running retrieval on %d queries...", len(gold_data["queries"]))
     results, latencies = run_retrieval_with_latency(
-        client, args.model, collection, gold_data["queries"],
-        top_k=args.top_k, top_k_chunks=args.top_k_chunks,
+        client, model_id, collection, gold_data["queries"], doc_id_map,
+        top_k=top_k, top_k_chunks=top_k_chunks,
     )
 
     # 3. Metrics
     run_id = f"shootout-{config['short_name']}"
     config_label = (
-        f"{args.model}, {config['dimension']}d, 512-token chunks, "
-        f"max agg, top-{args.top_k_chunks}->top-{args.top_k}"
+        f"{model_id}, {config['dimension']}d, 512-token chunks, "
+        f"max agg, top-{top_k_chunks}->top-{top_k}"
     )
     run_data = {"run_id": run_id, "config_label": config_label, "results": results}
     aggregate, per_query = eval_harness.compute_run_metrics(run_data, gold_data)
@@ -453,11 +494,65 @@ def main():
 
     # 7. Print summary
     print(f"\n{'=' * 60}")
-    print(f"RESULTS: {args.model} ({config['short_name']})")
+    print(f"RESULTS: {model_name} ({config['short_name']})")
     print(f"{'=' * 60}")
     eval_harness.print_metrics_table(aggregate, run_id)
     print(f"  Latency:  p50={p50:.0f}ms  p95={p95:.0f}ms  avg={avg_lat:.0f}ms")
     print(f"  Run file: {run_file}")
+
+    return {**aggregate, "p50": p50, "p95": p95, "avg_latency": avg_lat}
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Embedding model shootout (Epic 3.3)")
+    parser.add_argument("--model", choices=list(MODEL_CONFIGS.keys()), help="Model to test")
+    parser.add_argument("--all", action="store_true", help="Run all models (restarts TEI for each)")
+    parser.add_argument("--base-url", help="Override embedding API base URL")
+    parser.add_argument("--batch-size", type=int, default=100, help="Embedding batch size")
+    parser.add_argument("--top-k", type=int, default=20, help="Top-K documents")
+    parser.add_argument("--top-k-chunks", type=int, default=100, help="Top-K chunks from vector search")
+    parser.add_argument("--recreate", action="store_true", help="Drop and recreate Milvus collection")
+    parser.add_argument("--synonym-check", action="store_true", help="Run Turkish synonym check only")
+    parser.add_argument("--compare", action="store_true", help="Compare all stored shootout runs")
+    args = parser.parse_args()
+
+    if args.compare:
+        compare_runs()
+        return
+
+    base_url = resolve_base_url(args.base_url)
+
+    if args.synonym_check:
+        if not args.model:
+            parser.error("--model required with --synonym-check")
+        config = MODEL_CONFIGS[args.model]
+        client = OpenAI(api_key="local", base_url=base_url)
+        turkish_synonym_check(client, config["tei_model_id"])
+        return
+
+    if args.all:
+        models_to_run = list(MODEL_CONFIGS.items())
+    elif args.model:
+        models_to_run = [(args.model, MODEL_CONFIGS[args.model])]
+    else:
+        parser.error("--model or --all is required (or use --compare)")
+
+    for model_name, config in models_to_run:
+        # Check if TEI is already serving this model
+        current = get_current_tei_model()
+        needed = config["tei_model_id"]
+        if current != needed:
+            restart_tei(needed, PROJECT_ROOT)
+
+        run_single_model(
+            model_name, config, base_url,
+            batch_size=args.batch_size, top_k=args.top_k,
+            top_k_chunks=args.top_k_chunks, recreate=args.recreate,
+        )
+
+    if args.all:
+        print("\n\nAll models complete. Final comparison:\n")
+        compare_runs()
 
 
 if __name__ == "__main__":
