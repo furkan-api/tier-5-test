@@ -68,20 +68,20 @@ docs/
 # Start PostgreSQL + Milvus
 docker compose up -d
 
-# Install
-pip install -e .
+# Install (uses uv — https://docs.astral.sh/uv/)
+uv sync
 
 # Ingest corpus → PostgreSQL
-python3 -m app.ingestion.ingest
+uv run python -m app.ingestion.ingest
 
 # Chunk documents
-python3 -m app.ingestion.chunk
+uv run python -m app.ingestion.chunk
 
 # Embed chunks → Milvus (requires OPENAI_API_KEY)
-python3 -m app.ingestion.embed
+uv run python -m app.ingestion.embed
 
 # Start API
-python3 -m uvicorn app.main:app
+uv run uvicorn app.main:app
 
 # Search
 curl -X POST localhost:8000/search \
@@ -89,11 +89,11 @@ curl -X POST localhost:8000/search \
   -d '{"query": "iş kazası nedeniyle tazminat", "top_k": 10}'
 
 # Run evaluation
-python3 eval/scripts/run_retrieval.py --run-id my-run
-python3 eval/scripts/evaluate.py --run-file data/runs/my-run.json --run-id my-run
+uv run python eval/scripts/run_retrieval.py --run-id my-run
+uv run python eval/scripts/evaluate.py --run-file data/runs/my-run.json --run-id my-run
 
 # Compare two runs
-python3 eval/scripts/evaluate.py --run-id run-a --run-id run-b
+uv run python eval/scripts/evaluate.py --run-id run-a --run-id run-b
 ```
 
 ## Infrastructure
@@ -108,6 +108,7 @@ python3 eval/scripts/evaluate.py --run-id run-a --run-id run-b
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.10+
+- [uv](https://docs.astral.sh/uv/) (package manager)
 - Docker (for PostgreSQL + Milvus)
 - `OPENAI_API_KEY` environment variable (or `.env` file)

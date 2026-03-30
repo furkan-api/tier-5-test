@@ -2,7 +2,7 @@
 name = "legal-rag"
 version = "0.1.0"
 description = "Turkish legal jurisprudence retrieval system"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "psycopg2-binary>=2.9",
     "tiktoken>=0.7",
@@ -12,11 +12,13 @@ dependencies = [
     "fastapi>=0.115",
     "uvicorn>=0.30",
     "pydantic-settings>=2.0",
+    "neo4j>=5.18",
+    "networkx>=3.3",
 ]
 
 [build-system]
-requires = ["setuptools>=68.0"]
-build-backend = "setuptools.build_meta"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
-[tool.setuptools.packages.find]
-include = ["app*"]
+[tool.hatch.build.targets.wheel]
+packages = ["app"]

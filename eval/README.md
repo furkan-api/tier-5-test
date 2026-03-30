@@ -106,23 +106,23 @@ Results are logged to PostgreSQL (same `legal_rag` database as the ingestion pip
 
 ```bash
 # Evaluate a run file (results logged to PostgreSQL)
-python3 eval/scripts/evaluate.py --run-file path/to/run.json
+uv run python eval/scripts/evaluate.py --run-file path/to/run.json
 
 # Compare two logged runs
-python3 eval/scripts/evaluate.py --run-id baseline-v1 --run-id experiment-v2
+uv run python eval/scripts/evaluate.py --run-id baseline-v1 --run-id experiment-v2
 
 # Per-query breakdown for a stored run
-python3 eval/scripts/evaluate.py --run-id baseline-v1 --per-query
+uv run python eval/scripts/evaluate.py --run-id baseline-v1 --per-query
 ```
 
 ### Tests & Validation
 
 ```bash
 # Run evaluation harness tests (toy example with hand-computed expected values)
-python3 eval/scripts/test_evaluate.py
+uv run python eval/scripts/test_evaluate.py
 
 # Validate gold_standard.json structure and acceptance criteria
-python3 eval/scripts/validate_schema.py
+uv run python eval/scripts/validate_schema.py
 ```
 
 ---
@@ -198,7 +198,7 @@ Eğer bir puan yanlış olsaydı — örneğin 22. HD kararının aslında doğr
 ### Değişiklikten sonra doğrulama
 
 ```bash
-python3 eval/scripts/validate_schema.py
+uv run python eval/scripts/validate_schema.py
 ```
 
 `ALL CHECKS PASSED ✓` çıktısını görmelisiniz. Görmüyorsanız JSON formatında bir hata var demektir — en yaygın sorun virgül eksikliğidir. Belgelerin tam metinleri: `corpus/<doc_id>.md`
