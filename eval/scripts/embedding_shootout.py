@@ -105,6 +105,12 @@ MODEL_CONFIGS = {
         "short_name": "e5l2",
         "description": "intfloat/e5-large-v2 (1024d, English-centric, high quality)",
     },
+    "mursit-base": {
+        "dimension": 768,
+        "tei_model_id": "newmindai/Mursit-Base-TR-Retrieval",
+        "short_name": "mursit",
+        "description": "newmindai/Mursit-Base-TR-Retrieval (768d, Turkish legal-domain, ModernBERT)",
+    },
 }
 
 # Turkish legal synonym/related pairs for embedding quality check.
