@@ -34,13 +34,14 @@ Consolidated results from all R&D experiments. Each section corresponds to a dec
 **Eval corpus:** 67 queries, 95 documents
 **All models run locally via HuggingFace TEI on NVIDIA A100.**
 
-| Model | Type | Dim | Recall@5 | Recall@10 | Recall@20 | NDCG@5 | NDCG@10 | MRR | Hit@5 | p50 (ms) | p95 (ms) |
-|-------|------|-----|----------|-----------|-----------|--------|---------|-----|-------|----------|----------|
-| **multilingual-e5-large-instruct** | multilingual | 1024 | **0.540** | **0.660** | **0.752** | **0.668** | **0.698** | **0.798** | **0.836** | 12 | 16 |
-| BAAI/bge-m3 | multilingual | 1024 | 0.497 | 0.649 | 0.719 | 0.641 | 0.683 | 0.780 | 0.806 | 11 | 12 |
-| Mursit-Base-TR-Retrieval | TR legal | 768 | 0.410 | 0.516 | 0.620 | 0.481 | 0.523 | 0.651 | 0.761 | 10 | 12 |
-| intfloat/e5-large-v2 | English | 1024 | 0.361 | 0.444 | 0.531 | 0.449 | 0.472 | 0.596 | 0.687 | 11 | 13 |
-| BAAI/bge-base-en-v1.5 | English | 768 | 0.244 | 0.293 | 0.396 | 0.299 | 0.321 | 0.443 | 0.552 | 9 | 11 |
+| Model | Type | Params | Dim | Recall@5 | Recall@10 | Recall@20 | NDCG@5 | NDCG@10 | MRR | Hit@5 | p50 (ms) | p95 (ms) |
+|-------|------|--------|-----|----------|-----------|-----------|--------|---------|-----|-------|----------|----------|
+| **multilingual-e5-large-instruct** | multilingual | 560M | 1024 | **0.540** | **0.660** | 0.752 | **0.668** | **0.698** | **0.798** | **0.836** | 12 | 16 |
+| Mursit-Large-TR-Retrieval | TR legal | 403M | 1024 | 0.496 | 0.659 | **0.766** | 0.633 | 0.674 | 0.782 | 0.821 | 11 | 13 |
+| BAAI/bge-m3 | multilingual | 568M | 1024 | 0.497 | 0.649 | 0.719 | 0.641 | 0.683 | 0.780 | 0.806 | 11 | 12 |
+| Mursit-Base-TR-Retrieval | TR legal | 155M | 768 | 0.410 | 0.516 | 0.620 | 0.481 | 0.523 | 0.651 | 0.761 | 10 | 12 |
+| intfloat/e5-large-v2 | English | 335M | 1024 | 0.361 | 0.444 | 0.531 | 0.449 | 0.472 | 0.596 | 0.687 | 11 | 13 |
+| BAAI/bge-base-en-v1.5 | English | 109M | 768 | 0.244 | 0.293 | 0.396 | 0.299 | 0.321 | 0.443 | 0.552 | 9 | 11 |
 
 **Decision: intfloat/multilingual-e5-large-instruct**
 
@@ -51,18 +52,22 @@ Consolidated results from all R&D experiments. Each section corresponds to a dec
 - bge-base-en-v1.5 worst by far — cross-lingual transfer alone is insufficient for agglutinative Turkish legal text.
 - Latency comparable across all models (~10-16ms on A100).
 
-**Mursit-Base-TR-Retrieval note:** Despite being pre-trained on 10.3M Yargitay sequences and 151K Danistay sequences, it underperforms the larger multilingual models on our corpus. Likely reasons: (1) smaller model (155M vs 560M params), (2) 768d vs 1024d embeddings, (3) retrieval fine-tuning was done on MS MARCO-TR (general domain), not specifically on legal retrieval pairs. The Turkish legal pre-training helps relative to its size — it beats English-only models despite fewer parameters — but the instruction-tuned multilingual models benefit from scale and broader contrastive training data.
+**Mursit analysis:** Both Mursit models (newmindai, Jan 2026) are pre-trained from scratch on 112.7B Turkish tokens including 10.3M Yargitay and 151K Danistay sequences.
+- **Mursit-Large** (403M, 1024d) is very competitive: Recall@10 within 0.001 of the winner, and **best Recall@20** (0.766) — it finds more relevant docs when given room.
+- **Mursit-Base** (155M, 768d) underperforms due to scale disadvantage.
+- Both use MS MARCO-TR for retrieval fine-tuning (general domain), not legal-specific retrieval pairs. Legal-specific fine-tuning could close the remaining gap.
 
 **Turkish synonym check:**
 
 | Model | Avg related sim | Avg unrelated sim | Separation | Verdict |
 |-------|----------------|-------------------|------------|---------|
-| multilingual-e5-large-instruct | 0.924 | 0.887 | 0.037 | WEAK |
+| Mursit-Large-TR-Retrieval | 0.469 | 0.170 | **0.299** | GOOD |
 | Mursit-Base-TR-Retrieval | 0.543 | 0.465 | 0.078 | GOOD |
+| multilingual-e5-large-instruct | 0.924 | 0.887 | 0.037 | WEAK |
 
-Mursit has better **separation** between related and unrelated Turkish legal terms (0.078 vs 0.037) despite lower absolute similarities. This is typical of domain-tuned models: they spread the embedding space more discriminatively for domain terms. The multilingual models compress everything into a narrow high-similarity band, which works for retrieval (ranking is relative) but means the absolute cosine values are less informative.
+Mursit-Large has dramatically better **separation** (0.299 vs 0.037) — it genuinely distinguishes related from unrelated Turkish legal concepts. The multilingual models compress everything into a narrow high-similarity band, which works for retrieval (ranking is relative) but means the absolute cosine values are less discriminative. Mursit's legal domain knowledge is real; at Recall@20 it already surpasses the winner. At scale (50M+ docs), this discriminability may matter more.
 
-**Run IDs:** `shootout-me5li`, `shootout-bgem3`, `shootout-mursit`, `shootout-e5l2`, `shootout-bge15` (logged in PostgreSQL)
+**Run IDs:** `shootout-me5li`, `shootout-bgem3`, `shootout-mursit`, `shootout-mursitl`, `shootout-e5l2`, `shootout-bge15` (logged in PostgreSQL)
 
 ---
 
@@ -130,6 +135,7 @@ Every configuration tested, in chronological order. This is the single source of
 | shootout-e5l2 | 2026-03-30 | e5-large-v2, 512tok, max agg | 0.361 | 0.444 | 0.531 | 0.449 | 0.472 | 0.596 | 0.687 |
 | shootout-bge15 | 2026-03-30 | bge-base-en-v1.5, 512tok, max agg | 0.244 | 0.293 | 0.396 | 0.299 | 0.321 | 0.443 | 0.552 |
 | shootout-mursit | 2026-03-30 | Mursit-Base-TR-Retrieval, 512tok, max agg | 0.410 | 0.516 | 0.620 | 0.481 | 0.523 | 0.651 | 0.761 |
+| shootout-mursitl | 2026-03-30 | Mursit-Large-TR-Retrieval, 512tok, max agg | 0.496 | 0.659 | 0.766 | 0.633 | 0.674 | 0.782 | 0.821 |
 | chunksize-256 | 2026-03-30 | me5li, 256tok, max agg | 0.517 | 0.654 | 0.734 | 0.666 | 0.702 | 0.804 | 0.836 |
 | chunksize-512 | 2026-03-30 | me5li, 512tok, max agg | 0.540 | 0.660 | 0.752 | 0.668 | 0.698 | 0.798 | 0.836 |
 | chunksize-1024 | 2026-03-30 | me5li, 1024tok, max agg | 0.565 | 0.662 | 0.758 | 0.685 | 0.711 | 0.805 | 0.821 |

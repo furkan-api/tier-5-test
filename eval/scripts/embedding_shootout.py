@@ -111,6 +111,12 @@ MODEL_CONFIGS = {
         "short_name": "mursit",
         "description": "newmindai/Mursit-Base-TR-Retrieval (768d, Turkish legal-domain, ModernBERT)",
     },
+    "mursit-large": {
+        "dimension": 1024,
+        "tei_model_id": "newmindai/Mursit-Large-TR-Retrieval",
+        "short_name": "mursitl",
+        "description": "newmindai/Mursit-Large-TR-Retrieval (1024d, Turkish legal-domain, ModernBERT-large)",
+    },
 }
 
 # Turkish legal synonym/related pairs for embedding quality check.
