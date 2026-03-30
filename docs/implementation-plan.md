@@ -6,6 +6,8 @@
 >
 > **Jurisdiction:** Turkish law (Türk Hukuku). All Turkish-specific details reference `docs/turkish-law-reference.md` — the companion cheat sheet for LLM agents working with Turkish legal data. That file covers the full court hierarchy, citation formats, appeal flows, and code transition dates.
 
+> **System role:** This is a context assembly backend for a downstream query-making LLM. The system's job is to retrieve and assemble the right constellation of documents so the LLM can reason correctly about Turkish legal questions. The critical failure mode is **missing documents that change the legal answer** — e.g., returning 5 semantically similar ONAMA decisions when a BOZMA exists that reverses the key precedent. All design decisions prioritise retrieval completeness over presentation.
+
 ---
 
 ## Tier 1 — Measurement Infrastructure
@@ -209,15 +211,244 @@
 
 **These numbers are the anchor. Every subsequent tier must demonstrably improve on them.**
 
+> **Implementation note — Embedding infrastructure (completed):** BAAI/bge-m3 (1024 dimensions) running locally via Hugging Face Text Embeddings Inference (TEI) Docker service on NVIDIA A100 GPU. OpenAI-compatible API at `localhost:8080`. Provider-agnostic: `app/retrieval/embeddings.py` uses the OpenAI client library pointed at `settings.embedding_base_url`, so switching to OpenAI or any other OpenAI-compatible provider requires only config changes (`embedding_base_url`, `embedding_model`, `embedding_dimension`). Docker service defined as `tei` in `docker-compose.yml`.
+
 ---
 
-## Tier 4 — Hybrid Retrieval & Usable API
+## Tier 4 — Graph Foundation
+
+**Goal:** Make the citation network the second retrieval pillar alongside dense search. After this tier, retrieval is graph-augmented: dense similarity combined with citation authority via HippoRAG-style Personalized PageRank. The graph also establishes the court hierarchy as a queryable structure that subsequent tiers (legal authority scoring, conflict detection) will rely on.
+
+---
+
+### Epic 4.1 — Citation Extraction & PostgreSQL Storage
+
+**What to build:**
+- Regex-based citation extractor covering all Turkish citation formats:
+  1. Full Yargıtay named: `Yargıtay N. Hukuk Dairesi'nin ... YYYY/NNNN Esas ... YYYY/NNNN Karar`
+  2. Abbreviated: `Y.N.HD`, `Yargıtay N. HD` + esas/karar numbers
+  3. HGK/CGK: `Hukuk Genel Kurulu`, `HGK`, `CGK` + esas/karar
+  4. Danıştay: `Danıştay N. Dairesi`, `D.N.D.` + esas/karar
+  5. İBK: `İçtihadı Birleştirme` + year/number
+  6. BAM/BİM: city + `Bölge Adliye Mahkemesi N. Dairesi`
+- Resolver: match extracted esas_no against `documents` table — confidence 1.0 = exact esas+karar+court match, 0.9 = esas+court, 0.7 = esas-only (single unambiguous match)
+- Self-citations dropped silently
+- Store resolved citations in new `citations` table; unresolvable citations logged in `unresolved_citations` (not dropped — preserved for future corpus growth)
+- Add `pagerank_score FLOAT`, `citation_in_degree INTEGER`, `citation_out_degree INTEGER` columns to `documents`
+- Offline pipeline: `app/ingestion/build_graph.py` (fourth step after embed.py), with `--no-neo4j` and `--skip-pagerank` flags
+
+**New PG schema:**
+```sql
+citations(citation_id TEXT PK,            -- sha256[:16] of source_doc_id|esas_no|karar_no
+          source_doc_id TEXT FK, target_doc_id TEXT FK NULLABLE,
+          esas_no TEXT, karar_no TEXT, snippet TEXT, confidence FLOAT, extracted_at TIMESTAMPTZ)
+unresolved_citations(id SERIAL PK, source_doc_id TEXT FK, raw_text TEXT, esas_no TEXT, reason TEXT, extracted_at TIMESTAMPTZ)
+```
+
+**Acceptance criteria:**
+- [ ] `citations` table populated; extraction summary logged (total extracted / resolved / unresolved / resolution rate %)
+- [ ] Resolution rate baseline established and logged — expected to be low on 95-doc corpus since most cited cases are outside it
+- [ ] `unresolved_citations` contains all non-matchable raw citations with reason field
+- [ ] Re-running `build_graph.py` is idempotent (upserts, no duplicates)
+
+---
+
+### Epic 4.2 — Neo4j Graph Build & Court Hierarchy
+
+**What to build:**
+- Neo4j 5.18-community added to docker-compose with APOC plugin
+- `app/core/graphdb.py`: driver singleton + `get_session()` context manager (mirrors `vectordb.py` pattern)
+- `app/graph/schema.py`: Cypher DDL string constants (constraints + indexes)
+- `app/graph/neo4j_sync.py`:
+  - `init_schema(session)`: run all DDL constraints and indexes
+  - `upsert_court_hierarchy(session)`: static Court nodes + `APPEALS_TO` edges (Yargıtay=level3, BAM/BİM=level2, İlk Derece=level1; reference `docs/turkish-law-reference.md` Section 1 for full list)
+  - `upsert_documents(session, conn)`: batch MERGE Document nodes from PG + `IN_COURT` edges (batch 500/tx)
+  - `upsert_citations(session, resolved)`: batch MERGE `CITES` relationships from PG citations
+  - `get_citation_neighbors(session, doc_ids, hops=1)`: **bidirectional** traversal (both "cites" and "is cited by") — in appellate law, being cited is as important as citing
+- `app/ingestion/build_graph.py` calls all of the above as the fourth pipeline step
+
+**Acceptance criteria:**
+- [ ] Neo4j browser at :7474 shows Court nodes and APPEALS_TO hierarchy edges
+- [ ] All 95 Document nodes exist in Neo4j with IN_COURT edges
+- [ ] CITES relationship count matches PG `citations` table count
+- [ ] `--no-neo4j` flag works (PG-only mode — skips Neo4j sync, populates PG only)
+
+---
+
+### Epic 4.3 — Graph-Augmented Retrieval (PPR Re-scoring)
+
+**What to build:**
+- `app/graph/metrics.py`:
+  - `compute_pagerank_networkx(conn, alpha=0.85)`: reads citations from PG, builds `nx.DiGraph` including isolated nodes (no edges), runs networkx PageRank, normalizes scores to [0,1]
+  - Write-back: `documents.pagerank_score` in PG and `Document.pagerank_score` in Neo4j
+  - `compute_in_out_degree(conn)` + write-back to PG `documents` columns
+- `app/retrieval/graph_retrieval.py`:
+  - `compute_ppr_scores(seed_ids, all_candidates, conn, alpha=0.85)`: fetches citation subgraph for candidates from PG, builds nx.DiGraph, seeds PPR to query's dense results, normalizes; graceful degradation to uniform seed scores if no citation edges exist
+  - `expand_and_rescore(dense_results, session, conn, top_k_seeds=5, hops=1, graph_weight=0.3)`: top-5 dense docs as seeds → get citation neighbors → PPR across seeds + neighbors → `final = (1 − w) × dense_norm + w × ppr` → sort by final score
+  - `expand_and_rescore_fallback(dense_results)`: pure passthrough, for when Neo4j is unavailable
+- `SearchRequest.use_graph: bool = True` (default on; allows A/B testing with `use_graph=false`)
+- `DocumentResult` adds: `graph_score: float`, `is_graph_expansion: bool`, `pagerank_score: float`
+- Search route: calls `expand_and_rescore()` wrapped in try/except — any exception logs WARNING and falls through to `expand_and_rescore_fallback()`. **The API must remain available when Neo4j is down.**
+
+**Why PPR over raw in-degree:** PPR personalizes authority flow to the query's specific seed documents. A document cited by 50 irrelevant cases scores lower than one cited by 3 cases that are seeds — this is the core HippoRAG insight applied to legal citation networks.
+
+**Acceptance criteria:**
+- [ ] `POST /search` with `use_graph=true` returns results end-to-end
+- [ ] `use_graph=false` returns pure dense results (unchanged from Tier 3)
+- [ ] Recall@10 (graph) >= Recall@10 (dense) − 0.02 — no regression allowed; graph gains are expected at production corpus scale
+- [ ] Kill Neo4j → API continues serving via dense fallback (no 500 errors)
+- [ ] `documents.pagerank_score` > 0 for at least one document that has a resolved citation
+
+---
+
+### Tier 4 — Exit Criteria
+
+| Criterion | Target | How to Verify |
+|-----------|--------|---------------|
+| Graph retrieval active | `use_graph=true` returns results | Manual API call |
+| Citation resolution baseline | Rate logged, unresolved tracked | `build_graph.py` summary output |
+| No Recall regression | Recall@10(graph) ≥ Recall@10(dense) − 0.02 | Eval harness: `graph-v1` vs `agg-max` run |
+| Graceful degradation | API serves results when Neo4j is down | Kill Neo4j, run 5 queries |
+| PageRank populated | Non-zero score for ≥ 1 doc with resolved citation | SQL: `SELECT COUNT(*) FROM documents WHERE pagerank_score > 0` |
+| Court hierarchy in Neo4j | Court nodes + APPEALS_TO edges visible | Neo4j browser :7474 |
+
+> **Implementation note — PPR scope:** Epic 4.3 (PPR Re-scoring) implements the HippoRAG-style Personalized PageRank that was originally planned as "Tier 13 — Advanced Graph RAG". That tier has been retired as its core content is complete. See `app/retrieval/graph_retrieval.py` for the implementation.
+
+---
+
+## Tier 5 — Legal Intelligence Extraction
+
+**Goal:** Extract the legal metadata that transforms the citation graph from a flat network into a semantically rich legal knowledge graph. Without this tier, the retrieval system returns semantically similar documents that may all say the same thing. With it, the system knows which decisions were reversed (BOZMA), which citations are supportive vs. adversarial, and can assemble context that includes both sides of a legal question for the downstream LLM.
+
+**Why now (right after Tier 4):** Disposition and treatment data are prerequisites for retrieval diversification. Delaying them means all subsequent tiers operate on a flat citation graph that cannot distinguish supporting from opposing authority. The extraction itself is cheap — regex at 95%+ accuracy for dispositions; keyword heuristics on existing `snippet` fields for treatment.
+
+---
+
+### Epic 5.1 — Disposition Extraction (SONUC Section Parsing)
+
+**What to build:**
+- Regex-based extractor that reads the SONUC/HUKUM section (last ~200 lines) of each document
+- Extracts two fields:
+  - **`disposition`**: `onama` / `bozma` / `kismen_bozma` / `red` / `kabul` / `direnme` / `unknown`
+  - **`voting_method`**: `oy_birligi` (unanimous) / `oy_coklugu` (majority) / `unknown`
+- Regex targets (confirmed by 95-document corpus analysis):
+  - `BOZULMASINA` -> `bozma` (43% of corpus)
+  - `ONANMASINA` -> `onama` (26%)
+  - `REDDINE` -> `red` (16%)
+  - `KABULUNE` -> `kabul` (11%)
+  - `KISMEN BOZULMASINA` or `KISMEN ONANMASINA` -> `kismen_bozma`
+  - `DIRENME` in SONUC context -> `direnme`
+  - `oy birligiyle` -> `oy_birligi` (found in 36+ files)
+  - `oy cokluguyla` -> `oy_coklugu`
+- New file: `app/graph/disposition_extractor.py`
+- New PG columns on `documents`: `disposition TEXT DEFAULT 'unknown'`, `voting_method TEXT DEFAULT 'unknown'`
+- New Neo4j Document node properties: `disposition`, `voting_method`
+- Integration into `app/ingestion/build_graph.py` pipeline (after document loading, before citation extraction)
+
+**Acceptance criteria:**
+- [ ] `disposition` populated for >= 90% of corpus documents (non-`unknown`)
+- [ ] Spot-check 30 documents: `disposition` correct for >= 95%
+- [ ] `voting_method` populated for >= 40% of corpus
+- [ ] `unknown` rate < 15% — if higher, document which SONUC patterns are missing
+- [ ] Pipeline is idempotent (re-run produces same results)
+- [ ] Distribution logged: count per disposition type, count per voting method
+
+---
+
+### Epic 5.2 — Decision Type & Authority Classification
+
+**What to build:**
+- Higher-level classification inferred from court name, court level, and document metadata:
+  - **`decision_type`**: `karar` (original first-instance) / `temyiz_incelemesi` (Yargitay appellate review) / `istinaf_incelemesi` (BAM review) / `unknown`
+  - **`decision_authority`**: `daire_karari` / `genel_kurul_karari` / `ibk` / `unknown`
+- Rules:
+  - court_level=3 (Daire) -> `temyiz_incelemesi` + `daire_karari`
+  - court_level=4 + HGK/CGK -> `temyiz_incelemesi` + `genel_kurul_karari`
+  - court_level=4 + IBK -> `ibk`
+  - court_level=2 (BAM/BIM) -> `istinaf_incelemesi`
+  - court_level=1 (Ilk Derece) -> `karar`
+- New PG columns on `documents`: `decision_type TEXT`, `decision_authority TEXT`
+- New Neo4j Document node properties: `decision_type`, `decision_authority`
+
+**Acceptance criteria:**
+- [ ] Every document has `decision_type` and `decision_authority` populated
+- [ ] Spot-check 30 documents: correct for >= 95%
+- [ ] HGK/CGK documents correctly classified as `genel_kurul_karari`
+- [ ] BAM documents correctly classified as `istinaf_incelemesi`
+
+---
+
+### Epic 5.3 — Citation Treatment Classification (Keyword Heuristics)
+
+**What to build:**
+- For each citation edge (PG `citations` table + Neo4j CITES), classify the treatment using keyword heuristics on the existing `snippet` field (120-char context window already captured by `app/graph/citation_extractor.py`):
+  - **`AFFIRMS`** — snippet contains: "onanmasina", "isabetli", "uygun", "ayni gorusde", "yerinde"
+  - **`REVERSES`** — snippet contains: "bozulmasina", "bozma", "isabetsiz", "yanlis", "hatali"
+  - **`FOLLOWS`** — snippet contains: "uygun olarak", "dogrultusunda", "emsal", "yerlesik ictihat"
+  - **`DISTINGUISHES`** — snippet contains: "farkli", "uygulanmaz", "bu davada", "ayrik"
+  - **`NEUTRAL`** — default when no keyword match
+- New file: `app/graph/treatment_classifier.py`
+- New PG column: `citations.treatment TEXT DEFAULT 'NEUTRAL'`
+- New Neo4j CITES relationship property: `treatment`
+- Approach: add `treatment` as a property on existing CITES edges (not separate relationship types) to avoid breaking `get_citation_neighbors()` in `app/graph/neo4j_sync.py`
+
+**Changes to existing files:**
+- `app/graph/neo4j_sync.py`: `upsert_citations()` adds `r.treatment = row.treatment`
+- `app/graph/neo4j_sync.py`: `get_citation_neighbors()` gains optional `treatment_filter` parameter
+- `app/graph/resolver.py`: `ResolvedCitation` gains `treatment: str = "NEUTRAL"` field
+- `app/ingestion/build_graph.py`: new step after citation resolution runs treatment classification
+
+**Acceptance criteria:**
+- [ ] `treatment` field populated for all citation edges
+- [ ] On citations where snippet clearly indicates BOZMA or ONAMA: precision >= 0.90
+- [ ] Distribution logged: count per treatment type
+- [ ] Spot-check 20 AFFIRMS and 20 REVERSES classifications
+- [ ] Neo4j CITES edges have queryable `treatment` property
+
+---
+
+### Epic 5.4 — Retrieval Diversification via Disposition & Treatment
+
+**What to build:**
+- Modify `app/retrieval/graph_retrieval.py` `expand_and_rescore()` to be disposition-aware:
+  - When top-5 seed documents all share the same disposition (e.g., all `onama`), actively seek the opposing disposition by following REVERSES/AFFIRMS edges
+  - If seed doc S has a CITES edge with `treatment='REVERSES'` pointing to doc T, include T as a high-priority expansion candidate
+  - If seed doc S has `disposition='bozma'`, look for the original decision it reversed (follow CITES edges where S is source)
+- New field on `GraphExpandedResult`: `expansion_reason: str` (values: `seed`, `citation_neighbor`, `opposing_disposition`, `reversal_chain`)
+- New fields on `DocumentResult` in `app/models.py`: `disposition`, `voting_method`, `decision_type`, `decision_authority`
+- New eval metric: **Disposition Diversity@10** — count of distinct dispositions in top-10, averaged across queries
+
+**Acceptance criteria:**
+- [ ] For queries where both ONAMA and BOZMA exist on the same legal issue, both dispositions appear in top-10
+- [ ] When a seed document was BOZMA'd, the reversing decision appears in expanded results
+- [ ] `expansion_reason` correctly labels why each non-seed document was included
+- [ ] No regression in Recall@10
+- [ ] Disposition Diversity@10 baselined and tracked in eval harness
+
+---
+
+### Tier 5 — Exit Criteria
+
+| Criterion | Target | How to Verify |
+|-----------|--------|---------------|
+| Disposition coverage | >= 90% non-unknown | `SELECT COUNT(*) FROM documents WHERE disposition != 'unknown'` |
+| Disposition accuracy | >= 95% on 30-doc check | Manual review |
+| Treatment coverage | All citation edges | `SELECT COUNT(*) FROM citations WHERE treatment IS NOT NULL` |
+| Treatment precision (clear cases) | >= 0.90 | 40-edge spot-check |
+| Disposition Diversity@10 | Baselined and tracked | Eval harness with new metric |
+| No Recall regression | Recall@10 >= Tier 4 baseline | Eval harness |
+
+---
+
+## Tier 6 — Hybrid Retrieval & Usable API
 
 **Goal:** Add BM25, fuse sparse+dense, expose via API and UI. After this tier, a lawyer can actually use the system.
 
+> **Note:** The primary consumer of this API is a downstream LLM, not a human user. The web UI (Epic 6.3) is useful for debugging and lawyer validation during development but is not the primary interface.
+
 ---
 
-### Epic 4.1 — BM25 Index & Hybrid Fusion
+### Epic 6.1 — BM25 Index & Hybrid Fusion
 
 **What to build:**
 - Build a BM25 index over the same chunks (using `rank_bm25`, Elasticsearch, or Tantivy)
@@ -254,7 +485,7 @@
 
 ---
 
-### Epic 4.2 — REST API
+### Epic 6.2 — REST API
 
 > **Implementation note (completed early):** Built as part of FastAPI restructure during Tier 3. The API is at `app/api/routes/search.py`, served by `app/main.py`. Response includes full document metadata (court, daire, esas_no, karar_no, decision_date, score).
 
@@ -272,7 +503,7 @@
 
 ---
 
-### Epic 4.3 — Minimal Web UI
+### Epic 6.3 — Minimal Web UI
 
 **What to build:**
 - A web UI (Streamlit or Gradio): search box, submit button, results list
@@ -288,40 +519,28 @@
 
 ---
 
-### Tier 4 — Exit Criteria
+### Tier 6 — Exit Criteria
 
 | Metric | Target | How to Verify |
 |--------|--------|---------------|
-| Recall@10 | Improvement over Tier 3 | Eval harness |
-| NDCG@10 | Improvement over Tier 3 | Eval harness |
+| Recall@10 | Improvement over Tier 5 | Eval harness |
+| NDCG@10 | Improvement over Tier 5 | Eval harness |
 | API latency (p95) | < 2 seconds | 50 eval queries through the API |
 | Usability | A lawyer can search and view a case document | Manual observation |
 
 ---
 
-## Tier 5 — Legal-Aware Chunking & Document Summaries
+## Tier 7 — Legal-Aware Chunking & Document Summaries
 
-**Goal:** Replace dumb fixed-size chunking with legal-structure-aware chunking. Add document-level summaries as a second retrieval index. These are independent improvements — either can land first.
-
----
-
-### Epic 5.1 — Decision Type & Authority Extraction
-
-**What to build:**
-- For each document, extract content-level metadata that couldn't be parsed from filenames/front-matter in Tier 2:
-  - **`decision_type`**: karar (original decision) / bozma (reversal) / onama (affirmance) / kısmen bozma (partial reversal) / direnme (defiance) — determined by reading the holding section or identifying keywords
-  - **`decision_authority`**: `daire_karari` / `genel_kurul_karari` / `ibk` — İBK is a decision type from level-4 courts (HGK/CGK/İDDGK/VDDGK), not a separate court level. İBK decisions are binding on all courts.
-- Use heading patterns, keywords (e.g., "BOZULMASINA", "ONANMASINA", "DİRENME KARARI"), or LLM classification
-- Store as new fields on the document record
-
-**Acceptance criteria:**
-- [ ] Every document has `decision_type` and `decision_authority` fields populated (or `unknown` with logged reason)
-- [ ] Spot-check 30 documents: `decision_type` is correct for >= 90%
-- [ ] `unknown` rate is < 20% of corpus — if higher, document what patterns are missing
+**Goal:** Replace fixed-size chunking with legal-structure-aware chunking. Add document-level summaries as a second retrieval index. These are independent improvements — either can land first.
 
 ---
 
-### Epic 5.2 — Structure-Aware Legal Chunking
+> **Note:** Decision type and authority extraction has been moved to Tier 5, Epic 5.2.
+
+---
+
+### Epic 7.1 — Structure-Aware Legal Chunking
 
 **What to build:**
 - Replace fixed-size chunking with a Turkish legal-document-aware parser
@@ -339,7 +558,7 @@
 
 **R&D task — Chunking strategy A/B test:**
 - Index the same corpus with:
-  1. Tier 3/4 fixed-size chunks
+  1. Tier 3 fixed-size chunks (current baseline)
   2. Structure-aware chunks
 - Run eval on both with the same retrieval pipeline
 - Also measure: average chunk size (tokens), number of chunks per document, standard deviation of chunk sizes
@@ -352,7 +571,7 @@
 
 ---
 
-### Epic 5.3 — Document Summary Generation
+### Epic 7.2 — Document Summary Generation
 
 **What to build:**
 - For each case law document, generate an LLM summary (300–500 tokens) capturing: legal issue, court, holding, key facts, outcome
@@ -374,7 +593,7 @@
 
 ---
 
-### Epic 5.4 — Summary Index & Multi-Level Retrieval
+### Epic 7.3 — Summary Index & Multi-Level Retrieval
 
 **What to build:**
 - Embed all summaries and store in a separate vector index (or a separate collection in the same vector DB)
@@ -398,33 +617,35 @@
 
 ---
 
-### Tier 5 — Exit Criteria
+### Tier 7 — Exit Criteria
 
 | Metric | Target | How to Verify |
 |--------|--------|---------------|
-| Decision type accuracy | >= 90% on 30-doc spot-check | Manual review |
-| Recall@10 | Improvement over Tier 4 | Eval harness |
-| NDCG@10 | Improvement over Tier 4 | Eval harness |
+| Recall@10 | Improvement over Tier 6 | Eval harness |
+| NDCG@10 | Improvement over Tier 6 | Eval harness |
 | Chunking quality | No mid-sentence breaks in 50-chunk sample | Manual review |
 | Summary quality | Lawyer rating >= 3.5/5 | Blind evaluation |
 
 ---
 
-## Tier 6 — Domain Embeddings & Re-Ranking
+## Tier 8 — Domain Embeddings & Re-Ranking
 
 **Goal:** Swap in legal-specific embeddings and add cross-encoder re-ranking. These are the two highest-ROI improvements based on literature (Anthropic's contextual retrieval study showed re-ranking alone cuts failures by ~20%).
 
 ---
 
-### Epic 6.1 — Legal Embedding Model
+### Epic 8.1 — Legal Embedding Model
 
 **What to build:**
 - Re-embed all chunks and summaries using a legal-domain embedding model
 - Update the vector indices
 
 **R&D task — Legal embedding comparison (head-to-head):**
+
+> **Note:** BAAI/bge-m3 (1024 dimensions) is the current baseline, deployed via TEI on A100 (see Tier 3 implementation note). The comparison should include bge-m3 vs. voyage-law-2 vs. GTE-Qwen2.
+
 - Compare exactly these models on the full evaluation set:
-  1. Tier 4 winner (general-purpose multilingual model)
+  1. `BAAI/bge-m3` (current baseline, 1024d, multilingual, running via TEI)
   2. `voyage-law-2` (Voyage AI, commercial, 1024d, 16K tokens) — trained primarily on English legal text, may underperform on Turkish
   3. `GTE-Qwen2-7B-instruct` (open-source, 8192 tokens, multilingual — test if long-context helps with Turkish legal text)
 - If `voyage-law-2` underperforms on Turkish, add `multilingual-e5-large-instruct` (open-source, strong Turkish support) as a replacement candidate
@@ -441,7 +662,7 @@
 
 ---
 
-### Epic 6.2 — Cross-Encoder Re-Ranking
+### Epic 8.2 — Cross-Encoder Re-Ranking
 
 **What to build:**
 - Add a cross-encoder re-ranking stage after hybrid retrieval + document aggregation
@@ -456,14 +677,14 @@
 - Document the quality vs. latency tradeoff: scatter plot of NDCG@10 vs. p95 latency
 
 **Acceptance criteria:**
-- [ ] Re-ranking improves NDCG@10 over Tier 5 (ordering gets better, even if recall stays the same)
+- [ ] Re-ranking improves NDCG@10 over Tier 6 (ordering gets better, even if recall stays the same)
 - [ ] Comparison table with metrics and latency for all 3 models exists
 - [ ] End-to-end API latency (p95) is documented — if > 5 seconds, document which re-ranker stays under 5s
 - [ ] 10 specific query examples where re-ranking changed the document ordering, with before/after shown
 
 ---
 
-### Epic 6.3 — Contextual Embeddings (Anthropic-Style)
+### Epic 8.3 — Contextual Embeddings (Anthropic-Style)
 
 **What to build:**
 - Before embedding each chunk, prepend a 50–100 token LLM-generated context explaining the chunk's role in the larger document
@@ -474,7 +695,7 @@
 
 **R&D task — Contextual vs. standard embeddings:**
 - Compare:
-  1. Best non-contextual embeddings (from 6.1)
+  1. Best non-contextual embeddings (from 8.1)
   2. Same model with contextual prefixes
 - Measure: Recall@10, NDCG@10
 - Also measure: context generation cost ($ per 1000 documents), storage size increase
@@ -487,24 +708,26 @@
 
 ---
 
-### Tier 6 — Exit Criteria
+### Tier 8 — Exit Criteria
 
 | Metric | Target | How to Verify |
 |--------|--------|---------------|
-| Recall@10 | Improvement over Tier 5, OR no improvement with documented analysis of why and what was tried | Eval harness |
-| NDCG@10 | Improvement over Tier 5, OR no improvement with documented analysis | Eval harness |
+| Recall@10 | Improvement over Tier 7, OR no improvement with documented analysis of why and what was tried | Eval harness |
+| NDCG@10 | Improvement over Tier 7, OR no improvement with documented analysis | Eval harness |
 | API latency (p95) | < 5 seconds (re-ranking adds latency) | Load test |
-| R&D artifacts | All comparison tables from 6.1–6.3 exist | File review |
+| R&D artifacts | All comparison tables from 8.1–8.3 exist | File review |
 
 ---
 
-## Tier 7 — Citation Graph Construction
+## Tier 9 — Graph-Powered Ranking & Authority Scoring
 
-**Goal:** Build the knowledge graph of case-to-case citations and the court hierarchy. No retrieval changes yet — this tier is purely about graph data infrastructure.
+**Goal:** Deepen the citation graph built in Tier 4 and use it to improve retrieval ranking. Combines graph data quality (LLM extraction, court hierarchy validation, statistics) with graph-powered ranking (PageRank boost, court-level boost, three-way fusion, treatment-weighted PageRank). Every ranking improvement must beat Tier 8 numbers.
+
+> **Note:** Basic citation extraction (regex, 6 patterns), Neo4j setup, court hierarchy nodes (74 Court nodes, APPEALS_TO edges), and PageRank were built in Tier 4. The epics below extend and validate that foundation.
 
 ---
 
-### Epic 7.1 — Citation Extraction Pipeline
+### Epic 9.1 — Citation Extraction Quality (LLM vs. Regex R&D)
 
 **What to build:**
 - A pipeline that extracts case-to-case citations from each jurisprudence document
@@ -530,7 +753,9 @@
 
 ---
 
-### Epic 7.2 — Court Hierarchy Graph
+### Epic 9.2 — Court Hierarchy Validation & Extended Graph
+
+> **Note:** The court hierarchy is already implemented in `app/graph/neo4j_sync.py` (74 Court nodes, APPEALS_TO edges). Remaining work is lawyer validation and subject-matter daire mappings.
 
 **What to build:**
 - Define the Turkish court hierarchy as a static graph (manually — reference `docs/turkish-law-reference.md` Section 1):
@@ -556,14 +781,16 @@
 - [ ] Court distribution query: `RETURN court.name, count(cases)` produces sensible numbers — Yargıtay daireleri should have the bulk of cases
 - [ ] Daire subject-matter mappings are stored and verified (e.g., 9. HD cases are all labor law)
 - [ ] Visual rendering of the court hierarchy exported as an image
-- [ ] The graph correctly models the bozma→direnme→Genel Kurul flow (Daire → İlk Derece/BAM → same Daire → HGK/CGK if direnme)
+- [ ] The graph correctly models the bozma->direnme->Genel Kurul flow (Daire -> İlk Derece/BAM -> same Daire -> HGK/CGK if direnme)
 
 ---
 
-### Epic 7.3 — Full Citation Network & Graph Statistics
+### Epic 9.3 — Full Citation Network Statistics & Quality Report
+
+> **Note:** PageRank, in-degree, and out-degree are already computed in `app/graph/metrics.py`. Remaining work is quality reporting.
 
 **What to build:**
-- Import all citation edges (from 7.1) into the graph alongside the court hierarchy (from 7.2)
+- Import all citation edges into the graph alongside the court hierarchy
 - Compute and store:
   - **PageRank** on the citation network
   - **In-degree** (number of cases citing this case)
@@ -579,26 +806,7 @@
 
 ---
 
-### Tier 7 — Exit Criteria
-
-| Artifact | Verification |
-|----------|-------------|
-| Citation edges | Extracted, resolved, stored with precision >= 0.85 |
-| Court hierarchy | Complete, verified by a lawyer |
-| Graph DB | Loaded, queryable, stats report generated |
-| PageRank | Computed, top-10 validated as landmark cases |
-
-**No retrieval metrics change in this tier — it's pure infrastructure. The graph will be used in Tiers 8 and 9.**
-
----
-
-## Tier 8 — Graph-Powered Ranking
-
-**Goal:** Use the citation graph and court hierarchy to improve retrieval ranking. Add graph traversal as a third retrieval path. Every improvement must beat Tier 6 numbers.
-
----
-
-### Epic 8.1 — PageRank-Boosted Re-Ranking
+### Epic 9.4 — PageRank-Boosted Re-Ranking
 
 **What to build:**
 - After the cross-encoder re-ranking stage, apply a PageRank signal:
@@ -618,11 +826,11 @@
 
 ---
 
-### Epic 8.2 — Court-Level Boost
+### Epic 9.5 — Court-Level Boost
 
 **What to build:**
 - Apply a court-level boost:
-  `boosted_score = score × (1 + beta × court_level / max_court_level)`
+  `boosted_score = score x (1 + beta x court_level / max_court_level)`
 - Applied after cross-encoder re-ranking, can be combined with PageRank boost
 
 **R&D task — Court boost calibration:**
@@ -634,11 +842,13 @@
 - [ ] Beta comparison table with all metrics for all 5 values
 - [ ] Chosen beta does NOT decrease Recall@10 by more than 2%
 - [ ] On the 10 mixed-court queries: verify high-court cases rank higher than low-court cases with boosting enabled
-- [ ] Combined effect of PageRank + court boost (best alpha × best beta) is measured and compared against Tier 6 baseline
+- [ ] Combined effect of PageRank + court boost (best alpha x best beta) is measured and compared against Tier 8 baseline
 
 ---
 
-### Epic 8.3 — Graph Traversal as Retrieval Path
+### Epic 9.6 — Full Three-Way Fusion (BM25 + Dense + Graph)
+
+> **Note:** Graph expansion already exists in Tier 4 (`app/retrieval/graph_retrieval.py`). What remains is adding BM25 as the third retrieval path (depends on Tier 6).
 
 **What to build:**
 - Add a third retrieval path: **1-hop citation expansion**
@@ -648,20 +858,20 @@
 
 **R&D task — Graph retrieval contribution:**
 - Compare:
-  1. Tier 6 pipeline (BM25 + Dense + Re-ranking)
+  1. Tier 8 pipeline (BM25 + Dense + Re-ranking)
   2. + Graph traversal (this epic)
 - Measure Recall@10, NDCG@10, Authority-weighted NDCG@10
 - Count per query: how many documents in the final top-10 were found ONLY through graph traversal?
 
 **Acceptance criteria:**
 - [ ] Graph traversal adds at least 5 unique candidate documents per query on average (that weren't found by BM25 or dense)
-- [ ] Recall@10 improves over Tier 6, OR the delta is documented with analysis
+- [ ] Recall@10 improves over Tier 8, OR the delta is documented with analysis
 - [ ] Number of "graph-only finds" that are actually relevant (per eval set) is documented
 - [ ] End-to-end latency (p95) is under 8 seconds — if not, document the bottleneck
 
 ---
 
-### Epic 8.4 — Metadata Filtering in API
+### Epic 9.7 — Metadata Filtering in API
 
 **What to build:**
 - API now accepts filters: `{"query": "...", "filters": {"court_level_min": 2, "date_after": "2015-01-01", "jurisdiction": "..."}}`
@@ -679,25 +889,50 @@
 
 ---
 
-### Tier 8 — Exit Criteria
+### Epic 9.8 — Treatment-Weighted PageRank
+
+**What to build:**
+- Use the `treatment` property from Tier 5 (Epic 5.3) to weight citation edges in PageRank computation
+- Edge weights by treatment type:
+  - `AFFIRMS` edges count 1.5x
+  - `REVERSES` edges count 0x (blocked — reversed authority should not flow)
+  - `FOLLOWS` edges count 1.5x
+  - `DISTINGUISHES` edges count 0.5x
+  - `NEUTRAL` edges count 1x
+- Modifies `app/graph/metrics.py` to accept optional edge weights in PageRank computation
+- New field: `treatment_weighted_pagerank` on documents (separate from existing `pagerank_score` to allow comparison)
+
+**Acceptance criteria:**
+- [ ] Treatment-weighted PageRank computed for all documents with citation edges
+- [ ] Comparison table: standard PageRank vs. treatment-weighted PageRank top-20 — document which cases moved up/down and why
+- [ ] Documents whose primary citations are REVERSES edges should have lower treatment-weighted PageRank
+- [ ] Documents with many AFFIRMS/FOLLOWS inbound edges should have higher treatment-weighted PageRank
+
+---
+
+### Tier 9 — Exit Criteria
 
 | Metric | Target | How to Verify |
 |--------|--------|---------------|
-| Recall@10 | Improvement over Tier 6 (or within 2% with significant NDCG gain) | Eval harness |
-| NDCG@10 | Improvement over Tier 6 | Eval harness |
+| Citation extraction quality | Precision >= 0.85, Recall >= 0.70 on 20-doc annotated sample | Manual annotation |
+| Court hierarchy | Complete, verified by a lawyer, all active daireler present | Lawyer review |
+| Graph DB | Loaded, queryable, stats report generated | Neo4j browser |
+| PageRank | Top-10 by PageRank validated as landmark cases by a lawyer | Lawyer review |
+| Recall@10 | Improvement over Tier 8 (or within 2% with significant NDCG gain) | Eval harness |
+| NDCG@10 | Improvement over Tier 8 | Eval harness |
 | Authority-weighted NDCG@10 | Baselined and tracked (new metric) | Eval harness |
 | Graph-only finds | >= 5 unique candidates/query from graph | Logged per query |
 | API latency (p95) | < 8 seconds | Load test |
 
 ---
 
-## Tier 9 — Conflict Detection & Contradiction Surfacing
+## Tier 10 — Conflict Detection & Contradiction Surfacing
 
-**Goal:** The distinguishing feature — detect and surface contradictory precedents. This is what makes the system more than a search engine.
+**Goal:** The distinguishing feature — detect and surface contradictory precedents. This is what makes the system more than a search engine. Now depends on Tier 5 data (dispositions, treatments) rather than extracting them internally. All conflict/treatment output is structured for consumption by a downstream LLM.
 
 ---
 
-### Epic 9.1 — Holding Extraction
+### Epic 10.1 — Holding Extraction
 
 **What to build:**
 - For each case document, extract the **core holding** (the legal rule/principle established):
@@ -721,14 +956,14 @@
 
 ---
 
-### Epic 9.2 — Pairwise Conflict Detection
+### Epic 10.2 — Pairwise Conflict Detection
 
 **What to build:**
 - Given a set of retrieved documents (top 10), detect contradictions:
   1. Embed all holdings; compute pairwise cosine similarity to find "topically related" pairs (similarity > threshold)
   2. For each related pair, LLM prompt: "Case A holds: [holding]. Case B holds: [holding]. Do these cases reach opposing conclusions on the same legal issue? Respond: AGREES / DISAGREES / UNRELATED, with a one-sentence explanation."
   3. If DISAGREES: create a conflict annotation
-- **Prerequisite:** `decision_type` must be populated on documents (Tier 5 Epic 5.1).
+- **Prerequisite:** `decision_type` must be populated on documents (Tier 5, Epic 5.1 for disposition and Epic 5.2 for decision type).
 - **Turkish-specific conflict types to detect:**
   - **Inter-daire conflicts:** Two different Yargıtay daireleri reaching opposite conclusions on the same legal issue (e.g., 4. HD vs 11. HD on tazminat computation). These are the most common and most important — they are what triggers İBK proceedings.
   - **Bozma-direnme chains:** A Yargıtay daire reverses (bozma), the lower court defies (direnme) — this is an active conflict that goes to HGK/CGK for resolution. Requires `decision_type` to identify bozma and direnme cases and the citation graph to trace the chain.
@@ -755,7 +990,7 @@
 
 ---
 
-### Epic 9.3 — Conflict-Aware Result Presentation
+### Epic 10.3 — Conflict-Aware Result Presentation
 
 **What to build:**
 - When conflicts are detected, restructure the UI results:
@@ -773,29 +1008,12 @@
 
 ---
 
-### Tier 9 — Exit Criteria
+### Epic 10.4 — Treatment Classification Refinement (LLM)
 
-| Metric | Target | How to Verify |
-|--------|--------|---------------|
-| Conflict Precision | >= 0.70 | Lawyer evaluation on 10 conflict queries |
-| Conflict Recall | >= 0.50 | Against known conflicts in eval set |
-| Holding quality | Lawyer rating >= 3.5/5 | 30-document sample |
-| UI conflict display | Lawyer can identify higher court in < 5 seconds | Observation |
-
-**If precision/recall targets are not met:** Document which conflict types work (inter-daire, temporal, bozma-direnme) and which don't, and whether the approach is viable with more annotated data or a different similarity threshold.
-
----
-
-## Tier 10 — Citation Treatment Classification
-
-**Goal:** Classify HOW cases cite each other (follows, distinguishes, overrules, criticizes). This enables "good law / bad law" detection — the most valuable legal feature after basic retrieval.
-
----
-
-### Epic 10.1 — Citation Treatment Classifier
+> **Note:** Extends Tier 5 keyword heuristics (Epic 5.3). Only runs on edges where the keyword heuristic returned NEUTRAL.
 
 **What to build:**
-- For each citation edge in the graph, classify the treatment into 5 categories:
+- For each citation edge in the graph where treatment is NEUTRAL (from Tier 5 keyword heuristics), classify the treatment into 5 categories using LLM:
   - `FOLLOWS` — citing case agrees with and applies the cited case
   - `DISTINGUISHES` — citing case limits the cited case's applicability
   - `OVERRULES` — citing case explicitly overturns the cited case
@@ -819,7 +1037,7 @@
 - Compare accuracy to determine if summaries help
 
 **Acceptance criteria:**
-- [ ] Classification runs on all citation edges in the corpus
+- [ ] Classification runs on all citation edges where Tier 5 keyword heuristic returned NEUTRAL
 - [ ] Macro-average F1 >= 0.65 on the 100-edge test set
 - [ ] Per-class metrics (precision, recall, F1) exist for all 5 treatment types
 - [ ] `OVERRULES` class Recall >= 0.80 (most critical — missing an overruled/bozma'd case is dangerous for lawyers)
@@ -828,10 +1046,10 @@
 
 ---
 
-### Epic 10.2 — Good Law / Bad Law Status
+### Epic 10.5 — Good Law / Bad Law Status
 
 **What to build:**
-- Derive case status from citation treatments:
+- Derive case status from citation treatments (combining Tier 5 keyword heuristics and Epic 10.4 LLM refinements):
   - `overruled` — a higher court issued bozma (reversal) against this case, AND the lower court complied (uyma). The holding is dead.
   - `disputed` — a bozma was issued but the lower court issued direnme (defiance). The legal question is unresolved, pending HGK/CGK.
   - `superseded_by_ibk` — an İBK decision has settled the legal question differently. The case's holding is no longer authoritative.
@@ -853,19 +1071,19 @@
 
 ---
 
-### Epic 10.3 — Treatment-Aware Ranking
+### Epic 10.6 — Treatment-Aware Ranking
 
 **What to build:**
 - Modify the ranking pipeline:
-  - `overruled` cases get a **penalty** (multiplicative: score × 0.3) — still visible but ranked lower
-  - `disputed` cases get a **moderate penalty** (score × 0.6) + a visual flag indicating the legal question is pending HGK/CGK resolution
-  - Cases with many `FOLLOWS` treatments get a **boost** (treatment-weighted PageRank: FOLLOWS edges count as 1.5×, CRITICIZES as 0.5×, OVERRULES as 0×)
+  - `overruled` cases get a **penalty** (multiplicative: score x 0.3) — still visible but ranked lower
+  - `disputed` cases get a **moderate penalty** (score x 0.6) + a visual flag indicating the legal question is pending HGK/CGK resolution
+  - Cases with many `FOLLOWS` treatments get a **boost** (treatment-weighted PageRank: FOLLOWS edges count as 1.5x, CRITICIZES as 0.5x, OVERRULES as 0x)
   - İBK decisions (`decision_authority: ibk`) get NO penalty ever — they are always authoritative
   - Overruled cases show a visual warning in the UI (e.g., red "OVERRULED" / "BOZULMUŞ" badge, with the overruling case linked)
 
 **R&D task — Treatment-aware ranking impact:**
 - Compare:
-  1. Tier 8 ranking (PageRank + court boost, no treatment awareness)
+  1. Tier 9 ranking (PageRank + court boost, no treatment awareness)
   2. Treatment-aware ranking (this epic)
 - Measure NDCG@10, Authority-weighted NDCG@10
 - Count: how many overruled cases appear in top-5 before vs. after?
@@ -883,11 +1101,17 @@
 
 | Metric | Target | How to Verify |
 |--------|--------|---------------|
+| Conflict Precision | >= 0.70 | Lawyer evaluation on 10 conflict queries |
+| Conflict Recall | >= 0.50 | Against known conflicts in eval set |
+| Holding quality | Lawyer rating >= 3.5/5 | 30-document sample |
+| UI conflict display | Lawyer can identify higher court in < 5 seconds | Observation |
 | Treatment F1 (macro-avg) | >= 0.65 | 100-edge annotated test set |
 | OVERRULES Recall | >= 0.80 | Per-class metrics |
 | Status accuracy | Spot-check: 80%+ correct on 40 sampled cases | Lawyer review |
-| NDCG@10 | Improvement or no regression vs. Tier 8 | Eval harness |
-| Overruled-in-top-5 | Decreases vs. Tier 8 | Count comparison |
+| NDCG@10 | Improvement or no regression vs. Tier 9 | Eval harness |
+| Overruled-in-top-5 | Decreases vs. Tier 9 | Count comparison |
+
+**If precision/recall targets are not met:** Document which conflict types work (inter-daire, temporal, bozma-direnme) and which don't, and whether the approach is viable with more annotated data or a different similarity threshold.
 
 **If Treatment F1 < 0.65:** Document per-class analysis — identify which treatment types are reliably classified and which aren't. Consider merging underperforming classes (e.g., CRITICIZES + DISTINGUISHES → NEGATIVE_NON_OVERRULE) or dropping them to NEUTRAL.
 
@@ -1047,9 +1271,9 @@
   1. Query classification + entity extraction (Tier 11)
   2. Strategy routing (12.1)
   3. Multi-path retrieval (BM25 + Dense + Graph + Entity-targeted + Summary, as selected by router)
-  4. Document aggregation + re-ranking (Tier 6 + Tier 8 signals)
+  4. Document aggregation + re-ranking (Tier 8 + Tier 9 signals)
   5. Self-correction if needed (12.2)
-  6. Conflict detection (Tier 9)
+  6. Conflict detection (Tier 10)
   7. Treatment-aware status (Tier 10)
   8. Final ranked results with conflict annotations and case status
 - This is the complete system
@@ -1084,41 +1308,17 @@
 
 ---
 
-## Tier 13 — Advanced Graph RAG & Feedback Loops
+## Tier 13 — Feedback Loops & Fine-Tuning
 
-**Goal:** Push retrieval quality further with SOTA graph-RAG techniques and build the feedback infrastructure for continuous improvement.
+**Goal:** Push retrieval quality further and build the feedback infrastructure for continuous improvement.
 
----
-
-### Epic 13.1 — HippoRAG-Style PPR Retrieval
-
-**What to build:**
-- Replace simple 1-hop graph traversal with **Personalized PageRank (PPR):**
-  - Extract entities from the query
-  - Find matching entity nodes in the citation graph
-  - Run PPR from those seed nodes — activation spreads through the graph
-  - Documents with highest PPR scores become graph-retrieval candidates
-- This enables **multi-hop** discovery: finding cases connected through intermediate citations
-
-**R&D task — PPR vs. 1-hop vs. LightRAG:**
-- On a 1000-document subset, implement:
-  1. Simple 1-hop expansion (current)
-  2. PPR with damping factor 0.85 (standard)
-  3. PPR with damping factor 0.70 (broader spread)
-  4. LightRAG dual-level retrieval (if feasible on the subset)
-- Measure: Recall@10, NDCG@10, number of multi-hop finds (cases found via 2+ hops that are relevant)
-
-**Acceptance criteria:**
-- [ ] Comparison table with all approaches and metrics
-- [ ] Multi-hop analysis: at least 5 specific cases where PPR found a relevant case that 1-hop missed, with the connecting path shown
-- [ ] Best PPR config improves Recall@10 over 1-hop on the subset
-- [ ] Damping factor comparison shows which value gives best precision/recall tradeoff
+> **Retired:** Epic 13.1 (HippoRAG-style PPR) has been implemented in Tier 4, Epic 4.3. See `app/retrieval/graph_retrieval.py`.
 
 ---
 
-### Epic 13.2 — Embedding Fine-Tuning on Feedback Data
+### Epic 13.1 — Embedding Fine-Tuning on Feedback Data
 
-**Prerequisite:** Epic 13.3 (Feedback Collection) must be deployed first. This epic runs only after 500+ feedback signals are collected.
+**Prerequisite:** Epic 13.2 (Feedback Collection) must be deployed first. This epic runs only after 500+ feedback signals are collected.
 
 **What to build:**
 - Collect user feedback data (from UI: "Relevant" / "Not Relevant" clicks)
@@ -1130,7 +1330,7 @@
 
 **R&D task — Fine-tuned vs. base model:**
 - Compare:
-  1. Base embedding model (Tier 6 winner)
+  1. Base embedding model (Tier 8 winner)
   2. Fine-tuned model (this epic)
 - Measure on a held-out test set (20% of feedback data NOT used for training):
   - Recall@10, NDCG@10
@@ -1144,7 +1344,7 @@
 
 ---
 
-### Epic 13.3 — Feedback Collection & Continuous Evaluation
+### Epic 13.2 — Feedback Collection & Continuous Evaluation
 
 **What to build:**
 - UI feedback buttons: for each result, "Relevant" / "Not Relevant"
@@ -1163,7 +1363,7 @@
 
 ---
 
-### Epic 13.4 — Evaluation Dataset Expansion
+### Epic 13.3 — Evaluation Dataset Expansion
 
 **What to build:**
 - Use feedback data + lawyer input to expand the eval set from 50 to 100+ queries
@@ -1184,7 +1384,6 @@
 | Metric | Target | How to Verify |
 |--------|--------|---------------|
 | Recall@10 | Improvement over Tier 12 (on expanded eval set) | Eval harness |
-| Multi-hop finds | >= 5 cases found via PPR that 1-hop missed | Documented examples |
 | Feedback signals | >= 500 collected | Database count |
 | Eval set size | >= 100 queries | File row count |
 | Metrics trend | Visible improvement over time | Time-series chart |
@@ -1216,42 +1415,46 @@ Every tier's eval results must be recorded in a single persistent table:
 ## Tier Dependency Map
 
 ```
-Tier 1: Measurement Infrastructure
+Tier 1: Measurement Infrastructure                          [DONE]
   │
-  ▼
-Tier 2: Data Pipeline & Storage
+  v
+Tier 2: Data Pipeline & Storage                             [DONE]
   │
-  ▼
-Tier 3: Naive Dense Retrieval ──── first baseline numbers
+  v
+Tier 3: Naive Dense Retrieval (TEI/bge-m3 on A100)          [DONE]
   │
-  ▼
-Tier 4: Hybrid Retrieval & API ──── first usable system
+  v
+Tier 4: Graph Foundation (citations, Neo4j, PPR, PageRank)   [DONE]
   │
-  ├──────────────────┐
-  ▼                  ▼
-Tier 5: Legal       Tier 7: Citation Graph ──── graph infrastructure
-Chunking &            │                         (no retrieval change)
-Summaries             │
-  │                   │
-  ▼                   ▼
-Tier 6: Domain      Tier 8: Graph-Powered
-Embeddings &        Ranking
-Re-Ranking            │
-  │                   ▼
-  │                 Tier 9: Conflict Detection
-  │                   │
-  │                   ▼
-  │                 Tier 10: Citation Treatment
-  │                   │
-  ├───────────────────┘
-  ▼
+  v
+Tier 5: Legal Intelligence Extraction
+  │     (disposition, treatment keywords, retrieval diversification)
+  │
+  ├─────────────────────────┐
+  v                         v
+Tier 6: Hybrid Retrieval    Tier 7: Legal-Aware Chunking
+  (BM25, RRF, API)           & Summaries
+  │                         │
+  └─────────┬───────────────┘
+            v
+Tier 8: Domain Embeddings & Re-Ranking
+  │
+  v
+Tier 9: Graph-Powered Ranking & Authority Scoring
+  │     (consolidated: PageRank boost, court boost,
+  │      3-way fusion, treatment-weighted PageRank)
+  │
+  v
+Tier 10: Conflict Detection & Treatment Refinement
+  │      (holdings, pairwise conflicts, LLM treatment,
+  │       good-law/bad-law, treatment-aware ranking)
+  │
+  v
 Tier 11: Query Intelligence
   │
-  ▼
+  v
 Tier 12: Agentic Retrieval
   │
-  ▼
-Tier 13: Advanced Graph RAG & Feedback
+  v
+Tier 13: Feedback Loops & Fine-Tuning
 ```
-
-**Key insight from the dependency map:** Tiers 5–6 (chunking, embeddings, re-ranking) and Tiers 7–10 (graph construction, graph ranking, conflicts, treatments) can be developed **in parallel** by different people/teams. They converge at Tier 11.

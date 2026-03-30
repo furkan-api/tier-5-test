@@ -57,10 +57,6 @@ def main():
     args = parser.parse_args()
 
     settings = get_settings()
-    if not settings.openai_api_key:
-        log.error("OPENAI_API_KEY environment variable is required")
-        sys.exit(1)
-
     openai_client = get_embedding_client()
     connect_milvus()
 

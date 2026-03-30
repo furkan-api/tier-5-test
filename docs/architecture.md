@@ -1,5 +1,7 @@
 # End-to-End Architecture: Ingestion & Inference
 
+This system is a **context assembly backend for a downstream query-making LLM**. Its job is to retrieve and assemble the right constellation of documents so the LLM can reason correctly about Turkish legal questions. The critical failure mode is missing documents that change the legal answer.
+
 How the system works at the graph-complete state (through Tier 10). Each step references the tier/epic where it's built.
 
 ---
@@ -29,36 +31,43 @@ S3 (50M+ markdown files)
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 2: Extract Content Metadata (Tier 5, Epic 5.1)    │
+│ STEP 2: Extract Content Metadata (Tier 5, Epic 5.1–5.2)│
 │                                                         │
 │ Input:  Full document text                              │
 │ Output: Additional fields on `documents` row            │
 │                                                         │
 │ Extract by keywords/LLM:                                │
-│   • decision_type: onama/bozma/kısmen_bozma/direnme    │
-│   • decision_authority: daire_karari/genel_kurul/ibk    │
+│   • disposition: onama/bozma/kismen_bozma/red/kabul/    │
+│     direnme/unknown                                     │
+│   • voting_method: oy_birligi/oy_coklugu/unknown        │
+│   • decision_type: karar/temyiz_incelemesi/             │
+│     istinaf_incelemesi                                   │
+│   • decision_authority: daire_karari/                    │
+│     genel_kurul_karari/ibk                              │
 │                                                         │
-│ Store: PG `documents.decision_type`,                    │
+│ Store: PG `documents.disposition`,                      │
+│        `documents.voting_method`,                        │
+│        `documents.decision_type`,                        │
 │        `documents.decision_authority`                    │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 3: Chunk (Tier 2→5)                                │
+│ STEP 3: Chunk (Tier 2→6)                                │
 │                                                         │
 │ Tier 2: Fixed-size (512 tok, 50 overlap)                │
-│ Tier 5: Structure-aware (section boundaries:            │
+│ Tier 6: Structure-aware (section boundaries:            │
 │          gerekçe, hüküm, iddia, savunma, karşı_oy)     │
 │                                                         │
 │ Each chunk: chunk_id, doc_id, chunk_index, text,        │
-│             section_type (Tier 5+)                       │
+│             section_type (Tier 6+)                       │
 │                                                         │
 │ Store: PG `chunks` table                                │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 4: Generate Summary (Tier 5, Epic 5.3)            │
+│ STEP 4: Generate Summary (Tier 6, Epic 6.3)            │
 │                                                         │
 │ Input:  Full document text                              │
 │ Output: 300-500 token structured summary                │
@@ -80,22 +89,44 @@ S3 (50M+ markdown files)
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 6: Embed (Tier 3→6)                                │
+│ STEP 6: Embed (Tier 3→7)                                │
 │                                                         │
 │ What gets embedded:                                     │
 │   • Every chunk (Tier 3+)                               │
-│   • Every summary (Tier 5, Epic 5.4)                    │
-│   • Contextual prefix + chunk (Tier 6, Epic 6.3)        │
+│   • Every summary (Tier 6, Epic 6.4)                    │
+│   • Contextual prefix + chunk (Tier 7, Epic 7.3)        │
 │                                                         │
-│ Model: TBD by shootout (Tier 3.3 / 6.1)                │
+│ Model: TBD by shootout (Tier 3.3 / 7.1)                │
 │                                                         │
 │ Store: Milvus `chunks` collection                       │
-│        Milvus `summaries` collection (Tier 5+)          │
+│        Milvus `summaries` collection (Tier 6+)          │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 7: BM25 Index (Tier 4, Epic 4.1)                  │
+│ STEP 7: Citation Extraction & Graph Build (Tier 4, Epic 4.1–4.2) │
+│                                                                   │
+│ Input:  Full document text                                        │
+│ Output: Citation edges (source_doc → target_doc) + Neo4j graph   │
+│                                                                   │
+│ Method: Regex (6 Turkish citation patterns) + corpus resolution   │
+│ Resolve: target esas_no → doc_id in documents table              │
+│ Unresolved citations logged in unresolved_citations table         │
+│ CITES edges now include `treatment` property (Tier 5, Epic 5.3)  │
+│ — keyword heuristic classification of citation intent.            │
+│                                                                   │
+│ Neo4j: Document nodes, Court nodes, CITES + IN_COURT +           │
+│        APPEALS_TO relationships, PageRank computed via networkx   │
+│                                                                   │
+│ Store: PG `citations` table (source_doc_id, target_doc_id,       │
+│        esas_no, snippet, confidence, treatment)                   │
+│        Neo4j graph (Document + Court nodes, relationships)        │
+│        PG documents.pagerank_score / in/out_degree written back  │
+└───────────────────────────────┬───────────────────────────────────┘
+                                │
+                                ▼
+┌─────────────────────────────────────────────────────────┐
+│ STEP 8: BM25 Index (Tier 6, Epic 6.1)                  │
 │                                                         │
 │ Index all chunk texts with Turkish stemming             │
 │ (Milvus sparse vectors, or Elasticsearch)               │
@@ -105,36 +136,26 @@ S3 (50M+ markdown files)
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 8: Citation Extraction (Tier 7, Epic 7.1)         │
+│ STEP 9: Citation Treatment Classification (Tier 5→10)  │
 │                                                         │
-│ Input:  Full document text                              │
-│ Output: Citation edges (source_doc → target_doc)        │
-│                                                         │
-│ Method: Regex (Turkish citation patterns) + LLM         │
-│ Resolve: target case number → doc_id in corpus          │
-│ Unresolved citations logged separately                  │
-│                                                         │
-│ Store: PG `citations` table or Graph DB                 │
-│        (source_doc_id, target_doc_id, snippet)          │
-└─────────────────────┬───────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────┐
-│ STEP 9: Citation Treatment Classification (Tier 10)    │
+│ Split into two phases:                                  │
+│   Tier 5 (keyword heuristics on snippet context) and    │
+│   Tier 10 (LLM refinement for NEUTRAL edges).           │
 │                                                         │
 │ For each citation edge, classify:                       │
-│   FOLLOWS / DISTINGUISHES / OVERRULES /                 │
-│   CRITICIZES / NEUTRAL                                  │
+│   AFFIRMS / REVERSES / FOLLOWS / DISTINGUISHES /        │
+│   NEUTRAL                                               │
 │                                                         │
 │ Input:  Citation context paragraph + both summaries     │
-│ Method: LLM classification                              │
+│ Method: Tier 5 — keyword heuristics;                    │
+│         Tier 10 — LLM classification for NEUTRAL edges  │
 │                                                         │
 │ Store: `citations.treatment` field                      │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 10: Graph Metrics (Tier 7, Epic 7.3 + Tier 10)   │
+│ STEP 10: Graph Metrics (Tier 8, Epic 8.3 + Tier 10)   │
 │                                                         │
 │ Compute on full citation graph:                         │
 │   • PageRank (authority score)                          │
@@ -154,9 +175,9 @@ S3 (50M+ markdown files)
 | Store | What's in it |
 |-------|-------------|
 | **S3** | Raw markdown files (source of truth) |
-| **PostgreSQL** | `documents` (metadata + summary + holding + pagerank + status), `chunks` (text + section_type), `citations` (edges + treatment), `runs`/`query_metrics` (eval) |
+| **PostgreSQL** | `documents` (metadata + summary + holding + pagerank + status + `disposition TEXT` (onama/bozma/kismen_bozma/red/kabul/direnme/unknown) + `voting_method TEXT` (oy_birligi/oy_coklugu/unknown) + `decision_type TEXT` (karar/temyiz_incelemesi/istinaf_incelemesi) + `decision_authority TEXT` (daire_karari/genel_kurul_karari/ibk)), `chunks` (text + section_type), `citations` (edges + `treatment TEXT` (AFFIRMS/REVERSES/FOLLOWS/DISTINGUISHES/NEUTRAL)), `runs`/`query_metrics` (eval) |
 | **Milvus** | `chunks` collection (dense vectors), `summaries` collection (dense vectors), potentially sparse BM25 vectors |
-| **Graph DB (TBD)** | Court hierarchy (static), citation network (from PG citations), PageRank/degree on nodes |
+| **Neo4j 5.x (community)** | Court hierarchy nodes (static) + `APPEALS_TO` edges, Document nodes (doc_id + metadata + pagerank_score + `disposition` + `voting_method` + `decision_type` + `decision_authority`), `CITES` relationships (source from PG `citations` table, `treatment` property), `IN_COURT` edges, pagerank_score + in/out-degree properties on Document nodes |
 
 ---
 
@@ -183,24 +204,28 @@ Lawyer query: "iş kazası nedeniyle tazminat hesaplama yöntemi"
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 2: Multi-Path Retrieval (Tiers 3-8)               │
+│ STEP 2: Multi-Path Retrieval (Tiers 3-9)               │
 │                                                         │
 │ Three parallel retrieval paths:                         │
 │                                                         │
 │ PATH A — Dense (Tier 3+):                               │
 │   Embed query → search Milvus `chunks` → top 100       │
-│   Also search Milvus `summaries` (Tier 5+) → top 50    │
+│   Also search Milvus `summaries` (Tier 6+) → top 50    │
 │                                                         │
 │ PATH B — BM25/Sparse (Tier 4+):                         │
 │   Tokenize + stem query → BM25 search → top 100        │
 │                                                         │
-│ PATH C — Graph (Tier 8, Epic 8.3):                      │
+│ PATH C — Graph (Tier 4, Epic 4.3):                      │
 │   Take top-5 docs from dense → expand 1-hop in          │
-│   citation graph → neighbors become candidates          │
+│   citation graph (bidirectional) → PPR re-scoring       │
+│   → neighbors become candidates                         │
+│   Disposition-aware expansion: when top seeds share      │
+│   the same disposition, actively seek opposing           │
+│   dispositions via REVERSES edges (Tier 5, Epic 5.4).   │
 │                                                         │
 │ Optional metadata filters applied here:                 │
 │   court_level_min, date_after, law_branch, daire        │
-│   (Tier 8, Epic 8.4 — Milvus native filtering)         │
+│   (Tier 9, Epic 9.4 — Milvus native filtering)         │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
@@ -218,7 +243,7 @@ Lawyer query: "iş kazası nedeniyle tazminat hesaplama yöntemi"
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 4: Cross-Encoder Re-Ranking (Tier 6, Epic 6.2)   │
+│ STEP 4: Cross-Encoder Re-Ranking (Tier 7, Epic 7.2)   │
 │                                                         │
 │ For each of top 30 docs:                                │
 │   score = cross_encoder(query, doc.summary)             │
@@ -228,15 +253,15 @@ Lawyer query: "iş kazası nedeniyle tazminat hesaplama yöntemi"
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 5: Legal Authority Scoring (Tier 8)               │
+│ STEP 5: Legal Authority Scoring (Tier 9)               │
 │                                                         │
 │ Apply on top of cross-encoder score:                    │
 │                                                         │
-│ a) PageRank boost (Epic 8.1):                           │
+│ a) PageRank boost (Epic 9.1):                           │
 │    final = α * reranker_score +                         │
 │            (1-α) * normalized_pagerank                   │
 │                                                         │
-│ b) Court-level boost (Epic 8.2):                        │
+│ b) Court-level boost (Epic 9.2):                        │
 │    boosted = score × (1 + β × court_level / 4)          │
 │                                                         │
 │ c) İBK special boost:                                   │
@@ -268,16 +293,22 @@ Lawyer query: "iş kazası nedeniyle tazminat hesaplama yöntemi"
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│ STEP 7: Response Assembly                               │
+│ STEP 7: Context Assembly                                │
+│                                                         │
+│ Structured for consumption by a downstream LLM.         │
+│ Includes disposition, treatment, and conflict            │
+│ annotations.                                             │
 │                                                         │
 │ For each document in top 10:                            │
 │   • doc_id, score                                       │
 │   • Metadata: court, daire, esas_no, karar_no, date     │
 │   • court_level, decision_type, decision_authority       │
+│   • disposition, voting_method                           │
 │   • summary, holding_text                                │
 │   • pagerank_score                                       │
 │   • status: good_law / overruled / disputed / ...        │
 │   • if overruled: link to overruling case                │
+│   • citation treatments for edges in result set          │
 │                                                         │
 │ Plus:                                                    │
 │   • conflicts: [{doc_a, doc_b, type, explanation,        │
@@ -299,7 +330,7 @@ Lawyer query: "iş kazası nedeniyle tazminat hesaplama yöntemi"
 | Cross-encoder re-ranking (30 docs) | ~2-5s (GPU dependent) |
 | Legal authority scoring | ~10ms (lookups) |
 | Conflict detection (10 docs, pairwise LLM) | ~2-4s (LLM calls) |
-| Response assembly | ~20ms |
+| Context assembly | ~20ms |
 | **Total** | **~5-9s** |
 
-Bottleneck: cross-encoder + conflict detection LLM calls. Both are Tier 6+ / Tier 9+ additions.
+Bottleneck: cross-encoder + conflict detection LLM calls. Both are Tier 7+ / Tier 9+ additions.
