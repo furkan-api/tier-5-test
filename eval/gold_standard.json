@@ -17,77 +17,87 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "2013-7449",
+          "doc_id": "618b1ee75c975714",
           "relevance": 3,
           "description": "Önder Atmaca ve Diğerleri Başvurusu: İş bırakma eylemi nedeniyle fesihlerde Yargıtay kararları arasındaki çelişkiyi gerekçeli karar hakkı ve adil yargılanma yönünden ihlal sayan temel AYM kararıdır.",
-          "rationale": "Procedural Chain Member"
+          "rationale": "Procedural Chain Member",
+          "file_name": "2013-7449"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2017-25448-k-2017-6345-t-28-3-2017-1",
+          "doc_id": "5f1b52a9bad1a8c5",
           "relevance": 3,
           "description": "Sendikal neden iddiasıyla yapılan feshin geçersizliği davasında, sendikal tazminata hükmedilmesi için gerekli olan teknik inceleme kriterlerini (sendika yetkisi, işçi hareketliliği vb.) belirleyen bozma ilamıdır.",
-          "rationale": "Directly on point; defines the evidentiary standards and procedural requirements for proving union-based termination."
+          "rationale": "Directly on point; defines the evidentiary standards and procedural requirements for proving union-based termination.",
+          "file_name": "22-hukuk-dairesi-e-2017-25448-k-2017-6345-t-28-3-2017-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 3,
           "description": "Hava-İş sendikasının çağrısıyla yapılan eyleme katılımı 'geçerli fesih' nedeni sayan ve AYM'nin ihlal kararına konu olan asıl Yargıtay bozma ilamıdır.",
-          "rationale": "Procedural Chain Member"
+          "rationale": "Procedural Chain Member",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
+          "doc_id": "aec7765df00aa61e",
           "relevance": 3,
           "description": "AYM'nin ihlal kararı sonrası dosyanın geri gönderildiği Yargıtay'ın, ihlal kararını esasa ilişkin bir bozma olarak görmeyip kendi görüşünde direnç sergilediği teknik karardır.",
-          "rationale": "Procedural Chain Member"
+          "rationale": "Procedural Chain Member",
+          "file_name": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2011-17647-k-2012-10230-t-17-5-2012-1",
+          "doc_id": "2d031fa5dc01d7d9",
           "relevance": 2,
           "description": "Davacı sendikal neden iddiasıyla işe iade talep etmiştir; ancak uyuşmazlık somut olayda sendikal tazminattan ziyade özen borcuna aykırılık ve eksik inceleme (bilirkişi raporu) noktasında yoğunlaşmıştır.",
-          "rationale": "Common legal basis, procedural shift"
+          "rationale": "Common legal basis, procedural shift",
+          "file_name": "22-hukuk-dairesi-e-2011-17647-k-2012-10230-t-17-5-2012-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1",
+          "doc_id": "9609ecbc50400f26",
           "relevance": 1,
           "description": "Sorgu ile aynı hukuk branşında (İş Hukuku) yer almakla birlikte, uyuşmazlığın özü sendikal fesih değil, ihtiyari arabuluculuk tutanağının geçersizliğidir.",
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1"
         },
         {
-          "doc_id": "e-1999-953-k-1999-889-t-15-10-1999-1",
+          "doc_id": "c39ece23174da70a",
           "relevance": 0,
           "description": "Sorgu iş hukukundaki sendikal fesihle ilgiliyken, bu karar idari yargıda bir Bakanlar Kurulu kararının iptali davasındaki temyiz ehliyetine ilişkindir.",
-          "rationale": "Complete branch mismatch; Administrative Law vs. Labor Law. Keyword overlap on 'union' is incidental and lacks substantive legal connection."
+          "rationale": "Complete branch mismatch; Administrative Law vs. Labor Law. Keyword overlap on 'union' is incidental and lacks substantive legal connection.",
+          "file_name": "e-1999-953-k-1999-889-t-15-10-1999-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "doc_id": "fe4d6395ceb0a6d8",
           "relevance": 0,
-          "rationale": "Complete branch mismatch"
+          "rationale": "Complete branch mismatch",
+          "file_name": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1",
+          "doc_id": "9f935133acec4f4e",
           "relevance": 0,
-          "rationale": "Complete branch mismatch"
+          "rationale": "Complete branch mismatch",
+          "file_name": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "doc_id": "46d0b3ad22bbeb32",
           "relevance": 0,
-          "rationale": "Complete branch mismatch"
+          "rationale": "Complete branch mismatch",
+          "file_name": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "2013-7449",
-          "doc_b": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_a": "618b1ee75c975714",
+          "doc_b": "0c0ec6da50cd5bab",
           "description": "AYM'nin 'Önder Atmaca' kararı, 22. HD'nin sendikal eylemi geçerli fesih sayan yorumunu, gerekçeli karar hakkı ve sendikal haklar yönünden ihlal olarak değerlendirmiş ve içtihatlar arası tutarsızlığa dikkat çekmiştir."
         },
         {
-          "doc_a": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
-          "doc_b": "2013-7449",
+          "doc_a": "aec7765df00aa61e",
+          "doc_b": "618b1ee75c975714",
           "description": "22. HD, AYM'nin ihlal kararı sonrası dosyayı yeniden ele alırken, ihlalin sadece usuli (gerekçe eksikliği) olduğunu savunarak esastaki görüşünü korumuş ve AYM'nin esasa yönelik müdahalesine direnmiştir."
         },
         {
-          "doc_a": "22-hukuk-dairesi-e-2017-25448-k-2017-6345-t-28-3-2017-1",
-          "doc_b": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1",
+          "doc_a": "5f1b52a9bad1a8c5",
+          "doc_b": "9609ecbc50400f26",
           "description": "22. HD, sendikal tazminat için somut verilerle derinlemesine inceleme (eksik inceleme bozması) şartı koşarken; 9. HD kararı, sendikal iddia yerine arabuluculuk tutanağının geçerliliğine odaklanarak farklı bir ispat yükü dengesi sergilemektedir."
         }
       ],
@@ -106,77 +116,88 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "e-2016-6-k-2017-5-t-15-12-2017-1",
+          "doc_id": "f112e0646baf0ed5",
           "relevance": 3,
           "description": "YİBBGK Kararı: İşçilik alacaklarının belirli/belirsiz ayrımının her somut olaya göre yapılması gerektiğini belirterek içtihat birleştirmeye gerek olmadığına hükmeden temel karardır.",
-          "rationale": "Directly on point; sets the supreme judicial framework for the entire dispute."
+          "rationale": "Directly on point; sets the supreme judicial framework for the entire dispute.",
+          "file_name": "e-2016-6-k-2017-5-t-15-12-2017-1"
         },
         {
-          "doc_id": "2019-17969",
+          "doc_id": "53e7fb5be94105e7",
           "relevance": 3,
           "description": "AYM Faysal Çifçi Kararı: Belirsiz alacak davasının usulden reddedilmesini 'mahkemeye erişim hakkı' ihlali sayarak Yargıtay'ın katı uygulamasını anayasal düzlemde geçersiz kılan karardır.",
-          "rationale": "Directly on point; highest level of judicial review establishing a human rights violation."
+          "rationale": "Directly on point; highest level of judicial review establishing a human rights violation.",
+          "file_name": "2019-17969"
         },
         {
-          "doc_id": "22. Hukuk Dairesi 2017_18356 E. , 2018_25301 K.",
+          "doc_id": "bf036c5cfca76411",
           "relevance": 3,
           "description": "22. HD Kararı: Kıdem ve ihbar tazminatı gibi kalemlerin belirlenebilir olduğunu, bu nedenle belirsiz alacak davası açılamayacağını ve davanın usulden reddi gerektiğini savunan direnç kararıdır.",
-          "rationale": "Directly on point; represents the 'Rigid Approach' (dismissal on procedural grounds)."
+          "rationale": "Directly on point; represents the 'Rigid Approach' (dismissal on procedural grounds).",
+          "file_name": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1"
         },
         {
-          "doc_id": "9. Hukuk Dairesi 2016_26476 E. , 2020_7547 K.",
+          "doc_id": "4bcf9b34d7351eaf",
           "relevance": 3,
           "description": "9. HD Kararı: 22. HD'nin katı tutumuna karşı 'sürpriz karar verme yasağı' ve 'hukuki güven' ilkesi gereği davanın usulden reddedilmemesi gerektiğini savunan esnek görüştür.",
-          "rationale": "Directly on point; represents the 'Flexible/Equitable Approach' in the conflict."
+          "rationale": "Directly on point; represents the 'Flexible/Equitable Approach' in the conflict.",
+          "file_name": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1",
+          "doc_id": "3d336710b4e165ee",
           "relevance": 3,
           "description": "22. HD Kararı: İşçinin çalışma süresi ve ücretini bildiği durumlarda alacağın belirsiz sayılamayacağını ve davanın usulden reddini öngören kök kararlardan biridir.",
-          "rationale": "Directly on point; foundational case for the 'liquid claim' (likit alacak) requirement."
+          "rationale": "Directly on point; foundational case for the 'liquid claim' (likit alacak) requirement.",
+          "file_name": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "doc_id": "cfbef9539ed685e2",
           "relevance": 2,
           "description": "22. HD Kararı: Toplu iş sözleşmesi ve muvazaa analizi. Alacağın belirlenebilirliği tartışmasına veri sunar ancak ana odak TİS ve alt işverenlik ilişkisinin geçerliliğidir.",
-          "rationale": "Related; provides peripheral context on how contractual clarity affects claim determination."
+          "rationale": "Related; provides peripheral context on how contractual clarity affects claim determination.",
+          "file_name": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "doc_id": "7be7e23d55211613",
           "relevance": 2,
           "description": "22. HD Kararı: Muvazaa iddiası ve usuli kazanılmış hak tartışması. Belirsiz alacak konusuna dolaylı değinir, ana odak bozmaya uyma sonrası oluşan kazanılmış haktır.",
-          "rationale": "Related; discusses the procedural consequences of prior rulings in complex labor disputes."
+          "rationale": "Related; discusses the procedural consequences of prior rulings in complex labor disputes.",
+          "file_name": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "doc_id": "46d0b3ad22bbeb32",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Family Law vs. Labor Law. No overlap in legal framework, claim type, or procedural context. Keyword 'dava şartı' appears across branches but carries no substantive connection to HMK Art. 107 indeterminate claim doctrine."
+          "rationale": "Complete branch mismatch; Family Law vs. Labor Law. No overlap in legal framework, claim type, or procedural context. Keyword 'dava şartı' appears across branches but carries no substantive connection to HMK Art. 107 indeterminate claim doctrine.",
+          "file_name": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1",
+          "doc_id": "c9d2579b248d8fa3",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Family Law (HGK) vs. Labor Law. Dispute concerns marital breakdown and fault-based moral damages under TMK, entirely unrelated to the indeterminate claim doctrine or worker compensation claims."
+          "rationale": "Complete branch mismatch; Family Law (HGK) vs. Labor Law. Dispute concerns marital breakdown and fault-based moral damages under TMK, entirely unrelated to the indeterminate claim doctrine or worker compensation claims.",
+          "file_name": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1"
         },
         {
-          "doc_id": "e-1999-953-k-1999-889-t-15-10-1999-1",
+          "doc_id": "c39ece23174da70a",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Administrative Law vs. Labor Law. Concerns standing to appeal (temyiz ehliyeti) in an administrative court (Danıştay İDDK) challenge to a Council of Ministers decree. No connection to HMK Art. 107 or worker claim determinacy."
+          "rationale": "Complete branch mismatch; Administrative Law vs. Labor Law. Concerns standing to appeal (temyiz ehliyeti) in an administrative court (Danıştay İDDK) challenge to a Council of Ministers decree. No connection to HMK Art. 107 or worker claim determinacy.",
+          "file_name": "e-1999-953-k-1999-889-t-15-10-1999-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Criminal Law vs. Labor Law. Involves violent crimes (kasten öldürme, yağma) and criminal sentencing under TCK. No procedural or substantive overlap with the indeterminate civil claim framework."
+          "rationale": "Complete branch mismatch; Criminal Law vs. Labor Law. Involves violent crimes (kasten öldürme, yağma) and criminal sentencing under TCK. No procedural or substantive overlap with the indeterminate civil claim framework.",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "22. Hukuk Dairesi 2017_18356 E. , 2018_25301 K.",
-          "doc_b": "9. Hukuk Dairesi 2016_26476 E. , 2020_7547 K.",
+          "doc_a": "bf036c5cfca76411",
+          "doc_b": "4bcf9b34d7351eaf",
           "description": "Daireler arasındaki 'usulden ret' (22. HD) vs. 'esasa girme' (9. HD) çatışması."
         },
         {
-          "doc_a": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1",
-          "doc_b": "2019-17969",
+          "doc_a": "3d336710b4e165ee",
+          "doc_b": "53e7fb5be94105e7",
           "description": "Yargıtay'ın 'belirlenebilirlik' üzerinden getirdiği usuli kısıtlamanın AYM tarafından 'hak ihlali' sayılması."
         }
       ],
@@ -195,75 +216,85 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1.md",
+          "doc_id": "629be6dbaff9b4c9",
           "relevance": 3,
-          "rationale": "Tüm içtihatları yorumlayıp birleştiren içtihadi birleştirme kararı"
+          "rationale": "Tüm içtihatları yorumlayıp birleştiren içtihadi birleştirme kararı",
+          "file_name": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1.md",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 3,
-          "rationale": "Danıştay 3. Daire ilgili karar"
+          "rationale": "Danıştay 3. Daire ilgili karar",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         },
         {
-          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1.md",
+          "doc_id": "90c9373be154a0d6",
           "relevance": 3,
-          "rationale": "Danıştay 3. Daire ilgili karar"
+          "rationale": "Danıştay 3. Daire ilgili karar",
+          "file_name": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1"
         },
         {
-          "doc_id": "danistay-9-daire-e-2019-2591-k-2021-4815-1.md",
+          "doc_id": "7a5c01f1b6f7745f",
           "relevance": 3,
-          "rationale": "Danıştay 9. Daire ilgili karar"
+          "rationale": "Danıştay 9. Daire ilgili karar",
+          "file_name": "danistay-9-daire-e-2019-2591-k-2021-4815-1"
         },
         {
-          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1.md",
+          "doc_id": "d5501aa7784d403b",
           "relevance": 3,
-          "rationale": "Danıştay Vergi Dava Daireleri Kurulu ilgili karar"
+          "rationale": "Danıştay Vergi Dava Daireleri Kurulu ilgili karar",
+          "file_name": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1"
         },
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1.md",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 0,
-          "rationale": "unrelevant (commercial law)"
+          "rationale": "unrelevant (commercial law)",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1.md",
+          "doc_id": "0b44d73acb56d04d",
           "relevance": 0,
-          "rationale": "unrelated (criminal law)"
+          "rationale": "unrelated (criminal law)",
+          "file_name": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "doc_id": "68732b39281b9d1a",
           "relevance": 0,
-          "rationale": "unrelated (civil property law)"
+          "rationale": "unrelated (civil property law)",
+          "file_name": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "unrelated (criminal law)"
+          "rationale": "unrelated (criminal law)",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1",
+          "doc_id": "bc6040486a9dbafb",
           "relevance": 0,
-          "rationale": "unrelated (consumer law)"
+          "rationale": "unrelated (consumer law)",
+          "file_name": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1.md",
-          "doc_b": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1.md",
+          "doc_a": "c3ff9456d32f5329",
+          "doc_b": "90c9373be154a0d6",
           "description": "Danıştay 3. Daire kendi içinde çelişkili: ilk kararda tarhiyat sonrası ihtiyati haciz tesis edilemeyeceğine, ikinci kararda tesis edilebileceğine hükmetmiştir."
         },
         {
-          "doc_a": "danistay-9-daire-e-2019-2591-k-2021-4815-1.md",
-          "doc_b": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1.md",
+          "doc_a": "7a5c01f1b6f7745f",
+          "doc_b": "90c9373be154a0d6",
           "description": "9. Daire tarhiyat sonrası ihtiyati haciz tesisini hukuka aykırı bulurken, 3. Daire aynı mesele için hukuka uygun bulmuştur."
         },
         {
-          "doc_a": "danistay-9-daire-e-2019-2591-k-2021-4815-1.md",
-          "doc_b": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1.md",
+          "doc_a": "7a5c01f1b6f7745f",
+          "doc_b": "d5501aa7784d403b",
           "description": "9. Daire ihtiyati hacze cevaz vermezken, Vergi Dava Daireleri Kurulu tarhiyat sonrası ihtiyati haciz tesis edilebileceğine hükmetmiştir."
         },
         {
-          "doc_a": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1.md",
-          "doc_b": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1.md",
+          "doc_a": "c3ff9456d32f5329",
+          "doc_b": "d5501aa7784d403b",
           "description": "3. Daire ihtiyati haczi hukuka aykırı bulurken, VDDK aynı konuda ihtiyati hacze cevaz vermiştir."
         }
       ],
@@ -280,59 +311,69 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "Hukuk Genel Kurulu 2015_983 E.",
+          "doc_id": "5d1ac8c9565f9e2b",
           "relevance": 3,
           "description": "Nihai Karar: İş kazasının tamamen kaçınılmaz olduğu durumda işverenin %60 oranında sorumlu tutulması gerektiğini onaylayan ve alt mahkemenin direnme kararını bozan kesin içtihattır.",
-          "rationale": "Directly on point; sets the binding 60/40 ratio as the final judicial authority for the primary case."
+          "rationale": "Directly on point; sets the binding 60/40 ratio as the final judicial authority for the primary case.",
+          "file_name": "hukuk-genel-kurulu-e-2015-983-1"
         },
         {
-          "doc_id": "21. Hukuk Dairesi 2014_2165 E. , 2014_10603 K.",
+          "doc_id": "a1502e1d239a00ee",
           "relevance": 3,
           "description": "Bozma Kararı: Kaçınılmazlık ilkesi gereği işverene sosyal devlet ilkesi uyarınca %60 sorumluluk yükleyen ilk derece bozma kararıdır.",
-          "rationale": "Directly on point; establishes the legal ratio later confirmed by the General Assembly."
+          "rationale": "Directly on point; establishes the legal ratio later confirmed by the General Assembly.",
+          "file_name": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1"
         },
         {
-          "doc_id": "21. Hukuk Dairesi 2019_5246 E. , 2020_975 K.",
+          "doc_id": "00324424bd3e650a",
           "relevance": 3,
           "description": "Emsal Karar: Farklı bir iş kazasında %60 kaçınılmazlık oranının işverene kusur olarak yüklenmesi gerektiğini yineleyen güncel tarihli karardır.",
-          "rationale": "Directly on point; proves the continuity and consistency of the 60/40 rule in different cases."
+          "rationale": "Directly on point; proves the continuity and consistency of the 60/40 rule in different cases.",
+          "file_name": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1"
         },
         {
-          "doc_id": "21. Hukuk Dairesi 2016_115 E. , 2017_2948 K.",
+          "doc_id": "cc8742bafa496113",
           "relevance": 3,
           "description": "Emsal Karar: Kaçınılmazlık durumunda maddi ve manevi tazminatın hesaplanmasında işveren sorumluluğunu ve faiz başlangıcını düzenleyen destekleyici karardır.",
-          "rationale": "Directly on point; reinforces the application of the principle in fatality cases."
+          "rationale": "Directly on point; reinforces the application of the principle in fatality cases.",
+          "file_name": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1"
         },
         {
-          "doc_id": "Hukuk Genel Kurulu 2012_1141 E. , 2013_282 K.",
+          "doc_id": "e98b1234b2da77d6",
           "relevance": 3,
           "description": "Emsal Karar: Rücu davasında kaçınılmazlık olgusunun araştırılması ve işverenin önlem alma yükümlülüğünün sınırlarını tartışan HGK kararıdır.",
-          "rationale": "Directly on point; provides high-court authority on the investigation of the 'inevitability' factor."
+          "rationale": "Directly on point; provides high-court authority on the investigation of the 'inevitability' factor.",
+          "file_name": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_id": "e28fde4144d01b09",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Criminal Law vs. Labor Law. Concerns violent crime prosecution and sentencing under TCK — no overlap with employer liability, workplace accidents, or the inevitability doctrine."
+          "rationale": "Complete branch mismatch; Criminal Law vs. Labor Law. Concerns violent crime prosecution and sentencing under TCK — no overlap with employer liability, workplace accidents, or the inevitability doctrine.",
+          "file_name": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Criminal Law vs. Labor Law. Involves criminal proceedings under TCK entirely unrelated to civil employer liability or risk-sharing ratios in workplace injury claims."
+          "rationale": "Complete branch mismatch; Criminal Law vs. Labor Law. Involves criminal proceedings under TCK entirely unrelated to civil employer liability or risk-sharing ratios in workplace injury claims.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "doc_id": "46d0b3ad22bbeb32",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Family Law vs. Labor Law. Dispute concerns matrimonial matters under TMK — no substantive connection to occupational accident liability or the kaçınılmazlık doctrine."
+          "rationale": "Complete branch mismatch; Family Law vs. Labor Law. Dispute concerns matrimonial matters under TMK — no substantive connection to occupational accident liability or the kaçınılmazlık doctrine.",
+          "file_name": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1"
         },
         {
-          "doc_id": "e-1999-953-k-1999-889-t-15-10-1999-1",
+          "doc_id": "c39ece23174da70a",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Administrative Law vs. Labor Law. Concerns standing to appeal (temyiz ehliyeti) in an administrative court challenge to a Council of Ministers decree — entirely unrelated to employer tort liability in workplace accidents."
+          "rationale": "Complete branch mismatch; Administrative Law vs. Labor Law. Concerns standing to appeal (temyiz ehliyeti) in an administrative court challenge to a Council of Ministers decree — entirely unrelated to employer tort liability in workplace accidents.",
+          "file_name": "e-1999-953-k-1999-889-t-15-10-1999-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1",
+          "doc_id": "c9d2579b248d8fa3",
           "relevance": 0,
-          "rationale": "Complete branch mismatch; Family Law (HGK) vs. Labor Law. Dispute concerns marital breakdown and fault-based moral damages under TMK — no connection to the kaçınılmazlık principle or occupational accident compensation."
+          "rationale": "Complete branch mismatch; Family Law (HGK) vs. Labor Law. Dispute concerns marital breakdown and fault-based moral damages under TMK — no connection to the kaçınılmazlık principle or occupational accident compensation.",
+          "file_name": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1"
         }
       ],
       "difficulty": "easy"
@@ -347,27 +388,30 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "Doc_A: 1. HD 2007_9815 E.",
+          "doc_id": "21798831a2666236",
           "relevance": 3,
           "description": "Kabul Kararı: Murisin mal satma ihtiyacının olmaması, alıcının öğrenci olması ve bedel farkı nedeniyle işlemin muvazaalı olduğunu kabul eden emsal karardır.",
-          "rationale": "Directly on point; establishes the set of indicators (indicators of sham) that lead to the cancellation of the deed."
+          "rationale": "Directly on point; establishes the set of indicators (indicators of sham) that lead to the cancellation of the deed.",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "Doc_B: 1. HD 2014_22602 E.",
+          "doc_id": "aa187046abb703e9",
           "relevance": 3,
           "description": "Ret Kararı: Alıcının gelirinin bulunması ve salt bedel farkının muvazaa için yeterli kanıt sayılamayacağı gerekçesiyle davanın reddini savunan emsal karardır.",
-          "rationale": "Directly on point; contradicts Doc_A by emphasizing the buyer's financial capacity and the insufficiency of price disparity as sole evidence."
+          "rationale": "Directly on point; contradicts Doc_A by emphasizing the buyer's financial capacity and the insufficiency of price disparity as sole evidence.",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2",
+          "doc_id": "061b067290a9e526",
           "relevance": 3,
           "description": "Üst Norm: Muris muvazaası davalarının temel dayanağını oluşturan, saklı pay sahibi olsun ya da olmasın tüm mirasçıların dava açabileceğini hükme bağlayan İçtihadı Birleştirme Kararıdır.",
-          "rationale": "Mandatory background; provides the legal standing (locus standi) required for both contradictory claims."
+          "rationale": "Mandatory background; provides the legal standing (locus standi) required for both contradictory claims.",
+          "file_name": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1"
         }
       ],
       "contradictory_pair": {
-        "doc_a": "1. HD 2007_9815 E.",
-        "doc_b": "1. HD 2014_22602 E.",
+        "doc_a": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+        "doc_b": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
         "conflict_point": "İspat Kriterleri Çelişkisi: doc_a; düşük bedel farkı ve alıcının mali gücsüzlüğünü 'kesin muvazaa karinesi' kabul ederek davanın kabulüne hükmederken; doc_b, alıcının geliri olduğu sürece düşük bedelin 'tek başına muvazaa kanıtı olamayacağını' savunarak davanın reddine hükmetmektedir.",
         "description": "Bu çelişki, somut olayda alıcının (davalının) ekonomik gücünün ispatının, davanın kaderini belirleyen en kritik 'pivot nokta' olduğunu göstermektedir."
       },
@@ -385,49 +429,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 3,
-          "rationale": "Torununa satış göstererek devir — muris muvazaası tapu iptali, birebir"
+          "rationale": "Torununa satış göstererek devir — muris muvazaası tapu iptali, birebir",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "doc_id": "68732b39281b9d1a",
           "relevance": 3,
-          "rationale": "Torunlarına satış göstererek devir — muris muvazaası, birebir"
+          "rationale": "Torunlarına satış göstererek devir — muris muvazaası, birebir",
+          "file_name": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1"
         },
         {
-          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "doc_id": "061b067290a9e526",
           "relevance": 3,
-          "rationale": "Muris muvazaasının temel İBK kararı — tüm mirasçılara dava hakkı"
+          "rationale": "Muris muvazaasının temel İBK kararı — tüm mirasçılara dava hakkı",
+          "file_name": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 2,
-          "rationale": "Oğula satış, muvazaa ispatlanamadı — torun değil ama ispat meselesi aynı"
+          "rationale": "Oğula satış, muvazaa ispatlanamadı — torun değil ama ispat meselesi aynı",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1",
+          "doc_id": "489e337e0203207a",
           "relevance": 2,
-          "rationale": "Eşe satış göstererek devir — torun değil eş ama aynı muvazaa ispat çerçevesi"
+          "rationale": "Eşe satış göstererek devir — torun değil eş ama aynı muvazaa ispat çerçevesi",
+          "file_name": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "doc_id": "fe4d6395ceb0a6d8",
           "relevance": 2,
-          "rationale": "Birden fazla taşınmazın muvazaalı devri + vekalet kötüye kullanımı — ilgili ama farklı açı"
+          "rationale": "Birden fazla taşınmazın muvazaalı devri + vekalet kötüye kullanımı — ilgili ama farklı açı",
+          "file_name": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "doc_id": "eca96b13d5626342",
           "relevance": 1,
-          "rationale": "Hile yoluyla tapu iptali — muvazaa değil hile ama tapu iptali ortak"
+          "rationale": "Hile yoluyla tapu iptali — muvazaa değil hile ama tapu iptali ortak",
+          "file_name": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "doc_id": "b73f9d7b278ab3a1",
           "relevance": 0,
-          "rationale": "İş hukuku — alt işverenlik alacakları, ilgisiz"
+          "rationale": "İş hukuku — alt işverenlik alacakları, ilgisiz",
+          "file_name": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -443,49 +496,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 3,
-          "rationale": "Bedel farkının tek başına delil olamaması, ispat yükü (TMK 6, HMK 190/1) — birebir"
+          "rationale": "Bedel farkının tek başına delil olamaması, ispat yükü (TMK 6, HMK 190/1) — birebir",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 3,
-          "rationale": "Alım gücü araştırması yapılması gerektiği — birebir"
+          "rationale": "Alım gücü araştırması yapılması gerektiği — birebir",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1",
+          "doc_id": "489e337e0203207a",
           "relevance": 3,
-          "rationale": "Eşe satış, muvazaa ispat incelemesi — ispat odağı doğrudan"
+          "rationale": "Eşe satış, muvazaa ispat incelemesi — ispat odağı doğrudan",
+          "file_name": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1"
         },
         {
-          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "doc_id": "061b067290a9e526",
           "relevance": 2,
-          "rationale": "Muris muvazaasının temeli ama ispat/bedel spesifik değil"
+          "rationale": "Muris muvazaasının temeli ama ispat/bedel spesifik değil",
+          "file_name": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "doc_id": "68732b39281b9d1a",
           "relevance": 2,
-          "rationale": "Muris muvazaası bedel talebi var ama ispat odağı değil"
+          "rationale": "Muris muvazaası bedel talebi var ama ispat odağı değil",
+          "file_name": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "doc_id": "fe4d6395ceb0a6d8",
           "relevance": 2,
-          "rationale": "Muvazaalı devir + vekalet kötüye kullanımı — ilgili ama farklı açı"
+          "rationale": "Muvazaalı devir + vekalet kötüye kullanımı — ilgili ama farklı açı",
+          "file_name": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "doc_id": "eca96b13d5626342",
           "relevance": 1,
-          "rationale": "Hile yoluyla tapu iptali — ispat meselesi benzer ama farklı hukuki temel"
+          "rationale": "Hile yoluyla tapu iptali — ispat meselesi benzer ama farklı hukuki temel",
+          "file_name": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_id": "e28fde4144d01b09",
           "relevance": 0,
-          "rationale": "Ceza — ağırlaşmış yaralama, ilgisiz"
+          "rationale": "Ceza — ağırlaşmış yaralama, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "doc_id": "cfbef9539ed685e2",
           "relevance": 0,
-          "rationale": "İş hukuku — muvazaalı alt işverenlik, farklı dal"
+          "rationale": "İş hukuku — muvazaalı alt işverenlik, farklı dal",
+          "file_name": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1"
         }
       ],
       "difficulty": "medium"
@@ -501,39 +563,46 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1",
+          "doc_id": "489e337e0203207a",
           "relevance": 3,
-          "rationale": "Eşe satış göstererek devir, ölünceye kadar bakma sözleşmesi muvazaası — birebir"
+          "rationale": "Eşe satış göstererek devir, ölünceye kadar bakma sözleşmesi muvazaası — birebir",
+          "file_name": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1"
         },
         {
-          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "doc_id": "061b067290a9e526",
           "relevance": 3,
-          "rationale": "Muris muvazaasında tüm mirasçılara dava hakkı — vatandaşın 'ne yapabiliriz' sorusunun temeli"
+          "rationale": "Muris muvazaasında tüm mirasçılara dava hakkı — vatandaşın 'ne yapabiliriz' sorusunun temeli",
+          "file_name": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 2,
-          "rationale": "Muris muvazaası tapu iptali — eşe değil toruna devir ama aynı hukuki çerçeve"
+          "rationale": "Muris muvazaası tapu iptali — eşe değil toruna devir ama aynı hukuki çerçeve",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 2,
-          "rationale": "Muris muvazaası ispat — eşe değil oğula devir ama ispat meselesi ortak"
+          "rationale": "Muris muvazaası ispat — eşe değil oğula devir ama ispat meselesi ortak",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1",
+          "doc_id": "fe4d6395ceb0a6d8",
           "relevance": 2,
-          "rationale": "Birden fazla taşınmazın muvazaalı devri — ilgili ama bakma sözleşmesi yok"
+          "rationale": "Birden fazla taşınmazın muvazaalı devri — ilgili ama bakma sözleşmesi yok",
+          "file_name": "1-hukuk-dairesi-e-2024-256-k-2025-5811-t-9-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1",
+          "doc_id": "eca96b13d5626342",
           "relevance": 1,
-          "rationale": "Hile yoluyla tapu iptali — tapu iptali ortak ama muvazaa değil hile"
+          "rationale": "Hile yoluyla tapu iptali — tapu iptali ortak ama muvazaa değil hile",
+          "file_name": "1-hukuk-dairesi-e-2024-5797-k-2025-5772-t-8-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "doc_id": "5e5794bf4347f26b",
           "relevance": 0,
-          "rationale": "Ceza — olası kastla öldürme, ilgisiz"
+          "rationale": "Ceza — olası kastla öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1"
         }
       ],
       "difficulty": "hard"
@@ -548,24 +617,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "doc_id": "061b067290a9e526",
           "relevance": 3,
-          "rationale": "Aranan karar — muris muvazaasında tüm mirasçılara dava hakkı, birebir"
+          "rationale": "Aranan karar — muris muvazaasında tüm mirasçılara dava hakkı, birebir",
+          "file_name": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 2,
-          "rationale": "1974 İBK'ya dayanarak torununa devir muvazaası — İBK'ya atıf yapan karar"
+          "rationale": "1974 İBK'ya dayanarak torununa devir muvazaası — İBK'ya atıf yapan karar",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1",
+          "doc_id": "489e337e0203207a",
           "relevance": 2,
-          "rationale": "Nisbi muvazaa ispat incelemesi — İBK çerçevesinde"
+          "rationale": "Nisbi muvazaa ispat incelemesi — İBK çerçevesinde",
+          "file_name": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 1,
-          "rationale": "Muris muvazaası ama İBK odağı değil, ispat yükü meselesi"
+          "rationale": "Muris muvazaası ama İBK odağı değil, ispat yükü meselesi",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         }
       ],
       "difficulty": "easy"
@@ -581,49 +654,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1",
+          "doc_id": "7415bfb5868932f2",
           "relevance": 3,
-          "rationale": "Kadının tepki davranışları erkeğin güven sarsıcı eylemlerine karşı — kusur değerlendirmesi doğrudan"
+          "rationale": "Kadının tepki davranışları erkeğin güven sarsıcı eylemlerine karşı — kusur değerlendirmesi doğrudan",
+          "file_name": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1",
+          "doc_id": "0ac622d224fb529a",
           "relevance": 3,
-          "rationale": "Kocanın başka kadınla ilişkisi, kadının hakareti — karşılıklı kusur tespiti"
+          "rationale": "Kocanın başka kadınla ilişkisi, kadının hakareti — karşılıklı kusur tespiti",
+          "file_name": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1",
+          "doc_id": "c9d2579b248d8fa3",
           "relevance": 3,
-          "rationale": "Sadakat yükümlülüğü ihlali, ağır kusur belirlenmesi — birebir"
+          "rationale": "Sadakat yükümlülüğü ihlali, ağır kusur belirlenmesi — birebir",
+          "file_name": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "doc_id": "4f9c6316fe346e2d",
           "relevance": 2,
-          "rationale": "Sadakat ihlali + fiziksel şiddet, tam kusur — ilgili ama karşılıklı kusur değil tek taraflı"
+          "rationale": "Sadakat ihlali + fiziksel şiddet, tam kusur — ilgili ama karşılıklı kusur değil tek taraflı",
+          "file_name": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "doc_id": "46d0b3ad22bbeb32",
           "relevance": 2,
-          "rationale": "Tazminat miktarının artırılması — kusur tespiti sonrası adım, ilgili"
+          "rationale": "Tazminat miktarının artırılması — kusur tespiti sonrası adım, ilgili",
+          "file_name": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1",
+          "doc_id": "88145bb360d534ee",
           "relevance": 2,
-          "rationale": "Eşit kusur halinde nafaka ve tazminat — kusur var ama odak sonuçları"
+          "rationale": "Eşit kusur halinde nafaka ve tazminat — kusur var ama odak sonuçları",
+          "file_name": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1",
+          "doc_id": "70bf63d432009086",
           "relevance": 1,
-          "rationale": "Zina iddiası, istinaf/temyiz — kusur var ama usul odaklı"
+          "rationale": "Zina iddiası, istinaf/temyiz — kusur var ama usul odaklı",
+          "file_name": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
+          "doc_id": "4bcf9b34d7351eaf",
           "relevance": 0,
-          "rationale": "İş hukuku — belirsiz alacak davası, ilgisiz"
+          "rationale": "İş hukuku — belirsiz alacak davası, ilgisiz",
+          "file_name": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1",
+          "doc_id": "f4c810679797eb44",
           "relevance": 0,
-          "rationale": "Ceza — nitelikli kasten öldürme, ilgisiz"
+          "rationale": "Ceza — nitelikli kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-6671-k-2025-8927-t-11-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -639,39 +721,46 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1",
+          "doc_id": "88145bb360d534ee",
           "relevance": 3,
-          "rationale": "Eşit kusur halinde yoksulluk nafakası ve manevi tazminat — TMK 174/2, 175, birebir"
+          "rationale": "Eşit kusur halinde yoksulluk nafakası ve manevi tazminat — TMK 174/2, 175, birebir",
+          "file_name": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1",
+          "doc_id": "46d0b3ad22bbeb32",
           "relevance": 3,
-          "rationale": "Tazminat miktarının artırılması, hakkaniyet — tazminat koşulları doğrudan"
+          "rationale": "Tazminat miktarının artırılması, hakkaniyet — tazminat koşulları doğrudan",
+          "file_name": "2-hukuk-dairesi-e-2024-9694-k-2025-10849-t-9-12-2025-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "doc_id": "4f9c6316fe346e2d",
           "relevance": 2,
-          "rationale": "Bağımsız tedbir nafakası, tam kusur — nafaka ilgili ama eşit kusur değil"
+          "rationale": "Bağımsız tedbir nafakası, tam kusur — nafaka ilgili ama eşit kusur değil",
+          "file_name": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1",
+          "doc_id": "7415bfb5868932f2",
           "relevance": 2,
-          "rationale": "Tepki davranışları, kusur değerlendirmesi — kusur tespiti nafakaya etki eder ama odak farklı"
+          "rationale": "Tepki davranışları, kusur değerlendirmesi — kusur tespiti nafakaya etki eder ama odak farklı",
+          "file_name": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1",
+          "doc_id": "c9d2579b248d8fa3",
           "relevance": 2,
-          "rationale": "Ağır kusur, sadakat ihlali — kusur derecesi nafaka/tazminatı etkiler"
+          "rationale": "Ağır kusur, sadakat ihlali — kusur derecesi nafaka/tazminatı etkiler",
+          "file_name": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1",
+          "doc_id": "0ac622d224fb529a",
           "relevance": 1,
-          "rationale": "Boşanma, kusur — ama nafaka/tazminat odağı değil"
+          "rationale": "Boşanma, kusur — ama nafaka/tazminat odağı değil",
+          "file_name": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Tapu hukuku — muris muvazaası, ilgisiz"
+          "rationale": "Tapu hukuku — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -687,39 +776,46 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1",
+          "doc_id": "c9d2579b248d8fa3",
           "relevance": 3,
-          "rationale": "Sadakat yükümlülüğü ihlali, ağır kusur belirlenmesi — birebir"
+          "rationale": "Sadakat yükümlülüğü ihlali, ağır kusur belirlenmesi — birebir",
+          "file_name": "hukuk-genel-kurulu-e-2017-1906-k-2018-112-t-7-2-2018-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1",
+          "doc_id": "70bf63d432009086",
           "relevance": 3,
-          "rationale": "Zina iddiası, karşılıklı boşanma — birebir"
+          "rationale": "Zina iddiası, karşılıklı boşanma — birebir",
+          "file_name": "2-hukuk-dairesi-e-2024-9726-k-2025-10800-t-8-12-2025-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "doc_id": "4f9c6316fe346e2d",
           "relevance": 2,
-          "rationale": "Sadakat ihlali + fiziksel şiddet, tam kusur — sadakat var ama şiddet ağırlıklı"
+          "rationale": "Sadakat ihlali + fiziksel şiddet, tam kusur — sadakat var ama şiddet ağırlıklı",
+          "file_name": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1",
+          "doc_id": "0ac622d224fb529a",
           "relevance": 2,
-          "rationale": "Kocanın başka kadınla ilişkisi — sadakat ihlali var ama zina özel hükmü değil"
+          "rationale": "Kocanın başka kadınla ilişkisi — sadakat ihlali var ama zina özel hükmü değil",
+          "file_name": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1",
+          "doc_id": "7415bfb5868932f2",
           "relevance": 2,
-          "rationale": "Güven sarsıcı eylemler — sadakate yakın ama zina odağı değil"
+          "rationale": "Güven sarsıcı eylemler — sadakate yakın ama zina odağı değil",
+          "file_name": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1",
+          "doc_id": "88145bb360d534ee",
           "relevance": 1,
-          "rationale": "Eşit kusur, nafaka/tazminat — boşanma sonuçları var ama zina spesifik değil"
+          "rationale": "Eşit kusur, nafaka/tazminat — boşanma sonuçları var ama zina spesifik değil",
+          "file_name": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "doc_id": "a1502e1d239a00ee",
           "relevance": 0,
-          "rationale": "İş kazası — iş göremezlik tazminatı, ilgisiz"
+          "rationale": "İş kazası — iş göremezlik tazminatı, ilgisiz",
+          "file_name": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1"
         }
       ],
       "difficulty": "medium"
@@ -734,29 +830,34 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1",
+          "doc_id": "4f9c6316fe346e2d",
           "relevance": 2,
-          "rationale": "Velayet anneye verildi ama asıl mesele kusur/şiddet — velayetin esası tartışılmıyor"
+          "rationale": "Velayet anneye verildi ama asıl mesele kusur/şiddet — velayetin esası tartışılmıyor",
+          "file_name": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2023-7132-k-2024-4132-1",
+          "doc_id": "2151297528ed418e",
           "relevance": 2,
-          "rationale": "Velayet talebi var ama kesin süre nedeniyle esasa girilemiyor"
+          "rationale": "Velayet talebi var ama kesin süre nedeniyle esasa girilemiyor",
+          "file_name": "2-hukuk-dairesi-e-2023-7132-k-2024-4132-1"
         },
         {
-          "doc_id": "diyarbakir-bam2-2022-877",
+          "doc_id": "292b107f0529ef1e",
           "relevance": 1,
-          "rationale": "Velayet karşı dava — boşanma reddi ile otomatik ret, esasa girilmiyor"
+          "rationale": "Velayet karşı dava — boşanma reddi ile otomatik ret, esasa girilmiyor",
+          "file_name": "diyarbakir-bam2-2022-877"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_id": "e47484677ec17ba2",
           "relevance": 0,
-          "rationale": "İş hukuku — yabancı unsurlu iş sözleşmesi, ilgisiz"
+          "rationale": "İş hukuku — yabancı unsurlu iş sözleşmesi, ilgisiz",
+          "file_name": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1"
         },
         {
-          "doc_id": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1",
+          "doc_id": "46d1623924ba01bc",
           "relevance": 0,
-          "rationale": "Vergi — sahte fatura tarhiyatı, ilgisiz"
+          "rationale": "Vergi — sahte fatura tarhiyatı, ilgisiz",
+          "file_name": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1"
         }
       ],
       "difficulty": "hard"
@@ -771,24 +872,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_id": "e47484677ec17ba2",
           "relevance": 3,
-          "rationale": "Yurt dışında çalışan işçi, hukuk seçimi, zamanaşımı — birebir"
+          "rationale": "Yurt dışında çalışan işçi, hukuk seçimi, zamanaşımı — birebir",
+          "file_name": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
+          "doc_id": "4bcf9b34d7351eaf",
           "relevance": 2,
-          "rationale": "Kıdem/ihbar tazminatı, belirsiz alacak — kıdem/ihbar ortak ama yabancı unsur yok"
+          "rationale": "Kıdem/ihbar tazminatı, belirsiz alacak — kıdem/ihbar ortak ama yabancı unsur yok",
+          "file_name": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1",
+          "doc_id": "bf036c5cfca76411",
           "relevance": 1,
-          "rationale": "Kıdem/ihbar belirlenebilirliği — tazminat konusu ortak ama farklı mesele"
+          "rationale": "Kıdem/ihbar belirlenebilirliği — tazminat konusu ortak ama farklı mesele",
+          "file_name": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1",
+          "doc_id": "88145bb360d534ee",
           "relevance": 0,
-          "rationale": "Boşanma — nafaka/tazminat, ilgisiz"
+          "rationale": "Boşanma — nafaka/tazminat, ilgisiz",
+          "file_name": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1"
         }
       ],
       "difficulty": "medium"
@@ -803,34 +908,40 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
+          "doc_id": "aec7765df00aa61e",
           "relevance": 3,
-          "rationale": "THY DO&CO işletmesel nedenle fesih, işe iade, feshin son çare ilkesi — birebir"
+          "rationale": "THY DO&CO işletmesel nedenle fesih, işe iade, feshin son çare ilkesi — birebir",
+          "file_name": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 3,
-          "rationale": "THY iş bırakma nedeniyle fesih, işe iade — fesih gerekçesinin geçerliliği tartışılıyor"
+          "rationale": "THY iş bırakma nedeniyle fesih, işe iade — fesih gerekçesinin geçerliliği tartışılıyor",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         },
         {
-          "doc_id": "2013-7449",
+          "doc_id": "618b1ee75c975714",
           "relevance": 2,
-          "rationale": "THY çalışanları grev hakkı, adil yargılanma — işe iade bağlamı var ama AYM perspektifinden"
+          "rationale": "THY çalışanları grev hakkı, adil yargılanma — işe iade bağlamı var ama AYM perspektifinden",
+          "file_name": "2013-7449"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_id": "fb0dc4d778dc4dda",
           "relevance": 2,
-          "rationale": "Muvazaalı alt işverenlik, işçinin asıl işveren işçisi sayılması — feshin kime karşı ileri sürüleceğini etkiler"
+          "rationale": "Muvazaalı alt işverenlik, işçinin asıl işveren işçisi sayılması — feshin kime karşı ileri sürüleceğini etkiler",
+          "file_name": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "doc_id": "b73f9d7b278ab3a1",
           "relevance": 1,
-          "rationale": "Alt yüklenici işçilik alacakları — fesih var ama işe iade odağı değil"
+          "rationale": "Alt yüklenici işçilik alacakları — fesih var ama işe iade odağı değil",
+          "file_name": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 0,
-          "rationale": "Vergi — ihtiyati haciz, ilgisiz"
+          "rationale": "Vergi — ihtiyati haciz, ilgisiz",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         }
       ],
       "difficulty": "medium"
@@ -846,50 +957,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_id": "fb0dc4d778dc4dda",
           "relevance": 3,
-          "rationale": "Muvazaalı alt işverenlik tespiti → asıl işveren TİS'inden doğan alacaklar — birebir"
+          "rationale": "Muvazaalı alt işverenlik tespiti → asıl işveren TİS'inden doğan alacaklar — birebir",
+          "file_name": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "doc_id": "cfbef9539ed685e2",
           "relevance": 3,
-          "rationale": "Seyitömer muvazaa — 22. HD muvazaa yok diyor, TİS alacakları tartışılıyor"
+          "rationale": "Seyitömer muvazaa — 22. HD muvazaa yok diyor, TİS alacakları tartışılıyor",
+          "file_name": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1",
+          "doc_id": "9609ecbc50400f26",
           "relevance": 2,
-          "rationale": "TİS hizmet zammı alacağı, TİS yorumu — TİS ortak ama muvazaa yok"
+          "rationale": "TİS hizmet zammı alacağı, TİS yorumu — TİS ortak ama muvazaa yok",
+          "file_name": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1",
+          "doc_id": "7be7e23d55211613",
           "relevance": 2,
-          "rationale": "Muvazaa iddiası, usuli kazanılmış hak — Seyitömer zinciri, muvazaa bağlamı"
+          "rationale": "Muvazaa iddiası, usuli kazanılmış hak — Seyitömer zinciri, muvazaa bağlamı",
+          "file_name": "22-hukuk-dairesi-e-2015-23643-k-2016-8185-t-16-3-2016-1"
         },
         {
-          "doc_id": "k-2016-13036-t-21-2-2019-1",
+          "doc_id": "5dbdf5c109bf70bf",
           "relevance": 1,
-          "rationale": "AYM Seyitömer — muvazaa uyuşmazlığı ama TİS alacağı değil adil yargılanma odağı"
+          "rationale": "AYM Seyitömer — muvazaa uyuşmazlığı ama TİS alacağı değil adil yargılanma odağı",
+          "file_name": "k-2016-13036-t-21-2-2019-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_id": "e47484677ec17ba2",
           "relevance": 1,
-          "rationale": "İşçilik alacakları — iş hukuku ortak ama muvazaa/TİS yok"
+          "rationale": "İşçilik alacakları — iş hukuku ortak ama muvazaa/TİS yok",
+          "file_name": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1"
         },
         {
-          "doc_id": "5-hd-e-2025-832-k-2026-249-t-13-1-2026-1",
+          "doc_id": "c94d0e520bfe8fb5",
           "relevance": 0,
-          "rationale": "Tapu sicili sorumluluğu — ilgisiz"
+          "rationale": "Tapu sicili sorumluluğu — ilgisiz",
+          "file_name": "5-hd-e-2025-832-k-2026-249-t-13-1-2026-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1",
+          "doc_id": "d3c2cf1f070b4803",
           "relevance": 0,
-          "rationale": "Ceza — uyuşturucu bulundurma, ilgisiz"
+          "rationale": "Ceza — uyuşturucu bulundurma, ilgisiz",
+          "file_name": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
-          "doc_b": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_a": "cfbef9539ed685e2",
+          "doc_b": "fb0dc4d778dc4dda",
           "description": "22. HD 4628 s.K. m. 15'e dayanarak muvazaa olmadığına hükmederken, HGK muvazaa olduğuna karar vererek 22. HD'yi bozuyor — aynı işyerinde zıt sonuçlar"
         }
       ],
@@ -906,49 +1025,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
+          "doc_id": "aec7765df00aa61e",
           "relevance": 3,
-          "rationale": "İşletmesel nedenle fesih, işe iade, feshin son çare — sebepsiz çıkarma tam bu"
+          "rationale": "İşletmesel nedenle fesih, işe iade, feshin son çare — sebepsiz çıkarma tam bu",
+          "file_name": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 3,
-          "rationale": "İş bırakma nedeniyle fesih, işe iade — fesih hakları doğrudan"
+          "rationale": "İş bırakma nedeniyle fesih, işe iade — fesih hakları doğrudan",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_id": "e47484677ec17ba2",
           "relevance": 3,
-          "rationale": "Kıdem/ihbar tazminatı — haklarım sorusunun doğrudan cevabı"
+          "rationale": "Kıdem/ihbar tazminatı — haklarım sorusunun doğrudan cevabı",
+          "file_name": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "doc_id": "b73f9d7b278ab3a1",
           "relevance": 3,
-          "rationale": "İşçilik alacakları, fazla çalışma ücreti — haklar bağlamı doğrudan"
+          "rationale": "İşçilik alacakları, fazla çalışma ücreti — haklar bağlamı doğrudan",
+          "file_name": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
+          "doc_id": "4bcf9b34d7351eaf",
           "relevance": 2,
-          "rationale": "Belirsiz alacak davası, kıdem/ihbar belirlenebilirliği — tazminat talep usulü, ilgili"
+          "rationale": "Belirsiz alacak davası, kıdem/ihbar belirlenebilirliği — tazminat talep usulü, ilgili",
+          "file_name": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1"
         },
         {
-          "doc_id": "2013-7449",
+          "doc_id": "618b1ee75c975714",
           "relevance": 2,
-          "rationale": "THY grev hakkı, adil yargılanma — iş güvencesi bağlamı var"
+          "rationale": "THY grev hakkı, adil yargılanma — iş güvencesi bağlamı var",
+          "file_name": "2013-7449"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_id": "fb0dc4d778dc4dda",
           "relevance": 2,
-          "rationale": "Muvazaalı alt işverenlik, işçilik alacakları — haklar bağlamı ortak ama farklı senaryo"
+          "rationale": "Muvazaalı alt işverenlik, işçilik alacakları — haklar bağlamı ortak ama farklı senaryo",
+          "file_name": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1"
         },
         {
-          "doc_id": "ankr-5im-e-2008-1034-k-2012-37-t-13-2-2012-1",
+          "doc_id": "9b8982f46d3776e7",
           "relevance": 1,
-          "rationale": "Hizmet tespiti, sigortasız çalışma — iş hukuku ama fesih odağı değil"
+          "rationale": "Hizmet tespiti, sigortasız çalışma — iş hukuku ama fesih odağı değil",
+          "file_name": "ankr-5im-e-2008-1034-k-2012-37-t-13-2-2012-1"
         },
         {
-          "doc_id": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1",
+          "doc_id": "be447fe5973a7364",
           "relevance": 0,
-          "rationale": "Vergi — özel iletişim vergisi, ilgisiz"
+          "rationale": "Vergi — özel iletişim vergisi, ilgisiz",
+          "file_name": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1"
         }
       ],
       "difficulty": "hard"
@@ -964,55 +1092,64 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1",
+          "doc_id": "00324424bd3e650a",
           "relevance": 3,
-          "rationale": "İş kazası sonucu kalp krizi ile ölüm, nedensellik bağı, asıl-alt işveren müşterek sorumluluğu — birebir"
+          "rationale": "İş kazası sonucu kalp krizi ile ölüm, nedensellik bağı, asıl-alt işveren müşterek sorumluluğu — birebir",
+          "file_name": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1",
+          "doc_id": "cc8742bafa496113",
           "relevance": 3,
-          "rationale": "Lastik patlaması sonucu ölüm, kaçınılmazlıkta nedensellik kopmaz, %60 işveren"
+          "rationale": "Lastik patlaması sonucu ölüm, kaçınılmazlıkta nedensellik kopmaz, %60 işveren",
+          "file_name": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "doc_id": "e98b1234b2da77d6",
           "relevance": 3,
-          "rationale": "Müçbir sebep vs kaçınılmazlık ayrımı — nedenselliğin kesilip kesilmediği, contradictory açı"
+          "rationale": "Müçbir sebep vs kaçınılmazlık ayrımı — nedenselliğin kesilip kesilmediği, contradictory açı",
+          "file_name": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "doc_id": "a1502e1d239a00ee",
           "relevance": 2,
-          "rationale": "Kaçınılmazlıkta dahi sorumluluk — iş kazası ama ölüm yok, nedensellik odağı değil"
+          "rationale": "Kaçınılmazlıkta dahi sorumluluk — iş kazası ama ölüm yok, nedensellik odağı değil",
+          "file_name": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "doc_id": "5d1ac8c9565f9e2b",
           "relevance": 2,
-          "rationale": "Aynı olayın HGK onama kararı, kaçınılmazlıkta %60 işveren"
+          "rationale": "Aynı olayın HGK onama kararı, kaçınılmazlıkta %60 işveren",
+          "file_name": "hukuk-genel-kurulu-e-2015-983-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "doc_id": "b73f9d7b278ab3a1",
           "relevance": 1,
-          "rationale": "Alt yüklenici, asıl işveren sorumluluğu — asıl-alt işveren ortak ama iş kazası değil"
+          "rationale": "Alt yüklenici, asıl işveren sorumluluğu — asıl-alt işveren ortak ama iş kazası değil",
+          "file_name": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1"
         },
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 1,
-          "rationale": "Trafik kazası tazminat — haksız fiil nedensellik benzer ama iş kazası değil"
+          "rationale": "Trafik kazası tazminat — haksız fiil nedensellik benzer ama iş kazası değil",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-5008-k-2025-7388-t-8-10-2025-1",
+          "doc_id": "4bdee372521fb4cc",
           "relevance": 0,
-          "rationale": "İdari — maden ruhsatı ÇED, ilgisiz"
+          "rationale": "İdari — maden ruhsatı ÇED, ilgisiz",
+          "file_name": "8-d-e-2022-5008-k-2025-7388-t-8-10-2025-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
-          "doc_b": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1",
+          "doc_a": "e98b1234b2da77d6",
+          "doc_b": "00324424bd3e650a",
           "description": "HGK müçbir sebepte nedenselliğin kesilebileceğini tartışırken, 21. HD kalp krizi gibi dolaylı sonuçlarda dahi nedensellik bağını kabul ediyor"
         }
       ],
@@ -1029,45 +1166,52 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "doc_id": "a1502e1d239a00ee",
           "relevance": 3,
-          "rationale": "Kaçınılmazlıkta dahi sorumluluk, TBK 51 hakkaniyet — kusur oranı doğrudan"
+          "rationale": "Kaçınılmazlıkta dahi sorumluluk, TBK 51 hakkaniyet — kusur oranı doğrudan",
+          "file_name": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1",
+          "doc_id": "cc8742bafa496113",
           "relevance": 3,
-          "rationale": "%60 işveren kusur dağılımı, SGK tenzili — birebir"
+          "rationale": "%60 işveren kusur dağılımı, SGK tenzili — birebir",
+          "file_name": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-983-1",
+          "doc_id": "5d1ac8c9565f9e2b",
           "relevance": 3,
-          "rationale": "Aynı olayın HGK onama kararı, %60 işveren — kusur oranı doğrudan"
+          "rationale": "Aynı olayın HGK onama kararı, %60 işveren — kusur oranı doğrudan",
+          "file_name": "hukuk-genel-kurulu-e-2015-983-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
+          "doc_id": "e98b1234b2da77d6",
           "relevance": 2,
-          "rationale": "SGK rücu, kusur dağılımı, müçbir sebep tartışması — rücu odaklı ama kusur var"
+          "rationale": "SGK rücu, kusur dağılımı, müçbir sebep tartışması — rücu odaklı ama kusur var",
+          "file_name": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1",
+          "doc_id": "00324424bd3e650a",
           "relevance": 2,
-          "rationale": "Nedensellik bağı, asıl-alt işveren — kusur tartışılıyor ama nedensellik odağı"
+          "rationale": "Nedensellik bağı, asıl-alt işveren — kusur tartışılıyor ama nedensellik odağı",
+          "file_name": "21-hukuk-dairesi-e-2019-5246-k-2020-975-1"
         },
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 1,
-          "rationale": "Trafik kazası tazminat — kusur/tazminat hesabı benzer ama iş kazası değil"
+          "rationale": "Trafik kazası tazminat — kusur/tazminat hesabı benzer ama iş kazası değil",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1",
+          "doc_id": "0b44d73acb56d04d",
           "relevance": 0,
-          "rationale": "Ceza — tefecilik, ilgisiz"
+          "rationale": "Ceza — tefecilik, ilgisiz",
+          "file_name": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1",
-          "doc_b": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1",
+          "doc_a": "e98b1234b2da77d6",
+          "doc_b": "a1502e1d239a00ee",
           "description": "HGK müçbir sebepte işverenin sorumluluğunun kalkabileceğini tartışırken, 21. HD kaçınılmazlıkta dahi işverenin sorumlu olduğuna hükmediyor — kusur oranının sıfırlanıp sıfırlanmayacağı gerilimi"
         }
       ],
@@ -1085,60 +1229,70 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "e-2016-6-k-2017-5-t-15-12-2017-1",
+          "doc_id": "f112e0646baf0ed5",
           "relevance": 3,
-          "rationale": "İçtihat birleştirme — belirsiz alacak davası, birebir"
+          "rationale": "İçtihat birleştirme — belirsiz alacak davası, birebir",
+          "file_name": "e-2016-6-k-2017-5-t-15-12-2017-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
+          "doc_id": "4bcf9b34d7351eaf",
           "relevance": 3,
-          "rationale": "Kıdem/ihbar belirsiz alacağa konu edilebilir mi — birebir"
+          "rationale": "Kıdem/ihbar belirsiz alacağa konu edilebilir mi — birebir",
+          "file_name": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1",
+          "doc_id": "3d336710b4e165ee",
           "relevance": 3,
-          "rationale": "Kıdem/ihbar kesinlikle belirlenebilir, belirsiz alacağa konu edilemez — birebir"
+          "rationale": "Kıdem/ihbar kesinlikle belirlenebilir, belirsiz alacağa konu edilemez — birebir",
+          "file_name": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1",
+          "doc_id": "bf036c5cfca76411",
           "relevance": 3,
-          "rationale": "Hekim, alacağın belirlenebilirliği, HMK m. 107 — birebir"
+          "rationale": "Hekim, alacağın belirlenebilirliği, HMK m. 107 — birebir",
+          "file_name": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1",
+          "doc_id": "9609ecbc50400f26",
           "relevance": 2,
-          "rationale": "TİS hizmet zammı alacağı — işçilik alacağı ama belirsiz alacak odağı değil"
+          "rationale": "TİS hizmet zammı alacağı — işçilik alacağı ama belirsiz alacak odağı değil",
+          "file_name": "9-hukuk-dairesi-e-2025-8739-k-2025-9596-t-4-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "doc_id": "b73f9d7b278ab3a1",
           "relevance": 2,
-          "rationale": "Alt yüklenici işçilik alacakları — işçilik alacağı ortak ama belirsiz alacak meselesi yok"
+          "rationale": "Alt yüklenici işçilik alacakları — işçilik alacağı ortak ama belirsiz alacak meselesi yok",
+          "file_name": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_id": "e47484677ec17ba2",
           "relevance": 1,
-          "rationale": "Kıdem/ihbar tazminatı var ama belirsiz alacak meselesi yok"
+          "rationale": "Kıdem/ihbar tazminatı var ama belirsiz alacak meselesi yok",
+          "file_name": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 1,
-          "rationale": "THY işe iade — iş hukuku ama belirsiz alacak konusu değil"
+          "rationale": "THY işe iade — iş hukuku ama belirsiz alacak konusu değil",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 0,
-          "rationale": "Vergi — ihtiyati haciz, ilgisiz"
+          "rationale": "Vergi — ihtiyati haciz, ilgisiz",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
-          "doc_b": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1",
+          "doc_a": "4bcf9b34d7351eaf",
+          "doc_b": "3d336710b4e165ee",
           "description": "9. HD kıdem/ihbarın bazı durumlarda belirsiz olabileceğini kabul ederken, 22. HD kesinlikle belirlenebilir olduğunu ve belirsiz alacağa konu edilemeyeceğini savunuyor"
         }
       ],
@@ -1154,35 +1308,40 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 3,
-          "rationale": "Öldürmeye teşebbüs/yaralama suç vasfı tartışması + haksız tahrik indirimi — birebir"
+          "rationale": "Öldürmeye teşebbüs/yaralama suç vasfı tartışması + haksız tahrik indirimi — birebir",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "doc_id": "9c2676f045915976",
           "relevance": 2,
-          "rationale": "Ağırlaşmış yaralama + haksız tahrik indirimi — haksız tahrik var ama öldürme değil yaralama"
+          "rationale": "Ağırlaşmış yaralama + haksız tahrik indirimi — haksız tahrik var ama öldürme değil yaralama",
+          "file_name": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1",
+          "doc_id": "380172d61ae2c2df",
           "relevance": 2,
-          "rationale": "Ağırlaşmış yaralama + haksız tahrik — öldürme değil yaralama"
+          "rationale": "Ağırlaşmış yaralama + haksız tahrik — öldürme değil yaralama",
+          "file_name": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_id": "e28fde4144d01b09",
           "relevance": 1,
-          "rationale": "Meşru savunma — ceza indirimi bağlamı benzer ama haksız tahrik değil"
+          "rationale": "Meşru savunma — ceza indirimi bağlamı benzer ama haksız tahrik değil",
+          "file_name": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
-          "doc_b": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_a": "ad65ca16d2752f93",
+          "doc_b": "e28fde4144d01b09",
           "description": "Saldırıya karşı tepki eyleminde biri haksız tahrik indirimi uygulanırken diğerinde meşru savunma kabul ediliyor — aynı tür savunmada ceza indirimi mi cezasızlık mı ayrımı"
         }
       ],
@@ -1198,29 +1357,34 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "doc_id": "5e5794bf4347f26b",
           "relevance": 3,
-          "rationale": "Olası kast mı bilinçli taksir mi ayrımı, TCK 21/2 — birebir"
+          "rationale": "Olası kast mı bilinçli taksir mi ayrımı, TCK 21/2 — birebir",
+          "file_name": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1",
+          "doc_id": "2395fbcda2f4b438",
           "relevance": 2,
-          "rationale": "Nitelikli kasten öldürme vs TCK 87/4 — suç vasfı tartışması, yakın"
+          "rationale": "Nitelikli kasten öldürme vs TCK 87/4 — suç vasfı tartışması, yakın",
+          "file_name": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 2,
-          "rationale": "Öldürme kastı değerlendirmesi, suç vasfı — ilgili"
+          "rationale": "Öldürme kastı değerlendirmesi, suç vasfı — ilgili",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1",
+          "doc_id": "5b0b84d272585ff6",
           "relevance": 1,
-          "rationale": "Suç vasfı tartışması — olası kast/bilinçli taksir değil ama vasıf ortak"
+          "rationale": "Suç vasfı tartışması — olası kast/bilinçli taksir değil ama vasıf ortak",
+          "file_name": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1"
         },
         {
-          "doc_id": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1",
+          "doc_id": "061b067290a9e526",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "ictihatlari-birlestirme-hgk-e-1974-1-k-1974-2-t-1-4-1974-1"
         }
       ],
       "difficulty": "medium"
@@ -1235,45 +1399,52 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 3,
-          "rationale": "Bıçakla göğse saplama — öldürmeye teşebbüs mü yaralama mı, birebir"
+          "rationale": "Bıçakla göğse saplama — öldürmeye teşebbüs mü yaralama mı, birebir",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1",
+          "doc_id": "5b0b84d272585ff6",
           "relevance": 3,
-          "rationale": "Katılan öldürmeye teşebbüs diyor, mahkeme yaralama kabul ediyor — birebir"
+          "rationale": "Katılan öldürmeye teşebbüs diyor, mahkeme yaralama kabul ediyor — birebir",
+          "file_name": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1",
+          "doc_id": "2395fbcda2f4b438",
           "relevance": 3,
-          "rationale": "Nitelikli kasten öldürme vs TCK 87/4 yaralama sonucu ölüm — birebir"
+          "rationale": "Nitelikli kasten öldürme vs TCK 87/4 yaralama sonucu ölüm — birebir",
+          "file_name": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "doc_id": "9c2676f045915976",
           "relevance": 2,
-          "rationale": "Ağırlaşmış yaralama TCK 87/3 — yaralama var ama öldürme tartışması yok"
+          "rationale": "Ağırlaşmış yaralama TCK 87/3 — yaralama var ama öldürme tartışması yok",
+          "file_name": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_id": "e28fde4144d01b09",
           "relevance": 2,
-          "rationale": "Ağırlaşmış yaralama, meşru savunma — yaralama bağlamı ortak"
+          "rationale": "Ağırlaşmış yaralama, meşru savunma — yaralama bağlamı ortak",
+          "file_name": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "doc_id": "5e5794bf4347f26b",
           "relevance": 1,
-          "rationale": "Olası kast/bilinçli taksir — suç vasfı tartışması var ama farklı ayrım"
+          "rationale": "Olası kast/bilinçli taksir — suç vasfı tartışması var ama farklı ayrım",
+          "file_name": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1",
+          "doc_id": "0ac622d224fb529a",
           "relevance": 0,
-          "rationale": "Boşanma — ilgisiz"
+          "rationale": "Boşanma — ilgisiz",
+          "file_name": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
-          "doc_b": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1",
+          "doc_a": "ad65ca16d2752f93",
+          "doc_b": "5b0b84d272585ff6",
           "description": "Benzer yaralama fiillerinde biri öldürmeye teşebbüs vasfında tartışılırken diğerinde yaralama kabul ediliyor — suç vasfı farklılaşması"
         }
       ],
@@ -1289,40 +1460,46 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 3,
-          "rationale": "Bıçakla göğse saplama, öldürmeye teşebbüs mü yaralama mı — birebir"
+          "rationale": "Bıçakla göğse saplama, öldürmeye teşebbüs mü yaralama mı — birebir",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1",
+          "doc_id": "2395fbcda2f4b438",
           "relevance": 3,
-          "rationale": "Tekme/yumruk/şişeyle ölüm, kasten öldürme vs TCK 87/4 — kavga + ölüm + suç vasfı birebir"
+          "rationale": "Tekme/yumruk/şişeyle ölüm, kasten öldürme vs TCK 87/4 — kavga + ölüm + suç vasfı birebir",
+          "file_name": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1",
+          "doc_id": "5b0b84d272585ff6",
           "relevance": 2,
-          "rationale": "Öldürmeye teşebbüs iddiası, yaralama kabul — suç vasfı tartışması ama kavga/ölüm spesifik değil"
+          "rationale": "Öldürmeye teşebbüs iddiası, yaralama kabul — suç vasfı tartışması ama kavga/ölüm spesifik değil",
+          "file_name": "1-ceza-dairesi-e-2025-6240-k-2025-8940-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1",
+          "doc_id": "9c2676f045915976",
           "relevance": 2,
-          "rationale": "Ağırlaşmış yaralama, kemik kırığı — yaralama var ama ölüm yok"
+          "rationale": "Ağırlaşmış yaralama, kemik kırığı — yaralama var ama ölüm yok",
+          "file_name": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1",
+          "doc_id": "380172d61ae2c2df",
           "relevance": 1,
-          "rationale": "Müşterek faillik ile yaralama — kavga bağlamı var ama ölüm ve suç vasfı tartışması yok"
+          "rationale": "Müşterek faillik ile yaralama — kavga bağlamı var ama ölüm ve suç vasfı tartışması yok",
+          "file_name": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
-          "doc_b": "1-ceza-dairesi-e-2025-6707-k-2025-9605-t-26-12-2025-1",
+          "doc_a": "ad65ca16d2752f93",
+          "doc_b": "2395fbcda2f4b438",
           "description": "Kavgada öldürme fiilinde biri öldürmeye teşebbüs/kasten öldürme vasfında tartışılırken diğerinde TCK 87/4 yaralama sonucu ölüm kabul ediliyor"
         }
       ],
@@ -1338,24 +1515,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "doc_id": "5d2053619e32a5d2",
           "relevance": 3,
-          "rationale": "Uyuşturucu ticareti + etkin pişmanlık + zincirleme suç — birebir"
+          "rationale": "Uyuşturucu ticareti + etkin pişmanlık + zincirleme suç — birebir",
+          "file_name": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1",
+          "doc_id": "5e3cdf774c6a6e35",
           "relevance": 2,
-          "rationale": "Kullanmak için bulundurma — uyuşturucu ortak ama ticaret değil, etkin pişmanlık değil"
+          "rationale": "Kullanmak için bulundurma — uyuşturucu ortak ama ticaret değil, etkin pişmanlık değil",
+          "file_name": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1",
+          "doc_id": "d3c2cf1f070b4803",
           "relevance": 1,
-          "rationale": "Kullanmak için bulundurma, tekerrür — uyuşturucu ortak ama daha uzak"
+          "rationale": "Kullanmak için bulundurma, tekerrür — uyuşturucu ortak ama daha uzak",
+          "file_name": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -1370,24 +1551,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "doc_id": "5d2053619e32a5d2",
           "relevance": 2,
-          "rationale": "Uyuşturucu ticareti — ayrımın ticaret tarafı ama ayrım kriterleri tartışılmıyor"
+          "rationale": "Uyuşturucu ticareti — ayrımın ticaret tarafı ama ayrım kriterleri tartışılmıyor",
+          "file_name": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1",
+          "doc_id": "5e3cdf774c6a6e35",
           "relevance": 2,
-          "rationale": "Kullanmak için bulundurma — ayrımın kullanma tarafı ama ayrım kriterleri tartışılmıyor"
+          "rationale": "Kullanmak için bulundurma — ayrımın kullanma tarafı ama ayrım kriterleri tartışılmıyor",
+          "file_name": "10-ceza-dairesi-e-2024-8203-k-2026-166-t-13-1-2026-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1",
+          "doc_id": "d3c2cf1f070b4803",
           "relevance": 1,
-          "rationale": "Kullanmak için bulundurma, tekerrür — uyuşturucu ortak ama daha uzak"
+          "rationale": "Kullanmak için bulundurma, tekerrür — uyuşturucu ortak ama daha uzak",
+          "file_name": "10-ceza-dairesi-e-2024-8222-k-2026-158-t-13-1-2026-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "hard"
@@ -1402,24 +1587,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "3-ceza-dairesi-e-2023-11086-k-2026-1058-t-15-1-2026-1",
+          "doc_id": "4354cc931dd0864c",
           "relevance": 3,
-          "rationale": "directly on point"
+          "rationale": "directly on point",
+          "file_name": "3-ceza-dairesi-e-2023-11086-k-2026-1058-t-15-1-2026-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "doc_id": "68732b39281b9d1a",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1"
         }
       ],
       "difficulty": "easy"
@@ -1436,50 +1625,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1",
+          "doc_id": "629be6dbaff9b4c9",
           "relevance": 3,
-          "rationale": "İçtihat birleştirme — tarhiyat sonrası m. 13/1'e göre haciz yapılamaz, birebir"
+          "rationale": "İçtihat birleştirme — tarhiyat sonrası m. 13/1'e göre haciz yapılamaz, birebir",
+          "file_name": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1"
         },
         {
-          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "doc_id": "d5501aa7784d403b",
           "relevance": 3,
-          "rationale": "Kanuni temsilci hakkında ihtiyati tahakkuk/haciz — tarhiyat sonrası uygulanabilirlik, birebir"
+          "rationale": "Kanuni temsilci hakkında ihtiyati tahakkuk/haciz — tarhiyat sonrası uygulanabilirlik, birebir",
+          "file_name": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 3,
-          "rationale": "Tarhiyat yapıldıktan sonra m. 13/1'e göre haciz yapılamaz — birebir"
+          "rationale": "Tarhiyat yapıldıktan sonra m. 13/1'e göre haciz yapılamaz — birebir",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         },
         {
-          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "doc_id": "90c9373be154a0d6",
           "relevance": 2,
-          "rationale": "İhtiyati haciz, banka hesapları — ihtiyati haciz var ama tarhiyat sonrası spesifik değil"
+          "rationale": "İhtiyati haciz, banka hesapları — ihtiyati haciz var ama tarhiyat sonrası spesifik değil",
+          "file_name": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1"
         },
         {
-          "doc_id": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "doc_id": "1322430f420e4522",
           "relevance": 2,
-          "rationale": "ÖTV, teminat istenmeden ihtiyati haciz — ilgili"
+          "rationale": "ÖTV, teminat istenmeden ihtiyati haciz — ilgili",
+          "file_name": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1"
         },
         {
-          "doc_id": "danistay-9-daire-e-2019-2591-k-2021-4815-1",
+          "doc_id": "7a5c01f1b6f7745f",
           "relevance": 2,
-          "rationale": "Sahte fatura, ihtiyati haciz/tahakkuk iptali — ilgili"
+          "rationale": "Sahte fatura, ihtiyati haciz/tahakkuk iptali — ilgili",
+          "file_name": "danistay-9-daire-e-2019-2591-k-2021-4815-1"
         },
         {
-          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "doc_id": "7247308a5656377e",
           "relevance": 1,
-          "rationale": "KDV iade — vergi ortak ama ihtiyati haciz değil"
+          "rationale": "KDV iade — vergi ortak ama ihtiyati haciz değil",
+          "file_name": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
-          "doc_b": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "doc_a": "c3ff9456d32f5329",
+          "doc_b": "d5501aa7784d403b",
           "description": "Danıştay 3. ve 9. Daire ile 4. ve 7. Daire arasında tarhiyat sonrası ihtiyati haciz konusundaki görüş ayrılığı — İBK 2021/6 ile çözülmüştür"
         }
       ],
@@ -1497,44 +1694,52 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1",
+          "doc_id": "629be6dbaff9b4c9",
           "relevance": 3,
-          "rationale": "m.13 içtihat birleştirme — birebir"
+          "rationale": "m.13 içtihat birleştirme — birebir",
+          "file_name": "ibk-e-2021-6-k-2022-2-t-27-5-2022-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 3,
-          "rationale": "m.13/1'e göre tarhiyat sonrası haciz yapılamaz — birebir"
+          "rationale": "m.13/1'e göre tarhiyat sonrası haciz yapılamaz — birebir",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         },
         {
-          "doc_id": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1",
+          "doc_id": "1322430f420e4522",
           "relevance": 3,
-          "rationale": "Teminat istenmeden m.13'e göre ihtiyati haciz hukuka aykırı — birebir"
+          "rationale": "Teminat istenmeden m.13'e göre ihtiyati haciz hukuka aykırı — birebir",
+          "file_name": "7-d-e-2016-1998-k-2021-864-t-9-2-2021-1"
         },
         {
-          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "doc_id": "d5501aa7784d403b",
           "relevance": 2,
-          "rationale": "Kanuni temsilci hakkında ihtiyati haciz — m.13 var ama kanuni temsilci odağı"
+          "rationale": "Kanuni temsilci hakkında ihtiyati haciz — m.13 var ama kanuni temsilci odağı",
+          "file_name": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1"
         },
         {
-          "doc_id": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1",
+          "doc_id": "90c9373be154a0d6",
           "relevance": 2,
-          "rationale": "İhtiyati haciz, m.13/3 banka hesapları — ilgili"
+          "rationale": "İhtiyati haciz, m.13/3 banka hesapları — ilgili",
+          "file_name": "3-d-e-2018-5053-k-2021-6438-t-23-12-2021-1"
         },
         {
-          "doc_id": "danistay-9-daire-e-2019-2591-k-2021-4815-1",
+          "doc_id": "7a5c01f1b6f7745f",
           "relevance": 2,
-          "rationale": "Sahte fatura, ihtiyati haciz iptali — m.13 bağlamı var"
+          "rationale": "Sahte fatura, ihtiyati haciz iptali — m.13 bağlamı var",
+          "file_name": "danistay-9-daire-e-2019-2591-k-2021-4815-1"
         },
         {
-          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "doc_id": "7247308a5656377e",
           "relevance": 1,
-          "rationale": "KDV iade — vergi ortak ama ihtiyati haciz değil"
+          "rationale": "KDV iade — vergi ortak ama ihtiyati haciz değil",
+          "file_name": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "easy"
@@ -1549,24 +1754,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "doc_id": "4818288a7a1a5c0e",
           "relevance": 3,
-          "rationale": "Ödeme emri iptali, e-tebligat geçersizliği — birebir"
+          "rationale": "Ödeme emri iptali, e-tebligat geçersizliği — birebir",
+          "file_name": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1"
         },
         {
-          "doc_id": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1",
+          "doc_id": "d5501aa7784d403b",
           "relevance": 2,
-          "rationale": "Kanuni temsilci, ihtiyati tahakkuk/haciz — vergi tahsilat bağlamı ortak"
+          "rationale": "Kanuni temsilci, ihtiyati tahakkuk/haciz — vergi tahsilat bağlamı ortak",
+          "file_name": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1"
         },
         {
-          "doc_id": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1",
+          "doc_id": "b3a35d7cece02b18",
           "relevance": 1,
-          "rationale": "İşgal harcı — vergi usulü ortak ama ödeme emri değil"
+          "rationale": "İşgal harcı — vergi usulü ortak ama ödeme emri değil",
+          "file_name": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -1581,24 +1790,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "doc_id": "7247308a5656377e",
           "relevance": 3,
-          "rationale": "Büro/konut KDV iade, indirimli oran iadesi, KDV m.29 — birebir"
+          "rationale": "Büro/konut KDV iade, indirimli oran iadesi, KDV m.29 — birebir",
+          "file_name": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1"
         },
         {
-          "doc_id": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1",
+          "doc_id": "46d1623924ba01bc",
           "relevance": 2,
-          "rationale": "Sahte fatura, KDV — KDV ortak ama iade değil tarhiyat"
+          "rationale": "Sahte fatura, KDV — KDV ortak ama iade değil tarhiyat",
+          "file_name": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1"
         },
         {
-          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "doc_id": "4818288a7a1a5c0e",
           "relevance": 1,
-          "rationale": "Vergi usulü, e-tebligat — vergi ortak ama KDV iade değil"
+          "rationale": "Vergi usulü, e-tebligat — vergi ortak ama KDV iade değil",
+          "file_name": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1"
         },
         {
-          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "doc_id": "913f90f221d593e4",
           "relevance": 0,
-          "rationale": "İdari — maden ruhsatı, ilgisiz"
+          "rationale": "İdari — maden ruhsatı, ilgisiz",
+          "file_name": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -1613,24 +1826,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "doc_id": "7247308a5656377e",
           "relevance": 3,
-          "rationale": "Tapuda büro görünen bölümün fiilen konut olarak satılması, indirimli oran iadesi — birebir"
+          "rationale": "Tapuda büro görünen bölümün fiilen konut olarak satılması, indirimli oran iadesi — birebir",
+          "file_name": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1"
         },
         {
-          "doc_id": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1",
+          "doc_id": "46d1623924ba01bc",
           "relevance": 2,
-          "rationale": "Sahte fatura, KDV — KDV ortak ama konut/büro değil"
+          "rationale": "Sahte fatura, KDV — KDV ortak ama konut/büro değil",
+          "file_name": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1"
         },
         {
-          "doc_id": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1",
+          "doc_id": "be447fe5973a7364",
           "relevance": 1,
-          "rationale": "Özel iletişim vergisi oranı — vergi oranı konusu ortak ama KDV/konut değil"
+          "rationale": "Özel iletişim vergisi oranı — vergi oranı konusu ortak ama KDV/konut değil",
+          "file_name": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 0,
-          "rationale": "İş hukuku — ilgisiz"
+          "rationale": "İş hukuku — ilgisiz",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         }
       ],
       "difficulty": "medium"
@@ -1646,24 +1863,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "doc_id": "913f90f221d593e4",
           "relevance": 2,
-          "rationale": "İdari işlem iptali, YD talep edilmiş ama esastan karar verildiği için YD tartışılmamış"
+          "rationale": "İdari işlem iptali, YD talep edilmiş ama esastan karar verildiği için YD tartışılmamış",
+          "file_name": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1"
         },
         {
-          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "doc_id": "2fa73b69ec652e0e",
           "relevance": 2,
-          "rationale": "RES acele kamulaştırma, YD talebi var ama ayrıca karar verilmeksizin esasa geçilmiş"
+          "rationale": "RES acele kamulaştırma, YD talebi var ama ayrıca karar verilmeksizin esasa geçilmiş",
+          "file_name": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-2365-k-2025-7392-t-8-10-2025-1",
+          "doc_id": "142bd4c585b5c30d",
           "relevance": 1,
-          "rationale": "Maden ruhsatı iptali — idari işlem iptali ortak ama YD meselesi yok"
+          "rationale": "Maden ruhsatı iptali — idari işlem iptali ortak ama YD meselesi yok",
+          "file_name": "8-d-e-2022-2365-k-2025-7392-t-8-10-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "hard"
@@ -1678,24 +1899,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "doc_id": "0300cb3e93571290",
           "relevance": 3,
-          "rationale": "Doğum sonrası yarım zamanlı çalışma hakkı, CB düzenlemesi eksikliği — birebir"
+          "rationale": "Doğum sonrası yarım zamanlı çalışma hakkı, CB düzenlemesi eksikliği — birebir",
+          "file_name": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1"
         },
         {
-          "doc_id": "ankara-9-idare-mahkemesi-e-ankara-k-2024-1480-t-8-1-2025-1",
+          "doc_id": "f326041b2859f0ce",
           "relevance": 2,
-          "rationale": "Kamu personeli hak talebi, idari işlem iptali — kamu personeli ortak ama farklı konu"
+          "rationale": "Kamu personeli hak talebi, idari işlem iptali — kamu personeli ortak ama farklı konu",
+          "file_name": "ankara-9-idare-mahkemesi-e-ankara-k-2024-1480-t-8-1-2025-1"
         },
         {
-          "doc_id": "trabzon-1-idare-mahkemesi-e-2014-1554-k-2014-1472-t-4-11-2014-1",
+          "doc_id": "d987d98c0dbd95e7",
           "relevance": 1,
-          "rationale": "Naklen atama iptali — kamu personeli ortak ama doğum/yarım zamanlı değil"
+          "rationale": "Naklen atama iptali — kamu personeli ortak ama doğum/yarım zamanlı değil",
+          "file_name": "trabzon-1-idare-mahkemesi-e-2014-1554-k-2014-1472-t-4-11-2014-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "doc_id": "5d2053619e32a5d2",
           "relevance": 0,
-          "rationale": "Ceza — uyuşturucu ticareti, ilgisiz"
+          "rationale": "Ceza — uyuşturucu ticareti, ilgisiz",
+          "file_name": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1"
         }
       ],
       "difficulty": "medium"
@@ -1710,24 +1935,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "doc_id": "2fa73b69ec652e0e",
           "relevance": 3,
-          "rationale": "RES acele kamulaştırma, kamu yararı, mülkiyet hakkı (AY 35) — birebir"
+          "rationale": "RES acele kamulaştırma, kamu yararı, mülkiyet hakkı (AY 35) — birebir",
+          "file_name": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1"
         },
         {
-          "doc_id": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1",
+          "doc_id": "d2ba9b49bdd66c81",
           "relevance": 2,
-          "rationale": "Kamulaştırmasız el atma bedeli — kamulaştırma ortak ama acele kamulaştırma değil"
+          "rationale": "Kamulaştırmasız el atma bedeli — kamulaştırma ortak ama acele kamulaştırma değil",
+          "file_name": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1"
         },
         {
-          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "doc_id": "913f90f221d593e4",
           "relevance": 1,
-          "rationale": "Maden ruhsatı/enerji nakil hattı — enerji projeleri ortak ama kamulaştırma değil"
+          "rationale": "Maden ruhsatı/enerji nakil hattı — enerji projeleri ortak ama kamulaştırma değil",
+          "file_name": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1",
+          "doc_id": "0ac622d224fb529a",
           "relevance": 0,
-          "rationale": "Boşanma — ilgisiz"
+          "rationale": "Boşanma — ilgisiz",
+          "file_name": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1"
         }
       ],
       "difficulty": "medium"
@@ -1742,24 +1971,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1",
+          "doc_id": "d2ba9b49bdd66c81",
           "relevance": 3,
-          "rationale": "Kamulaştırmasız el atma bedeli, taşınmaz değeri belirleniyor — birebir"
+          "rationale": "Kamulaştırmasız el atma bedeli, taşınmaz değeri belirleniyor — birebir",
+          "file_name": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1"
         },
         {
-          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "doc_id": "2fa73b69ec652e0e",
           "relevance": 2,
-          "rationale": "Acele kamulaştırma — kamulaştırma ortak ama odak kamu yararı denetimi, bedel tespiti değil"
+          "rationale": "Acele kamulaştırma — kamulaştırma ortak ama odak kamu yararı denetimi, bedel tespiti değil",
+          "file_name": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1"
         },
         {
-          "doc_id": "5-hd-e-2025-832-k-2026-249-t-13-1-2026-1",
+          "doc_id": "c94d0e520bfe8fb5",
           "relevance": 1,
-          "rationale": "Tapu sicili sorumluluğu, tazminat — taşınmaz değeri bağlamı var ama kamulaştırma değil"
+          "rationale": "Tapu sicili sorumluluğu, tazminat — taşınmaz değeri bağlamı var ama kamulaştırma değil",
+          "file_name": "5-hd-e-2025-832-k-2026-249-t-13-1-2026-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -1774,24 +2007,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "doc_id": "2fa73b69ec652e0e",
           "relevance": 3,
-          "rationale": "RES acele kamulaştırma, 2942 s.K. m.27, kamu yararı denetimi — birebir"
+          "rationale": "RES acele kamulaştırma, 2942 s.K. m.27, kamu yararı denetimi — birebir",
+          "file_name": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1"
         },
         {
-          "doc_id": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1",
+          "doc_id": "d2ba9b49bdd66c81",
           "relevance": 2,
-          "rationale": "Kamulaştırmasız el atma — kamulaştırma ortak ama acele kamulaştırma değil"
+          "rationale": "Kamulaştırmasız el atma — kamulaştırma ortak ama acele kamulaştırma değil",
+          "file_name": "5-hd-e-2025-1266-k-2026-253-t-13-1-2026-1"
         },
         {
-          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "doc_id": "913f90f221d593e4",
           "relevance": 1,
-          "rationale": "Maden ruhsatı/enerji nakil hattı — kamu yararı çatışması benzer ama kamulaştırma değil"
+          "rationale": "Maden ruhsatı/enerji nakil hattı — kamu yararı çatışması benzer ama kamulaştırma değil",
+          "file_name": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -1806,34 +2043,40 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1",
+          "doc_id": "4ef9fd501c96eff0",
           "relevance": 3,
-          "rationale": "Menfi tespit, ticari satım fatura uyuşmazlığı, TTK m.21 — birebir"
+          "rationale": "Menfi tespit, ticari satım fatura uyuşmazlığı, TTK m.21 — birebir",
+          "file_name": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1"
         },
         {
-          "doc_id": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1",
+          "doc_id": "ae4e1a02654e648a",
           "relevance": 3,
-          "rationale": "Menfi tespit, teminat senedi, soyutluk ilkesi — birebir"
+          "rationale": "Menfi tespit, teminat senedi, soyutluk ilkesi — birebir",
+          "file_name": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1"
         },
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 2,
-          "rationale": "BAM kararı, trafik kazası tazminat — BAM ortak ama menfi tespit değil"
+          "rationale": "BAM kararı, trafik kazası tazminat — BAM ortak ama menfi tespit değil",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "istanbul-anadolu-4-asliye-ticaret-mahkemesi-e-2018-1345-k-2019-1263-t-27-12-2019-1",
+          "doc_id": "02d43a60a73b8d30",
           "relevance": 1,
-          "rationale": "Eser sözleşmesi bakiye bedel — ticaret hukuku ortak ama menfi tespit değil"
+          "rationale": "Eser sözleşmesi bakiye bedel — ticaret hukuku ortak ama menfi tespit değil",
+          "file_name": "istanbul-anadolu-4-asliye-ticaret-mahkemesi-e-2018-1345-k-2019-1263-t-27-12-2019-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 0,
-          "rationale": "Vergi — ihtiyati haciz, ilgisiz"
+          "rationale": "Vergi — ihtiyati haciz, ilgisiz",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         }
       ],
       "difficulty": "medium"
@@ -1848,24 +2091,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "istanbul-anadolu-4-asliye-ticaret-mahkemesi-e-2018-1345-k-2019-1263-t-27-12-2019-1",
+          "doc_id": "02d43a60a73b8d30",
           "relevance": 3,
-          "rationale": "Eser sözleşmesi, asansör işleri bakiye bedel tahsili — birebir"
+          "rationale": "Eser sözleşmesi, asansör işleri bakiye bedel tahsili — birebir",
+          "file_name": "istanbul-anadolu-4-asliye-ticaret-mahkemesi-e-2018-1345-k-2019-1263-t-27-12-2019-1"
         },
         {
-          "doc_id": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1",
+          "doc_id": "ae4e1a02654e648a",
           "relevance": 2,
-          "rationale": "Menfi tespit, inşaat sözleşmesi teminat senedi — eser/inşaat bağlamı yakın"
+          "rationale": "Menfi tespit, inşaat sözleşmesi teminat senedi — eser/inşaat bağlamı yakın",
+          "file_name": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1"
         },
         {
-          "doc_id": "istnbl-13-asliye-ticaret-mahkemesi-e-2024-177-k-2026-48-t-4-2-2026-1",
+          "doc_id": "aa7850993b8d14f6",
           "relevance": 1,
-          "rationale": "Taşıma sözleşmesi — ticaret hukuku ortak ama eser değil"
+          "rationale": "Taşıma sözleşmesi — ticaret hukuku ortak ama eser değil",
+          "file_name": "istnbl-13-asliye-ticaret-mahkemesi-e-2024-177-k-2026-48-t-4-2-2026-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -1880,34 +2127,40 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "2013-7449",
+          "doc_id": "618b1ee75c975714",
           "relevance": 3,
-          "rationale": "THY çalışanları, grev hakkı, adil yargılanma hakkı ihlali — birebir"
+          "rationale": "THY çalışanları, grev hakkı, adil yargılanma hakkı ihlali — birebir",
+          "file_name": "2013-7449"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
+          "doc_id": "aec7765df00aa61e",
           "relevance": 3,
-          "rationale": "AYM gerekçeli karar hakkı ihlali tespiti üzerine yeniden yargılama — birebir"
+          "rationale": "AYM gerekçeli karar hakkı ihlali tespiti üzerine yeniden yargılama — birebir",
+          "file_name": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1"
         },
         {
-          "doc_id": "k-2016-13036-t-21-2-2019-1",
+          "doc_id": "5dbdf5c109bf70bf",
           "relevance": 3,
-          "rationale": "Seyitömer, farklı mahkemelerin zıt sonuçları — adil yargılanma hakkı ihlali, birebir"
+          "rationale": "Seyitömer, farklı mahkemelerin zıt sonuçları — adil yargılanma hakkı ihlali, birebir",
+          "file_name": "k-2016-13036-t-21-2-2019-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 2,
-          "rationale": "THY iş bırakma, işe iade — AYM başvurusuna konu olan olay"
+          "rationale": "THY iş bırakma, işe iade — AYM başvurusuna konu olan olay",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_id": "fb0dc4d778dc4dda",
           "relevance": 1,
-          "rationale": "Seyitömer muvazaa — AYM başvurusuna konu uyuşmazlık ama AYM değil HGK"
+          "rationale": "Seyitömer muvazaa — AYM başvurusuna konu uyuşmazlık ama AYM değil HGK",
+          "file_name": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "easy"
@@ -1923,30 +2176,34 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "2013-7449",
+          "doc_id": "618b1ee75c975714",
           "relevance": 3,
-          "rationale": "THY çalışanları grev hakkı bireysel başvuru — birebir"
+          "rationale": "THY çalışanları grev hakkı bireysel başvuru — birebir",
+          "file_name": "2013-7449"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_id": "0c0ec6da50cd5bab",
           "relevance": 2,
-          "rationale": "THY iş bırakma, kanun dışı grev, işe iade — grev bağlamı doğrudan"
+          "rationale": "THY iş bırakma, kanun dışı grev, işe iade — grev bağlamı doğrudan",
+          "file_name": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1",
+          "doc_id": "aec7765df00aa61e",
           "relevance": 1,
-          "rationale": "THY DO&CO, AYM ihlal tespiti sonrası yeniden yargılama — THY zinciri ortak ama grev değil"
+          "rationale": "THY DO&CO, AYM ihlal tespiti sonrası yeniden yargılama — THY zinciri ortak ama grev değil",
+          "file_name": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "2013-7449",
-          "doc_b": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1",
+          "doc_a": "618b1ee75c975714",
+          "doc_b": "0c0ec6da50cd5bab",
           "description": "AYM grev hakkı ihlali tespit ederken, 22. HD iş bırakmayı kanun dışı grev sayarak feshi haklı buluyor — aynı eylem farklı hukuki değerlendirme"
         }
       ],
@@ -1962,24 +2219,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ankara-7-idare-mahkemesi-e-2017-2777-k-2019-904-t-4-4-2019-1",
+          "doc_id": "91b19abf1fed0df5",
           "relevance": 3,
-          "rationale": "Rekabet Kurulu kararının iptali, kolalı içecek piyasası devralma, 4054 s.K. m.7 — birebir"
+          "rationale": "Rekabet Kurulu kararının iptali, kolalı içecek piyasası devralma, 4054 s.K. m.7 — birebir",
+          "file_name": "ankara-7-idare-mahkemesi-e-2017-2777-k-2019-904-t-4-4-2019-1"
         },
         {
-          "doc_id": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1",
+          "doc_id": "2fa73b69ec652e0e",
           "relevance": 2,
-          "rationale": "İdari işlem iptali davası, üst kurul — idari yargı ortak ama rekabet değil"
+          "rationale": "İdari işlem iptali davası, üst kurul — idari yargı ortak ama rekabet değil",
+          "file_name": "iddk-e-2025-1808-k-2025-1867-t-8-10-2025-1"
         },
         {
-          "doc_id": "ankara-9-idare-mahkemesi-e-ankara-k-2024-1480-t-8-1-2025-1",
+          "doc_id": "f326041b2859f0ce",
           "relevance": 1,
-          "rationale": "İdari işlem iptali — idare mahkemesi ortak ama rekabet değil"
+          "rationale": "İdari işlem iptali — idare mahkemesi ortak ama rekabet değil",
+          "file_name": "ankara-9-idare-mahkemesi-e-ankara-k-2024-1480-t-8-1-2025-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "doc_id": "5d2053619e32a5d2",
           "relevance": 0,
-          "rationale": "Ceza — uyuşturucu ticareti, ilgisiz"
+          "rationale": "Ceza — uyuşturucu ticareti, ilgisiz",
+          "file_name": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1"
         }
       ],
       "difficulty": "medium"
@@ -1994,24 +2255,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1",
+          "doc_id": "bc6040486a9dbafb",
           "relevance": 3,
-          "rationale": "directly on point"
+          "rationale": "directly on point",
+          "file_name": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_id": "e28fde4144d01b09",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "doc_id": "5e5794bf4347f26b",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -2026,24 +2291,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1",
+          "doc_id": "77994bdb61848f12",
           "relevance": 3,
-          "rationale": "directly on point"
+          "rationale": "directly on point",
+          "file_name": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1",
+          "doc_id": "68732b39281b9d1a",
           "relevance": 0,
-          "rationale": "same branch, different topic"
+          "rationale": "same branch, different topic",
+          "file_name": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1"
         }
       ],
       "difficulty": "easy"
@@ -2058,19 +2327,22 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1",
+          "doc_id": "07c7004721076d1b",
           "relevance": 2,
-          "rationale": "İcra takibinde teminat oranı — icra hukuku ortak ama itirazın iptali değil"
+          "rationale": "İcra takibinde teminat oranı — icra hukuku ortak ama itirazın iptali değil",
+          "file_name": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1"
         },
         {
-          "doc_id": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1",
+          "doc_id": "4ef9fd501c96eff0",
           "relevance": 1,
-          "rationale": "Menfi tespit, fatura uyuşmazlığı — alacak uyuşmazlığı ortak ama icra değil"
+          "rationale": "Menfi tespit, fatura uyuşmazlığı — alacak uyuşmazlığı ortak ama icra değil",
+          "file_name": "diyarbakir-bam4-hd-e-2023-1633-k-2026-136-t-22-1-2026-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "difficulty": "hard"
@@ -2086,29 +2358,34 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1",
+          "doc_id": "c65a08c0debef804",
           "relevance": 3,
-          "rationale": "2/B taşınmaz, davalının temyizi süre aşımından ret — birebir"
+          "rationale": "2/B taşınmaz, davalının temyizi süre aşımından ret — birebir",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 3,
-          "rationale": "Miktar kesinlik sınırının altında temyiz ret — temyiz usulü doğrudan"
+          "rationale": "Miktar kesinlik sınırının altında temyiz ret — temyiz usulü doğrudan",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1",
+          "doc_id": "59108696fef1cd75",
           "relevance": 2,
-          "rationale": "Nafaka kaldırılması, temyiz kesinlik sınırı — ilgili"
+          "rationale": "Nafaka kaldırılması, temyiz kesinlik sınırı — ilgili",
+          "file_name": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 1,
-          "rationale": "Direnme + hakaret, temyiz yolu kapalı — temyiz var ama süre değil kesinlik"
+          "rationale": "Direnme + hakaret, temyiz yolu kapalı — temyiz var ama süre değil kesinlik",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -2123,24 +2400,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "8-d-e-2022-5657-k-2025-7396-t-8-10-2025-1",
+          "doc_id": "d607e785725c0b9c",
           "relevance": 3,
-          "rationale": "Kalker ocağı maden ruhsatı, zeytin yasası (3573 s.K.) çatışması, sağlıklı çevre hakkı — birebir"
+          "rationale": "Kalker ocağı maden ruhsatı, zeytin yasası (3573 s.K.) çatışması, sağlıklı çevre hakkı — birebir",
+          "file_name": "8-d-e-2022-5657-k-2025-7396-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-5008-k-2025-7388-t-8-10-2025-1",
+          "doc_id": "4bdee372521fb4cc",
           "relevance": 2,
-          "rationale": "Mermer ocağı, ÇED kararı iptali sonrası ruhsat iptali — ÇED/çevre ortak ama zeytin yasası yok"
+          "rationale": "Mermer ocağı, ÇED kararı iptali sonrası ruhsat iptali — ÇED/çevre ortak ama zeytin yasası yok",
+          "file_name": "8-d-e-2022-5008-k-2025-7388-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1",
+          "doc_id": "913f90f221d593e4",
           "relevance": 1,
-          "rationale": "Maden ruhsatı/enerji nakil hattı çatışması — maden ruhsatı ortak ama çevre/zeytin değil"
+          "rationale": "Maden ruhsatı/enerji nakil hattı çatışması — maden ruhsatı ortak ama çevre/zeytin değil",
+          "file_name": "8-d-e-2021-4039-k-2025-7397-t-8-10-2025-1"
         },
         {
-          "doc_id": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
+          "doc_id": "7247308a5656377e",
           "relevance": 0,
-          "rationale": "Vergi — KDV iade, ilgisiz"
+          "rationale": "Vergi — KDV iade, ilgisiz",
+          "file_name": "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -2156,39 +2437,46 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1",
+          "doc_id": "ae4e1a02654e648a",
           "relevance": 2,
-          "rationale": "Teminat senedi, menfi tespit, soyutluk ilkesi — senet + geçersizlik en yakın"
+          "rationale": "Teminat senedi, menfi tespit, soyutluk ilkesi — senet + geçersizlik en yakın",
+          "file_name": "istanbul-bam3-hd-e-2025-2295-k-2026-218-t-29-1-2026-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1",
+          "doc_id": "9f935133acec4f4e",
           "relevance": 2,
-          "rationale": "El ve işbirliği muvazaası — muvazaa doğrudan, tespiti aynı"
+          "rationale": "El ve işbirliği muvazaası — muvazaa doğrudan, tespiti aynı",
+          "file_name": "2-hukuk-dairesi-e-2024-9214-k-2025-10806-t-8-12-2025-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1",
+          "doc_id": "489e337e0203207a",
           "relevance": 2,
-          "rationale": "Nisbi muvazaa ispat incelemesi — muvazaa ispat kriterleri ortak"
+          "rationale": "Nisbi muvazaa ispat incelemesi — muvazaa ispat kriterleri ortak",
+          "file_name": "hukuk-genel-kurulu-e-2019-479-k-2019-1178-t-14-11-2019-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 2,
-          "rationale": "Muvazaa iddiasının ispatı, ispat yükü — muvazaa + ispat ortak"
+          "rationale": "Muvazaa iddiasının ispatı, ispat yükü — muvazaa + ispat ortak",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_id": "fb0dc4d778dc4dda",
           "relevance": 1,
-          "rationale": "Muvazaalı alt işverenlik — muvazaa kavramı ortak ama iş hukuku"
+          "rationale": "Muvazaalı alt işverenlik — muvazaa kavramı ortak ama iş hukuku",
+          "file_name": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 1,
-          "rationale": "Muris muvazaası, nisbi muvazaa — muvazaa ortak ama taşınmaz alanı"
+          "rationale": "Muris muvazaası, nisbi muvazaa — muvazaa ortak ama taşınmaz alanı",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1",
+          "doc_id": "5d2053619e32a5d2",
           "relevance": 0,
-          "rationale": "Ceza — uyuşturucu ticareti, ilgisiz"
+          "rationale": "Ceza — uyuşturucu ticareti, ilgisiz",
+          "file_name": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1"
         }
       ],
       "difficulty": "hard"
@@ -2205,50 +2493,58 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "e-2016-6-k-2017-5-t-15-12-2017-1",
+          "doc_id": "f112e0646baf0ed5",
           "relevance": 3,
-          "rationale": "İçtihat birleştirme, 9. HD vs 22. HD farkı — birebir"
+          "rationale": "İçtihat birleştirme, 9. HD vs 22. HD farkı — birebir",
+          "file_name": "e-2016-6-k-2017-5-t-15-12-2017-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
+          "doc_id": "4bcf9b34d7351eaf",
           "relevance": 3,
-          "rationale": "9. HD belirsiz alacak yaklaşımı — birebir"
+          "rationale": "9. HD belirsiz alacak yaklaşımı — birebir",
+          "file_name": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1",
+          "doc_id": "3d336710b4e165ee",
           "relevance": 3,
-          "rationale": "22. HD kıdem/ihbar belirlenebilir yaklaşımı — birebir"
+          "rationale": "22. HD kıdem/ihbar belirlenebilir yaklaşımı — birebir",
+          "file_name": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1",
+          "doc_id": "bf036c5cfca76411",
           "relevance": 3,
-          "rationale": "22. HD alacağın belirlenebilirliği — birebir"
+          "rationale": "22. HD alacağın belirlenebilirliği — birebir",
+          "file_name": "22-hukuk-dairesi-e-2017-18356-k-2018-25301-1"
         },
         {
-          "doc_id": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1",
+          "doc_id": "cfbef9539ed685e2",
           "relevance": 2,
-          "rationale": "22. HD muvazaa yaklaşımı, HGK tarafından bozulan — daireler arası fark bağlamı"
+          "rationale": "22. HD muvazaa yaklaşımı, HGK tarafından bozulan — daireler arası fark bağlamı",
+          "file_name": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1"
         },
         {
-          "doc_id": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1",
+          "doc_id": "fb0dc4d778dc4dda",
           "relevance": 2,
-          "rationale": "Seyitömer, 22. HD'yi bozan HGK — daireler arası fark bağlamı"
+          "rationale": "Seyitömer, 22. HD'yi bozan HGK — daireler arası fark bağlamı",
+          "file_name": "hukuk-genel-kurulu-e-2015-1895-k-2015-1779-t-30-9-2015-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1",
+          "doc_id": "b73f9d7b278ab3a1",
           "relevance": 1,
-          "rationale": "9. HD işçilik alacakları — 9. HD kararı ama içtihat farkı tartışması yok"
+          "rationale": "9. HD işçilik alacakları — 9. HD kararı ama içtihat farkı tartışması yok",
+          "file_name": "9-hukuk-dairesi-e-2025-8279-k-2025-9607-t-8-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "contradictory_pairs": [
         {
-          "doc_a": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1",
-          "doc_b": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1",
+          "doc_a": "4bcf9b34d7351eaf",
+          "doc_b": "3d336710b4e165ee",
           "description": "9. HD kıdem/ihbarın bazı durumlarda belirsiz olabileceğini kabul ederken, 22. HD kesinlikle belirlenebilir olduğunu savunuyor"
         }
       ],
@@ -2264,34 +2560,40 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "8-d-e-2022-2746-k-2025-7431-t-8-10-2025-1",
+          "doc_id": "1485d8bc51ea530a",
           "relevance": 3,
-          "rationale": "2/B taşınmaz, akdi halefin başvurusu, TOKİ'ye devir, zımnen ret — birebir"
+          "rationale": "2/B taşınmaz, akdi halefin başvurusu, TOKİ'ye devir, zımnen ret — birebir",
+          "file_name": "8-d-e-2022-2746-k-2025-7431-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-465-k-2025-7437-t-8-10-2025-1",
+          "doc_id": "8d12a1a551847752",
           "relevance": 3,
-          "rationale": "2/B taşınmaz, akdi halefe geç tebligat, rayiç bedel artışı — birebir"
+          "rationale": "2/B taşınmaz, akdi halefe geç tebligat, rayiç bedel artışı — birebir",
+          "file_name": "8-d-e-2022-465-k-2025-7437-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-5522-k-2025-7435-t-8-10-2025-1",
+          "doc_id": "5268b7fc1e4cb838",
           "relevance": 3,
-          "rationale": "2/B taşınmaz, akdi halef, satış kapsamından çıkarma — birebir"
+          "rationale": "2/B taşınmaz, akdi halef, satış kapsamından çıkarma — birebir",
+          "file_name": "8-d-e-2022-5522-k-2025-7435-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1",
+          "doc_id": "c65a08c0debef804",
           "relevance": 2,
-          "rationale": "2/B taşınmaz şerhi kaldırma, temyiz — 2/B ortak ama akdi halefiyet değil"
+          "rationale": "2/B taşınmaz şerhi kaldırma, temyiz — 2/B ortak ama akdi halefiyet değil",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "doc_id": "967e8e888198ed43",
           "relevance": 1,
-          "rationale": "Orman alanı kaçak yapı — orman/2B bağlamı uzaktan ortak"
+          "rationale": "Orman alanı kaçak yapı — orman/2B bağlamı uzaktan ortak",
+          "file_name": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -2307,24 +2609,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1",
+          "doc_id": "46d1623924ba01bc",
           "relevance": 3,
-          "rationale": "Sahte fatura, re'sen tarhiyat, vergi ziyaı cezası — birebir"
+          "rationale": "Sahte fatura, re'sen tarhiyat, vergi ziyaı cezası — birebir",
+          "file_name": "vddk-e-2023-1417-k-2025-747-t-8-10-2025-1"
         },
         {
-          "doc_id": "danistay-9-daire-e-2019-2591-k-2021-4815-1",
+          "doc_id": "7a5c01f1b6f7745f",
           "relevance": 2,
-          "rationale": "Sahte fatura kullanımı, ihtiyati haciz/tahakkuk iptali — sahte fatura ortak ama haciz odağı"
+          "rationale": "Sahte fatura kullanımı, ihtiyati haciz/tahakkuk iptali — sahte fatura ortak ama haciz odağı",
+          "file_name": "danistay-9-daire-e-2019-2591-k-2021-4815-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 1,
-          "rationale": "Vergi incelemesi, VUK 344/359 — vergi cezası bağlamı ortak ama sahte fatura değil"
+          "rationale": "Vergi incelemesi, VUK 344/359 — vergi cezası bağlamı ortak ama sahte fatura değil",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -2339,19 +2645,22 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1",
+          "doc_id": "0b44d73acb56d04d",
           "relevance": 3,
-          "rationale": "Tefecilik, TCK 241, zincirleme suç, hukuki kesinti — birebir"
+          "rationale": "Tefecilik, TCK 241, zincirleme suç, hukuki kesinti — birebir",
+          "file_name": "samsun-bam6-cd-e-2024-1088-k-2025-667-t-18-2-2025-1"
         },
         {
-          "doc_id": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1",
+          "doc_id": "ae1e7ca9fa2b141a",
           "relevance": 1,
-          "rationale": "Yağma, ceza — ceza ortak ama tefecilik değil"
+          "rationale": "Yağma, ceza — ceza ortak ama tefecilik değil",
+          "file_name": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -2366,24 +2675,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "istnbl-53-acm-e-2018-422-k-2019-79-t-12-2-2019-1",
+          "doc_id": "5f7d7db813b09623",
           "relevance": 3,
-          "rationale": "Haksız rekabet suçu, yüksek lisans tezinin izinsiz ticari kullanımı, TTK m.56-65 — birebir"
+          "rationale": "Haksız rekabet suçu, yüksek lisans tezinin izinsiz ticari kullanımı, TTK m.56-65 — birebir",
+          "file_name": "istnbl-53-acm-e-2018-422-k-2019-79-t-12-2-2019-1"
         },
         {
-          "doc_id": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1",
+          "doc_id": "77994bdb61848f12",
           "relevance": 2,
-          "rationale": "Fikri haklar ceza — FSEK, fikri mülkiyet bağlamı ortak ama haksız rekabet değil bandrol"
+          "rationale": "Fikri haklar ceza — FSEK, fikri mülkiyet bağlamı ortak ama haksız rekabet değil bandrol",
+          "file_name": "bakirkoy-2-fikri-ve-sinai-haklar-ceza-mahkemesi-e-2014-574-k-2015-68-t-19-2-2015-1"
         },
         {
-          "doc_id": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1",
+          "doc_id": "ae1e7ca9fa2b141a",
           "relevance": 1,
-          "rationale": "Yağma, ceza — ceza yargılaması ortak ama haksız rekabet değil"
+          "rationale": "Yağma, ceza — ceza yargılaması ortak ama haksız rekabet değil",
+          "file_name": "bursa-bam4-cd-e-2022-3110-k-2022-1923-t-4-7-2022-1"
         },
         {
-          "doc_id": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1",
+          "doc_id": "c3ff9456d32f5329",
           "relevance": 0,
-          "rationale": "Vergi — ihtiyati haciz, ilgisiz"
+          "rationale": "Vergi — ihtiyati haciz, ilgisiz",
+          "file_name": "3-d-e-2018-1878-k-2020-6078-t-23-12-2020-1"
         }
       ],
       "difficulty": "medium"
@@ -2398,19 +2711,22 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "3-hukuk-dairesi-e-2025-2561-k-2025-5952-t-8-12-2025-1",
+          "doc_id": "b393ef0ede290d36",
           "relevance": 2,
-          "rationale": "Konut satış sözleşmesi, teslim gecikmesi — konut/kira bağlamı uzaktan ortak ama kira tespiti değil"
+          "rationale": "Konut satış sözleşmesi, teslim gecikmesi — konut/kira bağlamı uzaktan ortak ama kira tespiti değil",
+          "file_name": "3-hukuk-dairesi-e-2025-2561-k-2025-5952-t-8-12-2025-1"
         },
         {
-          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1",
+          "doc_id": "bc6040486a9dbafb",
           "relevance": 1,
-          "rationale": "Tüketici hukuku — tüketici ortak ama kira değil"
+          "rationale": "Tüketici hukuku — tüketici ortak ama kira değil",
+          "file_name": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
-          "rationale": "Ceza — kasten öldürme, ilgisiz"
+          "rationale": "Ceza — kasten öldürme, ilgisiz",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ],
       "difficulty": "hard"
@@ -2425,19 +2741,22 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1",
+          "doc_id": "b3a35d7cece02b18",
           "relevance": 3,
-          "rationale": "İşgal harcı, ruhsat harici alan kullanımı, 2464 s.K. m.52 — birebir"
+          "rationale": "İşgal harcı, ruhsat harici alan kullanımı, 2464 s.K. m.52 — birebir",
+          "file_name": "istanbul-bim7-vdd-e-2025-1503-k-2025-1478-t-14-5-2025-1"
         },
         {
-          "doc_id": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1",
+          "doc_id": "4818288a7a1a5c0e",
           "relevance": 1,
-          "rationale": "BİM vergi dava dairesi — vergi usulü ortak ama işgal harcı değil"
+          "rationale": "BİM vergi dava dairesi — vergi usulü ortak ama işgal harcı değil",
+          "file_name": "istanbul-bim6-vdd-e-2025-2172-k-2025-2209-t-14-5-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "medium"
@@ -2452,29 +2771,34 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 3,
-          "rationale": "Bıçakla göğse saplama + haksız tahrik — birebir"
+          "rationale": "Bıçakla göğse saplama + haksız tahrik — birebir",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1",
+          "doc_id": "e28fde4144d01b09",
           "relevance": 3,
-          "rationale": "Meşru savunma — 'kendimi savundum' birebir"
+          "rationale": "Meşru savunma — 'kendimi savundum' birebir",
+          "file_name": "1-ceza-dairesi-e-2024-3889-k-2025-8921-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1",
+          "doc_id": "380172d61ae2c2df",
           "relevance": 2,
-          "rationale": "Müşterek faillik, haksız tahrik/meşru savunma — ilgili"
+          "rationale": "Müşterek faillik, haksız tahrik/meşru savunma — ilgili",
+          "file_name": "1-ceza-dairesi-e-2024-6850-k-2025-9015-t-15-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1",
+          "doc_id": "5e5794bf4347f26b",
           "relevance": 1,
-          "rationale": "Olası kast — bıçaklama bağlamı var ama meşru savunma değil"
+          "rationale": "Olası kast — bıçaklama bağlamı var ama meşru savunma değil",
+          "file_name": "1-ceza-dairesi-e-2024-5092-k-2025-8923-t-11-12-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1",
+          "doc_id": "21798831a2666236",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1"
         }
       ],
       "difficulty": "hard"
@@ -2489,24 +2813,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "ankara-9-idare-mahkemesi-e-ankara-k-2024-1480-t-8-1-2025-1",
+          "doc_id": "f326041b2859f0ce",
           "relevance": 3,
-          "rationale": "Kamu avukatı hukuk müşavirliğine geçiş, 657 s.K. m.36-C/3, intibak — birebir"
+          "rationale": "Kamu avukatı hukuk müşavirliğine geçiş, 657 s.K. m.36-C/3, intibak — birebir",
+          "file_name": "ankara-9-idare-mahkemesi-e-ankara-k-2024-1480-t-8-1-2025-1"
         },
         {
-          "doc_id": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1",
+          "doc_id": "0300cb3e93571290",
           "relevance": 2,
-          "rationale": "Kamu personeli hak talebi — kamu personeli ortak ama intibak değil"
+          "rationale": "Kamu personeli hak talebi — kamu personeli ortak ama intibak değil",
+          "file_name": "ankara-24-idare-mahkemesi-e-2024-1728-k-2025-454-t-26-03-2025-1"
         },
         {
-          "doc_id": "trabzon-1-idare-mahkemesi-e-2014-1554-k-2014-1472-t-4-11-2014-1",
+          "doc_id": "d987d98c0dbd95e7",
           "relevance": 1,
-          "rationale": "Naklen atama — kamu personeli ortak ama intibak/avukatlık değil"
+          "rationale": "Naklen atama — kamu personeli ortak ama intibak/avukatlık değil",
+          "file_name": "trabzon-1-idare-mahkemesi-e-2014-1554-k-2014-1472-t-4-11-2014-1"
         },
         {
-          "doc_id": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1",
+          "doc_id": "be447fe5973a7364",
           "relevance": 0,
-          "rationale": "Vergi — özel iletişim vergisi, ilgisiz"
+          "rationale": "Vergi — özel iletişim vergisi, ilgisiz",
+          "file_name": "vddk-e-2023-1434-k-2025-749-t-8-10-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -2521,24 +2849,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1",
+          "doc_id": "967e8e888198ed43",
           "relevance": 3,
-          "rationale": "Orman alanı kaçak yapı tahliyesi, yapı kayıt belgesi koruma sağlamaz, 6831 s.K. m.17 — birebir"
+          "rationale": "Orman alanı kaçak yapı tahliyesi, yapı kayıt belgesi koruma sağlamaz, 6831 s.K. m.17 — birebir",
+          "file_name": "8-d-e-2022-1026-k-2025-7426-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-5657-k-2025-7396-t-8-10-2025-1",
+          "doc_id": "d607e785725c0b9c",
           "relevance": 2,
-          "rationale": "Maden ruhsatı, çevre/zeytin — orman/çevre bağlamı ortak ama yapı kayıt değil"
+          "rationale": "Maden ruhsatı, çevre/zeytin — orman/çevre bağlamı ortak ama yapı kayıt değil",
+          "file_name": "8-d-e-2022-5657-k-2025-7396-t-8-10-2025-1"
         },
         {
-          "doc_id": "8-d-e-2022-5008-k-2025-7388-t-8-10-2025-1",
+          "doc_id": "4bdee372521fb4cc",
           "relevance": 1,
-          "rationale": "Maden ruhsatı ÇED — Danıştay 8. D. ortak ama orman/yapı kayıt değil"
+          "rationale": "Maden ruhsatı ÇED — Danıştay 8. D. ortak ama orman/yapı kayıt değil",
+          "file_name": "8-d-e-2022-5008-k-2025-7388-t-8-10-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1",
+          "doc_id": "e47484677ec17ba2",
           "relevance": 0,
-          "rationale": "İş hukuku — ilgisiz"
+          "rationale": "İş hukuku — ilgisiz",
+          "file_name": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1"
         }
       ],
       "difficulty": "medium"
@@ -2553,24 +2885,28 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 3,
-          "rationale": "Trafik kazası tazminat, manevi tazminatın bölünmezliği, ihtiyati hacizde ölçülülük — birebir"
+          "rationale": "Trafik kazası tazminat, manevi tazminatın bölünmezliği, ihtiyati hacizde ölçülülük — birebir",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1",
+          "doc_id": "cc8742bafa496113",
           "relevance": 2,
-          "rationale": "Kaza sonucu ölüm tazminatı — tazminat hesabı ortak ama trafik kazası değil iş kazası"
+          "rationale": "Kaza sonucu ölüm tazminatı — tazminat hesabı ortak ama trafik kazası değil iş kazası",
+          "file_name": "21-hukuk-dairesi-e-2016-115-k-2017-2948-1"
         },
         {
-          "doc_id": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1",
+          "doc_id": "07c7004721076d1b",
           "relevance": 1,
-          "rationale": "İcra hukuku, teminat — ihtiyati haciz bağlamı ortak ama trafik kazası değil"
+          "rationale": "İcra hukuku, teminat — ihtiyati haciz bağlamı ortak ama trafik kazası değil",
+          "file_name": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1",
+          "doc_id": "aa187046abb703e9",
           "relevance": 0,
-          "rationale": "Hukuk — muris muvazaası, ilgisiz"
+          "rationale": "Hukuk — muris muvazaası, ilgisiz",
+          "file_name": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1"
         }
       ],
       "difficulty": "medium"
@@ -2582,34 +2918,39 @@
       "law_branch": "usul hukuku",
       "relevance_judgments": [
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 3,
           "description": "Ana Karar: USD alacağının dava tarihindeki kurla TL'ye çevrilerek 78.630 TL sınırının altında kaldığını saptayan temel karardır.",
-          "rationale": "Directly on point; defines the currency conversion rule for legal thresholds."
+          "rationale": "Directly on point; defines the currency conversion rule for legal thresholds.",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797",
+          "doc_id": "59108696fef1cd75",
           "relevance": 2,
           "description": "İlgili Karar: Parasal sınırın hesaplanma yöntemini (nafaka üzerinden) ve maddi hata düzeltimini içerir.",
-          "rationale": "Related; shares the 'monetary threshold' theme but uses a different calculation (annual total) instead of exchange rates."
+          "rationale": "Related; shares the 'monetary threshold' theme but uses a different calculation (annual total) instead of exchange rates.",
+          "file_name": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 1,
           "description": "Dolaylı Karar: Ceza yargısındaki kesinlik sınırlarını belirler.",
-          "rationale": "Marginal; shows a different judicial branch's approach to 'finality' (kesinlik), though not monetary."
+          "rationale": "Marginal; shows a different judicial branch's approach to 'finality' (kesinlik), though not monetary.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         },
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434",
+          "doc_id": "c65a08c0debef804",
           "relevance": 1,
           "description": "Dolaylı Karar: İdari yargıdaki temyiz engellerinden (süre aşımı) bahseder.",
-          "rationale": "Marginal; deals with procedural bars to appeal, but focuses on time rather than money."
+          "rationale": "Marginal; deals with procedural bars to appeal, but focuses on time rather than money.",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "1-hukuk-dairesi-e-2024-1977-k-2025-5810",
+          "doc_id": "68732b39281b9d1a",
           "relevance": 0,
           "description": "İlgisiz Karar: Muris muvazaası nedeniyle tapu iptali ve tescil — temyiz kesinlik sınırı veya döviz kuruyla hiçbir ilgisi yoktur.",
-          "rationale": "Unrelated; substantive property/inheritance law, no procedural threshold issue."
+          "rationale": "Unrelated; substantive property/inheritance law, no procedural threshold issue.",
+          "file_name": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1"
         }
       ]
     },
@@ -2620,34 +2961,39 @@
       "law_branch": "aile hukuku / usul",
       "relevance_judgments": [
         {
-          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797",
+          "doc_id": "59108696fef1cd75",
           "relevance": 3,
           "description": "Ana Karar: Nafakada yıllık tutarın esas alınacağını ve hatalı verilen ilk ret kararının 'maddi hata' ile düzeltilebileceğini açıklar.",
-          "rationale": "Directly on point; covers both periodic payment calculation and the self-correction mechanism."
+          "rationale": "Directly on point; covers both periodic payment calculation and the self-correction mechanism.",
+          "file_name": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 1,
           "description": "İlgili Karar: Parasal sınırın (USD/TL) hesaplanmasıyla ilgili genel usulü içerir.",
-          "rationale": "Related; confirms the strict application of HMK 362 thresholds in civil cases."
+          "rationale": "Related; confirms the strict application of HMK 362 thresholds in civil cases.",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434",
+          "doc_id": "c65a08c0debef804",
           "relevance": 1,
           "description": "Dolaylı Karar: İdari yargıdaki süre aşımına dayalı kesinleşmeyi işler.",
-          "rationale": "Marginal; procedural finality theme is shared, but the context (administrative) is different."
+          "rationale": "Marginal; procedural finality theme is shared, but the context (administrative) is different.",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 1,
           "description": "Dolaylı Karar: Ceza yargısındaki kesinlik hallerini içerir.",
-          "rationale": "Marginal; unrelated to monetary or family law, provides only a branch-specific 'finality' example."
+          "rationale": "Marginal; unrelated to monetary or family law, provides only a branch-specific 'finality' example.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         },
         {
-          "doc_id": "10-ceza-dairesi-e-2024-6367-k-2026-362",
+          "doc_id": "5d2053619e32a5d2",
           "relevance": 0,
           "description": "İlgisiz Karar: Uyuşturucu ticareti ve etkin pişmanlık — nafaka hesabı veya kesinlik sınırıyla hiçbir ilgisi yoktur.",
-          "rationale": "Unrelated; criminal drug offense, no connection to civil procedural thresholds or family law."
+          "rationale": "Unrelated; criminal drug offense, no connection to civil procedural thresholds or family law.",
+          "file_name": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1"
         }
       ]
     },
@@ -2658,34 +3004,39 @@
       "law_branch": "idare hukuku / usul",
       "relevance_judgments": [
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434",
+          "doc_id": "c65a08c0debef804",
           "relevance": 3,
           "description": "Ana Karar: Tebligatın hesaba ulaştığı andan itibaren 5. günün sonunda okunmuş sayılacağını ve 30 günlük sürenin buna göre başladığını belirleyen karardır.",
-          "rationale": "Directly on point; defines the strict time-computation for administrative appeals."
+          "rationale": "Directly on point; defines the strict time-computation for administrative appeals.",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 1,
           "description": "İlgili Karar: Ceza yargısındaki temyiz başvurusunun süresinde yapılıp yapılmadığının (ön inceleme) önemini vurgular.",
-          "rationale": "Related; both cases involve a threshold check (pre-examination) before dealing with the merits."
+          "rationale": "Related; both cases involve a threshold check (pre-examination) before dealing with the merits.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797",
+          "doc_id": "59108696fef1cd75",
           "relevance": 1,
           "description": "Dolaylı Karar: Parasal sınır nedeniyle temyiz reddini içerir.",
-          "rationale": "Marginal; unrelated to administrative time limits, shares only the 'rejection of appeal' outcome."
+          "rationale": "Marginal; unrelated to administrative time limits, shares only the 'rejection of appeal' outcome.",
+          "file_name": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 1,
           "description": "Dolaylı Karar: Parasal sınır nedeniyle temyiz reddini içerir.",
-          "rationale": "Marginal; focuses on money instead of administrative procedure/time."
+          "rationale": "Marginal; focuses on money instead of administrative procedure/time.",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-2954-k-2025-9052",
+          "doc_id": "ad65ca16d2752f93",
           "relevance": 0,
           "description": "İlgisiz Karar: Kasten öldürme suçunda haksız tahrik indirimi — elektronik tebligat veya idari temyiz süreleriyle hiçbir ilgisi yoktur.",
-          "rationale": "Unrelated; criminal homicide case, completely outside administrative procedural law."
+          "rationale": "Unrelated; criminal homicide case, completely outside administrative procedural law.",
+          "file_name": "1-ceza-dairesi-e-2024-2954-k-2025-9052-t-16-12-2025-1"
         }
       ]
     },
@@ -2699,34 +3050,39 @@
       ],
       "relevance_judgments": [
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 3,
           "description": "Ana Karar: Kararda 'direnme' suçunun istinaf aşamasında kesinleştiği, 'hakaret' suçunun ise temyize tabi olduğu suç tipleri üzerinden açıkça belirtilmiştir.",
-          "rationale": "Directly on point; uses the specific crime types from the case to define appealability limits."
+          "rationale": "Directly on point; uses the specific crime types from the case to define appealability limits.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         },
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434",
+          "doc_id": "c65a08c0debef804",
           "relevance": 1,
           "description": "İlgili Karar: İdari yargıda temyiz isteminin usulden (süre) reddini içerir; ceza yargısındaki 'kesinlik' engeliyle benzer bir usuli bilgi sunar.",
-          "rationale": "Related; both illustrate procedural 'gatekeeping' that prevents a merit review by high courts."
+          "rationale": "Related; both illustrate procedural 'gatekeeping' that prevents a merit review by high courts.",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797",
+          "doc_id": "59108696fef1cd75",
           "relevance": 1,
           "description": "Dolaylı Karar: Hukuk yargısında parasal sınır nedeniyle oluşan kesinleşmeyi işler.",
-          "rationale": "Marginal; shows a different basis (monetary vs categorical) for the same result: rejection of appeal."
+          "rationale": "Marginal; shows a different basis (monetary vs categorical) for the same result: rejection of appeal.",
+          "file_name": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 1,
           "description": "Dolaylı Karar: İş hukukunda miktar nedeniyle temyiz yolunun kapalı olmasını işler.",
-          "rationale": "Marginal; unrelated to criminal law but shares the 'finality' (kesinlik) consequence."
+          "rationale": "Marginal; unrelated to criminal law but shares the 'finality' (kesinlik) consequence.",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "21-hukuk-dairesi-e-2014-2165-k-2014-10603",
+          "doc_id": "a1502e1d239a00ee",
           "relevance": 0,
           "description": "İlgisiz Karar: İş kazası tazminatında kaçınılmazlık ve işverenin kusur oranı — CMK temyiz usulü veya suç vasfıyla hiçbir ilgisi yoktur.",
-          "rationale": "Unrelated; occupational accident damages, no connection to criminal appellate procedure."
+          "rationale": "Unrelated; occupational accident damages, no connection to criminal appellate procedure.",
+          "file_name": "21-hukuk-dairesi-e-2014-2165-k-2014-10603-1"
         }
       ],
       "difficulty": "medium"
@@ -2738,34 +3094,39 @@
       "law_branch": "icra iflas hukuku / borçlar hukuku",
       "relevance_judgments": [
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 3,
           "description": "Ana Karar: Trafik kazası sonrası sadece kazaya karışan aracın haczedilebileceğini, banka hesapları ve diğer araçların haczedilmesinin 'aşkın haciz' olduğunu belirten karardır.",
-          "rationale": "Directly on point; defines the limits of provisional seizure in tort cases."
+          "rationale": "Directly on point; defines the limits of provisional seizure in tort cases.",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434",
+          "doc_id": "c65a08c0debef804",
           "relevance": 1,
           "description": "İlgili Karar: Taşınmaz üzerindeki şerhlerin kaldırılması usulünü işler.",
-          "rationale": "Sadece ihtiyati haciz/şerh kavramları geçtiği için eklenmiştir; içerik idari usul odaklıdır."
+          "rationale": "Sadece ihtiyati haciz/şerh kavramları geçtiği için eklenmiştir; içerik idari usul odaklıdır.",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         },
         {
-          "doc_id": "2-hukuk-dairesi-e-2025-9959-k-2025-10797",
+          "doc_id": "59108696fef1cd75",
           "relevance": 1,
           "description": "İlgili Karar: Nafaka ve aile hukuku kapsamındaki usul işlemlerini içerir.",
-          "rationale": "Sadece ihtiyati haciz/tedbir terimleri geçtiği için eklenmiştir; esas konu nafaka hesabıdır."
+          "rationale": "Sadece ihtiyati haciz/tedbir terimleri geçtiği için eklenmiştir; esas konu nafaka hesabıdır.",
+          "file_name": "2-hukuk-dairesi-e-2025-9959-k-2025-10797-t-8-12-2025-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 1,
           "description": "İlgili Karar: İş hukuku alacaklarında kesinlik sınırını işler.",
-          "rationale": "Sadece ihtiyati haciz/takip kavramları geçtiği için eklenmiştir; esas konu döviz kuru hesaplamasıdır."
+          "rationale": "Sadece ihtiyati haciz/takip kavramları geçtiği için eklenmiştir; esas konu döviz kuru hesaplamasıdır.",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "1-ceza-dairesi-e-2024-5472-k-2025-8926",
+          "doc_id": "9c2676f045915976",
           "relevance": 0,
           "description": "İlgisiz Karar: Neticesi sebebiyle ağırlaşmış yaralama ve haksız tahrik indirimi — ihtiyati haciz, ölçülülük ilkesi veya trafik tazminatıyla hiçbir ilgisi yoktur.",
-          "rationale": "Unrelated; criminal bodily harm case, no connection to civil enforcement or provisional seizure."
+          "rationale": "Unrelated; criminal bodily harm case, no connection to civil enforcement or provisional seizure.",
+          "file_name": "1-ceza-dairesi-e-2024-5472-k-2025-8926-t-11-12-2025-1"
         }
       ]
     },
@@ -2776,28 +3137,32 @@
       "law_branch": "icra iflas hukuku",
       "relevance_judgments": [
         {
-          "doc_id": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085",
+          "doc_id": "07c7004721076d1b",
           "relevance": 3,
           "description": "Ana Karar: İcra müdürünün takdir yetkisini aşarak belirlediği %30 teminat oranını iptal eden ve maktu bir sınırlama getiren temel karardır.",
-          "rationale": "Directly on point; specific to the enforcement officer's transaction (memur muamelesi) and bail amounts."
+          "rationale": "Directly on point; specific to the enforcement officer's transaction (memur muamelesi) and bail amounts.",
+          "file_name": "bakirkoy-3-icra-hukuk-mahkemesi-e-2017-854-k-2018-1085-t-20-11-2018-1-1"
         },
         {
-          "doc_id": "izmir-bam4-hd-e-2026-406-k-2026-376",
+          "doc_id": "c7baa9a0f756c018",
           "relevance": 1,
           "description": "İlgili Karar: İhtiyati haciz kararlarında ölçülülük ve aşkın hacizlerin kaldırılması ilkesini içerir.",
-          "rationale": "Sadece 'ölçülülük' ve 'icra işlemi' kavramları üzerinden terimsel bir bağ kurar."
+          "rationale": "Sadece 'ölçülülük' ve 'icra işlemi' kavramları üzerinden terimsel bir bağ kurar.",
+          "file_name": "izmir-bam4-hd-e-2026-406-k-2026-376-t-12-2-2026-1"
         },
         {
-          "doc_id": "9-hukuk-dairesi-e-2025-9180-k-2025-9530",
+          "doc_id": "19d63b0977e67f38",
           "relevance": 1,
           "description": "İlgili Karar: İş davası temyiz kesinlik sınırı ve döviz kuru hesaplaması.",
-          "rationale": "Sadece 'icra takibi' ve 'miktar' gibi genel usul terimleri içerdiği için eklenmiştir."
+          "rationale": "Sadece 'icra takibi' ve 'miktar' gibi genel usul terimleri içerdiği için eklenmiştir.",
+          "file_name": "9-hukuk-dairesi-e-2025-9180-k-2025-9530-t-4-12-2025-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 0,
           "description": "Alakasız Dosya: Hakaret ve görevi yaptırmamak için direnme suçlarına ilişkin ceza yargılaması kararıdır.",
-          "rationale": "Tamamen alakasız; ceza hukuku kapsamındaki suç tiplerinin icra müdürlüğü işlemleriyle bir ilgisi bulunmamaktadır."
+          "rationale": "Tamamen alakasız; ceza hukuku kapsamındaki suç tiplerinin icra müdürlüğü işlemleriyle bir ilgisi bulunmamaktadır.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         }
       ]
     },
@@ -2808,16 +3173,18 @@
       "law_branch": "tüketici hukuku / bankacılık hukuku",
       "relevance_judgments": [
         {
-          "doc_id": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653",
+          "doc_id": "bc6040486a9dbafb",
           "relevance": 3,
           "description": "Ana Karar: Mevduatın korunması sorumluluğunun bankada olduğunu, müşterinin bilgisi dışındaki limit artırımı ve para transferlerinden bankanın sorumlu tutulması gerektiğini hükme bağlayan karardır.",
-          "rationale": "Directly on point; deals with modern banking fraud and the duty of care for financial institutions."
+          "rationale": "Directly on point; deals with modern banking fraud and the duty of care for financial institutions.",
+          "file_name": "istanbul-anadolu-1-tuketici-mahkemesi-e-2021-999-k-2024-653-t-7-6-2024-1"
         },
         {
-          "doc_id": "4-ceza-dairesi-e-2023-16977-k-2026-641",
+          "doc_id": "27b268d6e6d456ba",
           "relevance": 0,
           "description": "Alakasız Dosya: Hakaret ve görevi yaptırmamak için direnme suçlarına ilişkin ceza kararıdır.",
-          "rationale": "Banka dolandırıcılığındaki 'hizmet ayıbı' ile ceza hukukundaki 'direnme' suçu arasında hiçbir hukuki bağlantı yoktur."
+          "rationale": "Banka dolandırıcılığındaki 'hizmet ayıbı' ile ceza hukukundaki 'direnme' suçu arasında hiçbir hukuki bağlantı yoktur.",
+          "file_name": "4-ceza-dairesi-e-2023-16977-k-2026-641-t-7-1-2026-1"
         }
       ],
       "difficulty": "medium"
@@ -2829,16 +3196,18 @@
       "law_branch": "borçlar hukuku / tüketici hukuku",
       "relevance_judgments": [
         {
-          "doc_id": "3-hukuk-dairesi-e-2025-2561-k-2025-5952",
+          "doc_id": "b393ef0ede290d36",
           "relevance": 3,
           "description": "Ana Karar: Sözleşmeden dönme iradesi ortaya koyan ve bu kararı kesinleşen alıcının, artık sözleşmenin ifasına bağlı olan kira tazminatını isteyemeyeceğini belirten Yargıtay kararıdır.",
-          "rationale": "Directly on point; explains the legal consequence of choosing 'rescission' over 'performance' in contracts."
+          "rationale": "Directly on point; explains the legal consequence of choosing 'rescission' over 'performance' in contracts.",
+          "file_name": "3-hukuk-dairesi-e-2025-2561-k-2025-5952-t-8-12-2025-1"
         },
         {
-          "doc_id": "8-d-e-2024-1876-k-2025-7434",
+          "doc_id": "c65a08c0debef804",
           "relevance": 0,
           "description": "Alakasız Dosya: Danıştay'ın süre aşımı ve taşınmaz şerhi kaldırma kararıdır.",
-          "rationale": "İdari yargı usulü ile özel hukuk sözleşmelerindeki cezai şart hükümlerinin hiçbir alakası yoktur."
+          "rationale": "İdari yargı usulü ile özel hukuk sözleşmelerindeki cezai şart hükümlerinin hiçbir alakası yoktur.",
+          "file_name": "8-d-e-2024-1876-k-2025-7434-t-8-10-2025-1"
         }
       ],
       "difficulty": "hard"

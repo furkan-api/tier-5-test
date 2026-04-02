@@ -170,6 +170,34 @@
     "exclude_reason": ""
   },
   {
+    "doc_id": "21798831a2666236",
+    "filename": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1.md",
+    "court": "Yargıtay",
+    "daire": "1. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2007/9815",
+    "karar_no": "2007/11607",
+    "decision_date": "14.06.2007",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "aa187046abb703e9",
+    "filename": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1.md",
+    "court": "Yargıtay",
+    "daire": "1. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2014/22602",
+    "karar_no": "2017/953",
+    "decision_date": "",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
     "doc_id": "68732b39281b9d1a",
     "filename": "1-hukuk-dairesi-e-2024-1977-k-2025-5810-t-9-12-2025-1.md",
     "court": "Yargıtay",
@@ -238,34 +266,6 @@
     "exclude_reason": ""
   },
   {
-    "doc_id": "21798831a2666236",
-    "filename": "1-hukuk-dairesi-e-2007-9815-k-2007-11607-1.md",
-    "court": "Yargıtay",
-    "daire": "1. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2007/9815",
-    "karar_no": "2007/11607",
-    "decision_date": "14.06.2007",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "aa187046abb703e9",
-    "filename": "1-hukuk-dairesi-e-2014-22602-k-2017-953-1.md",
-    "court": "Yargıtay",
-    "daire": "1. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2014/22602",
-    "karar_no": "2017/953",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
     "doc_id": "5d2053619e32a5d2",
     "filename": "10-ceza-dairesi-e-2024-6367-k-2026-362-t-15-1-2026-1.md",
     "court": "Yargıtay",
@@ -313,6 +313,62 @@
       "da Görüntüle\n\n\n\n kanun yararına bozma",
       "denetimli serbestlik"
     ],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "0ac622d224fb529a",
+    "filename": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1.md",
+    "court": "İlk Derece",
+    "daire": "Denizli 2. Aile Mahkemesi",
+    "law_branch": "hukuk",
+    "court_level": 1,
+    "esas_no": "2011/21393",
+    "karar_no": "2012/17963",
+    "decision_date": "16.09.2011",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "88145bb360d534ee",
+    "filename": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1.md",
+    "court": "İlk Derece",
+    "daire": "Kocaeli 3. Aile Mahkemesi",
+    "law_branch": "hukuk",
+    "court_level": 1,
+    "esas_no": "2014/8960",
+    "karar_no": "2014/20128",
+    "decision_date": "08.01.2014",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "7415bfb5868932f2",
+    "filename": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1.md",
+    "court": "Yargıtay",
+    "daire": "2. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2020/2401",
+    "karar_no": "2020/3512",
+    "decision_date": "",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "2151297528ed418e",
+    "filename": "2-hukuk-dairesi-e-2023-7132-k-2024-4132-1.md",
+    "court": "Yargıtay",
+    "daire": "2. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2023/7132",
+    "karar_no": "2024/4132",
+    "decision_date": "",
+    "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
   },
@@ -385,48 +441,6 @@
     "exclude_reason": ""
   },
   {
-    "doc_id": "0ac622d224fb529a",
-    "filename": "2-hukuk-dairesi-e-2011-21393-k-2012-17963-1.md",
-    "court": "İlk Derece",
-    "daire": "Denizli 2. Aile Mahkemesi",
-    "law_branch": "hukuk",
-    "court_level": 1,
-    "esas_no": "2011/21393",
-    "karar_no": "2012/17963",
-    "decision_date": "16.09.2011",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "88145bb360d534ee",
-    "filename": "2-hukuk-dairesi-e-2014-8960-k-2014-20128-1.md",
-    "court": "İlk Derece",
-    "daire": "Kocaeli 3. Aile Mahkemesi",
-    "law_branch": "hukuk",
-    "court_level": 1,
-    "esas_no": "2014/8960",
-    "karar_no": "2014/20128",
-    "decision_date": "08.01.2014",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "7415bfb5868932f2",
-    "filename": "2-hukuk-dairesi-e-2020-2401-k-2020-3512-1.md",
-    "court": "Yargıtay",
-    "daire": "2. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2020/2401",
-    "karar_no": "2020/3512",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
     "doc_id": "618b1ee75c975714",
     "filename": "2013-7449.md",
     "court": "AYM",
@@ -437,6 +451,23 @@
     "karar_no": "",
     "decision_date": "",
     "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "53e7fb5be94105e7",
+    "filename": "2019-17969.md",
+    "court": "AYM",
+    "daire": "Anayasa Mahkemesi",
+    "law_branch": "anayasa",
+    "court_level": 4,
+    "esas_no": "2019/17969",
+    "karar_no": "",
+    "decision_date": "",
+    "topic_keywords": [
+      "da Görüntüle\n\n\n\n belirsiz alacak davası",
+      "mahkemeye erişim hakkı"
+    ],
     "excluded": false,
     "exclude_reason": ""
   },
@@ -485,6 +516,37 @@
     "exclude_reason": ""
   },
   {
+    "doc_id": "2d031fa5dc01d7d9",
+    "filename": "22-hukuk-dairesi-e-2011-17647-k-2012-10230-t-17-5-2012-1.md",
+    "court": "Yargıtay",
+    "daire": "22. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2011/17647",
+    "karar_no": "2012/10230",
+    "decision_date": "17.05.2012",
+    "topic_keywords": [
+      "da Görüntüle\n\n\n\n iade davası",
+      "davanın kabulü"
+    ],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "0c0ec6da50cd5bab",
+    "filename": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1.md",
+    "court": "Yargıtay",
+    "daire": "22. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2013/9431",
+    "karar_no": "2013/16464",
+    "decision_date": "",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
     "doc_id": "cfbef9539ed685e2",
     "filename": "22-hukuk-dairesi-e-2014-30303-k-2014-31288-t-12-11-2014-1.md",
     "court": "Yargıtay",
@@ -516,6 +578,20 @@
     "exclude_reason": ""
   },
   {
+    "doc_id": "3d336710b4e165ee",
+    "filename": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1.md",
+    "court": "Yargıtay",
+    "daire": "22. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2016/6543",
+    "karar_no": "2016/12675",
+    "decision_date": "28.04.2016",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
     "doc_id": "aec7765df00aa61e",
     "filename": "22-hukuk-dairesi-e-2016-9374-k-2016-11137-1.md",
     "court": "AYM",
@@ -539,6 +615,20 @@
     "esas_no": "2017/18356",
     "karar_no": "2018/25301",
     "decision_date": "",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "5f1b52a9bad1a8c5",
+    "filename": "22-hukuk-dairesi-e-2017-25448-k-2017-6345-t-28-3-2017-1.md",
+    "court": "Yargıtay",
+    "daire": "22. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2017/25448",
+    "karar_no": "2017/6345",
+    "decision_date": "28.03.2017",
     "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
@@ -794,6 +884,20 @@
     "exclude_reason": ""
   },
   {
+    "doc_id": "4bcf9b34d7351eaf",
+    "filename": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1.md",
+    "court": "Yargıtay",
+    "daire": "9. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2016/26476",
+    "karar_no": "2020/7547",
+    "decision_date": "",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
     "doc_id": "e47484677ec17ba2",
     "filename": "9-hukuk-dairesi-e-2025-7970-k-2025-9649-t-8-12-2025-1.md",
     "court": "Yargıtay",
@@ -823,6 +927,23 @@
     "topic_keywords": [
       "da Görüntüle\n\n\n\n alt yüklenici",
       "fazla çalışma ücreti"
+    ],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "e679ea702c243a0f",
+    "filename": "9-hukuk-dairesi-e-2025-8330-k-2025-9735-t-10-12-2025-1.md",
+    "court": "Yargıtay",
+    "daire": "9. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "2025/8330",
+    "karar_no": "2025/9735",
+    "decision_date": "10.12.2025",
+    "topic_keywords": [
+      "da Görüntüle\n\n\n\n cezai şart alacağı",
+      "cezai şart"
     ],
     "excluded": false,
     "exclude_reason": ""
@@ -858,118 +979,6 @@
       "da Görüntüle\n\n\n\n yargılama giderleri",
       "davanın kabulü"
     ],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "4bcf9b34d7351eaf",
-    "filename": "9-hukuk-dairesi-e-2016-26476-k-2020-7547-1.md",
-    "court": "Yargıtay",
-    "daire": "9. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2016/26476",
-    "karar_no": "2020/7547",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "7a5c01f1b6f7745f",
-    "filename": "danistay-9-daire-e-2019-2591-k-2021-4815-1.md",
-    "court": "Danıştay",
-    "daire": "9. Daire",
-    "law_branch": "idari",
-    "court_level": 3,
-    "esas_no": "2019/2591",
-    "karar_no": "2021/4815",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "5d1ac8c9565f9e2b",
-    "filename": "hukuk-genel-kurulu-e-2015-983-1.md",
-    "court": "Yargıtay",
-    "daire": "Hukuk Genel Kurulu",
-    "law_branch": "hukuk",
-    "court_level": 4,
-    "esas_no": "2015/983",
-    "karar_no": "2019/252",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "e98b1234b2da77d6",
-    "filename": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1.md",
-    "court": "Yargıtay",
-    "daire": "Hukuk Genel Kurulu",
-    "law_branch": "hukuk",
-    "court_level": 4,
-    "esas_no": "2012/1141",
-    "karar_no": "2013/282",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "4f9c6316fe346e2d",
-    "filename": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1.md",
-    "court": "Yargıtay",
-    "daire": "Hukuk Genel Kurulu",
-    "law_branch": "hukuk",
-    "court_level": 4,
-    "esas_no": "2023/382",
-    "karar_no": "2024/244",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "3d336710b4e165ee",
-    "filename": "22-hukuk-dairesi-e-2016-6543-k-2016-12675-t-28-4-2016-1.md",
-    "court": "Yargıtay",
-    "daire": "22. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2016/6543",
-    "karar_no": "2016/12675",
-    "decision_date": "28.04.2016",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "2151297528ed418e",
-    "filename": "2-hukuk-dairesi-e-2023-7132-k-2024-4132-1.md",
-    "court": "Yargıtay",
-    "daire": "2. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2023/7132",
-    "karar_no": "2024/4132",
-    "decision_date": "",
-    "topic_keywords": [],
-    "excluded": false,
-    "exclude_reason": ""
-  },
-  {
-    "doc_id": "0c0ec6da50cd5bab",
-    "filename": "22-hukuk-dairesi-e-2013-9431-k-2013-16464-1.md",
-    "court": "Yargıtay",
-    "daire": "22. Hukuk Dairesi",
-    "law_branch": "hukuk",
-    "court_level": 3,
-    "esas_no": "2013/9431",
-    "karar_no": "2013/16464",
-    "decision_date": "",
-    "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
   },
@@ -1086,6 +1095,20 @@
     "exclude_reason": ""
   },
   {
+    "doc_id": "7a5c01f1b6f7745f",
+    "filename": "danistay-9-daire-e-2019-2591-k-2021-4815-1.md",
+    "court": "Danıştay",
+    "daire": "9. Daire",
+    "law_branch": "idari",
+    "court_level": 3,
+    "esas_no": "2019/2591",
+    "karar_no": "2021/4815",
+    "decision_date": "",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
     "doc_id": "d5501aa7784d403b",
     "filename": "danistay-vergi-dava-daireleri-kurulu-e-2020-1318-k-2020-1231-t-18-11-2020-1-1.md",
     "court": "Danıştay",
@@ -1095,6 +1118,20 @@
     "esas_no": "2020/1318",
     "karar_no": "2020/1231",
     "decision_date": "18.11.2020",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "292b107f0529ef1e",
+    "filename": "diyarbakir-bam2-2022-877.md",
+    "court": "Yargıtay",
+    "daire": "2. Hukuk Dairesi",
+    "law_branch": "hukuk",
+    "court_level": 3,
+    "esas_no": "",
+    "karar_no": "2023/626",
+    "decision_date": "24.01.2022",
     "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
@@ -1114,6 +1151,23 @@
     "exclude_reason": ""
   },
   {
+    "doc_id": "c39ece23174da70a",
+    "filename": "e-1999-953-k-1999-889-t-15-10-1999-1.md",
+    "court": "Danıştay",
+    "daire": "İdari Dava Daireleri Kurulu",
+    "law_branch": "idari",
+    "court_level": 4,
+    "esas_no": "1999/953",
+    "karar_no": "1999/889",
+    "decision_date": "15.10.1999",
+    "topic_keywords": [
+      "da Görüntüle\n\n\n\n idare hukukunda dava açabilecekler",
+      "iptal davası\n\n\n    Nalan Terzi\n\n    TÜRK\n\n    İDARE HUKUKUNDA DAVA AÇABİLECEKLER\n\n    İPTAL DAVASI\n\n    2577 S"
+    ],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
     "doc_id": "f112e0646baf0ed5",
     "filename": "e-2016-6-k-2017-5-t-15-12-2017-1.md",
     "court": "Yargıtay",
@@ -1123,6 +1177,20 @@
     "esas_no": "2016/6",
     "karar_no": "2017/5",
     "decision_date": "15.12.2017",
+    "topic_keywords": [],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "e98b1234b2da77d6",
+    "filename": "hukuk-genel-kurulu-e-2012-1141-k-2013-282-1.md",
+    "court": "Yargıtay",
+    "daire": "Hukuk Genel Kurulu",
+    "law_branch": "hukuk",
+    "court_level": 4,
+    "esas_no": "2012/1141",
+    "karar_no": "2013/282",
+    "decision_date": "",
     "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
@@ -1141,6 +1209,20 @@
       "da Görüntüle\n\n\n\n davanın kabulü",
       "muvazaalı işlem"
     ],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "5d1ac8c9565f9e2b",
+    "filename": "hukuk-genel-kurulu-e-2015-983-1.md",
+    "court": "Yargıtay",
+    "daire": "Hukuk Genel Kurulu",
+    "law_branch": "hukuk",
+    "court_level": 4,
+    "esas_no": "2015/983",
+    "karar_no": "2019/252",
+    "decision_date": "",
+    "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
   },
@@ -1175,6 +1257,20 @@
       "da Görüntüle\n\n\n\n bilirkişi raporu",
       "ispat yükü"
     ],
+    "excluded": false,
+    "exclude_reason": ""
+  },
+  {
+    "doc_id": "4f9c6316fe346e2d",
+    "filename": "hukuk-genel-kurulu-e-2023-382-k-2024-244-1.md",
+    "court": "Yargıtay",
+    "daire": "Hukuk Genel Kurulu",
+    "law_branch": "hukuk",
+    "court_level": 4,
+    "esas_no": "2023/382",
+    "karar_no": "2024/244",
+    "decision_date": "",
+    "topic_keywords": [],
     "excluded": false,
     "exclude_reason": ""
   },

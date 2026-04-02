@@ -21,7 +21,6 @@ OUTPUT_PATH = Path(__file__).resolve().parent.parent / "corpus_manifest.json"
 
 # Files to exclude
 EXCLUDED = {
-    "2019-17969": "empty file (6 bytes of form feeds)",
     "vddk-e-2023-1401-k-2025-744-t-8-10-2025-1 (1)": "duplicate of vddk-e-2023-1401-k-2025-744-t-8-10-2025-1",
     "Unknown": "AI tool output, not original court decision",
 }
