@@ -22,6 +22,13 @@ class Settings(BaseSettings):
     ppr_alpha: float = 0.85
     graph_score_weight: float = 0.3
 
+    # AWS S3 settings for bucket_download
+    aws_access_key_id: str = ""
+    aws_secret_access_key: str = ""
+    aws_region: str = "us-east-1"
+    s3_bucket_name: str = ""
+    s3_prefix: str = ""
+
     model_config = {"env_file": ".env", "extra": "ignore"}
 
 
