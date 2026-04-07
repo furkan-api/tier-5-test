@@ -123,10 +123,18 @@ def create_milvus_collection(name: str, dimension: int) -> Collection:
 def list_s3_keys(s3_client, bucket: str, prefix: str) -> list[str]:
     keys = []
     paginator = s3_client.get_paginator("list_objects_v2")
-    for page in paginator.paginate(Bucket=bucket, Prefix=prefix.rstrip("/") + "/"):
+    # List in batches of 1000 with early feedback
+    for page in paginator.paginate(
+        Bucket=bucket,
+        Prefix=prefix.rstrip("/") + "/",
+        PaginationConfig={"PageSize": 1000}
+    ):
+        batch = []
         for obj in page.get("Contents", []):
             if obj["Key"].endswith(".json"):
-                keys.append(obj["Key"])
+                batch.append(obj["Key"])
+        keys.extend(batch)
+        log.info("S3 listing: %d keys so far...", len(keys))
     return keys
 
 
