@@ -31,7 +31,7 @@ def search(
     ranked_docs = max_score(chunk_results, top_k=request.top_k * 3)  # wider pool for graph
 
     # Graph-augmented retrieval
-    if request.use_graph:
+    if request.use_graph and neo4j_session is not None:
         try:
             with get_connection(settings.database_url) as conn:
                 graph_results = expand_and_rescore(
@@ -46,6 +46,8 @@ def search(
             log.warning("Graph retrieval failed, falling back to dense: %s", e)
             graph_results = expand_and_rescore_fallback(ranked_docs)
     else:
+        if request.use_graph and neo4j_session is None:
+            log.warning("Neo4j unavailable, falling back to dense retrieval")
         graph_results = expand_and_rescore_fallback(ranked_docs)
 
     top_results = graph_results[: request.top_k]

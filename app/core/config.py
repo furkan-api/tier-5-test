@@ -9,13 +9,13 @@ class Settings(BaseSettings):
     milvus_uri: str = "http://localhost:19530"
     openai_api_key: str = ""
     embedding_base_url: str = "http://localhost:8080"
-    embedding_model: str = "BAAI/bge-m3"
-    embedding_dimension: int = 1024
+    embedding_model: str = "text-embedding-3-small"
+    embedding_dimension: int = 1536
     collection_name: str = "chunks"
     chunk_max_tokens: int = 512
     chunk_overlap: int = 50
     corpus_dir: Path = Path(__file__).resolve().parent.parent.parent / "corpus"
-    neo4j_uri: str = "bolt://localhost:7687"
+    neo4j_uri: str = "neo4j://localhost:7687"
     neo4j_user: str = "neo4j"
     neo4j_password: str = "legal_rag_neo4j"
     graph_expansion_hops: int = 1
@@ -28,6 +28,7 @@ class Settings(BaseSettings):
     aws_region: str = "us-east-1"
     s3_bucket_name: str = ""
     s3_prefix: str = ""
+    s3_embedded_prefix: str = ""
 
     model_config = {"env_file": ".env", "extra": "ignore"}
 

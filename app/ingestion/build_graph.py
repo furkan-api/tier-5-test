@@ -17,6 +17,9 @@ import argparse
 import hashlib
 import logging
 
+import boto3
+from botocore.config import Config
+
 from app.core.config import get_settings
 from app.core.db import get_connection
 from app.graph.citation_extractor import extract_citations
@@ -72,8 +75,32 @@ def init_graph_schema(conn) -> None:
 
 def _load_documents(conn) -> list[dict]:
     with conn.cursor() as cur:
-        cur.execute("SELECT doc_id, file_path FROM documents")
-        return [{"doc_id": row[0], "file_path": row[1]} for row in cur.fetchall()]
+        cur.execute("SELECT doc_id, file_path, filename FROM documents")
+        return [
+            {"doc_id": row[0], "file_path": row[1], "filename": row[2]}
+            for row in cur.fetchall()
+        ]
+
+
+def _read_document_text(doc: dict, settings, s3_client) -> str | None:
+    """Read document text: try local disk first, fall back to S3."""
+    # Try local file
+    try:
+        return open(doc["file_path"], encoding="utf-8").read()
+    except (OSError, UnicodeDecodeError):
+        pass
+
+    # Fall back to S3
+    filename = doc.get("filename") or doc["file_path"].split("/")[-1]
+    if not filename.endswith(".md"):
+        filename += ".md"
+    key = f"{settings.s3_prefix.rstrip('/')}/{filename}"
+    try:
+        obj = s3_client.get_object(Bucket=settings.s3_bucket_name, Key=key)
+        return obj["Body"].read().decode("utf-8")
+    except Exception as e:
+        log.warning("Could not read %s from S3 (%s): %s", filename, key, e)
+        return None
 
 
 def _upsert_citations(conn, resolved) -> int:
@@ -162,6 +189,14 @@ def main() -> None:
 
     settings = get_settings()
 
+    s3_client = boto3.client(
+        "s3",
+        aws_access_key_id=settings.aws_access_key_id,
+        aws_secret_access_key=settings.aws_secret_access_key,
+        region_name=settings.aws_region,
+        config=Config(max_pool_connections=20),
+    )
+
     with get_connection(settings.database_url) as conn:
         # 1. Initialise PG schema
         log.info("Initialising graph schema...")
@@ -171,17 +206,21 @@ def main() -> None:
         docs = _load_documents(conn)
         log.info("Loaded %d documents", len(docs))
 
-        # 3. Extract citations from each document
+        # 3. Extract citations (local disk first, S3 fallback)
         all_raw = []
-        for doc in docs:
-            try:
-                text = open(doc["file_path"], encoding="utf-8").read()
-            except (OSError, UnicodeDecodeError) as e:
-                log.warning("Could not read %s: %s", doc["file_path"], e)
+        missing = 0
+        for idx, doc in enumerate(docs):
+            text = _read_document_text(doc, settings, s3_client)
+            if text is None:
+                missing += 1
                 continue
             raw = extract_citations(doc["doc_id"], text)
             all_raw.extend(raw)
+            if (idx + 1) % 5000 == 0:
+                log.info("Citation extraction: %d/%d docs", idx + 1, len(docs))
 
+        if missing:
+            log.warning("Skipped %d documents (not found locally or in S3)", missing)
         log.info("Extracted %d raw citation references", len(all_raw))
 
         # 4. Resolve citations against documents table
