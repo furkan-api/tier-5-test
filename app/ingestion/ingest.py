@@ -61,8 +61,8 @@ SCHEMA_STATEMENTS = [
 ]
 
 
-def compute_doc_id(court, daire, esas_no):
-    key = f"{court}|{daire}|{esas_no}".strip()
+def compute_doc_id(court, daire, esas_no, karar_no=""):
+    key = f"{court}|{daire}|{esas_no}|{karar_no}".strip()
     return hashlib.sha256(key.encode("utf-8")).hexdigest()[:16]
 
 
@@ -90,7 +90,7 @@ def ingest_file(cur, parsed):
     if not parsed["esas_no"]:
         log.warning("Missing esas_no: %s — inserting with filename-based hash", filename)
 
-    doc_id = compute_doc_id(parsed["court"], parsed["daire"], parsed["esas_no"])
+    doc_id = compute_doc_id(parsed["court"], parsed["daire"], parsed["esas_no"], parsed.get("karar_no", ""))
 
     cur.execute(
         "SELECT filename FROM documents WHERE doc_id = %s AND filename != %s",
