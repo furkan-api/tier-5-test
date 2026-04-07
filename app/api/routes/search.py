@@ -95,3 +95,20 @@ def search(
         ))
 
     return SearchResponse(query=request.query, results=results, total=len(results))
+
+
+@router.get("/doc_id_to_filename/{doc_id}")
+def doc_id_to_filename(
+    doc_id: str,
+    settings: Settings = Depends(get_current_settings),
+):
+    with get_connection(settings.database_url) as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                "SELECT filename FROM documents WHERE doc_id = %s",
+                (doc_id,),
+            )
+            row = cur.fetchone()
+    if row is None:
+        return {"doc_id": doc_id, "filename": None, "error": "not found"}
+    return {"doc_id": doc_id, "filename": row[0]}

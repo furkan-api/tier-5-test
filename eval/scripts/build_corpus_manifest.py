@@ -68,17 +68,42 @@ def extract_modern_format(header: str) -> dict:
         result["court"] = "Danıştay"
         result["daire"] = daire_text
 
-    # BAM format: "Bursa BAM - 4. Ceza Dairesi" or "İstanbul BAM - 3. Hukuk Dairesi"
+    # BAM shorthand: "Bursa BAM - 4. Ceza Dairesi"
     m = re.search(r"(\S+(?:\s+\S+)?)\s+BAM\s*-\s*(.+)", header)
     if m and "court" not in result:
         result["court"] = "BAM"
         result["daire"] = f"{m.group(1)} BAM {m.group(2).strip()}"
 
-    # BİM format: "İstanbul BİM - 6. Vergi Dava Dairesi"
+    # BAM full form: "ANKARA BÖLGE ADLİYE MAHKEMESİ 26. HUKUK DAİRESİ"
+    if "court" not in result:
+        bam_m = re.search(r"(\w+(?:\s+\w+)?)\s+BÖLGE\s+ADLİYE\s+MAHKEMESİ", header.upper())
+        if bam_m:
+            city = bam_m.group(1).strip().title()
+            result["court"] = "BAM"
+            daire_m = re.search(r"(\d+)\.\s+(HUKUK|CEZA)\s+DAİRESİ", header.upper())
+            if daire_m:
+                dtype = "Hukuk Dairesi" if "HUKUK" in daire_m.group(2) else "Ceza Dairesi"
+                result["daire"] = f"{city} BAM {daire_m.group(1)}. {dtype}"
+            else:
+                result["daire"] = f"{city} BAM"
+
+    # BİM shorthand: "İstanbul BİM - 6. Vergi Dava Dairesi"
     m = re.search(r"(\S+)\s+BİM\s*-\s*(.+)", header)
     if m and "court" not in result:
         result["court"] = "BİM"
         result["daire"] = f"{m.group(1)} BİM {m.group(2).strip()}"
+
+    # BİM full form: "İSTANBUL BÖLGE İDARE MAHKEMESİ"
+    if "court" not in result:
+        bim_m = re.search(r"(\w+(?:\s+\w+)?)\s+BÖLGE\s+İDARE\s+MAHKEMESİ", header.upper())
+        if bim_m:
+            city = bim_m.group(1).strip().title()
+            result["court"] = "BİM"
+            daire_m = re.search(r"(\d+)\.\s+(VERG[İI]\s+DAVA\s+DAİRESİ|DAİRE)", header.upper())
+            if daire_m:
+                result["daire"] = f"{city} BİM {daire_m.group(1)}. {daire_m.group(2).strip().title()}"
+            else:
+                result["daire"] = f"{city} BİM"
 
     # AYM format: "T.C. Anayasa Mahkemesi" or mojibake "ANAYASA MAHKEMESĠ"
     if ("Anayasa Mahkemesi" in header or "ANAYASA MAHKEMESĠ" in header) and "court" not in result:
@@ -88,7 +113,6 @@ def extract_modern_format(header: str) -> dict:
             result["daire"] = m.group(1).strip()
         else:
             result["daire"] = "Anayasa Mahkemesi"
-        # AYM bireysel başvuru number from mojibake file
         m = re.search(r"Ba[ĢşŞ]vuru\s+Numarası:\s*(\d{4}/\d+)", header)
         if m and "esas_no" not in result:
             result["esas_no"] = m.group(1)
@@ -139,17 +163,49 @@ def extract_modern_format(header: str) -> dict:
 def extract_old_format(header: str) -> dict:
     """Extract metadata from old database format files."""
     result = {}
+    header_upper = header.upper()
 
-    # Court/daire from first line: "2. Hukuk Dairesi 2014/8960 E. , 2014/20128 K."
-    m = re.search(r"(\d+)\.\s+(Hukuk Dairesi|Ceza Dairesi|HUKUK DAİRESİ|CEZA DAİRESİ)", header)
-    if m:
-        result["court"] = "Yargıtay"
-        daire_name = m.group(2)
-        if "HUKUK" in daire_name.upper():
-            daire_name = "Hukuk Dairesi"
-        elif "CEZA" in daire_name.upper():
-            daire_name = "Ceza Dairesi"
-        result["daire"] = f"{m.group(1)}. {daire_name}"
+    # --- First, detect the judicial body explicitly ---
+    # BAM: "BÖLGE ADLİYE MAHKEMESİ"
+    bam_m = re.search(
+        r"(\w+(?:\s+\w+)?)\s+BÖLGE\s+ADLİYE\s+MAHKEMESİ", header_upper,
+    )
+    if bam_m:
+        city = bam_m.group(1).strip().title()
+        result["court"] = "BAM"
+        daire_m = re.search(r"(\d+)\.\s+(HUKUK|CEZA)\s+DAİRESİ", header_upper)
+        if daire_m:
+            dtype = "Hukuk Dairesi" if "HUKUK" in daire_m.group(2) else "Ceza Dairesi"
+            result["daire"] = f"{city} BAM {daire_m.group(1)}. {dtype}"
+        else:
+            result["daire"] = f"{city} BAM"
+
+    # BİM: "BÖLGE İDARE MAHKEMESİ"
+    if "court" not in result:
+        bim_m = re.search(
+            r"(\w+(?:\s+\w+)?)\s+BÖLGE\s+İDARE\s+MAHKEMESİ", header_upper,
+        )
+        if bim_m:
+            city = bim_m.group(1).strip().title()
+            result["court"] = "BİM"
+            daire_m = re.search(r"(\d+)\.\s+(VERG[İI]\s+DAVA\s+DAİRESİ|İDARE\s+DAVA\s+DAİRESİ|DAİRE)", header_upper)
+            if daire_m:
+                result["daire"] = f"{city} BİM {daire_m.group(1)}. {daire_m.group(2).strip().title()}"
+            else:
+                result["daire"] = f"{city} BİM"
+
+    # --- Then check specific courts ---
+    # Court/daire: "X. Hukuk/Ceza Dairesi" → only Yargıtay if BAM/BİM not detected
+    if "court" not in result:
+        m = re.search(r"(\d+)\.\s+(Hukuk Dairesi|Ceza Dairesi|HUKUK DAİRESİ|CEZA DAİRESİ)", header)
+        if m:
+            result["court"] = "Yargıtay"
+            daire_name = m.group(2)
+            if "HUKUK" in daire_name.upper():
+                daire_name = "Hukuk Dairesi"
+            elif "CEZA" in daire_name.upper():
+                daire_name = "Ceza Dairesi"
+            result["daire"] = f"{m.group(1)}. {daire_name}"
 
     # HGK from header
     if "Hukuk Genel Kurulu" in header:
