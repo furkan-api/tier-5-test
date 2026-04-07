@@ -58,26 +58,46 @@ Diğer tüm değerler `.env.example`'da hazır.
 
 ---
 
-## 3. PostgreSQL Başlat
+## 3. PostgreSQL Başlat (sadece lokal geliştirme için)
 
 ```bash
 docker compose up -d db
 ```
 
-> **Not:** Milvus ve Neo4j lokalde çalışmıyor — cluster'dan geliyor.
+> **Not:** Milvus ve Neo4j lokalde çalışmıyor — cluster'dan geliyor. EC2 üzerinden çalıştırıyorsanız bu adımı atlayın.
 
 ---
 
 ## 4. API'yi Başlat
 
+### Seçenek A — Lokal (VPN gerekli)
+
 ```bash
 uv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+```
+
+### Seçenek B — EC2 üzerinden (VPN'e gerek yok)
+
+EC2 instance zaten VPN'e bağlı. SSH tunnel ile lokalde erişebilirsiniz:
+
+```bash
+ssh -i data.pem -L 8000:localhost:8000 ubuntu@34.245.184.84
+```
+
+> **Not:** `data.pem` izni `chmod 400 data.pem` olmalı.
+
+EC2'da API başlatmak için:
+
+```bash
+ssh -i data.pem ubuntu@34.245.184.84
+cd ~/graph-rag-r-d
+source .venv/bin/activate
+uvicorn app.main:app --host 0.0.0.0 --port 8000
 ```
 
 Başarılı startup log'u:
 
 ```
-INFO: Connected to Milvus at http://10.20.47.192:19530
 INFO: Application startup complete.
 INFO: Uvicorn running on http://0.0.0.0:8000
 ```

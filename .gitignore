@@ -7,3 +7,5 @@ data/
 *.egg-info/
 .venv/
 corpus/*
+*.pem
+*.ovpn
