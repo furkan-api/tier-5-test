@@ -21,14 +21,16 @@ def get_current_settings() -> Settings:
 
 def get_neo4j_session() -> Generator:
     """FastAPI dependency: yields a Neo4j session, or None if unavailable."""
+    session = None
     try:
         from app.core.graphdb import get_neo4j_driver
         driver = get_neo4j_driver()
         session = driver.session(database="neo4j")
-        try:
-            yield session
-        finally:
-            session.close()
     except Exception as e:
         log.warning("Neo4j session unavailable: %s — graph retrieval disabled", e)
-        yield None
+
+    try:
+        yield session
+    finally:
+        if session is not None:
+            session.close()
