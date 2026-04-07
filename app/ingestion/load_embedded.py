@@ -120,22 +120,27 @@ def create_milvus_collection(name: str, dimension: int) -> Collection:
     return collection
 
 
-def list_s3_keys(s3_client, bucket: str, prefix: str) -> list[str]:
-    keys = []
+def list_s3_keys_batch(s3_client, bucket: str, prefix: str, batch_size: int = 1000):
+    """Generator yielding lists of S3 keys in batches."""
     paginator = s3_client.get_paginator("list_objects_v2")
-    # List in batches of 1000 with early feedback
+    batch = []
+    total = 0
     for page in paginator.paginate(
         Bucket=bucket,
         Prefix=prefix.rstrip("/") + "/",
-        PaginationConfig={"PageSize": 1000}
+        PaginationConfig={"PageSize": batch_size}
     ):
-        batch = []
         for obj in page.get("Contents", []):
             if obj["Key"].endswith(".json"):
                 batch.append(obj["Key"])
-        keys.extend(batch)
-        log.info("S3 listing: %d keys so far...", len(keys))
-    return keys
+                total += 1
+                if len(batch) >= batch_size:
+                    log.info("S3: yielding batch of %d (total %d so far)", len(batch), total)
+                    yield batch
+                    batch = []
+    if batch:
+        log.info("S3: yielding final batch of %d (total %d)", len(batch), total)
+        yield batch
 
 
 def flush_milvus(collection: Collection, buf: dict) -> int:
@@ -268,9 +273,7 @@ def main():
             config=Config(max_pool_connections=args.workers + 5),
         )
 
-        log.info("Listing s3://%s/%s/ ...", settings.s3_bucket_name, settings.s3_embedded_prefix)
-        all_keys = list_s3_keys(s3, settings.s3_bucket_name, settings.s3_embedded_prefix)
-        log.info("Found %d JSON files", len(all_keys))
+        log.info("Listing s3://%s/%s/ (streaming 1000-key batches)...", settings.s3_bucket_name, settings.s3_embedded_prefix)
 
         milvus_buf = {"chunk_ids": [], "doc_ids": [], "chunk_indices": [], "vectors": []}
         pg_docs: list[dict] = []
@@ -283,71 +286,73 @@ def main():
         errors = 0
         t_start = time.time()
 
-        for win_start in range(0, len(all_keys), args.window_size):
-            window_keys = all_keys[win_start: win_start + args.window_size]
-            file_data = process_window(s3, settings.s3_bucket_name, window_keys, args.workers)
+        # Process S3 keys in batches as they stream in (don't wait for full listing)
+        for batch_keys in list_s3_keys_batch(s3, settings.s3_bucket_name, settings.s3_embedded_prefix):
+            # Further subdivide batch into windows for memory efficiency
+            for win_start in range(0, len(batch_keys), args.window_size):
+                window_keys = batch_keys[win_start: win_start + args.window_size]
+                file_data = process_window(s3, settings.s3_bucket_name, window_keys, args.workers)
 
-            for data in file_data:
-                if data is None:
-                    errors += 1
-                    continue
+                for data in file_data:
+                    if data is None:
+                        errors += 1
+                        continue
 
-                meta = data.get("metadata", {})
+                    meta = data.get("metadata", {})
 
-                # Recompute doc_id from metadata for consistency
-                doc_id = compute_doc_id(
-                    meta.get("court", ""),
-                    meta.get("daire", ""),
-                    meta.get("esas_no", ""),
-                    meta.get("karar_no", ""),
-                )
-                filename = meta.get("filename", "")
+                    # Recompute doc_id from metadata for consistency
+                    doc_id = compute_doc_id(
+                        meta.get("court", ""),
+                        meta.get("daire", ""),
+                        meta.get("esas_no", ""),
+                        meta.get("karar_no", ""),
+                    )
+                    filename = meta.get("filename", "")
 
-                pg_docs.append({
-                    "doc_id": doc_id,
-                    "filename": filename,
-                    "esas_no": meta.get("esas_no", ""),
-                    "karar_no": meta.get("karar_no", ""),
-                    "court": meta.get("court", ""),
-                    "daire": meta.get("daire", ""),
-                    "court_level": meta.get("court_level", 0),
-                    "law_branch": meta.get("law_branch", ""),
-                    "decision_date": meta.get("decision_date", ""),
-                    "file_path": f"corpus/{filename}",
-                    "topic_keywords": meta.get("topic_keywords", []),
-                })
-
-                for idx, chunk in enumerate(data.get("chunks", [])):
-                    chunk_id = compute_chunk_id(doc_id, chunk["chunk_index"])
-                    pg_chunks.append({
-                        "chunk_id": chunk_id,
+                    pg_docs.append({
                         "doc_id": doc_id,
-                        "chunk_index": chunk["chunk_index"],
-                        "text": chunk["text"],
-                        "token_count": chunk["token_count"],
+                        "filename": filename,
+                        "esas_no": meta.get("esas_no", ""),
+                        "karar_no": meta.get("karar_no", ""),
+                        "court": meta.get("court", ""),
+                        "daire": meta.get("daire", ""),
+                        "court_level": meta.get("court_level", 0),
+                        "law_branch": meta.get("law_branch", ""),
+                        "decision_date": meta.get("decision_date", ""),
+                        "file_path": f"corpus/{filename}",
+                        "topic_keywords": meta.get("topic_keywords", []),
                     })
-                    milvus_buf["chunk_ids"].append(chunk_id)
-                    milvus_buf["doc_ids"].append(doc_id)
-                    milvus_buf["chunk_indices"].append(chunk["chunk_index"])
-                    milvus_buf["vectors"].append(chunk["embedding"])
 
-                    if len(milvus_buf["chunk_ids"]) >= args.milvus_batch:
-                        total_vectors += flush_milvus(collection, milvus_buf)
+                    for idx, chunk in enumerate(data.get("chunks", [])):
+                        chunk_id = compute_chunk_id(doc_id, chunk["chunk_index"])
+                        pg_chunks.append({
+                            "chunk_id": chunk_id,
+                            "doc_id": doc_id,
+                            "chunk_index": chunk["chunk_index"],
+                            "text": chunk["text"],
+                            "token_count": chunk["token_count"],
+                        })
+                        milvus_buf["chunk_ids"].append(chunk_id)
+                        milvus_buf["doc_ids"].append(doc_id)
+                        milvus_buf["chunk_indices"].append(chunk["chunk_index"])
+                        milvus_buf["vectors"].append(chunk["embedding"])
 
-                total_files += 1
+                        if len(milvus_buf["chunk_ids"]) >= args.milvus_batch:
+                            total_vectors += flush_milvus(collection, milvus_buf)
 
-                if len(pg_docs) >= 2000:
-                    n_d, n_c = upsert_pg(conn, pg_docs, pg_chunks)
-                    total_pg_docs += n_d
-                    total_pg_chunks += n_c
-                    pg_docs.clear()
-                    pg_chunks.clear()
+                    total_files += 1
+
+                    if len(pg_docs) >= 2000:
+                        n_d, n_c = upsert_pg(conn, pg_docs, pg_chunks)
+                        total_pg_docs += n_d
+                        total_pg_chunks += n_c
+                        pg_docs.clear()
+                        pg_chunks.clear()
 
             elapsed = time.time() - t_start
             rate = total_files / elapsed if elapsed > 0 else 0
-            eta = (len(all_keys) - total_files) / rate if rate > 0 else 0
-            log.info("Progress: %d/%d | %d vectors | %d docs | %.1f/sec | ETA %.0fs",
-                     total_files, len(all_keys), total_vectors, total_pg_docs, rate, eta)
+            log.info("Progress: %d files | %d vectors | %d docs | %.1f/sec",
+                     total_files, total_vectors, total_pg_docs, rate)
 
         # Final flush
         total_vectors += flush_milvus(collection, milvus_buf)
