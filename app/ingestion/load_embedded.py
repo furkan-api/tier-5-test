@@ -275,6 +275,7 @@ def main():
         )
 
         log.info("Listing s3://%s/%s/ (streaming 1000-key batches)...", settings.s3_bucket_name, settings.s3_embedded_prefix)
+        log.info("Creating S3 batch generator...")
 
         milvus_buf = {"chunk_ids": [], "doc_ids": [], "chunk_indices": [], "vectors": []}
         pg_docs: list[dict] = []
@@ -288,7 +289,9 @@ def main():
         t_start = time.time()
 
         # Process S3 keys in batches as they stream in (don't wait for full listing)
+        log.info("Iterating batches...")
         for batch_keys in list_s3_keys_batch(s3, settings.s3_bucket_name, settings.s3_embedded_prefix):
+            log.info("Got batch of %d keys", len(batch_keys))
             # Further subdivide batch into windows for memory efficiency
             for win_start in range(0, len(batch_keys), args.window_size):
                 window_keys = batch_keys[win_start: win_start + args.window_size]
