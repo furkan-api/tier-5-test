@@ -211,8 +211,18 @@ def main():
 
     settings = get_settings()
 
-    connections.connect(uri=settings.milvus_uri)
-    log.info("Connected to Milvus: %s", settings.milvus_uri)
+    # Retry Milvus connection up to 3 times (network can be flaky)
+    for attempt in range(1, 4):
+        try:
+            connections.connect(uri=settings.milvus_uri, timeout=30)
+            log.info("Connected to Milvus: %s", settings.milvus_uri)
+            break
+        except Exception as e:
+            log.warning("Milvus connect attempt %d failed: %s", attempt, e)
+            if attempt < 3:
+                time.sleep(5)
+            else:
+                raise
 
     collection_name = settings.collection_name
     dimension = settings.embedding_dimension
