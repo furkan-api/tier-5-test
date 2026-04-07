@@ -37,8 +37,16 @@ from pymilvus import (
 from app.core.config import get_settings
 from app.core.db import get_connection
 
-logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(levelname)s: %(message)s",
+    force=True
+)
 log = logging.getLogger(__name__)
+# Force unbuffered output
+import sys
+sys.stdout = sys.__stdout__
+sys.stderr = sys.__stderr__
 
 DEFAULT_WINDOW = 500
 DEFAULT_WORKERS = 20
