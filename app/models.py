@@ -9,6 +9,7 @@ class SearchRequest(BaseModel):
 
 class DocumentResult(BaseModel):
     doc_id: str
+    filename: str = ""
     score: float
     court: str = ""
     daire: str = ""

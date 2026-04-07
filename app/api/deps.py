@@ -2,17 +2,17 @@ import logging
 from functools import lru_cache
 from typing import Generator
 
-from pymilvus import Collection
+from pymilvus import MilvusClient
 
 from app.core.config import Settings, get_settings
-from app.core.vectordb import get_collection
+from app.core.vectordb import get_client
 
 log = logging.getLogger(__name__)
 
 
 @lru_cache
-def get_milvus_collection() -> Collection:
-    return get_collection()
+def get_milvus_client() -> MilvusClient:
+    return get_client()
 
 
 def get_current_settings() -> Settings:

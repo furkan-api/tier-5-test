@@ -2,7 +2,7 @@ import logging
 
 from fastapi import APIRouter, Depends
 
-from app.api.deps import get_current_settings, get_milvus_collection, get_neo4j_session
+from app.api.deps import get_current_settings, get_milvus_client, get_neo4j_session
 from app.core.config import Settings
 from app.core.db import get_connection
 from app.models import DocumentResult, SearchRequest, SearchResponse
@@ -24,10 +24,10 @@ def health():
 def search(
     request: SearchRequest,
     settings: Settings = Depends(get_current_settings),
-    collection=Depends(get_milvus_collection),
+    milvus_client=Depends(get_milvus_client),
     neo4j_session=Depends(get_neo4j_session),
 ):
-    chunk_results = search_chunks(collection, request.query, top_k_chunks=request.top_k * 5)
+    chunk_results = search_chunks(milvus_client, request.query, top_k_chunks=request.top_k * 5)
     ranked_docs = max_score(chunk_results, top_k=request.top_k * 3)  # wider pool for graph
 
     # Graph-augmented retrieval
@@ -61,7 +61,7 @@ def search(
             with conn.cursor() as cur:
                 cur.execute(
                     "SELECT doc_id, court, daire, decision_date, esas_no, karar_no, "
-                    "COALESCE(pagerank_score, 0.0) "
+                    "COALESCE(pagerank_score, 0.0), filename "
                     "FROM documents WHERE doc_id = ANY(%s)",
                     (doc_ids,),
                 )
@@ -73,6 +73,7 @@ def search(
                         "esas_no": row[4],
                         "karar_no": row[5],
                         "pagerank_score": float(row[6]),
+                        "filename": row[7],
                     }
 
     results = []
@@ -81,6 +82,7 @@ def search(
         gr = score_map[doc_id]
         results.append(DocumentResult(
             doc_id=doc_id,
+            filename=meta.get("filename", ""),
             score=round(gr.final_score, 4),
             court=meta.get("court", ""),
             daire=meta.get("daire", ""),
