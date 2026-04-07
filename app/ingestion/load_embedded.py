@@ -270,7 +270,9 @@ def main():
             config=Config(max_pool_connections=max(50, args.workers * 2)),
         )
 
+        print("DEBUG: After PG connect", flush=True)
         log.info("Listing s3://%s/%s/ (streaming 1000-key batches)...", settings.s3_bucket_name, settings.s3_embedded_prefix)
+        print("DEBUG: Creating S3 batch generator...", flush=True)
         log.info("Creating S3 batch generator...")
 
         milvus_buf = {"chunk_ids": [], "doc_ids": [], "chunk_indices": [], "vectors": []}
