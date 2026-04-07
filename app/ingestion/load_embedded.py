@@ -141,6 +141,7 @@ def list_s3_keys_batch(s3_client, bucket: str, prefix: str, batch_size: int = 10
     if batch:
         log.info("S3: yielding final batch of %d (total %d)", len(batch), total)
         yield batch
+    log.info("S3 listing complete: %d total JSON files", total)
 
 
 def flush_milvus(collection: Collection, buf: dict) -> int:
