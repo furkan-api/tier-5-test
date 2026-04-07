@@ -43,10 +43,6 @@ logging.basicConfig(
     force=True
 )
 log = logging.getLogger(__name__)
-# Force unbuffered output
-import sys
-sys.stdout = sys.__stdout__
-sys.stderr = sys.__stderr__
 
 DEFAULT_WINDOW = 500
 DEFAULT_WORKERS = 20
