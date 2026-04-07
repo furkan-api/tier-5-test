@@ -271,7 +271,7 @@ def main():
             aws_access_key_id=settings.aws_access_key_id,
             aws_secret_access_key=settings.aws_secret_access_key,
             region_name=settings.aws_region,
-            config=Config(max_pool_connections=args.workers + 5),
+            config=Config(max_pool_connections=max(50, args.workers * 2)),
         )
 
         log.info("Listing s3://%s/%s/ (streaming 1000-key batches)...", settings.s3_bucket_name, settings.s3_embedded_prefix)
