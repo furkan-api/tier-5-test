@@ -72,6 +72,9 @@ _MONGO_COURT_MAP = {
     "idare": "İlk Derece",
     "ceza_ilk": "İlk Derece",
     "hukuk_ilk": "İlk Derece",
+    "fikri_sinai": "İlk Derece",
+    "sayistay": "Sayıştay",
+    "uyusmazlik": "Uyuşmazlık"
 }
 
 
@@ -107,6 +110,7 @@ def build_doc(filepath: Path, mongo_doc: dict) -> dict:
         doc["court_level"] = infer_court_level(court, daire)
 
     return doc
+
 
 
 DROP_STATEMENTS = [
