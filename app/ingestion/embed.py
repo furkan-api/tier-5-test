@@ -57,7 +57,7 @@ def main():
     args = parser.parse_args()
 
     settings = get_settings()
-    openai_client = get_embedding_client()
+    embedding_client = get_embedding_client()
     connect_milvus()
 
     with get_connection() as conn:
@@ -83,7 +83,7 @@ def main():
             existing = collection.num_entities
             if existing == total_chunks:
                 log.info("Collection already has %d vectors (matches chunk count). Nothing to do.", existing)
-                print_verification(collection, openai_client, settings, total_chunks)
+                print_verification(collection, embedding_client, settings, total_chunks)
                 return
             log.info("Collection has %d vectors, expected %d. Dropping and recreating.", existing, total_chunks)
             utility.drop_collection(collection_name)
@@ -108,7 +108,7 @@ def main():
             chunk_indices = [r[2] for r in rows]
             texts = [r[3] for r in rows]
 
-            vectors = embed_texts(openai_client, texts, model=settings.embedding_model)
+            vectors = embed_texts(embedding_client, texts, model=settings.embedding_model)
             collection.insert([chunk_ids, doc_ids, chunk_indices, vectors])
 
             embedded += len(rows)
@@ -119,10 +119,10 @@ def main():
         collection.flush()
         collection.load()
 
-    print_verification(collection, openai_client, settings, total_chunks)
+    print_verification(collection, embedding_client, settings, total_chunks)
 
 
-def print_verification(collection, openai_client, settings, expected_count):
+def print_verification(collection, embedding_client, settings, expected_count):
     print("\n" + "=" * 60)
     print("EMBEDDING SUMMARY")
     print("=" * 60)
@@ -137,7 +137,7 @@ def print_verification(collection, openai_client, settings, expected_count):
     print("SAMPLE SEARCH: 'iş kazası nedeniyle tazminat'")
     print("-" * 60)
 
-    query_vec = embed_texts(openai_client, ["iş kazası nedeniyle tazminat"], model=settings.embedding_model)[0]
+    query_vec = embed_texts(embedding_client, ["iş kazası nedeniyle tazminat"], model=settings.embedding_model)[0]
     results = collection.search(
         data=[query_vec],
         anns_field="vector",
