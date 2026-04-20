@@ -74,7 +74,8 @@ _MONGO_COURT_MAP = {
     "hukuk_ilk": "İlk Derece",
     "fikri_sinai": "İlk Derece",
     "sayistay": "Sayıştay",
-    "uyusmazlik": "Uyuşmazlık"
+    "uyusmazlik": "Uyuşmazlık",
+    "tuketici": "Tüketici"
 }
 
 
