@@ -6,17 +6,17 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     database_url: str = "postgresql://legal_rag:legal_rag_dev@localhost:5432/legal_rag"
-    milvus_uri: str = "http://localhost:19530"
+    milvus_uri: str = "http://10.20.47.192:19530"
     openai_api_key: str = ""
     gemini_api_key: str = ""
     embedding_base_url: str | None = None
     embedding_model: str = "gemini-embedding-2-preview"
     embedding_dimension: int = 3072
     collection_name: str = "chunks"
-    chunk_max_tokens: int = 512
+    chunk_max_tokens: int = 1024
     chunk_overlap: int = 50
     corpus_dir: Path = Path(__file__).resolve().parent.parent.parent / "corpus"
-    neo4j_uri: str = "bolt://localhost:7687"
+    neo4j_uri: str = "bolt://10.20.32.34:7687"
     neo4j_user: str = "neo4j"
     neo4j_password: str = "legal_rag_neo4j"
     graph_expansion_hops: int = 1
