@@ -28,6 +28,25 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
 
 
+def _fetch_existing_chunk_ids(collection: Collection) -> set[str]:
+    ids: set[str] = set()
+    iterator = collection.query_iterator(
+        expr="",
+        output_fields=["chunk_id"],
+        batch_size=10000,
+    )
+    try:
+        while True:
+            batch = iterator.next()
+            if not batch:
+                break
+            for item in batch:
+                ids.add(item["chunk_id"])
+    finally:
+        iterator.close()
+    return ids
+
+
 def create_collection(name: str, dimension: int) -> Collection:
     fields = [
         FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
@@ -87,18 +106,26 @@ def main():
             utility.drop_collection(collection_name)
             log.info("Dropped existing collection '%s'", collection_name)
 
+        existing_chunk_ids: set[str] = set()
         if utility.has_collection(collection_name):
             collection = Collection(collection_name)
             collection.load()
+            collection.flush()
             existing = collection.num_entities
             if existing == total_chunks:
                 log.info("Collection already has %d vectors (matches chunk count). Nothing to do.", existing)
                 print_verification(collection, embedding_client, settings, total_chunks)
                 return
-            log.info("Collection has %d vectors, expected %d. Dropping and recreating.", existing, total_chunks)
-            utility.drop_collection(collection_name)
-
-        collection = create_collection(collection_name, dimension)
+            if existing > total_chunks:
+                log.warning("Collection has %d vectors, more than %d chunks. Dropping and recreating.", existing, total_chunks)
+                utility.drop_collection(collection_name)
+                collection = create_collection(collection_name, dimension)
+            else:
+                log.info("Resuming: collection has %d/%d vectors. Loading existing chunk_ids...", existing, total_chunks)
+                existing_chunk_ids = _fetch_existing_chunk_ids(collection)
+                log.info("Loaded %d existing chunk_ids; will skip these.", len(existing_chunk_ids))
+        else:
+            collection = create_collection(collection_name, dimension)
 
         cur.close()
         cur = conn.cursor(name="chunk_reader")
@@ -106,12 +133,20 @@ def main():
         cur.execute("SELECT chunk_id, doc_id, chunk_index, text FROM chunks ORDER BY chunk_id")
 
         embedded = 0
+        skipped = 0
         t_start = time.time()
 
         while True:
             rows = cur.fetchmany(args.batch_size)
             if not rows:
                 break
+
+            if existing_chunk_ids:
+                new_rows = [r for r in rows if r[0] not in existing_chunk_ids]
+                skipped += len(rows) - len(new_rows)
+                rows = new_rows
+                if not rows:
+                    continue
 
             chunk_ids = [r[0] for r in rows]
             doc_ids = [r[1] for r in rows]
@@ -124,7 +159,10 @@ def main():
             embedded += len(rows)
             elapsed = time.time() - t_start
             rate = embedded / elapsed if elapsed > 0 else 0
-            log.info("Embedded %d/%d chunks (%.0f chunks/sec)", embedded, total_chunks, rate)
+            log.info(
+                "Embedded %d (skipped %d) / %d chunks (%.0f chunks/sec)",
+                embedded, skipped, total_chunks, rate,
+            )
 
         collection.flush()
         collection.load()
