@@ -22,7 +22,6 @@ from pymilvus import (
 
 from app.core.config import get_settings
 from app.core.db import get_connection
-from app.core.vectordb import connect_milvus
 from app.retrieval.embeddings import embed_texts, get_embedding_client
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -58,7 +57,18 @@ def main():
 
     settings = get_settings()
     embedding_client = get_embedding_client()
-    connect_milvus()
+
+    for attempt in range(1, 4):
+        try:
+            connections.connect(uri=settings.milvus_uri, timeout=30)
+            log.info("Connected to Milvus: %s", settings.milvus_uri)
+            break
+        except Exception as e:
+            log.warning("Milvus connect attempt %d failed: %s", attempt, e)
+            if attempt < 3:
+                time.sleep(5)
+            else:
+                raise
 
     with get_connection() as conn:
         cur = conn.cursor()
