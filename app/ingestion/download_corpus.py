@@ -8,6 +8,7 @@ for bulk operations like smoke tests.
 
 Usage:
     python -m app.ingestion.download_corpus [--skip-existing] [--workers 20]
+    uv run python -m app.ingestion.download_corpus [--skip-existing] [--workers 20]
 """
 
 import argparse

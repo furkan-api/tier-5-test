@@ -79,7 +79,8 @@ _MONGO_COURT_MAP = {
     "icra_hukuk": "İlk Derece",
     "icra_ceza": "İlk Derece",
     "aihm": "AİHM",
-    
+    "fikri_sinai_hukuk": "İlk Derece",
+    "fikri_sinai_ceza": "İlk Derece"
 }
 
 
