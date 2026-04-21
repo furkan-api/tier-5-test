@@ -46,9 +46,6 @@ def main():
         args.output = PROJECT_ROOT / "data" / "runs" / f"{args.run_id}.json"
 
     settings = get_settings()
-    if not settings.openai_api_key:
-        log.error("OPENAI_API_KEY environment variable is required")
-        sys.exit(1)
 
     client = get_client()
     stats = client.get_collection_stats(collection_name=settings.collection_name)
