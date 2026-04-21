@@ -21,7 +21,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from app.core.config import get_settings
-from app.core.vectordb import get_collection
+from app.core.vectordb import get_client
 from app.retrieval.aggregation import STRATEGIES
 from app.retrieval.dense import search_chunks
 from app.retrieval.embeddings import embed_texts, get_embedding_client
@@ -50,8 +50,9 @@ def main():
         log.error("OPENAI_API_KEY environment variable is required")
         sys.exit(1)
 
-    collection = get_collection()
-    log.info("Milvus collection '%s': %d vectors", settings.collection_name, collection.num_entities)
+    client = get_client()
+    stats = client.get_collection_stats(collection_name=settings.collection_name)
+    log.info("Milvus collection '%s': %s vectors", settings.collection_name, stats.get("row_count"))
 
     with open(args.gold_standard, "r", encoding="utf-8") as f:
         gold = json.load(f)
@@ -65,7 +66,7 @@ def main():
     doc_counts = []
 
     for query in queries:
-        chunk_results = search_chunks(collection, query["query_text"], top_k_chunks=args.top_k_chunks)
+        chunk_results = search_chunks(client, query["query_text"], top_k_chunks=args.top_k_chunks)
         ranked_docs = aggregate_fn(chunk_results, top_k=args.top_k)
         doc_ids = [doc_id for doc_id, _ in ranked_docs]
 
