@@ -1,10 +1,14 @@
 from __future__ import annotations
 
+import logging
+import time
 from dataclasses import dataclass
 
 from openai import OpenAI
 
 from app.core.config import get_settings
+
+log = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
 # Model registry
@@ -105,17 +109,41 @@ def embed_texts(
 
     if model in GEMINI_MODELS:
         from google import genai
+        from google.genai import errors as genai_errors
         from google.genai import types
 
         genai_client = genai.Client(api_key=client.api_key)
         config = types.EmbedContentConfig(task_type="RETRIEVAL_DOCUMENT")
         vectors = []
         for text in texts:
-            response = genai_client.models.embed_content(
-                model=model,
-                contents=text,
-                config=config,
-            )
+            attempt = 0
+            while True:
+                attempt += 1
+                try:
+                    response = genai_client.models.embed_content(
+                        model=model,
+                        contents=text,
+                        config=config,
+                    )
+                    break
+                except genai_errors.APIError as e:
+                    status = getattr(e, "code", None) or getattr(e, "status_code", None)
+                    retriable = status is None or status >= 500 or status == 429
+                    if not retriable:
+                        raise
+                    sleep_s = min(60, 2 ** min(attempt, 6))
+                    log.warning(
+                        "Gemini embed_content failed (status=%s, attempt=%d): %s. Retrying in %ds.",
+                        status, attempt, e, sleep_s,
+                    )
+                    time.sleep(sleep_s)
+                except Exception as e:
+                    sleep_s = min(60, 2 ** min(attempt, 6))
+                    log.warning(
+                        "Gemini embed_content network error (attempt=%d): %s. Retrying in %ds.",
+                        attempt, e, sleep_s,
+                    )
+                    time.sleep(sleep_s)
             vectors.append(list(response.embeddings[0].values))
         return vectors
 
