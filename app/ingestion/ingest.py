@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """
-Document ingestion pipeline: corpus/*.md → PostgreSQL.
+Document ingestion pipeline: filenames → MongoDB metadata → PostgreSQL.
 Metadata is fetched from MongoDB (tr-ictihat-v2) by filename.
+
+Modes:
+  --corpus-dir ./corpus   Read filenames from local directory (default)
+  --from-s3               Read filenames from S3 prefix (no download)
 
 Usage:
     python -m app.ingestion.ingest [--corpus-dir ./corpus]
+    python -m app.ingestion.ingest --from-s3
 """
 
 import argparse
@@ -14,6 +19,7 @@ import unicodedata
 import uuid
 from pathlib import Path
 
+import boto3
 from psycopg2.extras import Json
 from pymongo import MongoClient
 
@@ -84,28 +90,62 @@ _MONGO_COURT_MAP = {
 }
 
 
+_MONGO_PROJECTION = {
+    "filename": 1, "document_id": 1, "court": 1, "court_name": 1,
+    "case_no": 1, "decision_no": 1, "decision_date": 1, "keywords": 1, "_id": 0,
+}
+
+
 def get_mongo_collection(settings):
     client = MongoClient(settings.mongo_url, serverSelectionTimeoutMS=8000)
     return client["data-team"]["tr-ictihat-v2"]
 
 
-def fetch_from_mongo(filename: str, mongo_col) -> dict | None:
-    return mongo_col.find_one({"filename": unicodedata.normalize("NFC", filename)})
+def bulk_fetch_mongo(mongo_col) -> dict[str, dict]:
+    """Fetch all docs in one cursor pass. Returns {filename: doc}."""
+    log.info("Bulk fetching MongoDB collection...")
+    result = {}
+    for doc in mongo_col.find({}, _MONGO_PROJECTION, batch_size=2000):
+        filename = unicodedata.normalize("NFC", doc.get("filename") or "")
+        if filename:
+            result[filename] = doc
+    log.info("Loaded %d documents from MongoDB", len(result))
+    return result
 
 
-def build_doc(filepath: Path, mongo_doc: dict) -> dict:
+def list_s3_filenames(settings) -> list[str]:
+    s3 = boto3.client(
+        "s3",
+        aws_access_key_id=settings.aws_access_key_id,
+        aws_secret_access_key=settings.aws_secret_access_key,
+        region_name=settings.aws_region,
+    )
+    prefix = settings.s3_prefix.rstrip("/") + "/"
+    log.info("Listing s3://%s/%s ...", settings.s3_bucket_name, prefix)
+    paginator = s3.get_paginator("list_objects_v2")
+    filenames = []
+    for page in paginator.paginate(Bucket=settings.s3_bucket_name, Prefix=prefix):
+        for obj in page.get("Contents", []):
+            key = obj["Key"]
+            if key.endswith(".md"):
+                filenames.append(Path(key).name)
+    log.info("Found %d .md files in S3", len(filenames))
+    return sorted(filenames)
+
+
+def build_doc(filename: str, mongo_doc: dict) -> dict:  # noqa: E302
     court_raw = (mongo_doc.get("court") or "").lower()
     court = _MONGO_COURT_MAP.get(court_raw, court_raw)
     daire = mongo_doc.get("court_name") or ""
 
     doc = {
-        "doc_id": mongo_doc.get("document_id") or filepath.stem,
-        "filename": filepath.name,
+        "doc_id": mongo_doc.get("document_id") or Path(filename).stem,
+        "filename": filename,
         "court": court,
         "daire": daire,
         "esas_no": mongo_doc.get("case_no") or "",
         "karar_no": mongo_doc.get("decision_no") or "",
-        "decision_date": mongo_doc.get("decision_date") or "",
+        "decision_date": str(mongo_doc.get("decision_date") or ""),
         "topic_keywords": mongo_doc.get("keywords") or [],
         "law_branch": "",
         "court_level": 0,
@@ -158,7 +198,7 @@ def ingest_file(cur, doc):
         log.warning("Skipped (duplicate): %s — %s", filename, reason)
         return "skipped"
 
-    file_path = str(Path("corpus") / doc["filename"])
+    file_path = doc["filename"]
 
     cur.execute(
         """INSERT INTO documents
@@ -212,29 +252,41 @@ def print_summary(cur):
 def main():
     parser = argparse.ArgumentParser(description="Ingest corpus markdown files into PostgreSQL")
     parser.add_argument("--corpus-dir", type=Path, default=None)
+    parser.add_argument("--from-s3", action="store_true",
+                        help="Read filenames from S3 prefix instead of local corpus dir (no download)")
     parser.add_argument("--recreate", action="store_true", help="Drop and recreate all tables before ingesting")
     args = parser.parse_args()
 
     settings = get_settings()
-    corpus_dir = args.corpus_dir or settings.corpus_dir
-
-    if not corpus_dir.exists():
-        log.error("Corpus directory not found: %s", corpus_dir)
-        sys.exit(1)
 
     if not settings.mongo_url:
-        log.error("mongo_url is not set in .env")
+        log.error("MONGO_URL is not set in .env")
         sys.exit(1)
 
-    md_files = sorted(corpus_dir.glob("*.md"))
-    log.info("Found %d markdown files in %s", len(md_files), corpus_dir)
+    if args.from_s3:
+        if not settings.s3_bucket_name or not settings.s3_prefix:
+            log.error("S3_BUCKET_NAME and S3_PREFIX must be set in .env for --from-s3 mode")
+            sys.exit(1)
+        try:
+            filenames = list_s3_filenames(settings)
+        except Exception as e:
+            log.error("S3 listing failed: %s", e)
+            sys.exit(1)
+        source_label = f"s3://{settings.s3_bucket_name}/{settings.s3_prefix}"
+    else:
+        corpus_dir = args.corpus_dir or settings.corpus_dir
+        if not corpus_dir.exists():
+            log.error("Corpus directory not found: %s", corpus_dir)
+            sys.exit(1)
+        filenames = sorted(f.name for f in corpus_dir.glob("*.md"))
+        log.info("Found %d markdown files in %s", len(filenames), corpus_dir)
+        source_label = str(corpus_dir)
 
     try:
         mongo_col = get_mongo_collection(settings)
-        mongo_col.find_one({"filename": "__ping__"})
-        log.info("MongoDB connected")
+        mongo_map = bulk_fetch_mongo(mongo_col)
     except Exception as e:
-        log.error("MongoDB connection failed: %s", e)
+        log.error("MongoDB connection/fetch failed: %s", e)
         sys.exit(1)
 
     with get_connection() as conn:
@@ -243,24 +295,29 @@ def main():
         run_id = str(uuid.uuid4())
         stats = {"ingested": 0, "skipped": 0, "errors": 0}
 
-        for filepath in md_files:
+        for i, filename in enumerate(filenames, 1):
             try:
-                mongo_doc = fetch_from_mongo(filepath.name, mongo_col)
+                mongo_doc = mongo_map.get(unicodedata.normalize("NFC", filename))
                 if not mongo_doc:
-                    log.warning("No MongoDB record for %s — skipping", filepath.name)
+                    log.warning("No MongoDB record for %s — skipping", filename)
                     stats["skipped"] += 1
                     continue
-                doc = build_doc(filepath, mongo_doc)
+                doc = build_doc(filename, mongo_doc)
                 result = ingest_file(cur, doc)
                 stats[result] += 1
             except Exception as e:
-                log.error("Error processing %s: %s", filepath.name, e)
+                log.error("Error processing %s: %s", filename, e)
                 stats["errors"] += 1
+
+            if i % 1000 == 0:
+                conn.commit()
+                log.info("Progress: %d/%d — ingested=%d skipped=%d errors=%d",
+                         i, len(filenames), stats["ingested"], stats["skipped"], stats["errors"])
 
         cur.execute(
             "INSERT INTO ingest_log (run_id, total_files, ingested, skipped, errors, corpus_dir) "
             "VALUES (%s, %s, %s, %s, %s, %s)",
-            (run_id, len(md_files), stats["ingested"], stats["skipped"], stats["errors"], str(corpus_dir)),
+            (run_id, len(filenames), stats["ingested"], stats["skipped"], stats["errors"], source_label),
         )
         conn.commit()
         print_summary(cur)
