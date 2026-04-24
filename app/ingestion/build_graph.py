@@ -46,7 +46,9 @@ GRAPH_SCHEMA_STATEMENTS = [
         id             SERIAL PRIMARY KEY,
         source_doc_id  TEXT NOT NULL REFERENCES documents(doc_id),
         raw_text       TEXT NOT NULL,
+        daire          TEXT,
         esas_no        TEXT,
+        karar_no       TEXT,
         reason         TEXT NOT NULL,
         extracted_at   TIMESTAMPTZ NOT NULL DEFAULT now()
     )""",
@@ -56,6 +58,8 @@ _ADD_GRAPH_COLUMNS = [
     "ALTER TABLE documents ADD COLUMN IF NOT EXISTS pagerank_score FLOAT DEFAULT 0.0",
     "ALTER TABLE documents ADD COLUMN IF NOT EXISTS citation_in_degree INTEGER DEFAULT 0",
     "ALTER TABLE documents ADD COLUMN IF NOT EXISTS citation_out_degree INTEGER DEFAULT 0",
+    "ALTER TABLE unresolved_citations ADD COLUMN IF NOT EXISTS daire TEXT",
+    "ALTER TABLE unresolved_citations ADD COLUMN IF NOT EXISTS karar_no TEXT",
 ]
 
 
@@ -139,9 +143,13 @@ def _upsert_unresolved(conn, unresolved) -> int:
         return 0
     with conn.cursor() as cur:
         cur.executemany(
-            """INSERT INTO unresolved_citations (source_doc_id, raw_text, esas_no, reason)
-               VALUES (%s, %s, %s, %s)""",
-            [(u.source_doc_id, u.raw_text, u.esas_no, u.reason) for u in unresolved],
+            """INSERT INTO unresolved_citations
+               (source_doc_id, raw_text, daire, esas_no, karar_no, reason)
+               VALUES (%s, %s, %s, %s, %s, %s)""",
+            [
+                (u.source_doc_id, u.raw_text, u.daire, u.esas_no, u.karar_no, u.reason)
+                for u in unresolved
+            ],
         )
     conn.commit()
     return len(unresolved)

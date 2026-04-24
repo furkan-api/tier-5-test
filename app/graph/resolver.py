@@ -1,16 +1,23 @@
 """
 Resolves RawCitation objects against the PostgreSQL documents table.
 
-Match confidence:
-  1.0 — exact esas_no + karar_no + court match
-  0.9 — exact esas_no + court match
-  0.7 — esas_no only (single unambiguous match)
-  unresolvable — logged to UnresolvedCitation
+Matching rule:
+    daire (mandatory)  AND  (esas_no OR karar_no)
+
+Daire comparison is done on a normalized form (Turkish-lowercased, diacritic-
+stripped, non-alphanumerics removed) so the extractor output and the DB value
+match despite minor formatting differences (e.g. "Fikrî" vs "Fikri",
+"1.Fikrî" vs "1. Fikrî").
+
+Confidence:
+    1.0  — daire + esas + karar all match
+    0.8  — daire + exactly one of (esas, karar) matches
+    else — logged as UnresolvedCitation
 """
 
 from __future__ import annotations
 
-import hashlib
+import re
 from dataclasses import dataclass
 
 from app.graph.citation_extractor import RawCitation
@@ -20,6 +27,7 @@ from app.graph.citation_extractor import RawCitation
 class ResolvedCitation:
     source_doc_id: str
     target_doc_id: str
+    daire: str
     esas_no: str
     karar_no: str
     snippet: str
@@ -30,115 +38,124 @@ class ResolvedCitation:
 class UnresolvedCitation:
     source_doc_id: str
     raw_text: str
+    daire: str | None
     esas_no: str | None
-    reason: str  # "esas_no_not_in_corpus" | "ambiguous_match" | "no_esas_no_extracted"
+    karar_no: str | None
+    reason: str
+    # reason ∈ {
+    #   "no_daire_extracted",
+    #   "no_esas_or_karar",
+    #   "daire_not_in_corpus",
+    #   "no_ek_match_in_daire",
+    #   "ambiguous_match",
+    # }
 
 
-def _citation_id(source_doc_id: str, esas_no: str, karar_no: str) -> str:
-    raw = f"{source_doc_id}|{esas_no}|{karar_no}"
-    return hashlib.sha256(raw.encode()).hexdigest()[:16]
+# ---------------------------------------------------------------------------
+# Daire normalization
+# ---------------------------------------------------------------------------
 
+_TURKISH_LOWER = str.maketrans({
+    "İ": "i", "I": "ı",
+    "Ç": "ç", "Ğ": "ğ", "Ö": "ö", "Ş": "ş", "Ü": "ü",
+})
+_ASCII_FOLD = str.maketrans("çğıöşüâîû", "cgiosuaiu")
+
+
+def _normalize_daire(s: str | None) -> str:
+    if not s:
+        return ""
+    s = s.translate(_TURKISH_LOWER).lower()
+    s = s.translate(_ASCII_FOLD)
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+# ---------------------------------------------------------------------------
+# Main entry point
+# ---------------------------------------------------------------------------
 
 def resolve_citations(
     raw_citations: list[RawCitation],
     conn,
 ) -> tuple[list[ResolvedCitation], list[UnresolvedCitation]]:
     """
-    Resolve a list of RawCitations against the documents table in one batch query.
+    Resolve RawCitations against the documents table.
 
-    Returns (resolved, unresolved).
     Self-citations (source == target) are silently dropped.
     """
     resolved: list[ResolvedCitation] = []
     unresolved: list[UnresolvedCitation] = []
 
-    # Separate citations with no esas_no extracted
-    extractable = [c for c in raw_citations if c.esas_no]
-    for c in raw_citations:
-        if not c.esas_no:
-            unresolved.append(
-                UnresolvedCitation(
-                    source_doc_id=c.source_doc_id,
-                    raw_text=c.raw_text,
-                    esas_no=None,
-                    reason="no_esas_no_extracted",
-                )
-            )
-
-    if not extractable:
-        return resolved, unresolved
-
-    # Batch lookup all unique esas_nos in one query
-    unique_esas = list({c.esas_no for c in extractable})
+    # Load entire documents table once and build daire-normalized index.
     with conn.cursor() as cur:
-        cur.execute(
-            "SELECT doc_id, esas_no, karar_no, court FROM documents WHERE esas_no = ANY(%s)",
-            (unique_esas,),
-        )
+        cur.execute("SELECT doc_id, daire, esas_no, karar_no FROM documents")
         rows = cur.fetchall()
 
-    # Build lookup: esas_no → list of (doc_id, karar_no, court)
-    by_esas: dict[str, list[tuple[str, str, str]]] = {}
-    for doc_id, esas_no, karar_no, court in rows:
-        by_esas.setdefault(esas_no, []).append((doc_id, karar_no or "", court or ""))
+    by_daire: dict[str, list[tuple[str, str, str]]] = {}
+    for doc_id, daire, esas_no, karar_no in rows:
+        key = _normalize_daire(daire)
+        if not key:
+            continue
+        by_daire.setdefault(key, []).append((doc_id, esas_no or "", karar_no or ""))
 
-    for c in extractable:
-        candidates = by_esas.get(c.esas_no, [])
+    for c in raw_citations:
+        if not c.daire:
+            unresolved.append(_unresolved(c, "no_daire_extracted"))
+            continue
+        if not c.esas_no and not c.karar_no:
+            unresolved.append(_unresolved(c, "no_esas_or_karar"))
+            continue
 
+        candidates = by_daire.get(_normalize_daire(c.daire), [])
         if not candidates:
-            unresolved.append(
-                UnresolvedCitation(
-                    source_doc_id=c.source_doc_id,
-                    raw_text=c.raw_text,
-                    esas_no=c.esas_no,
-                    reason="esas_no_not_in_corpus",
-                )
-            )
+            unresolved.append(_unresolved(c, "daire_not_in_corpus"))
             continue
 
-        target_doc_id = None
-        confidence = 0.0
-
-        # Try match strategies in order
-        for doc_id, karar_no, court in candidates:
+        # Score candidates: (esas match? 1 : 0) + (karar match? 1 : 0)
+        scored: list[tuple[str, int, str, str]] = []
+        for doc_id, esas, karar in candidates:
             if doc_id == c.source_doc_id:
-                continue  # skip self-citations
+                continue
+            esas_ok = bool(c.esas_no) and c.esas_no == esas
+            karar_ok = bool(c.karar_no) and c.karar_no == karar
+            score = (1 if esas_ok else 0) + (1 if karar_ok else 0)
+            if score > 0:
+                scored.append((doc_id, score, esas, karar))
 
-            court_match = c.court_hint and c.court_hint.lower() in court.lower()
-            karar_match = c.karar_no and karar_no and c.karar_no == karar_no
-
-            if court_match and karar_match:
-                target_doc_id = doc_id
-                confidence = 1.0
-                break
-            if court_match and confidence < 0.9:
-                target_doc_id = doc_id
-                confidence = 0.9
-            elif confidence < 0.7:
-                target_doc_id = doc_id
-                confidence = 0.7
-
-        if target_doc_id is None:
-            reason = "ambiguous_match" if len(candidates) > 1 else "esas_no_not_in_corpus"
-            unresolved.append(
-                UnresolvedCitation(
-                    source_doc_id=c.source_doc_id,
-                    raw_text=c.raw_text,
-                    esas_no=c.esas_no,
-                    reason=reason,
-                )
-            )
+        if not scored:
+            unresolved.append(_unresolved(c, "no_ek_match_in_daire"))
             continue
+
+        scored.sort(key=lambda x: -x[1])
+        top = [s for s in scored if s[1] == scored[0][1]]
+        if len(top) > 1:
+            unresolved.append(_unresolved(c, "ambiguous_match"))
+            continue
+
+        target_doc_id, score, target_esas, target_karar = top[0]
+        confidence = 1.0 if score == 2 else 0.8
 
         resolved.append(
             ResolvedCitation(
                 source_doc_id=c.source_doc_id,
                 target_doc_id=target_doc_id,
-                esas_no=c.esas_no,
-                karar_no=c.karar_no or "",
+                daire=c.daire,
+                esas_no=c.esas_no or target_esas,
+                karar_no=c.karar_no or target_karar,
                 snippet=c.snippet,
                 confidence=confidence,
             )
         )
 
     return resolved, unresolved
+
+
+def _unresolved(c: RawCitation, reason: str) -> UnresolvedCitation:
+    return UnresolvedCitation(
+        source_doc_id=c.source_doc_id,
+        raw_text=c.raw_text,
+        daire=c.daire or None,
+        esas_no=c.esas_no,
+        karar_no=c.karar_no,
+        reason=reason,
+    )
