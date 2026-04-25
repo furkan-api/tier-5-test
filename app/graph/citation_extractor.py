@@ -20,6 +20,35 @@ import re
 from dataclasses import dataclass
 from typing import Callable
 
+# Turkish İ → plain i for dict lookups (Python's str.lower() maps İ to "i̇")
+_TR_I = str.maketrans("İ", "i")
+
+# Ordinal word → daire number mapping (keys are ASCII-normalised Turkish)
+_ORD_MAP: dict[str, int] = {
+    "birinci": 1, "ikinci": 2, "ucuncu": 3, "dorduncu": 4, "besinci": 5,
+    "altinci": 6, "yedinci": 7, "sekizinci": 8, "dokuzuncu": 9, "onuncu": 10,
+    "on birinci": 11, "on ikinci": 12, "on ucuncu": 13,
+}
+_ASCII_FOLD_ORD = str.maketrans("çğıöşüâîûÇĞIÖŞÜ", "cgiosuaiucgiOSU")
+
+
+def _ord_to_int(word: str) -> int | None:
+    key = re.sub(r"\s+", " ", word).strip()
+    key = key.translate(_TR_I).lower().translate(_ASCII_FOLD_ORD)
+    return _ORD_MAP.get(key)
+
+
+# Matches "DD.MM.YYYY tarih [ve] N/N sayılı İçtihadı/İçtihatları/İnançları Birleştirme"
+# All three text variants refer to the same landmark 1/2 İBK (1974).
+_IBK_DATE = re.compile(
+    r"(\d{1,2})[.\-](\d{1,2})[.\-](\d{4})\s+tarih(?:\s+ve)?\s+"
+    r"(\d+)\s*/\s*(\d+)\s+[Ss]ayılı\s+"
+    r"(?:İçtiha[dt][ıi]|İnançları|İçtihatları)\s+Birleştirme",
+    re.UNICODE,
+)
+# Daire string that matches documents.daire for doc 061b067290a9e526
+_IBK_DAIRE = "İçtihatları Birleştirme HGK"
+
 SNIPPET_WINDOW = 120   # chars before/after the header start for the audit snippet
 EK_WINDOW = 300        # chars after a header that we search for E/K pairs
 
@@ -123,6 +152,12 @@ _rule(
     r"Danıştay" + _SUF + r"\s+(?:Vergi\s+Dava\s+Daireleri\s+Kurulu|VDDK)",
     lambda m: "Danıştay Vergi Dava Daireleri Kurulu",
 )
+# Standalone VDDK — text omits "Danıştay" prefix (e.g. "Vergi Dava Daireleri Kurulunca verilen").
+# Placed after the prefixed rule so that when "Danıştay" IS present, the prefixed rule wins.
+_rule(
+    r"Vergi\s+Dava\s+Daireleri\s+Kurulu" + _SUF,
+    lambda m: "Danıştay Vergi Dava Daireleri Kurulu",
+)
 _rule(
     r"Danıştay" + _SUF + r"\s+İçtihadları?\s+Birleştirme(?:\s+Kurulu)?",
     lambda m: "Danıştay IBK",
@@ -130,6 +165,21 @@ _rule(
 _rule(
     r"Danıştay" + _SUF + r"\s+(\d{1,2})\s*\.\s*Daire(?:si|\s+Başkanlığı)?" + _SUF,
     lambda m: f"Danıştay {m.group(1)}. Daire",
+)
+
+_ORD_PAT = (
+    # longer alternates first to avoid partial matches (On Birinci before Birinci)
+    r"On\s+Üçüncü|On\s+İkinci|On\s+Birinci|Onuncu|"
+    r"Dokuzuncu|Sekizinci|Yedinci|Altıncı|Beşinci|Dördüncü|Üçüncü|İkinci|Birinci"
+)
+
+def _danistay_ordinal_norm(m: re.Match) -> str | None:
+    n = _ord_to_int(m.group(1))
+    return f"Danıştay {n}. Daire" if n else None
+
+_rule(
+    rf"Danıştay{_SUF}\s+({_ORD_PAT})\s*Daire(?:si(?:nin|nce)?)?" + _SUF,
+    _danistay_ordinal_norm,
 )
 
 # --- Anayasa Mahkemesi ---
@@ -373,12 +423,31 @@ def extract_citations(doc_id: str, text: str) -> list[RawCitation]:
     Output is deduplicated by (daire, esas_no, karar_no). A single header can emit
     multiple citations when several (E, K) pairs follow it.
     """
-    headers = _find_all_headers(text)
-    if not headers:
-        return []
-
     results: list[RawCitation] = []
     seen: set[tuple[str, str | None, str | None]] = set()
+
+    # İBK date-format pass runs unconditionally — these citations need no header context.
+    # Format: "1.4.1974 tarih 1/2 sayılı İçtihadı Birleştirme"
+    # Numbers are N/N (not YYYY/N), year comes from the date component.
+    for m in _IBK_DATE.finditer(text):
+        year = m.group(3)
+        esas_no = f"{year}/{m.group(4)}"
+        karar_no = f"{year}/{m.group(5)}"
+        key = (_IBK_DAIRE, esas_no, karar_no)
+        if key not in seen:
+            seen.add(key)
+            results.append(RawCitation(
+                source_doc_id=doc_id,
+                raw_text=text[m.start():m.end()].strip(),
+                daire=_IBK_DAIRE,
+                esas_no=esas_no,
+                karar_no=karar_no,
+                snippet=_snippet(text, m.start()),
+            ))
+
+    headers = _find_all_headers(text)
+    if not headers:
+        return results
 
     for i, (h_start, h_end, daire) in enumerate(headers):
         # Window is bounded by EK_WINDOW chars or the next header, whichever is closer.

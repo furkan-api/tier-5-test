@@ -67,7 +67,14 @@ def _normalize_daire(s: str | None) -> str:
         return ""
     s = s.translate(_TURKISH_LOWER).lower()
     s = s.translate(_ASCII_FOLD)
-    return re.sub(r"[^a-z0-9]+", "", s)
+    s = re.sub(r"[^a-z0-9]+", "", s)
+    # Normalise BAM/BİM long-forms so "Bölge Adliye Mahkemesi" == "BAM"
+    s = s.replace("bolgeadliyemahkemesi", "bam")
+    s = s.replace("bolgeidaremahkemesi", "bim")
+    # Unify adjectival/noun forms: "İdari" (adj.) and "İdare" (noun) refer
+    # to the same administrative court chambers — extractors mix the two.
+    s = s.replace("idari", "idare")
+    return s
 
 
 # ---------------------------------------------------------------------------
@@ -88,15 +95,21 @@ def resolve_citations(
 
     # Load entire documents table once and build daire-normalized index.
     with conn.cursor() as cur:
-        cur.execute("SELECT doc_id, daire, esas_no, karar_no FROM documents")
+        cur.execute("SELECT doc_id, court, daire, esas_no, karar_no FROM documents")
         rows = cur.fetchall()
 
     by_daire: dict[str, list[tuple[str, str, str]]] = {}
-    for doc_id, daire, esas_no, karar_no in rows:
+    for doc_id, court, daire, esas_no, karar_no in rows:
+        entry = (doc_id, esas_no or "", karar_no or "")
+        # Index by daire alone ("2. Hukuk Dairesi" → "2hukukdairesi")
         key = _normalize_daire(daire)
-        if not key:
-            continue
-        by_daire.setdefault(key, []).append((doc_id, esas_no or "", karar_no or ""))
+        if key:
+            by_daire.setdefault(key, []).append(entry)
+        # Also index by court+daire so citations that include the court name
+        # ("Yargıtay 2. Hukuk Dairesi") match docs that store them separately.
+        court_key = _normalize_daire(f"{court} {daire}")
+        if court_key and court_key != key:
+            by_daire.setdefault(court_key, []).append(entry)
 
     for c in raw_citations:
         if not c.daire:
@@ -106,19 +119,33 @@ def resolve_citations(
             unresolved.append(_unresolved(c, "no_esas_or_karar"))
             continue
 
-        candidates = by_daire.get(_normalize_daire(c.daire), [])
+        norm_daire = _normalize_daire(c.daire)
+        candidates = by_daire.get(norm_daire, [])
+        if not candidates:
+            # Prefix fallback: handles "bursabam" matching "bursabam4cezadairesi"
+            # (citation names general court, document stores specific chamber).
+            # Only attempt when the citation key is long enough to be meaningful.
+            if len(norm_daire) >= 5:
+                candidates = [
+                    entry
+                    for k, entries in by_daire.items()
+                    if k.startswith(norm_daire)
+                    for entry in entries
+                ]
         if not candidates:
             unresolved.append(_unresolved(c, "daire_not_in_corpus"))
             continue
 
-        # Score candidates: (esas match? 1 : 0) + (karar match? 1 : 0)
+        # Score candidates using set intersection of case numbers.
+        # This handles the common case where the extractor stores a number as
+        # karar_no but the document records it as esas_no (e.g. AYM başvuru no).
         scored: list[tuple[str, int, str, str]] = []
         for doc_id, esas, karar in candidates:
             if doc_id == c.source_doc_id:
                 continue
-            esas_ok = bool(c.esas_no) and c.esas_no == esas
-            karar_ok = bool(c.karar_no) and c.karar_no == karar
-            score = (1 if esas_ok else 0) + (1 if karar_ok else 0)
+            citation_numbers = {n for n in [c.esas_no, c.karar_no] if n}
+            doc_numbers = {n for n in [esas, karar] if n}
+            score = len(citation_numbers & doc_numbers)
             if score > 0:
                 scored.append((doc_id, score, esas, karar))
 
