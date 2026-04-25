@@ -33,6 +33,7 @@ GRAPH_SCHEMA_STATEMENTS = [
         citation_id    TEXT PRIMARY KEY,
         source_doc_id  TEXT NOT NULL REFERENCES documents(doc_id),
         target_doc_id  TEXT REFERENCES documents(doc_id),
+        daire          TEXT NOT NULL DEFAULT '',
         esas_no        TEXT NOT NULL DEFAULT '',
         karar_no       TEXT NOT NULL DEFAULT '',
         snippet        TEXT NOT NULL DEFAULT '',
@@ -58,6 +59,7 @@ _ADD_GRAPH_COLUMNS = [
     "ALTER TABLE documents ADD COLUMN IF NOT EXISTS pagerank_score FLOAT DEFAULT 0.0",
     "ALTER TABLE documents ADD COLUMN IF NOT EXISTS citation_in_degree INTEGER DEFAULT 0",
     "ALTER TABLE documents ADD COLUMN IF NOT EXISTS citation_out_degree INTEGER DEFAULT 0",
+    "ALTER TABLE citations ADD COLUMN IF NOT EXISTS daire TEXT NOT NULL DEFAULT ''",
     "ALTER TABLE unresolved_citations ADD COLUMN IF NOT EXISTS daire TEXT",
     "ALTER TABLE unresolved_citations ADD COLUMN IF NOT EXISTS karar_no TEXT",
 ]
@@ -113,10 +115,11 @@ def _upsert_citations(conn, resolved) -> int:
     with conn.cursor() as cur:
         cur.executemany(
             """INSERT INTO citations
-               (citation_id, source_doc_id, target_doc_id, esas_no, karar_no, snippet, confidence)
-               VALUES (%s, %s, %s, %s, %s, %s, %s)
+               (citation_id, source_doc_id, target_doc_id, daire, esas_no, karar_no, snippet, confidence)
+               VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
                ON CONFLICT (citation_id) DO UPDATE SET
                    target_doc_id = EXCLUDED.target_doc_id,
+                   daire         = EXCLUDED.daire,
                    confidence    = EXCLUDED.confidence,
                    snippet       = EXCLUDED.snippet,
                    extracted_at  = now()
@@ -126,6 +129,7 @@ def _upsert_citations(conn, resolved) -> int:
                     _citation_id(c.source_doc_id, c.esas_no, c.karar_no),
                     c.source_doc_id,
                     c.target_doc_id,
+                    c.daire,
                     c.esas_no,
                     c.karar_no,
                     c.snippet[:500],
