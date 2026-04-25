@@ -235,16 +235,30 @@ def main() -> None:
             log.warning("Skipped %d documents (not found locally or in S3)", missing)
         log.info("Extracted %d raw citation references", len(all_raw))
 
-        # 4. Resolve citations against documents table
-        resolved, unresolved = resolve_citations(all_raw, conn)
+        # 4. Load canonical daire names from MongoDB for fuzzy resolution.
+        known_daires: list[str] | None = None
+        if settings.mongo_url:
+            try:
+                from pymongo import MongoClient
+                mongo_client = MongoClient(settings.mongo_url, serverSelectionTimeoutMS=5000)
+                known_daires = [
+                    d for d in mongo_client["data-team"]["tr-ictihat-v2"].distinct("court_name")
+                    if d
+                ]
+                log.info("Loaded %d canonical daire names from MongoDB", len(known_daires))
+            except Exception as e:
+                log.warning("Could not load daire names from MongoDB (%s) — fuzzy fallback disabled", e)
+
+        # 5. Resolve citations against documents table
+        resolved, unresolved = resolve_citations(all_raw, conn, known_daires=known_daires)
         log.info("Resolved: %d  |  Unresolved: %d", len(resolved), len(unresolved))
 
-        # 5. Persist to PostgreSQL
+        # 6. Persist to PostgreSQL
         _upsert_citations(conn, resolved)
         _upsert_unresolved(conn, unresolved)
         log.info("Citations written to PostgreSQL")
 
-        # 6. Sync to Neo4j (unless --no-neo4j)
+        # 7. Sync to Neo4j (unless --no-neo4j)
         if not args.no_neo4j:
             try:
                 from app.core.graphdb import connect_neo4j, get_session

@@ -9,6 +9,15 @@ stripped, non-alphanumerics removed) so the extractor output and the DB value
 match despite minor formatting differences (e.g. "Fikrî" vs "Fikri",
 "1.Fikrî" vs "1. Fikrî").
 
+Fuzzy fallback:
+    When the exact normalized daire key is not in the index, the resolver
+    fuzzy-matches the raw extracted daire string against a list of canonical
+    court names (typically sourced from MongoDB court_name values).  Only
+    canonical names whose normalized form IS already in the index are
+    considered, so a fuzzy match can only promote a citation to a court that
+    actually has documents in the corpus.  A SequenceMatcher cutoff of 0.88
+    keeps false positives low while catching ASCII / diacritic / dot variants.
+
 Confidence:
     1.0  — daire + esas + karar all match
     0.8  — daire + exactly one of (esas, karar) matches
@@ -19,6 +28,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
+from difflib import get_close_matches
 
 from app.graph.citation_extractor import RawCitation
 
@@ -84,9 +94,14 @@ def _normalize_daire(s: str | None) -> str:
 def resolve_citations(
     raw_citations: list[RawCitation],
     conn,
+    known_daires: list[str] | None = None,
 ) -> tuple[list[ResolvedCitation], list[UnresolvedCitation]]:
     """
     Resolve RawCitations against the documents table.
+
+    known_daires: optional list of canonical court/daire name strings
+        (e.g. from MongoDB court_name field).  Used as the vocabulary for
+        fuzzy-matching when the exact normalized daire key is not in the index.
 
     Self-citations (source == target) are silently dropped.
     """
@@ -111,6 +126,31 @@ def resolve_citations(
         if court_key and court_key != key:
             by_daire.setdefault(court_key, []).append(entry)
 
+    # Build fuzzy-match vocabulary: canonical name → normalized key.
+    # Only keep entries whose normalized key is actually in by_daire so that
+    # a fuzzy hit always leads to a corpus document.
+    _fuzzy_vocab: dict[str, str] = {}  # canonical_name → norm_key
+    for name in (known_daires or []):
+        if not name:
+            continue
+        nk = _normalize_daire(name)
+        if nk in by_daire and name not in _fuzzy_vocab:
+            _fuzzy_vocab[name] = nk
+    # Always include the raw daire values already in the DB as fuzzy candidates.
+    _daire_raw: dict[str, str] = {}  # raw_daire_string → norm_key
+    for doc_id, court, daire, esas_no, karar_no in rows:
+        if daire:
+            nk = _normalize_daire(daire)
+            if nk in by_daire:
+                _daire_raw[daire] = nk
+        if court and daire:
+            full = f"{court} {daire}"
+            nk = _normalize_daire(full)
+            if nk in by_daire:
+                _daire_raw[full] = nk
+    _fuzzy_vocab.update(_daire_raw)
+    _fuzzy_names = list(_fuzzy_vocab.keys())
+
     for c in raw_citations:
         if not c.daire:
             unresolved.append(_unresolved(c, "no_daire_extracted"))
@@ -121,10 +161,10 @@ def resolve_citations(
 
         norm_daire = _normalize_daire(c.daire)
         candidates = by_daire.get(norm_daire, [])
+
         if not candidates:
             # Prefix fallback: handles "bursabam" matching "bursabam4cezadairesi"
             # (citation names general court, document stores specific chamber).
-            # Only attempt when the citation key is long enough to be meaningful.
             if len(norm_daire) >= 5:
                 candidates = [
                     entry
@@ -132,6 +172,15 @@ def resolve_citations(
                     if k.startswith(norm_daire)
                     for entry in entries
                 ]
+
+        if not candidates and _fuzzy_names:
+            # Fuzzy fallback: match the raw (un-normalized) extracted daire
+            # string against canonical names so that diacritics / dots /
+            # ASCII variants are handled at the surface form level.
+            close = get_close_matches(c.daire, _fuzzy_names, n=1, cutoff=0.88)
+            if close:
+                candidates = by_daire.get(_fuzzy_vocab[close[0]], [])
+
         if not candidates:
             unresolved.append(_unresolved(c, "daire_not_in_corpus"))
             continue
