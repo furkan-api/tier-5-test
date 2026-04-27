@@ -147,6 +147,7 @@ def _upsert_unresolved(conn, unresolved) -> int:
     if not unresolved:
         return 0
     with conn.cursor() as cur:
+        cur.execute("TRUNCATE unresolved_citations")
         cur.executemany(
             """INSERT INTO unresolved_citations
                (source_doc_id, raw_text, daire, esas_no, karar_no, reason)
