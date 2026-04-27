@@ -25,7 +25,7 @@ from __future__ import annotations
 
 import logging
 
-from neo4j import Session
+from neo4j import Driver, Session
 
 from app.graph import schema as _schema
 
@@ -302,7 +302,7 @@ def upsert_laws(session: Session) -> None:
 _BATCH_SIZE = 100
 
 
-def upsert_documents(session: Session, conn) -> int:
+def upsert_documents(driver: Driver, conn) -> int:
     """
     Batch-upsert Document nodes from PostgreSQL.
 
@@ -310,6 +310,9 @@ def upsert_documents(session: Session, conn) -> int:
       - IN_COURT  → specific daire Court (MERGE by daire name from MongoDB)
       - PART_OF   → daire Court links to general Court (court field)
       - IN_BRANCH → LegalBranch
+
+    Opens a fresh session per batch so a long corpus doesn't exhaust the
+    idle-connection timeout on the Neo4j side.
 
     Returns count of documents upserted.
     """
@@ -336,13 +339,15 @@ def upsert_documents(session: Session, conn) -> int:
             "pagerank_score": float(row[8] or 0.0),
         })
         if len(batch) >= _BATCH_SIZE:
-            _upsert_doc_batch(session, batch)
+            with driver.session(database="neo4j") as s:
+                _upsert_doc_batch(s, batch)
             total += len(batch)
             batch = []
             if total % 5000 == 0:
                 log.info("Documents upserted: %d", total)
     if batch:
-        _upsert_doc_batch(session, batch)
+        with driver.session(database="neo4j") as s:
+            _upsert_doc_batch(s, batch)
         total += len(batch)
     return total
 

@@ -209,7 +209,7 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
     )
 
     log.info("Connecting to Neo4j...")
-    connect_neo4j()
+    driver = connect_neo4j()
     with get_session() as session:
         log.info("Initialising Neo4j schema...")
         init_schema(session)
@@ -223,10 +223,11 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
         log.info("Upserting laws from registry...")
         upsert_laws(session)
 
-        log.info("Upserting document nodes...")
-        n_docs = upsert_documents(session, conn)
-        log.info("Upserted %d document nodes", n_docs)
+    log.info("Upserting document nodes...")
+    n_docs = upsert_documents(driver, conn)
+    log.info("Upserted %d document nodes", n_docs)
 
+    with get_session() as session:
         log.info("Upserting CITES relationships...")
         n_cites = neo4j_upsert_citations(session, resolved)
         log.info("Upserted %d CITES relationships", n_cites)
