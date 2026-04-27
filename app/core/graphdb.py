@@ -23,6 +23,9 @@ def connect_neo4j(
     _driver = GraphDatabase.driver(
         uri or settings.neo4j_uri,
         auth=(user or settings.neo4j_user, password or settings.neo4j_password),
+        keep_alive=True,
+        connection_timeout=60,
+        max_transaction_retry_time=120,
     )
     _driver.verify_connectivity()
     return _driver

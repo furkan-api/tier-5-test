@@ -342,65 +342,63 @@ def upsert_documents(session: Session, conn) -> int:
 
 
 def _upsert_doc_batch(session: Session, batch: list[dict]) -> None:
-    # Step 1: upsert Document nodes with all scalar properties
-    session.run(
-        "UNWIND $batch AS row "
-        "MERGE (d:Document {doc_id: row.doc_id}) "
-        "SET d.court         = row.court, "
-        "    d.daire         = row.daire, "
-        "    d.court_level   = row.court_level, "
-        "    d.esas_no       = row.esas_no, "
-        "    d.karar_no      = row.karar_no, "
-        "    d.decision_date = row.decision_date, "
-        "    d.law_branch    = row.law_branch, "
-        "    d.pagerank_score = row.pagerank_score",
-        batch=batch,
-    )
+    def _work(tx):
+        # Step 1: upsert Document nodes with all scalar properties
+        tx.run(
+            "UNWIND $batch AS row "
+            "MERGE (d:Document {doc_id: row.doc_id}) "
+            "SET d.court         = row.court, "
+            "    d.daire         = row.daire, "
+            "    d.court_level   = row.court_level, "
+            "    d.esas_no       = row.esas_no, "
+            "    d.karar_no      = row.karar_no, "
+            "    d.decision_date = row.decision_date, "
+            "    d.law_branch    = row.law_branch, "
+            "    d.pagerank_score = row.pagerank_score",
+            batch=batch,
+        )
+        # Step 2: link to specific daire Court node
+        tx.run(
+            "UNWIND $batch AS row "
+            "WITH row WHERE row.daire <> '' "
+            "MATCH (d:Document {doc_id: row.doc_id}) "
+            "MERGE (dc:Court {name: row.daire}) "
+            "ON CREATE SET dc.level  = row.court_level, "
+            "              dc.branch = row.law_branch, "
+            "              dc.pillar = 'corpus' "
+            "MERGE (d)-[:IN_COURT]->(dc) "
+            "WITH dc, row "
+            "WHERE row.court <> '' AND row.court <> row.daire "
+            "OPTIONAL MATCH (gc:Court {name: row.court}) "
+            "FOREACH (_ IN CASE WHEN gc IS NOT NULL THEN [1] ELSE [] END | "
+            "  MERGE (dc)-[:PART_OF]->(gc) "
+            ")",
+            batch=batch,
+        )
+        # Step 3: fallback for documents with empty daire
+        tx.run(
+            "UNWIND $batch AS row "
+            "WITH row WHERE row.daire = '' AND row.court <> '' "
+            "MATCH (d:Document {doc_id: row.doc_id}) "
+            "OPTIONAL MATCH (gc:Court {name: row.court}) "
+            "FOREACH (_ IN CASE WHEN gc IS NOT NULL THEN [1] ELSE [] END | "
+            "  MERGE (d)-[:IN_COURT]->(gc) "
+            ")",
+            batch=batch,
+        )
+        # Step 4: link to LegalBranch
+        tx.run(
+            "UNWIND $batch AS row "
+            "WITH row WHERE row.law_branch <> '' "
+            "MATCH (d:Document {doc_id: row.doc_id}) "
+            "OPTIONAL MATCH (lb:LegalBranch {name: row.law_branch}) "
+            "FOREACH (_ IN CASE WHEN lb IS NOT NULL THEN [1] ELSE [] END | "
+            "  MERGE (d)-[:IN_BRANCH]->(lb) "
+            ")",
+            batch=batch,
+        )
 
-    # Step 2: link to specific daire Court node (create if not in static hierarchy).
-    # The daire field contains the full court name from MongoDB court_name.
-    # Using WITH ... WHERE to filter before MATCH for Cypher compatibility.
-    session.run(
-        "UNWIND $batch AS row "
-        "WITH row WHERE row.daire <> '' "
-        "MATCH (d:Document {doc_id: row.doc_id}) "
-        "MERGE (dc:Court {name: row.daire}) "
-        "ON CREATE SET dc.level  = row.court_level, "
-        "              dc.branch = row.law_branch, "
-        "              dc.pillar = 'corpus' "
-        "MERGE (d)-[:IN_COURT]->(dc) "
-        "WITH dc, row "
-        "WHERE row.court <> '' AND row.court <> row.daire "
-        "OPTIONAL MATCH (gc:Court {name: row.court}) "
-        "FOREACH (_ IN CASE WHEN gc IS NOT NULL THEN [1] ELSE [] END | "
-        "  MERGE (dc)-[:PART_OF]->(gc) "
-        ")",
-        batch=batch,
-    )
-
-    # Step 3: for documents with empty daire, fall back to linking to general court
-    session.run(
-        "UNWIND $batch AS row "
-        "WITH row WHERE row.daire = '' AND row.court <> '' "
-        "MATCH (d:Document {doc_id: row.doc_id}) "
-        "OPTIONAL MATCH (gc:Court {name: row.court}) "
-        "FOREACH (_ IN CASE WHEN gc IS NOT NULL THEN [1] ELSE [] END | "
-        "  MERGE (d)-[:IN_COURT]->(gc) "
-        ")",
-        batch=batch,
-    )
-
-    # Step 4: link to LegalBranch (branch nodes created by upsert_legal_branches)
-    session.run(
-        "UNWIND $batch AS row "
-        "WITH row WHERE row.law_branch <> '' "
-        "MATCH (d:Document {doc_id: row.doc_id}) "
-        "OPTIONAL MATCH (lb:LegalBranch {name: row.law_branch}) "
-        "FOREACH (_ IN CASE WHEN lb IS NOT NULL THEN [1] ELSE [] END | "
-        "  MERGE (d)-[:IN_BRANCH]->(lb) "
-        ")",
-        batch=batch,
-    )
+    session.execute_write(_work)
 
 
 # ---------------------------------------------------------------------------
