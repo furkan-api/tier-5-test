@@ -101,16 +101,27 @@ def get_mongo_collection(settings):
     return client["data-team"]["tr-ictihat-v2"]
 
 
-def bulk_fetch_mongo(mongo_col) -> dict[str, dict]:
-    """Fetch all docs in one cursor pass. Returns {filename: doc}."""
-    log.info("Bulk fetching MongoDB collection...")
-    result = {}
-    for doc in mongo_col.find({}, _MONGO_PROJECTION, batch_size=2000):
-        filename = unicodedata.normalize("NFC", doc.get("filename") or "")
-        if filename:
-            result[filename] = doc
-    log.info("Loaded %d documents from MongoDB", len(result))
-    return result
+def prefetch_mongo_docs(mongo_col, corpus_filenames: list[str]) -> dict[str, dict]:
+    """
+    Fetch only the MongoDB documents whose filenames match the corpus.
+
+    Sends one $in query per batch of filenames so we never transfer documents
+    that have no corresponding corpus file.
+    """
+    _BATCH = 1000
+    normalized = [unicodedata.normalize("NFC", f) for f in corpus_filenames]
+    index: dict[str, dict] = {}
+    for i in range(0, len(normalized), _BATCH):
+        batch = normalized[i: i + _BATCH]
+        for doc in mongo_col.find({"filename": {"$in": batch}}, _MONGO_PROJECTION):
+            fname = unicodedata.normalize("NFC", doc.get("filename") or "")
+            if fname:
+                index[fname] = doc
+    return index
+
+
+def fetch_from_mongo(filename: str, mongo_index: dict[str, dict]) -> dict | None:
+    return mongo_index.get(unicodedata.normalize("NFC", filename))
 
 
 def list_s3_filenames(settings) -> list[str]:
@@ -284,10 +295,15 @@ def main():
 
     try:
         mongo_col = get_mongo_collection(settings)
-        mongo_map = bulk_fetch_mongo(mongo_col)
+        mongo_col.find_one({"filename": "__ping__"})
+        log.info("MongoDB connected")
     except Exception as e:
-        log.error("MongoDB connection/fetch failed: %s", e)
+        log.error("MongoDB connection failed: %s", e)
         sys.exit(1)
+
+    log.info("Prefetching MongoDB documents for %d corpus files...", len(filenames))
+    mongo_index = prefetch_mongo_docs(mongo_col, filenames)
+    log.info("Loaded %d matching MongoDB documents", len(mongo_index))
 
     with get_connection() as conn:
         init_db(conn, recreate=args.recreate)
@@ -297,9 +313,8 @@ def main():
 
         for i, filename in enumerate(filenames, 1):
             try:
-                mongo_doc = mongo_map.get(unicodedata.normalize("NFC", filename))
+                mongo_doc = fetch_from_mongo(filename, mongo_index)
                 if not mongo_doc:
-                    log.warning("No MongoDB record for %s — skipping", filename)
                     stats["skipped"] += 1
                     continue
                 doc = build_doc(filename, mongo_doc)

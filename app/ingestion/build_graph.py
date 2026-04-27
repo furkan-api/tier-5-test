@@ -23,6 +23,7 @@ from botocore.config import Config
 from app.core.config import get_settings
 from app.core.db import get_connection
 from app.graph.citation_extractor import extract_citations
+from app.graph.law_extractor import extract_law_references
 from app.graph.resolver import resolve_citations
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -218,22 +219,26 @@ def main() -> None:
         docs = _load_documents(conn)
         log.info("Loaded %d documents", len(docs))
 
-        # 3. Extract citations (local disk first, S3 fallback)
+        # 3. Extract citations and law references (local disk first, S3 fallback)
         all_raw = []
+        all_law_refs = []
         missing = 0
         for idx, doc in enumerate(docs):
             text = _read_document_text(doc, settings, s3_client)
             if text is None:
                 missing += 1
                 continue
-            raw = extract_citations(doc["doc_id"], text)
-            all_raw.extend(raw)
+            all_raw.extend(extract_citations(doc["doc_id"], text))
+            all_law_refs.extend(extract_law_references(doc["doc_id"], text))
             if (idx + 1) % 5000 == 0:
-                log.info("Citation extraction: %d/%d docs", idx + 1, len(docs))
+                log.info("Extraction: %d/%d docs", idx + 1, len(docs))
 
         if missing:
             log.warning("Skipped %d documents (not found locally or in S3)", missing)
-        log.info("Extracted %d raw citation references", len(all_raw))
+        log.info(
+            "Extracted %d case citation references, %d law article references",
+            len(all_raw), len(all_law_refs),
+        )
 
         # 4. Load canonical daire names from MongoDB for fuzzy resolution.
         known_daires: list[str] | None = None
@@ -262,27 +267,43 @@ def main() -> None:
         if not args.no_neo4j:
             try:
                 from app.core.graphdb import connect_neo4j, get_session
-                from app.graph import schema as gschema
                 from app.graph.neo4j_sync import (
                     init_schema,
                     upsert_court_hierarchy,
+                    upsert_legal_branches,
+                    upsert_laws,
                     upsert_documents,
                     upsert_citations as neo4j_upsert_citations,
+                    upsert_law_references,
                 )
 
                 log.info("Connecting to Neo4j...")
-                driver = connect_neo4j()
+                connect_neo4j()
                 with get_session() as session:
                     log.info("Initialising Neo4j schema...")
                     init_schema(session)
+
                     log.info("Upserting court hierarchy...")
                     upsert_court_hierarchy(session)
+
+                    log.info("Upserting legal branches...")
+                    upsert_legal_branches(session)
+
+                    log.info("Upserting laws from registry...")
+                    upsert_laws(session)
+
                     log.info("Upserting document nodes...")
                     n_docs = upsert_documents(session, conn)
                     log.info("Upserted %d document nodes", n_docs)
-                    log.info("Upserting citation relationships...")
+
+                    log.info("Upserting CITES relationships...")
                     n_cites = neo4j_upsert_citations(session, resolved)
                     log.info("Upserted %d CITES relationships", n_cites)
+
+                    log.info("Upserting REFERENCES_LAW relationships...")
+                    n_law_refs = upsert_law_references(session, all_law_refs)
+                    log.info("Upserted %d REFERENCES_LAW relationships", n_law_refs)
+
             except Exception as e:
                 log.warning("Neo4j sync failed (non-fatal): %s", e)
                 log.warning("Citation data is in PostgreSQL. Re-run without --no-neo4j once Neo4j is up.")
