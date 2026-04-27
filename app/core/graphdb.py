@@ -3,7 +3,7 @@ from __future__ import annotations
 from contextlib import contextmanager
 from typing import Generator
 
-from neo4j import GraphDatabase, Driver, Session
+from neo4j import GraphDatabase, Driver, Session, WRITE_ACCESS
 
 from app.core.config import get_settings
 
@@ -41,7 +41,7 @@ def get_neo4j_driver() -> Driver:
 def get_session() -> Generator[Session, None, None]:
     """Context manager yielding a Neo4j session. Use for one unit of work."""
     driver = get_neo4j_driver()
-    session = driver.session(database="neo4j")
+    session = driver.session(database="neo4j", default_access_mode=WRITE_ACCESS)
     try:
         yield session
     finally:

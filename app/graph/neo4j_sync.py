@@ -339,14 +339,14 @@ def upsert_documents(driver: Driver, conn) -> int:
             "pagerank_score": float(row[8] or 0.0),
         })
         if len(batch) >= _BATCH_SIZE:
-            with driver.session(database="neo4j") as s:
+            with driver.session(database="neo4j", default_access_mode="WRITE") as s:
                 _upsert_doc_batch(s, batch)
             total += len(batch)
             batch = []
             if total % 5000 == 0:
                 log.info("Documents upserted: %d", total)
     if batch:
-        with driver.session(database="neo4j") as s:
+        with driver.session(database="neo4j", default_access_mode="WRITE") as s:
             _upsert_doc_batch(s, batch)
         total += len(batch)
     return total
