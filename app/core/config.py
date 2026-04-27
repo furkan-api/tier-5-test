@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     corpus_dir: Path = Path(__file__).resolve().parent.parent.parent / "corpus"
     neo4j_uri: str = "bolt://10.20.32.34:7687"
     neo4j_user: str = "neo4j"
-    neo4j_password: str = "legal_rag_neo4j"
+    neo4j_password: str = ""
     graph_expansion_hops: int = 1
     ppr_alpha: float = 0.85
     graph_score_weight: float = 0.3
