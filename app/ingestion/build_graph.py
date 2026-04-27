@@ -195,26 +195,98 @@ def print_summary(conn) -> None:
         print(f"  {score:.4f}  {doc_id}")
 
 
+def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
+    """Sync all data from PostgreSQL to Neo4j. Separated so it can run standalone."""
+    from app.core.graphdb import connect_neo4j, get_session
+    from app.graph.neo4j_sync import (
+        init_schema,
+        upsert_court_hierarchy,
+        upsert_legal_branches,
+        upsert_laws,
+        upsert_documents,
+        upsert_citations as neo4j_upsert_citations,
+        upsert_law_references,
+    )
+
+    log.info("Connecting to Neo4j...")
+    connect_neo4j()
+    with get_session() as session:
+        log.info("Initialising Neo4j schema...")
+        init_schema(session)
+
+        log.info("Upserting court hierarchy...")
+        upsert_court_hierarchy(session)
+
+        log.info("Upserting legal branches...")
+        upsert_legal_branches(session)
+
+        log.info("Upserting laws from registry...")
+        upsert_laws(session)
+
+        log.info("Upserting document nodes...")
+        n_docs = upsert_documents(session, conn)
+        log.info("Upserted %d document nodes", n_docs)
+
+        log.info("Upserting CITES relationships...")
+        n_cites = neo4j_upsert_citations(session, resolved)
+        log.info("Upserted %d CITES relationships", n_cites)
+
+        log.info("Upserting REFERENCES_LAW relationships...")
+        n_law_refs = upsert_law_references(session, all_law_refs)
+        log.info("Upserted %d REFERENCES_LAW relationships", n_law_refs)
+
+
+def _load_resolved_from_pg(conn):
+    """Reload resolved citations from PostgreSQL (for --neo4j-only mode)."""
+    from app.graph.resolver import ResolvedCitation
+    with conn.cursor() as cur:
+        cur.execute(
+            "SELECT citation_id, source_doc_id, target_doc_id, daire, esas_no, karar_no, snippet, confidence "
+            "FROM citations WHERE target_doc_id IS NOT NULL"
+        )
+        return [
+            ResolvedCitation(
+                source_doc_id=r[1], target_doc_id=r[2], daire=r[3] or "",
+                esas_no=r[4] or "", karar_no=r[5] or "",
+                snippet=r[6] or "", confidence=r[7] or 0.0,
+            )
+            for r in cur.fetchall()
+        ]
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Build citation graph from corpus")
     parser.add_argument("--no-neo4j", action="store_true", help="Skip Neo4j sync")
+    parser.add_argument("--neo4j-only", action="store_true",
+                        help="Skip extraction; sync existing PG data to Neo4j only")
     parser.add_argument("--skip-pagerank", action="store_true", help="Skip PageRank computation")
     args = parser.parse_args()
 
     settings = get_settings()
 
-    s3_client = boto3.client(
-        "s3",
-        aws_access_key_id=settings.aws_access_key_id,
-        aws_secret_access_key=settings.aws_secret_access_key,
-        region_name=settings.aws_region,
-        config=Config(max_pool_connections=20),
-    )
-
     with get_connection(settings.database_url) as conn:
         # 1. Initialise PG schema
         log.info("Initialising graph schema...")
         init_graph_schema(conn)
+
+        if args.neo4j_only:
+            # Load existing resolved citations from PG and sync to Neo4j directly
+            resolved = _load_resolved_from_pg(conn)
+            log.info("Loaded %d resolved citations from PostgreSQL", len(resolved))
+            try:
+                _sync_to_neo4j(conn, resolved, [])
+            except Exception as e:
+                log.warning("Neo4j sync failed: %s", e)
+            print_summary(conn)
+            return
+
+        s3_client = boto3.client(
+            "s3",
+            aws_access_key_id=settings.aws_access_key_id,
+            aws_secret_access_key=settings.aws_secret_access_key,
+            region_name=settings.aws_region,
+            config=Config(max_pool_connections=20),
+        )
 
         # 2. Load documents
         docs = _load_documents(conn)
@@ -267,47 +339,10 @@ def main() -> None:
         # 7. Sync to Neo4j (unless --no-neo4j)
         if not args.no_neo4j:
             try:
-                from app.core.graphdb import connect_neo4j, get_session
-                from app.graph.neo4j_sync import (
-                    init_schema,
-                    upsert_court_hierarchy,
-                    upsert_legal_branches,
-                    upsert_laws,
-                    upsert_documents,
-                    upsert_citations as neo4j_upsert_citations,
-                    upsert_law_references,
-                )
-
-                log.info("Connecting to Neo4j...")
-                connect_neo4j()
-                with get_session() as session:
-                    log.info("Initialising Neo4j schema...")
-                    init_schema(session)
-
-                    log.info("Upserting court hierarchy...")
-                    upsert_court_hierarchy(session)
-
-                    log.info("Upserting legal branches...")
-                    upsert_legal_branches(session)
-
-                    log.info("Upserting laws from registry...")
-                    upsert_laws(session)
-
-                    log.info("Upserting document nodes...")
-                    n_docs = upsert_documents(session, conn)
-                    log.info("Upserted %d document nodes", n_docs)
-
-                    log.info("Upserting CITES relationships...")
-                    n_cites = neo4j_upsert_citations(session, resolved)
-                    log.info("Upserted %d CITES relationships", n_cites)
-
-                    log.info("Upserting REFERENCES_LAW relationships...")
-                    n_law_refs = upsert_law_references(session, all_law_refs)
-                    log.info("Upserted %d REFERENCES_LAW relationships", n_law_refs)
-
+                _sync_to_neo4j(conn, resolved, all_law_refs)
             except Exception as e:
                 log.warning("Neo4j sync failed (non-fatal): %s", e)
-                log.warning("Citation data is in PostgreSQL. Re-run without --no-neo4j once Neo4j is up.")
+                log.warning("Citation data is in PostgreSQL. Re-run with --neo4j-only once Neo4j is up.")
 
         # 7. Compute and write back PageRank (unless --skip-pagerank)
         if not args.skip_pagerank:
