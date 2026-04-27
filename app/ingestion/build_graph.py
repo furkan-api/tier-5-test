@@ -16,6 +16,7 @@ Flags:
 import argparse
 import hashlib
 import logging
+import traceback
 
 import boto3
 from botocore.config import Config
@@ -277,7 +278,8 @@ def main() -> None:
             try:
                 _sync_to_neo4j(conn, resolved, [])
             except Exception as e:
-                log.warning("Neo4j sync failed: %s", e)
+                log.error("Neo4j sync failed: %s", e)
+                log.error("Traceback:\n%s", traceback.format_exc())
             print_summary(conn)
             return
 
@@ -342,7 +344,8 @@ def main() -> None:
             try:
                 _sync_to_neo4j(conn, resolved, all_law_refs)
             except Exception as e:
-                log.warning("Neo4j sync failed (non-fatal): %s", e)
+                log.error("Neo4j sync failed (non-fatal): %s", e)
+                log.error("Traceback:\n%s", traceback.format_exc())
                 log.warning("Citation data is in PostgreSQL. Re-run with --neo4j-only once Neo4j is up.")
 
         # 7. Compute and write back PageRank (unless --skip-pagerank)

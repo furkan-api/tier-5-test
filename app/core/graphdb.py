@@ -3,9 +3,13 @@ from __future__ import annotations
 from contextlib import contextmanager
 from typing import Generator
 
+import logging
+
 from neo4j import GraphDatabase, Driver, Session, WRITE_ACCESS
 
 from app.core.config import get_settings
+
+log = logging.getLogger(__name__)
 
 _driver: Driver | None = None
 
@@ -20,12 +24,19 @@ def connect_neo4j(
     if _driver is not None:
         return _driver
     settings = get_settings()
+    resolved_uri = uri or settings.neo4j_uri
+    resolved_user = user or settings.neo4j_user
+    log.info("Neo4j: connecting to %s as user=%s", resolved_uri, resolved_user)
     _driver = GraphDatabase.driver(
-        uri or settings.neo4j_uri,
-        auth=(user or settings.neo4j_user, password or settings.neo4j_password),
+        resolved_uri,
+        auth=(resolved_user, password or settings.neo4j_password),
         keep_alive=True,
+        connection_timeout=30,
+        max_transaction_retry_time=60,
     )
+    log.info("Neo4j: verifying connectivity...")
     _driver.verify_connectivity()
+    log.info("Neo4j: connection verified OK")
     return _driver
 
 
