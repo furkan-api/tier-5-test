@@ -23,9 +23,13 @@ All functions take an open neo4j.Session as first argument.
 
 from __future__ import annotations
 
+import logging
+
 from neo4j import Session
 
 from app.graph import schema as _schema
+
+log = logging.getLogger(__name__)
 from app.graph.law_extractor import LAW_REGISTRY, RawLawReference
 from app.graph.resolver import ResolvedCitation
 
@@ -295,7 +299,7 @@ def upsert_laws(session: Session) -> None:
 # Document nodes
 # ---------------------------------------------------------------------------
 
-_BATCH_SIZE = 500
+_BATCH_SIZE = 100
 
 
 def upsert_documents(session: Session, conn) -> int:
@@ -335,6 +339,8 @@ def upsert_documents(session: Session, conn) -> int:
             _upsert_doc_batch(session, batch)
             total += len(batch)
             batch = []
+            if total % 5000 == 0:
+                log.info("Documents upserted: %d", total)
     if batch:
         _upsert_doc_batch(session, batch)
         total += len(batch)
@@ -405,7 +411,7 @@ def _upsert_doc_batch(session: Session, batch: list[dict]) -> None:
 # Law article references
 # ---------------------------------------------------------------------------
 
-_LAW_REF_BATCH = 500
+_LAW_REF_BATCH = 200
 
 
 def upsert_law_references(session: Session, refs: list[RawLawReference]) -> int:
