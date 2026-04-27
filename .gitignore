@@ -10,3 +10,4 @@ corpus/*
 *.pem
 *.ovpn
 scratch/
+tmp/
