@@ -219,7 +219,7 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
     """Sync all data from PostgreSQL to Neo4j. Separated so it can run standalone."""
     import time
     from app.core.graphdb import connect_neo4j, get_session, reconnect_neo4j
-    from neo4j.exceptions import ServiceUnavailable
+    from neo4j.exceptions import ServiceUnavailable, WriteServiceUnavailable
     from app.graph.neo4j_sync import (
         init_schema,
         upsert_court_hierarchy,
@@ -269,7 +269,7 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
                 ckpt["citations_done"] = True
                 _save_checkpoint(ckpt)
                 break
-            except ServiceUnavailable as exc:
+            except (ServiceUnavailable, WriteServiceUnavailable) as exc:
                 if attempt < 2:
                     log.warning("Citations connection lost, reconnecting: %s", exc)
                     time.sleep(2 ** attempt)
@@ -287,7 +287,7 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
                 ckpt["law_refs_done"] = True
                 _save_checkpoint(ckpt)
                 break
-            except ServiceUnavailable as exc:
+            except (ServiceUnavailable, WriteServiceUnavailable) as exc:
                 if attempt < 2:
                     log.warning("Law refs connection lost, reconnecting: %s", exc)
                     time.sleep(2 ** attempt)

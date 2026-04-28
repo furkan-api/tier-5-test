@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     chunk_max_tokens: int = 1024
     chunk_overlap: int = 50
     corpus_dir: Path = Path(__file__).resolve().parent.parent.parent / "corpus"
-    neo4j_uri: str = "bolt://10.20.32.34:7687"
+    neo4j_uri: str = "neo4j://10.20.32.34:7687"
     neo4j_user: str = "neo4j"
     neo4j_password: str = ""
     graph_expansion_hops: int = 1

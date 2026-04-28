@@ -28,7 +28,7 @@ import time
 from typing import Callable
 
 from neo4j import Driver, Session
-from neo4j.exceptions import ServiceUnavailable
+from neo4j.exceptions import ServiceUnavailable, WriteServiceUnavailable
 
 from app.graph import schema as _schema
 
@@ -316,7 +316,7 @@ def _upsert_batch_with_retry(batch: list[dict]) -> None:
             with driver.session(database="neo4j", default_access_mode="WRITE") as s:
                 _upsert_doc_batch(s, batch)
             return
-        except ServiceUnavailable as exc:
+        except (ServiceUnavailable, WriteServiceUnavailable) as exc:
             if attempt < _MAX_BATCH_RETRIES - 1:
                 wait = min(2 ** attempt, 30)
                 log.warning(
