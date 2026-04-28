@@ -59,6 +59,18 @@ def get_session() -> Generator[Session, None, None]:
         session.close()
 
 
+def reconnect_neo4j() -> Driver:
+    """Close the existing driver and open a fresh one (call after connection loss)."""
+    global _driver
+    if _driver is not None:
+        try:
+            _driver.close()
+        except Exception:
+            pass
+        _driver = None
+    return connect_neo4j()
+
+
 def close_neo4j() -> None:
     """Close the Neo4j driver. Called on application shutdown."""
     global _driver

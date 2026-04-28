@@ -15,8 +15,10 @@ Flags:
 
 import argparse
 import hashlib
+import json
 import logging
 import traceback
+from pathlib import Path
 
 import boto3
 from botocore.config import Config
@@ -29,6 +31,23 @@ from app.graph.resolver import resolve_citations
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
+
+_CHECKPOINT_FILE = Path("neo4j_sync_checkpoint.json")
+
+
+def _load_checkpoint() -> dict:
+    if _CHECKPOINT_FILE.exists():
+        try:
+            data = json.loads(_CHECKPOINT_FILE.read_text())
+            log.info("Loaded checkpoint: %s", data)
+            return data
+        except Exception as exc:
+            log.warning("Could not read checkpoint file, starting fresh: %s", exc)
+    return {}
+
+
+def _save_checkpoint(data: dict) -> None:
+    _CHECKPOINT_FILE.write_text(json.dumps(data))
 
 GRAPH_SCHEMA_STATEMENTS = [
     """CREATE TABLE IF NOT EXISTS citations (
@@ -198,7 +217,9 @@ def print_summary(conn) -> None:
 
 def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
     """Sync all data from PostgreSQL to Neo4j. Separated so it can run standalone."""
-    from app.core.graphdb import connect_neo4j, get_session
+    import time
+    from app.core.graphdb import connect_neo4j, get_session, reconnect_neo4j
+    from neo4j.exceptions import ServiceUnavailable
     from app.graph.neo4j_sync import (
         init_schema,
         upsert_court_hierarchy,
@@ -210,32 +231,72 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
     )
 
     log.info("Connecting to Neo4j...")
-    driver = connect_neo4j()
-    with get_session() as session:
+    connect_neo4j()
+
+    ckpt = _load_checkpoint()
+
+    if not ckpt.get("schema_done"):
         log.info("Initialising Neo4j schema...")
-        init_schema(session)
+        with get_session() as session:
+            init_schema(session)
+            upsert_court_hierarchy(session)
+            upsert_legal_branches(session)
+            upsert_laws(session)
+        ckpt["schema_done"] = True
+        _save_checkpoint(ckpt)
 
-        log.info("Upserting court hierarchy...")
-        upsert_court_hierarchy(session)
+    if not ckpt.get("docs_done"):
+        docs_offset = ckpt.get("docs_offset", 0)
 
-        log.info("Upserting legal branches...")
-        upsert_legal_branches(session)
+        def _on_doc_progress(n: int) -> None:
+            ckpt["docs_offset"] = n
+            _save_checkpoint(ckpt)
 
-        log.info("Upserting laws from registry...")
-        upsert_laws(session)
+        log.info("Upserting document nodes...")
+        n_docs = upsert_documents(conn, start_offset=docs_offset, on_progress=_on_doc_progress)
+        log.info("Upserted %d document nodes", n_docs)
+        ckpt["docs_done"] = True
+        ckpt["docs_offset"] = n_docs
+        _save_checkpoint(ckpt)
 
-    log.info("Upserting document nodes...")
-    n_docs = upsert_documents(driver, conn)
-    log.info("Upserted %d document nodes", n_docs)
-
-    with get_session() as session:
+    if not ckpt.get("citations_done"):
         log.info("Upserting CITES relationships...")
-        n_cites = neo4j_upsert_citations(session, resolved)
-        log.info("Upserted %d CITES relationships", n_cites)
+        for attempt in range(3):
+            try:
+                with get_session() as session:
+                    n_cites = neo4j_upsert_citations(session, resolved)
+                log.info("Upserted %d CITES relationships", n_cites)
+                ckpt["citations_done"] = True
+                _save_checkpoint(ckpt)
+                break
+            except ServiceUnavailable as exc:
+                if attempt < 2:
+                    log.warning("Citations connection lost, reconnecting: %s", exc)
+                    time.sleep(2 ** attempt)
+                    reconnect_neo4j()
+                else:
+                    raise
 
+    if not ckpt.get("law_refs_done"):
         log.info("Upserting REFERENCES_LAW relationships...")
-        n_law_refs = upsert_law_references(session, all_law_refs)
-        log.info("Upserted %d REFERENCES_LAW relationships", n_law_refs)
+        for attempt in range(3):
+            try:
+                with get_session() as session:
+                    n_law_refs = upsert_law_references(session, all_law_refs)
+                log.info("Upserted %d REFERENCES_LAW relationships", n_law_refs)
+                ckpt["law_refs_done"] = True
+                _save_checkpoint(ckpt)
+                break
+            except ServiceUnavailable as exc:
+                if attempt < 2:
+                    log.warning("Law refs connection lost, reconnecting: %s", exc)
+                    time.sleep(2 ** attempt)
+                    reconnect_neo4j()
+                else:
+                    raise
+
+    _CHECKPOINT_FILE.unlink(missing_ok=True)
+    log.info("Neo4j sync complete")
 
 
 def _load_resolved_from_pg(conn):

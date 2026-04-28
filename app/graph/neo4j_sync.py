@@ -24,8 +24,11 @@ All functions take an open neo4j.Session as first argument.
 from __future__ import annotations
 
 import logging
+import time
+from typing import Callable
 
 from neo4j import Driver, Session
+from neo4j.exceptions import ServiceUnavailable
 
 from app.graph import schema as _schema
 
@@ -300,55 +303,83 @@ def upsert_laws(session: Session) -> None:
 # ---------------------------------------------------------------------------
 
 _BATCH_SIZE = 100
+_MAX_BATCH_RETRIES = 5
 
 
-def upsert_documents(driver: Driver, conn) -> int:
+def _upsert_batch_with_retry(batch: list[dict]) -> None:
+    """Run _upsert_doc_batch with reconnect-on-failure backoff."""
+    from app.core.graphdb import get_neo4j_driver, reconnect_neo4j
+
+    for attempt in range(_MAX_BATCH_RETRIES):
+        try:
+            driver = get_neo4j_driver()
+            with driver.session(database="neo4j", default_access_mode="WRITE") as s:
+                _upsert_doc_batch(s, batch)
+            return
+        except ServiceUnavailable as exc:
+            if attempt < _MAX_BATCH_RETRIES - 1:
+                wait = min(2 ** attempt, 30)
+                log.warning(
+                    "Batch connection lost (attempt %d/%d), reconnecting in %ds: %s",
+                    attempt + 1, _MAX_BATCH_RETRIES, wait, exc,
+                )
+                time.sleep(wait)
+                reconnect_neo4j()
+            else:
+                raise
+
+
+def upsert_documents(
+    conn,
+    start_offset: int = 0,
+    on_progress: Callable[[int], None] | None = None,
+) -> int:
     """
     Batch-upsert Document nodes from PostgreSQL.
 
-    Creates three relationships per document:
-      - IN_COURT  → specific daire Court (MERGE by daire name from MongoDB)
-      - PART_OF   → daire Court links to general Court (court field)
-      - IN_BRANCH → LegalBranch
+    start_offset: skip the first N rows (for resume after failure).
+    on_progress:  called with the running total after each batch, for checkpointing.
 
-    Opens a fresh session per batch so a long corpus doesn't exhaust the
-    idle-connection timeout on the Neo4j side.
-
-    Returns count of documents upserted.
+    Returns total count of documents upserted (including any skipped by offset).
     """
     with conn.cursor() as cur:
         cur.execute(
             "SELECT doc_id, court, daire, court_level, esas_no, karar_no, "
             "decision_date, law_branch, pagerank_score "
-            "FROM documents"
+            "FROM documents ORDER BY doc_id"
         )
         rows = cur.fetchall()
 
-    total = 0
+    if start_offset:
+        log.info("Resuming document upsert from offset %d / %d", start_offset, len(rows))
+
+    total = start_offset
     batch: list[dict] = []
-    for row in rows:
+    for row in rows[start_offset:]:
         batch.append({
-            "doc_id":        row[0],
-            "court":         row[1] or "",
-            "daire":         row[2] or "",
-            "court_level":   row[3] or 0,
-            "esas_no":       row[4] or "",
-            "karar_no":      row[5] or "",
-            "decision_date": str(row[6] or ""),
-            "law_branch":    row[7] or "",
+            "doc_id":         row[0],
+            "court":          row[1] or "",
+            "daire":          row[2] or "",
+            "court_level":    row[3] or 0,
+            "esas_no":        row[4] or "",
+            "karar_no":       row[5] or "",
+            "decision_date":  str(row[6] or ""),
+            "law_branch":     row[7] or "",
             "pagerank_score": float(row[8] or 0.0),
         })
         if len(batch) >= _BATCH_SIZE:
-            with driver.session(database="neo4j", default_access_mode="WRITE") as s:
-                _upsert_doc_batch(s, batch)
+            _upsert_batch_with_retry(batch)
             total += len(batch)
             batch = []
             if total % 5000 == 0:
                 log.info("Documents upserted: %d", total)
+            if on_progress:
+                on_progress(total)
     if batch:
-        with driver.session(database="neo4j", default_access_mode="WRITE") as s:
-            _upsert_doc_batch(s, batch)
+        _upsert_batch_with_retry(batch)
         total += len(batch)
+        if on_progress:
+            on_progress(total)
     return total
 
 
