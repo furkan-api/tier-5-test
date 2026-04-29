@@ -24,6 +24,7 @@ All functions take an open neo4j.Session as first argument.
 from __future__ import annotations
 
 import logging
+import re
 import time
 from typing import Callable
 
@@ -51,199 +52,22 @@ def init_schema(session: Session) -> None:
 # Static court hierarchy
 # ---------------------------------------------------------------------------
 
-# (name, level, branch, pillar)
-# level: 1=İlk Derece, 2=BAM/BİM, 3=Daire, 4=HGK/CGK/İBK/AYM
-_COURTS = [
-    # Adli yargı — Yargıtay (12 HD + 12 CD active per 26/06/2025 iş bölümü)
-    ("Yargıtay",             4, "adli",  "yargıtay"),
-    ("Yargıtay HGK",         4, "hukuk", "yargıtay"),
-    ("Yargıtay CGK",         4, "ceza",  "yargıtay"),
-    ("Yargıtay 1. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 2. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 3. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 4. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 5. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 6. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 7. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 8. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 9. HD",       3, "hukuk", "yargıtay"),
-    ("Yargıtay 10. HD",      3, "hukuk", "yargıtay"),
-    ("Yargıtay 11. HD",      3, "hukuk", "yargıtay"),
-    ("Yargıtay 12. HD",      3, "hukuk", "yargıtay"),
-    ("Yargıtay 1. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 2. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 3. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 4. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 5. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 6. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 7. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 8. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 9. CD",       3, "ceza",  "yargıtay"),
-    ("Yargıtay 10. CD",      3, "ceza",  "yargıtay"),
-    ("Yargıtay 11. CD",      3, "ceza",  "yargıtay"),
-    ("Yargıtay 12. CD",      3, "ceza",  "yargıtay"),
-    # Adli yargı — BAM (17 operational)
-    ("İstanbul BAM",         2, "adli",  "bam"),
-    ("Ankara BAM",           2, "adli",  "bam"),
-    ("İzmir BAM",            2, "adli",  "bam"),
-    ("Bursa BAM",            2, "adli",  "bam"),
-    ("Antalya BAM",          2, "adli",  "bam"),
-    ("Samsun BAM",           2, "adli",  "bam"),
-    ("Konya BAM",            2, "adli",  "bam"),
-    ("Gaziantep BAM",        2, "adli",  "bam"),
-    ("Erzurum BAM",          2, "adli",  "bam"),
-    ("Diyarbakır BAM",       2, "adli",  "bam"),
-    ("Sakarya BAM",          2, "adli",  "bam"),
-    ("Trabzon BAM",          2, "adli",  "bam"),
-    ("Adana BAM",            2, "adli",  "bam"),
-    ("Kayseri BAM",          2, "adli",  "bam"),
-    ("Van BAM",              2, "adli",  "bam"),
-    ("Denizli BAM",          2, "adli",  "bam"),
-    ("Tekirdağ BAM",         2, "adli",  "bam"),
-    # Adli yargı — İlk derece (representative types)
-    ("Asliye Hukuk Mahkemesi",   1, "hukuk", "ilk_derece"),
-    ("Asliye Ceza Mahkemesi",    1, "ceza",  "ilk_derece"),
-    ("Ağır Ceza Mahkemesi",      1, "ceza",  "ilk_derece"),
-    ("İş Mahkemesi",             1, "hukuk", "ilk_derece"),
-    ("Aile Mahkemesi",           1, "hukuk", "ilk_derece"),
-    ("Asliye Ticaret Mahkemesi", 1, "hukuk", "ilk_derece"),
-    ("Sulh Hukuk Mahkemesi",     1, "hukuk", "ilk_derece"),
-    ("İcra Mahkemesi",           1, "hukuk", "ilk_derece"),
-    ("Tüketici Mahkemesi",       1, "hukuk", "ilk_derece"),
-    # İdari yargı — Danıştay (per 2020/62 + 2023/33 iş bölümü)
-    ("Danıştay",             4, "idari",  "danıştay"),
-    ("Danıştay İDDK",        4, "idari",  "danıştay"),
-    ("Danıştay VDDK",        4, "vergi",  "danıştay"),
-    ("Danıştay 2. D",        3, "idari",  "danıştay"),
-    ("Danıştay 3. D",        3, "vergi",  "danıştay"),
-    ("Danıştay 4. D",        3, "idari",  "danıştay"),
-    ("Danıştay 5. D",        3, "idari",  "danıştay"),
-    ("Danıştay 6. D",        3, "idari",  "danıştay"),
-    ("Danıştay 7. D",        3, "vergi",  "danıştay"),
-    ("Danıştay 8. D",        3, "idari",  "danıştay"),
-    ("Danıştay 9. D",        3, "vergi",  "danıştay"),
-    ("Danıştay 10. D",       3, "idari",  "danıştay"),
-    ("Danıştay 12. D",       3, "idari",  "danıştay"),
-    ("Danıştay 13. D",       3, "idari",  "danıştay"),
-    # İdari yargı — BİM (12 operational per May 2025)
-    ("İstanbul BİM",         2, "idari",  "bim"),
-    ("Ankara BİM",           2, "idari",  "bim"),
-    ("İzmir BİM",            2, "idari",  "bim"),
-    ("Adana BİM",            2, "idari",  "bim"),
-    ("Bursa BİM",            2, "idari",  "bim"),
-    ("Erzurum BİM",          2, "idari",  "bim"),
-    ("Gaziantep BİM",        2, "idari",  "bim"),
-    ("Konya BİM",            2, "idari",  "bim"),
-    ("Samsun BİM",           2, "idari",  "bim"),
-    ("Antalya BİM",          2, "idari",  "bim"),
-    ("Diyarbakır BİM",       2, "idari",  "bim"),
-    ("Kayseri BİM",          2, "idari",  "bim"),
-    # İdari yargı — İlk derece
-    ("İdare Mahkemesi",      1, "idari",  "ilk_derece"),
-    ("Vergi Mahkemesi",      1, "vergi",  "ilk_derece"),
-    # Anayasa Mahkemesi
-    ("Anayasa Mahkemesi",    4, "anayasa", "aym"),
-    # Uyuşmazlık
-    ("Uyuşmazlık Mahkemesi", 4, "karma",   "uyusmazlik"),
-]
-
-# (lower_court_name, higher_court_name)
-_APPEALS_TO = [
-    # Adli yargı
-    ("Asliye Hukuk Mahkemesi",   "İstanbul BAM"),
-    ("Asliye Ceza Mahkemesi",    "İstanbul BAM"),
-    ("Ağır Ceza Mahkemesi",      "İstanbul BAM"),
-    ("İş Mahkemesi",             "İstanbul BAM"),
-    ("Aile Mahkemesi",           "İstanbul BAM"),
-    ("Asliye Ticaret Mahkemesi", "İstanbul BAM"),
-    ("Sulh Hukuk Mahkemesi",     "İstanbul BAM"),
-    ("İstanbul BAM",  "Yargıtay"),
-    ("Ankara BAM",    "Yargıtay"),
-    ("İzmir BAM",     "Yargıtay"),
-    ("Bursa BAM",     "Yargıtay"),
-    ("Antalya BAM",   "Yargıtay"),
-    ("Samsun BAM",    "Yargıtay"),
-    ("Konya BAM",     "Yargıtay"),
-    ("Gaziantep BAM", "Yargıtay"),
-    ("Erzurum BAM",   "Yargıtay"),
-    ("Diyarbakır BAM","Yargıtay"),
-    ("Sakarya BAM",   "Yargıtay"),
-    ("Trabzon BAM",   "Yargıtay"),
-    ("Adana BAM",     "Yargıtay"),
-    ("Kayseri BAM",   "Yargıtay"),
-    ("Van BAM",       "Yargıtay"),
-    ("Denizli BAM",   "Yargıtay"),
-    ("Tekirdağ BAM",  "Yargıtay"),
-    # Daire → HGK/CGK (direnme path)
-    ("Yargıtay 1. HD",  "Yargıtay HGK"),
-    ("Yargıtay 2. HD",  "Yargıtay HGK"),
-    ("Yargıtay 3. HD",  "Yargıtay HGK"),
-    ("Yargıtay 4. HD",  "Yargıtay HGK"),
-    ("Yargıtay 5. HD",  "Yargıtay HGK"),
-    ("Yargıtay 6. HD",  "Yargıtay HGK"),
-    ("Yargıtay 7. HD",  "Yargıtay HGK"),
-    ("Yargıtay 8. HD",  "Yargıtay HGK"),
-    ("Yargıtay 9. HD",  "Yargıtay HGK"),
-    ("Yargıtay 10. HD", "Yargıtay HGK"),
-    ("Yargıtay 11. HD", "Yargıtay HGK"),
-    ("Yargıtay 12. HD", "Yargıtay HGK"),
-    ("Yargıtay 1. CD",  "Yargıtay CGK"),
-    ("Yargıtay 2. CD",  "Yargıtay CGK"),
-    ("Yargıtay 3. CD",  "Yargıtay CGK"),
-    ("Yargıtay 4. CD",  "Yargıtay CGK"),
-    ("Yargıtay 5. CD",  "Yargıtay CGK"),
-    ("Yargıtay 6. CD",  "Yargıtay CGK"),
-    ("Yargıtay 7. CD",  "Yargıtay CGK"),
-    ("Yargıtay 8. CD",  "Yargıtay CGK"),
-    ("Yargıtay 9. CD",  "Yargıtay CGK"),
-    ("Yargıtay 10. CD", "Yargıtay CGK"),
-    ("Yargıtay 11. CD", "Yargıtay CGK"),
-    ("Yargıtay 12. CD", "Yargıtay CGK"),
-    # İdari yargı
-    ("İdare Mahkemesi",  "İstanbul BİM"),
-    ("Vergi Mahkemesi",  "İstanbul BİM"),
-    ("İstanbul BİM",    "Danıştay"),
-    ("Ankara BİM",      "Danıştay"),
-    ("İzmir BİM",       "Danıştay"),
-    ("Adana BİM",       "Danıştay"),
-    ("Bursa BİM",       "Danıştay"),
-    ("Erzurum BİM",     "Danıştay"),
-    ("Gaziantep BİM",   "Danıştay"),
-    ("Konya BİM",       "Danıştay"),
-    ("Samsun BİM",      "Danıştay"),
-    ("Antalya BİM",     "Danıştay"),
-    ("Diyarbakır BİM",  "Danıştay"),
-    ("Kayseri BİM",     "Danıştay"),
-    # Danıştay daire → kurul (ısrar path)
-    ("Danıştay 2. D",   "Danıştay İDDK"),
-    ("Danıştay 4. D",   "Danıştay İDDK"),
-    ("Danıştay 5. D",   "Danıştay İDDK"),
-    ("Danıştay 6. D",   "Danıştay İDDK"),
-    ("Danıştay 8. D",   "Danıştay İDDK"),
-    ("Danıştay 10. D",  "Danıştay İDDK"),
-    ("Danıştay 12. D",  "Danıştay İDDK"),
-    ("Danıştay 13. D",  "Danıştay İDDK"),
-    ("Danıştay 3. D",   "Danıştay VDDK"),
-    ("Danıştay 7. D",   "Danıştay VDDK"),
-    ("Danıştay 9. D",   "Danıştay VDDK"),
-]
-
-
-def upsert_court_hierarchy(session: Session) -> None:
-    """Create or update all static Court nodes and APPEALS_TO relationships."""
-    for name, level, branch, pillar in _COURTS:
-        session.run(
-            "MERGE (c:Court {name: $name}) "
-            "SET c.level = $level, c.branch = $branch, c.pillar = $pillar",
-            name=name, level=level, branch=branch, pillar=pillar,
-        )
-    for lower, higher in _APPEALS_TO:
-        session.run(
-            "MATCH (lo:Court {name: $lower}) "
-            "MATCH (hi:Court {name: $higher}) "
-            "MERGE (lo)-[:APPEALS_TO]->(hi)",
-            lower=lower, higher=higher,
-        )
+# Court type-level metadata — individual court nodes are created dynamically
+# from MongoDB data; this dict only encodes structural facts about each type.
+# level: 1=İlk Derece, 2=BAM/BİM, 3=Daire, 4=Yargıtay/Danıştay/AYM
+# apex: the next court up in the appeal chain (None for apex courts)
+_COURT_TYPE_META: dict[str, dict] = {
+    "BAM":        {"level": 2, "pillar": "bam",        "apex": "Yargıtay"},
+    "BİM":        {"level": 2, "pillar": "bim",        "apex": "Danıştay"},
+    "Yargıtay":   {"level": 4, "pillar": "yargıtay",   "apex": None},
+    "Danıştay":   {"level": 4, "pillar": "danıştay",   "apex": None},
+    "AYM":        {"level": 4, "pillar": "aym",        "apex": None},
+    "Sayıştay":   {"level": 4, "pillar": "sayıştay",   "apex": None},
+    "Uyuşmazlık": {"level": 4, "pillar": "uyusmazlik", "apex": None},
+    "AİHM":       {"level": 5, "pillar": "aihm",       "apex": None},
+    "İlk Derece": {"level": 1, "pillar": "ilk_derece", "apex": None},
+    "Tüketici":   {"level": 1, "pillar": "ilk_derece", "apex": None},
+}
 
 
 # ---------------------------------------------------------------------------
@@ -329,6 +153,24 @@ def _upsert_batch_with_retry(batch: list[dict]) -> None:
                 raise
 
 
+def _derive_parent_court(court: str, daire: str) -> str:
+    """Return the static Court node name that is the parent of this daire.
+
+    BAM daireleri MongoDB'de "{Şehir} Bölge Adliye Mahkemesi N. X Dairesi"
+    formatındadır; statik hiyerarşide ise "{Şehir} BAM" olarak kayıtlıdır.
+    BİM daireleri ise zaten "{Şehir} BİM N. İDD/VDD" formatındadır.
+    """
+    if court == "BAM":
+        m = re.match(r"^(.*?) Bölge Adliye Mahkemesi", daire)
+        if m:
+            return f"{m.group(1)} BAM"
+    elif court == "BİM":
+        m = re.match(r"^(.*? BİM)\b", daire)
+        if m:
+            return m.group(1)
+    return court
+
+
 def upsert_documents(
     conn,
     start_offset: int = 0,
@@ -356,16 +198,23 @@ def upsert_documents(
     total = start_offset
     batch: list[dict] = []
     for row in rows[start_offset:]:
+        court = row[1] or ""
+        daire = row[2] or ""
+        meta  = _COURT_TYPE_META.get(court, {})
         batch.append({
-            "doc_id":         row[0],
-            "court":          row[1] or "",
-            "daire":          row[2] or "",
-            "court_level":    row[3] or 0,
-            "esas_no":        row[4] or "",
-            "karar_no":       row[5] or "",
-            "decision_date":  str(row[6] or ""),
-            "law_branch":     row[7] or "",
-            "pagerank_score": float(row[8] or 0.0),
+            "doc_id":              row[0],
+            "court":               court,
+            "daire":               daire,
+            "parent_court":        _derive_parent_court(court, daire),
+            "parent_court_level":  meta.get("level", 0),
+            "parent_court_pillar": meta.get("pillar", ""),
+            "apex_court":          meta.get("apex") or "",
+            "court_level":         row[3] or 0,
+            "esas_no":             row[4] or "",
+            "karar_no":            row[5] or "",
+            "decision_date":       str(row[6] or ""),
+            "law_branch":          row[7] or "",
+            "pagerank_score":      float(row[8] or 0.0),
         })
         if len(batch) >= _BATCH_SIZE:
             _upsert_batch_with_retry(batch)
@@ -399,7 +248,7 @@ def _upsert_doc_batch(session: Session, batch: list[dict]) -> None:
             "    d.pagerank_score = row.pagerank_score",
             batch=batch,
         )
-        # Step 2: link to specific daire Court node
+        # Step 2: daire Court node'unu oluştur, parent ve apex'e bağla
         tx.run(
             "UNWIND $batch AS row "
             "WITH row WHERE row.daire <> '' "
@@ -410,22 +259,31 @@ def _upsert_doc_batch(session: Session, batch: list[dict]) -> None:
             "              dc.pillar = 'corpus' "
             "MERGE (d)-[:IN_COURT]->(dc) "
             "WITH dc, row "
-            "WHERE row.court <> '' AND row.court <> row.daire "
-            "OPTIONAL MATCH (gc:Court {name: row.court}) "
-            "FOREACH (_ IN CASE WHEN gc IS NOT NULL THEN [1] ELSE [] END | "
-            "  MERGE (dc)-[:PART_OF]->(gc) "
-            ")",
+            "WHERE row.parent_court <> '' AND row.parent_court <> row.daire "
+            "MERGE (gc:Court {name: row.parent_court}) "
+            "ON CREATE SET gc.level  = row.parent_court_level, "
+            "              gc.branch = row.law_branch, "
+            "              gc.pillar = row.parent_court_pillar "
+            "MERGE (dc)-[:PART_OF]->(gc) "
+            "WITH gc, row "
+            "WHERE row.apex_court <> '' "
+            "MERGE (apex:Court {name: row.apex_court}) "
+            "ON CREATE SET apex.level  = row.parent_court_level + 2, "
+            "              apex.branch = row.law_branch, "
+            "              apex.pillar = row.parent_court_pillar "
+            "MERGE (gc)-[:APPEALS_TO]->(apex)",
             batch=batch,
         )
-        # Step 3: fallback for documents with empty daire
+        # Step 3: daire boş olan belgeler doğrudan parent court'a bağlanır
         tx.run(
             "UNWIND $batch AS row "
-            "WITH row WHERE row.daire = '' AND row.court <> '' "
+            "WITH row WHERE row.daire = '' AND row.parent_court <> '' "
             "MATCH (d:Document {doc_id: row.doc_id}) "
-            "OPTIONAL MATCH (gc:Court {name: row.court}) "
-            "FOREACH (_ IN CASE WHEN gc IS NOT NULL THEN [1] ELSE [] END | "
-            "  MERGE (d)-[:IN_COURT]->(gc) "
-            ")",
+            "MERGE (gc:Court {name: row.parent_court}) "
+            "ON CREATE SET gc.level  = row.parent_court_level, "
+            "              gc.branch = row.law_branch, "
+            "              gc.pillar = row.parent_court_pillar "
+            "MERGE (d)-[:IN_COURT]->(gc)",
             batch=batch,
         )
         # Step 4: link to LegalBranch

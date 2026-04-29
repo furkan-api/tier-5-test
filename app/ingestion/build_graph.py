@@ -222,7 +222,6 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
     from neo4j.exceptions import ServiceUnavailable, WriteServiceUnavailable
     from app.graph.neo4j_sync import (
         init_schema,
-        upsert_court_hierarchy,
         upsert_legal_branches,
         upsert_laws,
         upsert_documents,
@@ -239,7 +238,6 @@ def _sync_to_neo4j(conn, resolved, all_law_refs) -> None:
         log.info("Initialising Neo4j schema...")
         with get_session() as session:
             init_schema(session)
-            upsert_court_hierarchy(session)
             upsert_legal_branches(session)
             upsert_laws(session)
         ckpt["schema_done"] = True
