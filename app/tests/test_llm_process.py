@@ -68,6 +68,8 @@ class ParseArgsTests(unittest.TestCase):
             "yargitay", "--corpus-dir", "/tmp/c",
             "--output-dir", "/tmp/o", "--limit", "3", "--force",
             "--model", "gemini-2.5-pro",
+            "--base-url", "http://localhost:11434/v1",
+            "--api-key", "ollama",
         ])
         self.assertEqual(ns.filter, "yargitay")
         self.assertEqual(ns.corpus_dir, Path("/tmp/c"))
@@ -75,6 +77,8 @@ class ParseArgsTests(unittest.TestCase):
         self.assertEqual(ns.limit, 3)
         self.assertTrue(ns.force)
         self.assertEqual(ns.model, "gemini-2.5-pro")
+        self.assertEqual(ns.base_url, "http://localhost:11434/v1")
+        self.assertEqual(ns.api_key, "ollama")
 
 
 class SelectFilesTests(unittest.TestCase):
@@ -266,9 +270,77 @@ class ScoringIntegrationTests(unittest.TestCase):
             self.assertAlmostEqual(field_avg["keywords"], 0.6667, places=3)
 
 
+class BuildExtractorTests(unittest.TestCase):
+    """`build_extractor` must dispatch on whether a base URL is set."""
+
+    def _settings_stub(self, **overrides):
+        from types import SimpleNamespace
+        defaults = dict(
+            llm_extract_model="m",
+            llm_extract_base_url=None,
+            llm_extract_api_key="",
+            gemini_api_key="",
+        )
+        defaults.update(overrides)
+        return SimpleNamespace(**defaults)
+
+    def test_picks_openai_backend_when_base_url_set(self):
+        ns = parse_args(["--base-url", "http://localhost:11434/v1",
+                         "--api-key", "ollama"])
+        settings = self._settings_stub()
+
+        # Stub the OpenAI client so no real connection is opened.
+        captured = {}
+        import openai
+
+        class StubClient:
+            def __init__(self, *, api_key, base_url):
+                captured["api_key"] = api_key
+                captured["base_url"] = base_url
+
+        original = openai.OpenAI
+        openai.OpenAI = StubClient
+        try:
+            extractor = llm_process.build_extractor(ns, settings, "PROMPT")
+        finally:
+            openai.OpenAI = original
+
+        self.assertIsInstance(extractor, llm_process.OpenAICompatibleExtractor)
+        self.assertEqual(captured["base_url"], "http://localhost:11434/v1")
+        self.assertEqual(captured["api_key"], "ollama")
+
+    def test_falls_back_to_gemini_key_when_no_explicit_api_key(self):
+        ns = parse_args(["--base-url", "http://x/v1"])
+        settings = self._settings_stub(gemini_api_key="GEMINI_FALLBACK")
+
+        captured = {}
+        import openai
+
+        class StubClient:
+            def __init__(self, *, api_key, base_url):
+                captured["api_key"] = api_key
+
+        original = openai.OpenAI
+        openai.OpenAI = StubClient
+        try:
+            llm_process.build_extractor(ns, settings, "PROMPT")
+        finally:
+            openai.OpenAI = original
+
+        self.assertEqual(captured["api_key"], "GEMINI_FALLBACK")
+
+    def test_errors_when_neither_backend_configured(self):
+        ns = parse_args([])
+        settings = self._settings_stub()
+        with self.assertRaises(RuntimeError):
+            llm_process.build_extractor(ns, settings, "PROMPT")
+
+
 def _import_helper_check():
     """`llm_process` must expose the helpers tests rely on."""
     assert hasattr(llm_process, "GeminiExtractor")
+    assert hasattr(llm_process, "OpenAICompatibleExtractor")
+    assert hasattr(llm_process, "build_extractor")
     assert hasattr(llm_process, "process_files")
     assert hasattr(llm_process, "select_files")
     assert hasattr(llm_process, "write_output")

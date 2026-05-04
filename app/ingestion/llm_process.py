@@ -2,18 +2,27 @@
 """
 LLM-based extraction of structured records from Turkish court decisions.
 
-For each `*.md` file in the corpus directory, calls a Gemini model with the
+For each `*.md` file in the corpus directory, calls an LLM with the
 extraction system prompt, parses the response as JSON, and writes one
-`<stem>.json` next to the others in the output directory. Malformed JSON is
-preserved as `<stem>.raw.txt` for inspection.
+`<stem>.json` to the output directory. Malformed JSON is preserved as
+`<stem>.raw.txt` for inspection.
+
+Two backends are supported, chosen automatically:
+  * If `--base-url` / `LLM_EXTRACT_BASE_URL` is set, an OpenAI-compatible
+    client is used (works with Ollama, vLLM, LM Studio, llama.cpp's
+    server, Gemini's /v1beta/openai/ endpoint, etc.).
+  * Otherwise the native `google.genai` SDK is used against
+    `gemini_api_key`.
 
 Usage:
     python -m app.ingestion.llm_process                       # all files
     python -m app.ingestion.llm_process <substring>           # filename filter
     python -m app.ingestion.llm_process --force               # overwrite existing
-    python -m app.ingestion.llm_process --limit 50            # process first N matches
+    python -m app.ingestion.llm_process --limit 50            # first N matches
     python -m app.ingestion.llm_process --output-dir DIR      # override output
     python -m app.ingestion.llm_process --model MODEL_ID      # override model
+    python -m app.ingestion.llm_process --base-url URL        # local LLM server
+    python -m app.ingestion.llm_process --api-key KEY         # endpoint key
 """
 
 from __future__ import annotations
@@ -44,6 +53,16 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--output-dir", type=Path, default=None)
     parser.add_argument("--system-prompt", type=Path, default=None)
     parser.add_argument("--model", type=str, default=None)
+    parser.add_argument(
+        "--base-url", type=str, default=None,
+        help=("OpenAI-compatible endpoint (e.g. http://localhost:11434/v1 "
+              "for Ollama). When set, native Gemini SDK is bypassed."),
+    )
+    parser.add_argument(
+        "--api-key", type=str, default=None,
+        help=("API key for the OpenAI-compatible endpoint. Local servers "
+              "usually accept any non-empty value."),
+    )
     parser.add_argument("--limit", type=int, default=None,
                         help="Process at most N files (after filtering).")
     parser.add_argument("--force", action="store_true",
@@ -98,6 +117,34 @@ class GeminiExtractor:
             config=self._config,
         )
         return response.text or ""
+
+
+class OpenAICompatibleExtractor:
+    """OpenAI-compatible chat-completions client. Works with Ollama, vLLM,
+    LM Studio, llama.cpp server, and any other server exposing the
+    `/v1/chat/completions` interface."""
+
+    def __init__(self, *, api_key: str, base_url: str, model: str,
+                 system_prompt: str):
+        from openai import OpenAI
+
+        # Local servers often require *some* key; fall back to a placeholder.
+        self._client = OpenAI(api_key=api_key or "not-needed", base_url=base_url)
+        self._model = model
+        self._system_prompt = system_prompt
+
+    def extract(self, *, filename: str, body: str) -> str:
+        user_message = f"Filename: {filename}\n\n---\n\n{body}"
+        response = self._client.chat.completions.create(
+            model=self._model,
+            messages=[
+                {"role": "system", "content": self._system_prompt},
+                {"role": "user", "content": user_message},
+            ],
+            temperature=0,
+            response_format={"type": "json_object"},
+        )
+        return response.choices[0].message.content or ""
 
 
 def write_output(
@@ -161,13 +208,34 @@ def resolve_paths(
     return corpus_dir, output_dir, system_prompt_path
 
 
+def build_extractor(args: argparse.Namespace, settings: Settings,
+                    system_prompt: str):
+    """Choose the right backend based on whether a base URL is configured."""
+    model = args.model or settings.llm_extract_model
+    base_url = args.base_url or settings.llm_extract_base_url
+    if base_url:
+        api_key = (args.api_key or settings.llm_extract_api_key
+                   or settings.gemini_api_key)
+        log.info("Using OpenAI-compatible backend: %s", base_url)
+        return OpenAICompatibleExtractor(
+            api_key=api_key, base_url=base_url,
+            model=model, system_prompt=system_prompt,
+        )
+    if not settings.gemini_api_key:
+        raise RuntimeError(
+            "No --base-url set and GEMINI_API_KEY missing — cannot pick a "
+            "backend. Set one of them in .env or on the CLI."
+        )
+    log.info("Using native Gemini backend.")
+    return GeminiExtractor(
+        api_key=settings.gemini_api_key,
+        model=model, system_prompt=system_prompt,
+    )
+
+
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(sys.argv[1:] if argv is None else argv)
     settings = get_settings()
-
-    if not settings.gemini_api_key:
-        log.error("GEMINI_API_KEY is not set in environment / .env")
-        return 1
 
     corpus_dir, output_dir, system_prompt_path = resolve_paths(args, settings)
     if not corpus_dir.is_dir():
@@ -191,11 +259,12 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     system_prompt = system_prompt_path.read_text(encoding="utf-8")
-    extractor = GeminiExtractor(
-        api_key=settings.gemini_api_key,
-        model=args.model or settings.llm_extract_model,
-        system_prompt=system_prompt,
-    )
+    try:
+        extractor = build_extractor(args, settings, system_prompt)
+    except RuntimeError as exc:
+        log.error("%s", exc)
+        return 1
+
     stats = process_files(files, extractor, output_dir)
     log.info("Done — ok=%d invalid_json=%d errors=%d skipped=%d",
              stats["ok"], stats["invalid_json"], stats["errors"], len(skipped))

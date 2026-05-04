@@ -36,6 +36,13 @@ class Settings(BaseSettings):
 
     # LLM-based decision extraction (app.ingestion.llm_process)
     llm_extract_model: str = "gemini-2.5-flash-lite"
+    # When set, switch from the native Gemini SDK to an OpenAI-compatible
+    # client pointed at this base URL. Works with Ollama, vLLM, LM Studio,
+    # llama.cpp's server, and Gemini's /v1beta/openai/ endpoint.
+    llm_extract_base_url: str | None = None
+    # API key for the OpenAI-compatible endpoint. Local servers usually
+    # accept any non-empty value (e.g. "ollama"); falls back to gemini_api_key.
+    llm_extract_api_key: str = ""
     llm_extract_system_prompt: Path = (
         Path(__file__).resolve().parent.parent
         / "ingestion" / "prompts" / "decision_extraction_v2.md"
