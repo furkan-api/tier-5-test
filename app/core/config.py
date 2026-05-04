@@ -34,6 +34,21 @@ class Settings(BaseSettings):
     # MongoDB
     mongo_url: str = ""
 
+    # LLM-based decision extraction (app.ingestion.llm_process)
+    llm_extract_model: str = "gemini-2.5-flash-lite"
+    llm_extract_system_prompt: Path = (
+        Path(__file__).resolve().parent.parent
+        / "ingestion" / "prompts" / "decision_extraction_v2.md"
+    )
+    llm_extract_output_dir: Path = (
+        Path(__file__).resolve().parent.parent.parent
+        / "eval" / "llm_extractions"
+    )
+    llm_extract_gold_dir: Path = (
+        Path(__file__).resolve().parent.parent.parent
+        / "eval" / "llm_extractions_gold"
+    )
+
     model_config = {"env_file": ".env", "extra": "ignore", "env_file_encoding": "utf-8"}
 
 
