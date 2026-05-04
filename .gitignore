@@ -11,3 +11,6 @@ corpus/*
 *.ovpn
 scratch/
 tmp/
+eval/llm_extractions/*
+eval/llm_extractions_gold/*
+eval/scores/

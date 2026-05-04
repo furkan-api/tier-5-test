@@ -91,7 +91,7 @@ The downstream system is a GraphRAG over the entirety of Turkish jurisprudence �
       "relation": "<'referenced' | 'chained'>",
       "outcome": "<canonical outcome when relation='chained', else null>",
       "treatment": "<'Follows' | 'Distinguishes' | 'Neutral' when relation='referenced', else null>",
-      "context": "<one Turkish sentence: function of this citation in the reasoning>"
+      "context": "<short Turkish phrase, ≤ 15 words: function of this citation in the reasoning>"
     }
   ],
 
@@ -100,7 +100,7 @@ The downstream system is a GraphRAG over the entirety of Turkish jurisprudence �
       "law": "<full Turkish name of the law, abbreviation expanded>",
       "law_number": "<X sayılı number as string, or null>",
       "article": "<article number with sub-paragraph, or null>",
-      "context": "<one Turkish sentence: function of the article in the reasoning>"
+      "context": "<short Turkish phrase, ≤ 15 words: function of the article in the reasoning>"
     }
   ]
 }
@@ -343,7 +343,7 @@ Field-by-field rules:
   - When in doubt, use `referenced`.
 - `outcome` — only when `relation = "chained"`. Use the canonical outcome enum for the cited decision's court_type. This expresses what THIS decision did to the chained decision (e.g., temyiz review → `Onama`/`Bozma`). For AYM bireysel başvuru chains, since AYM does not directly bozar but sends back for retrial, leaving `outcome = null` is acceptable.
 - `treatment` — only when `relation = "referenced"`: `Follows` (the decision relies on the cited authority and reaches the same result; `yerleşik içtihat` and `müstakar uygulama` phrasings are typical signals) / `Distinguishes` (the decision departs from the cited authority due to factual difference) / `Neutral` (the citation is informational only, or merely raised by a party). When in doubt, use `Neutral`. Phrasings such as "genişleterek uygulama" and "kıyasen uygulama" are still classified as `Follows`; record any extra nuance in `context`.
-- `context`: one Turkish sentence describing the citation's function in the reasoning (no party names).
+- `context`: short Turkish phrase (≤ 15 words) describing the citation's function in the reasoning (no party names). Aim for a noun phrase or clause, not a full sentence — these strings appear hundreds of times per long decision and verbosity here is what most often pushes the response past the model's output cap.
 
 ## cited_law_articles — citation graph (statute side)
 
@@ -388,7 +388,7 @@ Field rules:
   - For yönetmelik citations — write the full official name of the regulation; set `law_number = null`.
 - `law_number` — string holding the official act number (`"6100"`, `"657"`, `"6098"`, `"6102"`, `"5237"`, etc.). Use `null` only when the act number cannot be determined (international conventions, regulations, historical statutes without an assigned number).
 - `article` — article number with sub-paragraph if given (`"638/2"`, `"349/2"`, `"4"`, `"36"`). `null` if the law is cited generally with no specific article.
-- `context` — one Turkish sentence describing the article's function in the reasoning (no party names).
+- `context` — short Turkish phrase (≤ 15 words) describing the article's function in the reasoning (no party names). Aim for a noun phrase or clause, not a full sentence — these strings appear hundreds of times per long decision and verbosity here is what most often pushes the response past the model's output cap.
 
 # Few-shot examples
 
@@ -482,7 +482,7 @@ Field rules:
       "relation": "referenced",
       "outcome": null,
       "treatment": "Follows",
-      "context": "Yargıtay Onuncu Hukuk Dairesinin konuya ilişkin yerleşik uygulamasını yansıtan emsal karar olarak gerekçenin temel dayanaklarından biridir."
+      "context": "Onuncu HD'nin yerleşik içtihadını yansıtan emsal karar."
     },
     {
       "court": "Anayasa Mahkemesi",
@@ -492,7 +492,7 @@ Field rules:
       "relation": "referenced",
       "outcome": null,
       "treatment": "Follows",
-      "context": "3201 sayılı Yasanın 3. maddesindeki kesin dönüş şartını iptal eden norm denetimi kararı uyarınca eski şartın somut olaya uygulanmayacağı sonucuna ulaşılmıştır."
+      "context": "Kesin dönüş şartını iptal eden norm denetimi kararı; eski şart somut olaya uygulanmaz."
     }
   ],
   "cited_law_articles": [
@@ -500,31 +500,31 @@ Field rules:
       "law": "Yurt Dışında Bulunan Türk Vatandaşlarının Yurt Dışında Geçen Sürelerinin Sosyal Güvenlikleri Bakımından Değerlendirilmesi Hakkında Kanun",
       "law_number": "3201",
       "article": "2",
-      "context": "'Sürelerin değerlendirilmesi' tanımı uyarınca borçlanma için Türk vatandaşlığının yalnızca istek tarihinde aranacağı sonucuna dayanak oluşturmuştur."
+      "context": "'Sürelerin değerlendirilmesi' tanımı; vatandaşlık yalnızca istek tarihinde aranır."
     },
     {
       "law": "Yurt Dışında Bulunan Türk Vatandaşlarının Yurt Dışında Geçen Sürelerinin Sosyal Güvenlikleri Bakımından Değerlendirilmesi Hakkında Kanun",
       "law_number": "3201",
       "article": "3",
-      "context": "Kesin dönüş şartını düzenleyen, AYM iptali sonrası 4958 sayılı Yasayla yeniden düzenlenen hüküm tartışılmıştır."
+      "context": "Kesin dönüş şartı; AYM iptali sonrası 4958 sayılı Yasa ile yeniden düzenlendi."
     },
     {
       "law": "Türkiye Cumhuriyeti Anayasası",
       "law_number": "2709",
       "article": "10",
-      "context": "Eşitlik ilkesi sonradan vatandaş olanlarla doğuştan vatandaş olanlar arasında borçlanma hakkı bakımından farklılık gözetmeyi engeller."
+      "context": "Eşitlik ilkesi; sonradan ve doğuştan vatandaş arasında borçlanma farkı yapılamaz."
     },
     {
       "law": "Türkiye Cumhuriyeti Anayasası",
       "law_number": "2709",
       "article": "124",
-      "context": "Yönetmeliklerin kanun ve tüzüklere aykırı hüküm taşıyamayacağı kuralı uyarınca davalı Kurumun yönetmelik dayanağı reddedilmiştir."
+      "context": "Yönetmeliklerin kanuna aykırı olamayacağı; Kurumun yönetmelik dayanağı reddedildi."
     },
     {
       "law": "Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
       "law_number": "4958",
       "article": "56",
-      "context": "3201 sayılı Yasanın 3. maddesinde AYM iptali sonrası yapılan değişikliği getiren hüküm olarak anılmıştır."
+      "context": "3201 m.3'te AYM iptali sonrası değişikliği getiren hüküm."
     }
   ]
 }
@@ -621,7 +621,7 @@ Field rules:
       "relation": "referenced",
       "outcome": null,
       "treatment": "Follows",
-      "context": "Selahattin Akyıl başvurusunda makul sürede yargılanma hakkına ilişkin değerlendirme kriterleri belirlenmiş; somut olayda da bu kriterler uygulanmıştır."
+      "context": "Makul sürede yargılanma kriterlerini belirleyen emsal AYM kararı."
     },
     {
       "court": "Mardin 1. İdare Mahkemesi",
@@ -631,7 +631,7 @@ Field rules:
       "relation": "chained",
       "outcome": null,
       "treatment": null,
-      "context": "Başvuruya konu yargılamayı yapan idare mahkemesi olup bilgi için kararın bir örneği gönderilmiştir."
+      "context": "Başvuruya konu yargılamayı yapan ilk derece idare mahkemesi."
     },
     {
       "court": "Danıştay 12. Dairesi",
@@ -641,7 +641,7 @@ Field rules:
       "relation": "chained",
       "outcome": null,
       "treatment": null,
-      "context": "Başvuruya konu yargılamada üst mahkeme sıfatıyla yer almış olup bilgi için kararın bir örneği gönderilmiştir."
+      "context": "Başvuruya konu yargılamada üst mahkeme sıfatıyla yer almıştır."
     }
   ],
   "cited_law_articles": [
@@ -649,13 +649,13 @@ Field rules:
       "law": "Türkiye Cumhuriyeti Anayasası",
       "law_number": "2709",
       "article": "36",
-      "context": "Adil yargılanma ve makul sürede yargılanma haklarının anayasal dayanağı olarak somut olayda ihlal edildiği tespit edilmiştir."
+      "context": "Adil yargılanma ve makul sürede yargılanma haklarının anayasal dayanağı; ihlal tespiti."
     },
     {
       "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
       "law_number": "6216",
       "article": "50",
-      "context": "Esas inceleme sonunda ihlal kararı verilmesi halinde tazminat ve giderim usulü düzenlenmiş; başvurucuya manevi tazminata hükmedilmesinin dayanağı olmuştur."
+      "context": "İhlal halinde tazminat ve giderim usulü; manevi tazminat hükmünün dayanağı."
     }
   ]
 }

@@ -729,12 +729,14 @@ def main(argv: list[str]) -> int:
                         help="Optional column labels (one per result_dir)")
     parser.add_argument("--report",
                         help="JSON report path (default: "
-                             "<result_dir>_score.json, or comparison_score.json "
-                             "for multi-folder mode).")
+                             "eval/scores/<result_dir>_score.json, or "
+                             "eval/scores/comparison_score.json for "
+                             "multi-folder mode).")
     parser.add_argument("--text",
                         help="Text report path (default: "
-                             "<result_dir>_score.txt, or comparison_score.txt "
-                             "for multi-folder mode).")
+                             "eval/scores/<result_dir>_score.txt, or "
+                             "eval/scores/comparison_score.txt for "
+                             "multi-folder mode).")
     parser.add_argument("--no-files", action="store_true",
                         help="Skip writing report files.")
     parser.add_argument("--quiet", "-q", action="store_true",
@@ -761,13 +763,16 @@ def main(argv: list[str]) -> int:
               file=sys.stderr)
         return 2
 
-    # Default output paths.
+    # Default output paths. Reports land in `eval/scores/` (sibling of this
+    # script's parent) so the repo root stays clean; explicit --report/--text
+    # paths are honored verbatim.
     if len(result_dirs) == 1:
         default_stem = result_dirs[0].name.strip().replace(" ", "_") + "_score"
     else:
         default_stem = "comparison_score"
-    json_path = Path(args.report) if args.report else Path(default_stem + ".json")
-    text_path = Path(args.text) if args.text else Path(default_stem + ".txt")
+    default_dir = Path(__file__).resolve().parent.parent / "scores"
+    json_path = Path(args.report) if args.report else default_dir / (default_stem + ".json")
+    text_path = Path(args.text) if args.text else default_dir / (default_stem + ".txt")
 
     # Capture human report to stdout (unless --quiet) and to a string buffer.
     text_buf = io.StringIO()
@@ -790,6 +795,8 @@ def main(argv: list[str]) -> int:
         json_payload = {n: r for n, r in zip(names, reports)}
 
     if not args.no_files:
+        json_path.parent.mkdir(parents=True, exist_ok=True)
+        text_path.parent.mkdir(parents=True, exist_ok=True)
         json_path.write_text(
             json.dumps(json_payload, ensure_ascii=False, indent=2),
             encoding="utf-8",
