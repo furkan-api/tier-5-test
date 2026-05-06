@@ -13,44 +13,58 @@
 
 ## 1. Court Hierarchy (Yargı Teşkilatı)
 
-Turkey's judiciary has **four pillars:**
+Turkey's judiciary spans **five pillars** — four domestic plus the international layer (AİHM, by Anayasa m.90).
+The diagram below also shows the system's `court_level` integer (1–5) used in retrieval/graph code:
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    ANAYASA MAHKEMESİ                                    │
-│                  (Constitutional Court)                                  │
-│         Norm review, individual applications (bireysel başvuru)         │
+┌─────────────────────────────────────────────────────────────────────────┐  level 5
+│             AİHM (Avrupa İnsan Hakları Mahkemesi — Strasbourg)          │  ULUSLARARASI
+│         Reachable after AYM bireysel başvuru (Anayasa m.90)             │
 └─────────────────────────────────────────────────────────────────────────┘
+                                   ▲
+┌────────────────────────────────────────┐  ┌─────────────────────────┐    level 4
+│         ANAYASA MAHKEMESİ              │  │  UYUŞMAZLIK MAHKEMESİ   │    ANAYASAL +
+│       (Constitutional Court)           │  │  (Jurisdictional        │    UYUŞMAZLIK
+│ Norm review, bireysel başvuru          │  │   Disputes — final)     │
+└────────────────────────────────────────┘  └─────────────────────────┘
 
-┌──────────────────────────┐  ┌──────────────────────────┐  ┌────────────┐
-│     ADLİ YARGI           │  │     İDARİ YARGI          │  │ UYUŞMAZLIK │
-│  (Ordinary Judiciary)    │  │ (Administrative Judiciary)│  │ MAHKEMESİ  │
-├──────────────────────────┤  ├──────────────────────────┤  │(Jurisdict. │
-│                          │  │                          │  │ Disputes)  │
-│  YARGITAY                │  │  DANIŞTAY                │  └────────────┘
-│  (Court of Cassation)    │  │  (Council of State)      │
-│  - Hukuk Daireleri       │  │  - İdari Dava Daireleri  │
-│  - Ceza Daireleri        │  │  - Vergi Dava Daireleri  │
-│  - Hukuk Genel Kurulu    │  │  - İDDK, VDDK            │
-│  - Ceza Genel Kurulu     │  │  - İçtihadı Birleştirme  │
-│  - İçtihadı Birleştirme  │  │                          │
-│          ▲               │  │          ▲               │
-│     TEMYİZ               │  │     TEMYİZ               │
-│          │               │  │          │               │
-│  BÖLGE ADLİYE            │  │  BÖLGE İDARE             │
-│  MAHKEMELERİ (BAM)       │  │  MAHKEMELERİ (BİM)      │
-│  (Regional Appeal Courts)│  │  (Regional Admin Courts) │
-│  - 17 across Turkey      │  │  - 12 across Turkey      │
-│  - Est. operational 2016 │  │                          │
-│          ▲               │  │          ▲               │
-│     İSTİNAF              │  │     İSTİNAF              │
-│          │               │  │          │               │
-│  İLK DERECE              │  │  İLK DERECE              │
-│  (First Instance)        │  │  (First Instance)        │
-│  See table below         │  │  - İdare Mahkemesi       │
-│                          │  │  - Vergi Mahkemesi       │
-└──────────────────────────┘  └──────────────────────────┘
+┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────┐  level 3
+│     ADLİ YARGI       │  │     İDARİ YARGI      │  │     SAYIŞTAY     │  TEMYİZ
+│ (Ordinary Judiciary) │  │ (Admin. Judiciary)   │  │ (Hesap Yargısı —  │
+├──────────────────────┤  ├──────────────────────┤  │  audit / fiscal) │
+│  YARGITAY            │  │  DANIŞTAY            │  │  - 8 daireler    │
+│  (Cassation)         │  │  (Council of State)  │  │  - Temyiz Kurulu │
+│  - Hukuk Daireleri   │  │  - İdari Dava Dair.  │  └──────────────────┘
+│  - Ceza Daireleri    │  │  - Vergi Dava Dair.  │
+│  - HGK / CGK         │  │  - İDDK / VDDK       │
+│  - İçtihadı Birleşt. │  │  - İçtihadı Birleşt. │
+│          ▲           │  │          ▲           │
+│     TEMYİZ           │  │     TEMYİZ           │
+│          │           │  │          │           │
+│  BÖLGE ADLİYE        │  │  BÖLGE İDARE         │                         level 2
+│  MAHKEMELERİ (BAM)   │  │  MAHKEMELERİ (BİM)  │                         İSTİNAF
+│  - 17 across Turkey  │  │  - 12 across Turkey  │
+│  - Operational 2016  │  │                      │
+│          ▲           │  │          ▲           │
+│     İSTİNAF          │  │     İSTİNAF          │
+│          │           │  │          │           │
+│  İLK DERECE          │  │  İLK DERECE          │                         level 1
+│  (First Instance)    │  │  - İdare Mahkemesi   │                         İLK DERECE
+│  See table below     │  │  - Vergi Mahkemesi   │
+└──────────────────────┘  └──────────────────────┘
 ```
+
+**`court_level` mapping (used by `infer_court_level` and Neo4j `_COURT_TYPE_META`):**
+
+| Level | Pillar | Mahkemeler |
+|---:|---|---|
+| 1 | İlk Derece | Asliye, sulh, idare, vergi, iş, ticaret, tüketici, fikri sınai, asliye ceza, icra hukuk |
+| 2 | İstinaf | BAM, BİM |
+| 3 | Temyiz | Yargıtay (HD/CD + HGK/CGK + İBK), Danıştay (D + İDDK/VDDK + İBK), Sayıştay (daireler) |
+| 4 | Anayasal + Uyuşmazlık | AYM, Uyuşmazlık Mahkemesi |
+| 5 | Uluslararası | AİHM |
+
+> **Note:** HGK/CGK direnme kararları ve İBK kararları semantik olarak temyiz dairesinden farklı bağlayıcılığa sahip; `court_level` bunları tier 3'te birleştiriyor. Daha ince ayrım (binding scope, daire kimliği) `court_name` üzerinden ayrı property olarak modellenecek.
 
 ### 1.1 Adli Yargı (Ordinary Judiciary)
 

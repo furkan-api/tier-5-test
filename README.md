@@ -25,7 +25,8 @@ eval/                       Evaluation infrastructure
 
 corpus/                     95 court decisions (eval fixture)
                             Covers: Yargıtay (Hukuk + Ceza daireleri, HGK, İBK),
-                            Danıştay, BAM, BİM, İlk Derece, AYM
+                            Danıştay, BAM, BİM, İlk Derece, AYM,
+                            Uyuşmazlık Mahkemesi, AİHM
                             Period: 1974–2026
 
 docs/

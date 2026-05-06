@@ -23,7 +23,7 @@ S3 (50M+ markdown files)
 │ Extract from filename/headers:                          │
 │   • doc_id (deterministic hash of court|daire|esas_no)  │
 │   • esas_no, karar_no, court, daire                     │
-│   • court_level (1-4), law_branch (hukuk/ceza/idari)    │
+│   • court_level (1-5), law_branch (hukuk/ceza/idari)    │
 │   • decision_date                                       │
 │                                                         │
 │ Store: PostgreSQL `documents` table                     │

@@ -85,7 +85,7 @@
   - **Daire/Mahkeme** (chamber/court, e.g., `Yargıtay 4. Hukuk Dairesi`, `Danıştay 7. Daire`)
   - **Karar Tarihi** (decision date)
   - **Law branch:** `hukuk` / `ceza` / `idari` — inferred from court name
-  - **Court level:** 1=İlk Derece, 2=BAM/BİM, 3=Yargıtay Daire/Danıştay Daire, 4=Yargıtay HGK/CGK/Danıştay İDDGK/VDDGK
+  - **Court level (pillar-based, 5-tier):** 1=İlk Derece, 2=İstinaf (BAM/BİM), 3=Temyiz (Yargıtay / Danıştay / Sayıştay — HGK/CGK/İBK/VDDK/İDDK kararları dahil; alt kırılım court_name'den ayrı property olarak yapılacak), 4=Anayasal Yargı + Uyuşmazlık (AYM, Uyuşmazlık Mahkemesi), 5=Uluslararası Yargı (AİHM)
   - **Note:** `decision_type` (bozma/onama/direnme) and `decision_authority` (daire_karari/genel_kurul_karari/ibk) require reading document content — these are extracted in Tier 5, not here.
 - Assigns a unique document ID (deterministic hash of Esas No + Karar No + Court, so re-ingestion is idempotent)
 - Stores metadata in PostgreSQL
@@ -95,7 +95,7 @@
 - [x] Each document has metadata fields: `doc_id`, `esas_no`, `karar_no`, `court`, `daire`, `court_level`, `law_branch`, `decision_date`, `file_path`
 - [x] Esas No and Karar No are extracted correctly for >= 95% of documents (spot-check 30)
 - [x] `SELECT count(*) FROM documents` returns the expected corpus size
-- [x] Court level distribution query produces sensible numbers (most docs should be level 3 Yargıtay/Danıştay daire decisions)
+- [x] Court level distribution query produces sensible numbers (most docs should be level 3 — Yargıtay/Danıştay/Sayıştay temyiz dairesi decisions)
 - [x] Metadata extraction accuracy: spot-check 30 random documents — all have correct Esas No, Karar No, court, daire, and date
 - [x] Re-running ingestion on the same directory produces no duplicates (idempotent)
 
@@ -359,22 +359,42 @@ unresolved_citations(id SERIAL PK, source_doc_id TEXT FK, raw_text TEXT, esas_no
 
 **What to build:**
 - Higher-level classification inferred from court name, court level, and document metadata:
-  - **`decision_type`**: `karar` (original first-instance) / `temyiz_incelemesi` (Yargitay appellate review) / `istinaf_incelemesi` (BAM review) / `unknown`
-  - **`decision_authority`**: `daire_karari` / `genel_kurul_karari` / `ibk` / `unknown`
+  - **`decision_type`**: `karar` (İlk Derece) / `istinaf_incelemesi` (BAM/BİM) / `temyiz_incelemesi` (Yargıtay/Danıştay) / `sayistay` (Sayıştay) / `norm_denetimi` (AYM — iptal davası + itiraz yolu) / `bireysel_basvuru` (AYM — Anayasa m.148) / `siyasi_parti_kapatma` (AYM — Anayasa m.69) / `yasama_dokunulmazligi` (AYM — Anayasa m.85) / `yuce_divan` (AYM — Anayasa m.148) / `uyusmazlik` (Uyuşmazlık Mahkemesi) / `aihm` (AİHM) / `unknown`
+  - **`decision_authority`**: `daire_karari` / `genel_kurul_karari` (Yargıtay HGK/CGK + Danıştay İDDK/VDDK) / `ibk` (Yargıtay/Danıştay İçtihatları Birleştirme) / `aym` / `uyusmazlik` / `aihm` / `unknown`
 - Rules:
-  - court_level=3 (Daire) -> `temyiz_incelemesi` + `daire_karari`
-  - court_level=4 + HGK/CGK -> `temyiz_incelemesi` + `genel_kurul_karari`
-  - court_level=4 + IBK -> `ibk`
-  - court_level=2 (BAM/BIM) -> `istinaf_incelemesi`
-  - court_level=1 (Ilk Derece) -> `karar`
+  - court_level=1 (İlk Derece) → `karar`
+  - court_level=2 (BAM/BİM) → `istinaf_incelemesi`
+  - court_level=3 — Yargıtay:
+    - daire (Hukuk Dairesi / Ceza Dairesi) → `temyiz_incelemesi` + `daire_karari`
+    - HGK / CGK (Hukuk-Ceza Genel Kurulu) → `temyiz_incelemesi` + `genel_kurul_karari`
+    - İBK (İçtihatları Birleştirme Kurulu) → `temyiz_incelemesi` + `ibk`
+  - court_level=3 — Danıştay:
+    - daire (X. Daire / Daire Başkanlığı) → `temyiz_incelemesi` + `daire_karari`
+    - İDDK / VDDK (İdari-Vergi Dava Daireleri Kurulu) → `temyiz_incelemesi` + `genel_kurul_karari`
+    - İBK (İçtihatları Birleştirme Kurulu) → `temyiz_incelemesi` + `ibk`
+  - court_level=3 — Sayıştay → `sayistay` (gerçek bir yargılama/temyiz makamı değil; alt kırılım yapılmaz)
+  - court_level=4 — AYM → `decision_authority = aym`; `decision_type` aşağıdakilerden biri:
+    - norm denetimi (iptal davası / itiraz yolu) → `norm_denetimi`
+    - bireysel başvuru → `bireysel_basvuru`
+    - siyasi parti kapatma → `siyasi_parti_kapatma`
+    - yasama dokunulmazlığı → `yasama_dokunulmazligi`
+    - Yüce Divan → `yuce_divan`
+  - court_level=4 — Uyuşmazlık Mahkemesi → `decision_type = uyusmazlik` + `decision_authority = uyusmazlik`
+  - court_level=5 — AİHM → `decision_type = aihm` + `decision_authority = aihm`
 - New PG columns on `documents`: `decision_type TEXT`, `decision_authority TEXT`
 - New Neo4j Document node properties: `decision_type`, `decision_authority`
 
 **Acceptance criteria:**
 - [ ] Every document has `decision_type` and `decision_authority` populated
-- [ ] Spot-check 30 documents: correct for >= 95%
-- [ ] HGK/CGK documents correctly classified as `genel_kurul_karari`
-- [ ] BAM documents correctly classified as `istinaf_incelemesi`
+- [ ] Spot-check 30 documents across tiers: correct for >= 95%
+- [ ] BAM/BİM documents → `decision_type = istinaf_incelemesi`
+- [ ] Yargıtay HGK/CGK + Danıştay İDDK/VDDK → `decision_authority = genel_kurul_karari`
+- [ ] Yargıtay İBK + Danıştay İBK → `decision_authority = ibk`
+- [ ] Sayıştay → `decision_type = sayistay`
+- [ ] AYM → `decision_authority = aym`; `decision_type` ∈ AYM enum (norm_denetimi / bireysel_basvuru / siyasi_parti_kapatma / yasama_dokunulmazligi / yuce_divan)
+- [ ] Uyuşmazlık → `decision_type = uyusmazlik`, `decision_authority = uyusmazlik`
+- [ ] AİHM → `decision_type = aihm`, `decision_authority = aihm`
+- [ ] Distribution log: count per (decision_type, decision_authority) pair
 
 ---
 

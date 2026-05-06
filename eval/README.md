@@ -58,14 +58,16 @@ The evaluation harness (`scripts/evaluate.py`) takes a retrieval system's ranked
 
 Each entry in `corpus_manifest.json` describes one document in `corpus/`:
 
+> **Note:** The current `corpus_manifest.json` is a frozen snapshot of the original 101-doc fixture; its source files are no longer in the repo. Existing `court_level` values were derived under the old 4-tier schema and have **not** been re-derived against the new 5-tier model below. The field is not consumed by any active eval script (only `doc_id`, `court`, `daire`, `keywords` are read), so the staleness has no runtime effect.
+
 | Field | Type | Description |
 |-------|------|-------------|
 | `doc_id` | string | 16-char hex hash of `court\|daire\|esas_no` — deterministic identifier for each case |
 | `filename` | string | Full filename including `.md` |
-| `court` | string | Top-level court: Yargıtay, Danıştay, BAM, BİM, İlk Derece, AYM |
+| `court` | string | Top-level court: Yargıtay, Danıştay, Sayıştay, AYM, Uyuşmazlık, AİHM, BAM, BİM, İlk Derece |
 | `daire` | string | Specific chamber, e.g. "1. Hukuk Dairesi", "Hukuk Genel Kurulu" |
 | `law_branch` | string | hukuk, ceza, idari, anayasa |
-| `court_level` | int | 1=İlk Derece, 2=BAM/BİM, 3=Daire, 4=Kurul/İBK/AYM |
+| `court_level` | int | 1=İlk Derece, 2=İstinaf (BAM/BİM), 3=Temyiz (Yargıtay/Danıştay/Sayıştay), 4=Anayasal+Uyuşmazlık (AYM/Uyuşmazlık), 5=Uluslararası (AİHM) |
 | `esas_no` | string | Case number, e.g. "2024/1977" |
 | `karar_no` | string | Decision number, e.g. "2025/5810" |
 | `decision_date` | string | DD.MM.YYYY format |
