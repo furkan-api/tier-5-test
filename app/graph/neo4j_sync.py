@@ -54,19 +54,23 @@ def init_schema(session: Session) -> None:
 
 # Court type-level metadata — individual court nodes are created dynamically
 # from MongoDB data; this dict only encodes structural facts about each type.
-# level: 1=İlk Derece, 2=BAM/BİM, 3=Daire, 4=Yargıtay/Danıştay/AYM
-# apex: the next court up in the appeal chain (None for apex courts)
+# level (pillar-based, 5-tier — see eval/scripts/build_corpus_manifest.py:infer_court_level):
+#   1 = İlk Derece
+#   2 = İstinaf (BAM/BİM)
+#   3 = Temyiz (Yargıtay, Danıştay, Sayıştay)
+#   4 = Anayasal Yargı + Uyuşmazlık (AYM, Uyuşmazlık)
+#   5 = Uluslararası (AİHM)
+# apex: the next court up in the appeal chain (None when this type is itself the apex)
 _COURT_TYPE_META: dict[str, dict] = {
+    "İlk Derece": {"level": 1, "pillar": "ilk_derece", "apex": None},
     "BAM":        {"level": 2, "pillar": "bam",        "apex": "Yargıtay"},
     "BİM":        {"level": 2, "pillar": "bim",        "apex": "Danıştay"},
-    "Yargıtay":   {"level": 4, "pillar": "yargıtay",   "apex": None},
-    "Danıştay":   {"level": 4, "pillar": "danıştay",   "apex": None},
+    "Yargıtay":   {"level": 3, "pillar": "yargıtay",   "apex": None},
+    "Danıştay":   {"level": 3, "pillar": "danıştay",   "apex": None},
+    "Sayıştay":   {"level": 3, "pillar": "sayıştay",   "apex": None},
     "AYM":        {"level": 4, "pillar": "aym",        "apex": None},
-    "Sayıştay":   {"level": 4, "pillar": "sayıştay",   "apex": None},
     "Uyuşmazlık": {"level": 4, "pillar": "uyusmazlik", "apex": None},
     "AİHM":       {"level": 5, "pillar": "aihm",       "apex": None},
-    "İlk Derece": {"level": 1, "pillar": "ilk_derece", "apex": None},
-    "Tüketici":   {"level": 1, "pillar": "ilk_derece", "apex": None},
 }
 
 
@@ -201,6 +205,8 @@ def upsert_documents(
         court = row[1] or ""
         daire = row[2] or ""
         meta  = _COURT_TYPE_META.get(court, {})
+        apex_name = meta.get("apex") or ""
+        apex_meta = _COURT_TYPE_META.get(apex_name, {}) if apex_name else {}
         batch.append({
             "doc_id":              row[0],
             "court":               court,
@@ -208,7 +214,9 @@ def upsert_documents(
             "parent_court":        _derive_parent_court(court, daire),
             "parent_court_level":  meta.get("level", 0),
             "parent_court_pillar": meta.get("pillar", ""),
-            "apex_court":          meta.get("apex") or "",
+            "apex_court":          apex_name,
+            "apex_level":          apex_meta.get("level", 0),
+            "apex_pillar":         apex_meta.get("pillar", ""),
             "court_level":         row[3] or 0,
             "esas_no":             row[4] or "",
             "karar_no":            row[5] or "",
@@ -268,9 +276,9 @@ def _upsert_doc_batch(session: Session, batch: list[dict]) -> None:
             "WITH gc, row "
             "WHERE row.apex_court <> '' "
             "MERGE (apex:Court {name: row.apex_court}) "
-            "ON CREATE SET apex.level  = row.parent_court_level + 2, "
+            "ON CREATE SET apex.level  = row.apex_level, "
             "              apex.branch = row.law_branch, "
-            "              apex.pillar = row.parent_court_pillar "
+            "              apex.pillar = row.apex_pillar "
             "MERGE (gc)-[:APPEALS_TO]->(apex)",
             batch=batch,
         )

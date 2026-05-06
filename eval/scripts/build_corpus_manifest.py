@@ -398,29 +398,25 @@ def infer_law_branch(court: str, daire: str) -> str:
 
 
 def infer_court_level(court: str, daire: str) -> int:
-    """Infer court_level: 1=İlk Derece, 2=BAM/BİM, 3=Daire, 4=Kurul/İBK."""
+    """Infer court_level (pillar-based, 5-tier).
+
+    1 = İlk Derece (asliye, sulh, idare, vergi, iş, ticaret, tüketici, fikri sınai…)
+    2 = İstinaf (BAM, BİM)
+    3 = Temyiz (Yargıtay + Danıştay + Sayıştay; HGK/CGK/İBK/VDDK/İDDK dahil —
+                alt kırılım court_name'den ayrı property olarak yapılacak)
+    4 = Anayasal Yargı + Uyuşmazlık (AYM, Uyuşmazlık Mahkemesi)
+    5 = Uluslararası Yargı (AİHM)
+    """
     if court == "İlk Derece":
         return 1
     if court in ("BAM", "BİM"):
         return 2
-    if court == "AYM":
+    if court in ("Yargıtay", "Danıştay", "Sayıştay"):
+        return 3
+    if court in ("AYM", "Uyuşmazlık"):
         return 4
-    # Yargıtay
-    if court == "Yargıtay":
-        if any(
-            k in daire
-            for k in ("Genel Kurul", "İçtihatları Birleştirme", "İBK", "BGK")
-        ):
-            return 4
-        return 3  # Daire
-    # Danıştay
-    if court == "Danıştay":
-        if any(
-            k in daire
-            for k in ("Daireleri Kurulu", "İçtihatları Birleştirme", "İBK")
-        ):
-            return 4
-        return 3  # Daire
+    if court == "AİHM":
+        return 5
     return 0
 
 

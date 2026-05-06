@@ -9,10 +9,10 @@
     "properties": {
       "doc_id": { "type": "string", "description": "Filename stem (no .md extension)" },
       "filename": { "type": "string" },
-      "court": { "type": "string", "description": "Court type: Yargıtay, Danıştay, AYM, BAM, BİM, İlk Derece" },
+      "court": { "type": "string", "description": "Court type: Yargıtay, Danıştay, Sayıştay, AYM, Uyuşmazlık, AİHM, BAM, BİM, İlk Derece" },
       "daire": { "type": "string", "description": "Specific chamber/court name" },
       "law_branch": { "type": "string", "enum": ["hukuk", "ceza", "idari", "anayasa", ""] },
-      "court_level": { "type": "integer", "minimum": 0, "maximum": 4 },
+      "court_level": { "type": "integer", "minimum": 0, "maximum": 5, "description": "1=İlk Derece, 2=İstinaf (BAM/BİM), 3=Temyiz (Yargıtay/Danıştay/Sayıştay), 4=Anayasal+Uyuşmazlık (AYM/Uyuşmazlık), 5=Uluslararası (AİHM)" },
       "esas_no": { "type": "string" },
       "karar_no": { "type": "string" },
       "decision_date": { "type": "string", "description": "DD.MM.YYYY format" },

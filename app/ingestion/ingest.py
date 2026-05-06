@@ -76,17 +76,16 @@ _MONGO_COURT_MAP = {
     "ticaret": "İlk Derece",
     "is": "İlk Derece",
     "idare": "İlk Derece",
-    "ceza_ilk": "İlk Derece",
-    "hukuk_ilk": "İlk Derece",
-    "fikri_sinai": "İlk Derece",
     "sayistay": "Sayıştay",
     "uyusmazlik": "Uyuşmazlık",
-    "tuketici": "Tüketici",
+    "tuketici": "İlk Derece",
     "icra_hukuk": "İlk Derece",
     "icra_ceza": "İlk Derece",
     "aihm": "AİHM",
     "fikri_sinai_hukuk": "İlk Derece",
-    "fikri_sinai_ceza": "İlk Derece"
+    "fikri_sinai_ceza": "İlk Derece",
+    "asliye_ceza": "İlk Derece",
+    "agir_ceza": "İlk Derece"
 }
 
 
