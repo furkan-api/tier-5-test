@@ -1,0 +1,97 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi İkinci Bölüm",
+  "case_number": "2018/58811",
+  "decision_number": null,
+  "decision_date": "2023-10-10",
+  "decision_type": "Kabul Edilebilirlik",
+  "is_final": true,
+  "finality_basis": "AİHM kararları kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Milletvekili seçimlerinde aday olma hakkından mahrumiyet nedeniyle Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesinin ihlali iddiası",
+  "keywords": [
+    "seçilme hakkı",
+    "milletvekili adaylığı",
+    "cezai mahkûmiyet",
+    "yasaklanmış hakların geri verilmesi",
+    "seçim hukuku",
+    "terör suçu",
+    "hak yoksunluğu",
+    "yüksek seçim kurulu",
+    "öngörülebilirlik",
+    "keyfilik"
+  ],
+  "legal_issues": [
+    "Ceza Kanunu'nun 53. maddesi uyarınca verilen ve hak yoksunluğunun sona erdiğini tespit eden mahkeme kararı, 5352 sayılı Kanun'un 13/A maddesi anlamında yasaklanmış hakların geri verilmesine ilişkin bir karar olarak kabul edilebilir mi?",
+    "Yüksek Seçim Kurulu'nun, başvuranın milletvekili adaylığını reddetme kararı, Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi kapsamında keyfi bir uygulama teşkil etmekte midir?",
+    "Milletvekili seçimlerinde aday olma hakkından mahrumiyet için öngörülen yasal şartlar, Sözleşme'nin hukuk devleti ilkesi ve öngörülebilirlik gerekliliklerini karşılamakta mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "seçilme hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi ile güvence altına alınan seçilme hakkının, cezai mahkûmiyet nedeniyle sınırlandırılmasının meşruluğudur."
+    },
+    {
+      "concept": "hukuk devleti ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkeme, Devletlerin seçilme hakkına ilişkin sınırlamalar getirirken hukuk devleti ilkesine uyması gerektiğini ve normatif bir çerçeve oluşturması gerektiğini belirtmiştir."
+    },
+    {
+      "concept": "öngörülebilirlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yüksek Seçim Kurulu'nun 27 Nisan 2018 tarihli kararı ve sonraki uygulaması, milletvekili adaylarının yasaklanmış hakların geri verilmesi için gerekli şartları öngörülebilir bir şekilde belirtmiştir."
+    },
+    {
+      "concept": "keyfilik yasağı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkeme, adayların kaydedilmesi konusunda keyfi kararlardan kaçınılması gerektiğini ve Yüksek Seçim Kurulu'nun kararının yerleşik içtihadına dayandığını tespit etmiştir."
+    },
+    {
+      "concept": "yasaklanmış hakların geri verilmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "5352 sayılı Kanun'un 13/A maddesi uyarınca yasaklanmış hakların geri verilmesi prosedürü, cezai mahkûmiyet nedeniyle seçilme hakkından mahrum bırakılan kişilerin haklarını geri alabilmesi için öngörülen mekanizmadır."
+    },
+    {
+      "concept": "hak yoksunluğunun sona ermesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Ceza Kanunu'nun 53. maddesi uyarınca hak yoksunluğu cezanın infazı tamamlanıncaya kadar devam eder; ancak Anayasa'nın 76. maddesi ve Milletvekili Seçimi Kanunu'nun 11. maddesi uyarınca terör suçlarından mahkûmlar için ek şartlar getirilmiştir."
+    },
+    {
+      "concept": "usule ilişkin adalet",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkeme, adayların kaydedilmesi için öngörülen usullerin usule ilişkin adalet ve hukuki kesinlik ile karakterize edilmesi gerektiğini vurgulamıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Yüksek Seçim Kurulu'nun başvuranın milletvekili adaylığını reddetme kararı, Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi kapsamında keyfi bir uygulama teşkil etmekte midir?",
+    "rule": "Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi ile güvence altına alınan seçilme hakkı mutlak değildir ve Devletler bu konuda geniş bir takdir yetkisine sahiptir; ancak hakların etkililiği ilkesi, belirli bir aday söz konusu olduğunda bu şartların yerine getirilmediğini tespit eden kararların keyfiliğini önlemek için tasarlanmış bir dizi kritere uymasını gerektirmektedir. Hukuk devleti ilkesi, Devletler üzerinde Sözleşme'den doğan yükümlülüklere uyulmasını sağlayan normatif bir çerçeve oluşturma yükümlülüğünü kapsamaktadır.",
+    "application": "Yüksek Seçim Kurulu, 27 Nisan 2018 tarihli kararında milletvekili adaylarının yerine getirmesi gereken şartları belirtmiş ve bu şartlar ulusal medyaya ve siyasi parti liderlerine bildirilmiştir. Yüksek Seçim Kurulu, 21 Nisan 2011 tarihli kararlarında yasaklanmış hakların geri verilmesine ilişkin mahkeme kararlarını kabul etmiş ve yerleşik bir içtihat oluşturmuştur. Başvuranın sunduğu Ceza Kanunu'nun 53. maddesi uyarınca verilen mahkeme kararı, 5352 sayılı Kanun'un 13/A maddesi anlamında yasaklanmış hakların geri verilmesine ilişkin bir karar olarak değerlendirilmemiştir; çünkü başvuran, söz konusu maddede öngörülen üç yıllık bekleme süresini tamamlamamıştır.",
+    "conclusion": "Yüksek Seçim Kurulu'nun kararı, yerleşik ve öngörülebilir bir içtihadına dayandığından keyfi olarak nitelendirilemez ve başvuru açıkça dayanaktan yoksundur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Yüksek Seçim Kurulu",
+      "siyasi parti",
+      "ceza mahkemesi"
+    ],
+    "context": "Terör örgütüne üye olma suçundan yedi yıl altı ay hapis cezasına mahkûm edilen ve cezasını 13 Eylül 2017 tarihinde tamamlayan bir kişi, 24 Haziran 2018 milletvekili seçimlerinde muhalefet partisi tarafından aday gösterilmiştir.",
+    "trigger": "Yüksek Seçim Kurulu, başvuranın adaylığını, yasaklanmış haklarının iade edildiğini kanıtlayan bir mahkeme kararı sunmadığı gerekçesiyle 22 Mayıs 2018 tarihinde reddetmiştir.",
+    "claim": "Başvuran, milletvekili seçimlerinde aday olma hakkından haksız yere mahrum bırakıldığını ve Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesinin ihlal edildiğini iddia etmiştir."
+  }
+}

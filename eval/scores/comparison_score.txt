@@ -1,0 +1,79 @@
+Gold: eval/llm_extractions_gold
+
+=====================================================================================
+SUMMARY
+=====================================================================================
+metric                        gemini-flash-lite       gemini-flash       claude-haiku
+files in result                              29                 29                 29
+files scored vs gold                         29                 29                 29
+coverage                                100.00%            100.00%            100.00%
+mean (scored only)                       51.53%             56.19%             57.74%
+mean (missing = 0)                       51.53%             56.19%             57.74%
+
+=========================================================================================
+PER-FIELD AVERAGE  (cells are mean across that folder's scored files)
+=========================================================================================
+field                             gemini-flash-lite       gemini-flash       claude-haiku
+legal_issues                                   1.72%               3.06%               1.67%
+summary                                        2.49%              13.42%              13.12%
+legal_concepts                                 9.94%              18.48%              11.74%
+    precision                                  9.63%              19.20%              11.96%
+    recall                                    10.39%              17.93%              11.63%
+    F1                                         9.94%              18.48%              11.74%
+    avg-pair                                  33.00%              49.66%              32.38%
+      · role                                  41.67%              64.49%              41.36%
+      · context_in_reasoning                  34.89%              46.30%              44.00%
+dispositive_reasoning                         26.24%              32.11%              29.17%
+      · issue                                 41.46%              51.33%              43.63%
+      · rule                                  11.85%              20.61%              18.24%
+      · application                            7.76%              14.39%              12.96%
+      · conclusion                            43.90%              42.12%              41.84%
+fact_pattern                                  30.74%              42.78%              36.09%
+      · actor_roles                           19.65%              30.81%              33.76%
+      · context                               31.76%              41.21%              36.36%
+      · trigger                               31.68%              48.38%              37.49%
+      · claim                                 39.89%              50.70%              36.76%
+keywords                                      34.92%              42.64%              42.19%
+cited_law_articles                            55.73%              10.44%              64.41%
+    precision                                 62.32%               9.28%              61.94%
+    recall                                    52.32%              12.61%              70.22%
+    F1                                        55.73%              10.44%              64.41%
+    avg-pair                                  69.86%              13.08%              76.34%
+      · law                                   82.77%              16.82%              90.75%
+      · law_number                            82.16%              16.29%              91.31%
+      · article                               79.24%              13.95%              87.61%
+      · context                               41.42%               6.87%              43.19%
+appeal_outcomes_by_role                       36.21%              55.17%              43.10%
+    precision                                 36.21%              55.17%              43.10%
+    recall                                    36.21%              55.17%              43.10%
+    F1                                        36.21%              55.17%              43.10%
+    avg-pair                                  37.93%              55.17%              44.83%
+      · result                                50.00%              80.00%              61.90%
+finality_basis                                50.92%              53.87%              48.07%
+decision_outcome_raw                          49.81%              61.08%              60.88%
+subject                                       51.32%              60.88%              60.83%
+cited_court_decisions                         60.23%              66.04%              64.69%
+    precision                                 68.26%              63.49%              67.68%
+    recall                                    63.87%              75.30%              69.67%
+    F1                                        60.23%              66.04%              64.69%
+    avg-pair                                  79.94%              78.75%              79.07%
+      · court                                 91.13%              87.77%              92.26%
+      · cited_court_type                      91.22%              95.86%              94.87%
+      · case_number                           92.47%              89.05%              85.60%
+      · decision_number                       90.22%              88.62%              85.53%
+      · relation                              95.86%              92.52%              95.07%
+      · outcome                               65.48%              74.16%              73.11%
+      · treatment                             77.36%              71.21%              75.85%
+      · context                               40.85%              40.19%              41.57%
+appellants                                    62.64%              62.07%              67.24%
+dissent_summary                               63.69%              63.39%              66.44%
+decision_outcome                              68.97%              72.41%              62.07%
+is_final                                      62.07%              82.76%              86.21%
+vote_unanimity                                75.86%              89.66%              93.10%
+decision_type                                 79.31%              96.55%              93.10%
+court                                         91.28%              96.80%              98.08%
+case_number                                   93.10%             100.00%              93.10%
+court_type                                    93.10%             100.00%             100.00%
+decision_number                               93.10%             100.00%             100.00%
+decision_date                                 93.10%             100.00%             100.00%
+has_dissent                                   93.10%             100.00%             100.00%

@@ -1,0 +1,215 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "cited_court_decisions": [
+    {
+      "court": "Diyarbakır Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın cezai mahkûmiyetini ve hak yoksunluğunun sona erdiğini tespit eden ilk derece kararı."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Başvuranın mahkûmiyetini onayan temyiz kararı."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": "Diğer",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın milletvekili adaylığını reddeden YSK kararı."
+    },
+    {
+      "court": "Dicle ve Sadak/Türkiye",
+      "cited_court_type": "AİHM",
+      "case_number": "48621/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Milletvekili seçilme yeterliliğine ilişkin iç hukuk hükümlerinin açıklanması."
+    },
+    {
+      "court": "Dicle/Türkiye (no. 3)",
+      "cited_court_type": "AİHM",
+      "case_number": "53915/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme yeterliliğine ilişkin AİHM içtihadı ve YSK yetkisinin sınırları."
+    },
+    {
+      "court": "Yumak ve Sadak/Türkiye",
+      "cited_court_type": "AİHM",
+      "case_number": "10226/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sözleşme'ye Ek 1 No.lu Protokol 3. maddesinin demokrasideki önemi."
+    },
+    {
+      "court": "Tănase/Moldova",
+      "cited_court_type": "AİHM",
+      "case_number": "7/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının temel ilkeleri ve sınırlamalar."
+    },
+    {
+      "court": "Mugemangango/Belçika",
+      "cited_court_type": "AİHM",
+      "case_number": "310/15",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hukukun üstünlüğü ilkesi ve seçilme hakkı."
+    },
+    {
+      "court": "Mathieu-Mohin ve Clerfayt",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı arasındaki ayrım."
+    },
+    {
+      "court": "Ždanoka v. Letonya",
+      "cited_court_type": "AİHM",
+      "case_number": "58278/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının sınırlanması ve keyfilik denetimi."
+    },
+    {
+      "court": "Podkolzina/Letonya",
+      "cited_court_type": "AİHM",
+      "case_number": "46726/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının sınırlanmasında devlet takdir yetkisi."
+    },
+    {
+      "court": "Ekoglasnost/Bulgaristan",
+      "cited_court_type": "AİHM",
+      "case_number": "30386/05",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının zımni sınırlamaları."
+    },
+    {
+      "court": "Davydov ve Diğerleri/Rusya",
+      "cited_court_type": "AİHM",
+      "case_number": "75947/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının sınırlanmasında devlet takdir yetkisi."
+    },
+    {
+      "court": "Melnichenko/Ukrayna",
+      "cited_court_type": "AİHM",
+      "case_number": "17707/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesinde keyfilik önleme kriterleri."
+    },
+    {
+      "court": "Rus Muhafazakâr Girişimciler Partisi ve Diğerleri/Rusya",
+      "cited_court_type": "AİHM",
+      "case_number": "55066/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesinde usule ilişkin adalet ve hukuki kesinlik."
+    },
+    {
+      "court": "Lykourezos/Yunanistan",
+      "cited_court_type": "AİHM",
+      "case_number": "33554/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesinde keyfi kararlardan kaçınılması."
+    },
+    {
+      "court": "Kovatch/Ukrayna",
+      "cited_court_type": "AİHM",
+      "case_number": "39424/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesinde keyfi kararlardan kaçınılması."
+    },
+    {
+      "court": "Sarukhanyan/Ermenistan",
+      "cited_court_type": "AİHM",
+      "case_number": "38978/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesinde keyfi kararlardan kaçınılması ve meşru amaç."
+    },
+    {
+      "court": "Petkov ve Diğerleri/Bulgaristan",
+      "cited_court_type": "AİHM",
+      "case_number": "77568/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesi usulünde usule ilişkin adalet ve hukuki kesinlik."
+    },
+    {
+      "court": "Krasnov ve Skouratov/Rusya",
+      "cited_court_type": "AİHM",
+      "case_number": "17864/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkından mahrumiyet kararlarında keyfilik denetimi."
+    },
+    {
+      "court": "Tahirov/Azerbaycan",
+      "cited_court_type": "AİHM",
+      "case_number": "31953/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesinde tutarlı içtihat uygulanması."
+    }
+  ]
+}

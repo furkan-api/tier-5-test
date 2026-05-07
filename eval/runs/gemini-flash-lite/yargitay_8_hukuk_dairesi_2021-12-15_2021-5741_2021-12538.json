@@ -1,0 +1,306 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/5741",
+  "decision_number": "2021/12538",
+  "decision_date": "2021-12-15",
+  "decision_type": "Temyiz",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Yerel mahkeme hükmünün, delillerin değerlendirilmesinde hataya düşüldüğü gerekçesiyle bozulmasına karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Çoğunluk görüşünün, tapu kayıtlarının miktarıyla geçerli olduğu ve zemine uygulanabilir olduğu yönündeki görüşüne katılmayan azınlık, tapu kayıtlarının kapsamının belirlenmesi için daha detaylı araştırma ve inceleme yapılması gerektiğini savunmuştur.",
+  "appellants": [
+    "müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "müdahil",
+      "result": "ret"
+    }
+  ],
+  "subject": "Kadastro tespitine itiraz ve çiftlik tapu kayıtlarının uygulanması",
+  "keywords": [
+    "kadastro tespiti itiraz",
+    "çiftlik tapu kayıtları",
+    "miktarıyla geçerli tapu",
+    "sabit hudut",
+    "zilyetlik",
+    "arazi kanunnamesi",
+    "3402 sayılı Kadastro Kanunu",
+    "tapu iptali",
+    "ecrimisil",
+    "bozma kararı",
+    "kesin hüküm"
+  ],
+  "legal_issues": [
+    "Miktarıyla geçerli olduğu kabul edilen çiftlik tapu kayıtlarının kapsamı nasıl belirlenmelidir?",
+    "Gayrimenkul Değerler Ticaret A.Ş.'nin müdahale talebi yerinde midir?",
+    "Davacıların dayandığı çiftlik tapu kayıtları, dava konusu taşınmazı kapsamaktat mıdır?",
+    "Tapu kayıtlarının sınırlarının gayri sabit olması, miktarıyla geçerli sayılmasına engel midir?",
+    "Yargıtay bozma kararları doğrultusunda yapılan inceleme yeterli midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "kadastro tespiti itiraz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davanın temelini, kadastro tespitine itiraz oluşturmaktadır."
+    },
+    {
+      "concept": "çiftlik tapu kayıtları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tarafların mülkiyet iddiasına dayanak oluşturan çiftlik tapu kayıtlarının hukuki niteliği ve zemine uygulanabilirliği tartışılmıştır."
+    },
+    {
+      "concept": "miktarıyla geçerli tapu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Gayri sabit hudutlu tapu kayıtlarının, sınırları yerine miktarları esas alınarak uygulanması gerektiği kabul edilmiştir."
+    },
+    {
+      "concept": "zilyetlik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tapu kayıtlarının miktarıyla geçerli sayılmasında zilyetliğin varlığı ve niteliği tartışılmıştır."
+    },
+    {
+      "concept": "sabit hudut",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Tapu kayıtlarındaki sınırların sabit nitelikte olmadığı, geniş alanları tarif ettiği ve bu nedenle miktarıyla geçerli olduğu belirtilmiştir."
+    },
+    {
+      "concept": "3402 sayılı Kadastro Kanunu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kadastro tespitleri ve tapu kayıtlarının uygulanmasında 3402 sayılı Kanun'un ilgili maddeleri esas alınmıştır."
+    },
+    {
+      "concept": "bozma kararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Önceki Yargıtay bozma kararlarına uyularak yapılan incelemenin yeterli olmadığı ve eksiklikler bulunduğu belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Çiftlik tapu kayıtlarının miktarıyla geçerli olduğu kabul edildikten sonra, bu kayıtların kapsamının nasıl belirlenmesi gerektiği ve dava konusu taşınmazın bu kapsamda kalıp kalmadığı.",
+    "rule": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca, gayri sabit hudutlu tapu kayıtlarında miktara itibar edilir; ancak, bu kayıtların zemine uygulanabilirliği ve kapsamının belirlenmesi için sabit sınırların bulunması veya mevcut sınırların araziye uygulanabilir nitelikte olması gerekmektedir.",
+    "application": "Davacılar ve müdahilin dayandığı çiftlik tapu kayıtlarının sınırlarının gayri sabit olduğu, geniş alanları tarif ettiği ve bu nedenle miktarıyla geçerli olduğu kabul edilmekle birlikte, bu kayıtların zemine uygulanarak kapsamının kesin olarak belirlenmesinde eksiklikler bulunduğu, özellikle bilirkişi raporları arasındaki çelişkilerin giderilmediği ve Yargıtay Hukuk Genel Kurulu'nun önceki kararlarına aykırı bir sonuca varıldığı anlaşılmıştır.",
+    "conclusion": "Mahkemece delillerin değerlendirilmesinde hataya düşüldüğü ve bozma kararlarının gereği tam olarak yerine getirilmediği anlaşıldığından, hükmün bozulmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "müdahil",
+      "tapu maliki",
+      "kadastro teknisyeni"
+    ],
+    "context": "Kadastro tespitine itiraz davasında, çiftlik tapu kayıtlarının zemine uygulanması ve kapsamının belirlenmesi uyuşmazlık konusudur.",
+    "trigger": "Kadastro tespitinde dava konusu taşınmazın davalı tarafın dayandığı tapu kaydı kapsamında kaldığının, ancak malik hanesinin açık bırakılarak tespit edilmesi.",
+    "claim": "Davacıların, çiftlik tapu kayıtlarına dayanarak taşınmazın kendilerine ait olduğunun tespiti; müdahilin ise tapu maliklerinden pay satın aldığını ileri sürerek adına tescil istemi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 16. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Mahkemece verilen önceki kararı bozan Yargıtay Dairesi."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1580",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini vurgulayan HGK kararları."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/1625",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini vurgulayan HGK kararları."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "3022",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini vurgulayan HGK kararları."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "3023",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini vurgulayan HGK kararları."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "3024",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini vurgulayan HGK kararları."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "3025",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini vurgulayan HGK kararları."
+    },
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/11416",
+      "decision_number": "2013/4272",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın niteliğinin araştırılması gereğine değinen bozma ilamı."
+    },
+    {
+      "court": "Yargıtay 16. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih niteliğini belirten istikrarlı görüş."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Çiftlik tapularının kapsamının belirlenmesi hususundaki HGK kararları."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Çiftlik tapularının kapsamının belirlenmesi hususundaki HGK kararları."
+    },
+    {
+      "court": "Yargıtay 8. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1994/7430",
+      "decision_number": "1073",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali davasının reddine ilişkin kesinleşen karar."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2002/1795",
+      "decision_number": "4523",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İstimlak edilen fazla kısmın tesciline ilişkin onanan karar."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "3402 sayılı Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/B",
+      "context": "Harita, plan ve krokiye dayanmayan kayıt ve belgelerde belirtilen sınırlar mahalline uygulanabiliyor ise."
+    },
+    {
+      "law": "3402 sayılı Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/C",
+      "context": "Gayrimuayyen hudutlu tapu kayıtlarının miktarıyla geçerli olduğu; sabit hudutlardan başlanarak miktarı kadar yer ayrılması."
+    },
+    {
+      "law": "3402 sayılı Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "30/2",
+      "context": "Kadastro tespitlerinde malik hanesi açık bırakıldığında re'sen araştırma ilkesinin geçerliliği."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "20",
+      "context": "Miri arazinin zilyetlikle kazanılmasına ilişkin hükümler."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "78",
+      "context": "Miri arazinin zilyetlikle kazanılmasına ilişkin hükümler."
+    },
+    {
+      "law": "Türk Kanunu Medenisi",
+      "law_number": null,
+      "article": null,
+      "context": "Medeni Kanun'a aykırı olmayan Arazi Kanunnamesi hükümlerinin yürürlükte olduğu kabulü."
+    },
+    {
+      "law": "6100 sayılı Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "Geçici 3",
+      "context": "1086 sayılı HUMK'un uygulanmasına ilişkin geçici madde."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": "428",
+      "context": "Bozma kararına uyulması halinde verilecek hüküm."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": "440/I",
+      "context": "Karar düzeltme istemi süresi."
+    },
+    {
+      "law": "2901 sayılı Yasa",
+      "law_number": "2901",
+      "article": null,
+      "context": "Tahrir kayıtlarının oluşturulması ve delil olarak kullanılması."
+    },
+    {
+      "law": "4785 sayılı Kanun",
+      "law_number": "4785",
+      "article": null,
+      "context": "Ormanların devletleştirilmesine ilişkin kanun."
+    },
+    {
+      "law": "6831 sayılı Kanun",
+      "law_number": "6831",
+      "article": "10",
+      "context": "Orman Kanunu'nun ilgili maddesi."
+    }
+  ]
+}

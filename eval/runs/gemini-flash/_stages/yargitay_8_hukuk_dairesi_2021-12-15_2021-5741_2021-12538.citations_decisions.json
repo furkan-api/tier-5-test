@@ -1,0 +1,385 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 16. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Yerel mahkemenin önceki kararını bozan Yargıtay dairesi."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Temyiz edilen yerel mahkeme kararı."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1996/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu kaydı kapsamının belirlenmesi işlemi yapılan dosya."
+    },
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/11416",
+      "decision_number": "2013/4272",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Vakfın niteliğinin araştırılması gereğine değinen bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1580",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1183",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/1625",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/709",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/710",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/782",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/783",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/784",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/785",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/786",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/787",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/788",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının kapsam tayini yöntemini açıklayan HGK bozma ilamı."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1988/333",
+      "decision_number": "1994/51",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu iptali davasının reddine ilişkin kesinleşen karar."
+    },
+    {
+      "court": "Yargıtay 8. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1994/7430",
+      "decision_number": "1995/1073",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Asliye Hukuk Mahkemesi kararını kesinleştiren temyiz incelemesi."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1989/103",
+      "decision_number": "1994/125",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu iptali davasının reddine ilişkin karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1960/104",
+      "decision_number": "1961/25",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Feragat ve sulh nedeniyle reddedilen tapu iptali davası."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1970/165",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kira akdinin feshi ve tahliye davasının kabulüne ilişkin karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1963/153",
+      "decision_number": "1966/131",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kira akdinin feshi ve tahliye davasının kabulüne ilişkin karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1963/154",
+      "decision_number": "1966/132",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kira akdinin feshi ve tahliye davasının kabulüne ilişkin karar."
+    },
+    {
+      "court": "Tapulama Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1974/5",
+      "decision_number": "1975/49",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kadastro tespitine itiraz davasında fazla tespitin davacılar adına tescili."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1977/61",
+      "decision_number": "2001/9",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Fazla istimlak edilen bölümün davacılar adına tesciline ilişkin karar."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2002/1795",
+      "decision_number": "2002/4523",
+      "relation": "referenced",
+      "outcome": "Onama",
+      "treatment": "Follows",
+      "context": "Kadastro Mahkemesi kararını onayan temyiz incelemesi."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1971/23",
+      "decision_number": "2000/33",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen kadastro davası."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1971/22",
+      "decision_number": "2000/50",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen kadastro davası."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1971/15",
+      "decision_number": "2000/29",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen kadastro davası."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1973/76",
+      "decision_number": "2000/26",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen kadastro davası."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1979/175",
+      "decision_number": "1996/90",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen dava."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1999/3",
+      "decision_number": "1999/18",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen kadastro davası."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/135",
+      "decision_number": "2000/306",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tesciline karar verilen dava."
+    },
+    {
+      "court": "Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "1962/191",
+      "decision_number": "1964/6",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Orman Kanunu'na muhalefet suçlamasıyla verilen karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1970/165",
+      "decision_number": "1972/150",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tahliye ve hasılat kirası tutarının tahsili istemli dava."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1972/137",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Devletleştirilen orman alanlarının tezyidi bedel davası."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1991/298",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Çiftliklerin icara verildiği beyanlarını içeren keşif tutanakları."
+    }
+  ]
+}

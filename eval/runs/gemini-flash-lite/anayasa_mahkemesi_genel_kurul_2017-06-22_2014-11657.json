@@ -1,0 +1,261 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2014/11657",
+  "decision_number": null,
+  "decision_date": "2017-06-22",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Başvurucunun temyiz karar harcının hatalı hesaplanması nedeniyle mahkemeye erişim hakkının ihlal edildiğine, diğer şikayetlerinin ise kabul edilemez olduğuna karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Taşınmaz satış vaadi sözleşmesinde harç ve vekalet ücretinin hesaplanması ile temyiz karar harcının hatalı hesaplanması nedeniyle mülkiyet ve mahkemeye erişim haklarının ihlali iddiaları.",
+  "summary": "Başvurucu, gayrimenkul satış vaadi sözleşmesine dayalı tapu iptali ve tescil davasında, taşınmazın gerçek bedeli yerine sözleşmede belirlenen düşük bedelin kendisine ödenmesine karar verilmesi, harç ve vekalet ücretinin gerçek bedel üzerinden hesaplanması, karar ve ilam harcının ayrı ayrı hükmedilmemesi ve temyiz karar harcının yanlış hesaplanması nedenleriyle mülkiyet hakkının ihlal edildiğini iddia etmiştir. Anayasa Mahkemesi, satış bedeli, karar ve ilam harcının ayrı hükmedilmemesi ve harç/vekalet ücretinin taşınmaz değeri üzerinden belirlenmesi iddialarını açıkça dayanaktan yoksun veya kişi yönünden yetkisizlik nedeniyle kabul edilemez bulmuştur. Ancak, temyiz karar harcının hatalı hesaplanması nedeniyle mahkemeye erişim hakkının ihlal edildiğine karar vererek, ihlalin sonuçlarının giderilmesi için dosyayı ilgili Yargıtay dairesine göndermiştir.",
+  "keywords": [
+    "taşınmaz satış vaadi",
+    "tapu iptali ve tescil",
+    "harç hesaplaması",
+    "vekâlet ücreti",
+    "temyiz karar harcı",
+    "mülkiyet hakkı",
+    "mahkemeye erişim hakkı",
+    "adil yargılanma hakkı",
+    "kanunilik ilkesi",
+    "takdir hatası"
+  ],
+  "legal_issues": [
+    "Taşınmaz satış vaadi sözleşmesinde, sözleşmede belirlenen bedel yerine taşınmazın gerçek bedeli üzerinden harç ve vekâlet ücreti hesaplanması mülkiyet hakkını ihlal eder mi?",
+    "Birden fazla davalı aleyhine hükmedilen karar ve ilam harcının ayrı ayrı hesaplanmaması mülkiyet hakkını ihlal eder mi?",
+    "Temyiz karar harcının hatalı hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "Yargılama giderlerinin ve vekâlet ücretinin belirlenmesinde ölçülülük ilkesi nasıl uygulanır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucunun, harç ve vekâlet ücretinin taşınmazın gerçek bedeli üzerinden hesaplanması nedeniyle mülkiyet hakkının ihlal edildiği iddiası temel inceleme konusudur."
+    },
+    {
+      "concept": "mahkemeye erişim hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Temyiz karar harcının hatalı hesaplanması iddiası, adil yargılanma hakkının bir görünümü olan mahkemeye erişim hakkı kapsamında incelenmiştir."
+    },
+    {
+      "concept": "satış vaadi sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Uyuşmazlığın temelini oluşturan gayrimenkul satış vaadi sözleşmesinin yorumlanması ve sonuçlarının belirlenmesi derece mahkemelerinin görevidir."
+    },
+    {
+      "concept": "harçlar kanunu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu iptali ve tescil davalarında harcın taşınmazın değeri üzerinden hesaplanacağına dair Harçlar Kanunu hükümleri uygulanmıştır."
+    },
+    {
+      "concept": "hukuk muhakemeleri kanunu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargılama giderlerinin taraflara paylaştırılmasına veya müteselsilen sorumlu tutulmalarına ilişkin HMK hükümleri değerlendirilmiştir."
+    },
+    {
+      "concept": "dürüstlük ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Yargıtay'ın bazı kararlarında, sözleşme tarihi ile dava tarihi arasında uzun zaman geçmesi halinde semenin güncellenmesi gerektiği yönündeki içtihadı dürüstlük ilkesine dayandırılmıştır."
+    },
+    {
+      "concept": "kanunilik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Temyiz karar harcının kanuni dayanağı olmadan fazladan hesaplanması kanunilik ilkesini ihlal etmektedir."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargılama giderlerinin ve vekâlet ücretinin belirlenmesinde, başvurucunun mahkemeye erişimini engelleyecek orantısız bir külfet yüklenmemesi gerektiği ölçülülük ilkesi çerçevesinde değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Temyiz karar harcının hatalı hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "rule": "Mahkemeye erişim hakkı, Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkının bir gereğidir ve bu hakka yapılan müdahaleler Anayasa'nın 13. maddesinde belirtilen genel sınırlama ilkelerine uygun olmalıdır. Yargıtay tarafından kanuni düzenlemelere aykırı olarak fazladan temyiz karar harcı hesaplanması, kanunilik ve ölçülülük ilkelerini ihlal ederek mahkemeye erişim hakkını zedeleyebilir.",
+    "application": "Somut olayda Yargıtay, başvurucunun hissesine düşen değer yerine taşınmazın toplam değerinin üçte ikisi üzerinden temyiz karar harcı hesaplamıştır. Bu hesaplama, 492 sayılı Kanun'un ilgili hükümlerine aykırı olup fazladan 21.235,66 TL harç yüklenmesine neden olmuştur. Bu durum, kanunilik ilkesini ihlal etmekte ve başvurucunun mahkemeye erişim hakkını zedelemektedir.",
+    "conclusion": "Başvurucu aleyhine fazladan hükmedilen 21.235,66 TL temyiz karar harcı yönünden Anayasa'nın 36. maddesinde güvenceye bağlanan mahkemeye erişim hakkının ihlal edildiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "davacı",
+      "davalı",
+      "Yargıtay",
+      "Asliye Mahkemesi"
+    ],
+    "context": "Taşınmaz satış vaadi sözleşmesine dayalı tapu iptali ve tescil davasında, harç ve vekâlet ücretinin hesaplanması ile temyiz karar harcının belirlenmesinden kaynaklanan uyuşmazlık.",
+    "trigger": "İlk derece mahkemesinin, sözleşmede belirlenen satış bedeli yerine taşınmazın bilirkişi tarafından tespit edilen gerçek bedeli üzerinden harç ve vekâlet ücretine hükmetmesi ve Yargıtay'ın temyiz karar harcını hatalı hesaplaması.",
+    "claim": "Taşınmaz satış vaadi sözleşmesine istinaden açılan davada, harç ve vekâlet ücretinin sözleşmede belirlenen bedel yerine gerçek bedel üzerinden hesaplanması, karar ve ilam harcının ayrı ayrı hükmedilmemesi ve temyiz karar harcının hatalı hesaplanması nedeniyle mülkiyet ve mahkemeye erişim haklarının ihlal edildiği iddiaları."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Mahkemeye erişim hakkının ihlal edildiği gerekçesiyle yeniden yargılama için gönderilen karar."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/10774",
+      "decision_number": "2015/10298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Taşınmaz satış vaadi sözleşmelerinde güncellenmiş bedel ödenmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/5689",
+      "decision_number": "2017/7082",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış bedelinin tamamı ödenmediyse güncellenmiş bedelin depo edilmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/14923",
+      "decision_number": "2014/2015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış bedelinin ödenmediği takdirde güncellenmiş bedelin depo edilmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/8956",
+      "decision_number": "2015/9538",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış bedelinin ödenmediği takdirde güncellenmiş bedelin depo edilmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/12/2013 tarihli karar ile mahkeme kararının onanması."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-692",
+      "decision_number": "2006/702",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmazın rayiç bedeli üzerinden alınması gerektiği kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-91",
+      "decision_number": "2006/115",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmazın rayiç bedeli üzerinden alınması gerektiği kararı."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "15",
+      "context": "Yargı harçlarının nispi ve maktu esas üzerinden alınması."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "16",
+      "context": "Gayrimenkulün aynına taallük eden davalarda değerin esas alınması."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "1 sayılı Tarife",
+      "context": "Karar ve ilam harçlarının nispi esas üzerinden hesaplanması."
+    },
+    {
+      "law": "Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "6101",
+      "article": "1",
+      "context": "Borçlar Kanunu'nun yürürlüğe girdiği tarihten önceki fiil ve işlemlere uygulanacak kanun."
+    },
+    {
+      "law": "Borçlar Kanunu",
+      "law_number": "818",
+      "article": "81",
+      "context": "Karşılıklı taahhütleri içeren akdin ifasını talep eden tarafın kendi borcunu ifa etmesi gereği."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "326",
+      "context": "Yargılama giderlerinin aleyhine hüküm verilen taraftan alınması ve paylaştırılması."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "162",
+      "context": "Müteselsil borçluluğun doğumu ve kapsamı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkı güvencesi ve sınırlamaları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama özgürlüğü ve adil yargılanma hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "1 sayılı Protokol Madde 1",
+      "context": "Mülkiyet hakkının güvencesi ve kamu yararı sebebiyle sınırlanması."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal halinde yapılması gerekenlere hükmedilmesi ve yeniden yargılama."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "46",
+      "context": "Bireysel başvuru hakkına sahip olma koşulları."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "file": "yargitay_yibbgk_hukuk_2016_6_2017_5.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+  "case_number": "2016/6",
+  "decision_number": "2017/5",
+  "decision_date": "2017-12-15",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "İçtihatları Birleştirme Büyük Genel Kurulu kararları kesin olup aleyhine yargı yoluna başvurulamaz (Yargıtay Kanunu m.16/son).",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "İçtihatların birleştirilmesine gerek olmadığına, işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağının her somut olayın özelliğine göre değerlendirilmesi gerektiğine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusundaki içtihat aykırılığının giderilmesi",
+  "keywords": [
+    "işçilik alacakları",
+    "belirsiz alacak davası",
+    "kıdem tazminatı",
+    "ihbar tazminatı",
+    "yıllık izin ücreti",
+    "fazla çalışma ücreti",
+    "hafta tatili ücreti",
+    "genel tatil ücreti",
+    "ücret miktarı",
+    "işveren kayıtları",
+    "somut olayın özellikleri"
+  ],
+  "legal_issues": [
+    "İşçilik alacakları genel olarak belirsiz alacak davasına konu olabilir mi, yoksa her somut olayın özelliklerine göre mi değerlendirilmelidir?",
+    "Kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti alacakları belirsiz alacak davasına konu olabilir mi?",
+    "Fazla çalışma ücreti, hafta tatili ücreti ve genel tatil ücreti alacakları belirsiz alacak davasına konu olabilir mi?",
+    "Ücret miktarının işveren kayıtlarına dayalı olarak belirlenmesi gereken durumlarda belirsiz alacak davası açılabilir mi?",
+    "İçtihatları birleştirme kararı ile işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusunda soyut ve genel bir kural belirlenebilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "belirsiz alacak davası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, işçilik alacaklarının belirsiz alacak davası kapsamında değerlendirilip değerlendirilmeyeceğinin belirlenmesidir."
+    },
+    {
+      "concept": "işçilik alacakları",
+      "role": "uygulanan",
+      "context_in_reasoning": "İş sözleşmesine istinaden çalışan işçi ile işveren arasında ileri sürülebilecek her türlü alacak talebinin işçilik alacakları kavramı kapsamında değerlendirilmesi gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "somut olayın özellikleri",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Her bir somut olayın özelliğine göre mahkemelerin alacağın belirli mi yoksa belirsiz alacak mı olduğunu tespit etmeleri gerektiği sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "ücret miktarının belirlenmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Ücret miktarının maktu tutar olarak belirlendiği durumlarda feshe bağlı alacakların belirsiz alacak niteliğinde olmadığı, ancak yüzde usulü veya prim sistemi ile çalışıldığında ücret miktarının işveren kayıtlarına dayalı olarak belirlenmesi gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Belirsiz alacak davası müessesesi, hak arama özgürlüğünün önündeki engelleri kaldırmak amacıyla, davacının dava edebileceği gerçek ve somut alacak miktarını belirleyebilmesinin kendisinden beklenemeyeceği veya imkânsız olduğu hâllerde getirilmiştir."
+    },
+    {
+      "concept": "içtihatları birleştirme kararlarının normatif yapısı",
+      "role": "tartışılan",
+      "context_in_reasoning": "İçtihatları birleştirme kararlarının soyut, genel ve her defasında geçerli normatif yapısı ile işçilik alacaklarının her somut olayın özelliğine göre değerlendirilmesi gerektiği ilkesi arasında uyumsuzluk bulunduğu belirtilmiştir."
+    },
+    {
+      "concept": "likit alacak",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Alacağın belirli olması kavramının tespitinde İcra ve İflas Kanunu'nun 67. maddesinde öngörülen likit alacak kavramının yol gösterici olabileceği, likit alacağın tutarı belli, bilinebilir, hesaplanabilir alacak olduğu belirtilmiştir."
+    },
+    {
+      "concept": "hâkimin takdir yetkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Fazla çalışma, hafta tatili ve genel tatil ücretleri için hâkimin belirlenen ücret miktarından takdiri indirim yapabileceği yerleşik Yargıtay içtihadı olup, bu tür alacaklar için açılan davaların belirsiz alacak davası olduğu kabul edilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İşçilik alacakları genel olarak belirsiz alacak davasına konu olabilir mi, yoksa her somut olayın özelliklerine göre mi değerlendirilmelidir?",
+    "rule": "Hukuk Muhakemeleri Kanunu m.107 uyarınca, davanın açıldığı tarihte alacağın miktarını tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu hâllerde belirsiz alacak davası açılabilir. İçtihatları birleştirme kararları soyut, genel ve her defasında geçerli normatif yapıda olmalıdır.",
+    "application": "İşçilik alacakları çok değişik tür ve nitelikte uyuşmazlık olarak mahkemeler önüne gelebilmekte, aynı tür ve nitelikteki işçilik alacaklarında dahi her defasında alacağın belirli veya belirsiz olmasından söz edilmesi mümkün olmamaktadır. Talep edilen alacağın niteliği, hesaplanma şekli, alacağın miktarının işveren kayıtlarına dayalı olup olmadığı, alacağın miktarını tam ve kesin olarak belirleyebilmesinin davacıdan beklenip beklenemeyeceği gibi hususlar gözetilerek somut uyuşmazlığın koşullarına göre değerlendirme yapılması gerekir.",
+    "conclusion": "Alacağın türü itibariyle bir alacağın belirli veya belirsiz alacak olduğundan söz edilemeyeceğinden, bu hususta yapılacak içtihadı birleştirmenin içtihatları birleştirme kararlarının normatif yapısıyla bağdaşmadığı gerekçesiyle içtihadı birleştirmeye gerek olmadığına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işçi",
+      "işveren",
+      "mahkeme"
+    ],
+    "context": "Yargıtay'ın farklı daireleri arasında işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusunda içtihat aykırılığı ortaya çıkmıştır.",
+    "trigger": "Avukatlar tarafından Yargıtay Birinci Başkanlığına yapılan başvurular ile Yargıtay Birinci Başkanlık Kurulu tarafından görüş aykırılığının tespit edilmesi.",
+    "claim": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusundaki içtihat aykırılığının İçtihatları Birleştirme Büyük Genel Kurulu tarafından giderilmesi."
+  }
+}

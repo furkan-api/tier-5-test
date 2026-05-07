@@ -1,0 +1,109 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/11885",
+  "decision_number": "2022/4969",
+  "decision_date": "2022-05-25",
+  "decision_type": "Temyiz",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Asli müdahiller ve davalı Hazinenin temyiz itirazlarının kabulü ile hükmün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Muhalif görüş, çiftlik tapu kayıtlarının miktarıyla geçerli olduğu ve zemine uygulanabilir nitelikte bulunduğunu, bozma ilamının tam olarak yerine getirilmediğini ve eksik araştırma yapıldığını belirterek, dava konusu taşınmazların tapu kayıtları kapsamında kalıp kalmadığının yeniden keşif ve inceleme yoluyla belirlenmesi gerektiğini savunmaktadır.",
+  "appellants": [
+    "davacı-davalı İdaresi",
+    "davalı Hazine",
+    "asli müdahil",
+    "müdahil şirket"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı-davalı İdaresi",
+      "result": "ret"
+    },
+    {
+      "role": "davalı Hazine",
+      "result": "kabul"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "kabul"
+    },
+    {
+      "role": "müdahil şirket",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Kadastro tespitine itiraz davası kapsamında çiftlik tapu kayıtlarının kapsamının belirlenmesi ve taşınmazların tesciline ilişkin uyuşmazlık",
+  "keywords": [
+    "çiftlik tapu kayıtları",
+    "kadastro tespiti",
+    "gayri sabit hudutlar",
+    "miktarıyla geçerlilik",
+    "zilyetlik",
+    "devletleştirilen ormanlar",
+    "tapu uygulaması",
+    "kapsam tayini",
+    "arazi kanunnamesi",
+    "3402 sayılı kanun"
+  ],
+  "legal_issues": [
+    "Sınırları gayri sabit olan çiftlik tapu kayıtlarına 3402 sayılı Kadastro Kanunu m.20/C uyarınca miktarıyla kapsam tayin edilebilir mi?",
+    "Tapu kayıtlarının zemine uygulanabilirliği ve kapsamının belirlenmesi için hangi yöntem izlenmelidir?",
+    "Arazi Kanunnamesi m.20 ve 78 uyarınca zilyetlikle kazanım şartları oluşmuş mudur?",
+    "Devletleştirilen orman alanları tapu kayıtlarının kapsamından nasıl çıkarılmalıdır?",
+    "Müdahil şirketin harici satın alma iddiasına dayalı tescil talebinin hukuki sonucu nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "gayri sabit hudutlu tapu kayıtları",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, sınırları gayri sabit olan çiftlik tapu kayıtlarının miktarıyla geçerli olması ve zemine uygulanabilirliğinin belirlenmesidir."
+    },
+    {
+      "concept": "miktarıyla geçerlilik",
+      "role": "uygulanan",
+      "context_in_reasoning": "3402 sayılı Kanun m.20/C uyarınca harita, plan ve krokiye dayanmayan kayıtlarda sınırlar değişebilir nitelikte ise miktara itibar edilir ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "kapsam tayini",
+      "role": "tartışılan",
+      "context_in_reasoning": "Çiftlik tapu kayıtlarının kapsamının nasıl belirleneceği, sabit sınırlardan başlanarak miktarıyla uygulanması gerekip gerekmediği konusu tartışılmıştır."
+    },
+    {
+      "concept": "zilyetlikle kazanım",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Arazi Kanunnamesi m.20 ve 78 uyarınca zilyetlikle kazanım şartlarının oluşup oluşmadığı, tapu kayıtlarının kapsamı belirlenene kadar araştırılması gerekmektedir."
+    },
+    {
+      "concept": "devletleştirilen ormanlar",
+      "role": "uygulanan",
+      "context_in_reasoning": "4785 sayılı Yasa uyarınca devletleştirilen orman alanları tapu kayıtlarının yüzölçümünden düşülerek kapsam tayini yapılmalıdır."
+    },
+    {
+      "concept": "kütük zilyetliği",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tapu kaydında kayıtlı bulunmanın kendisinin zilyetliği devam ettirdiği ilkesi, gayri sabit hudutlu tapu kayıtlarında da uygulanır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sınırları gayri sabit olan çiftlik tapu kayıtlarına 3402 sayılı Kadastro Kanunu m.20/C uyarınca miktarıyla kapsam tayin edilerek dava konusu taşınmazlar tesciline karar verilebilir mi?",
+    "rule": "3402 sayılı Kadastro Kanunu m.20/C uyarınca harita, plan ve krokiye dayanmayan kayıtlarda sınırlar değişebilir ve genişletilmeye elverişli nitelikte ise miktara itibar olunur; ancak fizik yapıları ve konumları itibariyle belli bir yeri kapsıyorsa tespit o sınır esas alınarak yapılır. Tapu kayıtlarının kapsamı belirlenirken sabit sınırlardan başlanmalı, devletleştirilen orman alanları düşülmeli ve zilyetlik şartları araştırılmalıdır.",
+    "application": "Dava konusu çiftlik tapu kayıtlarının sınırları gayri sabit olmakla birlikte, zemine uygulanabilir nitelikte olduğu ve fen bilirkişi raporlarında gösterildiği anlaşılmıştır. Ancak, tapu kayıtlarının kapsamının tam olarak belirlenmesi için sabit sınırlardan başlanarak, devletleştirilen orman alanları ve kamulaştırılan alanlar düşülerek, zilyetlik şartları araştırılmak suretiyle yeniden keşif yapılması gerekmektedir.",
+    "conclusion": "Mahkemece yapılan araştırma ve inceleme yetersiz olduğundan, dava konusu taşınmazların tapu kayıtları kapsamında kalıp kalmadığının tam olarak belirlenmesi için hüküm bozulmalı ve yeniden yargılama yapılmalıdır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı-davalı İdaresi",
+      "davalı Hazine",
+      "müdahil şirket",
+      "çiftlik tapu sahipleri"
+    ],
+    "context": "Hisarönü Köyünde bulunan 279 ada 4 parsel, 280 ada 1 parsel ve 290 ada 29 parsel sayılı taşınmazlar hakkında kadastro tespitine itiraz davası açılmış, tapu malikleri tarafından Mart 1290 tarihli çiftlik tapu kayıtlarına dayanılarak tescil talep edilmiştir.",
+    "trigger": "Kadastro çalışmaları sırasında dava konusu taşınmazlar hakkında tespit tutanakları düzenlenmiş, tapu malikleri bu tutanaklara itiraz ederek çiftlik tapu kayıtlarına dayalı olarak tescil davası açmışlardır.",
+    "claim": "Davacılar ve müdahiller, dava konusu taşınmazların Mart 1290 tarihli çiftlik tapu kayıtları kapsamında kaldığını ileri sürerek, taşınmazların kendileri ve müdahil şirket adına tesciline karar verilmesini talep etmişlerdir."
+  }
+}

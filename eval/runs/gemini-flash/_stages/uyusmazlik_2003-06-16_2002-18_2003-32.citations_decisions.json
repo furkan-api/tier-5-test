@@ -1,0 +1,115 @@
+{
+  "file": "uyusmazlik_2003-06-16_2002-18_2003-32.md",
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1997/6883",
+      "decision_number": "1999/685",
+      "relation": "chained",
+      "outcome": "İptal",
+      "treatment": null,
+      "context": "Yönetim Kurulu kararının bir kısmının iptaline karar veren Danıştay kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Danıştay 10. Daire kararını kısmen onayan, kısmen bozan İDDGK kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "chained",
+      "outcome": "İptal",
+      "treatment": null,
+      "context": "İDDGK bozması sonrası Yönetim Kurulu kararının bir kısmını iptal eden karar."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1999/388",
+      "decision_number": "1999/1015",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Danıştay 10. Daire kararını kısmen onayan, kısmen bozan İDDGK kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/187",
+      "decision_number": "2000/822",
+      "relation": "chained",
+      "outcome": "Karar Düzeltme Reddi",
+      "treatment": null,
+      "context": "Davalı idarenin karar düzeltme istemini reddeden İDDGK kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4911",
+      "decision_number": "2001/1234",
+      "relation": "chained",
+      "outcome": "Karar Verilmesine Yer Olmadığı",
+      "treatment": null,
+      "context": "Hüküm uyuşmazlığına konu olan Danıştay kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4901",
+      "decision_number": "2001/1039",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçmişe yönelik prim farkı tahakkukunu iptal eden emsal Danıştay kararı."
+    },
+    {
+      "court": "Ankara 7. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/533",
+      "decision_number": "2000/56",
+      "relation": "chained",
+      "outcome": "Kısmen Kabul",
+      "treatment": null,
+      "context": "Hüküm uyuşmazlığına konu olan ilk derece iş mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1999/2742",
+      "decision_number": "1999/5218",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gecikme zammı uygulanmasında iyiniyet kurallarını vurgulayan Yargıtay içtihadı."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2000/3629",
+      "decision_number": "2000/5521",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Ankara 7. İş Mahkemesi kararını onayan Yargıtay kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1993/2472",
+      "decision_number": "1995/2351",
+      "relation": "chained",
+      "outcome": "Ret",
+      "treatment": null,
+      "context": "Prim oranının uygulanmasında hukuka aykırılık bulunmadığına dair Danıştay kararı."
+    }
+  ]
+}

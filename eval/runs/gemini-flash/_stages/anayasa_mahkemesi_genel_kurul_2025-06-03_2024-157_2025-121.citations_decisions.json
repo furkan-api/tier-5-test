@@ -1,0 +1,155 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/13008",
+      "decision_number": "2022/11572",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl-alt işveren ilişkisinde zorunlu dava arkadaşlığını kabul eden karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/5490",
+      "decision_number": "2022/6534",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl-alt işveren ilişkisinde zorunlu dava arkadaşlığını kabul eden karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/9540",
+      "decision_number": "2021/14240",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl-alt işveren ilişkisinde zorunlu dava arkadaşlığını kabul eden karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/178",
+      "decision_number": "2018/82",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Dava yoluyla hak arama özgürlüğü ve dava şartlarının resen gözetilmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi İkinci Bölüm",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/791",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının anlamı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/41",
+      "decision_number": "2017/98",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hukuk devleti ilkesi ve hukuki belirlilik."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2022/124",
+      "decision_number": "2023/135",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğüne sınırlama sebepleri."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/99",
+      "decision_number": "2021/14",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğüne sınırlama sebepleri."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/150",
+      "decision_number": "2017/179",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğüne sınırlama sebepleri."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/14586",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adil yargılanma hakkına yönelik sınırlamalarda takdir yetkisi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/176",
+      "decision_number": "2015/53",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/13",
+      "decision_number": "2016/127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/71",
+      "decision_number": "2018/118",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2021/117",
+      "decision_number": "2022/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi."
+    },
+    {
+      "court": "Adana 6. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "İptali istenen kuralı Anayasa Mahkemesi'ne taşıyan ilk derece mahkemesi."
+    }
+  ]
+}

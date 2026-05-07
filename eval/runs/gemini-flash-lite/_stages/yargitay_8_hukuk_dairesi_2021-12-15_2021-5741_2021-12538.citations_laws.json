@@ -1,0 +1,77 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md",
+  "cited_law_articles": [
+    {
+      "law": "3402 sayılı Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/B",
+      "context": "Harita, plan ve krokiye dayanmayan kayıt ve belgelerde belirtilen sınırlar mahalline uygulanabiliyor ise."
+    },
+    {
+      "law": "3402 sayılı Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/C",
+      "context": "Gayrimuayyen hudutlu tapu kayıtlarının miktarıyla geçerli olduğu; sabit hudutlardan başlanarak miktarı kadar yer ayrılması."
+    },
+    {
+      "law": "3402 sayılı Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "30/2",
+      "context": "Kadastro tespitlerinde malik hanesi açık bırakıldığında re'sen araştırma ilkesinin geçerliliği."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "20",
+      "context": "Miri arazinin zilyetlikle kazanılmasına ilişkin hükümler."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "78",
+      "context": "Miri arazinin zilyetlikle kazanılmasına ilişkin hükümler."
+    },
+    {
+      "law": "Türk Kanunu Medenisi",
+      "law_number": null,
+      "article": null,
+      "context": "Medeni Kanun'a aykırı olmayan Arazi Kanunnamesi hükümlerinin yürürlükte olduğu kabulü."
+    },
+    {
+      "law": "6100 sayılı Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "Geçici 3",
+      "context": "1086 sayılı HUMK'un uygulanmasına ilişkin geçici madde."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": "428",
+      "context": "Bozma kararına uyulması halinde verilecek hüküm."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": "440/I",
+      "context": "Karar düzeltme istemi süresi."
+    },
+    {
+      "law": "2901 sayılı Yasa",
+      "law_number": "2901",
+      "article": null,
+      "context": "Tahrir kayıtlarının oluşturulması ve delil olarak kullanılması."
+    },
+    {
+      "law": "4785 sayılı Kanun",
+      "law_number": "4785",
+      "article": null,
+      "context": "Ormanların devletleştirilmesine ilişkin kanun."
+    },
+    {
+      "law": "6831 sayılı Kanun",
+      "law_number": "6831",
+      "article": "10",
+      "context": "Orman Kanunu'nun ilgili maddesi."
+    }
+  ]
+}

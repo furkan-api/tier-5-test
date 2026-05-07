@@ -1,0 +1,185 @@
+{
+  "file": "kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md",
+  "court_type": "İlk Derece Hukuk",
+  "court": "Kayseri 2. Asliye Ticaret Mahkemesi",
+  "case_number": "2021/572",
+  "decision_number": "2021/1122",
+  "decision_date": "2021-12-15",
+  "decision_type": "Esas Karar",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Usulden Ret",
+  "decision_outcome_raw": "Davanın dava şartı yokluğu nedeniyle usulden reddine ve mahkemenin görevsizliğine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Haksız İhtiyati Haciz, Dolandırıcılık ve Sahtecilik Nedeniyle Tazminat Talebi",
+  "keywords": [
+    "görevsizlik",
+    "dava şartı",
+    "ticari dava",
+    "esnaf",
+    "tacir",
+    "haksız ihtiyati haciz",
+    "sahtecilik",
+    "dolandırıcılık",
+    "manevi tazminat",
+    "vekalet ücreti"
+  ],
+  "legal_issues": [
+    "Davacı tacir olmadığından, haksız fiilden kaynaklanan tazminat davası ticari dava mıdır ve Asliye Ticaret Mahkemesi görevli midir?",
+    "Sahtecilik ve dolandırıcılık suçlarından mahkumiyet kararı, tazminat davasında kesin delil teşkil eder mi?",
+    "Haksız ihtiyati haciz nedeniyle davacının manevi zararı oluşmuş mudur?",
+    "Davacı, haksız ihtiyati haciz nedeniyle ödemek zorunda kaldığı vekalet ücretini talep edebilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "görev",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Mahkeme, davacının tacir olmaması ve davanın mutlak veya nispi ticari dava niteliği taşımaması nedeniyle görevsizlik kararı vermiştir."
+    },
+    {
+      "concept": "ticari dava",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davanın ticari dava olup olmadığı, tarafların tacir olup olmadığı ve uyuşmazlığın ticari işletmeyle ilgili olup olmadığı incelenmiştir."
+    },
+    {
+      "concept": "dava şartı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Görev, HMK'nın 114/1-c maddesi uyarınca dava şartı olarak kabul edilmiş ve yokluğunda dava usulden reddedilmiştir."
+    },
+    {
+      "concept": "haksız ihtiyati haciz",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davacı, davalı tarafından haksız ihtiyati haciz uygulandığını iddia ederek manevi ve maddi tazminat talep etmiştir."
+    },
+    {
+      "concept": "resmi belgede sahtecilik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davalı vekilinin, Ağır Ceza Mahkemesi kararının denetime kapalı olduğu ve tazminat davasında esas alınamayacağı yönündeki itirazı tartışılmıştır."
+    },
+    {
+      "concept": "dolandırıcılık",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davacı, davalının dolandırıcılık suçu işlediğini iddia ederek tazminat talep etmiştir."
+    },
+    {
+      "concept": "manevi tazminat",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacı, haksız ihtiyati haciz nedeniyle kişilik haklarının zedelendiğini ileri sürerek manevi tazminat talep etmiştir."
+    },
+    {
+      "concept": "vekalet ücreti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacı, haksız ihtiyati haciz nedeniyle savunma hakkını kullanmak için ödemek zorunda kaldığı vekalet ücretinin tazminini talep etmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davacı tacir olmadığından, haksız fiilden kaynaklanan tazminat davası ticari dava mıdır ve Asliye Ticaret Mahkemesi görevli midir?",
+    "rule": "Ticari davalar, mutlak ticari davalar, nispi ticari davalar ve ticari işletmeyi ilgilendiren davalar olarak sınıflandırılır; davacının tacir olmaması ve davanın mutlak veya nispi ticari dava niteliği taşımaması halinde görevli mahkeme Asliye Hukuk Mahkemesidir.",
+    "application": "Davacı tacir olmadığından ve dava konusu uyuşmazlık mutlak veya nispi ticari dava kapsamında olmadığından, Asliye Ticaret Mahkemesi görevli değildir; görev, HMK'nın 114/1-c maddesi uyarınca dava şartı olup, mahkemenin görevsizlik kararı vermesi gerekmektedir.",
+    "conclusion": "Davanın dava şartı yokluğu nedeniyle usulden reddine ve mahkemenin görevsizliğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı",
+      "icra müdürü",
+      "ağır ceza mahkemesi"
+    ],
+    "context": "Davacı aleyhine başlatılan ilamsız icra takibi ve ihtiyati haciz işlemleri.",
+    "trigger": "Davalı tarafından, tahrifat yapıldığı iddia edilen bir senete dayanılarak davacı hakkında ihtiyati haciz kararı alınması ve bu karar uyarınca haciz yapılması.",
+    "claim": "Haksız ihtiyati haciz, dolandırıcılık ve resmi belgede sahtecilik iddiaları nedeniyle davacının uğradığı manevi ve maddi zararların (vekalet ücreti dahil) tazmini."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/5582",
+      "decision_number": "2018/2478",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4-1008",
+      "decision_number": "2014/490",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/19-374",
+      "decision_number": "2018/943",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/2705",
+      "decision_number": "2014/165",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/14880",
+      "decision_number": "2016/9206",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sahte senet nedeniyle hukuk ve ceza mahkemesi kararlarının etkisi hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1026",
+      "decision_number": "2015/1765",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ticari dava niteliğinin belirlenmesi hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 19. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/17318",
+      "decision_number": "2018/1926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Zamanaşımına uğramış kambiyo senedine dayalı takibe itirazın iptali davasında görev hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1947/25",
+      "decision_number": "1948/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vekalet ücretinin tahsili hakkında emsal karar."
+    }
+  ]
+}

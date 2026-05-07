@@ -1,0 +1,92 @@
+{
+  "file": "istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md",
+  "court_type": "Bölge İdare Mahkemesi",
+  "court": "İstanbul Bölge İdare Mahkemesi Altıncı Vergi Dava Dairesi",
+  "case_number": "2025/2172",
+  "decision_number": "2025/2209",
+  "decision_date": "2025-05-14",
+  "decision_type": "İstinaf",
+  "is_final": false,
+  "finality_basis": "2577 sayılı Kanun'un 46. maddesinin (b) bendi uyarınca kararın tebliğ tarihini izleyen günden itibaren 30 gün içerisinde Danıştay'a temyiz yolu açık olmaküzere.",
+  "decision_outcome": "Kısmen Kabul",
+  "decision_outcome_raw": "Dava konusu ödeme emrinin kurum geçici vergisi asıllarına ilişkin kısımlarının iptaline, kurum geçici vergisi asılları dışında kalan amme alacaklarına ilişkin kısımlarının iptali isteminin reddine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davalı idare"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı idare",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Ödeme emrinin iptali istemi hakkında.",
+  "keywords": [
+    "ödeme emri iptali",
+    "resen terk",
+    "elektronik tebligat",
+    "vergi usul kanunu",
+    "geçici vergi",
+    "kurum geçici vergisi",
+    "gecikme faizi",
+    "ceza",
+    "tahsil",
+    "harçlar kanunu",
+    "avukatlık ücreti"
+  ],
+  "legal_issues": [
+    "Mükellefiyet kaydı resen terk edilen davacıya yapılan elektronik tebligat usulüne uygun mudur?",
+    "Kurum geçici vergisinin asıllarının terkin edilmesi gereken durumlarda, bu alacaklar için ödeme emri düzenlenebilir mi?",
+    "Ödeme emrinin usulüne uygun tebliğ edilmediği iddiası, kesinleşmiş amme alacağının tahsilini engeller mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "ödeme emri",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, davacı adına düzenlenen ödeme emrinin hukuka uygunluğunun değerlendirilmesidir."
+    },
+    {
+      "concept": "elektronik tebligat",
+      "role": "uygulanan",
+      "context_in_reasoning": "213 sayılı Vergi Usul Kanunu'nun 107/A maddesi ve 456 sıra nolu Genel Tebliğ hükümleri uyarınca elektronik tebligatın geçerliliği incelenmiştir."
+    },
+    {
+      "concept": "resen terk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının mükellefiyet kaydının resen terk edilmiş olması, tebligatın kanuni temsilciye yapılması gerekliliği ve elektronik tebligatın geçerliliği açısından değerlendirilmiştir."
+    },
+    {
+      "concept": "kurum geçici vergisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "193 sayılı Gelir Vergisi Kanunu'nun mükerrer 120. maddesi uyarınca kurum geçici vergisi asıllarının terkin edilmesi gerektiği ve bu durumun ödeme emrinin iptali talebiyle ilişkisi tartışılmıştır."
+    },
+    {
+      "concept": "amme alacağı",
+      "role": "uygulanan",
+      "context_in_reasoning": "6183 sayılı Kanun'un 55. ve 58. maddeleri uyarınca kesinleşen amme alacaklarının tahsil usulü ve dava açma hakkı değerlendirilmiştir."
+    },
+    {
+      "concept": "tebliğ",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tebliğ esasları, muhatapları ve elektronik tebligatın geçerlilik şartları Vergi Usul Kanunu'na göre yorumlanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davacı adına düzenlenen ödeme emrinin usulüne uygun tebliğ edilip edilmediği ve kurum geçici vergisi asıllarının tahsil edilebilirliği.",
+    "rule": "213 sayılı VUK'un 107/A maddesi ve 456 sıra nolu Genel Tebliğ uyarınca elektronik tebligatın geçerli olduğu hallerde, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılacağı; 193 sayılı GVK'nun mükerrer 120. maddesi uyarınca ise mahsup süresi geçtikten sonra kesinleşen geçici vergi asıllarının terkin edileceği, ancak gecikme faizi ve cezanın tahsil edileceği düzenlenmiştir.",
+    "application": "Davacının mükellefiyet kaydının resen terk edilmiş olmasına rağmen, elektronik tebligat adresine yapılan tebliğin usulüne uygun olduğu ve dava konusu ödeme emri içeriği kurum geçici vergisi asıllarının terkin edilmesi gerektiği halde tahakkuk ettirilerek kesinleştirilmesi hukuka aykırıdır.",
+    "conclusion": "Dava konusu ödeme emrinin kurum geçici vergisi asıllarına ilişkin kısımlarının iptaline, diğer kısımlarının ise hukuka uygunluğuna karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı idare",
+      "kanuni temsilci"
+    ],
+    "context": "Davacı şirketin mükellefiyet kaydının resen terk edildiği ve davalı idarece ödeme emri düzenlendiği bir uyuşmazlık.",
+    "trigger": "Davacı adına düzenlenen 14.10.2022 tarihli ve 2022....0650 sayılı ödeme emrinin elektronik tebligat adresine tebliğ edilmesi.",
+    "claim": "Davacı adına düzenlenen ödeme emrinin iptali istemi."
+  }
+}

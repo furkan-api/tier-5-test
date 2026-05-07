@@ -1,0 +1,91 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2014/11657",
+  "decision_number": null,
+  "decision_date": "2017-06-22",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Temyiz karar harcının hatalı hesaplanması nedeniyle mahkemeye erişim hakkının ihlal edildiğine, diğer şikâyetlerin açıkça dayanaktan yoksun veya kişi yönünden yetkisizlik nedeniyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Tapu İptali ve Tescil Davasında Temyiz Karar Harcının Hatalı Hesaplanması Nedeniyle Mahkemeye Erişim Hakkının İhlali İddiası",
+  "keywords": [
+    "mahkemeye erişim hakkı",
+    "temyiz karar harcı",
+    "tapu iptali ve tescil davası",
+    "satış vaadi sözleşmesi",
+    "harcın hesaplanması",
+    "mülkiyet hakkı",
+    "adil yargılanma",
+    "ölçülülük ilkesi",
+    "kanunilik unsuru"
+  ],
+  "legal_issues": [
+    "Tapu iptali ve tescil davasında temyiz karar harcı, davalının taşınmazdaki hissesinin değeri üzerinden mi yoksa taşınmazın toplam değerinin bir kısmı üzerinden mi hesaplanmalıdır?",
+    "Temyiz karar harcının hatalı hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "Satış vaadi sözleşmesinde belirlenen bedel yerine taşınmazın gerçek bedeli üzerinden harç ve vekâlet ücretinin hesaplanması mülkiyet hakkını ihlal eder mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mahkemeye erişim hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, temyiz karar harcının hatalı hesaplanmasının Anayasa m.36'da güvence altına alınan mahkemeye erişim hakkını ihlal edip etmediğinin belirlenmesidir."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkemeye erişim hakkına müdahalelerin ölçülü olması, hakkın özüne zarar vermemesi ve meşru bir amaca dayalı olması gerektiği ölçülülük ilkesi uyarınca değerlendirilmiştir."
+    },
+    {
+      "concept": "kanunilik unsuru",
+      "role": "uygulanan",
+      "context_in_reasoning": "Temyiz karar harcının 492 sayılı Kanun'un açık hükmüne aykırı şekilde hesaplanması kanunilik unsurunu taşımadığı tespit edilmiştir."
+    },
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Başvurucunun satış bedeli ve harç-vekâlet ücreti konusundaki şikâyetleri mülkiyet hakkı kapsamında incelenmiş ancak ihlal tespit edilmemiştir."
+    },
+    {
+      "concept": "devletin pozitif yükümlülükleri",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Özel kişiler arasındaki uyuşmazlıkların çözümünde devletin etkili ve adil yargısal mekanizmalar oluşturma yükümlülüğü açıklanmıştır."
+    },
+    {
+      "concept": "dürüstlük ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Yargıtay'ın satış vaadi sözleşmelerinde semenin güncellenmesi konusunda dürüstlük ilkesine dayandırdığı içtihadı değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Tapu iptali ve tescil davasında temyiz karar harcı, davalının taşınmazdaki hissesinin değeri üzerinden mi yoksa taşınmazın toplam değerinin bir kısmı üzerinden mi hesaplanmalıdır?",
+    "rule": "492 sayılı Harçlar Kanunu'nun 15. ve 16. maddeleri ile Tarife'nin nispi karar harcını düzenleyen bölümü uyarınca, tapu iptali ve tescil davalarında karar ve ilam harcı ile temyiz karar harcı, dava konusu taşınmazın değerinin binde 68,31 oranı üzerinden hesaplanır. Davalının taşınmazdaki hissesi oranında davanın değeri belirlenmelidir.",
+    "application": "Başvurucu taşınmazın 1/3 hissesine sahip olup kendisi yönünden davanın değeri 310.872 TL'dir. Yargıtay, temyiz karar harcını taşınmazın toplam değerinin 2/3'i olan 621.744 TL üzerinden hesaplayarak başvurucu aleyhine 42.471,26 TL hükmetmiştir. Oysa başvurucunun ödemesi gereken temyiz karar harcı 310.872 TL üzerinden hesaplanmalı ve 21.235,66 TL olmalıdır. Yargıtay'ın uygulaması kanunun açık hükmüne aykırıdır.",
+    "conclusion": "Temyiz karar harcının hatalı hesaplanması nedeniyle başvurucu aleyhine fazladan hükmedilen 21.235,66 TL yönünden Anayasa m.36'da güvence altına alınan mahkemeye erişim hakkının ihlal edildiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "davalı",
+      "davacı",
+      "Yargıtay"
+    ],
+    "context": "Başvurucu ve kardeşi, taşınmazın hisselerini diğer kardeşe satış vaadi sözleşmesiyle 5.000 TL bedel karşılığında satmayı taahhüt etmiştir.",
+    "trigger": "Taraflar arasında anlaşmazlık çıkması üzerine davacı tarafından tapu iptali ve tescil davası açılmış ve mahkeme taşınmazın gerçek değerini 932.616 TL olarak tespit etmiştir.",
+    "claim": "Başvurucu, temyiz karar harcının hatalı hesaplanması, satış bedeli yerine taşınmazın gerçek bedeli üzerinden harç ve vekâlet ücretinin belirlenmesi ve harçların ayrı ayrı hükmedilmemesi nedeniyle mülkiyet ve mahkemeye erişim haklarının ihlal edildiğini ileri sürmüştür."
+  }
+}

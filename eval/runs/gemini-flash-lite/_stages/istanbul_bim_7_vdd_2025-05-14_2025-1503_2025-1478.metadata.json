@@ -1,0 +1,79 @@
+{
+  "file": "istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md",
+  "court_type": "Bölge İdare Mahkemesi",
+  "court": "İstanbul Bölge İdare Mahkemesi Yedinci Vergi Dava Dairesi",
+  "case_number": "2025/1503",
+  "decision_number": "2025/1478",
+  "decision_date": "2025-05-14",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "Anayasa Mahkemesi'nin 11.02.2025 tarih ve E:2025/39, K:2025/35 sayılı kararı uyarınca dava açılış tarihi itibariyle dava konusu tutar dikkate alınarak 2577 sayılı İdari Yargılama Usulü Kanunu'nun 46/b bendi uyarınca kesin olarak.",
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "İstinaf başvurusunun reddine, istinaf aşamasında yapılan yargılama giderinin istinaf başvurusunda bulunan üzerinde bırakılmasına ve karar harcının alınmasına oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davalı idare"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı idare",
+      "result": "ret"
+    }
+  ],
+  "subject": "Ruhsat Harici Alan İşgali Nedeniyle Tahakkuk Ettirilen İşgal Harcının İptali Talebi",
+  "keywords": [
+    "işgal harcı",
+    "ruhsat harici alan",
+    "geçici işgal",
+    "2464 sayılı Belediye Gelirleri Kanunu",
+    "istinaf",
+    "hukuka uygunluk",
+    "yargılama gideri",
+    "kesin karar"
+  ],
+  "legal_issues": [
+    "Umuma ait yerin geçici olarak işgal edilmediği durumlarda işgal harcı alınabilir mi?",
+    "Ruhsat alanı haricindeki alanların kullanılması işgal harcı mükellefiyeti doğurur mu?",
+    "İlk derece mahkemesi kararının hukuka uygunluğunun denetimi nasıl yapılır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "işgal harcı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, ruhsat harici alan kullanımı nedeniyle tahakkuk ettirilen işgal harcının hukuki dayanağının incelenmesidir."
+    },
+    {
+      "concept": "geçici işgal",
+      "role": "uygulanan",
+      "context_in_reasoning": "2464 sayılı Kanun'un 52. maddesi uyarınca işgal harcı alınabilmesi için umuma ait yerin geçici olarak işgal edilmesi gerektiği vurgulanmıştır."
+    },
+    {
+      "concept": "istinaf",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bölge İdare Mahkemesi'nin, ilk derece mahkemesi kararını hukuka uygun bulması halinde istinaf başvurusunun reddine karar vereceği 2577 sayılı Kanun'un 45/3. maddesi gereğince uygulanmıştır."
+    },
+    {
+      "concept": "hukuka uygunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "İstinaf incelemesinde, ilk derece mahkemesi kararının hukuka uygun olup olmadığı değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Ruhsat harici alanların kullanılması nedeniyle tahakkuk ettirilen işgal harcının hukuka uygunluğu nedir?",
+    "rule": "2464 sayılı Belediye Gelirleri Kanunu'nun 52. maddesi uyarınca, umuma ait yerlerin ancak geçici olarak işgali halinde işgal harcı alınabilir.",
+    "application": "Dosyadaki belgeler incelendiğinde, ilk derece mahkemesinin kararının hukuka uygun olduğu ve davalı idarenin istinaf dilekçesinde ileri sürdüğü iddiaların kararın kaldırılmasını sağlayacak nitelikte olmadığı anlaşılmıştır.",
+    "conclusion": "Bu nedenlerle, istinaf başvurusunun reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı idare",
+      "ilk derece mahkemesi"
+    ],
+    "context": "Bir işletmenin ruhsat alanı haricindeki alanları işgal ettiği iddiasıyla hakkında işgal harcı tahakkuk ettirilmesi.",
+    "trigger": "İşletme önündeki ruhsat harici alanın işgal edildiği gerekçesiyle 267.800,00 TL tutarlı vergi ihbarnamesinin düzenlenmesi.",
+    "claim": "Ruhsat harici alanların işgal edildiği gerekçesiyle düzenlenen işgal harcı içerikli vergi ihbarnamesinin iptali."
+  }
+}

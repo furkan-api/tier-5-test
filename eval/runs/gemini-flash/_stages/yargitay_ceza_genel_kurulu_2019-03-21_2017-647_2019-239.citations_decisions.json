@@ -1,0 +1,55 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "cited_court_decisions": [
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Sanıkların mahkûmiyetine ilişkin ilk derece mahkemesi hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Yerel mahkeme hükmünü bozan Yargıtay Dairesi kararı."
+    },
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Yargıtay bozma kararına direnen yerel mahkeme hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Direnme Yerinde Görülmedi",
+      "treatment": null,
+      "context": "Direnme kararını yerinde görmeyen Yargıtay Dairesi kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Cinsiyete dayalı şiddetin ayrımcılık olduğunu belirten AİHM kararı."
+    }
+  ]
+}

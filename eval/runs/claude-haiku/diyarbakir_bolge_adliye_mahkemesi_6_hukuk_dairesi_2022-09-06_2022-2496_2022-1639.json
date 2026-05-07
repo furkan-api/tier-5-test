@@ -1,0 +1,352 @@
+{
+  "file": "diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md",
+  "court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+  "court": "Diyarbakır Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
+  "case_number": "2022/2496",
+  "decision_number": "2022/1639",
+  "decision_date": "2022-09-06",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "6100 sayılı HMK m. 362(1)-a uyarınca miktar itibarıyla kesin olmak üzere karar verilmiştir.",
+  "decision_outcome": "Düzelterek Esastan Ret",
+  "decision_outcome_raw": "İlk derece mahkemesinin kararı kaldırılarak, davanın dava şartı yokluğundan usulden reddine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Hizmet Alım Sözleşmesinden Kaynaklı Tazminat Talebine İlişkin Rücu Alacağı Davası",
+  "summary": "Davacı, hizmet alım sözleşmesine dayalı olarak davalı idare aleyhine tazminat talep etmiştir; idare, davacının adi ortaklığın ortaklarından yalnızca biri olması nedeniyle aktif dava ehliyetinin bulunmadığını ileri sürmüştür. İlk derece mahkemesi davayı aktif dava ehliyeti yokluğundan usulden reddetmiştir. Bölge Adliye Mahkemesi, istinaf incelemesinde kamu düzeni gözetilerek resen, davacının arabuluculuk dava şartını yerine getirmeden dava açtığını tespit etmiş; arabuluculuk şartının sonradan tamamlanamaz nitelikte olduğunu belirterek ilk derece kararını kaldırmıştır. Mahkeme, davanın 6102 sayılı Türk Ticaret Kanunu m. 5/A ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18/A(2) hükümleri gereğince dava şartı yokluğundan usulden reddine karar vermiştir.",
+  "keywords": [
+    "adi ortaklık",
+    "mecburî dava arkadaşlığı",
+    "dava şartı",
+    "arabuluculuk",
+    "ticarî dava",
+    "rücu alacağı",
+    "taraf ehliyeti",
+    "hizmet alım sözleşmesi",
+    "müteselsil sorumluluk",
+    "dava açma yetkisi"
+  ],
+  "legal_issues": [
+    "Adi ortaklığın ortaklarından biri tarafından tek başına açılan dava, diğer ortakların katılımı veya muvafakati olmaksızın görülebilir mi?",
+    "Ticarî dava niteliğindeki para alacağı davalarında arabuluculuk dava şartı sonradan tamamlanabilir nitelikte midir?",
+    "Hizmet alım sözleşmesinden kaynaklı tazminat talebinin rücu alacağı olarak ileri sürülmesi halinde dava şartları nasıl değerlendirilir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "adi ortaklık",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davacı ile dava dışı kişi arasında adi ortaklık ilişkisinin bulunması, dava açılması için tüm ortakların katılımını veya açık yetkisini gerektirmektedir."
+    },
+    {
+      "concept": "mecburî dava arkadaşlığı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Adi ortaklığın tarafı olarak hareket etmesi gereken ortaklar, dava açılması bakımından mecburî dava arkadaşı konumundadır."
+    },
+    {
+      "concept": "dava şartı olarak arabuluculuk",
+      "role": "ana_eksen",
+      "context_in_reasoning": "6102 sayılı TTK m. 5/A ve 6325 sayılı HUAK m. 18/A(2) uyarınca ticarî para alacağı davalarında arabuluculuk dava şartı emredici nitelikte olup sonradan tamamlanabilir değildir."
+    },
+    {
+      "concept": "taraf ehliyeti",
+      "role": "tartışılan",
+      "context_in_reasoning": "Adi ortaklığın tüzel kişiliği olmadığından, ortaklar tarafından birlikte hareket edilmesi veya açık yetki verilmesi gerekir."
+    },
+    {
+      "concept": "ticarî dava niteliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "Her iki tarafın tacir olması ve uyuşmazlığın her iki tarafın ticarî işletmesini ilgilendirmesi nedeniyle dava nispî ticarî dava niteliğindedir."
+    },
+    {
+      "concept": "rücu alacağı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Müteselsil borçluluk nedeniyle yapılan ödemenin rücu alacağı olarak ileri sürülmesi, dava şartlarının uygulanmasını değiştirmemektedir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Adi ortaklığın ortaklarından biri tarafından diğer ortakların katılımı olmaksızın açılan ticarî para alacağı davası, arabuluculuk dava şartı yerine getirilmeden görülebilir mi?",
+    "rule": "6102 sayılı TTK m. 5/A ve 6325 sayılı HUAK m. 18/A(2) uyarınca ticarî para alacağı davalarında arabuluculuk dava şartı emredici ve sonradan tamamlanabilir olmayan nitelikte bir dava şartıdır. Adi ortaklık tarafından açılacak davalarda ise 6098 sayılı TBK m. 620 vd. hükümleri uyarınca tüm ortaklar mecburî dava arkadaşı olarak hareket etmeli veya açık yetki verilmelidir.",
+    "application": "Davacı tarafından açılan dava, arabuluculuk dava şartı yerine getirilmeden açılmış olup, dava dilekçesinde veya dosyada arabuluculuk sürecinin işletildiğine dair herhangi bir belge bulunmamaktadır. Ayrıca dava, adi ortaklığın diğer ortağının katılımı veya muvafakati olmaksızın açılmıştır.",
+    "conclusion": "Dava, dava şartı yokluğundan usulden reddedilmelidir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (adi ortaklık ortağı)",
+      "davalı (kamu kurumu)",
+      "dava dışı (adi ortaklık diğer ortağı)"
+    ],
+    "context": "Davacı ile dava dışı kişi arasında adi ortaklık ilişkisi bulunmakta olup, bu ortaklık ile davalı kamu kurumu arasında hizmet alım sözleşmesi akdedilmiştir.",
+    "trigger": "Davalı kurum tarafından hizmet alım sözleşmesi kapsamındaki işçilerin belediye şirketi bünyesine geçiş işlemlerinin yapılması ve sözleşmenin feshedilmesi nedeniyle davacının zarara uğradığı iddia edilmiştir.",
+    "claim": "Davacı, müteselsil borçluluk nedeniyle ödediği tazminat bedeli ile işleyecek ticari faizinin davalıdan tahsiline karar verilmesini talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/6677",
+      "decision_number": "2013/2768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma yetkisine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12293",
+      "decision_number": "2012/13687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma yetkisine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4739",
+      "decision_number": "2013/6805",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma yetkisine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/2963",
+      "decision_number": "2019/4462",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta muvafakat sağlanması ilkesine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/4572",
+      "decision_number": "2018/4671",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta muvafakat sağlanması ilkesine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/1766",
+      "decision_number": "2019/4883",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta muvafakat sağlanması ilkesine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1980/11-2721",
+      "decision_number": "1983/323",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Su ve kanalizasyon idarelerinin tacir sayılmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/3005",
+      "decision_number": "2017/4527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Su ve kanalizasyon idarelerinin tacir sayılmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1471",
+      "decision_number": "2013/19127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Su ve kanalizasyon idarelerinin tacir sayılmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Diyarbakır Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Davanın Reddi (Usulden)",
+      "treatment": null,
+      "context": "İstinaf incelemesine konu ilk derece mahkemesi kararı."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353",
+      "context": "İstinaf incelemesi; evrak üzerinde yapılması ve istinaf sebepleri ile sınırlı inceleme."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "355",
+      "context": "İstinaf sebepleri ve kamu düzeni ile sınırlı istinaf incelemesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "59",
+      "context": "Mecburî dava arkadaşlığı; bir hakkın birden fazla kimse tarafından birlikte kullanılması."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "625",
+      "context": "Adi ortaklıkta önemli tasarruflar için bütün ortakların oy birliği gerekir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "114",
+      "context": "Dava ehliyeti; aktif dava ehliyeti yokluğu nedeniyle davanın reddine karar."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "115",
+      "context": "Dava şartlarının mevcut olup olmadığının her aşamada re'sen araştırılması."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "620",
+      "context": "Adi ortaklık; tüzel kişiliği yoktur ve ortaklar taraf olarak birlikte hareket etmelidir."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "630",
+      "context": "İdareci ortak ile diğer ortaklar arasındaki ilişkiler vekâlet hükümlerine tabidir."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "504",
+      "context": "Vekil özel olarak yetkili kılınmadıkça dava açamaz."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "638",
+      "context": "Ortakların tamamı tarafından veya açık yetki almış ortak tarafından davanın açılması."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "702",
+      "context": "Elbirliği mülkiyeti kuralları; ortakların tamamı tarafından davanın açılması."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "4",
+      "context": "Ticarî dava niteliğinin tespiti; mutlak, nispî ve diğer ticarî davalar."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "16",
+      "context": "Kamu tüzel kişileri tarafından kurulan kurum ve kuruluşlar tacir sayılır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "5/A",
+      "context": "Dava şartı olarak arabuluculuk; ticarî davalar için arabulucuya başvuru zorunluluğu."
+    },
+    {
+      "law": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "law_number": "6325",
+      "article": "18/A",
+      "context": "Arabuluculuk dava şartı; son tutanağın dava dilekçesine eklenmesi zorunluluğu."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "21",
+      "context": "Haksız fesihten kaynaklı işçilik alacakları; boşta geçen tazminat bedeli."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "375",
+      "article": "23",
+      "context": "Kamu kurum ve kuruluşlarında personel çalıştırılmasına dayalı hizmet alımı sözleşmeleri."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "375",
+      "article": "24",
+      "context": "İşçilerin sürekli işçi kadrolarına veya mahalli idare şirketlerine geçirilmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama özgürlüğü; uyuşmazlığın çözümsüz bırakılmaması ilkesi."
+    },
+    {
+      "law": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+      "law_number": "7155",
+      "article": "20",
+      "context": "Ticarî davalar için arabuluculuk dava şartı; para alacakları ve tazminat talepleri."
+    },
+    {
+      "law": "İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanun",
+      "law_number": "2560",
+      "article": "5",
+      "context": "Büyükşehir belediyelerinin su ve kanalizasyon idareleri; tacir sayılması."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": null,
+      "context": "Karar harcı; peşin alınan harç miktarı ve mahsubu."
+    },
+    {
+      "law": "Avukatlık Asgari Ücret Tarifesi",
+      "law_number": null,
+      "article": "7",
+      "context": "Nispi vekâlet ücreti; dava şartı yokluğundan davanın reddine karar halinde."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "333",
+      "context": "Gider avansı; taraflarca yatırılan gider avansından arta kısmın iadesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "359",
+      "context": "Bölge adliye mahkemesi kararının kesinliği; taraflara tebliği."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "362",
+      "context": "Karar; miktar itibarıyla kesin olmak üzere oy birliği ile verilmesi."
+    }
+  ]
+}

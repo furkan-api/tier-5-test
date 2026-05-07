@@ -1,0 +1,53 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "235",
+      "context": "Sıra cetveline itiraz ve neticeleri; davanın hukuki dayanağı."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "107",
+      "context": "Faaliyet izninin kaldırılmasına ilişkin BDDK kararı."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106",
+      "context": "Bankanın iflasına karar verilmesi; TMSF tarafından iflas davası açılması."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": null,
+      "context": "Görevsizlik kararının kaldırılması ve adli yargının görevli olduğuna dair karar."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123",
+      "context": "Yargı harçlarından muafiyet iddiası ve sonrasındaki Danıştay kararı."
+    },
+    {
+      "law": "6322 sayılı Kanun",
+      "law_number": null,
+      "article": "19",
+      "context": "Harçlar Kanunu'nun 123. maddesinde yapılan değişiklik; bankanın harçtan muaf olmadığı."
+    },
+    {
+      "law": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": null,
+      "article": null,
+      "context": "Kamu alacağı niteliği; iflas idaresinin kayıt taleplerini reddetme yetkisi."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "140",
+      "context": "İflas idaresinin harçtan muafiyeti."
+    }
+  ]
+}

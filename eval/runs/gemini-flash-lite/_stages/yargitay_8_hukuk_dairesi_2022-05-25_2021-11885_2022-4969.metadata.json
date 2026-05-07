@@ -1,0 +1,132 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/11885",
+  "decision_number": "2022/4969",
+  "decision_date": "2022-05-25",
+  "decision_type": "Temyiz",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Davacı-davalı İdaresi, davalı Hazine, asli müdahiller vekillerinin temyiz itirazları kabul edilerek hükmün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy yazısında, tapu kayıtlarının geçerli olduğu, sınırlarının gayri sabit hudutlu olsa da zemine uygulanabilir olduğu, önceki Yargıtay kararları ve Hukuk Genel Kurulu kararları doğrultusunda tapu kayıtlarının miktarıyla kapsamının belirlenmesi gerektiği, mahkemenin eksik inceleme yaptığı ve davanın reddedilmesinin doğru olmadığı belirtilmiştir.",
+  "appellants": [
+    "davacı-davalı İdaresi",
+    "davalı Hazine",
+    "asli müdahil",
+    "asli müdahil",
+    "asli müdahil",
+    "asli müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı-davalı İdaresi",
+      "result": "null"
+    },
+    {
+      "role": "davalı Hazine",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    }
+  ],
+  "subject": "Kadastro tespitine itiraz davasında çiftlik tapu kayıtlarının uygulanması ve kapsamının belirlenmesi",
+  "keywords": [
+    "kadastro tespiti itiraz",
+    "çiftlik tapu kayıtları",
+    "sınırların belirlenmesi",
+    "miktarla uygulama",
+    "gayri sabit hudut",
+    "zilyetlik",
+    "orman tahdidi",
+    "devletleştirme",
+    "tapu iptali",
+    "ecrimisil",
+    "bozma kararı",
+    "kadastro kanunu"
+  ],
+  "legal_issues": [
+    "Çiftlik tapu kayıtlarının gayri sabit hudutlu olması durumunda 3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca miktarıyla mı, yoksa zemindeki sabit hudutlarla mı uygulama yapılacağı?",
+    "Tapu kayıtlarının kapsamının belirlenmesinde, devletleştirilen orman alanları, kamulaştırılan yerler ve tapu malikleri adına kesinleşen parsellerin dikkate alınması gerekliliği.",
+    "Tapu kayıtlarının geçerliliği ve zemine uygulanabilirliği konusunda bilirkişi raporları arasındaki çelişkilerin giderilmesi.",
+    "Arazi Kanunnamesinin 20 ve 78. maddeleri ile 3402 sayılı Kadastro Kanunu'nun 14, 17 ve 18. maddeleri uyarınca zilyetlikle kazanım şartlarının gerçekleşip gerçekleşmediğinin tespiti.",
+    "Dava konusu taşınmazların tapu kayıtlarının miktarıyla uyumlu olup olmadığının belirlenmesi."
+  ],
+  "legal_concepts": [
+    {
+      "concept": "kadastro tespiti itiraz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Dava, kadastro tespitine itiraz üzerine açılmış olup, uyuşmazlığın temelini tapu kayıtlarının zemine uygulanması ve kapsamının belirlenmesi oluşturmaktadır."
+    },
+    {
+      "concept": "çiftlik tapu kayıtları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacılar, Hisarönü, Ergös ve Söğüt mevkilerindeki çiftlik tapu kayıtlarına dayanarak mülkiyet iddiasında bulunmaktadırlar."
+    },
+    {
+      "concept": "gayri sabit hudut",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tapu kayıtlarındaki sınırların mevki, dağ, dere gibi gayri sabit nitelikte olması, uygulamanın miktarla mı yoksa zemindeki hudutlarla mı yapılacağı hususunda tartışmalara yol açmıştır."
+    },
+    {
+      "concept": "miktarla uygulama",
+      "role": "uygulanan",
+      "context_in_reasoning": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi gereğince, gayri sabit hudutlu tapu kayıtlarında miktara itibar edilmesi gerektiği görüşü tartışılmıştır."
+    },
+    {
+      "concept": "zilyetlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu taşınmazlar üzerindeki zilyetlik iddiaları, özellikle Arazi Kanunnamesi ve 3402 sayılı Kadastro Kanunu'nun ilgili maddeleri çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "devletleştirme",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu kayıtları kapsamında kalan alanların 4785 sayılı Kanun uyarınca devletleştirilen ormanlar olduğu ve bu durumun kapsam tayininde dikkate alınması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "kesin hüküm",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Daha önceki davalarda verilen kesinleşmiş kararların, eldeki davada tapu kayıtlarının geçerliliği ve uygulanabilirliği konusunda dikkate alınması gerektiği tartışılmıştır."
+    },
+    {
+      "concept": "bilirkişi raporu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkemece alınan bilirkişi raporları ve bu raporlar arasındaki çelişkiler, davanın çözümünde önemli bir rol oynamıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Kadastro tespitine itiraz davasında, gayri sabit hudutlu çiftlik tapu kayıtlarının zemine uygulanması ve kapsamının nasıl belirleneceği.",
+    "rule": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca, harita, plan ve krokiye dayanmayan, değişebilir ve genişletilmeye elverişli sınırlara sahip tapu kayıtlarında miktara itibar olunur. Ancak, bu kayıtların fizik yapıları ve konumları itibarıyla belli bir yeri kapsıyorsa, tespit o sınır esas alınarak yapılır. Yargıtay uygulamaları, sabit hudutlardan başlanarak miktarla kapsam tayin edilmesini öngörmektedir.",
+    "application": "Dava konusu Hisarönü ve Ergös mevkilerindeki çiftlik tapu kayıtlarının sınırlarının gayri sabit nitelikte olduğu, zeminde sabit bir sınır bulunmadığı ve bu sınırların geniş alanları ifade ettiği, bu nedenle miktarıyla kapsam tayininin mümkün olmadığı değerlendirilmiştir. Söğüt mevkili tapu kaydının ise, tapu malikleri adına kesinleşen parsellerin varlığı dikkate alınarak kapsamının belirlenmesi gerektiği ancak bu konuda da eksik inceleme yapıldığı belirtilmiştir.",
+    "conclusion": "Tapu kayıtlarının miktarıyla kapsamının belirlenmesinde sabit sınırların bulunmaması ve bilirkişi raporları arasındaki çelişkiler nedeniyle, mahkemece yapılan inceleme ve uygulamanın eksik olduğu, bu nedenle hükmün bozulmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı",
+      "müdahil",
+      "kadastro mahkemesi",
+      "Yargıtay"
+    ],
+    "context": "Kadastro tespitine itiraz davasında, davacılar ve müdahillerin dayandığı eski çiftlik tapu kayıtlarının zemine uygulanması ve kapsamının belirlenmesi uyuşmazlık konusudur.",
+    "trigger": "Kadastro tespitine itiraz edilmesi ve tapu kayıtlarının zemine uygulanmasında yaşanan sorunlar.",
+    "claim": "Davacılar ve müdahiller, dayandıkları çiftlik tapu kayıtlarının dava konusu taşınmazları kapsadığının tespiti ve adlarına tescilini talep etmektedirler."
+  }
+}

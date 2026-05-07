@@ -1,0 +1,47 @@
+{
+  "file": "istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md",
+  "cited_law_articles": [
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "93-109",
+      "context": "Tebliğ esasları, muhatapları, posta, ilan, memur eliyle ve elektronik ortamda tebliğ düzenlemeleri."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "107/A",
+      "context": "Elektronik ortamda tebliğ usulü, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılacağı."
+    },
+    {
+      "law": "Vergi Usul Kanunu Genel Tebliği",
+      "law_number": "456",
+      "article": "7",
+      "context": "Tüzel kişilerde ticaret sicil kaydının silindiği tarih itibarıyla elektronik tebligat adresinin kapatılacağı."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "55",
+      "context": "Ödeme emri tebliği; vadesinde ödemeyenlere 15 gün içinde ödeme veya mal bildiriminde bulunma lüzumu."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "58",
+      "context": "Ödeme emrine itiraz; borç olmadığı, kısmen ödendiği veya zamanaşımına uğradığı iddiasıyla dava açma hakkı."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu",
+      "law_number": "193",
+      "article": "120",
+      "context": "Geçici verginin eksik beyanı, re'sen veya ikmalen tarhı, mahsup süresi geçtikten sonra asıllarının terkin edileceği."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "46",
+      "context": "Danıştay'a temyiz yolu açık olmak üzere verilen kararların tebliğ ve süresi."
+    }
+  ]
+}

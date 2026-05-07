@@ -1,0 +1,289 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "case_number": "2015/1962",
+  "decision_number": "2015/1846",
+  "decision_date": "2015-09-30",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Direnme Yerinde Görüldü",
+  "decision_outcome_raw": "Yerel mahkemenin direnme kararının isabetli olduğuna ve dosyanın esastan incelenmesi için Özel Daireye gönderilmesine oyçokluğu ile karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy görüşünde, davalı ile alt işverenler arasındaki ilişkinin muvazaalı olmadığı, 4628 sayılı Kanun'un 15. maddesi uyarınca asıl işin bölünerek alt işverene verilebileceği, bu nedenle davacının toplu iş sözleşmesinden yararlanamayacağı belirtilmiştir.",
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Alt işverenlik ilişkisinde muvazaa ve toplu iş sözleşmesinden yararlanma istemi",
+  "keywords": [
+    "alt işverenlik",
+    "muvazaa",
+    "toplu iş sözleşmesi",
+    "işçilik alacakları",
+    "asıl işveren",
+    "4857 sayılı İş Kanunu",
+    "4628 sayılı Elektrik Piyasası Kanunu",
+    "kamu kurumu",
+    "hizmet alımı",
+    "direnme kararı"
+  ],
+  "legal_issues": [
+    "Davalı ile dava dışı alt işverenler arasında geçerli bir alt işverenlik ilişkisi bulunup bulunmadığı ve muvazaa olup olmadığı nedir?",
+    "Davalı EÜAŞ'nin 4628 sayılı Kanun'un 15. maddesi uyarınca asıl işi alt işverene verebilme imkanı var mıdır?",
+    "Muvazaalı alt işverenlik ilişkisi nedeniyle davacının başlangıçtan itibaren davalı işçisi sayılması ve toplu iş sözleşmesinden yararlanması mümkün müdür?",
+    "Alt işverenlik ilişkisinde muvazaa denetiminde hangi kriterler göz önünde bulundurulmalıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "alt işverenlik ilişkisi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Uyuşmazlığın temelini, davalı ile alt işverenler arasındaki ilişkinin hukuken geçerli olup olmadığı ve muvazaalı olup olmadığı oluşturmaktadır."
+    },
+    {
+      "concept": "muvazaa",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tarafların gerçek iradelerini gizleyerek hukuki bir işlem yaratma anlaşması olan muvazaanın varlığı, alt işverenlik ilişkisinin geçersizliğine yol açmaktadır."
+    },
+    {
+      "concept": "toplu iş sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Muvazaalı alt işverenlik ilişkisi nedeniyle davacının asıl işverenle yapılan toplu iş sözleşmesinden yararlanma hakkı bulunmaktadır."
+    },
+    {
+      "concept": "asıl işveren-alt işveren ayrımı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "4857 sayılı İş Kanunu ve Alt İşverenlik Yönetmeliği'ndeki tanımlar ve şartlar çerçevesinde asıl iş ve yardımcı iş ayrımı ile alt işverenlik ilişkisinin kurulma koşulları yorumlanmıştır."
+    },
+    {
+      "concept": "4628 sayılı Kanun'un 15. maddesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kamu tüzel kişilerinin hizmet alımı yoluyla üretim, iletim ve dağıtım tesislerinin işletilmesi ve bakım onarım işlerini yaptırabilme imkanı, muvazaa denetimi açısından tartışılmıştır."
+    },
+    {
+      "concept": "işçi temini",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Alt işverenlik ilişkisinin, işçi temini olarak değerlendirilmesi gerektiği yönündeki karşı oy görüşü, çoğunluk tarafından kabul edilmemiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davalı EÜAŞ tarafından yapılan hizmet alım ihaleleri ve alt işverenlik sözleşmeleri muvazaalı mıdır ve bu durum davacının toplu iş sözleşmesinden yararlanmasına engel midir?",
+    "rule": "4857 sayılı İş Kanunu'nun 2. maddesi ve Alt İşverenlik Yönetmeliği'ne göre, alt işverenlik ilişkisinin muvazaalı olması halinde işçiler başlangıçtan itibaren asıl işverenin işçisi sayılır ve asıl işverenin toplu iş sözleşmesinden yararlanır.",
+    "application": "Somut olayda davalı EÜAŞ'nin yaptığı ihalelerin hizmet ve iş üzerinden değil, işçi sayısı üzerinden yapıldığı, alt işverenlerin organizasyonlarının bağımsız olmadığı, işe alma ve çıkarma yetkisinin davalıda olduğu, çalışma şartlarının davalı tarafından belirlendiği gibi nedenlerle alt işverenlik sözleşmelerinin muvazaalı olduğuna ve davacının başlangıçtan itibaren EÜAŞ işçisi olduğuna karar verilmiştir.",
+    "conclusion": "Yerel mahkemenin direnme kararının isabetli olduğuna ve dosyanın davalı vekilinin diğer temyiz itirazlarının incelenmesi için Özel Daireye gönderilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işçi",
+      "asıl işveren",
+      "alt işveren",
+      "sendika"
+    ],
+    "context": "Davacı, davalı EÜAŞ'nin santralinde alt işveren işçisi olarak çalışmakta olup, asıl işveren ile sendika arasındaki toplu iş sözleşmesinden yararlandırılmadığını iddia etmektedir.",
+    "trigger": "Davacının, alt işveren işçisi olarak gösterilmesi ve asıl işveren toplu iş sözleşmesinden yararlandırılmaması.",
+    "claim": "Davacının, muvazaalı alt işverenlik ilişkisi nedeniyle asıl işveren EÜAŞ'nin işçisi sayılması ve toplu iş sözleşmesinden kaynaklanan alacaklarının tahsili istemi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Kütahya İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2013/342",
+      "decision_number": "2014/306",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Davanın kabulüne dair verilen ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/14851",
+      "decision_number": "2014/18378",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararını bozarak dosyayı geri çeviren Yargıtay Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/23916",
+      "decision_number": "2013/22377",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Benzer bir davada aynı sonuca ulaşan Yargıtay 7. Hukuk Dairesi kararı."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "Alt işverenlik ilişkisinin tanımı, muvazaa yaptırımı ve kamu kurumları için özel düzenlemeler."
+    },
+    {
+      "law": "Enerji Piyasası Kanunu",
+      "law_number": "4628",
+      "article": "15",
+      "context": "Kamu tüzel kişilerinin üretim, iletim ve dağıtım işlerini hizmet alımı yoluyla yaptırabilmesi."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "233",
+      "article": null,
+      "context": "İktisadi devlet teşekküllerinin tabi olduğu düzenlemeler."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "19",
+      "context": "Muvazaa kavramı ve sözleşmelerin yorumlanmasında gerçek iradenin esas alınması."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "2",
+      "context": "Dürüstlük kuralı ve hakkın kötüye kullanılmasının korunmaması."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "5538",
+      "article": "18",
+      "context": "Kamu kurumlarında hizmet alımı yoluyla çalıştırılanların toplu iş sözleşmesinden yararlanamayacağına dair düzenleme."
+    },
+    {
+      "law": "İş Sağlığı ve Güvenliği Kanunu",
+      "law_number": "6331",
+      "article": null,
+      "context": "İşverenin iş sağlığı ve güvenliği yükümlülükleri ve denetim yetkisi."
+    },
+    {
+      "law": "İş Sağlığı ve Güvenliği Kanunu",
+      "law_number": "6331",
+      "article": "22",
+      "context": "İş sağlığı ve güvenliği kurulu oluşturulması ve iş birliği yükümlülüğü."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "6446",
+      "article": "30",
+      "context": "4628 sayılı Kanun'un ilgili maddesinin yürürlükten kaldırılması ve yeni düzenleme."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "4734",
+      "article": null,
+      "context": "Kamu İhale Kanunu'na tabi ihaleler."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "4735",
+      "article": "20",
+      "context": "Sözleşmenin feshi ve teminatın irad kaydedilmesi halleri."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "266",
+      "context": "Bilirkişi oy ve görüşünün alınması gerekliliği ve sınırları."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "279",
+      "context": "Bilirkişi raporunda hukuki değerlendirme yapılamayacağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı ve sürpriz karar yasağı."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "5393",
+      "article": "67",
+      "context": "Belediyelerin asli işlerinin alt işverene verilebilmesi."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "6001",
+      "article": "4",
+      "context": "Karayolları Genel Müdürlüğü'nün asli işlerinin alt işverene verilebilmesi."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "5584",
+      "article": "10",
+      "context": "Posta hizmetlerinin alt işverene verilebilmesi."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "36",
+      "context": "Sağlık hizmetlerinin hizmet alımı yoluyla gördürülmesi."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "4",
+      "context": "Kamu hizmetlerinin istihdam şekilleri."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "5",
+      "context": "Kamu kurumlarının personel istihdam şekilleri."
+    },
+    {
+      "law": "Uluslararası Çalışma Sözleşmesi",
+      "law_number": "94",
+      "article": null,
+      "context": "Kamu sözleşmelerinde çalışma şartları ve alt işveren işçilerinin hakları."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "5",
+      "context": "Eşit davranma ilkesi."
+    },
+    {
+      "law": "Anayasa",
+      "law_number": "2709",
+      "article": "55",
+      "context": "Ücrette adalet sağlanması."
+    },
+    {
+      "law": "Anayasa",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Eşitlik ilkesi."
+    },
+    {
+      "law": "Anayasa",
+      "law_number": "2709",
+      "article": "128",
+      "context": "Memurlar ve diğer kamu görevlileri eliyle kamu hizmeti görülmesi."
+    },
+    {
+      "law": "Anayasa",
+      "law_number": "2709",
+      "article": "47",
+      "context": "Devletin ekonomik ve sosyal görevleri."
+    },
+    {
+      "law": "Anayasa",
+      "law_number": "2709",
+      "article": "56",
+      "context": "Sağlık hizmetlerinin devlet tarafından düzenlenmesi."
+    }
+  ]
+}

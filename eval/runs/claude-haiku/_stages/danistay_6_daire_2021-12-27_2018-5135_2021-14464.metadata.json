@@ -1,0 +1,111 @@
+{
+  "file": "danistay_6_daire_2021-12-27_2018-5135_2021-14464.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Altıncı Daire",
+  "case_number": "2018/5135",
+  "decision_number": "2021/14464",
+  "decision_date": "2021-12-27",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Danıştay Altıncı Dairesinin temyiz incelemesi sonucu verilen karar kesin olarak verilmiştir.",
+  "decision_outcome": "Kısmen Onama",
+  "decision_outcome_raw": "Dava konusu imar planı değişikliklerinin A ve B bölgelerine ilişkin kısmı ile C Bölgesinde yerleşime uygun olmayan alan notasyonu ile gösterilmesine rağmen yapılaşma öngörülen alanlara ilişkin kısmı yönünden oyçokluğuyla onanmış, C Bölgesinde park ve rekreasyon alanı işlevine ayrılan kısmı yönünden oybirliğiyle bozulmuştur.",
+  "vote_unanimity": null,
+  "has_dissent": true,
+  "dissent_summary": "Muhalif oy, plan lejantında yerleşime uygunluk sınırının belirlendiğini ve yapı yapılacak alanların tamamının bu sınır içinde konumlandırıldığını, yerleşime uygun olmayan alanlarda herhangi bir yapılaşmanın öngörülmediğini belirterek, bilirkişi raporunun yerleşime uygun olmayan alanların yapılaşmaya açıldığına dair tespitinde isabet bulunmadığını ve davanın reddine karar verilmesi gerektiğini savunmaktadır.",
+  "appellants": [
+    "davalı",
+    "davalı yanında müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "davalı yanında müdahil",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Ankara İli Çankaya İlçesi Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanı 1/1000 ölçekli uygulama imar planı revizyonunun iptali davası",
+  "keywords": [
+    "imar planı revizyonu",
+    "kentsel dönüşüm",
+    "jeolojik etüt",
+    "heyelan riski",
+    "taşkın riski",
+    "hava sirkülasyonu",
+    "plan kademelenmesi",
+    "yerleşime uygunluk",
+    "sosyal donatı alanları",
+    "teknik altyapı",
+    "şehircilik ilkeleri",
+    "kamu yararı"
+  ],
+  "legal_issues": [
+    "1/1000 ölçekli uygulama imar planı revizyonunda sosyal donatı ve teknik altyapı alanlarının nüfus projeksiyonuna göre yeterli şekilde belirlenmesi gerekli midir?",
+    "Jeolojik ve jeoteknik veriler bakımından yerleşime uygun olmayan alanlarda yapılaşmaya izin veren imar planı hükümleri şehircilik ilkeleri ve kamu yararına aykırı mıdır?",
+    "Plan kademelenmesi ilkesine aykırı olarak alt ölçekli planlarla üst ölçekli planın ilkelerinin değiştirilmesi hukuka uygun mudur?",
+    "Hava sirkülasyonunu olumsuz etkileyecek yapılaşma koşulları planlama esaslarına aykırı mıdır?",
+    "Taşkın ve heyelan riski olan alanlarda yapılaşmaya açılması kararı can ve mal güvenliği açısından hukuka uygun mudur?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "plan kademelenmesi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, üst ölçekli planın ilkelerine uygun olarak alt ölçekli planların hazırlanması gerekliliğinin ihlal edilip edilmediğinin belirlenmesidir."
+    },
+    {
+      "concept": "yerleşime uygunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Jeolojik ve jeoteknik etüt raporlarında belirlenen yerleşime uygun olmayan alanların plan lejantında gösterilmesi ve bu alanlarda yapılaşmanın engellenmesi gerektiği ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "şehircilik ilkeleri",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Sağlıklı ve güvenli çevre oluşturma, yaşam kalitesini artırma ve kamu yararını gözeten planlama ilkeleri, jeolojik risk alanlarında yapılaşmaya izin verilmemesi şeklinde yorumlanmıştır."
+    },
+    {
+      "concept": "hava sirkülasyonu",
+      "role": "tartışılan",
+      "context_in_reasoning": "A Bölgesinde öngörülen kesintisiz yapı bloklarının hava akımını engelleyerek kent hava kalitesini olumsuz etkileyeceği belirtilmiştir."
+    },
+    {
+      "concept": "taşkın riski",
+      "role": "tartışılan",
+      "context_in_reasoning": "İmrahor Vadisi tabanında ve çevresinde taşkın riski bulunduğu ve bu alanlarda yapılaşmanın can güvenliğini tehlikeye atacağı değerlendirilmiştir."
+    },
+    {
+      "concept": "heyelan riski",
+      "role": "uygulanan",
+      "context_in_reasoning": "Jeolojik etütlerde belirlenen heyelan riski olan alanlarda yapılaşmaya izin verilmemesi gerektiği ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "sosyal donatı alanları",
+      "role": "tartışılan",
+      "context_in_reasoning": "Planlama alanında belirlenen nüfus yoğunluğuna karşılık gerekli sosyal donatı alanlarının yeterli şekilde ayrılıp ayrılmadığı tartışılmıştır."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Imar planı kararlarının kamu yararına uygun olup olmadığı, özellikle can ve mal güvenliği ile çevresel etkileri açısından değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Jeolojik ve jeoteknik veriler bakımından yerleşime uygun olmayan alanlarda yapılaşmaya izin veren imar planı hükümleri şehircilik ilkeleri ve kamu yararına aykırı mıdır?",
+    "rule": "İmar planları, beldenin sosyal ve kültürel gereksinimlerini karşılamayı, sağlıklı ve güvenli bir çevre oluşturmayı hedefleyen ve jeolojik, jeoteknik, çevresel verilere dayalı olarak hazırlanması gerekir. Yerleşime uygun olmayan alanlar plan lejantında gösterilmeli ve bu alanlarda yapılaşmaya izin verilmemelidir. Plan kademelenmesi ilkesine göre alt ölçekli planlar üst ölçekli planın ilkelerine uygun olarak hazırlanmalıdır.",
+    "application": "Dava konusu imar planı revizyonunda A ve B Bölgelerinde jeolojik etütlerde yerleşime uygun olmayan veya heyelan riski olan alanlar yapılaşmaya açılmış, C Bölgesinde taşkın riski olan vadi tabanında yapılaşmaya izin verilmiş, plan kademelenmesi ilkesi ihlal edilerek üst ölçekli planın ağaçlandırılacak alan ilkesi değiştirilmiştir.",
+    "conclusion": "Dava konusu imar planı değişikliklerinin A ve B Bölgelerine ilişkin kısmı ile C Bölgesinde yerleşime uygun olmayan alan notasyonu ile gösterilmesine rağmen yapılaşma öngörülen alanlara ilişkin kısmı şehircilik ilkeleri ve kamu yararına aykırı olduğundan iptal edilmelidir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı belediye",
+      "davalı büyükşehir belediyesi",
+      "müdahil gayrimenkul yatırım ortaklığı",
+      "müdahil inşaat şirketleri"
+    ],
+    "context": "Ankara İli Çankaya İlçesinde yer alan Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanına ilişkin 1/1000 ölçekli uygulama imar planı revizyonu yapılmıştır.",
+    "trigger": "Büyükşehir Belediye Meclisinin imar planı revizyonunu onaylayan kararı üzerine davacı belediye tarafından işlemin iptali davası açılmıştır.",
+    "claim": "Imar planı revizyonunun jeolojik etütlere aykırı olarak yerleşime uygun olmayan alanlarda yapılaşmaya izin vermesi, sosyal donatı alanlarının yetersiz olması ve plan kademelenmesi ilkesine aykırı olması nedeniyle iptali talep edilmiştir."
+  }
+}

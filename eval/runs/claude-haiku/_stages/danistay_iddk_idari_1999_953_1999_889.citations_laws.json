@@ -1,0 +1,29 @@
+{
+  "file": "danistay_iddk_idari_1999_953_1999_889.md",
+  "cited_law_articles": [
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "14",
+      "context": "İptal davası açabilecekler; davada taraf olmayan sendikanın temyiz ehliyeti yoktur."
+    },
+    {
+      "law": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretim, İletim, Dağıtım ve Ticaretine İlişkin Kanun",
+      "law_number": "3096",
+      "article": "3",
+      "context": "Bakanlar Kurulu Kararının çıkarılma dayanağı; elektrik dağıtım görevlendirilmesi."
+    },
+    {
+      "law": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretim, İletim, Dağıtım ve Ticaretine İlişkin Kanun",
+      "law_number": "3096",
+      "article": "5",
+      "context": "Bakanlar Kurulu Kararının çıkarılma dayanağı; işletme haklarının devredilmesi."
+    },
+    {
+      "law": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretim, İletim, Dağıtım ve Ticaretine İlişkin Kanun",
+      "law_number": "3096",
+      "article": "9",
+      "context": "Bakanlar Kurulu Kararının çıkarılma dayanağı; enerji satış anlaşması yapılması."
+    }
+  ]
+}

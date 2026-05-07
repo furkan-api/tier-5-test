@@ -1,0 +1,145 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/16-956",
+      "decision_number": "2017/370",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/3",
+      "decision_number": "2017/3",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/82",
+      "decision_number": "2014/100",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Milli Savunma Bakanının disiplin cezası verme yetkisine ilişkin iptal kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/89",
+      "decision_number": "2019/84",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İltisak ve irtibat kavramlarının tanımlanması ve hukuki niteliğine ilişkin karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/22169",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Darbe teşebbüsü şüphelilerinin telefon mesajlarına ilişkin karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1115",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma hakkına ilişkin AYM içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/13",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma hakkı kriterlerine ilişkin karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/29347",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ imamlarının ankesörlü telefonlardan iletişim kurmasına ilişkin karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/48",
+      "decision_number": "2020/30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ askeri yargı mahrem yapılanmasına ilişkin tespitler."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/43",
+      "decision_number": "2020/11",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sıkıyönetim Mahkemeleri Görevlendirme Listesine ilişkin tespitler."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/5526",
+      "decision_number": "2019/6842",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ankesörlü/sabit hat aramaları ve iletişim tespitine ilişkin karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/44",
+      "decision_number": "2019/167",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ mahrem yapılanmasının ankesörlü telefon iletişim yöntemlerine ilişkin karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2020/9.MD-67",
+      "decision_number": "2021/372",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İletişim tespitinin hukuka uygunluğu ve FETÖ iletişim yöntemlerine ilişkin karar."
+    },
+    {
+      "court": "Danıştay 5. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/8196",
+      "decision_number": "2016/4066",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "667 sayılı KHK'nın 3. maddesinin olağanüstü tedbir niteliğine ilişkin karar."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "cited_court_decisions": [
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "10226/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Demokratik siyasi sistemdeki temel hakların önemi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "7/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Demokratik siyasi sistemdeki temel hakların önemi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "310/15",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Demokratik siyasi sistemdeki temel hakların önemi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "113",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı arasındaki ayrım hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "58278/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı arasındaki ayrım hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "46726/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının belirlenmesinde devletlerin takdir yetkisi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30386/05",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının belirlenmesinde devletlerin takdir yetkisi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "75947/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının belirlenmesinde devletlerin takdir yetkisi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17707/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55066/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "33554/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39424/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "38978/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "77568/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesi için öngörülen usullerin adalet ve kesinlik ile karakterize edilmesi gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "16959/10",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "58125/09",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "48621/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "53915/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17864/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "YSK'nın kararının keyfi olmadığı hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "21396/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "YSK'nın kararının keyfi olmadığı hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "31953/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "YSK'nın kararının keyfi olmadığı hakkında."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": null,
+      "case_number": null,
+      "decision_number": "463",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adaylık başvurularının kabulüne ilişkin içtihat."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": null,
+      "case_number": null,
+      "decision_number": "458",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adaylık başvurularının kabulüne ilişkin içtihat."
+    },
+    {
+      "court": "Diyarbakır Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın mahkumiyetine ve hak yoksunluğuna ilişkin karar."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın mahkumiyetini onayan karar."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": null,
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın adaylık başvurusunu reddeden karar."
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi İkinci Bölüm",
+  "case_number": "2013/2130",
+  "decision_number": null,
+  "decision_date": "2016-04-21",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Kişi hürriyeti ve güvenliği hakkı, haberleşme hürriyeti ile adil yargılanma hakkına ilişkin tüm iddiaların açıkça dayanaktan yoksun olması, kişi bakımından yetkisizlik veya başvuru yollarının tüketilmemesi nedenleriyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "ret"
+    }
+  ],
+  "subject": "Tutukluluk Süresi, Telefon Dinleme ve Adil Yargılanma Hakkı İhlalleri İddiası",
+  "summary": "Başvurucu, ihaleye fesat karıştırma ve örgüt yöneticiliği gibi suçlardan yürütülen yargılamada tutukluluğunun uzun sürdüğünü, telefonlarının hukuka aykırı biçimde ve farklı dosya üzerinden dinlendiğini, soruşturma evresinde görev yapan hâkimin kovuşturmaya katıldığını, görüşme dökümlerinin ve aile bireyleriyle yaptığı konuşmaların hukuka aykırı şekilde delil olarak kullanıldığını ve kararların yeterince gerekçelendirilmediğini ileri sürmüştür. Anayasa Mahkemesi, tutukluluk süresinin makul olduğunu, 5271 sayılı Kanun'un 135. ve 137. maddeleri çerçevesinde yapılan dinlemenin kanunilik, meşru amaç ve ölçülülük şartlarını karşıladığını, soruşturma hâkiminin yargılamaya katılmasının somut olayda nesnel tarafsızlığı zedelemediğini, beraat eden suçlamalar bakımından mağdur sıfatının bulunmadığını ve devam eden yargılama yönünden başvuru yollarının tüketilmediğini saptayarak başvurunun tüm yönlerden kabul edilemez olduğuna oybirliğiyle karar vermiştir.",
+  "keywords": [
+    "tutukluluk süresi",
+    "telefon dinleme",
+    "haberleşme hürriyeti",
+    "hâkimin tarafsızlığı",
+    "tanıklıktan çekinme",
+    "katalog suçlar",
+    "ihaleye fesat karıştırma",
+    "silahların eşitliği",
+    "hukuka aykırı delil",
+    "başvuru yollarının tüketilmesi",
+    "mağdur sıfatı",
+    "kanun yolu şikâyeti"
+  ],
+  "legal_issues": [
+    "İlk derece mahkemesi mahkûmiyeti ile bozma kararı arasında geçen kesintili tutukluluk süresinin hesaplanmasında hangi dönemler dikkate alınır ve bu süre Anayasa m.19 yönünden makul mudur?",
+    "5271 sayılı Kanun'un 135. ve 137. maddeleri çerçevesinde verilen iletişimin tespiti kararı ve uzatmaları haberleşme hürriyetine yönelik kanuni, meşru ve ölçülü bir müdahale oluşturur mu?",
+    "Soruşturma aşamasında arama ve elkoyma talepleri hakkında karar veren hâkimin kovuşturma aşamasında yargılamaya katılması Anayasa m.36 anlamında tarafsız mahkemede yargılanma hakkını ihlal eder mi?",
+    "Tanıklıktan çekinme hakkı bulunan ancak aynı dosyada şüpheli/sanık olarak yer alan aile bireyleriyle yapılan telefon görüşmelerinin kayda alınması ve delil olarak kullanılması hukuka uygun mudur?",
+    "Beraatla sonuçlanan ve kesinleşen suçlamalar ile derdest yargılamalar yönünden bireysel başvuruda mağdurluk ve başvuru yollarının tüketilmesi koşulları nasıl uygulanır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "haberleşme hürriyeti",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Telefon dinleme tedbirinin kanunilik, meşru amaç, demokratik toplumda gereklilik ve ölçülülük süzgecinden geçirildiği temel hak çerçevesini oluşturmuştur."
+    },
+    {
+      "concept": "tutukluluğun makul süresi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkûmiyet ve bozma arasındaki kesintili tutukluluk hesaplanarak yaklaşık 2 yıl 5 aylık sürenin Anayasa m.19/7 yönünden makul olduğu sonucuna varılmıştır."
+    },
+    {
+      "concept": "hâkimin tarafsızlığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Soruşturma evresinde arama ve elkoyma kararları veren hâkimin kovuşturmaya katılması nesnel ve öznel tarafsızlık ölçütleri çerçevesinde değerlendirilmiş, ön yargı oluşturmadığı sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "tanıklıktan çekinme hakkı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "5271 sayılı Kanun m.135/2 hükmünün, aynı suça katıldığı başka delillerle belirlenmiş aile bireyleri arasındaki görüşmeleri kapsamadığı yönündeki Yargıtay içtihadı esas alınmıştır."
+    },
+    {
+      "concept": "katalog suç",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhaleye fesat karıştırma ve suç işlemek amacıyla örgüt kurma suçlarının CMK m.135/6 kapsamındaki katalog suçlardan olması iletişimin dinlenmesi tedbirinin yasal dayanağını oluşturmuştur."
+    },
+    {
+      "concept": "mağdur sıfatı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Beraatla sonuçlanan ve kesinleşen suçlamalar yönünden başvurucunun mağdur sıfatını taşımadığı kabul edilerek kişi bakımından yetkisizlik kararı verilmiştir."
+    },
+    {
+      "concept": "başvuru yollarının tüketilmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Henüz derdest olan yargılama yönünden ileri sürülen adil yargılanma şikâyetleri için olağan kanun yollarının tüketilmediği gerekçesiyle başvurunun bu kısmı kabul edilemez bulunmuştur."
+    },
+    {
+      "concept": "kanun yolu şikâyeti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Delil değerlendirmesi ve gerekçeye ilişkin iddialar bariz takdir hatası veya açık keyfîlik içermediğinden kanun yolu şikâyeti niteliğinde görülerek açıkça dayanaktan yoksun bulunmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İhaleye fesat karıştırma soruşturması kapsamında uygulanan tutukluluk, telefon dinleme ve yargılama işlemleri kişi hürriyeti, haberleşme hürriyeti ve adil yargılanma haklarını ihlal etmiş midir?",
+    "rule": "Anayasa m.19, 22 ve 36 ile 5271 sayılı Kanun m.23, 100, 135 ve 137 çerçevesinde tutukluluk makul süreyi aşmamalı; iletişimin dinlenmesi katalog suçlarda kuvvetli şüphe ve başka türlü delil elde edememe koşullarıyla, hâkim kararına dayanarak ölçülü biçimde uygulanmalı; soruşturma hâkiminin kovuşturmaya katılması ise CMK m.23/2 ile 5320 sayılı Kanun m.11 ve sanığın suçluluğuna ilişkin önyargı oluşturup oluşturmadığı kriterleriyle değerlendirilmelidir.",
+    "application": "Başvurucunun bozma sonrası tutukluğu hariç tutulduğunda yaklaşık 2 yıl 5 aylık tutukluluk süresi makul bulunmuş; ihaleye fesat karıştırma katalog suçundan ve sulh ceza hâkimi kararıyla yapılan dinleme kanuni ve ölçülü kabul edilmiş; arama ve elkoyma taleplerine ilişkin kararlar veren hâkimin başvurucunun suçluluğuna dair görüş açıklamadığı saptanmış; aile bireyleri aynı dosyada sanık olduğundan görüşme kayıtları hukuka aykırı delil sayılmamış; beraat eden suçlamalar için mağdur sıfatı, derdest yargılama için ise başvuru yolları koşulları karşılanmamıştır.",
+    "conclusion": "Tüm şikâyetler açıkça dayanaktan yoksun olması, kişi bakımından yetkisizlik veya başvuru yollarının tüketilmemesi nedenleriyle kabul edilemez bulunmuştur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Cumhuriyet savcılığı",
+      "sulh ceza hâkimliği",
+      "ağır ceza mahkemesi"
+    ],
+    "context": "Birden çok ihalede fesat karıştırıldığı şüphesiyle yürütülen geniş kapsamlı bir ceza soruşturması ve kovuşturmasıdır.",
+    "trigger": "Başvurucunun telefonunun mahkeme kararıyla dinlenmesi, gözaltına alınıp tutuklanması ve örgüt yöneticiliği ile yağma dahil çeşitli suçlardan mahkûm edilmesi.",
+    "claim": "Tutukluluğun uzun sürmesi, telefon dinlemenin hukuka aykırılığı, soruşturma hâkiminin yargılamaya katılması ve aile bireyleriyle görüşmelerin delil olarak kullanılması nedeniyle kişi hürriyeti, haberleşme hürriyeti ve adil yargılanma haklarının ihlal edildiğinin tespiti ile tazminat talebi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Kars Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2006/378",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Başvurucunun telefonunun dinlenmesine izin veren ve süresi defaten uzatılan iletişimin tespiti kararının kaynağıdır."
+    },
+    {
+      "court": "Erzurum 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2007/215",
+      "decision_number": "2009/184",
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Bireysel başvuruya konu örgüt yöneticiliği, ihaleye fesat karıştırma ve yağma suçlarından mahkûmiyet kararını veren ilk derece mahkemesidir."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/11872",
+      "decision_number": "2012/17091",
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Örgüt yöneticiliği ve yağma cezalarını onayan, diğer suçlamalar yönünden bozma veren temyiz incelemesi kararıdır."
+    },
+    {
+      "court": "Erzurum 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2013/2",
+      "decision_number": "2013/139",
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Bozma sonrası yeniden yapılan yargılamada hüküm kuran ilk derece mahkemesi kararıdır."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6689",
+      "decision_number": "2014/18617",
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Yeniden yapılan yargılama sonucu verilen kararı kısmen onayan, kısmen bozan temyiz ilamıdır."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/5.MD-137",
+      "decision_number": "2013/58",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tanıklıktan çekinme hakkı bulunan kişilerle yapılan görüşmelerin, bu kişilerin de aynı suça katılmış olması halinde delil olarak kullanılabileceğine ilişkin yerleşik içtihat olarak benimsenmiştir."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/1-75",
+      "decision_number": "2011/114",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Soruşturma aşamasında nesnel araştırma niteliğindeki kararlara katılan hâkimin tarafsızlığını yitirmiş sayılmayacağına dair içtihat olarak gerekçeye dayanak yapılmıştır."
+    },
+    {
+      "court": "Yargıtay 1. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2007/2898",
+      "decision_number": "2008/3015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "CMK m.23/2'nin uygulama alanının sınırlarına ilişkin yerleşik uygulamayı yansıtan içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/20436",
+      "decision_number": "2013/13582",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Soruşturma aşamasında savcı yerine karar veren hâkimin yargılamaya katılabileceğine dair Yargıtay uygulaması olarak referans gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 15. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12095",
+      "decision_number": "2012/42609",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Disiplin cezasına ilişkin karar veren hâkimin aynı olayda yargılamaya katılamayacağına dair içtihat, somut olaydan ayırt edilerek anılmıştır."
+    },
+    {
+      "court": "Yargıtay 5. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4630",
+      "decision_number": "2013/2733",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Hâkimin önceki kararının önyargı oluşturduğu durumlara ilişkin içtihat olarak farklılık vurgusuyla anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/969",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tahir Canan kararı, hukuki nitelendirmenin Anayasa Mahkemesince yapılacağı ilkesi için referans alınmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/338",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hamit Kaya kararı, mahkûmiyet sonrası tutmanın tutukluluk sayılmayacağı ilkesine dayanak gösterilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/348",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Fikret Eskin kararı, kesintili tutukluluk hesabında infaz dönemlerinin dışlanmasına ilişkin ilke için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/152",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ramazan Çelik kararı, başka suçtan infaz edilen sürelerin tutukluluk hesabına katılmayacağı ilkesini desteklemek için kullanılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/7054",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yasemin Çongar ve diğerleri kararı, telefon iletişiminin haberleşme hürriyeti kapsamında olduğu ilkesi için dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/2187",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sevim Akat Eşki kararı, Anayasa m.13'teki güvence ölçütlerinin haberleşme hürriyetine de uygulanacağı ilkesi için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1822",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ahmet Temiz kararı, müdahalenin kanunilik, meşru amaç ve ölçülülük kriterleri için dayanak alınmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1461",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Fatih Taş kararı, ölçülülük denetiminde elverişlilik, gereklilik ve orantılılık ölçütleri için referans gösterilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/6179",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Fetih Ahmet Özer kararı, bireysel başvuruda mağdurluk koşullarının üç unsuruna dayanak olmuştur."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/8479",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hülya Potur kararı, mağdur sıfatının ispatına ilişkin ilke için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/403",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ayşe Zıraman ve Cennet Yeşilyurt kararı, başvuru yollarının tüketilmesi ilkesinin ikincillik niteliğine dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1780",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tahir Gökatalay kararı, tarafsızlık kavramının tanımlanması bağlamında anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/276",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Veli Özdemir kararı, başvurucunun iddialarını delillendirme yükümlülüğüne ilişkin ilkeye dayanak gösterilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/2392",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Jakob Gabriel kararı, sınırlı sayıda hukuka aykırı görüşme dökümünün yargılamanın adilliğini zedelemediği ilkesi için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/7292",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kader Doğan kararı, aynı dosyada sanık olan aile bireyleriyle görüşmelerin hukuka aykırı delil sayılmayacağı ilkesini desteklemiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/828",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Onur Gür kararı, kanun yolu şikâyeti niteliğindeki başvuruların incelenmesine ilişkin ilke için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1213",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Muhittin Kaya kararı, delil değerlendirmesinin esasen derece mahkemelerine ait olduğu ilkesi için dayanak gösterilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2002/170",
+      "decision_number": "2004/54",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tarafsız mahkemede yargılanma hakkının adil yargılanmanın zımni unsuru olduğuna ilişkin norm denetimi içtihadına atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2005/55",
+      "decision_number": "2006/4",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemelerin tarafsızlığının öznel ve nesnel boyutlarına ilişkin norm denetimi içtihadı dayanak alınmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "27561/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Solmaz/Türkiye kararı, kesintili tutukluluk sürelerinin toplanarak hesaplanmasına ilişkin yaklaşım için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "18623/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Cahit Demirel/Türkiye kararı, tutukluluk süresinin hesaplanma yöntemine destek olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "19380/92",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Benham/Birleşik Krallık kararı, tazminat hakkının diğer hak ihlallerine bağlı olduğu ilkesi için referans gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "33102/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ayhan Işık/Türkiye kararı, ihlal bulunmayan durumlarda tazminat hakkının doğmayacağı ilkesi için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "27798/95",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Amann/İsviçre kararı, müdahalenin yasal dayanağında ulaşılabilirlik ve öngörülebilirlik ölçütleri için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "62540/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Association for European Integration and Human Rights ve Ekimdzhiev/Bulgaristan kararı, gizli tedbirlere ilişkin yasal düzenlemelerin asgari unsurları için referans alınmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39254/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gürsel Duran ve diğerleri/Türkiye kararı, 5271 sayılı Kanun m.135'in kanunilik niteliğine ilişkin değerlendirme için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "22299/93",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gregory/Birleşik Krallık kararı, mahkemelerin tarafsızlığına ilişkin nesnel ölçütlere dayanak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "10486/83",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hauschildt/Danimarka kararı, soruşturma aşamasında karar veren hâkimin yargılamaya katılmasına ilişkin tarafsızlık değerlendirmesi için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "22347/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ökten/Türkiye kararı, soruşturma evresindeki kararların tek başına tarafsızlığı zedelemeyeceğine ilişkin yaklaşıma dayanak yapılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "1508/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Suut Aydın/Türkiye kararı, hâkimin önceki kararlarının her olayın koşullarında değerlendirilmesi gerektiğine ilişkin yaklaşıma referans olmuştur."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "27692/95",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karakoç ve diğerleri/Türkiye kararı, tutuklama gerekçeleriyle mahkûmiyet gerekçelerinin örtüştüğü hallerden somut olayın ayrıldığını göstermek için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "12981/87",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sainte-Marie/Fransa kararı, hâkimin sınırlı kanaat bildirmesinin tarafsızlığı zedelemeyeceği ilkesi için referans gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "67413/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gultyayeva/Rusya kararı, yargılama öncesi kararlarda suçluluğa ilişkin görüş açıklanmaması gereğine dayanak yapılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30685/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Jasiński/Polonya kararı, suç şüphesi ile suçluluğun tespitinin birbirine karıştırılmaması ilkesi için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "31312/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Eğinlioğlu/Türkiye kararı, beraat halinde adil yargılanma şikâyetinde mağdur sıfatının bulunmayacağı ilkesi için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "46947/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Koç ve Tambaş/Türkiye kararı, beraatla biten yargılamalarda mağdur sıfatına ilişkin AİHM yaklaşımına dayanak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17129/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İsak Tepe/Türkiye kararı, beraat eden sanıkların mağdur sıfatına ilişkin değerlendirme için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "16147/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bouglame/Belçika kararı, mağdur sıfatının yitirilmesine ilişkin AİHM yaklaşımına referans yapılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "66170/09",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Juge ve Ducamp/Fransa kararı, takipsizlik veya beraatla sonuçlanan hallerde mağdur sıfatının bulunmayacağı ilkesine dayanak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "54810/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Jalloh/Almanya kararı, kanıtların kabul edilebilirliği ve yargılamanın adilliği değerlendirmesine ilişkin AİHM yaklaşımı için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "23909/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Desde/Türkiye kararı, delil değerlendirmesinin AİHM denetiminde bütünsel adillik ölçütüyle ele alınacağı ilkesi için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "11082/06",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Khodorkovskiy ve Lebedev/Rusya kararı, delillerin gerçekliğine itiraz fırsatı verilmesinin önemine ilişkin yaklaşıma dayanak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "4378/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bykov/Rusya kararı, delillere itiraz fırsatının yargılamanın adilliği bakımından önemine ilişkin ilke için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "1992/39",
+      "decision_number": "1993/19",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemelerin bağımsızlığı ve tarafsızlığının Anayasa'nın bütünselliği ilkesi çerçevesinde değerlendirilmesine ilişkin norm denetimi içtihadına dayanak yapılmıştır."
+    },
+    {
+      "court": "Erzurum 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2014/327",
+      "decision_number": "2014/275",
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Özel yetkili mahkemelerin kaldırılması nedeniyle dosyanın Kars Ağır Ceza Mahkemesine devrine ve başvurucunun tahliyesine karar veren ilk derece mahkemesi kararıdır."
+    },
+    {
+      "court": "Kars Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2015/179",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul Edilemezlik",
+      "treatment": null,
+      "context": "Devir sonrası başvurucunun yargılamasının halen sürdüğü ilk derece mahkemesi dosyası; başvuru yollarının tüketilmemesi değerlendirmesinin merkezindedir."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve özgürlüklerin sınırlanmasında uyulması gereken ölçütlerin haberleşme hürriyetine de uygulanacağı çerçevesi oluşturulmuştur."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "19",
+      "context": "Tutukluluğun makul süresi ve tazminat hakkına ilişkin değerlendirmenin anayasal dayanağı olarak kullanılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "22",
+      "context": "Haberleşme hürriyetine yapılan müdahalenin meşruiyet ve sınırlama ölçütlerinin değerlendirildiği temel anayasal hüküm olarak alınmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Adil yargılanma hakkı ve tarafsız mahkemede yargılanma hakkının anayasal dayanağı olarak gerekçeye esas alınmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "148",
+      "context": "Bireysel başvurunun kapsamı, mağdurluk ve kanun yolunda gözetilmesi gereken hususlara ilişkin sınırlama gerekçenin temelini oluşturmuştur."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "45",
+      "context": "Bireysel başvuru hakkının kapsamı ve başvuru yollarının tüketilmesi şartı bakımından dayanak yapılmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "46",
+      "context": "Mağdur sıfatının üç temel unsuruna ilişkin değerlendirme bu hükme dayandırılmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "48",
+      "context": "Açıkça dayanaktan yoksun başvurular hakkında kabul edilemezlik kararının yasal dayanağı olarak alınmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "220/1",
+      "context": "Suç işlemek amacıyla örgüt kurma suçunun kanuni unsurları, başvurucunun mahkûmiyetine konu suçlardan biri olarak anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "23/2",
+      "context": "Soruşturmada görev yapan hâkimin kovuşturmaya katılmasını sınırlayan hüküm değerlendirilmiş ve somut olayda uygulanma koşullarının bulunmadığı saptanmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "24",
+      "context": "Hâkimin reddi sebepleri, tarafsızlık değerlendirmesinin yasal çerçevesini oluşturmuştur."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "25",
+      "context": "Tarafsızlığa ilişkin ret talebinin süre koşulu, başvurucunun bu yöndeki itirazının değerlendirilmesinde anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "45/1",
+      "context": "Tanıklıktan çekinme hakkına sahip kişiler kataloğu, aile bireyleriyle yapılan görüşmelerin değerlendirilmesinde dayanak yapılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "100",
+      "context": "Tutukluluğun devamı kararlarının yasal dayanağı olarak somut olayda uygulanmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "118",
+      "context": "Arama tedbirine ilişkin yasal dayanak olarak somut olayda anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "128",
+      "context": "Taşınmaz, hak ve alacaklara elkoyma talebinin yasal dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135",
+      "context": "İletişimin tespiti, dinlenmesi ve kayda alınması tedbirinin yasal dayanağı olup haberleşme hürriyetine müdahalenin kanunilik denetiminde temel hüküm olarak incelenmiştir."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "137",
+      "context": "Dinleme kayıtlarının çözümü ve imha edilme şartlarının yasal düzenlemesi olarak müdahalenin yasallığı bakımından değerlendirilmiştir."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "163/1",
+      "context": "Sulh ceza hâkiminin soruşturma işlemlerini yapabileceği halleri düzenleyen hüküm, CMK m.23/2'nin uygulama alanının belirlenmesinde anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "199",
+      "context": "Arama izni verilmesine ilişkin yasal dayanak olarak somut olayda anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "217/2",
+      "context": "Yüklenen suçun hukuka uygun her türlü delille ispatlanabileceği ilkesi delil tartışmasının çerçevesini oluşturmuştur."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "250",
+      "context": "Özel yetkili ağır ceza mahkemelerinin görev alanına giren suçlar bakımından soruşturma usulüne ilişkin tarihi düzenleme olarak anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "251/2",
+      "context": "Hâkimin soruşturma aşamasındaki taleplere ilişkin karar verme yetkisinin yasal dayanağı olarak anılmış ve hâkimin tarafsızlık değerlendirmesinde esas alınmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "5320",
+      "article": "11",
+      "context": "CMK m.23/2'nin sadece m.163 dışındaki hallerde uygulanmayacağına ilişkin geçiş hükmü, soruşturma hâkiminin yargılamaya katılmasının değerlendirilmesinde dayanak olmuştur."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "5/5",
+      "context": "Hukuka aykırı yakalama veya tutmadan kaynaklanan tazminat hakkının uluslararası dayanağı olarak değerlendirilmiştir."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Haberleşmeye saygı hakkı ve sınırlama ölçütlerinin sözleşmesel dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20",
+      "context": "Özel hayatın gizliliği hükmü, telefon dinleme tedbirinin değerlendirildiği temel hak çerçevesinde haberleşme hürriyetiyle birlikte ele alınmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Yargı bağımsızlığına ilişkin hüküm, Anayasanın bütünselliği ilkesi gereği tarafsız mahkemede yargılanma hakkının değerlendirilmesinde gözönünde bulundurulmuştur."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Hâkimlik ve savcılık teminatına ilişkin hüküm, mahkemelerin tarafsızlığının değerlendirilmesinde Anayasanın bütünselliği ilkesi çerçevesinde anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "140",
+      "context": "Hâkim ve savcıların görev ve haklarına ilişkin hüküm, tarafsız mahkemede yargılanma hakkının bütüncül değerlendirilmesinde dayanak olarak anılmıştır."
+    },
+    {
+      "law": "Yargı Hizmetlerinin Etkinleştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılması ve Basın Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesi Hakkında Kanun",
+      "law_number": "6352",
+      "article": "105",
+      "context": "5271 sayılı Kanun'un 251. maddesini yürürlükten kaldıran hüküm; özel yetkili ağır ceza mahkemelerinin görev alanına ilişkin tarihi düzenlemenin geçerliliği değerlendirilirken anılmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "235",
+      "context": "İhaleye fesat karıştırma suçu, başvurucunun mahkûmiyetine konu suçlardan biri olup CMK m.135/6 katalog suçları arasında yer alarak telefon dinleme tedbirinin yasal dayanağını oluşturmuştur."
+    }
+  ]
+}

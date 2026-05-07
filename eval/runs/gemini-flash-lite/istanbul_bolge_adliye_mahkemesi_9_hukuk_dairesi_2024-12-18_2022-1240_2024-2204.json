@@ -1,0 +1,185 @@
+{
+  "file": "istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/312",
+      "decision_number": "2022/3685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçici iş göremezlik ve geçici bakıcı gideri yönünden sigorta şirketlerinin sorumluluğu hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/6911",
+      "decision_number": "2021/10351",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sigorta şirketlerinin sorumluluğu hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/5305",
+      "decision_number": "2021/7685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sigorta şirketlerinin sorumluluğu hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/23783",
+      "decision_number": "2023/2210",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "18 yaşından küçük çocuk yararına geçici iş göremezlik tazminatı hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/4507",
+      "decision_number": "2021/8342",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "18 yaşından küçük çocuk yararına geçici iş göremezlik tazminatı hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2024/3323",
+      "decision_number": "2024/5474",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat hesaplamalarında TRH 2010 ve progresif rant yöntemi hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2023/12136",
+      "decision_number": "2024/5730",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat hesaplamalarında TRH 2010 ve progresif rant yöntemi hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/11212",
+      "decision_number": "2024/8084",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat hesaplamalarında TRH 2010 ve progresif rant yöntemi hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/16078",
+      "decision_number": "2022/10550",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat hesaplamalarında TRH 2010 ve progresif rant yöntemi hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/13398",
+      "decision_number": "2022/10498",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat hesaplamalarında TRH 2010 ve progresif rant yöntemi hakkında."
+    },
+    {
+      "court": "Yargıtay 17. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/19844",
+      "decision_number": "2019/8286",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belirsiz alacak davasında ıslah ve bedel artırım hakkı hakkında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/6162",
+      "decision_number": "2021/9730",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belirsiz alacak davasında ıslah ve bedel artırım hakkı hakkında."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2019/40",
+      "decision_number": "2020/40",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat hesaplamalarında TRH 2010 tablosu ve progresif rant iptali hakkında."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "52",
+      "context": "Müterafik kusur halinde tazminattan indirim veya tamamen kaldırma imkanı."
+    },
+    {
+      "law": "Karayolları Trafik Kanunu",
+      "law_number": null,
+      "article": "97",
+      "context": "Trafik sigortası poliçesi gereği ödenmesi gereken tazminatlar."
+    },
+    {
+      "law": "Karayolları Trafik Kanunu",
+      "law_number": null,
+      "article": "98",
+      "context": "Trafik kazalarında sigorta şirketlerinin sorumluluğu ve teminatlar."
+    },
+    {
+      "law": "Karayolları Trafik Kanunu",
+      "law_number": null,
+      "article": "99",
+      "context": "Trafik sigortası poliçesi gereği ödenmesi gereken tazminatlar."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak davası; alacaklı bir kez alacağını artırabilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "176",
+      "context": "Islah hakkı; davacı davasını bir kez ıslah edebilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353",
+      "context": "İstinaf mahkemesinin ilk derece mahkemesi kararını kaldırması ve dosyayı geri göndermesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "355",
+      "context": "İstinaf incelemesinin kapsamı; kamu düzeni ve istinaf nedenleri ile sınırlı."
+    }
+  ]
+}

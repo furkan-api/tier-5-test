@@ -1,0 +1,613 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "case_number": "2015/1962",
+  "decision_number": "2015/1846",
+  "decision_date": "2015-09-30",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "HMK m.373/5 uyarınca Hukuk Genel Kurulunun direnme incelemesi sonucu verdiği karar kesindir.",
+  "decision_outcome": "Direnme Yerinde Görüldü",
+  "decision_outcome_raw": "Yerel mahkemenin alt işverenlik sözleşmelerinin muvazaa nedeniyle geçersiz olduğuna ve davacının başlangıçtan itibaren asıl işveren işçisi sayılması gerektiğine ilişkin direnme kararı yerinde görülmüş; bozma nedenine göre incelenmemiş diğer temyiz itirazlarının değerlendirilmesi için dosya Özel Daireye gönderilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oyda, davalının 4628 sayılı Elektrik Piyasası Kanunu m.15 uyarınca asıl işin tamamını veya bir kısmını 4857 sayılı Kanun m.2'deki sınırlamalara tabi olmaksızın alt işverene verebileceği, somut olayda alt işverenlik sözleşmesinin Alt İşverenlik Yönetmeliği'ndeki unsurları taşıdığı, alt işverenlerin değişmesine rağmen işçilerin değişmemesi, çalışma şartlarının asıl işverence belirlenmesi ve malzeme/eğitim sağlanmasının başlı başına muvazaa nedeni sayılamayacağı, bakım-onarım işinin teknolojik nedenle uzmanlık gerektiren bir iş olduğu ve İş Kanunu m.2/8-9 uyarınca kamu kurumlarında muvazaa iddiasıyla TİS'ten yararlanılamayacağı ileri sürülmüştür.",
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Muvazaalı Alt İşverenlik İlişkisi Nedeniyle Toplu İş Sözleşmesinden Kaynaklanan İşçilik Alacaklarının Tahsili",
+  "summary": "Davacı işçi, davalı kamu iktisadi teşekkülünün termik santralinde alt işveren işçisi olarak gösterilmesinin muvazaalı olduğunu, gerçekte asıl işveren işçisi olduğunu ileri sürerek işletme toplu iş sözleşmesinden doğan işçilik alacaklarının tahsilini istemiştir. Yerel mahkeme alt işverenlik sözleşmelerinin muvazaalı olduğu gerekçesiyle davayı kabul etmiş; Özel Daire 4628 sayılı Kanun m.15 uyarınca asıl işin sınırlama olmaksızın alt işverene verilebileceği gerekçesiyle bozmuş; mahkeme direnmiştir. Hukuk Genel Kurulu, 4628 sayılı Kanun m.15'in muvazaa denetimine engel teşkil etmediğini, somut olayda işçi temini niteliğindeki ihalelerin, alt işverenlerin bağımsız organizasyon ve uzmanlığının bulunmaması, emir-talimat ve çalışma koşullarının EÜAŞ tarafından belirlenmesi gibi olgular nedeniyle muvazaalı olduğunu kabul ederek direnmeyi yerinde görmüş ve dosyayı esasa yönelik diğer temyiz itirazlarının incelenmesi için Özel Daireye göndermiştir.",
+  "keywords": [
+    "muvazaalı alt işverenlik",
+    "asıl işveren alt işveren ilişkisi",
+    "toplu iş sözleşmesinden yararlanma",
+    "4628 sayılı kanun m.15",
+    "iş kanunu m.2",
+    "kamu işvereni",
+    "elektrik üretim",
+    "bakım onarım işi",
+    "işçi temini",
+    "teknolojik nedenle uzmanlık",
+    "dürüstlük kuralı",
+    "hakkın kötüye kullanılması"
+  ],
+  "legal_issues": [
+    "4628 sayılı Elektrik Piyasası Kanunu m.15, 4857 sayılı İş Kanunu m.2'deki muvazaa denetimini ve sınırlamaları bertaraf eder mi?",
+    "Bağımsız organizasyon ve uzmanlığa sahip olmayan, emir-talimat ve çalışma koşulları asıl işverence belirlenen alt işverenlik ilişkisi muvazaalı sayılır mı?",
+    "Kamu kurumu niteliğindeki asıl işverenin imzaladığı hizmet alım sözleşmeleri İş Kanunu m.2/8-9 uyarınca muvazaa iddiasından bağışık tutulabilir mi?",
+    "Muvazaa nedeniyle başlangıçtan itibaren asıl işverenin işçisi sayılan davacı, asıl işverenin tarafı olduğu işletme toplu iş sözleşmesinden yararlanabilir mi?",
+    "Asıl işverenin kendi muvazaasına dayanarak toplu iş sözleşmesinden yararlandırmama savunması dürüstlük kuralı ve hakkın kötüye kullanılması yasağı karşısında korunabilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "muvazaalı alt işverenlik ilişkisi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, davalı ile dava dışı şirketler arasındaki alt işverenlik sözleşmelerinin muvazaalı olup olmadığının belirlenmesidir."
+    },
+    {
+      "concept": "asıl işveren alt işveren ilişkisi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İlişkinin geçerlilik koşulları İş Kanunu m.2 ve Alt İşverenlik Yönetmeliği çerçevesinde yorumlanarak somut olaya uygulanmıştır."
+    },
+    {
+      "concept": "işçi temini",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhalelerin iş veya hizmet üzerinden değil işçi sayısı üzerinden yapıldığı, alt işverenin bağımsız organizasyonu bulunmadığı tespitiyle olayın asıl işverene işçi temini niteliğinde olduğu sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "dürüstlük kuralı ve hakkın kötüye kullanılması yasağı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davalının kendi muvazaasına dayanarak işçiyi toplu iş sözleşmesinden yararlandırmama savunması TMK m.2 kapsamında dürüstlük kuralına aykırı ve hakkın kötüye kullanılması niteliğinde bulunmuştur."
+    },
+    {
+      "concept": "4628 sayılı kanun m.15 imtiyazı",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Anılan hükmün asıl işin alt işverene verilmesine olanak tanısa da muvazaa denetimine engel teşkil etmediği belirtilerek, davalının bu hükme dayanan savunması dışlanmıştır."
+    },
+    {
+      "concept": "iş kanunu m.2/8-9 kamu istisnası",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kamu işverenlerine tanınan ayrıcalığın 6. ve 7. fıkralardaki sınırlamaları ve muvazaa yaptırımını kaldırmadığı değerlendirilmiştir."
+    },
+    {
+      "concept": "toplu iş sözleşmesinden yararlanma",
+      "role": "uygulanan",
+      "context_in_reasoning": "Muvazaa nedeniyle başlangıçtan itibaren asıl işveren işçisi sayılan davacının, asıl işverenin tarafı olduğu işletme toplu iş sözleşmesinden yararlanması gerektiği sonucuna varılmıştır."
+    },
+    {
+      "concept": "asıl işin bölünerek verilmesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İşletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektirme şartlarının somut olayda gerçekleşmediği, davalının gereklilik halini kanıtlayamadığı belirlenmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "4628 sayılı Kanun m.15 kapsamındaki kamu tüzel kişisi olan davalı ile alt işverenler arasındaki ilişki muvazaalı olup, davacı başlangıçtan itibaren asıl işveren işçisi sayılarak işletme toplu iş sözleşmesinden yararlanabilir mi?",
+    "rule": "4857 sayılı İş Kanunu m.2/6-7 uyarınca asıl iş ancak işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işlerde bölünerek alt işverene verilebilir; muvazaa halinde alt işveren işçileri başlangıçtan itibaren asıl işverenin işçisi sayılır. 4628 sayılı Kanun m.15 ve İş Kanunu m.2/8-9 muvazaa denetimini ortadan kaldırmaz; TBK m.19, TMK m.2 ve Alt İşverenlik Yönetmeliği m.12 uyarınca tarafların gerçek iradesi ve hakkın kötüye kullanılması yasağı esas alınır.",
+    "application": "Somut olayda ihalelerin iş üzerinden değil işçi sayısı üzerinden yapıldığı, çalıştırılacak işçilerin EÜAŞ'ça belirlendiği, emir ve talimatlar ile çalışma koşulları ve yıllık izinlerin asıl işverence saptandığı, alt işverenlerin asıl işverenden bağımsız bir organizasyon, uzmanlık ve ekipmana sahip olmadığı, alt işverenler değişse de işçilerin değişmeden çalıştığı; davalının asıl işin bölünmesi için teknolojik nedenle uzmanlık ve gereklilik şartlarını kanıtlayamadığı saptanmıştır. Davalının kendi yarattığı muvazaaya dayanarak işçiyi toplu iş sözleşmesinden yararlandırmama savunması dürüstlük kuralına aykırıdır.",
+    "conclusion": "Davalının imzaladığı alt işverenlik sözleşmeleri muvazaa nedeniyle geçersiz olup davacı başlangıçtan itibaren EÜAŞ işçisi sayılacağından, yerel mahkemenin direnme kararı yerinde görülmüş; davalı vekilinin esasa yönelik diğer temyiz itirazlarının incelenmesi için dosyanın Özel Daireye gönderilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı işçi",
+      "davalı kamu iktisadi teşekkülü",
+      "dava dışı alt işverenler",
+      "işçi sendikası"
+    ],
+    "context": "Elektrik üretimiyle uğraşan bir kamu iktisadi teşekkülüne ait termik santralde, hizmet alım ihaleleriyle çeşitli alt işverenler aracılığıyla işçi çalıştırılması.",
+    "trigger": "Sendikaya üye olan işçinin asıl işverence kendi personeli sayılmayarak işletme toplu iş sözleşmesinden yararlandırılmaması ve üyelik formunun iadesi.",
+    "claim": "Alt işverenlik ilişkisinin muvazaalı olduğunun tespiti ile başlangıçtan itibaren asıl işveren işçisi sayılarak işletme toplu iş sözleşmesinden doğan ücret, ikramiye, tazminat ve sosyal yardım alacaklarının davalıdan tahsili."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Kütahya İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2013/342",
+      "decision_number": "2014/306",
+      "relation": "chained",
+      "outcome": "Direnme Yerinde Görüldü",
+      "treatment": null,
+      "context": "Direnme kararı verilen yerel mahkemenin ilk kararıdır; davacının kabul edilen davası bu karara dayanmaktadır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/14851",
+      "decision_number": "2014/18378",
+      "relation": "chained",
+      "outcome": "Direnme Yerinde Görüldü",
+      "treatment": null,
+      "context": "Yerel mahkemenin kabul kararını 4628 sayılı Kanun m.15 gerekçesiyle bozan ve direnmeye konu olan Özel Daire bozma ilamıdır."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/23916",
+      "decision_number": "2013/22377",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Özel Daire bozma kararında benzer sonuca ulaştığı belirtilen emsal karar olup HGK çoğunluğu farklı sonuca ulaşarak bu yaklaşımdan ayrılmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/31057",
+      "decision_number": "2010/30927",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Belediyelerin asıl işlerini 5393 sayılı Belediye Kanunu m.67 uyarınca alt işverenlere verebileceğine ilişkin 9. HD içtihadı, karşı görüşte özel kanun-İş Kanunu m.2 ilişkisi tartışmasında örnek olarak anılmış; HGK çoğunluğu bu yaklaşımdan ayrılarak muvazaa denetiminin ortadan kalkmadığı sonucuna varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/31056",
+      "decision_number": "2010/30926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Belediyelerin asıl işlerini 5393 sayılı Belediye Kanunu m.67 uyarınca alt işverenlere verebileceğine ilişkin 9. HD içtihadı, karşı görüşte özel kanun-İş Kanunu m.2 ilişkisi tartışmasında örnek olarak anılmış; HGK çoğunluğu bu yaklaşımdan ayrılarak muvazaa denetiminin ortadan kalkmadığı sonucuna varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/18381",
+      "decision_number": "2010/10119",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Belediyelerin asıl işlerini 5393 sayılı Belediye Kanunu m.67 uyarınca alt işverenlere verebileceğine ilişkin 9. HD içtihadı, karşı görüşte özel kanun-İş Kanunu m.2 ilişkisi tartışmasında örnek olarak anılmış; HGK çoğunluğu bu yaklaşımdan ayrılarak muvazaa denetiminin ortadan kalkmadığı sonucuna varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/21339",
+      "decision_number": "2010/13483",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Belediyelerin asıl işlerini 5393 sayılı Belediye Kanunu m.67 uyarınca alt işverenlere verebileceğine ilişkin 9. HD içtihadı, karşı görüşte özel kanun-İş Kanunu m.2 ilişkisi tartışmasında örnek olarak anılmış; HGK çoğunluğu bu yaklaşımdan ayrılarak muvazaa denetiminin ortadan kalkmadığı sonucuna varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/23098",
+      "decision_number": "2010/19449",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Belediyelerin asıl işlerini 5393 sayılı Belediye Kanunu m.67 uyarınca alt işverenlere verebileceğine ilişkin 9. HD içtihadı, karşı görüşte özel kanun-İş Kanunu m.2 ilişkisi tartışmasında örnek olarak anılmış; HGK çoğunluğu bu yaklaşımdan ayrılarak muvazaa denetiminin ortadan kalkmadığı sonucuna varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20734",
+      "decision_number": "2009/20508",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20737",
+      "decision_number": "2009/20511",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20739",
+      "decision_number": "2009/20513",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/36960",
+      "decision_number": "2009/25308",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/36961",
+      "decision_number": "2009/25309",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/38530",
+      "decision_number": "2009/29750",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/38532",
+      "decision_number": "2009/29752",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/42282",
+      "decision_number": "2010/6655",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45639",
+      "decision_number": "2009/37723",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45640",
+      "decision_number": "2009/37724",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45641",
+      "decision_number": "2009/37725",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45642",
+      "decision_number": "2009/37726",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45643",
+      "decision_number": "2009/37727",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45644",
+      "decision_number": "2009/37728",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47843",
+      "decision_number": "2009/37766",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47844",
+      "decision_number": "2009/37767",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47845",
+      "decision_number": "2009/37768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47846",
+      "decision_number": "2009/37769",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47847",
+      "decision_number": "2009/37770",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/197",
+      "decision_number": "2011/8936",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/243",
+      "decision_number": "2011/12061",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/12940",
+      "decision_number": "2012/4925",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/12836",
+      "decision_number": "2014/8253",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte alt işveren değişikliği, asıl işverenin emir-talimat yetkisi veya çalışma koşullarının asıl işverence belirlenmesinin tek başına muvazaa nedeni sayılamayacağına dair 9. HD içtihadı olarak zikredilmiş; HGK çoğunluğu somut olayı bu emsallerden ayırt ederek farklı sonuca varmıştır."
+    },
+    {
+      "court": "Ankara 6. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2579",
+      "decision_number": "2008/1185",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte davalı işyeri hakkında açılan ihale iptali davalarında muvazaa bulunmadığına ve Danıştayca onandığına ilişkin örnek olarak zikredilen idare mahkemesi kararıdır; HGK çoğunluğu bu sonuçtan ayrılmıştır."
+    },
+    {
+      "court": "Eskişehir İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2885",
+      "decision_number": "2007/1042",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte davalı işyeri hakkında açılan ihale iptali davalarında muvazaa bulunmadığına ve Danıştayca onandığına ilişkin örnek olarak zikredilen idare mahkemesi kararıdır; HGK çoğunluğu bu sonuçtan ayrılmıştır."
+    },
+    {
+      "court": "Eskişehir İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2886",
+      "decision_number": "2007/1041",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Karşı görüşte davalı işyeri hakkında açılan ihale iptali davalarında muvazaa bulunmadığına ve Danıştayca onandığına ilişkin örnek olarak zikredilen idare mahkemesi kararıdır; HGK çoğunluğu bu sonuçtan ayrılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "Asıl işveren-alt işveren ilişkisinin tanımı, sınırlamaları ve muvazaa yaptırımı ile kamu kurumlarına ilişkin 8. ve 9. fıkraların değerlendirilmesinde temel dayanak olmuştur."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "1",
+      "context": "İş Kanunu'nun 4. maddedeki istisnalar dışında tüm işyerlerine uygulanacağı kuralı uyarınca davalı kamu teşekkülünün de alt işverenlik düzenlemelerine tabi olduğu belirtilmiştir."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "4",
+      "context": "Davalının istisna kapsamında olmadığı, dolayısıyla 2. maddedeki sınırlamaların kendisine de uygulanacağı vurgulanmıştır."
+    },
+    {
+      "law": "Enerji Piyasası Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Kanun",
+      "law_number": "4628",
+      "article": "15",
+      "context": "Elektrik üretim, iletim ve dağıtım faaliyeti gösteren kamu tüzel kişilerinin işletme ile bakım-onarım işlerini hizmet alımı yoluyla yaptırabilmesine olanak tanıyan, ancak muvazaa denetimini ortadan kaldırmadığı tespit edilen hükümdür."
+    },
+    {
+      "law": "Elektrik Piyasası Kanunu",
+      "law_number": "6446",
+      "article": "30",
+      "context": "4628 sayılı Kanun'un 15. maddesine eklenen fıkrayı 30.03.2013 tarihinde yürürlükten kaldıran düzenleme olarak anılmıştır."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "19",
+      "context": "Sözleşmenin türünün ve içeriğinin belirlenmesinde tarafların gerçek ve ortak iradelerinin esas alınacağı kuralı, alt işverenlik sözleşmelerinin muvazaa denetiminde uygulanmıştır."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "2",
+      "context": "Davalının kendi muvazaasına dayanan savunmasının dürüstlük kuralına aykırı ve hakkın açıkça kötüye kullanılması niteliğinde olduğu sonucuna dayanak yapılmıştır."
+    },
+    {
+      "law": "Borçlar Kanunu (mülga)",
+      "law_number": "818",
+      "article": "18",
+      "context": "Yürürlükten kalkmış olmakla birlikte muvazaaya ilişkin TBK m.19'un kaynağı olarak referans gösterilmiştir."
+    },
+    {
+      "law": "Kamu İhale Kanunu",
+      "law_number": "4734",
+      "article": null,
+      "context": "Kamu kurumlarının hizmet alımı sözleşmelerinin yasal çerçevesi olarak ve İş Kanunu m.2/8 yollamasıyla anılmıştır."
+    },
+    {
+      "law": "Kamu Kurum ve Kuruluşlarının Daimi Kadrolarına İlk Defa İşçi Olarak Alınacaklar Hakkında Kanun ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+      "law_number": "5538",
+      "article": "18",
+      "context": "İş Kanunu m.2'ye 8. ve 9. fıkraları ekleyerek kamu işverenlerine farklı bir alt işverenlik rejimi getiren düzenleme olarak tartışılmıştır."
+    },
+    {
+      "law": "Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "5784",
+      "article": "5",
+      "context": "4628 sayılı Kanun m.15'e hizmet alımına ilişkin fıkrayı ekleyen ve 26.07.2008'de yürürlüğe giren değişiklik olarak anılmıştır."
+    },
+    {
+      "law": "Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname",
+      "law_number": "233",
+      "article": null,
+      "context": "Davalı EÜAŞ'ın elektrik üretimiyle uğraşan iktisadi devlet teşekkülü ve kamu tüzel kişisi statüsünün dayanağı olarak gösterilmiştir."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "3",
+      "context": "Muvazaa kavramının yönetmelik düzeyindeki tanımı ve unsurları gerekçeye dayanak yapılmıştır."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "4",
+      "context": "Asıl işveren-alt işveren ilişkisinin kurulma şartları somut olayda değerlendirilmiştir."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "11",
+      "context": "Asıl işin işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektirmesi koşullarının birlikte gerçekleşmesi gerektiği kuralı uygulanmıştır."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "12",
+      "context": "Muvazaa olgusunun değerlendirilmesinde göz önünde bulundurulacak kriterler somut olaya uygulanmıştır."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "4",
+      "context": "Kamu hizmetlerinin memurlar, sözleşmeli personel, geçici personel ve işçiler eliyle görüleceği kuralı; muvazaalı atamanın bu kanuna aykırılığı bağlamında çoğunluk gerekçesinde anılmıştır."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "5",
+      "context": "657 sayılı Kanuna tabi kurumların yalnızca m.4'teki dört istihdam şekli dışında personel çalıştıramayacağı kuralı çoğunluk gerekçesinde dayanak yapılmıştır."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "36/III-2",
+      "context": "Sağlık hizmetleri sınıfına dahil personel tarafından yerine getirilmesi gereken hizmetlerin satın alınması yoluyla gördürülebilmesini düzenleyen hüküm, karşı görüşte alt işverenlik tartışmasında örnek olarak anılmıştır."
+    },
+    {
+      "law": "Belediye Kanunu",
+      "law_number": "5393",
+      "article": "67",
+      "context": "Belediyenin asli işlerinin alt işverenlere verilebilmesine olanak tanıdığı ileri sürülen hüküm; karşı görüşte özel kanun-İş Kanunu m.2 ilişkisi tartışmasında dayanak yapılmıştır."
+    },
+    {
+      "law": "Karayolları Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun",
+      "law_number": "6001",
+      "article": "4",
+      "context": "KGM asli işi olan yol, köprü, viyadük ve tünel yapımının alt işverenlere verilmesine olanak tanıdığı ileri sürülen hüküm; karşı görüşte örnek olarak anılmıştır."
+    },
+    {
+      "law": "İş Sağlığı ve Güvenliği Kanunu",
+      "law_number": "6331",
+      "article": "4/1-b",
+      "context": "İşverenin işyerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığını izleme, denetleme ve uygunsuzlukların giderilmesini sağlama yükümlülüğü; iş güvenliği eğitiminin asıl işveren tarafından verilmesinin muvazaa nedeni sayılamayacağı değerlendirmesinde uygulanmıştır."
+    },
+    {
+      "law": "Kamu İhale Sözleşmeleri Kanunu",
+      "law_number": "4735",
+      "article": "20",
+      "context": "Hizmet alım sözleşmesinde alt işverenin yükümlülüklerini yerine getirmemesi halinde sözleşmenin feshine ilişkin hüküm; alt işverenin yeterli ekipman ve uzmanlığa sahip olması gerektiğine dair gerekçenin dayanaklarındandır."
+    },
+    {
+      "law": "Posta Hizmetleri Kanunu",
+      "law_number": "6475",
+      "article": "4/2",
+      "context": "Posta hizmetlerinin alt işverenlere verilmesine olanak tanıdığı ileri sürülen hüküm; karşı görüşte İş Kanunu m.2 ile özel kanun ilişkisi tartışmasında örnek olarak anılmıştır."
+    },
+    {
+      "law": "Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılmasına Dair Kanun",
+      "law_number": "4924",
+      "article": "11",
+      "context": "657 sayılı Devlet Memurları Kanunu m.36'ya hizmet satın alımı paragrafını ekleyen ve AYM tarafından iptal istemi reddedilen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Posta Kanunu (mülga)",
+      "law_number": "5584",
+      "article": "10",
+      "context": "5893 sayılı Kanun m.1 ile fıkra eklenen ve AYM iptal istemini reddettiği eski Posta Kanunu hükmü olarak anılmıştır."
+    },
+    {
+      "law": "Posta Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "5893",
+      "article": "1",
+      "context": "5584 sayılı Posta Kanunu m.10'a fıkra ekleyen ve AYM tarafından iptal istemi reddedilen değişiklik hükmü olarak anılmıştır."
+    }
+  ]
+}

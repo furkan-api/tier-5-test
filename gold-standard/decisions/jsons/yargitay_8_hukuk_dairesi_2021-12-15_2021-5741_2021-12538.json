@@ -1,0 +1,305 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/5741",
+  "decision_number": "2021/12538",
+  "decision_date": "2021-12-15",
+  "decision_type": "Temyiz",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Müdahil vekilinin temyiz itirazlarının kabulüyle yerel mahkeme hükmünün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oyda; bozma ilamının tam olarak yerine getirilmediği, bilirkişi raporları arasındaki çelişkilerin giderilmediği, kılavuz dosya yöntemiyle keşif yapılmasının uygun olmadığı, aynı tapu kayıtlarına ilişkin Hukuk Genel Kurulu'nun 2019 tarihli bozma ilamları doğrultusunda davaların birleştirilerek tapu kayıtlarının zemine uygulanması ve miktarıyla kapsam tayini gerektiği, çiftlik tapularının geçerli ve uygulanabilir nitelikte olduğu, ve (//) mevkili tapular yönüyle davanın reddi yerine eksik araştırma nedeniyle bozma kararı verilmesi gerektiği belirtilmiştir.",
+  "appellants": [
+    "müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "müdahil",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Kadastro Tespitine İtiraz - Çiftlik Tapu Kayıtlarının Miktarıyla Kapsam Tayini",
+  "summary": "Davacılar ve müştereklerinin Mart 1290 tarihli üç ayrı çiftlik tapu kaydına dayalı olarak açtığı kadastro tespitine itiraz davasında, ilk derece mahkemesi davayı kabul ederek çekişmeli parselin tapu malikleri ile pay satın alan müdahil şirket adına tesciline karar vermiştir. Yargıtay 8. Hukuk Dairesi, çiftlik tapu kayıtlarının gayri sabit hudutlu olup miktarıyla geçerli sayıldığını, ancak ve (//) mevkili tapular yönünden birbiriyle çakışan iki sabit hudut bulunmadığından miktarıyla kapsam tayininin hukuken mümkün olmadığını; mevkili çiftlik tapusu yönünden ise tapu malikleri adına tescil edilmiş taşınmazların dış sınırları esas alınarak ve devletleştirilen/kamulaştırılan alanlar düşülerek kapsam tayini gerektiğini, somut olayda bu yöntemle hataya düşüldüğünü tespit etmiştir. Sonuç olarak çekişmeli taşınmazın müdahilin dayandığı tescil ilamı ile oluşan tapu kaydı kapsamında kaldığı belirlendiğinden, müdahil adına tescil yerine yazılı şekilde hüküm kurulması bozma nedeni sayılmıştır.",
+  "keywords": [
+    "kadastro tespitine itiraz",
+    "çiftlik tapusu",
+    "miri arazi",
+    "gayri sahih vakıf",
+    "miktarıyla geçerli tapu",
+    "gayri sabit hudut",
+    "3402 sayılı kanun 20/c",
+    "arazi kanunnamesi",
+    "zilyetlikle iktisap",
+    "kapsam tayini",
+    "tahrir vergi kaydı",
+    "devletleştirilen orman",
+    "resen araştırma ilkesi",
+    "tescil ilamı"
+  ],
+  "legal_issues": [
+    "Gayri sabit hudutlu çiftlik tapu kayıtlarına 3402 sayılı Kadastro Kanunu m.20/C uyarınca miktarıyla kapsam tayini hangi koşullarda mümkündür?",
+    "Birbiriyle çakışan sabit hudut bulunmayan ve sınırları geniş alanları ifade eden tapu kayıtlarına hayali çizgilerle kapsam tayin edilebilir mi?",
+    "Tek taraflı beyana dayalı tahrir vergi kayıtları, tapu malikleri lehine zilyetlik iradesinin sürdürüldüğüne karine oluşturur mu?",
+    "Hanedan vakfı niteliğindeki Vakfı kapsamındaki çiftlik arazileri sahih vakıf mı yoksa gayri sahih vakıf mı sayılır ve zilyetlikle kazanılabilir mi?",
+    "Tapu malikleri adına revizyon ya da hükmen tescil edilmiş taşınmazların bulunduğu çiftlik tapusunun kapsamı nasıl belirlenir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "miktarıyla geçerli tapu kaydı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Gayri sabit hudutlu çiftlik tapu kayıtlarının 3402 sayılı Kanun m.20/C uyarınca yalnızca miktarıyla geçerli olduğu ve kapsam tayinin nasıl yapılacağı kararın temel ekseninde tartışılmıştır."
+    },
+    {
+      "concept": "gayri sabit hudut",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu kayıtlarındaki sınırların mevki, dağ, çiftlik gibi geniş alanları ifade etmesi nedeniyle gayri sabit hudut niteliğinde olduğu ve sabit sınırdan başlanarak kapsam tayini yapılamayacağı sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "gayri sahih vakıf",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Vakfının hanedan vakfı niteliğinde olup gayri sahih vakıf sayıldığı, dolayısıyla çiftlik tapuları kapsamındaki taşınmazların Arazi Kanunnamesi m.20 ve 78 uyarınca zilyetlikle kazanılabileceği yorumlanmıştır."
+    },
+    {
+      "concept": "arazi kanunnamesi 20 ve 78. madde",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Çekişmeli taşınmazın öncesi hali arazi olup 1960-1970'lerde köylülerce paylaşılarak kullanılmaya başlandığından, davalı zilyetliğinin tapu kayıtlarının hukuki kıymetini kaybettirecek nitelikte olmadığı belirtilerek bu hükümlerin somut olaya uygulanmadığı saptanmıştır."
+    },
+    {
+      "concept": "tahrir vergi kaydı",
+      "role": "reddedilen",
+      "context_in_reasoning": "Tek taraflı beyanla 1936 yılında düzenlenen tahrir vergi kayıtlarının, tespit tarihi olan 2007 yılına kadar zilyetlik iradesinin sürdürüldüğüne karine oluşturmadığı kabul edilmiştir."
+    },
+    {
+      "concept": "resen araştırma ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Çekişmeli taşınmazın malik hanesinin açık ve davalı olarak tespit edilmiş olması nedeniyle 3402 sayılı Kanun m.30/2 uyarınca gerçek malikin re'sen araştırılması gerektiği vurgulanmıştır."
+    },
+    {
+      "concept": "kapsam tayini yöntemi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tapu malikleri adına tescil edilmiş taşınmazların dış sınırlarının esas alınarak, devletleştirilen ve kamulaştırılan alanlar düşülerek kapsam tayini yapılması gerektiği yöntemi geliştirilmiştir."
+    },
+    {
+      "concept": "tescil ilamı kapsamı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Çekişmeli taşınmazın müdahilin haricen satın aldığı kişi adına oluşan tescil ilamı kaynaklı tapu kaydı kapsamında kaldığı, bozma öncesi keşif ve raporlarla belirlendiğinden müdahil adına tescili gerektiği sonucuna varılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sınırları gayri sabit hudutlu olan çiftlik tapu kayıtlarına 3402 sayılı Kadastro Kanunu m.20/C uyarınca miktarıyla kapsam tayini mümkün müdür ve çekişmeli taşınmaz hangi tapu kaydının kapsamında kalmaktadır?",
+    "rule": "3402 sayılı Kadastro Kanunu m.20/C uyarınca harita, plan ve krokiye dayanmayan kayıtlardaki sınırlar değişebilir ve genişletilmeye elverişli ise miktarına itibar edilir; miktarıyla kapsam tayini ancak birbiriyle çakışan iki sabit hudut bulunması ya da tapu malikleri adına tespit ve hükmen tescil edilmiş taşınmazların dış sınırlarının esas alınması suretiyle mümkündür; aksi halde subjektif uygulamaya yol açacağından kapsam tayini hukuken yapılamaz.",
+    "application": "Davacıların dayandığı ve (//) mevkili tapu kayıtlarının sınırları tamamen gayri sabit olup geniş alanları ifade ettiğinden ve bu kayıtlar uyarınca tapu malikleri adına revizyon ya da hükmen tescil edilmiş taşınmaz bulunmadığından miktarıyla kapsam tayini mümkün değildir; mevkili çiftlik tapusu yönünden ise tapu malikleri adına tescilli taşınmazlar bulunmakla birlikte bilirkişi heyeti devletleştirilen ve kamulaştırılan alanları düşmediğinden kapsam tayininde hataya düşmüş, çekişmeli taşınmazın ise müdahilin tescil ilamına dayalı tapu kaydı kapsamında kaldığı belirlenmiştir.",
+    "conclusion": "Davacı ve arkadaşlarının davalarının ispatlanamadığı gerekçesiyle reddine ve çekişmeli taşınmazın müdahilin dayandığı tescil ilamı ile oluşan tapu kaydı kapsamında kalması nedeniyle müdahil adına tesciline karar verilmesi gerekirken yazılı şekilde hüküm kurulması bozmayı gerektirmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı tapu malikleri",
+      "müdahil pay satın alan şirket",
+      "müdahil tescil ilamı maliki",
+      "Hazine"
+    ],
+    "context": "İlçesinde birbirine komşu üç köyde bulunan ve Mart 1290 tarihli üç ayrı çiftlik tapu kaydına konu, tarım dışı arazi niteliğinde olup öncesi hali arazi sayılan ve 1960-1970'lerde köylülerce paylaşılarak kullanılmaya başlanan taşınmazlar.",
+    "trigger": "2007 yılında yapılan kadastro çalışmasında çekişmeli 220 ada 2 parsel sayılı taşınmazın davalı tarafın tapu kaydı kapsamında ancak malik hanesi açık olarak tespit edilmesi.",
+    "claim": "Davacı tapu malikleri ve onlardan pay satın alan müdahil şirketin, çiftlik tapu kayıtlarına dayanarak taşınmazın kendileri adına tescilini talep etmesi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 16. Hukuk Dairesi (Kapatılan)",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Önceki tarihli yerel mahkeme kararını bozarak çiftlik tapularının uygulanması ve kapsamının belirlenmesine ilişkin yöntemi gösteren ve hükmüne uyulan bozma ilamıdır."
+    },
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi (Kapatılan)",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/11416",
+      "decision_number": "2013/4272",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Vakfın niteliğinin araştırılması gereğine değinen 17.12.2013 tarihli bozma ilamı sonradan istikrar kazanan içtihatla aşılmış ve vakfın gayri sahih vakıf olduğu kabul edilmiştir."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1580",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfının gayri sahih vakıf niteliğinde olduğu yönündeki istikrarlı içtihadın dayanaklarından biri olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1183",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Çiftlik tapularının kapsamının sabit hudutlardan başlanarak miktarıyla belirlenmesi yöntemine ilişkin istikrarlı içtihadın referansıdır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/1625",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayri sahih vakıf niteliği ve kapsam tayini yönteminin gerekçelendirilmesinde dayanılan kararlardan biridir."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2002/1795",
+      "decision_number": "2002/4523",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu maliklerinin devletleştirme dışında fazla istimlak edilen alanların adlarına tescili istemli davasında verilen kararı onayan ilam olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 8. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1994/7430",
+      "decision_number": "1995/1073",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Çiftlik tapularının intikallerinin yasal prosedüre uygun ve hukuki değerini koruduğu yönündeki ret kararını süre yönünden onayan ilam olarak değinilmiştir."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1996/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu kaydı kapsamının belirlenmesi işleminin yapıldığı dosya olup, davalı tarafın taraf olmaması nedeniyle bağlayıcılığı reddedilmiştir."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2014/26",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Mahkemece kılavuz dosya kabul edilerek üç günlük keşif ile bilirkişi raporlarının alındığı dosya olarak gerekçenin merkezinde değerlendirilmiştir."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/B",
+      "context": "Harita ve krokiye dayanmayan kayıtlarda sınırların mahalline uygulanabilmesi ve hak sahibinin kullanımına ilişkin esas olarak değerlendirilmiştir."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/C",
+      "context": "Sınırları değişebilir ve genişletilmeye elverişli tapu kayıtlarının miktarıyla geçerli olacağı kuralı, çiftlik tapularının kapsamının tayininde temel norm olarak uygulanmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20",
+      "context": "Davalı tarafın tescil ilamıyla oluşmuş tapu kaydının mahalline uygulanması yöntemi açısından anılmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "30/2",
+      "context": "Malik hanesi açık ve davalı olarak tespit edilen taşınmazlarda re'sen araştırma ilkesinin geçerli olacağı dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "22",
+      "context": "Birlik teknisyenlerinin tapu kayıtlarının uygulanmasında izleyeceği usul ve şahit dinletme imkanına ilişkin hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "20",
+      "context": "Miri arazide zilyetlikle kazanma koşullarının değerlendirilmesinde tartışılmış, somut olayda davalı zilyetliğinin tapu kayıtlarının hukuki kıymetini kaybettirecek nitelikte olmadığı belirtilmiştir."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "78",
+      "context": "Miri arazide zilyetlikle kazanma koşullarına ilişkin hüküm olarak m.20 ile birlikte değerlendirilmiştir."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "4785",
+      "context": "1945 yılında yürürlüğe giren ve özel ormanların devletleştirilmesini düzenleyen kanun olarak çiftlik tapuları kapsamındaki orman alanlarının miktarına ilişkin değerlendirmede esas alınmıştır.",
+      "article": null
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "5658",
+      "article": null,
+      "context": "Devletleştirilen ormanların iadeye tabi olmayan kısımlarına ilişkin düzenleme olarak orman kadastrosu değerlendirmesinde anılmıştır."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "10",
+      "context": "Orman tahdit komisyonunun tapu kayıtlı taşınmazlar hakkında işlem yapması usulü çerçevesinde değinilmiştir."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": null,
+      "context": "4 Ekim 1926'da yürürlüğe girmesinden sonra Arazi Kanunnamesinin Medeni Kanuna aykırı olmayan hükümlerinin yürürlüğünü sürdürmesi bağlamında anılmıştır."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "992",
+      "context": "Tapuda kayıtlı taşınmazda kütük zilyetliğinin devam edeceği kuralı karşı oyda zilyetlik değerlendirmesinde dayanak olarak gösterilmiştir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "Geçici 3",
+      "context": "1086 sayılı HUMK'un temyiz hükümlerinin uygulanmasına yapılan yollama olarak bozma kararının usul dayanağıdır."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu (mülga)",
+      "law_number": "1086",
+      "article": "428",
+      "context": "Yerel mahkeme hükmünün bozulmasının usul dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu (mülga)",
+      "law_number": "1086",
+      "article": "440/I",
+      "context": "Karar düzeltme istemi süresinin 15 gün olduğuna ilişkin usul hükmü olarak anılmıştır."
+    },
+    {
+      "law": "Tapulama Kanunu (mülga)",
+      "law_number": "766",
+      "article": "32",
+      "context": "Senetsizden yapılan tespitin usulüne aykırılığı bağlamında Birlik teknisyenlerinin değerlendirmesinde anılmıştır."
+    },
+    {
+      "law": "Vergi Tahriri Kanunu",
+      "law_number": "2901",
+      "article": null,
+      "context": "1936-1938 yılları arasında oluşturulan tahrir vergi kayıtlarının dayanağı olan kanun olarak anılmıştır."
+    }
+  ]
+}

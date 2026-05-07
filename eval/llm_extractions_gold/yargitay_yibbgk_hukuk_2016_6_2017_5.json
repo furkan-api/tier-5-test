@@ -1,0 +1,368 @@
+{
+  "file": "yargitay_yibbgk_hukuk_2016_6_2017_5.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+  "case_number": "2016/6",
+  "decision_number": "2017/5",
+  "decision_date": "2017-12-15",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "2797 sayılı Yargıtay Kanunu m.16/son uyarınca içtihadı birleştirme kararları kesin olup aleyhine yargı yoluna başvurulamaz.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "İşçilik alacaklarının belirli veya belirsiz olmasının her somut olayın özelliğine göre mahkemece tespit edilmesi gerektiği, alacağın türü itibariyle genel bir nitelendirme yapılamayacağı gerekçesiyle içtihadı birleştirmeye gerek olmadığına oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "İşçilik Alacaklarının Belirsiz Alacak Davasına Konu Olup Olamayacağına İlişkin İçtihat Aykırılığının Giderilmesi Talebi",
+  "summary": "Yargıtay 7., 9. ve 22. Hukuk Daireleri ile Hukuk Genel Kurulu arasında işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusunda doğan içtihat farklılığının giderilmesi için içtihadı birleştirme yoluna başvurulmuştur. İçtihatları Birleştirme Büyük Genel Kurulu, kıdem ve ihbar tazminatı, yıllık izin ücreti, fazla çalışma, hafta tatili ve genel tatil ücreti gibi alacakların niteliklerini ayrı ayrı değerlendirerek, bir alacağın belirli ya da belirsiz olduğunun yalnızca alacağın türüne bakılarak söylenemeyeceğini, her somut olayın özelliklerine göre mahkemelerce ayrı ayrı incelenmesi gerektiğini belirtmiştir. Bu nedenle, içtihadı birleştirme kararlarının soyut, genel ve normatif yapısıyla bağdaşmadığı gerekçesiyle içtihadı birleştirmeye gerek olmadığına oybirliğiyle karar verilmiştir.",
+  "keywords": [
+    "belirsiz alacak davası",
+    "işçilik alacakları",
+    "kıdem tazminatı",
+    "ihbar tazminatı",
+    "yıllık izin ücreti",
+    "fazla çalışma ücreti",
+    "kısmi dava",
+    "hak arama özgürlüğü",
+    "likit alacak",
+    "hmk 107",
+    "içtihadı birleştirmeye gerek olmadığı",
+    "somut olay değerlendirmesi"
+  ],
+  "legal_issues": [
+    "İşçilik alacakları genel ve soyut olarak belirsiz alacak davasına konu edilebilir mi?",
+    "Kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti gibi feshe bağlı alacaklar belirsiz alacak niteliğinde midir?",
+    "Fazla çalışma, hafta tatili ve genel tatil ücreti alacakları belirsiz alacak davasına konu edilebilir mi?",
+    "Bir alacağın belirli ya da belirsiz olması alacağın türüne göre mi yoksa somut olayın özelliğine göre mi tespit edilmelidir?",
+    "İçtihadı birleştirme kararlarının soyut ve genel niteliği işçilik alacaklarının belirsizliği konusunda bir kuralın ortaya konulmasına elverişli midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "belirsiz alacak davası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın merkezinde HMK m.107'de düzenlenen belirsiz alacak davasının işçilik alacakları bakımından uygulanma koşullarının belirlenmesi yer almaktadır."
+    },
+    {
+      "concept": "işçilik alacakları",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İşçilik alacaklarının kapsamı ve niteliği, sözleşme özgürlüğü ilkesi çerçevesinde önceden tüketici biçimde belirlenemeyecek alacak türlerinden oluştuğu şeklinde yorumlanmıştır."
+    },
+    {
+      "concept": "feshe bağlı alacaklar",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kıdem tazminatı, ihbar tazminatı ve yıllık izin ücreti gibi feshe bağlı alacakların ücret miktarının kararlaştırılma şekline göre belirli ya da belirsiz nitelikte olabileceği tartışılmıştır."
+    },
+    {
+      "concept": "likit alacak",
+      "role": "uygulanan",
+      "context_in_reasoning": "Alacağın belirli olması kavramının tespitinde İİK m.67'deki likit alacak ölçütünün yol gösterici olabileceği belirtilerek alacağın belirlenebilirliği değerlendirilmiştir."
+    },
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Belirsiz alacak davasının amacının davacının hak arama özgürlüğünün önündeki engelleri kaldırmak olduğu vurgulanmıştır."
+    },
+    {
+      "concept": "içtihadı birleştirme kararının soyut ve genel niteliği",
+      "role": "ana_eksen",
+      "context_in_reasoning": "İBK'nın aynı tür uyuşmazlıkların tümü için geçerli soyut ve genel kural koyma niteliğinin, somut olay değerlendirmesi gerektiren bu mesele ile bağdaşmadığı sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "somut olay değerlendirmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Her bir işçilik alacağının belirli mi belirsiz mi olduğunun mahkemelerce somut olayın özelliklerine göre tespit edilmesi gerektiği esası benimsenmiştir."
+    },
+    {
+      "concept": "kısmi dava",
+      "role": "tartışılan",
+      "context_in_reasoning": "HMK m.109'da düzenlenen kısmi dava ile belirsiz alacak davası arasındaki ayrım ve eski m.109/2'nin kaldırılmasının etkileri tartışılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususunda içtihatların birleştirilmesine gerek var mıdır?",
+    "rule": "HMK m.107 uyarınca alacağın miktarının davanın açıldığı tarihte tam ve kesin olarak belirlenebilmesinin alacaklıdan beklenememesi veya imkânsız olması hâlinde belirsiz alacak davası açılabilir; ancak Yargıtay Kanunu m.16 ve m.45 uyarınca içtihadı birleştirme kararları soyut, genel ve normatif nitelikte olup somut olay bazlı değerlendirme gerektiren konularda elverişli değildir.",
+    "application": "İşçilik alacakları, bireysel ya da toplu iş sözleşmesinden kaynaklanan, feshe bağlı veya bağlı olmayan çok çeşitli alacak kalemlerinden oluşmakta; ücretin maktu kararlaştırıldığı hâllerde belirli, yüzde usulü veya tanık beyanına dayalı hesaplamalarda ise belirsiz nitelikte olabilmektedir; bu nedenle aynı tür alacakta dahi her somut olayda farklı sonuca ulaşılabilmektedir.",
+    "conclusion": "Alacağın türü itibariyle genel bir nitelendirme yapılamayacağı, her somut olayın özelliğine göre mahkemelerce belirlilik değerlendirmesinin yapılması gerektiği ve bu hususun İBK'nın soyut ve genel yapısıyla bağdaşmadığı gerekçesiyle içtihadı birleştirmeye gerek olmadığına oybirliğiyle karar verilmiştir."
+  },
+  "fact_pattern": null,
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/9-838",
+      "decision_number": "2012/715",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kıdem tazminatı ve fazla çalışma ücretinin kısmi dava yoluyla istenmesinde alacağın belirli/belirlenebilir olup olmadığının tartışıldığı ve içtihat aykırılığına konu edilen HGK kararıdır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/19-376",
+      "decision_number": "2010/397",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Likit alacak kavramının tanımı ile alacağın bilirkişi incelemesi yapılması nedeniyle likit niteliğini yitirmeyeceği yönündeki anlayışın dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1963/4-71",
+      "decision_number": "1963/21",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İçtihadı birleştirme kararlarının konularıyla sınırlı, gerekçeleriyle açıklayıcı ve sonuçlarıyla bağlayıcı niteliğini açıklayan emsal karar olarak alıntılanmıştır."
+    },
+    {
+      "court": "Yargıtay (Kapatılan) 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6541",
+      "decision_number": "2014/10401",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen kararlardan biri olarak işçilik alacaklarının belirsizliği konusunda ele alınmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/47206",
+      "decision_number": "2011/39092",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davası olarak kabul edildiği 9. Hukuk Dairesi kararlarından biri olarak içtihat aykırılığına konu edilmiştir."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/51609",
+      "decision_number": "2012/1072",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz nitelikte kabulüne ilişkin 9. Hukuk Dairesi kararı olarak içtihat aykırılığına konu edilmiştir."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/1757",
+      "decision_number": "2012/5742",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen 9. Hukuk Dairesi kararlarından biri olarak değerlendirilmiştir."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/10344",
+      "decision_number": "2013/28364",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığının dayandığı 9. Hukuk Dairesi kararlarından biri olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/31734",
+      "decision_number": "2014/35646",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak niteliğinde kabulüne ilişkin 9. Hukuk Dairesi içtihadı arasında anılmıştır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/442",
+      "decision_number": "2014/2051",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kıdem ve ihbar tazminatı ile yıllık izin ücretinin belirli alacak kabul edildiği 22. Hukuk Dairesi içtihadı olarak içtihat aykırılığına konu edilmiştir."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/9751",
+      "decision_number": "2014/9687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "22. Hukuk Dairesinin işçilik alacaklarının belirliliği yönündeki yaklaşımına örnek karar olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/32365",
+      "decision_number": "2014/9970",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen 22. Hukuk Dairesi kararlarından biri olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6867",
+      "decision_number": "2014/9971",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen 22. Hukuk Dairesi kararı olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6874",
+      "decision_number": "2014/9975",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen 22. Hukuk Dairesi kararı olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6872",
+      "decision_number": "2014/9976",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen 22. Hukuk Dairesi kararı olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6869",
+      "decision_number": "2014/9973",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu edilen 22. Hukuk Dairesi kararı olarak anılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak ve tespit davasının koşullarını düzenleyen merkezi hüküm olup tartışmanın yasal dayanağıdır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "109",
+      "context": "Kısmi dava müessesesi ile belirsiz alacak davası arasındaki ayrım bağlamında tartışılmış; mülga 109/2 fıkrasının etkisi değerlendirilmiştir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119",
+      "context": "Dava dilekçesinin içeriği ve talep sonucunun zorunlu unsur olması bakımından belirsiz alacak davasının gerekliliğini açıklamak için anılmıştır."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu (mülga)",
+      "law_number": "1086",
+      "article": null,
+      "context": "Belirsiz alacak davasının önceki kanunda düzenlenmediği, kısmi davanın ise içtihatlarla kabul edildiği belirtilirken anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "1",
+      "context": "Kanunun uygulama alanını belirleyen hüküm olarak işçilik alacakları kavramının tanımlanmasında esas alınmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "İşçi ve işveren tanımları bağlamında işçilik alacakları kavramının kapsamının belirlenmesinde dayanak olmuştur."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "8",
+      "context": "İş sözleşmesinin tanımı ve unsurları bakımından işçilik alacaklarının kaynağını ortaya koymak için anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "32",
+      "context": "Ücretin tanımı ve kıdem/ihbar tazminatına esas ücretin tespitinde dayanak hüküm olarak gösterilmiştir."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "59",
+      "context": "Yıllık izin ücretinin iş sözleşmesinin sona ermesi hâlinde ödenmesini düzenleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "3",
+      "context": "İşverenin işçiye belge verme yükümlülükleri bağlamında 9. Hukuk Dairesi görüşünde dayanak olarak anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "22",
+      "context": "İşverenin yasal yükümlülükleri bağlamında işçilik alacaklarının belirsizliği tartışmasında zikredilmiştir."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "28",
+      "context": "İşverenin işçiye belge verme yükümlülüğüne ilişkin hüküm olarak anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "37",
+      "context": "Ücret hesap pusulasının verilmesine ilişkin yasal yükümlülük bağlamında 9. Hukuk Dairesi görüşünde anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "67",
+      "context": "Çalışma süresine ilişkin yasal yükümlülükler bağlamında işçilik alacaklarının belirsizliği tartışmasında zikredilmiştir."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": null,
+      "context": "Sözleşme özgürlüğü ilkesinin sınırı olarak emredici normların kaynağı bakımından anılmıştır."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "67",
+      "context": "Likit alacak kavramının tanımı için yol gösterici hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": "2797",
+      "article": "16",
+      "context": "İçtihadı birleştirme kararlarının kaynağını ve kesinliğini düzenleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": "2797",
+      "article": "45",
+      "context": "İçtihadı birleştirme kararlarının diğer yargı mercilerini bağlayıcılığını düzenleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Mahkemei Temyiz Kanunu (mülga)",
+      "law_number": "834",
+      "article": null,
+      "context": "İçtihatları birleştirme müessesesinin Türk Hukukuna ilk defa girdiği tarihsel kaynak olarak IBK kurumunun doktriner çerçevesinin açıklamasında anılmıştır."
+    }
+  ]
+}

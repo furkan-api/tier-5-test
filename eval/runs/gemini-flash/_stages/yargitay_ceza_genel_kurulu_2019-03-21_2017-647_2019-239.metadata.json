@@ -1,0 +1,93 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Ceza Genel Kurulu",
+  "case_number": "2017/647",
+  "decision_number": "2019/239",
+  "decision_date": "2019-03-21",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "Yargıtay Ceza Genel Kurulu kararları kesindir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Dosyanın, Denizli 2. Ağır Ceza Mahkemesince verilen 18.10.2012 ve 03.12.2013 tarihli gerekçeli kararların Aile, Çalışma ve Sosyal Hizmetler Bakanlığına tebliğinin sağlanması için Yerel Mahkemeye gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdi edilmesine karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Çoğunluk görüşüne katılmayan beş Genel Kurul Üyesi, Aile, Çalışma ve Sosyal Hizmetler Bakanlığının sanık hakkında açılan kamu davasından haberdar edilmesinin zorunlu olmadığı düşüncesiyle karşı oy kullanmışlardır.",
+  "appellants": [
+    "sanık müdafileri"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "sanık müdafileri",
+      "result": null
+    }
+  ],
+  "subject": "Çocuğun cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarında Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davaya katılma hakkı ve usulü.",
+  "keywords": [
+    "çocuğun cinsel istismarı",
+    "kişiyi hürriyetinden yoksun kılma",
+    "aile, çalışma ve sosyal hizmetler bakanlığı",
+    "davaya katılma",
+    "6284 sayılı kanun",
+    "cmk",
+    "adil yargılanma hakkı",
+    "hak arama hürriyeti",
+    "pozitif ayrımcılık",
+    "uluslararası sözleşmeler",
+    "gerekçeli kararın tebliği",
+    "kanun yolu"
+  ],
+  "legal_issues": [
+    "6284 sayılı Kanun'un 20/2. maddesi uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının sanıklar hakkında açılan kamu davasından haberdar edilmesi zorunlu mudur?",
+    "Bakanlığın davadan haberdar edilmemesi durumunda kanun yollarına başvurma hakkı nasıl sağlanmalıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "davaya katılma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni Aile, Çalışma ve Sosyal Hizmetler Bakanlığının çocuğun cinsel istismarı davalarına katılma hakkının kapsamı ve usulüdür."
+    },
+    {
+      "concept": "6284 sayılı kanun",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kadına karşı ve aile içi şiddetin önlenmesi amacıyla çıkarılan 6284 sayılı Kanun, Bakanlığa davaya katılma hakkı tanımaktadır."
+    },
+    {
+      "concept": "cmk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Ceza Muhakemesi Kanunu'nun ilgili maddeleri, mağdur ve şikayetçinin davaya katılma ve kanun yollarına başvurma haklarını düzenlemektedir."
+    },
+    {
+      "concept": "hak arama hürriyeti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa'nın 36. maddesinde güvence altına alınan hak arama hürriyeti, davaya katılma ve kanun yollarına başvurma hakkını da kapsar."
+    },
+    {
+      "concept": "pozitif ayrımcılık",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Anayasa'nın 10. ve 41. maddeleri ile uluslararası sözleşmeler, kadın ve çocukların korunması için pozitif ayrımcılık tedbirlerini öngörmektedir."
+    },
+    {
+      "concept": "uluslararası sözleşmeler",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kadınlara Karşı Her Türlü Ayrımcılığın Önlenmesi Sözleşmesi ve İstanbul Sözleşmesi gibi uluslararası antlaşmalar, kadına ve çocuğa yönelik şiddetle mücadelede devletlere yükümlülükler getirmektedir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Çocuğun cinsel istismarı suçlarında Aile, Çalışma ve Sosyal Hizmetler Bakanlığının kamu davasına katılma hakkı ve bu hakkın nasıl sağlanacağı sorunu.",
+    "rule": "6284 sayılı Kanun'un 20/2. maddesi ve Uygulama Yönetmeliği'nin 46. maddesi, Aile, Çalışma ve Sosyal Hizmetler Bakanlığına kadın, çocuk ve aile bireylerine yönelik şiddet davalarına katılma hakkı tanır. CMK m. 234 ve 260 uyarınca bu hakkın sağlanması için duruşmadan haberdar edilme ve gerekçeli kararın tebliği zorunludur.",
+    "application": "Somut olayda, Bakanlık davadan haberdar edilmemiş ve gerekçeli kararlar tebliğ edilmemiştir; bu durum, Bakanlığın kanundan kaynaklanan katılma ve kanun yoluna başvurma haklarını kullanmasını engellemektedir.",
+    "conclusion": "Bakanlığın haklarını kullanabilmesi amacıyla yerel mahkemece verilen gerekçeli kararların Bakanlığa tebliğinin sağlanması için dosyanın yerel mahkemeye gönderilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "sanık",
+      "mağdure",
+      "yerel mahkeme",
+      "bakanlık"
+    ],
+    "context": "Çocuğun nitelikli cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarından yargılanan sanıklar hakkında verilen mahkumiyet kararları ve yerel mahkemenin bozmaya direnmesi.",
+    "trigger": "Yerel mahkemenin sanıklar hakkında verdiği mahkumiyet kararlarının Yargıtay 14. Ceza Dairesi tarafından bozulması ve yerel mahkemenin bu bozmaya direnmesi üzerine dosyanın Ceza Genel Kurulu'na gelmesi.",
+    "claim": "Sanık müdafilerinin mahkumiyet hükümlerinin bozulması talebi ve Ceza Genel Kurulu'nun Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davaya katılımı konusundaki ön incelemesi."
+  }
+}

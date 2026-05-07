@@ -1,0 +1,65 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md",
+  "cited_court_decisions": [
+    {
+      "court": "Ankara 5. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": "444-310",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "İlk derece mahkemesinin çocuğun basit cinsel istismarı suçundan mahkûmiyet hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "9089-2701",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "İlk derece hükmünü bozma kararı veren temyiz dairesi."
+    },
+    {
+      "court": "Ankara 5. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": "260-288",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Bozmaya uyularak yapılan yargılama sonucunda verilen mahkûmiyet hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "123-1154",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İkinci derece hükmünü onayan temyiz dairesi kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/140",
+      "decision_number": "2015/85",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TCK 53. maddesini kısmen iptal eden norm denetimi kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "33401/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Opuz/Türkiye kararı, cinsiyete dayalı şiddetin ayrımcılık olduğu."
+    }
+  ]
+}

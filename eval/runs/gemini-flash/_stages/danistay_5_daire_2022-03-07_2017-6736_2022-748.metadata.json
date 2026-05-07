@@ -1,0 +1,105 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Beşinci Daire",
+  "case_number": "2017/6736",
+  "decision_number": "2022/748",
+  "decision_date": "2022-03-07",
+  "decision_type": "İlk Derece",
+  "is_final": false,
+  "finality_basis": "Karara karşı Danıştay İdari Dava Daireleri Kuruluna temyiz yolu açıktır.",
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Milli Savunma Bakanının başkanlığında oluşturulan Komisyonun kararının iptali istemi yönünden davanın reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı (idari)"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı (idari)",
+      "result": "ret"
+    }
+  ],
+  "subject": "FETÖ ile iltisak ve irtibat gerekçesiyle meslekten çıkarma kararının iptali istemi",
+  "keywords": [
+    "fetö",
+    "khk",
+    "meslekten çıkarma",
+    "askeri hakim",
+    "olağanüstü hal",
+    "iltisak",
+    "irtibat",
+    "adil yargılanma hakkı",
+    "sadakat yükümlülüğü",
+    "ankesörlü telefon",
+    "sıkıyönetim mahkemeleri görevlendirme listesi",
+    "yargı bağımsızlığı"
+  ],
+  "legal_issues": [
+    "667 sayılı KHK uyarınca FETÖ ile iltisak ve irtibat gerekçesiyle meslekten çıkarma kararının hukuka uygunluğu nedir?",
+    "Olağanüstü hal döneminde tesis edilen meslekten çıkarma kararlarında savunma hakkının kısıtlanması adil yargılanma hakkını ihlal eder mi?",
+    "667 sayılı KHK ile oluşturulan Komisyonun bağımsızlık ve tarafsızlığı sağlanmış mıdır?",
+    "Ankesörlü/sabit hatlardan periyodik veya ardışık arama kayıtları ile sıkıyönetim mahkemeleri görevlendirme listesinde yer alma, FETÖ ile iltisak veya irtibat için yeterli delil midir?",
+    "Meslekten çıkarma kararı özel hayata saygı hakkına müdahale teşkil eder mi ve bu müdahale ölçülü müdür?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "olağanüstü hal tedbirleri",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, olağanüstü hal kapsamında alınan tedbirlerin hukuki niteliği ve yargısal denetimidir."
+    },
+    {
+      "concept": "iltisak ve irtibat",
+      "role": "uygulanan",
+      "context_in_reasoning": "FETÖ ile iltisak ve irtibatın, anayasal düzene sadakat yükümlülüğünün yitirildiğini gösteren olağanüstü tedbir uygulama hali olduğu kabul edilmiştir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Yargılama sürecinde usul kurallarının geniş yorumlanmasıyla adil yargılanma hakkı güvencelerinin sağlandığı belirtilmiştir."
+    },
+    {
+      "concept": "özel hayata saygı hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Meslekten çıkarma kararının özel hayata saygı hakkına müdahale oluşturduğu ve bu müdahalenin kanunilik, meşru amaç ve ölçülülük ilkeleri çerçevesinde değerlendirildiği belirtilmiştir."
+    },
+    {
+      "concept": "yargı bağımsızlığı ve tarafsızlığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Komisyonun bağımsızlık ve tarafsızlığına yönelik iddialar incelenmiş ve yeterli güvencelerin sağlandığı sonucuna varılmıştır."
+    },
+    {
+      "concept": "demokratik anayasal düzene sadakat yükümlülüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargı mensuplarının demokratik anayasal düzene sadakat yükümlülüğünün, terör örgütleriyle iltisak veya irtibat halinde ihlal edildiği kabul edilmiştir."
+    },
+    {
+      "concept": "ankesörlü telefon aramaları",
+      "role": "uygulanan",
+      "context_in_reasoning": "FETÖ'nün gizli haberleşme yöntemi olarak ankesörlü telefon aramalarının örgütsel irtibatı gösteren delil niteliğinde olduğu kabul edilmiştir."
+    },
+    {
+      "concept": "sıkıyönetim mahkemeleri görevlendirme listesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Darbe girişimi sırasında hazırlanan sıkıyönetim mahkemeleri görevlendirme listesinde yer almanın örgütle iltisak ve irtibatı ortaya koyduğu kabul edilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Askeri hakimin FETÖ ile iltisak ve irtibatı gerekçesiyle meslekten çıkarılmasına ilişkin olağanüstü hal tedbirinin hukuka uygun olup olmadığıdır.",
+    "rule": "Olağanüstü hal döneminde, ulusun varlığını tehdit eden genel bir tehlike karşısında, 667 sayılı KHK'nın 3/1. maddesi uyarınca terör örgütleriyle iltisak veya irtibatı olduğu değerlendirilen yargı mensuplarının meslekten çıkarılması, demokratik anayasal düzene sadakat yükümlülüğünün ihlali nedeniyle hukuka uygun bir olağanüstü tedbirdir. Bu tedbir, özel hayata saygı hakkına müdahale etse de kanunilik, meşru amaç ve ölçülülük ilkelerine uygun kabul edilir.",
+    "application": "Davacının, FETÖ ile iltisak ve irtibatını gösteren beyanlar, sıkıyönetim mahkemeleri görevlendirme listesinde yer alması ve ankesörlü/sabit hatlardan periyodik/ardışık aranma kayıtları gibi deliller bir bütün olarak değerlendirildiğinde, demokratik anayasal düzene sadakat yükümlülüğünü ihlal ettiği sabit görülmüştür. Yargılama sürecinde adil yargılanma güvenceleri sağlanmış ve Komisyonun bağımsızlık/tarafsızlık iddiaları reddedilmiştir.",
+    "conclusion": "Davacının FETÖ ile iltisak ve irtibatının sabit olması nedeniyle meslekten çıkarılmasına ilişkin dava konusu kararda hukuka aykırılık bulunmamaktadır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "askeri hakim",
+      "Milli Savunma Bakanlığı Komisyonu",
+      "davalı idare"
+    ],
+    "context": "15 Temmuz 2016 darbe girişimi sonrası ilan edilen olağanüstü hal kapsamında, FETÖ ile iltisaklı/irtibatlı olduğu değerlendirilen kamu görevlilerine yönelik alınan tedbirler.",
+    "trigger": "Davacının, 667 sayılı KHK uyarınca FETÖ ile iltisak ve irtibatının olduğu gerekçesiyle meslekten çıkarılmasına ilişkin Komisyon kararının tesis edilmesi.",
+    "claim": "Davacının, meslekten çıkarılmasına ilişkin Komisyon kararının iptali ile Anayasa'ya aykırılık iddiasıyla KHK hükmünün iptali için Anayasa Mahkemesine başvurulması talebi."
+  }
+}

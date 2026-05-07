@@ -1,0 +1,105 @@
+{
+  "file": "kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md",
+  "cited_court_decisions": [
+    {
+      "court": "Kayseri 1. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Haksız ihtiyati haciz kararı veren ilk derece mahkemesi."
+    },
+    {
+      "court": "Kayseri 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Resmi belgede sahtecilik ve dolandırıcılık suçlarından mahkumiyet kararı."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/5582",
+      "decision_number": "2018/2478",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Manevi tazminat talebi hakkında emsal Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4-1008",
+      "decision_number": "2014/490",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Manevi tazminat talebi hakkında emsal Yargıtay HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/19-374",
+      "decision_number": "2018/943",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz sonucu kişilik hakları ihlali hakkında Yargıtay HGK kararı."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/2705",
+      "decision_number": "2014/165",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Manevi tazminat talebi hakkında emsal Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/14880",
+      "decision_number": "2016/9206",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ceza mahkemesi kararının hukuk mahkemesine etkisi hakkında Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1947/25",
+      "decision_number": "1948/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vekalet ücretinin maddi zarar olarak tazmini hakkında İçtihadı Birleştirme Kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1026",
+      "decision_number": "2015/1765",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ticari dava niteliğinin belirlenmesi hakkında Yargıtay HGK kararı."
+    },
+    {
+      "court": "Yargıtay 19. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/17318",
+      "decision_number": "2018/1926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Zamanaşımına uğramış kambiyo senedine dayalı takibin görev durumu."
+    }
+  ]
+}

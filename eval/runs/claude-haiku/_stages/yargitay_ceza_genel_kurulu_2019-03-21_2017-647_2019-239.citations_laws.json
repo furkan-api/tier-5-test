@@ -1,0 +1,239 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "cited_law_articles": [
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/2",
+      "context": "Çocuğun nitelikli cinsel istismarı suçu; sanık hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/6",
+      "context": "Çocuğun nitelikli cinsel istismarı suçu; sanık hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "62",
+      "context": "Ceza indirimi hükmü; sanıklar hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/1",
+      "context": "Çocuğun basit cinsel istismarı suçu; sanık hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "109/2",
+      "context": "Kişiyi hürriyetinden yoksun kılma suçu; her iki sanık hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "109/3-f",
+      "context": "Kişiyi hürriyetinden yoksun kılma suçu; her iki sanık hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "109/5",
+      "context": "Kişiyi hürriyetinden yoksun kılma suçu; her iki sanık hakkında uygulanmış ceza hükmü."
+    },
+    {
+      "law": "Yargıtay İç Yönetmeliği",
+      "law_number": null,
+      "article": "27",
+      "context": "Ceza Genel Kurulunun uyuşmazlık çözümleme yetkisi; davaya katılma hakkı değerlendirilmesi."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "20/2",
+      "context": "Bakanlığın davaya katılma hakkı; kamu davasından haberdar edilme zorunluluğu."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Kanun önünde eşitlik ilkesi; kadın-erkek eşitliği ve pozitif ayrımcılık."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "41",
+      "context": "Ailenin korunması ve çocuk hakları; devletin koruyucu tedbirleri alma yükümlülüğü."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "90",
+      "context": "Uluslararası antlaşmaların kanun hükmünde olması; temel hak antlaşmalarının üstünlüğü."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti; adil yargılanma hakkı ve davaya katılma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "40",
+      "context": "Temel hak ve hürriyetlerin korunması; devletin kanun yolu bilgilendirme yükümlülüğü."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "237",
+      "context": "Kamu davasına katılma hakkı; mağdur ve zarar görenin katılma koşulları."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "238",
+      "context": "Katılma usulü; dilekçe veya sözlü başvuru yoluyla katılma prosedürü."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "233",
+      "context": "Mağdur ve şikâyetçinin çağırılması; duruşmadan haberdar edilme hakkı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "234",
+      "context": "Mağdur ve şikâyetçinin hakları; duruşmadan haberdar edilme ve davaya katılma hakkı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "35",
+      "context": "Kararların açıklanması ve tebliği; temyiz hakkı sahibine karar tebliği zorunluluğu."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "260",
+      "context": "Kanun yollarına başvurma hakkı; temyiz başvuru hakkı sahibi kişiler."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "2",
+      "context": "Tanımlar; Bakanlık ve şiddet tanımı; Aile ve Sosyal Politikalar Bakanlığı."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "7",
+      "context": "İhbar yükümlülüğü; şiddet durumunda resmi makama ihbar ve haberdar etme."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun Uygulama Yönetmeliği",
+      "law_number": null,
+      "article": "46",
+      "context": "Bakanlığın davaya müdahil katılma hakkı; şiddet davalarında katılma koşulu."
+    },
+    {
+      "law": "Kadınlara Karşı Her Türlü Ayrımcılığın Önlenmesi Sözleşmesi",
+      "law_number": null,
+      "article": null,
+      "context": "Uluslararası antlaşma; kadın-erkek eşitliği ve ayrımcılık yasağı."
+    },
+    {
+      "law": "Kadınlara Karşı Şiddetin Önlenmesine Dair Bildirge",
+      "law_number": null,
+      "article": null,
+      "context": "Birleşmiş Milletler bildirgesi; şiddetin önlenmesi ve failin cezalandırılması."
+    },
+    {
+      "law": "Kadına Yönelik Şiddetin ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi",
+      "law_number": null,
+      "article": "3/a",
+      "context": "İstanbul Sözleşmesi; cinsel eylemlerin kadına yönelik şiddet kapsamına dahil edilmesi."
+    },
+    {
+      "law": "Kadına Yönelik Şiddetin ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi",
+      "law_number": null,
+      "article": "5/2",
+      "context": "İstanbul Sözleşmesi; taraf devletlerin şiddet eylemlerini önleme ve cezalandırma yükümlülüğü."
+    },
+    {
+      "law": "Ailenin Korunmasına Dair Kanun",
+      "law_number": "4320",
+      "article": null,
+      "context": "Mülga kanun; kadına yönelik şiddetin önlenmesi amacıyla ilk düzenleme."
+    },
+    {
+      "law": "Kaçakçılıkla Mücadele Kanunu",
+      "law_number": "5607",
+      "article": "18",
+      "context": "Gümrük İdaresinin davaya katılma hakkı; tüzel kişinin katılma örneği."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "18",
+      "context": "Maliye Bakanlığının davaya katılma hakkı; tüzel kişinin katılma örneği."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "162",
+      "context": "Bankacılık Düzenleme ve Denetleme Kurumu ile Tasarruf Mevduatı Sigorta Fonunun davaya katılma hakkı."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": null,
+      "context": "Bakanlık adı değişikliği; Aile ve Sosyal Politikalar Bakanlığı yeniden düzenlenmesi."
+    },
+    {
+      "law": "Cumhurbaşkanlığı Kararnamesi",
+      "law_number": "1",
+      "article": null,
+      "context": "Bakanlık adı değişikliği; Çalışma, Sosyal Hizmetler ve Aile Bakanlığı."
+    },
+    {
+      "law": "Cumhurbaşkanlığı Kararnamesi",
+      "law_number": "15",
+      "article": null,
+      "context": "Bakanlık adı değişikliği; Aile, Çalışma ve Sosyal Hizmetler Bakanlığı."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "6763",
+      "article": "38",
+      "context": "Ceza Genel Kurulunun karar direnme incelemesi yetkisi; daireye gönderme."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "5320",
+      "article": "geçici 10",
+      "context": "Ceza Genel Kurulunun karar direnme incelemesi yetkisi; daireye gönderme."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "5170",
+      "article": null,
+      "context": "Anayasa değişikliği; kadın-erkek eşitliği ve pozitif ayrımcılık ilkesi."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "5982",
+      "article": null,
+      "context": "Anayasa değişikliği; ailenin korunması, çocuk hakları ve pozitif ayrımcılık."
+    },
+    {
+      "law": "Kanun",
+      "law_number": "4709",
+      "article": "16",
+      "context": "Anayasa değişikliği; devletin kanun yolu bilgilendirme yükümlülüğü."
+    }
+  ]
+}

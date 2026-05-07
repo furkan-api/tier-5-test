@@ -1,0 +1,71 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "235",
+      "context": "Sıra cetveline itiraz ve neticeleri; dava açma hak düşürücü süresi on beş gün."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "107",
+      "context": "Faaliyet izninin kaldırılması; son fıkra hükmü uyarınca BDDK kararı."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106",
+      "context": "Bankanın iflasının mahkemeden talep edilmesi; doğrudan iflas prosedürü."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106/3",
+      "context": "Fon Kurulu'nun bankanın doğrudan iflasını mahkemeden talep etme yetkisi."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123",
+      "context": "Kredilerin geri ödemelerine ilişkin işlemlerin harçtan muafiyet hükmü."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123/3",
+      "context": "Yargı harçlarından muafiyet; 6322 sayılı Kanun ile değişiklik ve uygulanması."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": null,
+      "context": "Yargı harçlarının kamu alacağı niteliği; genel bütçe alacağı olarak değerlendirilmesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "341",
+      "context": "İstinaf yoluna başvuru hakkı; on gün içinde başvuru prosedürü."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": null,
+      "context": "Olumsuz görev uyuşmazlığında Uyuşmazlık Mahkemesine gönderim; adli yargının görevliliği."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "140",
+      "context": "İflas idaresinin harçtan muaf olması; harç alınmaması."
+    },
+    {
+      "law": "6322 sayılı Kanun",
+      "law_number": "6322",
+      "article": "19",
+      "context": "Harçlar Kanunu'nda değişiklik; 15/06/2012 tarihli Resmi Gazete yayını."
+    }
+  ]
+}

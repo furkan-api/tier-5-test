@@ -1,0 +1,96 @@
+{
+  "file": "istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md",
+  "court_type": "Bölge İdare Mahkemesi",
+  "court": "İstanbul Bölge İdare Mahkemesi Yedinci Vergi Dava Dairesi",
+  "case_number": "2025/1503",
+  "decision_number": "2025/1478",
+  "decision_date": "2025-05-14",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "Anayasa Mahkemesi'nin 11.02.2025 tarih ve E:2025/39, K:2025/35 sayılı kararı uyarınca dava açılış tarihi itibariyle dava konusu tutar dikkate alınarak 2577 sayılı İdari Yargılama Usulü Kanunu'nun 46/b bendi uyarınca kesin olarak.",
+  "decision_outcome": "İstinafın Reddi",
+  "decision_outcome_raw": "İstinaf başvurusunun reddine, yargılama giderlerinin istinaf başvurusunda bulunan üzerinde bırakılmasına ve maktu karar harcının istinaf başvurusunda bulunan taraftan alınmasına oybirliğiyle kesin olarak karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davalı idare"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı idare",
+      "result": "ret"
+    }
+  ],
+  "subject": "İşgal Harcı İhbarnamesinin İptali Davasına İlişkin İlk Derece Mahkemesi Kararına Karşı İstinaf Başvurusu",
+  "summary": "Davacı şirket, işlettiği kafeteryanın önündeki ruhsat harici alanı işgal ettiği gerekçesiyle belediye tarafından tanzim edilen işgal harcı içerikli vergi ihbarnamesinin iptali istemiyle dava açmıştır. İlk derece mahkemesi, 2464 sayılı Belediye Gelirleri Kanunu'nun 52. maddesi uyarınca umuma ait yerin ancak geçici olarak işgal edilmesi halinde işgal harcı alınabileceğini ve olayda geçici işgalden söz edilemeyeceğini belirterek davanın kabulüne ve işgal harcının iptaline karar vermiştir. Davalı idare, vergi ihbarnamesinin yasal olduğunu ileri sürerek kararı istinaf etmiştir. İstanbul Bölge İdare Mahkemesi, ilk derece mahkemesi kararını hukuka uygun bularak davalı idarenin istinaf başvurusunun reddine kesin olarak karar vermiştir.",
+  "keywords": [
+    "işgal harcı",
+    "belediye gelirleri kanunu",
+    "geçici işgal",
+    "vergi ihbarnamesi",
+    "istinaf",
+    "idari yargılama",
+    "iptal davası",
+    "hukuka uygunluk"
+  ],
+  "legal_issues": [
+    "Ruhsat harici alanın işgali nedeniyle tanzim edilen işgal harcı hukuka uygun mudur?",
+    "2464 sayılı Belediye Gelirleri Kanunu'nun 52. maddesi uyarınca umuma ait yerin geçici işgali şartı nasıl yorumlanmalıdır?",
+    "İlk derece mahkemesi kararının hukuka uygun olup olmadığı istinaf incelemesinde nasıl değerlendirilmelidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "işgal harcı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Belediye Gelirleri Kanunu kapsamında umuma ait yerlerin işgali karşılığında alınan harçtır ve kararın temel konusunu oluşturmaktadır."
+    },
+    {
+      "concept": "geçici işgal",
+      "role": "yorumlanan",
+      "context_in_reasoning": "2464 sayılı Kanun'un 52. maddesi uyarınca işgal harcı alınabilmesi için umuma ait yerin geçici olarak işgal edilmesi şartının nasıl anlaşılması gerektiği yorumlanmıştır."
+    },
+    {
+      "concept": "istinaf incelemesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bölge İdare Mahkemesi, ilk derece mahkemesi kararının hukuka uygunluğunu istinaf dilekçesindeki iddialar çerçevesinde incelemiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Ruhsat harici alanın işgali nedeniyle tanzim edilen işgal harcı hukuka uygun mudur?",
+    "rule": "2464 sayılı Belediye Gelirleri Kanunu'nun 52. maddesi hükmüne göre, umuma ait yerin ancak geçici olarak işgal edilmesi halinde işgal harcı alınabilir.",
+    "application": "Olayda, davacının kafeteryasının önündeki ruhsat harici alanı işgal etmesi durumunda, bu işgalin geçici nitelikte olmadığı ve dolayısıyla istenilen işgal harcında hukuka uyarlık bulunmadığı ilk derece mahkemesince tespit edilmiş, istinaf incelemesinde de bu tespit hukuka uygun bulunmuştur.",
+    "conclusion": "İlk derece mahkemesinin, dava konusu işgal harcının iptaline ilişkin kararının hukuka uygun olduğu gerekçesiyle istinaf başvurusunun reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (idari)",
+      "davalı idare"
+    ],
+    "context": "Bir kafeteryanın ruhsat harici alanının işgal edildiği iddiasıyla belediye tarafından işgal harcı tahakkuk ettirilmesi durumu.",
+    "trigger": "Bahçelievler Belediye Başkanlığı tarafından davacı şirkete ruhsat harici alan işgali nedeniyle 267.800,00 TL tutarlı işgal harcı ihbarnamesi düzenlenmesi.",
+    "claim": "Davacı şirket tarafından, düzenlenen işgal harcı ihbarnamesinin iptali istemiyle dava açılması."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "İstanbul 11. Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2024/2091",
+      "decision_number": "2025/555",
+      "relation": "chained",
+      "outcome": "Tasdik",
+      "treatment": null,
+      "context": "Dava konusu işgal harcının iptaline ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2025/39",
+      "decision_number": "2025/35",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Dava açılış tarihi itibarıyla kesinlik sınırı belirleyen AYM kararı."
+    }
+  ]
+}

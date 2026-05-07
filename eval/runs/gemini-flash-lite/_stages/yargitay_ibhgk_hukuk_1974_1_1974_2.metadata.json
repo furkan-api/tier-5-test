@@ -1,0 +1,97 @@
+{
+  "file": "yargitay_ibhgk_hukuk_1974_1_1974_2.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Hukuk Genel Kurulu",
+  "case_number": "1974/1",
+  "decision_number": "1974/2",
+  "decision_date": "1974-04-01",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Bir kimsenin mirasçısını miras hakkından yoksun bırakmak amacıyla, gerçekte bağışlamak istediği tapuda kayıtlı taşınmaz malı hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklamış olması halinde, saklı pay sahibi olsun ya da olmasın miras hakkı çiğnenen tüm mirasçılarının, görünürdeki satış sözleşmesinin muvazaalı olduğunu ve gizli bağış sözleşmesinin de şekil koşulundan yoksun bulunduğunu ileri sürerek dava açabileceklerine ve bu dava hakkının geçerli sözleşmeler için söz konusu olan Medeni Kanununun 507. ve 603. maddelerinin sağladığı haklara etkili olmayacağına oyçokluğuyla karar verildi.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": true,
+  "dissent_summary": "Karşı görüşte, miras bırakanın sağlığındaki muvazaalı işlemler nedeniyle mirasçıların külli halef olarak iptal davası açamayacağı, sadece saklı pay sahiplerinin tenkis davası açabileceği ve muvazaa iddiasının ispatının miras bırakanın sağlığındaki ispat olanaklarıyla sınırlı olması gerektiği savunulmuştur.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Mirasçıyı miras hakkından yoksun bırakmak amacıyla yapılan muvazaalı taşınmaz satışlarında mirasçıların dava hakkı",
+  "keywords": [
+    "muris muvazaası",
+    "tenkis",
+    "mirasta iade",
+    "saklı pay",
+    "tapu sicili",
+    "satış sözleşmesi",
+    "bağış sözleşmesi",
+    "borçlar kanunu",
+    "medeni kanun",
+    "içtihat aykırılığı",
+    "içtihat birleştirme"
+  ],
+  "legal_issues": [
+    "Mirasçıyı miras hakkından yoksun bırakmak amacıyla tapuda satış gibi gösterilen gizli bağışlarda, saklı pay sahibi olsun ya da olmasın tüm mirasçıların muvazaa nedeniyle tapu kaydının iptalini isteme hakkı var mıdır?",
+    "Miras bırakanın muvazaalı işlemlerine karşı mirasçıların açabileceği dava hakkı, Medeni Kanun'un tenkis ve iade hükümlerini etkiler mi?",
+    "Muvazaalı satış sözleşmesinin geçersizliği halinde, gizli bağış sözleşmesinin geçerliliği ve mirasçıların bu konuda dava açma hakkı nasıl değerlendirilmelidir?",
+    "Miras bırakanın sağlığında yapabileceği muvazaalı işlemlere karşı mirasçıların açabileceği davalarda ispat koşulları nelerdir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "muris muvazaası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, miras bırakanın mirasçısını miras hakkından yoksun bırakmak amacıyla yaptığı muvazaalı taşınmaz satış işlemleriyle ilgili dava hakkının belirlenmesidir."
+    },
+    {
+      "concept": "tenkis davası",
+      "role": "uygulanan",
+      "context_in_reasoning": "Saklı pay sahibi mirasçıların, saklı paylarını aşan tasarruflar nedeniyle tenkis davası açma hakkı, muvazaa davasıyla ilişkisi bağlamında tartışılmıştır."
+    },
+    {
+      "concept": "mirasta iade",
+      "role": "uygulanan",
+      "context_in_reasoning": "Miras bırakanın tasarruflarının miras payına etkisini gidermek amacıyla iade davası açma hakkı, muvazaa durumunda değerlendirilmiştir."
+    },
+    {
+      "concept": "tapu sicilinde satış",
+      "role": "uygulanan",
+      "context_in_reasoning": "Taşınmaz malın tapuda satış olarak gösterilip gerçekte bağışlanmak istenmesi durumu, muvazaa iddiasının temelini oluşturmuştur."
+    },
+    {
+      "concept": "gizli bağış sözleşmesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Muvazaalı satışın altında yatan gizli bağış sözleşmesinin geçerliliği ve şekil şartına uygunluğu yorumlanmıştır."
+    },
+    {
+      "concept": "dava hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Mirasçıların muvazaa nedeniyle dava açma hakkının varlığı, kapsamı ve koşulları tartışılmıştır."
+    },
+    {
+      "concept": "şekil koşulu",
+      "role": "reddedilen",
+      "context_in_reasoning": "Gizli bağış sözleşmesinin şekil koşulundan yoksun olduğu iddiası, muvazaa davasının dayanağı olarak kabul edilmiştir."
+    },
+    {
+      "concept": "külli halefiyet",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Mirasçıların külli halef sıfatıyla değil, üçüncü kişi olarak dava açma hakkına sahip olabileceği görüşü benimsenmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Mirasçısını miras hakkından yoksun bırakmak amacıyla tapuda satış gibi gösterilen gizli bağışlarda, saklı pay sahibi olsun ya da olmasın tüm mirasçıların muvazaa nedeniyle dava açma hakkı var mıdır?",
+    "rule": "Miras bırakanın miras hakkından yoksun bırakmak amacıyla yaptığı muvazaalı taşınmaz satışlarında, görünürdeki satış sözleşmesinin Borçlar Kanunu'nun 18. maddesine dayanılarak muvazaalı olduğunun ve gizli bağış sözleşmesinin şekil koşulundan yoksun bulunduğunun ileri sürülerek dava açılabileceği kabul edilmiştir.",
+    "application": "Saklı pay sahibi olsun ya da olmasın, miras hakkı çiğnenen tüm mirasçılar, miras bırakanın muvazaalı işlemlerine karşı dava açma hakkına sahiptir; bu hak, geçerli sözleşmeler için tanınan Medeni Kanun'un 507. ve 603. maddelerinin sağladığı hakları etkilemez.",
+    "conclusion": "Görünürdeki satış sözleşmesinin muvazaalı olduğu ve gizli bağış sözleşmesinin şekil koşulundan yoksun bulunduğu ileri sürülerek dava açılabileceğine oyçokluğuyla karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "miras bırakan",
+      "mirasçı",
+      "tapu sicil memuru",
+      "alıcı"
+    ],
+    "context": "Miras bırakanın, mirasçısını miras hakkından mahrum bırakmak amacıyla tapuda kayıtlı taşınmazını gerçekte bağışlamak istemesine rağmen satış olarak göstermesi durumu.",
+    "trigger": "Miras bırakanın ölümü ve mirasçılarının miras haklarının kısıtlandığını düşünmesi.",
+    "claim": "Görünürdeki satış sözleşmesinin muvazaalı olduğunun ve gizli bağış sözleşmesinin şekil şartından yoksun bulunduğunun ileri sürülerek tapu kaydının iptali istemi."
+  }
+}

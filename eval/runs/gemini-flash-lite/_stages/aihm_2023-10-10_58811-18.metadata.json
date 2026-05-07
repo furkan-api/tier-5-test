@@ -1,0 +1,87 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi İkinci Bölüm",
+  "case_number": "58811/18",
+  "decision_number": null,
+  "decision_date": "2023-10-10",
+  "decision_type": "Kabul Edilebilirlik Hakkında",
+  "is_final": true,
+  "finality_basis": "AİHM Büyük Daire'ye itiraz süresi dolduğunda veya itiraz edilmediğinde karar kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez olduğuna oy birliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Milletvekili Adaylığının Cezai Mahkumiyet Nedeniyle Reddedilmesi",
+  "keywords": [
+    "seçilme hakkı",
+    "adaylık başvurusu",
+    "memnu hakların iadesi",
+    "yüksek seçim kurulu",
+    "adil yargılanma hakkı",
+    "kanunilik ilkesi",
+    "öngörülebilirlik",
+    "sözleşme ek protokol 1 madde 3",
+    "hak yoksunluğu"
+  ],
+  "legal_issues": [
+    "Milletvekili adaylığı için memnu hakların iadesine ilişkin YSK'nın yorumu ve uygulaması, Sözleşme'ye Ek Protokol 1 Madde 3'e uygun mudur?",
+    "Cezai mahkumiyet sonrası hak yoksunluğunun sona erdiğine dair mahkeme kararı, milletvekili adaylığı için yeterli midir?",
+    "YSK'nın adaylık başvurusunu reddederken uyguladığı mevzuatın erişilebilir ve öngörülebilir olduğu kabul edilebilir mi?",
+    "Adaylık başvurusunun reddi keyfi midir ve meşru bir amaca hizmet etmekte midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "seçilme hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, başvuranın milletvekili genel seçimlerinde aday olma hakkının kısıtlanıp kısıtlanmadığıdır."
+    },
+    {
+      "concept": "memnu hakların iadesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvuranın cezai mahkumiyeti sonrası hak yoksunluğunun sona erdiğine dair mahkeme kararının, milletvekili adaylığı için yeterli olup olmadığı tartışılmıştır."
+    },
+    {
+      "concept": "erişilebilirlik ve öngörülebilirlik",
+      "role": "tartışılan",
+      "context_in_reasoning": "YSK tarafından uygulanan mevzuatın erişilebilir ve öngörülebilir olup olmadığı taraflarca tartışılmıştır."
+    },
+    {
+      "concept": "keyfilik",
+      "role": "uygulanan",
+      "context_in_reasoning": "YSK'nın kararının keyfi olup olmadığı ve meşru bir amaca hizmet edip etmediği incelenmiştir."
+    },
+    {
+      "concept": "hukukun üstünlüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Devletlerin, Sözleşme'den doğan yükümlülüklerine uyulmasını sağlayan normatif bir çerçeve oluşturma yükümlülüğü bağlamında değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Başvuranın milletvekili adaylığının, cezai mahkumiyeti nedeniyle yasaklanmış haklarının iade edildiğini kanıtlayan bir mahkeme kararı sunmadığı gerekçesiyle reddedilmesi, Sözleşme'ye Ek Protokol 1 Madde 3'ü ihlal eder mi?",
+    "rule": "Sözleşme'ye Ek Protokol 1 Madde 3 ile güvence altına alınan seçilme hakkı mutlak değildir ve yasalarla belirlenen, orantılı ve meşru amaçlara dayanan kısıtlamalara tabi olabilir; bu kısıtlamaların keyfi olmaması ve hukukun üstünlüğü ilkesine uygun olması gerekir.",
+    "application": "YSK, 5352 sayılı Kanun'un 13/A maddesi uyarınca, milletvekili adaylığı için yasaklanmış hakların geri verildiğini teyit eden bir mahkeme kararı sunulması gerektiğini yerleşik içtihadı gereği uygulamıştır; başvuranın sunduğu karar bu nitelikte olmadığından ve adaylık için gerekli yasal süreler dolmadığından, YSK'nın kararı keyfi değildir.",
+    "conclusion": "Başvurunun açıkça dayanaktan yoksun olduğu ve Sözleşme'nin 35. maddesinin 3. fıkrasının a) bendi uyarınca kabul edilemez olduğuna karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Yüksek Seçim Kurulu (YSK)",
+      "Diyarbakır Ağır Ceza Mahkemesi",
+      "Halkların Demokratik Partisi (HDP)"
+    ],
+    "context": "Başvuranın, cezai mahkumiyeti nedeniyle hak yoksunluğuna uğradığına dair mahkeme kararına rağmen milletvekili adaylığının YSK tarafından reddedilmesi.",
+    "trigger": "Başvuranın 24 Haziran 2018 milletvekili genel seçimlerinde HDP listesinden adaylık başvurusunun YSK tarafından reddedilmesi.",
+    "claim": "Milletvekili aday olma hakkından haksız yere mahrum bırakıldığı iddiasıyla Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesinin ihlal edildiği iddiası."
+  }
+}

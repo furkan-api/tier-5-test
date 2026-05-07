@@ -1,0 +1,283 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/11885",
+  "decision_number": "2022/4969",
+  "decision_date": "2022-05-25",
+  "decision_type": "Temyiz",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Davacı-davalı İdaresi, davalı Belediye Başkanlığı ve asli müdahil Aliye Meryem'in temyiz inceleme istemlerinin reddine; asli müdahiller ile davalı Hazinenin temyiz itirazlarının kabulü ile hükmün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy görüşünde, miktarıyla geçerli çiftlik tapu kayıtlarının zemine uygulanabilir nitelikte olduğu, daha önceki Yargıtay 16. ve 20. Hukuk Daireleri ile Hukuk Genel Kurulu kararlarında bu tapuların geçerli ve uygulanabilir kabul edildiği, ortak sınırlar (Mezar Gediği, Dikilitaş, Löngöz Çiftliği) bulunduğu ve 1964 tarihli memleket haritasında mevkilerin yer aldığı dikkate alınarak tapu kayıtlarına 3402 sayılı Kanun'un 20/B-C maddeleri uyarınca kapsam tayin edilmesi gerektiği, bu nedenle davanın esastan reddi yerine eksik araştırma gerekçesiyle bozma yapılması gerektiği savunulmuştur.",
+  "appellants": [
+    "davacı",
+    "davalı",
+    "müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    },
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "müdahil",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Çiftlik Tapu Kayıtlarına Dayalı Kadastro Tespitine İtiraz",
+  "summary": "Davacılar, Mart 1290 tarihli üç ayrı çiftlik tapu kaydına (Hisarönü, Ergös ve Söğüt) dayanarak kadastro tespitine itiraz etmiş; ilk derece mahkemesi davanın kabulü ile dava konusu parsellerin tapu malikleri ve pay satın alan müdahil şirket adına tesciline karar vermiştir. Yargıtay 8. Hukuk Dairesi, Hisarönü ve Ergös mevkili tapu kayıtlarının sınırlarının tamamının gayri sabit hudutlu olduğu, sabit tek bir sınır dahi bulunmadığı için 3402 sayılı Kanun m.20/C uyarınca miktarıyla kapsam tayinin mümkün olmadığını; Söğüt mevkili tapu yönünden ise tapu malikleri adına tescil edilmiş parsellerin dış sınırları esas alınarak kapsam tayini gerektiği halde devletleştirilen ve kamulaştırılan alanlar düşülmeksizin yüzölçüm belirlemesi yapıldığını tespit etmiştir. Ayrıca müdahillerin tescil taleplerine ilişkin olumlu/olumsuz karar verilmediği ve katılanlar lehine 3402 sayılı Kanun m.14, 17, 18 koşullarının araştırılmasının yetersiz olduğu gerekçesiyle hükmün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "keywords": [
+    "kadastro tespitine itiraz",
+    "çiftlik tapu kaydı",
+    "miktarıyla geçerli tapu",
+    "gayri sabit hudut",
+    "sabit sınır",
+    "kapsam tayini",
+    "arazi kanunnamesi 20 ve 78",
+    "gayrisahih vakıf",
+    "zilyetlikle kazanma",
+    "tahrir vergi kaydı",
+    "kılavuz dosya",
+    "3402 sayılı kanun 20/c"
+  ],
+  "legal_issues": [
+    "Sınırları gayri sabit hudutlu olan çiftlik tapu kayıtlarına 3402 sayılı Kanun m.20/C uyarınca miktarıyla kapsam tayini için en az birbiriyle çakışan iki sabit hududun bulunması zorunlu mudur?",
+    "Tapu malikleri adına revizyon görmüş veya hükmen tescil edilmiş parselin bulunmadığı çiftlik tapularına kapsam tayini hukuken mümkün müdür?",
+    "1936 tarihli tahrir vergi kayıtlarının düzenlenmesi, tek başına tapu maliki lehine zilyetlik iradesinin sürdürüldüğüne karine teşkil eder mi?",
+    "Hanedan vakıfları kapsamında oluşan çiftlik tapuları gayrisahih vakıf niteliğinde olup Arazi Kanunnamesinin 20 ve 78. maddeleri uyarınca zilyetlikle kazanmaya elverişli midir?",
+    "Tapu kaydının kapsamı tapu malikleri adına tespit ve tescil edilmiş parsellerin dış sınırları esas alınarak belirlendiğinde devletleştirilen ve kamulaştırılan alanların yüzölçümden düşülmesi gerekir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "miktarıyla geçerli tapu kaydı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, gayri sabit hudutlu çiftlik tapu kayıtlarının 3402 sayılı Kanun m.20/C kapsamında miktarıyla kapsam tayininin koşullarının belirlenmesidir."
+    },
+    {
+      "concept": "sabit sınır şartı",
+      "role": "uygulanan",
+      "context_in_reasoning": "3402 sayılı Kanun m.20/C uyarınca miktarıyla kapsam tayini için birbiriyle çakışan iki sabit hudut bulunması gerektiği kuralı somut olaya uygulanmıştır."
+    },
+    {
+      "concept": "gayrisahih vakıf",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tapu kayıtlarının dayanağı vakfın hanedan vakfı niteliğinde gayrisahih vakıf olduğu, dolayısıyla Arazi Kanunnamesinin 20 ve 78. maddelerinin zilyetlikle kazanma yönünden uygulanabileceği yorumu yapılmıştır."
+    },
+    {
+      "concept": "arazi kanunnamesi 20 ve 78. madde",
+      "role": "tartışılan",
+      "context_in_reasoning": "Türk Kanunu Medenisi sonrası yürürlükte kalan bu maddelerin somut olayda uygulanabilirliği tartışılmış, ancak kapsam tayini mümkün olmadığından lehe gerçekleşip gerçekleşmediğinin önemi kalmadığı belirtilmiştir."
+    },
+    {
+      "concept": "tahrir vergi kaydı",
+      "role": "reddedilen",
+      "context_in_reasoning": "1936 tarihli tek taraflı beyana dayalı tahrir vergi kayıtlarının zilyetlik iradesinin sürdürüldüğüne karine teşkil edeceği savı reddedilmiştir."
+    },
+    {
+      "concept": "kılavuz dosya yöntemi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Mahkemece 2014/26 Esas sayılı dosyanın kılavuz dosya seçilerek tek keşifle birden fazla dosyada uygulama yapılması yöntemi karşı oyda eleştirilmiş; çoğunluk bu yöntemi kapsam tayininin mümkün olmadığı sonucuna varmak için yeterli görmüştür."
+    },
+    {
+      "concept": "zilyetlikle kazanma",
+      "role": "uygulanan",
+      "context_in_reasoning": "Katılanlar lehine 3402 sayılı Kanun m.14, 17 ve 18 koşullarının gerçekleşip gerçekleşmediğinin uydu fotoğrafları ve ek araştırmayla saptanması gereği vurgulanmıştır."
+    },
+    {
+      "concept": "kamulaştırılan ve devletleştirilen alanların düşülmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Söğüt çiftlik tapusunun kapsam tayininde 4785 sayılı Yasa kapsamında devletleştirilen orman alanları ile okaliptus fidanlığı için kamulaştırılan miktarın yüzölçümden düşülmesi gerektiği belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sınırları tamamen gayri sabit hudutlu olan ve revizyon görmemiş çiftlik tapu kayıtlarına 3402 sayılı Kanun m.20/C uyarınca miktarıyla kapsam tayini hukuken mümkün müdür?",
+    "rule": "3402 sayılı Kadastro Kanunu m.20/C uyarınca harita, plan ve krokiye dayanmayan kayıtlarda miktarıyla kapsam tayini için birbiriyle çakışan en az iki sabit hududun bulunması zorunludur; aksi halde subjektif uygulamaya yol açılacağından kayda kapsam tayini mümkün değildir. Ayrıca 1936 tarihli tahrir vergi kayıtları, kayıt tarihinden tespit tarihine kadar fiilen sürdürülen zilyetlik bulunmadıkça tek başına zilyetlik iradesine karine oluşturmaz.",
+    "application": "Hisarönü ve Ergös mevkili çiftlik tapularının sınırlarının tamamının (Mezar Gediği, Dikilitaş, Löngöz Çiftliği vd.) mevki/mahalle/köy tarifine ilişkin gayri sabit hudutlar olduğu, hayali çizgilerle birleştirildiğinde tapu miktarının 20 katından fazla alanın oluştuğu, tapu maliklerinin Hisarönü Köyünde 1970 ve 2007 tarihli kısmi kadastro çalışmalarında revizyon görmüş veya hükmen tescil edilmiş hiçbir parsellerinin bulunmadığı, dolayısıyla kayda kapsam tayini için sabit dayanak kalmadığı saptanmıştır. Söğüt çiftlik tapusu yönünden ise tapu malikleri adına tespit ve hükmen tescil edilmiş çok sayıda parsel bulunması nedeniyle kapsam tayini mümkün olmakla birlikte, devletleştirilen ve kamulaştırılan alanların yüzölçümden düşülmesi gerektiği gözetilmemiştir.",
+    "conclusion": "Hisarönü ve Ergös tapuları yönünden davanın reddine karar verilmesi gerekirken kabulü, Söğüt tapusu yönünden ise kapsam tayininde devletleştirilen ve kamulaştırılan alanların düşülmemesi, müdahillerin tescil taleplerinin karara bağlanmaması ve 3402 sayılı Kanun m.14, 17, 18 koşullarının yetersiz araştırılması nedenleriyle hükmün bozulmasına oy çokluğuyla karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı çiftlik tapu malikleri",
+      "müdahil pay satın alan şirket",
+      "Hazine",
+      "Orman İdaresi"
+    ],
+    "context": "Muğla yöresinde Mart 1290 tarihli üç ayrı çiftlik tapu kaydına (Hisarönü, Ergös, Söğüt) dayanan ve hanedan vakfından kaynaklanan geniş alanlı taşınmazlarda yürütülen kadastro çalışması.",
+    "trigger": "Hisarönü Köyü çalışma alanında dava konusu üç parselin (290 ada 29, 280 ada 1, 279 ada 4) tespitinde tapu malikleri adına revizyon yapılmaması ve zilyetler adına tespitin yapılması.",
+    "claim": "Çiftlik tapu kayıtlarına dayanılarak dava konusu taşınmazların tapu malikleri ve onlardan pay satın alan şirket adına tescili istemi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi (Kapatılan)",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2005/9404",
+      "decision_number": "2007/2923",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Müdahil Aliye Meryem'in 280 ada 1 parsele yönelik temyiz itirazlarının reddine ilişkin önceki onama kararı, kesin hüküm olarak dikkate alınmıştır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1580",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Söz konusu vakfın gayrisahih vakıf niteliğinde olduğu ve Arazi Kanunnamesinin 20 ve 78. maddeleri uyarınca zilyetlikle kazanılabileceği yönündeki yerleşik içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1183",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Çiftlik tapularının kapsam tayini ve sabit sınırlardan başlanarak miktar itibariyle uygulanması yöntemine ilişkin yerleşik içtihat olarak gerekçenin dayanaklarından biridir."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/1625",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "3402 sayılı Kanun m.20/B ve C uyarınca kapsam tayini ve niza günündeki kullanımın değerlendirilmesi yöntemini ortaya koyan bozma kararı olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 8. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1994/7430",
+      "decision_number": "1995/1073",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Karşı oyda, tapu maliklerinin asli zilyet sıfatını destekleyen önceki kesinleşmiş tapu iptali davasının onandığı karar olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2002/1795",
+      "decision_number": "2002/4523",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Karşı oyda, çiftlik tapusu kapsamında istimlak edilen taşınmazların fazla bölümünün tapu malikleri adına tescili kararını onayan emsal olarak anılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/C",
+      "context": "Harita, plan ve krokiye dayanmayan değişebilir ve genişletilmeye elverişli sınırlı tapu kayıtlarında miktara itibar edileceği kuralı, kapsam tayininin temel dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/B",
+      "context": "Niza gününe kadar kayıt sahibinin kullanımı varsa tapu kaydına değer verileceği kuralı, kapsam içinde kalan taşınmazlar için değerlendirme ölçütü olarak anılmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "30/2",
+      "context": "Parselin niteliğinin ve malikinin re'sen belirlenmesi gereği bozma ilamında dayanak olarak gösterilmiştir."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "14",
+      "context": "Katılanlar lehine zilyetlikle kazanma koşullarının gerçekleşip gerçekleşmediğinin araştırılması gereği vurgulanmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "17",
+      "context": "İmar-ihya yoluyla zilyetlikle kazanma koşullarının saptanması gereği belirtilmiştir."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "18",
+      "context": "Zilyetlikle kazanım şartlarının değerlendirilmesinde uygulanacak hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "21",
+      "context": "Sabit sınırla bağlantı kesilmemek suretiyle tapu kayıtlarının uygulanması yöntemine ilişkin hüküm bozma ilamında dayanak gösterilmiştir."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "20",
+      "context": "Türk Kanunu Medenisi sonrası yürürlüğünü koruyan bu hüküm uyarınca çiftlik tapu kayıtları kapsamındaki taşınmazların zilyetlikle kazanılabilmesinin koşulu olarak tartışılmıştır."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "78",
+      "context": "Gayrisahih vakıf kapsamında zilyetlikle kazanmaya cevaz veren hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Tapulama Kanunu",
+      "law_number": "766",
+      "article": null,
+      "context": "Yürürlüğe girmesiyle Arazi Kanunnamesinin 20 ve 78. maddelerinin yürürlükten kalkmadığı tespiti bağlamında atıf yapılmıştır."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "10",
+      "context": "Orman tahdidi sırasında tapu malikleri tarafından yapılan başvurunun değerlendirilmesinde uygulanan hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "4785",
+      "article": null,
+      "context": "1945 yılında yürürlüğe giren bu Kanunla özel ormanların devletleştirildiği ve devletleştirilen alanların tapu kayıtlarının yüzölçümünden düşüleceği belirtilmiştir."
+    },
+    {
+      "law": "Orman Kanununda Bazı Değişiklikler Yapılmasına Dair Kanun",
+      "law_number": "5658",
+      "article": null,
+      "context": "Devletleştirilen ormanlardan iadeye tabi olmayan alanların belirlenmesi bağlamında anılmıştır."
+    },
+    {
+      "law": "Tahrir Kanunu",
+      "law_number": "2901",
+      "article": null,
+      "context": "1936-1938 yılları arasında oluşturulan tahrir vergi kayıtlarının dayanağı olan kanun olarak anılmıştır."
+    },
+    {
+      "law": "On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6360",
+      "article": null,
+      "context": "Hisarönü Köyü tüzel kişiliğinin ortadan kalkarak mahalleye dönüşmesi ve Belediye Başkanlığının kanuni halef sıfatıyla davaya dahil olması bağlamında uygulanmıştır."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "992",
+      "context": "Karşı oyda, tapuda kayıtlı bulunmanın kütük zilyetliği oluşturduğu kuralı tapu malikinin asli zilyetliğini destekleyen dayanak olarak anılmıştır."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu (mülga)",
+      "law_number": "1086",
+      "article": "440/I",
+      "context": "Karar düzeltme yoluna 15 gün içinde başvurulabileceğine ilişkin usul hükmü uyarınca ilamın tebliğ usulü belirtilmiştir."
+    }
+  ]
+}

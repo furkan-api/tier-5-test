@@ -1,0 +1,336 @@
+{
+  "file": "diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md",
+  "court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+  "court": "Diyarbakır Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
+  "case_number": "2022/2496",
+  "decision_number": "2022/1639",
+  "decision_date": "2022-09-06",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "6100 sayılı HMK m. 362(1)-a uyarınca miktar itibarıyla kesin olduğu kararda açıkça belirtilmiştir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "İlk derece mahkemesinin kararının kamu düzenine aykırılık nedeniyle kaldırılarak, davanın dava şartı arabuluculuk yokluğundan usulden reddine yeniden hüküm kurulmuştur.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Hizmet Alım Sözleşmesinden Kaynaklı Rücuen Tazminat",
+  "summary": "Davacı, davalı idare ile imzalanan hizmet alım sözleşmesi kapsamında çalıştırdığı bir personelin güvenlik soruşturmasının olumsuz sonuçlanması üzerine işten çıkarılması nedeniyle aleyhine açılan davalar sonucu ödediği işçilik alacaklarının davalıdan tahsilini istemiştir. İlk derece mahkemesi, ihale sözleşmesinin iş ortaklığı ile imzalandığı ve davanın yalnızca bir ortak tarafından açıldığı gerekçesiyle aktif dava ehliyeti yokluğundan usulden ret kararı vermiştir. Bölge Adliye Mahkemesi, adi ortaklıkta dava açma konusunda diğer ortakların muvafakatinin sağlanabileceğini, bu yöndeki ret gerekçesinin hukuki dayanağı bulunmadığını ancak uyuşmazlığın nispi ticari dava niteliğinde olup arabuluculuk dava şartının yerine getirilmediğini, bu şartın sonradan tamamlanamayacağını belirleyerek ilk derece kararını kaldırmış ve davanın dava şartı yokluğundan usulden reddine yeniden hüküm kurmuştur.",
+  "keywords": [
+    "adi ortaklık",
+    "aktif dava ehliyeti",
+    "mecburi dava arkadaşlığı",
+    "nispi ticari dava",
+    "dava şartı arabuluculuk",
+    "rücu alacağı",
+    "hizmet alım sözleşmesi",
+    "ttk 5/a",
+    "huak 18/a",
+    "usulden ret"
+  ],
+  "legal_issues": [
+    "Adi ortaklık tarafından yapılan sözleşmeden kaynaklanan davanın ortaklardan yalnızca biri tarafından açılması halinde diğer ortakların muvafakatinin sağlanması için süre verilmesi mi yoksa doğrudan usulden ret kararı verilmesi mi gerekir?",
+    "Tarafları tacir olan ve her iki tarafın ticari işletmesini ilgilendiren hizmet alım sözleşmesinden doğan tazminat davası nispi ticari dava niteliğinde midir?",
+    "Ticari davada arabuluculuk dava şartının yerine getirilmemiş olması HMK m. 115(2) uyarınca sonradan tamamlanabilir nitelikte midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "dava şartı arabuluculuk",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davanın nispi ticari dava niteliğinde olması nedeniyle TTK m. 5/A uyarınca dava açılmadan önce arabulucuya başvurulmuş olmasının dava şartı olduğu ve bu şartın yerine getirilmediği tespitiyle usulden ret kararının dayanağı oluşturulmuştur."
+    },
+    {
+      "concept": "adi ortaklıkta dava açma yetkisi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Adi ortaklığın tüzel kişiliği bulunmadığından dava açılmasının önemli tasarruf niteliğinde olduğu, ortaklardan birinin diğer ortakların muvafakatinin sağlanması için süre verilmesi gerektiği yorumu yapılmıştır."
+    },
+    {
+      "concept": "nispi ticari dava",
+      "role": "uygulanan",
+      "context_in_reasoning": "Her iki tarafın da tacir olması ve uyuşmazlığın her iki tarafın ticari işletmesini ilgilendirmesi nedeniyle dava nispi ticari dava olarak nitelendirilmiş ve buna bağlı arabuluculuk dava şartı uygulanmıştır."
+    },
+    {
+      "concept": "dava şartı noksanlığının tamamlanması",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "HUAK m. 18/A(2)'nin özel ve emredici niteliği gereği arabuluculuk dava şartının HMK m. 115(2) kapsamında sonradan tamamlanabilir nitelikte olmadığı belirlenmiştir."
+    },
+    {
+      "concept": "aktif dava ehliyeti",
+      "role": "tartışılan",
+      "context_in_reasoning": "İlk derece mahkemesinin aktif dava ehliyeti yokluğu gerekçesi tartışılmış, BAM bu gerekçenin hukuki dayanağı bulunmadığını ancak başka bir dava şartı yokluğu nedeniyle sonucun değişmediğini belirtmiştir."
+    },
+    {
+      "concept": "tacir sıfatı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının ticaret siciline kayıtlı gerçek kişi tacir, davalı kurumun ise 2560 sayılı Kanun ve TTK m. 16 uyarınca tacir sayılması davanın ticari dava niteliği belirlemesinin temelini oluşturmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Nispi ticari dava niteliğindeki tazminat davasında arabuluculuk dava şartının yerine getirilmemesi halinde dava sonradan tamamlanabilir mi yoksa usulden reddedilmeli midir?",
+    "rule": "TTK m. 5/A uyarınca konusu bir miktar paranın ödenmesi olan ticari davalarda dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır; HUAK m. 18/A(2) hükmü özel ve emredici nitelikte olup bu dava şartı HMK m. 115(2) kapsamında sonradan tamamlanabilir nitelikte değildir.",
+    "application": "Hizmet alım sözleşmesinden kaynaklı tazminat istemli eldeki dava, her iki tarafın tacir olması ve uyuşmazlığın ticari işletmelerini ilgilendirmesi nedeniyle nispi ticari dava niteliğindedir; dosya kapsamında dava açılmadan önce arabulucuya başvurulduğuna dair bilgi ve belge bulunmamaktadır.",
+    "conclusion": "İlk derece mahkemesinin kararı kaldırılarak, davanın dava şartı yokluğundan usulden reddine yeniden hüküm kurulmuştur."
+  },
+ "fact_pattern": {
+    "actor_roles": [
+      "davacı (iş ortaklığı ortağı tacir)",
+      "davalı idare",
+      "dava dışı diğer adi ortak",
+      "dava dışı işçi"
+    ],
+    "context": "İş ortaklığı ile davalı idare arasındaki hizmet alım sözleşmesi kapsamında çalıştırılan personel hakkında, KHK 375 uyarınca belediye şirketi kadrolarına geçiş sürecinde güvenlik soruşturmasının olumsuz sonuçlanması ve davalı idarenin bildirimiyle iş sözleşmesinin feshedilmesi.",
+    "trigger": "Personel tarafından davacı aleyhine açılan iş davalarında müteselsil sorumluluğa hükmedilmesi ve davacının boşta geçen süre tazminatını tek başına ödemesi.",
+    "claim": "Davacı, müteselsil sorumluluk gereği tek başına ödediği boşta geçen süre tazminatının ticari faiziyle birlikte davalıdan rücuen tahsilini talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/6677",
+      "decision_number": "2013/2768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açmanın önemli tasarruf niteliğinde olduğu, yetkisiz ortakça açılan davada diğer ortakların muvafakatinin sağlanması için süre verilmesi gerektiği ilkesine ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12293",
+      "decision_number": "2012/13687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açmanın önemli tasarruf niteliğinde olduğu, yetkisiz ortakça açılan davada diğer ortakların muvafakatinin sağlanması için süre verilmesi gerektiği ilkesine ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4739",
+      "decision_number": "2013/6805",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açmanın önemli tasarruf niteliğinde olduğu, yetkisiz ortakça açılan davada diğer ortakların muvafakatinin sağlanması için süre verilmesi gerektiği ilkesine ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/2963",
+      "decision_number": "2019/4462",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta açılan davanın doğrudan reddedilmeyip Anayasa m.36 hak arama özgürlüğü çerçevesinde muvafakatin sağlanması veya muvafakat etmeyen ortağın davalı olarak gösterilmesine imkân tanınması ilkesine ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/4572",
+      "decision_number": "2018/4671",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta açılan davanın doğrudan reddedilmeyip Anayasa m.36 hak arama özgürlüğü çerçevesinde muvafakatin sağlanması veya muvafakat etmeyen ortağın davalı olarak gösterilmesine imkân tanınması ilkesine ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/1766",
+      "decision_number": "2019/4883",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta açılan davanın doğrudan reddedilmeyip Anayasa m.36 hak arama özgürlüğü çerçevesinde muvafakatin sağlanması veya muvafakat etmeyen ortağın davalı olarak gösterilmesine imkân tanınması ilkesine ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1980/11-2721",
+      "decision_number": "1983/323",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerce 2560 sayılı Kanun kapsamında özel hukuk hükümlerine göre kurulan su ve kanalizasyon idarelerinin TTK m. 16 uyarınca tacir sayılacağına ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/3005",
+      "decision_number": "2017/4527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context":"Belediyelerce 2560 sayılı Kanun kapsamında özel hukuk hükümlerine göre kurulan su ve kanalizasyon idarelerinin TTK m. 16 uyarınca tacir sayılacağına ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1471",
+      "decision_number": "2013/19127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerce 2560 sayılı Kanun kapsamında özel hukuk hükümlerine göre kurulan su ve kanalizasyon idarelerinin TTK m. 16 uyarınca tacir sayılacağına ilişkin emsal kararlardan biri olarak gösterilmiştir."
+    },
+    {
+  "court": "Diyarbakır Asliye Ticaret Mahkemesi",
+  "cited_court_type": "İlk Derece Hukuk",
+  "case_number": null,
+  "decision_number": null,
+  "relation": "chained",
+  "outcome": "Diğer",
+  "treatment": null,
+  "context": "Adi ortaklığın diğer ortağının muvafakati alınmadığı gerekçesiyle aktif dava ehliyeti yokluğundan davayı usulden reddeden ve istinaf incelemesinde kamu düzeni gözetilerek kaldırılan ilk derece kararıdır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "59",
+      "context": "Mecburi dava arkadaşlığının yasal dayanağı olarak adi ortaklık davalarında uygulanmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "114",
+      "context": "Genel dava şartlarının düzenlendiği hüküm olarak aktif dava ehliyeti ve arabuluculuk dava şartı değerlendirmesinde dayanak alınmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "115",
+      "context": "Dava şartı noksanlığının giderilmesi rejimi düzenlenmiş; arabuluculuk dava şartının emredici niteliği nedeniyle bu hükmün uygulanamayacağı sonucuna ulaşılmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353/1-b-2",
+      "context": "İlk derece mahkemesi kararının kaldırılarak yeniden hüküm kurulmasının usul hukuki dayanağıdır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "355",
+      "context": "İstinaf incelemesinin istinaf sebepleri ve kamu düzeni ile sınırlı yapılmasının dayanağı olarak gösterilmiştir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "362/1-a",
+      "context": "Kararın miktar itibarıyla kesin olmasına dayanak teşkil etmiştir."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "620",
+      "context": "Adi ortaklığın tanımına ve tüzel kişiliğinin bulunmadığına ilişkin yasal dayanak olarak gösterilmiştir."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "625",
+      "context": "Adi ortaklıkta önemli tasarrufların yapılması için tüm ortakların oybirliğinin gerekli olduğu, dava açmanın da önemli tasarruf sayıldığı yönünde dayanak olmuştur."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "630",
+      "context": "İdareci ortak ile diğer ortaklar arasındaki ilişkilerin vekalet hükümlerine tabi olduğu kuralı için dayanak gösterilmiştir."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "504/3",
+      "context": "Vekilin özel olarak yetkili kılınmadıkça dava açamayacağı kuralı, idareci ortağın yetkisi tartışmasında uygulanmıştır."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "638",
+      "context": "Elbirliği mülkiyeti kuralları gereğince adi ortaklık davalarının tüm ortaklar tarafından açılması gerektiği için dayanak gösterilmiştir."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "702",
+      "context": "Elbirliği mülkiyetinde tüm ortakların birlikte hareket etmesi kuralı için dayanak alınmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "4",
+      "context": "Ticari davaların belirlenmesine ilişkin üç kıstasın açıklanması ve nispi ticari dava niteliğinin tespiti için temel hüküm olarak uygulanmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "5/A",
+      "context": "Ticari davalarda arabuluculuğun dava şartı olduğu kuralı uyarınca davanın usulden reddi sonucuna varılmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "16",
+      "context": "Belediyelerce kurulan kuruluşların tacir sayılacağına ilişkin hüküm uyarınca davalının tacir niteliği belirlenmiştir."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "19/2",
+      "context": "Ticari iş karinesinin tek başına davayı ticari dava haline getirmediği yorumunda dayanak alınmıştır."
+    },
+    {
+      "law": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "law_number": "6325",
+      "article": "18/A",
+      "context": "Arabuluculuk dava şartının emredici niteliği ve sonradan tamamlanamayacağı sonucu için temel dayanak olmuştur."
+    },
+    {
+      "law": "İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanun",
+      "law_number": "2560",
+      "article": "Ek 5",
+      "context": "Diğer büyükşehir belediyelerinin su ve kanalizasyon idarelerinin de bu Kanun'a tabi olması ve tacir sayılması için dayanak olarak gösterilmiştir."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama özgürlüğüne uygun yorumla adi ortaklıkta muvafakat ve taraf teşkili imkanı tanınması ilkesinin anayasal dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "21",
+      "context": "Davacı tarafından ödendiği belirtilen boşta geçen süre tazminatının yasal kaynağı olarak istinaf dilekçesinde anılmıştır."
+    },
+    {
+      "law": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+      "law_number": "7155",
+      "article": "20",
+      "context": "TTK m. 5/A hükmünün ihdas edildiği maddenin kaynağı olarak anılmıştır."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": null,
+      "context": "Karar harcı ve istinaf harcının iadesi ile mahsubuna dair işlemlerin dayanağı olarak gösterilmiştir."
+    },
+    {
+      
+      "law": "375 sayılı Kanun Hükmünde Kararname",
+      "law_number": "375",
+      "article": "Geçici 23-24",
+      "context": "Davacının çalıştırdığı işçilerin belediye şirketine kadro geçişine ilişkin işlemlerin yasal dayanağı olarak anılmıştır."
+    }
+  ]
+}

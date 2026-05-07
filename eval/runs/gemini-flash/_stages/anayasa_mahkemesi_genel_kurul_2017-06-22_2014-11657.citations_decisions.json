@@ -1,0 +1,415 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "cited_court_decisions": [
+    {
+      "court": "Vezirköprü 1. Asliye Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2009/317",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu tapu iptali ve tescil davasını gören ilk derece mahkemesi."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararını onayan temyiz mercii."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Karar Düzeltme Reddi",
+      "treatment": null,
+      "context": "Başvurucunun karar düzeltme istemini reddeden temyiz mercii."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-692",
+      "decision_number": "2006/702",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmaz değeri üzerinden alınması."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-91",
+      "decision_number": "2006/115",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmaz değeri üzerinden alınması."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/10774",
+      "decision_number": "2015/10298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin dava tarihindeki güncellenmiş değeri üzerinden hüküm kurulması."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/5689",
+      "decision_number": "2017/7082",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödenmeyen kısmının güncellenerek depo edilmesi gerektiği."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/14923",
+      "decision_number": "2014/2015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödenmeyen kısmının güncellenerek depo edilmesi gerektiği."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/8956",
+      "decision_number": "2015/9538",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödenmeyen kısmının güncellenerek depo edilmesi gerektiği."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "54522/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "48939/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "31443/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "44971/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "70930/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin pozitif yükümlülüklerinin koruyucu ve düzeltici ödevler biçiminde olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": "2015/62",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının ekonomik değer ifade eden her türlü mal varlığını kapsaması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İcrası kabil alacakların mülkiyet hakkı kapsamına dahil olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1035",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özel kişiler arası ilişkilerde devlete atfedilebilecek sorumluluklar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8649",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının devlete pozitif yükümlülükler yüklemesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11410",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin pozitif yükümlülüklerinin etkili hukuksal çerçeve oluşturma sorumluluğu."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1977",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireysel başvuru için gerekli temel ön koşullar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamı ve kişiye sağladığı yetkiler."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkına müdahale teşkil eden durumlar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/7051",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mal varlığında azalma doğuran kamusal işlemlerin mülkiyet hakkına müdahalesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/969",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "AYM'nin hukuki nitelendirmeyi kendisinin takdir etmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/33",
+      "decision_number": "2012/54",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2010/83",
+      "decision_number": "2012/169",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/108",
+      "decision_number": "2013/64",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/64",
+      "decision_number": "2013/142",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/95",
+      "decision_number": "2014/176",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/96",
+      "decision_number": "2016/9",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/144",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/791",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1061",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/711",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/40",
+      "decision_number": "2013/139",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişimi zorlaştırıcı sınırlamaların ihlal oluşturması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1052",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişimi anlamsız kılan sınırlamaların ihlal oluşturması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/177",
+      "decision_number": "2015/49",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün mutlak bir hak olmaması ve sınırlanabilmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5033",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün mutlak bir hak olmaması ve sınırlanabilmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1613",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkı sınırlamalarının kanuna dayanması ve ölçülü olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3351",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Derece mahkemelerinin hukuk kurallarını yorumlama ve uygulama takdiri."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11994",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "AYM'nin derece mahkemelerinin yorumlarının hak ve özgürlükleri ihlal edip etmediğini saptaması."
+    }
+  ]
+}

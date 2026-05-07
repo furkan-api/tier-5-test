@@ -1,0 +1,99 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi Dördüncü Daire",
+  "case_number": "9580/03",
+  "decision_number": null,
+  "decision_date": "2010-01-26",
+  "decision_type": "Esas Karar",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "İhlal Var",
+  "decision_outcome_raw": "Başvurunun kabuledilebilir olduğuna, Ek 1 no’lu Protokol’ün 1. maddesinin ve AİHS’nin 6/1 maddesinin ihlal edildiğine, AİHS’nin 41. maddesinin uygulanması hususunun bu aşamada uygulanamayacağına karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucular"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucular",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Tapu senetlerinin iptaliyle mülkiyet hakkının ihlali ve yargılama süresinin uzunluğu nedeniyle adil yargılanma hakkının ihlali iddiaları",
+  "keywords": [
+    "mülkiyet hakkı",
+    "adil yargılanma hakkı",
+    "makul süre",
+    "tapu iptali",
+    "orman arazisi",
+    "kamulaştırma",
+    "tazminat",
+    "iç hukuk yollarının tüketilmesi",
+    "meşru beklenti",
+    "orantılılık ilkesi",
+    "kamu yararı"
+  ],
+  "legal_issues": [
+    "Tapu sicilinde kayıtlı taşınmazların orman vasfıyla iptal edilerek Hazine adına tescil edilmesi, kamu yararı olmaksızın ve tazminat ödenmeksizin mülkiyet hakkına orantısız bir müdahale teşkil etmekte midir?",
+    "Orman arazisi niteliğindeki taşınmazların tapu siciline tescil edilmiş olması, AİHS Ek 1 No'lu Protokol'ün 1. maddesi kapsamında 'mülk' teşkil eder mi?",
+    "Ulusal mahkemelerdeki yargılama süresi (8 yıldan fazla) AİHS m.6/1'deki makul süre ilkesini ihlal etmekte midir?",
+    "Tapu kaydının tutulmasından ileri gelen Devletin sorumluluğuna dayalı tazminat davası, mülkiyet hakkı ihlali iddiaları için etkili bir iç hukuk yolu mudur?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvuranların tapu sicilinde kayıtlı taşınmazlarının iptal edilerek orman idaresi adına tescil edilmesiyle mülkiyet haklarına yapılan müdahale incelenmiştir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Yargılama sürecinin sekiz yıldan fazla sürmesi nedeniyle AİHS m.6/1'deki makul sürede yargılanma hakkının ihlal edildiği tespit edilmiştir."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "yorumlanan",
+      "context_in_reasoning": "AİHM, tapu sicilinde kayıtlı ve geçerliliği bulunan bir mülkün hukuki emniyetine sahip olmanın 'meşru beklenti' kavramı kapsamında değerlendirilebileceğini belirtmiştir."
+    },
+    {
+      "concept": "iç hukuk yollarının tüketilmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Hükümetin tazminat davası açılmadığı yönündeki iç hukuk yollarının tüketilmediği itirazı, AİHM'nin yerleşik içtihadı uyarınca reddedilmiştir."
+    },
+    {
+      "concept": "mülkten yoksun bırakma",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvuranların tapu senetlerinin iptal edilerek mülkiyetlerinden mahrum bırakılması, Ek 1 No'lu Protokol'ün 1. maddesi anlamında 'mülkten yoksun bırakma' olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mülkiyetten yoksun bırakma işleminin tabiatın ve ormanların korunması amacını güttüğü ve kamu yararı çerçevesinde olduğu kabul edilmiştir."
+    },
+    {
+      "concept": "orantılılık ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tazminat ödenmeksizin mülkiyetten yoksun bırakmanın orantısız bir müdahale olduğu ve ihlal teşkil ettiği sonucuna varılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Tapu sicilinde kayıtlı taşınmazların orman vasfıyla iptal edilerek Hazine adına tescil edilmesi, mülkiyet hakkına orantısız bir müdahale teşkil etmekte midir ve yargılama süresi makul mudur?",
+    "rule": "AİHS Ek 1 No'lu Protokol'ün 1. maddesi, mülkiyet hakkına yapılan müdahalenin kamu yararı amacını gütmesi ve orantılı olması gerektiğini öngörür; tazminatsız mülkiyetten yoksun bırakma genellikle orantısızdır. AİHS m.6/1 ise yargılamaların makul sürede tamamlanmasını gerektirir.",
+    "application": "Başvuranların ataları adına tescilli arazilerin orman vasfıyla tapularının iptal edilerek Hazine adına tescil edilmesi, kamu yararı taşısa da, makul bir tazminat ödenmemesi nedeniyle orantısız bir müdahale teşkil etmiştir. Ayrıca, sekiz yıldan fazla süren yargılama, davanın karmaşıklığına rağmen makul süreyi aşmıştır.",
+    "conclusion": "Ek 1 No'lu Protokol'ün 1. maddesi ve AİHS'nin 6/1 maddesi ihlal edilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucular",
+      "Orman Genel Müdürlüğü",
+      "Asliye Hukuk Mahkemesi",
+      "Yargıtay"
+    ],
+    "context": "Başvuranların ataları adına kadastro çalışmaları sırasında tarım arazisi olarak kaydedilen ve tapu siciline tescil edilen taşınmazlar.",
+    "trigger": "Orman Genel Müdürlüğü'nün, söz konusu parsellerin orman vasfında olduğu iddiasıyla tapu senetlerinin iptali ve kendi adına tescili için dava açması.",
+    "claim": "Başvuranlar, arazilerin ormanlık alanın bir bölümünde olmadığına karar verilmesini ve tapularının geçerliliğinin korunmasını talep etmişlerdir."
+  }
+}

@@ -1,0 +1,4955 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "cited_law_articles": [
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": null,
+      "context": "Olağanüstü hal tedbirleri ve KHK'nın kanunlaşması."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine ekleme yapılması."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "667 sayılı KHK'nın kanunlaşması ve askeri hakimler hakkındaki düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "4/2",
+      "context": "Görevine son verilenlerin kamu hizmetinde istihdam edilemeyeceği."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": null,
+      "context": "Olağanüstü hal işlemleri inceleme komisyonu kurulması."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun",
+      "law_number": "7075",
+      "article": "11/2",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "6",
+      "context": "Egemenliğin kayıtsız şartsız millete ait olması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "9",
+      "context": "Yargı yetkisinin bağımsız ve tarafsız mahkemelerce kullanılması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "14",
+      "context": "Anayasal düzene aykırı faaliyetlerde bulunulamayacağı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması; savaş hukuku."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Adil yargılanma hakkı; mahkemelere başvurma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138/1",
+      "context": "Hakimlerin görevlerinde bağımsızlığı ve vicdani kanaatlerine göre hüküm vermeleri."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Hakim ve savcıların azlolunamayacağı; meslekten çıkarılma istisnaları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "140/2",
+      "context": "Hakimlerin mahkemelerin bağımsızlığı ve hakimlik teminatı esaslarına göre görev yapmaları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "145 (mülga)",
+      "context": "Askeri yargı organlarının kuruluşu, işleyişi ve askerî hâkimlerin özlük işleri."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6/1",
+      "context": "Adil yargılanma hakkı; makul sürede yargılanma."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Savaş veya ulusun yaşamını tehdit eden olağanüstü durumlarda yükümlülüklerden sapma."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Askeri hakimlerin meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Terör örgütleri ile iltisak veya irtibatı olan yargı mensuplarının meslekten çıkarılması."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "4/2",
+      "context": "Görevine son verilenlerin kamu hizmetinde istihdam edilemeyeceği."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135",
+      "context": "Telekomünikasyon yoluyla iletişimin tespiti, dinlenmesi ve kayda alınması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "160/1",
+      "context": "Soruşturma görevi ve yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Terör örgütleri ile iltisak veya irtibatı olanların meslekten çıkarılması."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "4/2",
+      "context": "Görevine son verilenlerin kamu hizmetinde istihdam edilemeyeceği."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Hakim ve savcıların meslekten çıkarılma sebepleri."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Terör örgütleri ile iltisak veya irtibatı olanların meslekten çıkarılması."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135",
+      "context": "Telekomünikasyon yoluyla iletişimin tespiti, dinlenmesi ve kayda alınması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "160/1",
+      "context": "Soruşturma görevi ve yetkisi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "140",
+      "context": "Hakim ve savcıların meslek ilkeleri."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Hakimlerin bağımsızlığı ve vicdani kanaatlerine göre hüküm vermeleri."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Hakim ve savcıların azlolunamayacağı; meslekten çıkarılma istisnaları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "145 (mülga)",
+      "context": "Askeri yargı organlarının kuruluşu, işleyişi ve askerî hâkimlerin özlük işleri."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6/1",
+      "context": "Adil yargılanma hakkı; makul sürede yargılanma."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Savaş veya ulusun yaşamını tehdit eden olağanüstü durumlarda yükümlülüklerden sapma."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3/1",
+      "context": "Askeri hakimler hakkında meslekten çıkarma kararı verme yetkisi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "685",
+      "article": "3/1",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştay'da dava açma süresi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel hak ve hürriyetlerin sınırlanması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde yükümlülüklerden sapma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; bağımsızlık, bütünlük, demokrasiyi koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20/1",
+      "context": "Özel hayata ve aile hayatına saygı hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel ve aile yaşamına saygı hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, ölçülülük."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Yargı mensuplarının meslekten çıkarılmasına ilişkin düzenleme."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4(8)b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alın

@@ -1,0 +1,335 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "cited_court_decisions": [
+    {
+      "court": "Vezirköprü 1. Asliye Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2009/317",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Tapu iptali ve tescil davasını yapan ilk derece mahkemesi."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Temyiz incelemesinde ilk derece kararını onayan Yargıtay dairesi."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-692",
+      "decision_number": "2006/702",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmelerinde taşınmazın değerinin dava tarihine göre belirlenmesi içtihadı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-91",
+      "decision_number": "2006/115",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmelerinde taşınmazın rayiç değeri üzerinden harç hesaplanması içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/10774",
+      "decision_number": "2015/10298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmesinde ödenmeyen bedelin dava tarihinde güncelleştirilmesi içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/5689",
+      "decision_number": "2017/7082",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmesinde ödenmeyen bedelin depo edilmesi hakkında içtihat."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/14923",
+      "decision_number": "2014/2015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmesinde ödenmeyen bedelin rayiç değere oranlanması içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/8956",
+      "decision_number": "2015/9538",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmesinde ödenmeyen bedelin depo edilmesi hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": "2015/62",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamı ve ekonomik değer ifade eden mal varlığı hakkı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamında alacak haklarının yer alması hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1035",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özel kişiler arası ilişkilerde devlete atfedilebilecek sorumluluklar hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8649",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkına üçüncü kişiler tarafından müdahalenin devlet sorumluluğu."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11410",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin pozitif yükümlülükleri ve etkili hukuksal çerçeve oluşturma sorumluluğu."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/33",
+      "decision_number": "2012/54",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün diğer temel hak ve özgürlüklerin korunmasındaki rolü."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2010/83",
+      "decision_number": "2012/169",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin korunmasındaki önemi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/108",
+      "decision_number": "2013/64",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün sınırlandırılması hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/64",
+      "decision_number": "2013/142",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün sınırlandırılması hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/95",
+      "decision_number": "2014/176",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün sınırlandırılması hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/144",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvenceleri arasında yer alması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/791",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvenceleri arasında yer alması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1061",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvenceleri arasında yer alması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/711",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvenceleri arasında yer alması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/40",
+      "decision_number": "2013/139",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişimi etkisiz kılacak sınırlamalar mahkemeye erişim hakkını ihlal edebilir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1052",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkını ihlal eden sınırlamalar hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3351",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hukuk kurallarının yorumlanması ve uygulanması derece mahkemelerinin takdirindedir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11994",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Anayasa Mahkemesinin derece mahkemelerinin hukuk kuralı yorumlaması denetimi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/969",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Anayasa Mahkemesinin olay ve olguların hukuki tavsifini kendisi takdir etmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1613",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkına müdahalenin kanuna dayanması ve ölçülü olması gerekir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamı ve malike tanıdığı yetkiler hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının sınırlandırılması mülkiyet hakkına müdahale teşkil eder."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/7051",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mal varlığında azalma sonucunu doğuran kamusal işlemler mülkiyet hakkına müdahale."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/177",
+      "decision_number": "2015/49",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün sınırlandırılması hakkında içtihat."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5033",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün sınırlandırılması hakkında içtihat."
+    }
+  ]
+}

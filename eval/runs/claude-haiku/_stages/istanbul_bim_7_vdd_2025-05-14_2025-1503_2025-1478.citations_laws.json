@@ -1,0 +1,29 @@
+{
+  "file": "istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md",
+  "cited_law_articles": [
+    {
+      "law": "Belediye Gelirleri Kanunu",
+      "law_number": "2464",
+      "article": "52",
+      "context": "İşgal harcı; umuma ait yerin geçici işgali halinde alınabilir."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "45/3",
+      "context": "İstinaf başvurusunun reddi; ilk derece kararı hukuka uygun bulunursa."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": null,
+      "context": "Maktu karar harcı; istinaf başvurusunda bulunan taraftan alınması."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "46/b",
+      "context": "Kesin karar; dava açılış tarihi itibariyle dava konusu tutar dikkate alınır."
+    }
+  ]
+}

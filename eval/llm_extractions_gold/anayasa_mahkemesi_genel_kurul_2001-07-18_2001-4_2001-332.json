@@ -1,0 +1,2839 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Genel Kurulu",
+  "case_number": "2001/4",
+  "decision_number": "2001/332",
+  "decision_date": "2001-07-18",
+  "decision_type": "Norm Denetimi",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/1 uyarınca AYM norm denetimi kararları kesindir.",
+  "decision_outcome": "Kısmen İptal",
+  "decision_outcome_raw": "4616 sayılı Yasa'nın 1. maddesinin 2. bendinin bir bölümü, 4., 6., 7., 9. bentleri ile 5. bendinin (a) alt bendinin TCK'nun 188, 191, 240, 298 ve 383. maddeleri yönünden iptaline; diğer itirazların reddine ve iptal hükümlerinin altı ay sonra yürürlüğe girmesine karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşıoy yazılarında bir kısım üyeler, yasama yoluyla erteleme müessesesinin Anayasa'da yer almadığı, düzenlemenin Anayasa'nın 87. ve 14. maddelerindeki af yasağını dolaylı olarak aştığı; bir kısım üyeler ise iptale konu kuralların yasakoyucunun takdir alanında olduğu ve af konusunda kapsam belirlemenin Anayasaya aykırılık oluşturmayacağı görüşünü ileri sürmüştür. Ayrıca TCK m.243 (işkence) ve m.366-367 (artırma-eksiltmeye hile karıştırma) ile m.298 (tutukluların firarı) yönünden çoğunluk değerlendirmesine itiraz edilmiştir.",
+  "appellants": [
+    "iptal davası açan"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "iptal davası açan",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair 4616 Sayılı Kanun'un Kimi Kurallarının Anayasa'ya Aykırılığı İtirazı",
+  "summary": "İtiraz yoluna başvuran çok sayıda ceza mahkemesi, 4616 sayılı Yasa'nın başlığı, uygulama tarihi (23 Nisan 1999), şartla salıverme ve cezalardan on yıllık indirim öngören düzenlemeleri ile dava ve cezaların ertelenmesi, kapsam dışı bırakılan suçlar, daha önce şartla salıverme veya aftan yararlananları yasa dışında tutan kural ve bir aylık teslim süresi gibi düzenlemelerin Anayasa'ya aykırı olduğunu ileri sürmüştür. Anayasa Mahkemesi düzenlemeyi şartla salıverme adı altında özel af niteliğinde kendine özgü bir düzenleme olarak nitelendirmiş; 1. maddenin 2. bendinin müebbet ağır hapisle özgürlüğü bağlayıcı cezaya mahkûm olanlar arasında adaletsiz sonuç doğuran bölümünü, 4., 6., 7. ve 9. bentlerini ve 5. bendin (a) alt bendinin TCK'nun 188, 191, 240, 298 ve 383. maddeleri yönünden uygulamasını hukuk devleti, eşitlik ve adil yargılanma ilkelerine aykırı bularak iptal etmiştir. Diğer kapsam dışı bırakılan suçlara ilişkin itirazlar ise koruduğu hukuki yarar ve kamu yararı gerekçesiyle reddedilmiştir. İptal kararının kamu düzenini tehdit edici hukuksal boşluk yaratacağı gerekçesiyle altı ay sonra yürürlüğe girmesine hükmedilmiştir.",
+  "keywords": [
+    "şartla salıverme",
+    "cezaların ertelenmesi",
+    "davaların ertelenmesi",
+    "özel af",
+    "genel af",
+    "hukuk devleti",
+    "eşitlik ilkesi",
+    "adil yargılanma hakkı",
+    "yasama yoluyla erteleme",
+    "4616 sayılı kanun",
+    "infaz hukuku",
+    "kazanılmış hak"
+  ],
+  "legal_issues": [
+    "4616 sayılı Yasa'da öngörülen on yıllık indirim ve şartla salıverme düzenlemesi şartla salıverme niteliğinde mi yoksa toplu özel af niteliğinde mi sayılmalıdır?",
+    "Yasanın uygulama tarihinin 23 Nisan 1999 olarak belirlenmesi eşitlik ilkesine aykırılık oluşturur mu?",
+    "Cezaları kesinleşmiş hükümlülere bir kez 10 yıllık indirim uygulanırken, henüz yargılaması süren sanıklar için her dava bakımından erteleme öngörülmesi eşitlik ve adil yargılanma haklarına aykırı mıdır?",
+    "Bir suçun kapsam dışı bırakılması, aynı fasılda yer alan ve daha ağır cezayı gerektiren suçların kapsama alınmış olması karşısında hukuk devleti ilkesini ihlal eder mi?",
+    "Daha önce şartla salıverme veya aftan yararlananları kapsam dışı tutan ve firarda olanlar için bir aylık teslim süresi öngören kurallar hukuk devleti ilkesi ile bağdaşır mı?",
+    "647 sayılı Yasa'nın Ek 2. maddesindeki indirim hükümlerinin uygulanmamasını öngören düzenleme kazanılmış hakları ihlal eder mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "şartla salıverme",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Mahkeme, 4616 sayılı Yasa'da kullanılan 'şartla salıverme' kavramının klasik şartla salıverme kurumundan farklı, kendine özgü ve şartlı özel af niteliği ağır basan bir düzenleme olduğunu yorumlamıştır."
+    },
+    {
+      "concept": "toplu özel af",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Yasa'nın 1. maddesinin 2. bendindeki on yıllık indirimin, belirli süreyle suç işlememe bozucu koşuluna bağlı toplu özel af niteliğinde olduğu tespiti kararın temel eksenini oluşturmuştur."
+    },
+    {
+      "concept": "hukuk devleti ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Aynı fasıldaki ağır suçlar kapsama alınırken daha hafif suçların dışlanması, kazanılmış hakların geri alınması ve adaletsiz sonuçlar yaratılması Anayasa m.2'deki hukuk devleti ilkesine aykırı bulunmuştur."
+    },
+    {
+      "concept": "eşitlik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Cezaları kesinleşenlerle henüz yargılaması süren sanıklar arasında, aynı suçu işleyenler arasında uygulamada doğan farklılıklar Anayasa m.10'a aykırı sayılmıştır."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davanın ertelenmesinin sanıkların yargılanıp beraat edebilme imkanını ortadan kaldırması Anayasa m.36 ve 38 ile AİHS m.6 kapsamında adil yargılanma hakkına aykırı bulunmuştur."
+    },
+    {
+      "concept": "yasama yoluyla erteleme",
+      "role": "tartışılan",
+      "context_in_reasoning": "Karşıoy yazılarında 1961 ve 1982 Anayasalarında yasama yoluyla erteleme müessesesinin yer almadığı, 4616 sayılı Yasa'nın bu yönden Anayasa'ya aykırılık taşıdığı tartışılmıştır."
+    },
+    {
+      "concept": "kazanılmış hak",
+      "role": "uygulanan",
+      "context_in_reasoning": "647 sayılı Yasa'nın Ek 2. maddesi uyarınca müddetnameleri düzenlenmiş hükümlülerin ayda altı günlük indirim hakkının 4616 sayılı Yasa'nın 1. maddesinin 7. bendiyle ellerinden alınmasının hukuk devleti ilkesine aykırı olduğu sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "af çıkarma yetkisi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Anayasa m.87 uyarınca TBMM'nin af çıkarma yetkisinin kapsamı yorumlanmış, Anayasa'da güvence altına alınan haklar dışında yasakoyucunun kapsam belirlemede takdir hakkı olduğu vurgulanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "4616 sayılı Yasa'nın şartla salıverme, dava ve cezaların ertelenmesi ile kapsam dışı bırakma kuralları, hukuk devleti, eşitlik ve adil yargılanma ilkelerine uygun mudur?",
+    "rule": "Anayasa m.2, 10, 36 ve 38 uyarınca yasakoyucunun af, şartla salıverme ve erteleme alanındaki takdir yetkisi anayasal sınırlar içinde kullanılmalı; aynı hukuksal durumda bulunanlara aynı kuralın uygulanması, kazanılmış hakların korunması ve adil yargılanma hakkının özünün zedelenmemesi gerekir.",
+    "application": "Mahkeme, 1. maddenin 2. bendindeki on yıllık indirimin müebbet ağır hapis hükümlüleri ile içtimaen 36 yıl ceza alanlar arasında dengeyi tersine çevirdiğini; 4. bendin aynı suçu işleyenler arasında dava aşamasına göre eşitsizlik yarattığını; 6. ve 7. bentlerin kazanılmış hakları zedelediğini; 9. bentteki bir aylık sürenin elverişsiz olduğunu; ayrıca 5. bendin (a) alt bendindeki bazı maddelerin (TCK 188, 191, 240, 298, 383) kapsam dışı bırakılmasının aynı fasıldaki daha ağır suçlarla karşılaştırıldığında haklı temelden yoksun olduğunu tespit etmiştir.",
+    "conclusion": "Anılan kurallar Anayasa'ya aykırı bulunarak iptal edilmiş; diğer kapsam dışı bırakma kuralları ise koruduğu hukuki yarar ve kamu yararı gerekçesiyle Anayasaya uygun bulunmuş; iptal hükmünün altı ay sonra yürürlüğe girmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "itiraz yoluna başvuran ceza mahkemeleri",
+      "sanık",
+      "hükümlü"
+    ],
+    "context": "Çok sayıda ceza mahkemesi, önlerindeki davalarda 4616 sayılı Yasa'nın çeşitli kurallarının uygulanması gerektiği halde Anayasa'ya aykırı olduğu kanısına varmıştır.",
+    "trigger": "Mahkemeler bakmakta oldukları davalarda Yasa'nın uygulanma koşulları ve kapsam dışı bırakılan suçlar bakımından ortaya çıkan eşitsizlik ve adaletsizlik iddiaları üzerine itiraz yoluna başvurmuştur.",
+    "claim": "Yasa'nın başlığı, uygulama tarihi, on yıllık indirim, dava ve cezaların ertelenmesi, kapsam dışı suçlar, şartla salıverme ve aftan önce yararlananları dışlama ile firar süresine ilişkin kuralların iptali talep edilmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Kahramanmaraş 2. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/4",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mardin 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/6",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İnebolu Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/7",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Tarsus Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/12",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sarıkamış Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/13",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kırıkhan Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/23",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Turgutlu Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/25",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çankırı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/29",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kabadüz Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/31",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Boğazlıyan Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/32",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İnebolu Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/37",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İnebolu Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/38",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/39",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/40",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/42",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bozüyük Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/449",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çankırı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/45",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bolu Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/47",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Turgutlu Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/48",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 15. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/49",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çerkeş Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/53",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edirne 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/54",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edirne 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/55",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Adana 3. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/56",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Adana 3. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/57",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Serinhisar Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/58",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/60",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ardahan Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/62",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Giresun Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/63",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kuşadası Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/64",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Nevşehir Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/71",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kilis Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/74",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Van Devlet Güvenlik Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/75",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Van Devlet Güvenlik Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/76",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/77",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Alaşehir Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/78",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/81",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Alaşehir Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/83",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Alaşehir Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/84",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Alaşehir Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/85",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Tarsus Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/86",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çaycuma Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/87",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bartın Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/88",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/89",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/90",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/91",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/92",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Eskişehir Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/95",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Tokat Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/97",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Erzincan Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/98",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Maden Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/99",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/100",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/101",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çine Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/102",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/103",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Şereflikoçhisar Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/104",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çerkeş Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/105",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Keşan Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/109",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edirne 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/111",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kilis Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/112",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ermenek Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/113",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Vezirköprü Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/114",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kütahya 1. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/115",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/116",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Alaşehir Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/117",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 7. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/121",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Artvin Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/122",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Uşak Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/123",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Uşak Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/124",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/126",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/128",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çaybaşı Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/131",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ferizli Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/132",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Adana 3. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/133",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Adana 3. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/134",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/135",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Van Devlet Güvenlik Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/136",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Boğazlıyan Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/137",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kahramanmaraş Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/138",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edirne 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/140",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edirne 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/141",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 4. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/145",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/148",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/149",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/150",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/151",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/152",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/153",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/154",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mersin 4. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/156",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İnebolu Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/157",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Uşak Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/158",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Aydın 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/159",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 13. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/161",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ceyhan Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/162",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Pervari Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/163",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/164",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Üsküdar 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/165",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Maden Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/166",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İhsaniye Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/167",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/168",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/169",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Eskişehir 1. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/170",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kahramanmaraş Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/171",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ağrı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/172",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Erzincan Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/174",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ermenek Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/175",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ermenek Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/176",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Nevşehir Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/178",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Dz. K. K. Askeri Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/179",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Adana 3. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/180",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Eyüp 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/182",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Pamukova Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/183",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mardin Birinci Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/186",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ağrı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/187",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/189",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/190",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Turhal Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/192",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/194",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "J. Gen. K. J. Asayiş K.'lığı Askeri Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/195",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Tokat Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/196",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mustafakemalpaşa Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/197",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Perşembe Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/198",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bolu Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/199",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/200",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 4. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/202",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kilis Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/203",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Pervari Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/204",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çaycuma Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/205",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çerkeş Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/207",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mersin 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/208",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çine Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/209",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kartal 2. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/210",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gökçebey Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/211",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "nci Kor. K.'lığı Askeri Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/212",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çerkeş Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/213",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bursa 5. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/214",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "nci Kor. K.'lığı Askeri Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/215",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/217",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 11. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/218",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 11. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/220",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 11. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/221",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 11. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/222",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 11. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/223",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/230",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Uşak Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/231",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Muğla Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/234",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bozyazı Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/235",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çamardı Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/239",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Nevşehir Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/240",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çamardı Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/241",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yığılca Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/242",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edremit Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/243",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edremit Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/244",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edremit Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/245",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edremit Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/246",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edremit Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/247",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gölköy Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/248",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Adana 3. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/250",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/254",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mardin 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/256",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yığılca Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/257",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yığılca Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/258",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/260",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gümüşhane Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/261",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Saray Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/263",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Düzce 1. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/265",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gülnar Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/266",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/267",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/268",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Turgutlu Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/269",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "nci Kor. K.'lığı Askeri Mahkemesi",
+      "cited_court_type": "Diğer",
+      "case_number": "2001/270",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gölcük Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/272",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Nazilli Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/274",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Alaşehir Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/275",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gölköy Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/277",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İzmir 10. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/278",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Amasya Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/283",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Amasya Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/284",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Amasya Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/285",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bilecik Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/288",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bigadiç Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/289",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Uşak 2. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/290",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Şile Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/291",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gördes Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/294",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Van 2. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/295",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Seydişehir Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/297",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 3. Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/298",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Edremit Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/299",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Karadeniz Ereğli Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/300",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kahramanmaraş Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/301",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Pazar/Tokat Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/304",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Van 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/307",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sakarya 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/308",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Ankara 11. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/310",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/311",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Yalvaç Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/312",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çemişgezek Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/313",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çemişgezek Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/314",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Niksar Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/315",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Uşak Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/316",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kayseri 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/317",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mustafakemalpaşa Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/319",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Kahramanmaraş 2. Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/321",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sandıklı Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/326",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bucak Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/329",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bucak Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/330",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bucak Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/331",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bucak Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/333",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bucak Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/334",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çine Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/335",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "İstanbul 4. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/336",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Konya Ereğli Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/337",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gölbaşı Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/339",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Sultanbeyli Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/340",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çemişgezek Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/341",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Bandırma Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/348",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Korkut Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/350",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Perşembe Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/352",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Çemişgezek Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/355",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mardin 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/356",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gölcük Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/357",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Gölcük Asliye Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/358",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Mardin 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/359",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Göynük Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/363",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    },
+    {
+      "court": "Üsküdar 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2001/366",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İptal",
+      "treatment": null,
+      "context": "4616 sayılı Yasa'nın çeşitli kurallarının Anayasa'ya aykırılığı iddiasıyla AYM'ye itiraz yoluna başvuran ilk derece mahkemesinin sevk kararı; 2001/4 esas altında birleştirilerek incelenmiştir."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "2",
+      "context": "Hukuk devleti ilkesi, iptal edilen kuralların adaletsiz sonuçlar doğurması nedeniyle başlıca dayanak olarak uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Eşitlik ilkesi uyarınca aynı suçu işleyenler arasında dava aşamasına göre farklı muamele yapılmasının ihlal oluşturduğu sonucuna varılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti çerçevesinde davanın ertelenmesinin sanığın beraat edebilme hakkını ortadan kaldırdığı tespit edilmiştir."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "38",
+      "context": "Suçluluğu hükmen sabit oluncaya kadar kimsenin suçlu sayılamayacağı ilkesi, dava ertelemesi düzenlemesinin değerlendirilmesinde uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "87",
+      "context": "TBMM'nin genel ve özel af çıkarma yetkisi ile Anayasa m.14'teki suçlar için af yasağı çerçevesinde yasakoyucunun takdir alanı yorumlanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "153",
+      "context": "İptal kararının yürürlüğe girme tarihinin altı ay sonraya bırakılması, Anayasa m.153/3 dayanağıyla kararlaştırılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Orman suçları bakımından genel ve özel af çıkarılamayacağı kuralı, Orman Kanunu'nun ilgili maddelerinin kapsam dışı bırakılmasının Anayasaya uygun bulunmasında dayanak olmuştur."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "17",
+      "context": "İşkence yasağı, TCK m.243'ün kapsam dışı bırakılmasının değerlendirilmesinde gözetilmiştir."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1",
+      "context": "İncelenen yasanın 1. maddesinin çeşitli bent ve alt bentleri itiraz konusu kuralları oluşturmuş; bir kısmı iptal, bir kısmı reddedilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "188",
+      "context": "Emredici cebir-şartlı tehdit suçunun kapsam dışı bırakılması, aynı fasıldaki daha ağır suçların kapsama alınması nedeniyle hukuk devleti ilkesine aykırı bulunmuştur."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "191",
+      "context": "Tehdit suçunun kapsam dışı bırakılması Anayasa m.2'ye aykırı bulunarak iptal edilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "240",
+      "context": "Görevi kötüye kullanma suçunun kapsam dışı bırakılması eşitlik ve hukuk devleti ilkelerine aykırı görülerek iptal edilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "243",
+      "context": "İşkence suçunun kapsam dışı bırakılması koruduğu hukuki yarar bakımından Anayasaya uygun bulunmuştur; karşıoylarda eşitlik ilkesine aykırılık ileri sürülmüştür."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "298",
+      "context": "Tutuklu firarı suçunun, daha ağır cezayı gerektiren 299. madde kapsama alınmışken dışarıda bırakılmasının hukuk devleti ilkesine aykırı olduğuna karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "383",
+      "context": "Taksirle yangına sebebiyet verme suçunun aynı fasıldaki kasıtlı suçlar kapsama alınmışken dışlanmasının haklı nedeni bulunmadığı sonucuna varılmıştır."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun (mülga)",
+      "law_number": "647",
+      "article": "Ek 2",
+      "context": "Ayda altı günlük indirim hükmünün 4616 sayılı Yasa'dan yararlananlara uygulanmamasına ilişkin 1. maddenin 7. bendinin kazanılmış hakları zedelediği sonucuna varılmıştır."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun (mülga)",
+      "law_number": "647",
+      "article": "19",
+      "context": "Müebbet ağır hapis cezasına hükümlü olanların 20 yıl sonunda şartla salıverileceği düzenlemesi, on yıllık indirimin etkisinin değerlendirilmesinde temel alınmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "17",
+      "context": "Şartla salıverilen müebbet ağır hapis hükümlüsünün deneme süresinin 36 yıl üzerinden hesaplanmasına ilişkin kural değerlendirmede esas alınmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "97",
+      "context": "Genel affın kamu davasını ve cezaları bütün neticeleriyle ortadan kaldıran niteliği af kavramının açıklanmasında kullanılmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "98",
+      "context": "Özel affın cezayı ortadan kaldıran, azaltan veya değiştiren niteliği 4616 sayılı Yasa'nın hukuki niteliğinin tespitinde uygulanmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "2949",
+      "article": "29",
+      "context": "İptal kararı sonucu uygulanma olanağı kalmayan 'veya toplam hükümlülük sürelerinden' ibaresinin de iptaline dayanak oluşturmuştur."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "2949",
+      "article": "53",
+      "context": "İptal kararının altı ay sonra yürürlüğe girmesine ilişkin kararın dayanağını oluşturmuştur."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı yönünden davanın ertelenmesi düzenlemesinin değerlendirilmesinde atıf yapılmıştır."
+    },
+    {
+      "law": "İşkenceye ve Diğer Zalimane, İnsanlık Dışı ya da Küçültücü Muamele ya da Cezaya Karşı Birleşmiş Milletler Sözleşmesi",
+      "law_number": "3441",
+      "article": "1",
+      "context": "İşkence kavramının tanımı çerçevesinde TCK m.243'ün kapsam dışı bırakılmasının değerlendirilmesinde kullanılmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "121",
+      "context": "Yasak hakların iadesine ilişkin eski TCK düzenlemesi, kazanılmış haklar tartışmasında itiraz gerekçesi olarak anılmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "202",
+      "context": "Zimmet suçunun 4616 sayılı Yasa'nın 1. maddesinin 5. bendinin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "209",
+      "context": "5. bendin (a) alt bendi uyarınca kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "219",
+      "context": "5. bendin (a) alt bendi uyarınca kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "264",
+      "context": "5. bendin (a) alt bendi uyarınca kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "299",
+      "context": "Tutuklu firarı (m.298) kapsam dışı bırakılırken aynı fasıldaki daha ağır cezayı gerektiren bu suçun kapsama alınmış olması, m.298'in iptaline dayanak gösterilen karşılaştırmanın ekseni olmuştur."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "313",
+      "context": "Cürüm işlemek için teşekkül oluşturma suçunun 5. bendin (a) alt bendi uyarınca kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "339",
+      "context": "Resmi belgede sahtecilik kümesinin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "342",
+      "context": "Resmi belgede sahtecilik kümesinin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "343",
+      "context": "Resmi belgede sahtecilik kümesinin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "345",
+      "context": "Resmi belgede sahtecilik kümesinin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "346",
+      "context": "Resmi belgede sahtecilik kümesinin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "347",
+      "context": "Resmi belgede sahtecilik kümesinin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "366",
+      "context": "Artırma-eksiltmeye fesat karıştırma suçunun 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oyçokluğuyla karar verilmiş; karşıoyda eşitlik ilkesine aykırılık ileri sürülmüştür."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "367",
+      "context": "Artırma-eksiltmeye fesat karıştırma kümesindeki maddenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oyçokluğuyla karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "403",
+      "context": "Uyuşturucu madde imal-ithal-ihraç suçunun 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "404/2",
+      "context": "Uyuşturucu madde suçlarına ilişkin düzenlemenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "414",
+      "context": "Cinsel saldırı/ırza geçme kümesindeki maddenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "415",
+      "context": "Cinsel saldırı/ırza geçme kümesindeki maddenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "416",
+      "context": "Cinsel saldırı/ırza geçme kümesindeki maddenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "417",
+      "context": "Cinsel saldırı/ırza geçme kümesindeki maddenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "418",
+      "context": "Cinsel saldırı/ırza geçme kümesindeki maddenin 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "503",
+      "context": "Dolandırıcılık suçunun 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "504",
+      "context": "Nitelikli dolandırıcılık suçunun 5. bendin (a) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "79",
+      "context": "5. bendin (b) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "81",
+      "context": "5. bendin (b) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "88",
+      "context": "5. bendin (b) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "91",
+      "context": "5. bendin (b) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "131",
+      "context": "5. bendin (b) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun (mülga)",
+      "law_number": "1918",
+      "article": "27",
+      "context": "5. bendin (c) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun (mülga)",
+      "law_number": "1918",
+      "article": "33",
+      "context": "5. bendin (c) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun",
+      "law_number": "6136",
+      "article": "12",
+      "context": "5. bendin (e) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "91",
+      "context": "Anayasa m.169'daki orman suçları için af yasağı uyarınca 5. bendin (f) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "93",
+      "context": "Anayasa m.169 uyarınca 5. bendin (f) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "108",
+      "context": "Anayasa m.169 uyarınca 5. bendin (f) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "110",
+      "context": "Anayasa m.169 uyarınca 5. bendin (f) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+      "law_number": "2863",
+      "article": "68",
+      "context": "5. bendin (g) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "12",
+      "context": "5. bendin (h) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "359",
+      "context": "5. bendin (j) alt bendi kapsamında kapsam dışı bırakılmasına yönelik itirazın reddine oybirliğiyle karar verilmiştir."
+    },
+    {
+      "law": "Terörle Mücadele Kanunu",
+      "law_number": "3713",
+      "article": null,
+      "context": "Şartla salıverme rejimi ve TCK m.313 ile m.243'ün karşılaştırılması bağlamında itiraz gerekçesinde anılmıştır."
+    },
+    {
+      "law": "Basın ve Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4454",
+      "article": "1",
+      "context": "4616 sayılı Yasa'nın 2. maddesinde, AYM tarafından bir bölümü iptal edilen 1. maddesinin yeniden düzenlendiği kanun olarak atıfta bulunulmuştur."
+    },
+    {
+      "law": "Adli Sicil Kanunu (mülga)",
+      "law_number": "3682",
+      "article": null,
+      "context": "Yasak hakların iadesine ilişkin düzenlemeler ve kazanılmış haklar tartışmasında itiraz gerekçesinde anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "Başlangıç",
+      "context": "Anayasanın Başlangıç bölümündeki ilkeler, 4616 sayılı Yasa'nın 1. maddesinin 4. bendinin adil yargılanma hakkına aykırılığı iddiasında dayanak gösterilmiştir."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevlerine ilişkin hüküm, eşitlik ve adil yargılanma iddialarının değerlendirilmesinde gerekçe olarak ileri sürülmüştür."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "11",
+      "context": "Anayasanın bağlayıcılığı ve üstünlüğüne ilişkin hüküm, kapsam dışı bırakılan suçların hukuksal dayanaksızlığı iddiasında atıf yapılan Anayasa kuralları arasındadır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "14",
+      "context": "Temel hak ve hürriyetlerin kötüye kullanılması yasağı; Anayasa m.87 ile birlikte terör eylemleri için af yasağının kapsamının yorumlanmasında esas alınmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Yargı bağımsızlığı ilkesi, yasama organının devam eden davalara müdahale ettiği iddiasıyla 4. bendin iptaline ilişkin gerekçede ileri sürülmüştür."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "3",
+      "context": "İşkence yasağı, TCK m.243'ün 4616 sayılı Yasa kapsamı dışında bırakılmasının değerlendirilmesinde atıf yapılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu (mülga)",
+      "law_number": "1412",
+      "article": "223",
+      "context": "Gıyabi tevkif kararının kapsam dışında bırakılması bağlamında, kararın hukuki sonuçları yönünden anılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu (mülga)",
+      "law_number": "1412",
+      "article": "229",
+      "context": "Gıyabi yakalama ve tevkif usulü kapsamında, 4616 sayılı Yasa'nın 9. bendinin değerlendirilmesinde atıf yapılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu (mülga)",
+      "law_number": "1412",
+      "article": "401",
+      "context": "Cezasını çekmeye gelmeyen veya kaçacağından şüphe edilen hükümlüler hakkında yakalama müzekkeresi öngören hüküm, 9. bentteki bir aylık teslim süresinin elverişsizliği değerlendirmesinde dayanak olmuştur."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "13/2",
+      "context": "Cezaların hesaplanmasına ilişkin hüküm, müebbet ağır hapis hükümlülerinin hak yoksunluğu ve şartla salıverme süreleri değerlendirmesinde anılmıştır."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun (mülga)",
+      "law_number": "647",
+      "article": "1",
+      "context": "1712 sayılı Yasa ile değişik 1. madde, 4616 sayılı Yasa'daki şartla salıverme indiriminin etki alanının belirlenmesinde gerekçe olarak ele alınmıştır."
+    },
+    {
+      "law": "Terörle Mücadele Kanunu",
+      "law_number": "3713",
+      "article": "Geçici 1",
+      "context": "Şartla salıverme rejimine ilişkin geçici 1. madde, TCK m.313'ün kapsam dışı bırakılmasına yönelik itirazın değerlendirilmesinde karşılaştırma noktası olarak anılmıştır."
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi Dördüncü Daire",
+  "case_number": "9580/03",
+  "decision_number": null,
+  "decision_date": "2010-01-26",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": "İşbu karar Sözleşme’nin 44 / 2 maddesinde belirtilen koşullar çerçevesinde kesinleşecek olup şekli bazı düzeltmelere tabi tutulabilir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Başvurunun kabul edilebilir olduğuna, Ek Protokol 1'in 1. maddesinin ve AİHS'nin 6/1 maddesinin ihlal edildiğine, AİHS'nin 41. maddesinin uygulanmasının bu aşamada uygulanamayacağına ve sonuç itibarıyla saklı tutulmasına karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvuranlar"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvuranlar",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Mülkiyet Hakkının ve Adil Yargılanma Hakkının İhlali İddiası",
+  "summary": "Başvuranlar, 1968'de ataları adına tarım arazisi olarak kaydedilen ve 1970'te tescil edilen taşınmazlarının, Orman Genel Müdürlüğü'nün açtığı dava sonucu 1998'de kısmen tapu iptali ve tescil kararıyla mülkiyetlerinden yoksun bırakıldıklarını ve bu sürecin 8 yıldan fazla sürmesi nedeniyle adil yargılanma haklarının ihlal edildiğini iddia etmiştir. Avrupa İnsan Hakları Mahkemesi, mülkiyet hakkına yönelik müdahalenin orantısız olduğunu ve tazminat ödenmediğini belirterek Ek Protokol'ün 1. maddesinin ihlal edildiğine, ayrıca yargılamanın makul süreyi aştığını tespit ederek AİHS'nin 6/1 maddesinin de ihlal edildiğine karar vermiştir. AİHS'nin 41. maddesinin uygulanması ise taraflar arasında uzlaşma ihtimali nedeniyle bu aşamada saklı tutulmuştur.",
+  "keywords": [
+    "mülkiyet hakkı",
+    "adil yargılanma hakkı",
+    "makul süre",
+    "tapu iptali",
+    "kamu yararı",
+    "tazminat",
+    "ek protokol 1 madde 1",
+    "aİhs madde 6",
+    "orman arazisi",
+    "iç hukuk yollarının tüketilmesi"
+  ],
+  "legal_issues": [
+    "Tapu senetlerinin iptal edilmesi suretiyle mülkiyet hakkına yapılan müdahale, kamu yararı olmaksızın ve tazminat ödenmeden gerçekleştirildiğinde orantısız mıdır?",
+    "Yargılama sürecinin uzunluğu AİHS'nin 6/1 maddesinde öngörülen makul süre ilkesini ihlal etmekte midir?",
+    "Mülkiyet hakkına yönelik müdahalenin genel menfaatler çerçevesinde ormanların korunması amacını güttüğü durumlarda, makul bir tazminat ödenmeksizin mülkten yoksun bırakma AİHS Ek Protokol 1 Madde 1 ile bağdaşır mı?",
+    "AİHS'nin 41. maddesi uyarınca tazminata hükmedilmesi için hangi koşullar gereklidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, tapu senetlerinin iptali suretiyle başvurucuların mülkiyet hakkına yapılan müdahalenin Ek Protokol 1 Madde 1'e uygun olup olmadığının değerlendirilmesidir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucuların yargılama sürecinin uzunluğu nedeniyle AİHS'nin 6/1 maddesinde güvence altına alınan adil yargılanma hakkının ihlal edildiği iddiası kararın diğer ana eksenini oluşturmaktadır."
+    },
+    {
+      "concept": "makul süre",
+      "role": "uygulanan",
+      "context_in_reasoning": "AİHS'nin 6/1 maddesi kapsamında, iki dereceli mahkemede sekiz yıldan fazla süren yargılama sürecinin makul süreyi aştığı tespit edilmiştir."
+    },
+    {
+      "concept": "iç hukuk yollarının tüketilmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Hükümetin başvurucuların iç hukuk yollarını tüketmediği savunmasına karşı, AİHM benzer durumlarda bu itirazları reddettiğini belirterek başvurunun kabul edilebilir olduğuna karar vermiştir."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mülkten yoksun bırakma işleminin, genel menfaatler çerçevesinde tabiatın ve ormanların korunması amacını güttüğü kabul edilmiştir."
+    },
+    {
+      "concept": "tazminat",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mülkiyetten yoksun bırakma durumunda makul bir tazminat ödenmemesinin Ek Protokol 1 Madde 1 ile bağdaşmadığı belirtilmiş, ancak 41. maddenin uygulanması bu aşamada saklı tutulmuştur."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "reddedilen",
+      "context_in_reasoning": "Hükümetin, başvurucuların mülkiyet hakkı veya meşru beklentisi olmadığı yönündeki savunması AİHM tarafından reddedilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Tapu senetlerinin iptali suretiyle mülkiyet hakkına yapılan müdahale, kamu yararı olmaksızın ve tazminat ödenmeden gerçekleştirildiğinde Ek Protokol 1 Madde 1'i ihlal eder mi?",
+    "rule": "Ek Protokol 1 Madde 1, mülkten yoksun bırakmanın genel menfaatler çerçevesinde ve yasada öngörülen koşullara uygun olarak gerçekleştirilmesini ve bu durumda makul bir tazminat ödenmesini gerektirir.",
+    "application": "Başvurucuların mülkiyetinden yoksun bırakılması işleminin genel menfaatler çerçevesinde ormanların korunması amacını güttüğü kabul edilse de, makul bir tazminat ödenmemesi Ek Protokol 1 Madde 1'in ihlali anlamına gelmektedir.",
+    "conclusion": "Ek Protokol 1 Madde 1'in ihlal edildiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvuranlar",
+      "Orman Genel Müdürlüğü",
+      "ulusal mahkemeler"
+    ],
+    "context": "Alanya'da bulunan ve başvurucuların ataları adına kayıtlı iki arazinin Orman Genel Müdürlüğü tarafından ormanlık alan olduğu iddiasıyla tapularının iptali istemiyle dava açılması.",
+    "trigger": "Orman Genel Müdürlüğü'nün 1994 yılında söz konusu arazilerin tapularının iptali istemiyle dava açması ve ulusal mahkemelerin tapuları iptal ederek arazilerin bir kısmını Orman Genel Müdürlüğü adına tescil etmesi.",
+    "claim": "Kamu yararı olmaksızın ve tazminat ödenmeden mülkiyet haklarının ihlal edildiği ve yargılamanın uzun sürdüğü iddialarıyla AİHS ve Ek Protokol'ün ilgili maddelerinin ihlal edildiği iddiası."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Alanya Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1994/342",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Tapu iptali ve tescil davasının görüldüğü ilk derece mahkemesi."
+    },
+    {
+      "court": "Alanya Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1994/346",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Tapu iptali ve tescil davasının görüldüğü ilk derece mahkemesi."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1992/11290",
+      "decision_number": "1993/5824",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu sicilindeki ibarelere göre taşınmazların orman arazisi dışında vasıflandırılmasına ilişkin Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararlarını onayan temyiz merci."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Ret",
+      "treatment": null,
+      "context": "Başvuranların karar düzeltme taleplerini reddeden merci."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "2012/1198",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma kriterlerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "44912/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kopecky-Slovakya kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "11841/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özden-Türkiye (no 1) kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "42527/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Prince Hans-Adam II Liechtenstein-Almanya kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39794/989",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gratzingerve Gratzingerova-Çek Cumhuriyeti kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Rimer vd.-Türkiye kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Turgut vd.-Türkiye kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30979/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Frydlender-Fransa kararı."
+    },
+    {
+      "court": "İzmir Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kaydının tutulmasından ileri gelen Devletin objektif sorumluluğu hakkındaki içtihat."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Devletin sorumluluğuna ilişkin İzmir Asliye Hukuk Mahkemesi kararını onayan Yargıtay kararı."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "34",
+      "context": "Bireysel başvuru hakkı; başvuru hakkının dayanağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı; mülkiyet hakkı müdahalesinin orantısızlığı iddiası."
+    },
+    {
+      "law": "Avrupa İnsan Hakları Sözleşmesine Ek Protokol",
+      "law_number": "1",
+      "article": "1",
+      "context": "Mülkiyet hakkı; tapu iptali ve tazminatsız yoksun bırakma iddiaları."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "1007",
+      "context": "Tapu sicilinin tutulmasından doğan Devlet sorumluluğu; tazminat davası yolu."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": null,
+      "context": "Genel hükümler uyarınca tazminat talebi; Hükümetin iç hukuk yolu savunması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Ormanların korunması; kamusal ormanlık alanların özel mülkiyete konu olamayacağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "35",
+      "context": "Başvuruların kabul edilebilirliği; iç hukuk yollarının tüketilmesi ve dayanaktan yoksunluk."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Makul sürede yargılanma hakkı; yargılama sürecinin uzunluğu ihlali."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "41",
+      "context": "Adil tatmin; maddi ve manevi tazminat talepleri ile yargılama giderleri."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": null,
+      "context": "Ormanlık arazi sayılma koşulları; 3166 ve 3373 sayılı yasalarla değişiklikler."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "3166",
+      "article": null,
+      "context": "Taşınmazın orman alanı sayılmasına ilişkin hükümler."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "5658",
+      "article": null,
+      "context": "İmara açık alanlar kapsamına girmeyen taşınmazlar."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "3373",
+      "article": null,
+      "context": "6831 sayılı Kanun'un ormanlık arazi sayılma koşullarını değiştiren hüküm."
+    }
+  ]
+}

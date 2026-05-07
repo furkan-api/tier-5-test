@@ -1,0 +1,611 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2021/2278",
+  "decision_number": null,
+  "decision_date": "2024-01-24",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "İhlal",
+  "decision_outcome_raw": "Mülkiyet hakkının ihlal edildiğine, özel hayata saygı hakkı yönünden inceleme yapılmasına yer olmadığına ve yeniden yargılama yapılmak üzere dosyanın ilgili mahkemeye gönderilmesine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "İdari Hizmet Sözleşmesi ile Atama İşlemi Sonucu Kazanılmış Haklarda Azalma ve İtibar Kaybı İddiası",
+  "summary": "Başvurucu, KOSGEB'de daire başkanı olarak görev yaparken memur kadrosuna atanması sonucu maaşında önemli bir düşüş yaşanması nedeniyle mülkiyet hakkının ihlal edildiğini iddia etmiştir. İdare Mahkemesi ve Bölge İdare Mahkemesi, başvurucunun görevden alınmasını hukuka uygun bulmuş, ancak Anayasa Mahkemesi, yapılan atama işleminin dayanak mevzuatın yorumlanması ve uygulanması açısından ölçülülük ilkesine aykırı olduğuna ve başvurucunun mülkiyet hakkının ihlal edildiğine karar vermiştir. Bu nedenle, ihlalin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere dosyanın ilgili İdare Mahkemesine gönderilmesine hükmedilmiştir.",
+  "keywords": [
+    "mülkiyet hakkı",
+    "özel hayata saygı hakkı",
+    "adil yargılanma hakkı",
+    "idari hizmet sözleşmesi",
+    "atanma işlemi",
+    "kazanılmış haklar",
+    "maaş azalması",
+    "kanunilik",
+    "ölçülülük",
+    "takdir yetkisi",
+    "meşru beklenti"
+  ],
+  "legal_issues": [
+    "İdari hizmet sözleşmesi ile görev yapan personelin atanması sonucu kazanılmış haklarında meydana gelen azalma mülkiyet hakkını ihlal eder mi?",
+    "İdare tarafından yapılan atama işleminin dayanağı olan kanun hükmünün yürürlükten kaldırılması kanunilik ilkesini ihlal eder mi?",
+    "Atama işleminde idarenin takdir yetkisinin kullanımı ve sonuçları ölçülülük ilkesine uygun mudur?",
+    "Mülkiyet hakkının ihlali durumunda yeniden yargılama yapılması hukuki yarar sağlar mı?",
+    "İtibarsızlaştırma iddiası özel hayata saygı hakkı kapsamında incelenmeli midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, idari atama işlemi sonucu başvurucunun uğradığı maddi kaybın mülkiyet hakkı kapsamında değerlendirilmesidir."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurucunun idari hizmet sözleşmesi ve tabi olduğu mevzuat uyarınca aylık ve özlük hakları yönünden meşru bir beklentisinin bulunduğu kabul edilmiştir."
+    },
+    {
+      "concept": "kanunilik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Atama işlemine dayanak gösterilen kanun hükmünün yürürlükten kaldırılmış olması ve yönetmeliğin kanuni dayanağının tartışmalı hale gelmesi kanunilik ilkesi açısından değerlendirilmiştir."
+    },
+    {
+      "concept": "ölçülülük",
+      "role": "tartışılan",
+      "context_in_reasoning": "İdarenin takdir yetkisinin kullanımı sonucu oluşan maaş ve özlük haklarındaki azalmanın, kamu yararı ile bireyin hakkı arasındaki dengeyi bozup bozmadığı ölçülülük ilkesi çerçevesinde incelenmiştir."
+    },
+    {
+      "concept": "idari hizmet sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurucunun KOSGEB ile imzaladığı idari hizmet sözleşmesi ve bu sözleşmenin tabi olduğu mevzuat, başvurucunun personel rejimini ve haklarını belirlemede esas alınmıştır."
+    },
+    {
+      "concept": "takdir yetkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdareye tanınan nakil ve atama konusundaki takdir yetkisinin hukuka ve mevzuata uygun kullanılıp kullanılmadığı denetlenmiştir."
+    },
+    {
+      "concept": "kazanılmış haklar",
+      "role": "uygulanan",
+      "context_in_reasoning": "Atama işlemi sonucunda başvurucunun kazanılmış haklarının ihlal edilip edilmediği, özellikle ücret ve özlük hakları açısından değerlendirilmiştir."
+    },
+    {
+      "concept": "özel hayata saygı hakkı",
+      "role": "reddedilen",
+      "context_in_reasoning": "Mülkiyet hakkının ihlali sonucuna varıldığı için, özel hayata saygı hakkı yönünden ayrıca bir inceleme yapılmasına yer olmadığına karar verilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İdari atama işlemi sonucu başvurucunun aylık ve özlük haklarında meydana gelen azalma mülkiyet hakkını ihlal eder mi?",
+    "rule": "Mülkiyet hakkına müdahalenin Anayasa'ya uygun olabilmesi için kanuna dayanması, kamu yararı amacı taşıması ve ölçülülük ilkesine uygun olması gerekir. İdari işlemin dayanağı olan kanun hükmünün belirsizliği ve yürürlükten kaldırılması, ayrıca yönetmelik hükümlerinin kanuni dayanağını aşar şekilde yorumlanması kanunilik ve ölçülülük ilkeleri açısından sorun teşkil eder.",
+    "application": "KOSGEB'in başvurucuyu memur pozisyonuna atama işlemi, dayanağını oluşturan kanun hükmünün yürürlükten kaldırılması ve yönetmelik hükümlerinin kanuni dayanağını aşar şekilde yorumlanması nedeniyle kanunilik ve ölçülülük ilkeleri açısından sorunludur. Bu durum, başvurucunun aylık ve özlük haklarında önemli bir azalmaya yol açarak mülkiyet hakkının ihlaline neden olmuştur.",
+    "conclusion": "Anayasa'nın 35. maddesinde güvence altına alınan mülkiyet hakkının ihlal edildiğine ve ihlalin sonuçlarının giderilmesi için yeniden yargılama yapılmak üzere dosyanın ilgili mahkemeye gönderilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "idare",
+      "idare mahkemesi",
+      "bölge idare mahkemesi",
+      "danıştay"
+    ],
+    "context": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı (KOSGEB) bünyesinde idari hizmet sözleşmesi ile görev yapan personelin atanması.",
+    "trigger": "Başvurucunun KOSGEB Bilgi Yönetimi ve Karar Destek Dairesi Başkanı ve Basın ve Halkla İlişkiler Müdürü vekili görevlerinden alınarak memur pozisyonuna naklen atanması.",
+    "claim": "Yapılan atama işlemi ile kazanılmış aylık ve diğer özlük haklarında azalmaya ve itibar kaybına neden olunduğu gerekçesiyle mülkiyet ve özel hayata saygı haklarının ihlal edildiği iddiası."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8875",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yeniden yargılama kurumunun özelliklerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/12506",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yeniden yargılama kurumunun özelliklerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2020/32949",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yeniden yargılama kurumunun özelliklerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/382",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkı menfaatinin varlığını değerlendiren emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/539",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkı menfaatinin varlığını değerlendiren emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkına müdahale türlerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/95",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/111",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin alt ilkelerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/16",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin alt ilkelerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/13863",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3044",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının usuli güvencelerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1734",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının usuli güvencelerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/2250",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yönetmeliklerin kanunilik denetimini içeren emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamını belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamını belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/636",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1178",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/13478",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5660",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/845",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/17510",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1246",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1301",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/6192",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1239",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu yararı kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/6151",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu yararı kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/111",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/16",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/13863",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesini düzenleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3044",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının usuli güvencelerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1734",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının usuli güvencelerini belirleyen emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/2250",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yönetmeliklerin kanunilik denetimini içeren emsal AYM kararı."
+    },
+    {
+      "court": "Danıştay İkinci Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/12958",
+      "decision_number": "2019/27533",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KOSGEB personel atamalarına ilişkin emsal Danıştay kararı."
+    },
+    {
+      "court": "Danıştay İkinci Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2020/2098",
+      "decision_number": "2021/707",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KOSGEB personel atamalarına ilişkin emsal Danıştay kararı."
+    },
+    {
+      "court": "Danıştay İkinci Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/5204",
+      "decision_number": "2019/4170",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KOSGEB personel atamalarına ilişkin emsal Danıştay kararı."
+    },
+    {
+      "court": "Danıştay İkinci Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/34",
+      "decision_number": "2023/2863",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KOSGEB personel atamalarına ilişkin emsal Danıştay kararı."
+    },
+    {
+      "court": "Ankara 15. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2017/1599",
+      "decision_number": "2018/1740",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvurucunun iptal davasına bakan ilk derece mahkemesi."
+    },
+    {
+      "court": "Ankara Bölge İdare Mahkemesi 1. İdari Dava Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvurucunun istinaf talebini reddeden mahkeme."
+    },
+    {
+      "court": "Danıştay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvurucunun temyiz isteğini reddeden ve kararı onayan mahkeme."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": "9",
+      "context": "İcra Komitesinin Görevleri kenar başlıklı mülga madde; personel rejimi düzenlemeleri."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": "13",
+      "context": "Personel Rejimi kenar başlıklı mülga madde; idari hizmet sözleşmesi ile istihdam ve ücret hükümleri."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": "18",
+      "context": "Uygulanmayacak Hükümler ve Öncelik kenar başlıklı mülga madde; personel hakkında 657 sayılı Kanun'un uygulanmayacağı."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": "77",
+      "context": "3624 sayılı Kanun'un ilgili maddelerinin yürürlükten kaldırılması."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": "geçici 16",
+      "context": "Değişiklik yapılan kanunların ilgili maddeleri gereğince yürürlüğe konulan tüzük, yönetmeliklerin geçerliliğini sürdürmesi."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "7",
+      "context": "İstihdam Kaynakları başlıklı madde; personel istihdam usulleri."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "48",
+      "context": "Nakil başlıklı madde; personelin naklen atanabilmesi."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "49",
+      "context": "Ücret başlıklı madde; personele ödenecek ücretler."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "85",
+      "context": "Kazanılmış Haklar başlıklı madde; personelin kazanılmış haklarının saklılığı."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "49",
+      "context": "İdare ve vergi mahkemelerinin nihai kararlarının temyizen bozulma sebepleri."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "50",
+      "context": "Danıştay'ın bozma kararına uyulduğu takdirde temyiz incelemesinin kapsamı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkı; kazanılmış haklar ve meşru beklenti."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; kanunilik, meşru amaç ve ölçülülük ilkeleri."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal halinde yeniden yargılama ve giderim usulü."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": null,
+      "context": "Personel rejimi ve disiplin hükümleri."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi İkinci Bölüm",
+  "case_number": "58811/18",
+  "decision_number": null,
+  "decision_date": "2023-10-10",
+  "decision_type": "Kabul Edilebilirlik",
+  "is_final": true,
+  "finality_basis": "AİHM Dairelerinin kabul edilebilirlik kararları kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "ret"
+    }
+  ],
+  "subject": "Milletvekili seçimlerinde adaylık başvurusunun reddedilmesi",
+  "keywords": [
+    "milletvekili seçimi",
+    "adaylık",
+    "hak yoksunluğu",
+    "Yüksek Seçim Kurulu",
+    "Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi",
+    "terör örgütüne üyelik",
+    "5352 sayılı kanun 13/A",
+    "Türk Ceza Kanunu 53",
+    "seçilme hakkı",
+    "kanunla öngörülebilirlik",
+    "keyfilik yasağı",
+    "orantılılık ilkesi"
+  ],
+  "legal_issues": [
+    "Milletvekili seçimlerinde adaylık için aranan hak yoksunluğunun giderilmesi şartları ulusal mevzuatta öngörülebilir ve erişilebilir midir?",
+    "Yüksek Seçim Kurulu'nun, TCK m.53'e göre verilen bir mahkeme kararını 5352 sayılı Kanun m.13/A kapsamında yasaklanmış hakların iadesine ilişkin bir karar olarak kabul etmemesi keyfi midir?",
+    "Seçilme hakkına getirilen kısıtlamalar, Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi kapsamında orantılı mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "seçilme hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucunun milletvekili seçimlerinde aday olma hakkının kısıtlanması, kararın temel inceleme konusunu oluşturmaktadır."
+    },
+    {
+      "concept": "yasaklanmış hakların geri verilmesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Ulusal mevzuattaki yasaklanmış hakların geri verilmesi mekanizmasının yorumu ve uygulanması kararın merkezindedir."
+    },
+    {
+      "concept": "kanunla öngörülebilirlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "AİHM, YSK'nın adaylık koşullarını belirleyen kararlarının kanunla öngörülebilir ve erişilebilir olduğunu değerlendirmiştir."
+    },
+    {
+      "concept": "keyfilik yasağı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkeme, YSK'nın kararının keyfi olup olmadığını inceleyerek, yerleşik içtihadı nedeniyle keyfi olmadığı sonucuna varmıştır."
+    },
+    {
+      "concept": "orantılılık ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Seçilme hakkına getirilen kısıtlamaların meşru bir amaç güdüp gütmediği ve orantılı olup olmadığı değerlendirilmiştir."
+    },
+    {
+      "concept": "açıkça dayanaktan yoksunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurunun, Sözleşme'nin 35. maddesinin 3. fıkrasının a) bendi uyarınca açıkça dayanaktan yoksun olduğu sonucuna varılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Milletvekili seçimlerinde adaylık için aranan hak yoksunluğunun giderilmesi şartları ulusal mevzuatta öngörülebilir ve erişilebilir midir ve YSK'nın bu konudaki kararı keyfi midir?",
+    "rule": "Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi ile güvence altına alınan seçilme hakkı mutlak olmayıp, Devletlerin geniş takdir yetkisiyle sınırlamalara tabidir; ancak bu sınırlamalar kanunla öngörülmeli, orantılı olmalı ve keyfilikten uzak olmalıdır.",
+    "application": "YSK, Anayasa m.76/2 ve 2839 sayılı Kanun m.11 uyarınca terör suçundan hükümlü olanların milletvekili seçilemeyeceğini, ancak 5352 sayılı Kanun m.13/A ile yasaklanmış hakların geri verilmesi mekanizmasıyla bu durumun düzeltilebileceğini belirtmiştir. Başvurucunun sunduğu TCK m.53'e dayalı karar, YSK'nın yerleşik içtihadına göre 5352 sayılı Kanun m.13/A kapsamında yasaklanmış hakların geri verildiğini teyit eden bir karar olarak kabul edilmemiştir. YSK'nın bu yorumu ve uygulaması keyfi bulunmamıştır.",
+    "conclusion": "Başvurucunun milletvekili seçimlerinde adaylık başvurusunun reddedilmesi, kanunla öngörülen ve keyfi olmayan bir uygulamaya dayandığından, Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi kapsamında bir ihlal bulunmamakta ve başvuru açıkça dayanaktan yoksundur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Yüksek Seçim Kurulu",
+      "Diyarbakır Ağır Ceza Mahkemesi",
+      "Halkların Demokratik Partisi"
+    ],
+    "context": "Başvurucu, terör örgütüne yardım etme ve üye olma suçundan mahkumiyetinin ardından cezasını infaz etmiş ve milletvekili seçimlerinde aday olmak istemiştir.",
+    "trigger": "Başvurucunun 24 Haziran 2018 milletvekili seçimlerinde Halkların Demokratik Partisi listesinden yaptığı adaylık başvurusunun Yüksek Seçim Kurulu tarafından reddedilmesi.",
+    "claim": "Başvurucu, aday olma hakkından haksız yere mahrum bırakıldığı iddiasıyla Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesinin ihlal edildiğini ileri sürmüştür."
+  }
+}

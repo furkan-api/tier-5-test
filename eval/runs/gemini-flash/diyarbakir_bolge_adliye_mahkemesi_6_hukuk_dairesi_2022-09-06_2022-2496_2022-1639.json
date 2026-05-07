@@ -1,0 +1,203 @@
+{
+  "file": "diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md",
+  "court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+  "court": "Diyarbakır Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
+  "case_number": "2022/2496",
+  "decision_number": "2022/1639",
+  "decision_date": "2022-09-06",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "6100 sayılı HMK'nın 362/1-a maddesi uyarınca miktar itibarıyla karar kesindir.",
+  "decision_outcome": "Kaldırma ve Yeniden Esas Hakkında Karar",
+  "decision_outcome_raw": "İlk derece mahkemesi kararının kaldırılarak, davanın arabuluculuk dava şartı yokluğundan usulden reddine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Hizmet Alım Sözleşmesinden Kaynaklı Tazminat Talebi",
+  "summary": "Davacı, davalı idare ile akdedilen hizmet alım sözleşmesi kapsamında çalışan bir personelin güvenlik soruşturması olumsuz sonuçlandığı için iş sözleşmesinin feshedilmesi nedeniyle uğradığı zararın tazminini talep etmiştir. İlk derece mahkemesi, davanın adi ortaklık tarafından açılması gerektiği ve davacının tek başına aktif dava ehliyeti bulunmadığı gerekçesiyle usulden reddetmiştir. Bölge Adliye Mahkemesi, ilk derece mahkemesinin bu gerekçesini hukuki bulmamış, ancak davanın ticari dava niteliğinde olduğunu ve dava açılmadan önce arabuluculuğa başvurulmasının zorunlu bir dava şartı olduğunu tespit etmiştir. Davacının arabuluculuk sürecini işletmeden dava açtığı ve bu dava şartının sonradan tamamlanabilir nitelikte olmadığı anlaşıldığından, ilk derece mahkemesi kararını kaldırarak davanın dava şartı yokluğu nedeniyle usulden reddine karar verilmiştir.",
+  "keywords": [
+    "tazminat",
+    "hizmet alım sözleşmesi",
+    "adi ortaklık",
+    "dava şartı",
+    "arabuluculuk",
+    "usulden ret",
+    "ticari dava",
+    "tacir",
+    "kamu düzeni",
+    "aktif dava ehliyeti",
+    "işçilik alacakları",
+    "işe iade"
+  ],
+  "legal_issues": [
+    "Adi ortaklık tarafından açılacak davalarda tüm ortakların birlikte hareket etmesi zorunlu mudur?",
+    "Tarafların tacir olduğu ve ticari işletmeleriyle ilgili olan bir tazminat davası ticari dava niteliğinde midir?",
+    "Konusu bir miktar paranın ödenmesi olan ticari davalarda arabuluculuk dava şartı yerine getirilmeden dava açılması halinde davanın akıbeti ne olmalıdır?",
+    "Arabuluculuk dava şartı noksanlığı sonradan tamamlanabilir nitelikte midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "adi ortaklık",
+      "role": "tartışılan",
+      "context_in_reasoning": "İlk derece mahkemesi, adi ortaklığın tüzel kişiliği bulunmadığından ve aktif dava ehliyeti yokluğundan davanın usulden reddine karar vermiş, Bölge Adliye Mahkemesi ise bu gerekçenin hukuki dayanağını tartışmıştır."
+    },
+    {
+      "concept": "dava şartı arabuluculuk",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davanın konusu bir miktar paranın ödenmesi olan ticari dava niteliğinde olması nedeniyle, dava açılmadan önce arabulucuya başvurulması dava şartı olarak kabul edilmiştir."
+    },
+    {
+      "concept": "ticari dava",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu uyuşmazlık, her iki tarafın da tacir olması ve ticarî işletmeleriyle ilgili olması nedeniyle nispî ticarî dava olarak nitelendirilmiştir."
+    },
+    {
+      "concept": "kamu düzeni",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bölge Adliye Mahkemesi, arabuluculuk dava şartı noksanlığını kamu düzeni gereği resen inceleyerek ilk derece mahkemesi kararını kaldırmıştır."
+    },
+    {
+      "concept": "aktif dava ehliyeti",
+      "role": "tartışılan",
+      "context_in_reasoning": "İlk derece mahkemesi, adi ortaklığın aktif dava ehliyeti yokluğu nedeniyle davanın usulden reddine karar vermiş, ancak Bölge Adliye Mahkemesi bu gerekçeyi hukuki dayanak olarak görmemiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Ticari bir tazminat davasında arabuluculuk dava şartı yerine getirilmeden dava açılması halinde davanın akıbeti ne olmalıdır?",
+    "rule": "6102 sayılı TTK m. 5/A ve 6325 sayılı HUAK m. 18/A(2) hükümleri uyarınca, konusu bir miktar paranın ödenmesi olan ticari davalarda dava açılmadan önce arabulucuya başvurulması dava şartıdır ve bu şartın noksanlığı sonradan tamamlanamaz.",
+    "application": "Davacı taraf, ticari nitelikteki tazminat davasını açmadan önce arabuluculuk sürecini işletmemiş ve bu dava şartı noksanlığı giderilemez nitelikte olduğundan, davanın usulden reddi gerekmektedir.",
+    "conclusion": "İlk derece mahkemesinin kararı kaldırılarak, davanın arabuluculuk dava şartı yokluğundan usulden reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı idare",
+      "iş ortaklığı",
+      "personel"
+    ],
+    "context": "Davacı ile davalı idare arasında akdedilen hizmet alım sözleşmesi kapsamında personel çalıştırılmasına ilişkin bir durum.",
+    "trigger": "Davalı idarenin, sözleşme kapsamındaki personelin belediye şirketine geçişi nedeniyle işçilerin çıkışının yapılması yönündeki bildirimi üzerine bir personelin iş sözleşmesinin feshedilmesi.",
+    "claim": "Davacı, feshedilen personelin güvenlik soruşturması olumsuz sonuçlandığı için işçilik alacakları ve işe iade davalarıyla uğraşması nedeniyle uğradığı zararın davalıdan tahsilini talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Diyarbakır Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Davanın Reddi (Usulden)",
+      "treatment": null,
+      "context": "İstinaf incelemesine konu ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Gaziantep Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Müvekkilin ödeme yaptığı tazminatın dayanağını oluşturan karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/6677",
+      "decision_number": "2013/2768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma hususunda emsal Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12293",
+      "decision_number": "2012/13687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma hususunda emsal Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4739",
+      "decision_number": "2013/6805",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma hususunda emsal Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/2963",
+      "decision_number": "2019/4462",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta taraf teşkili ve hak arama özgürlüğü konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/4572",
+      "decision_number": "2018/4671",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta taraf teşkili ve hak arama özgürlüğü konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/1766",
+      "decision_number": "2019/4883",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta taraf teşkili ve hak arama özgürlüğü konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "1983/323",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu tüzel kişilerinin tacir sayılması hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/3005",
+      "decision_number": "2017/4527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu tüzel kişilerinin tacir sayılması hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1471",
+      "decision_number": "2013/19127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu tüzel kişilerinin tacir sayılması hakkında emsal karar."
+    }
+  ]
+}

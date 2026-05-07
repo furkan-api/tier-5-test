@@ -1,0 +1,80 @@
+{
+  "file": "danistay_iddk_idari_1999_953_1999_889.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İdari Dava Daireleri Kurulu",
+  "case_number": "1999/953",
+  "decision_number": "1999/889",
+  "decision_date": "1999-10-15",
+  "decision_type": "Temyiz",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Temyiz isteminin ehliyet yönünden reddine oybirliği ile karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "Enerji Yapı Yol Sen Sendikası"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "Enerji Yapı Yol Sen Sendikası",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Bakanlar Kurulu Kararının İptali Davasında Temyiz Ehliyeti",
+  "keywords": [
+    "ehliyet",
+    "iptal davası",
+    "temyiz ehliyeti",
+    "taraf olmayan sendika",
+    "idari işlem",
+    "menfaat ilgisi",
+    "bakanlar kurulu kararı",
+    "2577 sayılı yasa"
+  ],
+  "legal_issues": [
+    "İdari işlemin iptali davasında, davada taraf olmayan bir sendikanın temyiz ehliyeti var mıdır?",
+    "İdari işlemin iptali davasında menfaat ilgisi nasıl kurulur?",
+    "Bakanlar Kurulu Kararının iptali istemiyle açılan davada davacının kişisel, meşru ve aktüel bir menfaat ilgisi bulunup bulunmadığı nasıl değerlendirilir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "ehliyet",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, davada taraf olmayan bir sendikanın temyiz ehliyetinin bulunup bulunmadığıdır."
+    },
+    {
+      "concept": "iptal davası",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdari işlemin iptali davasının ancak meşru, kişisel ve güncel menfaat ilgisi bulunanlar tarafından açılabileceği ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "temyiz ehliyeti",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davada taraf olmayan sendikanın temyiz ehliyetinin bulunmadığı tartışılmıştır."
+    },
+    {
+      "concept": "menfaat ilgisi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İdari işlemin iptali istemiyle dava açabilmek için kişisel, meşru ve aktüel bir menfaat ilgisinin gerekliliği yorumlanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davada taraf olmayan bir sendikanın, idari işlemin iptali davasında verilen kararı temyiz etme ehliyeti var mıdır?",
+    "rule": "İdari işlemin iptali davasında, tek taraflı irade açıklamasıyla kesin ve yürütülmesi zorunlu nitelikte tesis edilen idari işlemlerin ancak bu idari işlemle meşru, kişisel ve güncel bir menfaat ilgisi kurulabilenler tarafından iptal davasına konu edilebileceği kabul edilmelidir.",
+    "application": "Davacı, davada taraf olmayan Enerji Yapı Yol Sen Sendikası tarafından temyiz edilen kararla ilgili olarak, davacının sözleşmeli personel olarak çalışması nedeniyle iptalini istediği Bakanlar Kurulu Kararı ile kişisel, meşru ve aktüel bir menfaat ilgisi bulunmadığı gerekçesiyle davanın ehliyet yönünden reddedilmiş olması karşısında, sendikanın temyiz ehliyeti bulunmamaktadır.",
+    "conclusion": "Bu nedenle, temyiz isteminin ehliyet yönünden reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "Enerji Yapı Yol Sen Sendikası",
+      "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "Danıştay Onuncu Dairesi"
+    ],
+    "context": "Bir Bakanlar Kurulu Kararı ile belirli bir bölgede elektrik dağıtım ve ticareti görevi verilmesi ve işletme haklarının devredilmesine ilişkin işlem.",
+    "trigger": "Davacının, sözleşmeli personel olarak çalıştığı kurumla ilgili olduğu iddia edilen Bakanlar Kurulu Kararının iptali istemiyle dava açması ve bu davanın ehliyet yönünden reddedilmesi.",
+    "claim": "Davacının açtığı iptal davasının ehliyet yönünden reddine ilişkin kararın, davada taraf olmayan sendika tarafından temyiz edilmesi."
+  }
+}

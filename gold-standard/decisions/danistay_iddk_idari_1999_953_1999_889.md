@@ -1,0 +1,54 @@
+Danıştay İDDK., E. 1999/953 K. 1999/889 T. 15.10.1999
+T.C. Danıştay Başkanliği - İdari Dava Daireleri Kurulu
+Esas No.: 1999/953
+Karar No.: 1999/889
+Karar tarihi: 15.10.1999
+idare hukukunda dava açabilecekler • iptal davası
+Nalan Terzi
+TÜRK
+İDARE HUKUKUNDA DAVA AÇABİLECEKLER
+İPTAL DAVASI
+2577 S. İDARİ YARGILAMA USULÜ KANUNU Madde 14
+3096 S. TÜRKİYE ELEKTRİK KURUMU DIŞINDAKİ KURULUŞLARIN ... Madde 9
+3096 S. TÜRKİYE ELEKTRİK KURUMU DIŞINDAKİ KURULUŞLARIN ... Madde 3
+3096 S. TÜRKİYE ELEKTRİK KURUMU DIŞINDAKİ KURULUŞLARIN ... Madde 5
+Davada taraf olmayan sendika ve davacıyı temsil etmeyen vekil tarafından düzenlenen temyiz
+dilekçesinin kabul edilemeyeceği, bu nedenle istemin reddi gerektiği savunulmaktadır.
+
+Enerji ve Tabii Kaynaklar Bakanlığının Savunmasının Özeti : Ehliyet ret kararının sendika tarafından
+temyiz edildiği, ilgili sendika davada taraf olmadığından, kararı temyiz etme yetkisinin de bulunmadığı
+belirtilerek temyiz isteminin reddi gerektiği savunulmaktadır.
+Danıştay Tetkik Hakimi : Nalan Terzi
+TÜRK MİLLETİ ADINA
+Hüküm veren Danıştay İdari Dava Daireleri Genel Kurulunca 2577 sayılı Kanunun 14. maddesi gereğince
+ilk inceleme aşamasında Tetkik Hakiminin açıklamaları dinlendikten sonra gereği görüşüldü.
+28.5.1998 günlü. 23355 sayılı Resmi Gazete'de yayımlanan ve .... .... .... .... İllerini Kapsayan 20. görev
+bölgesinde ... Elektrik Dağıtımı San. ve Tic. A.Ş'ne 30 yıl süreyle elektrik dağıtım ve ticareti yapma görevi
+verilmesi, anılan görev bölgesinde kamu kurum ve kuruluşlarınca yapılmış veya yapılacak dağıtım tesislerinin
+işletme haklarının devredilmesi ve adı geçen şirket ile enerji satacak kuruluş arasında 30 yıl süreli enerji satış
+anlaşması yapılmasına ilişkin olarak 3096 sayılı Yasanın 3, 5 ve 9. maddeleri uyarınca çıkarılan 4.5.1998
+günlü, 98/11084 sayılı Bakanlar Kurulu Kararının iptali istemiyle ... tarafından açılan davada: Danıştay
+Onuncu Dairesince verilen ve davanın ehliyet yönünden reddine ilişkin bulunan 15.2.1999 günlü.
+
+E:1998/5643. K:1999/502 sayılı kararı Enerji Yapı Yol Sendikası temyiz etmekte ve bozulmasını istemektedir.
+
+İstemin Özeti : Danıştay Onuncu Dairesince verilen ve davanın ehliyet yönünden reddine ilişkin bulunan
+15.2.1999 günlü E:1998/5643, K:1999/502 sayılı kararı, Enerji Yapı Yol Sen Sendikası temyiz etmekte ve
+bozulmasını istemektedir.
+
+Başbakanlığın Savunmasının Temyiz edilen kararla ilgili dosyanın incelenmesinden: Danıştay Onuncu
+Dairesince, idare hukuku alanında tek taraflı irade açıklamasıyla kesin ve yürütülmesi zorunlu nitelikte tesis
+edilen idari işlemlerin ancak bu idari işlemle meşru, kişisel ve günceldir menfaat ilgisi kurulabilenler tarafından
+iptal davasına konu edilebileceğinin kabulünün zorunlu olduğu, ... TEDAŞ Müessese Müdürlüğünde
+sözleşmeli personel olarak çalışan davacının: .... .... .... ... ve ... illerini kapsayan 20. görev bölgesinde ...
+
+Elektrik Dağıtım Tic. ve San. A.Ş'nin görevlendirilmesine ilişkin Bakanlar Kurulu Kararının iptali istemiyle
+dava açtığı, davacının ... TEDAŞ'ta görevli olması nedeniyle iptalini istediği Bakanlar Kurulu Kararıyla kişisel,
+meşru ve aktüel bir menfaat ilgisi bulunmadığı gerekçesiyle davanın ehliyet yönünden reddine karar verildiği
+ve bu karara karşı davada taraf olmayan Enerji Yapı Yol Sen Sendikası tarafından temyiz isteminde
+bulunulduğu anlaşılmaktadır.
+... tarafından açılan ve Danıştay Onuncu Dairesinin 15.2.1999 günlü, E:1998/5643. K:1999/502 sayılı
+kararı ile ehliyet yönünden reddedilen davada taraf olmayan Enerji Yapı Yol Sen Sendikasının, kararı temyiz
+etme ehliyeti bulunmamaktadır.
+
+Bu nedenle, temyiz isteminin ehliyet yönünden reddine, 15.10.1999 günü oybirliği ile karar verildi.

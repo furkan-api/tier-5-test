@@ -1,0 +1,290 @@
+{
+  "file": "yargitay_yibbgk_hukuk_2016_6_2017_5.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+  "case_number": "2016/6",
+  "decision_number": "2017/5",
+  "decision_date": "2017-12-15",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "İçtihatları birleştirme kararları kesin olup aleyhine yargı yoluna başvurulamaz.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "İşçilik alacaklarının çok değişik tür ve nitelikte uyuşmazlık olarak mahkemeler önüne gelebileceği, her bir somut olayın özelliğine göre mahkemelerin alacağın belirli mi yoksa belirsiz alacak mı olduğunu tespit etmeleri gerektiği, alacağın türü itibariyle bir alacağın belirli veya belirsiz alacak olduğundan söz edilemeyeceği, bu hususta yapılacak içtihadı birleştirmenin, içtihadı birleştirme kararlarının soyut, genel ve her defasında geçerli normatif yapısıyla bağdaşmadığı gerekçeleriyle içtihadı birleştirmeye gerek olmadığına oy birliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı",
+  "keywords": [
+    "işçilik alacakları",
+    "belirsiz alacak davası",
+    "belirli alacak davası",
+    "içtihat farklılığı",
+    "içtihat birleştirme",
+    "hukuk muhakemeleri kanunu",
+    "hmk 107",
+    "kıdem tazminatı",
+    "ihbar tazminatı",
+    "fazla çalışma ücreti",
+    "hak arama özgürlüğü",
+    "usul ekonomisi"
+  ],
+  "legal_issues": [
+    "İşçilik alacakları belirsiz alacak davasına konu edilebilir mi?",
+    "İşçilik alacaklarının belirli veya belirsiz alacak olarak nitelendirilmesinde hangi kriterler esas alınmalıdır?",
+    "İçtihatları Birleştirme Büyük Genel Kurulu'nun işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususundaki görüşü nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "belirsiz alacak davası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağıdır."
+    },
+    {
+      "concept": "işçilik alacakları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kararda, kıdem tazminatı, ihbar tazminatı, yıllık izin ücreti, fazla çalışma, hafta tatili ve genel tatil ücreti gibi işçilik alacaklarının niteliği ve hesaplanma yöntemleri açıklanmıştır."
+    },
+    {
+      "concept": "içtihatı birleştirme",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kararda, içtihatı birleştirme kararlarının soyut, genel ve her defasında geçerli normatif yapısıyla bağdaşmadığı gerekçesiyle bu konuda birleştirme kararı alınmasına gerek olmadığı belirtilmiştir."
+    },
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "tartışılan",
+      "context_in_reasoning": "Belirsiz alacak davasının, hak arama özgürlüğünün önündeki engelleri kaldırmak amacıyla getirildiği gerekçelendirilmiştir."
+    },
+    {
+      "concept": "usul ekonomisi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Belirsiz alacak davasının, gereksiz masraf yapılmasına, ikinci bir dava açılmasına ve çelişik hüküm verilmesine engel olarak usul ekonomisine uygun olduğu belirtilmiştir."
+    },
+    {
+      "concept": "belirli alacak",
+      "role": "uygulanan",
+      "context_in_reasoning": "Alacağın miktarının taraflarca tam ve kesin olarak belirlenebildiği durumlarda belirli alacak olduğu kabul edilmektedir."
+    },
+    {
+      "concept": "somut olayın özelliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "İşçilik alacaklarının belirli veya belirsiz olup olmadığının her somut olayın özelliğine göre değerlendirilmesi gerektiği vurgulanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İşçilik alacakları belirsiz alacak davasına konu edilebilir mi?",
+    "rule": "İşçilik alacaklarının çok değişik tür ve nitelikte uyuşmazlık olarak mahkemeler önüne gelebileceği, aynı tür ve nitelikteki işçilik alacaklarında dahi her defasında alacağın belirli veya belirsiz olmasından söz edilmesinin mümkün olmadığı, her bir somut olayın özelliğine göre mahkemelerin alacağın belirli mi yoksa belirsiz alacak mı olduğunu tespit etmeleri gerektiği, alacağın türü itibariyle bir alacağın belirli veya belirsiz alacak olduğundan söz edilemeyeceği kabul edilmiştir.",
+    "application": "İşçilik alacaklarının niteliği gereği her somut olayın özelliğine göre belirlenmesi gerektiğinden, bu konuda genel ve soyut bir içtihat birleştirme kararı alınmasının, içtihatı birleştirme kararlarının normatif yapısıyla bağdaşmayacağı değerlendirilmiştir.",
+    "conclusion": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususunda içtihadı birleştirme kararı alınmasına gerek bulunmamaktadır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işçi",
+      "işveren",
+      "avukat",
+      "Yargıtay dairesi"
+    ],
+    "context": "Farklı Yargıtay daireleri ve Hukuk Genel Kurulu arasında işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusunda görüş farklılıkları bulunması.",
+    "trigger": "Avukatların, işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususunda Yargıtay daireleri arasındaki çelişkili kararların giderilmesi talebiyle içtihatların birleştirilmesini talep etmeleri.",
+    "claim": "İşçilik alacaklarının belirsiz alacak davasına konu edilip edilemeyeceği konusundaki içtihat farklılıklarının giderilmesi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6541",
+      "decision_number": "10401",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/47206",
+      "decision_number": "2011/39092",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/51609",
+      "decision_number": "2012/1072",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/1757",
+      "decision_number": "2012/5742",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/10344",
+      "decision_number": "28364",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/31734",
+      "decision_number": "2014/35646",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/442",
+      "decision_number": "2014/2051",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/9751",
+      "decision_number": "2014/9687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/32365",
+      "decision_number": "2014/9970",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6867",
+      "decision_number": "2014/9971",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6874",
+      "decision_number": "2014/9975",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6872",
+      "decision_number": "2014/9976",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6869",
+      "decision_number": "2014/9973",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/9-838",
+      "decision_number": "2012/715",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşçilik alacaklarının belirsiz alacak davasına konu olup olmayacağı hakkında görüş."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak ve tespit davası; alacağın miktarını tam ve kesin olarak belirleyememe."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "109",
+      "context": "Kısmi dava; talep konusunun niteliği itibarıyla bölünebilirliği."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119",
+      "context": "Dava dilekçesinin içeriği; talep sonucu zorunlu unsurlardandır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "32",
+      "context": "Ücretin tanımı ve miktarı; kıdem tazminatı hesabında dikkate alınması."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "1",
+      "context": "Kapsam; işyerleri, işverenler ve işçilere uygulanacağı."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "Tanımlar; işçi ve işveren sıfatlarının belirlenmesi."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "8",
+      "context": "İş sözleşmesi; iş görme ve ücret ödeme borcunu içeren sözleşme."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "59",
+      "context": "Yıllık izin ücreti; sözleşmenin sona ermesi halinde kullandırılmayan izinlerin ücreti."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": null,
+      "context": "Sözleşme özgürlüğü ilkesi; emredici normlara aykırı olmamak şartıyla hak ve borçların düzenlenmesi."
+    }
+  ]
+}

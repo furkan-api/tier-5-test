@@ -1,0 +1,85 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md",
+  "cited_court_decisions": [
+    {
+      "court": "Ankara 15. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2017/1599",
+      "decision_number": "2018/1740",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu atama işleminin iptali davasını yapan ilk derece mahkemesi."
+    },
+    {
+      "court": "Ankara Bölge İdare Mahkemesi 1. İdari Dava Dairesi",
+      "cited_court_type": "Bölge İdare Mahkemesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "İstinaf mahkemesi olarak başvurucunun istinaf talebini reddeden mahkeme."
+    },
+    {
+      "court": "Danıştay 19. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Temyiz incelemesinde BAM kararını onamış olan Danıştay dairesi."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/12958",
+      "decision_number": "2019/27533",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personelinin daire başkanlığından müşavirliğe atanmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2020/2098",
+      "decision_number": "2021/707",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB müdürünün KOBİ uzmanı kadrosuna atanmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/34",
+      "decision_number": "2023/2863",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB İnsan Kaynakları Yönetmeliği 48. maddesinin hukuka uygunluğuna ilişkin karar."
+    },
+    {
+      "court": "Ankara 14. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 2. Dairesi 2019/27533 kararında atıf yapılan ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Ankara 9. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 2. Dairesi 2021/707 kararında atıf yapılan ilk derece mahkemesi kararı."
+    }
+  ]
+}

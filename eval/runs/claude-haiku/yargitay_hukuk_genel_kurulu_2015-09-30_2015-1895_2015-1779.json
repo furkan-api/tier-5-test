@@ -1,0 +1,675 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "case_number": "2015/1895",
+  "decision_number": "2015/1779",
+  "decision_date": "2015-09-30",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "Direnme incelemesi sonucu verilen karar kesindir (HMK m.373/5).",
+  "decision_outcome": "Direnme Yerinde Görülmedi",
+  "decision_outcome_raw": "Direnme uygun bulunmuş, dosya bozma nedenine göre incelenmeyen temyiz itirazlarının incelenmesi için 22. Hukuk Dairesine gönderilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Muhalif görüş, alt işverenlik sözleşmesinin muvazaalı olmadığını, 4628 sayılı Elektrik Piyasası Kanunu'nun 15. maddesinin asıl işin tamamının veya bir kısmının alt işverene verilebileceğini düzenlediğini ve bu nedenle davacının asıl işverenin toplu iş sözleşmesinden yararlanamayacağını savunmaktadır.",
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen ret"
+    }
+  ],
+  "subject": "Muvazaalı alt işverenlik ilişkisinden kaynaklanan işçilik alacaklarının tahsili",
+  "summary": "Davacı işçi, bir kamu iktisadi devlet teşekkülünün termik santralında muvazaalı alt işverenlik ilişkisi nedeniyle asıl işveren işçisi olarak kabul edilmesini ve işletme toplu iş sözleşmesinden kaynaklanan işçilik alacaklarının ödenmesini talep etmiştir. İlk derece mahkemesi, alt işverenlik sözleşmelerinin muvazaalı olduğunu, davacının başlangıçtan itibaren asıl işveren işçisi sayılması gerektiğini ve toplu iş sözleşmesinden yararlanması gerektiğini belirterek davayı kabul etmiştir. Yargıtay Hukuk Genel Kurulu, çoğunluk görüşüyle ilk derece mahkemesinin kararını onamış; ancak davalının diğer temyiz itirazlarının incelenmesi için dosyayı 22. Hukuk Dairesine göndermiştir.",
+  "keywords": [
+    "alt işverenlik",
+    "muvazaa",
+    "toplu iş sözleşmesi",
+    "işçilik alacakları",
+    "asıl işveren",
+    "kamu işvereni",
+    "elektrik üretimi",
+    "bakım ve onarım işi",
+    "sendika üyeliği",
+    "hizmet alımı"
+  ],
+  "legal_issues": [
+    "Davalı EÜAŞ ile dava dışı şirketler arasında kurulan alt işverenlik ilişkisi geçerli midir, yoksa muvazaalı mıdır?",
+    "Muvazaalı alt işverenlik ilişkisinde alt işveren işçileri başlangıçtan itibaren asıl işverenin işçisi sayılarak işlem görür mü?",
+    "Alt işveren işçileri asıl işveren tarafından imzalanan toplu iş sözleşmesinden yararlanabilir mi?",
+    "4628 sayılı Elektrik Piyasası Kanunu'nun 15. maddesi, 4857 sayılı İş Kanunu'nun 2. maddesindeki sınırlamalar karşısında uygulanabilir mi?",
+    "Bakım ve onarım işi elektrik üretim işinin asıl işi sayılarak bölünerek alt işverene verilemez mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "muvazaa",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni alt işverenlik ilişkisinin muvazaalı olup olmadığının belirlenmesidir; muvazaa tarafların gerçek iradelerine uymayan görünüş yaratmak hususunda anlaşmalarıdır."
+    },
+    {
+      "concept": "alt işverenlik ilişkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "4857 sayılı İş Kanunu m.2'de tanımlanan alt işverenlik ilişkisinin varlığı ve geçerliliği somut olayda incelenmiş, ilişkinin muvazaalı olup olmadığı değerlendirilmiştir."
+    },
+    {
+      "concept": "asıl işin bölünmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Bakım ve onarım işinin asıl işin bir bölümü olup olmadığı, teknolojik nedenle uzmanlık gerektirip gerektirmediği ve 4628 sayılı Kanun'un 15. maddesi kapsamında verilebilip verilemeyeceği tartışılmıştır."
+    },
+    {
+      "concept": "toplu iş sözleşmesinden yararlanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Geçerli bir alt işverenlik ilişkisinde alt işveren işçisinin asıl işverenin tarafı olduğu toplu iş sözleşmesinden yararlanamayacağı, muvazaalı ilişkide ise yararlanabileceği hüküm altına alınmıştır."
+    },
+    {
+      "concept": "kamu işvereni istisnası",
+      "role": "reddedilen",
+      "context_in_reasoning": "Davalının kamu işvereni olması nedeniyle muvazaa iddiasının uygulanamayacağı savunması, İş Kanunu'nun 2. maddesinin kamu ve özel sektör işverenleri arasında ayrım yapmadığı gerekçesiyle reddedilmiştir."
+    },
+    {
+      "concept": "işçi temini",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Muhalif görüş, ihalelerin işçi temini değil, bakım ve onarım işinin alt işverene verilmesi olduğunu belirtmiş, işçi temini ile alt işverenlik arasında ayrım yapmıştır."
+    },
+    {
+      "concept": "dürüstlük kuralı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davalının kendi muvazaasına dayanarak davacıyı toplu iş sözleşmesinden yararlandırmamak suretiyle maddi menfaat elde etmesi dürüstlük kuralına aykırı bulunmuştur."
+    },
+    {
+      "concept": "özel kanun-genel kanun ilişkisi",
+      "role": "tartışılan",
+      "context_in_reasoning": "4628 sayılı Elektrik Piyasası Kanunu'nun 15. maddesi ile 4857 sayılı İş Kanunu'nun 2. maddesi arasındaki ilişki, özel kanunun uygulanması gerekip gerekmediği tartışılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davalı EÜAŞ ile dava dışı şirketler arasında kurulan alt işverenlik ilişkisi muvazaalı mıdır ve bu durumda davacı işçi asıl işverenin toplu iş sözleşmesinden yararlanabilir mi?",
+    "rule": "4857 sayılı İş Kanunu m.2/7'ye göre, asıl işveren-alt işveren ilişkisinin muvazaalı işleme dayandığı kabul edilerek alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçisi sayılarak işlem görürler. Muvazaa, tarafların gerçek iradelerine uymayan görünüş yaratmak hususunda anlaşmalarıdır. Alt işverenlik ilişkisinin muvazaalı olup olmadığının belirlenmesinde, hukuksal ve ekonomik bağımsızlık, ayrı iş organizasyonu, işçilerin sadece sözleşme kapsamında çalıştırılması, işin yardımcı veya teknolojik nedenle uzmanlık gerektiren iş olması gibi kriterler göz önünde bulundurulur.",
+    "application": "Somut olayda davalı EÜAŞ tarafından imzalanan alt işverenlik sözleşmelerinde çalıştırılacak işçi sayısının sabit olduğu, sadece alt işverenlerin ve sözleşme sürelerinin değiştiği, işçilerin EÜAŞ tarafından belirlendiği, işe alma ve çıkarmanın EÜAŞ tarafından yapıldığı, emir ve talimatların EÜAŞ tarafından verildiği, çalışma şartlarının EÜAŞ tarafından belirlendiği, alt işverenler değişse de işçilerin değişmediği, ihalelerin hizmet ve iş üzerinden değil işçi sayısı üzerinde yapıldığı tespit edilmiştir. Bu nedenle alt işverenlik sözleşmeleri muvazaa nedeniyle geçersiz sayılmıştır.",
+    "conclusion": "Davalının muvazaalı sözleşmeler ile davacıyı alt işverenin işçisi gibi çalıştırdığı, davacının başlangıçtan itibaren EÜAŞ işçisi olduğu ve bu nedenle asıl işverenin tarafı olduğu toplu iş sözleşmesinden yararlanması gerektiği kabul edilerek yerel mahkeme kararının onanması uygun bulunmuştur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işçi",
+      "asıl işveren (EÜAŞ)",
+      "alt işveren",
+      "sendika"
+    ],
+    "context": "Davacı işçi, davalı EÜAŞ'ın Seyitömer Termik Santrali İşletme Müdürlüğü bünyesinde çalışmakta, Türkiye Enerji Su ve Gaz İşçileri Sendikasına üye olmakta, ancak davalı tarafından sendika üyeliği formunun iade edilmesi nedeniyle işletme toplu iş sözleşmesinden yararlandırılmamaktadır.",
+    "trigger": "Davacı işçinin sendika üyeliğinin davalı işveren tarafından reddedilmesi ve toplu iş sözleşmesinden yararlandırılmaması, davalının davacıyı muvazaalı olarak alt işveren işçisi olarak göstermesi nedeniyle ortaya çıkmıştır.",
+    "claim": "Davacı, 13. ve 14. dönem toplu iş sözleşmesinden kaynaklanan taban ücret, yevmiye, ikramiye, iş güçlüğü tazminatı, bakım tazminatı, yemek yardımı, sosyal yardım ve vardiya tazminatından oluşan işçilik alacaklarının işletme kredilerine uygulanan en yüksek faizleri ile birlikte davalıdan tahsil edilmesini talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Kütahya İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2013/774",
+      "decision_number": "2014/215",
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "İlk derece mahkemesinin işçilik alacakları davasında kabulüne karar verdiği karar."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/14949",
+      "decision_number": "2014/18476",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Temyiz incelemesinde ilk derece kararını bozan Yargıtay dairesi kararı."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/23916",
+      "decision_number": "2013/22377",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Benzer alt işverenlik muvazaa davasında aynı sonuca ulaşan emsal karar."
+    },
+    {
+      "court": "Ankara 6. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2579",
+      "decision_number": "2008/1185",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "İhalenin iptali davasında muvazaa olmadığına karar veren idare mahkemesi."
+    },
+    {
+      "court": "Eskişehir İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2886",
+      "decision_number": "2007/1041",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "İhalenin iptali davasında muvazaa olmadığına karar veren idare mahkemesi."
+    },
+    {
+      "court": "Eskişehir İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2885",
+      "decision_number": "2007/1042",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "İhalenin iptali davasında muvazaa olmadığına karar veren idare mahkemesi."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47847",
+      "decision_number": "2009/37770",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47846",
+      "decision_number": "2009/37769",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47845",
+      "decision_number": "2009/37768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/12940",
+      "decision_number": "2012/4925",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/42282",
+      "decision_number": "2010/6655",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/36961",
+      "decision_number": "2009/25309",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/36960",
+      "decision_number": "2009/25308",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/197",
+      "decision_number": "2011/8936",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/243",
+      "decision_number": "2011/12061",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işverenlerin değişmesine rağmen işçilerin değişmemesinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20739",
+      "decision_number": "2009/20513",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşçi değiştirilmesi talebinin işçi çıkarma yetkisini göstermediğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20737",
+      "decision_number": "2009/20511",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşçi değiştirilmesi talebinin işçi çıkarma yetkisini göstermediğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20734",
+      "decision_number": "2009/20508",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşçi değiştirilmesi talebinin işçi çıkarma yetkisini göstermediğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45644",
+      "decision_number": "2009/37728",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren işçilerinin işe alınması, çıkarılması ve emir talimatında asıl işverenin yetkisinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45643",
+      "decision_number": "2009/37727",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren işçilerinin işe alınması, çıkarılması ve emir talimatında asıl işverenin yetkisinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45642",
+      "decision_number": "2009/37726",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren işçilerinin işe alınması, çıkarılması ve emir talimatında asıl işverenin yetkisinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45641",
+      "decision_number": "2009/37725",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren işçilerinin işe alınması, çıkarılması ve emir talimatında asıl işverenin yetkisinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45640",
+      "decision_number": "2009/37724",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren işçilerinin işe alınması, çıkarılması ve emir talimatında asıl işverenin yetkisinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45639",
+      "decision_number": "2009/37723",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren işçilerinin işe alınması, çıkarılması ve emir talimatında asıl işverenin yetkisinin muvazaa olmadığını belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/38532",
+      "decision_number": "2009/29752",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi ve sorumluluğunun alt işverenlik sözleşmesini muvazaalı hale getirmediğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/38530",
+      "decision_number": "2009/29750",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi ve sorumluluğunun alt işverenlik sözleşmesini muvazaalı hale getirmediğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/12836",
+      "decision_number": "2014/8253",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi ve sorumluluğunun alt işverenlik sözleşmesini muvazaalı hale getirmediğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/31057",
+      "decision_number": "2010/30927",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediye kanununa dayanarak asıl işin bölünerek alt işverene verilebileceğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/31056",
+      "decision_number": "2010/30926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediye kanununa dayanarak asıl işin bölünerek alt işverene verilebileceğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/18381",
+      "decision_number": "2010/10119",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediye kanununa dayanarak asıl işin bölünerek alt işverene verilebileceğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/21339",
+      "decision_number": "2010/13483",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediye kanununa dayanarak asıl işin bölünerek alt işverene verilebileceğini belirten emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/23098",
+      "decision_number": "2010/19449",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediye kanununa dayanarak asıl işin bölünerek alt işverene verilebileceğini belirten emsal karar."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "Alt işverenlik ilişkisinin tanımı ve muvazaa yaptırımı; asıl işin bölünmesi sınırlamaları."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/6",
+      "context": "Asıl işveren-alt işveren ilişkisinde asıl işverenin sorumluluğu; işçilerin sadece aldığı işte çalıştırılması."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/7",
+      "context": "Muvazaa halinde alt işveren işçilerinin başlangıçtan itibaren asıl işverenin işçisi sayılması."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/8",
+      "context": "Kamu kurumlarında hizmet alımı yoluyla çalıştırılanların toplu iş sözleşmesinden yararlanma sınırlaması."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/9",
+      "context": "Kamu kurumlarında hizmet alımı sözleşmelerine konulamayacak hükümler; işçi belirleme ve işten çıkarma yetkisi."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "4",
+      "context": "İş Kanununun istisnalar; kamu kurumlarının bazı hükümlerden muaf olması."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "5",
+      "context": "Eşit davranma ilkesi; aynı işi yapan işçilere eşit ücret ödenmesi."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "19",
+      "context": "Muvazaa tanımı; tarafların gerçek iradesi esas alınır."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "2",
+      "context": "Dürüstlük kuralı; hakkın kötüye kullanılması korunamaz."
+    },
+    {
+      "law": "Elektrik Piyasası Düzenleme Kurumunun Teşkilat Ve Görevleri Hakkında Kanun",
+      "law_number": "4628",
+      "article": "15",
+      "context": "Kamu tüzel kişilerinin hizmet alımı yoluyla bakım onarım işlerini yaptırabileceği; asıl işin bölünmesi."
+    },
+    {
+      "law": "Kamu İhale Kanunu",
+      "law_number": "4734",
+      "article": null,
+      "context": "Kamu kurumlarının ihale mevzuatına tabi olması; hizmet alımı sözleşmeleri."
+    },
+    {
+      "law": "Kamu İhale Sözleşmeleri Kanunu",
+      "law_number": "4735",
+      "article": "20",
+      "context": "Sözleşme fesih hükümleri; yüklenicinin işe başlamaması durumunda."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "233",
+      "article": null,
+      "context": "EÜAŞ'ın iktisadi devlet teşekkülü olarak kurulması ve elektrik üretim görevleri."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "4",
+      "context": "Kamu hizmetlerinin memurlar, sözleşmeli personel, geçici personel ve işçiler eliyle görülmesi."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "5",
+      "context": "Kamu kurumlarının belirtilen dört istihdam şekli dışında personel çalıştıramayacağı."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "36/III-2",
+      "context": "Sağlık hizmetlerinin hizmet alımı yoluyla yaptırılabilmesi; asıl işin bölünmesi."
+    },
+    {
+      "law": "Belediye Kanunu",
+      "law_number": "5393",
+      "article": "67",
+      "context": "Belediyelerin asıl işlerini hizmet alımı yoluyla yaptırabileceği; alt işverenlik."
+    },
+    {
+      "law": "Karayolları Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun",
+      "law_number": "6001",
+      "article": "4",
+      "context": "Karayolları Genel Müdürlüğünün asli işlerini hizmet alımı yoluyla yaptırabileceği."
+    },
+    {
+      "law": "Posta Kanunu",
+      "law_number": "5584",
+      "article": "10",
+      "context": "Posta hizmetlerinin hizmet alımı yoluyla yaptırılabilmesi; asıl işin bölünmesi."
+    },
+    {
+      "law": "Posta Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "5893",
+      "article": "1",
+      "context": "Posta hizmetlerinin hizmet alımı yoluyla yaptırılmasına ilişkin değişiklik."
+    },
+    {
+      "law": "Kanun Hükmünde Kararname",
+      "law_number": "5538",
+      "article": "18",
+      "context": "İş Kanunu 2. maddesine eklenen fıkralar; kamu kurumlarında hizmet alımı sınırlamaları."
+    },
+    {
+      "law": "Enerji Piyasası Düzenleme Kurumunun Teşkilat Ve Görevleri Hakkında Kanun",
+      "law_number": "6446",
+      "article": "30",
+      "context": "4628 sayılı Kanunun 15. maddesinin yürürlükten kaldırılması; yeni hizmet alımı düzenlemesi."
+    },
+    {
+      "law": "İş Sağlığı ve Güvenliği Kanunu",
+      "law_number": "6331",
+      "article": "4/1-b",
+      "context": "İşverenin iş sağlığı ve güvenliği tedbirlerini izlemesi, denetlemesi ve uygunsuzlukları gidermesi."
+    },
+    {
+      "law": "İş Sağlığı ve Güvenliği Kanunu",
+      "law_number": "6331",
+      "article": "22",
+      "context": "İş sağlığı ve güvenliği kurulu oluşturulması; asıl işveren-alt işveren ilişkisinde koordinasyon."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "266/1",
+      "context": "Bilirkişi görüşü alınması; hukuk dışında özel veya teknik bilgi gerektiren haller."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "279/4",
+      "context": "Bilirkişinin hukuki değerlendirmelerde bulunamayacağı; teknik görüş sınırlaması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "2",
+      "context": "Devletin temel amaç ve görevleri; sosyal hukuk devleti ilkesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; kişilerin refah ve mutluluğu."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Eşitlik ilkesi; kanun önünde eşitlik."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "47",
+      "context": "Kamu hizmetlerinin özel hukuk sözleşmeleri ile üçüncü kişilere yaptırılabilmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "55",
+      "context": "Ücrette adalet sağlanması; eşit işe eşit ücret."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "56",
+      "context": "Devletin sağlık hizmetlerini düzenlemesi ve sağlık kuruluşlarını planlaması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "128",
+      "context": "Kamu hizmetlerinin memurlar ve kamu görevlileri eliyle görülmesi; asli ve sürekli görevler."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "3",
+      "context": "Muvazaa tanımı; asıl işin bölünmesi ve işçi haklarının kısıtlanması."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "4",
+      "context": "Alt işveren-asıl işveren ilişkisinin kurulma şartları."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "10",
+      "context": "Alt işverenlik sözleşmesinde yer alması gereken hususlar; belge ve sertifikalar."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "11",
+      "context": "Teknolojik nedenle uzmanlık gerektiren işin tanımı; asıl işin bölünmesi şartları."
+    },
+    {
+      "law": "Alt İşverenlik Yönetmeliği",
+      "law_number": null,
+      "article": "12",
+      "context": "Muvazaa incelemesinde göz önünde bulundurulacak hususlar; değerlendirme kriterleri."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı; sürpriz karar yasağı."
+    },
+    {
+      "law": "Çalışma Şartları (Kamu Sözleşmeleri) Sözleşmesi",
+      "law_number": "94",
+      "article": "1",
+      "context": "ILO Sözleşmesi; alt işveren işçilerinin toplu iş sözleşmesinden yararlanması."
+    },
+    {
+      "law": "Çalışma Şartları (Kamu Sözleşmeleri) Sözleşmesi",
+      "law_number": "94",
+      "article": "2",
+      "context": "ILO Sözleşmesi; çalışma şartlarının belirlenmesi ve toplu iş sözleşmesi hükümleri."
+    }
+  ]
+}

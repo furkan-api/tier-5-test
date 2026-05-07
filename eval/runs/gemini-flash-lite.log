@@ -1,0 +1,120 @@
+INFO: [metadata] to_process=29  skipped=0  prompt=extract_metadata.md
+INFO: [metadata] Native Gemini backend (model=gemini-2.5-flash-lite)
+INFO: [metadata] [process] aihm_2010-01-26_9580-03.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      aihm_2010-01-26_9580-03.md -> aihm_2010-01-26_9580-03.metadata.json (11.2s)
+INFO: [metadata] [process] aihm_2023-10-10_58811-18.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      aihm_2023-10-10_58811-18.md -> aihm_2023-10-10_58811-18.metadata.json (11.9s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md -> anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.metadata.json (12.3s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md -> anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.metadata.json (9.3s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md -> anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.metadata.json (12.9s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md -> anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.metadata.json (10.2s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md -> anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.metadata.json (10.0s)
+INFO: [metadata] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_5_daire_2022-03-07_2017-6736_2022-748.md -> danistay_5_daire_2022-03-07_2017-6736_2022-748.metadata.json (17.1s)
+INFO: [metadata] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_6_daire_2021-12-27_2018-5135_2021-14464.md -> danistay_6_daire_2021-12-27_2018-5135_2021-14464.metadata.json (19.1s)
+INFO: [metadata] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_ibk_idari_2021_6_2022_2.md -> danistay_ibk_idari_2021_6_2022_2.metadata.json (9.3s)
+INFO: [metadata] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md -> danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.metadata.json (11.8s)
+INFO: [metadata] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_iddk_idari_1999_953_1999_889.md -> danistay_iddk_idari_1999_953_1999_889.metadata.json (6.1s)
+INFO: [metadata] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md -> danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.metadata.json (24.5s)
+INFO: [metadata] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md -> danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.metadata.json (22.5s)
+INFO: [metadata] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md -> diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.metadata.json (11.5s)
+INFO: [metadata] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+ERROR: [metadata] [error]   istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+INFO: [metadata] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md -> istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.metadata.json (9.3s)
+INFO: [metadata] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md -> istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.metadata.json (6.8s)
+INFO: [metadata] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+ERROR: [metadata] [error]   istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+INFO: [metadata] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md -> kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.metadata.json (12.1s)
+INFO: [metadata] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      uyusmazlik_2003-06-16_2002-18_2003-32.md -> uyusmazlik_2003-06-16_2002-18_2003-32.metadata.json (18.4s)
+INFO: [metadata] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md -> yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.metadata.json (15.0s)
+INFO: [metadata] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md -> yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.metadata.json (15.7s)
+INFO: [metadata] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md -> yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.metadata.json (13.8s)
+INFO: [metadata] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md -> yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.metadata.json (11.7s)
+INFO: [metadata] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md -> yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.metadata.json (9.5s)
+INFO: [metadata] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md -> yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.metadata.json (9.1s)
+INFO: [metadata] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_ibhgk_hukuk_1974_1_1974_2.md -> yargitay_ibhgk_hukuk_1974_1_1974_2.metadata.json (11.0s)
+INFO: [metadata] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: AFC is enabled with max remote calls: 10.
+INFO: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_yibbgk_hukuk_2016_6_2017_5.md -> yargitay_yibbgk_hukuk_2016_6_2017_5.metadata.json (8.6s)
+INFO: [metadata] Done — ok=27 truncated=0 invalid_json=0 errors=2 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).

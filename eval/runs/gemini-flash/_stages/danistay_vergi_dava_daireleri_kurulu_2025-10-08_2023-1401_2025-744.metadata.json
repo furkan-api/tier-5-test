@@ -1,0 +1,95 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Vergi Dava Daireleri Kurulu",
+  "case_number": "2023/1401",
+  "decision_number": "2025/744",
+  "decision_date": "2025-10-08",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "Danıştay Vergi Dava Daireleri Kurulu'nun direnme incelemesi kararları kesindir.",
+  "decision_outcome": "Direnme Yerinde Görülmedi",
+  "decision_outcome_raw": "Bölge İdare Mahkemesi Vergi Dava Dairesinin ısrar kararının bozulmasına oy çokluğuyla kesin olarak karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Temyiz dilekçesindeki iddiaların ısrar kararının bozulmasını gerektirecek nitelikte olmadığı ve istemin reddi gerektiği yönünde karşı oy kullanılmıştır.",
+  "appellants": [
+    "davalı idare"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı idare",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Yapı ruhsatında büro olarak görünen ancak fiilen konut olarak kullanılan taşınmaz teslimlerinde indirimli KDV oranı uygulanıp uygulanamayacağı ve KDV iadesi talebinin reddi işleminin iptali.",
+  "keywords": [
+    "katma değer vergisi",
+    "kdv oranı",
+    "indirimli oran",
+    "konut teslimi",
+    "iş yeri",
+    "büro",
+    "yapı ruhsatı",
+    "yapı kullanma izin belgesi",
+    "tapu sicili",
+    "fiili kullanım",
+    "hukuki durum",
+    "özelge",
+    "vergi iadesi"
+  ],
+  "legal_issues": [
+    "Yapı ruhsatında iş yeri olarak nitelendirilen ancak fiilen konut olarak inşa edilip kullanılan taşınmazların teslimlerinde indirimli KDV oranı uygulanabilir mi?",
+    "KDV oranının belirlenmesinde taşınmazın fiili kullanım durumu mu, yoksa resmi belgelerdeki hukuki nitelendirmesi mi esas alınmalıdır?",
+    "Vergi idaresince verilen özelgenin, sonradan değişen idari görüş veya yargı içtihadı karşısında mükellef için bağlayıcılığı nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "konut teslimi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, yapı ruhsatında iş yeri olarak görünen ancak fiilen konut olarak kullanılan taşınmazların KDV oranının belirlenmesinde konut teslimi sayılıp sayılmayacağıdır."
+    },
+    {
+      "concept": "katma değer vergisi oranı",
+      "role": "uygulanan",
+      "context_in_reasoning": "3065 sayılı KDV Kanunu'nun 28. maddesi ve 2007/13033 sayılı Bakanlar Kurulu Kararı ile belirlenen KDV oranlarının uygulanma esasları incelenmiştir."
+    },
+    {
+      "concept": "fiili kullanım esası",
+      "role": "reddedilen",
+      "context_in_reasoning": "KDV oranının belirlenmesinde mal ve hizmetlerin fiili kullanımlarına göre farklılaştırma yapılmasının mümkün olmadığı belirtilerek bu esas reddedilmiştir."
+    },
+    {
+      "concept": "hukuki durum",
+      "role": "uygulanan",
+      "context_in_reasoning": "Taşınmaz teslimlerinde uygulanacak KDV oranının belirlenmesinde, taşınmazın vergiyi doğuran olayın gerçekleştiği tarihteki hukuki durumu esas alınmıştır."
+    },
+    {
+      "concept": "özelge",
+      "role": "tartışılan",
+      "context_in_reasoning": "Vergi idaresince verilen özelgenin bilgilendirici nitelikte olduğu ve bağlayıcılığının bulunmadığı, ancak vergi ziyaı cezası ve gecikme faizi hesaplanmayacağı belirtilmiştir."
+    },
+    {
+      "concept": "lafzi yorum",
+      "role": "uygulanan",
+      "context_in_reasoning": "213 sayılı Vergi Usul Kanunu'nun 3. maddesi uyarınca 'konut' ifadesinin anlamı lafzi yorum yöntemiyle belirlenmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Yapı ruhsatında iş yeri olarak nitelendirilen ancak fiilen konut olarak inşa edilip kullanılan taşınmazların teslimlerinde indirimli KDV oranı uygulanabilir mi?",
+    "rule": "3065 sayılı KDV Kanunu'nun 28. maddesi ve 2007/13033 sayılı Bakanlar Kurulu Kararı'na göre, KDV oranının belirlenmesinde taşınmazın fiili kullanım durumu değil, yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilindeki hukuki nitelendirmesi esas alınır. 'Konut' ifadesi, resmi belgelerde konut olarak kayıtlı bağımsız bölümleri ifade eder.",
+    "application": "Olayda, davacı tarafından inşa edilen taşınmazlar yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilinde 'büro-ofis-iş yeri' olarak nitelendirilmiştir. Bu hukuki duruma rağmen fiilen konut olarak kullanılması, indirimli KDV oranı uygulanmasını gerektirmez. Vergi idaresince verilen özelge ise bilgilendirici nitelikte olup bağlayıcı değildir.",
+    "conclusion": "Hukuki durumu itibarıyla konut niteliğinde olmayan taşınmazların fiilen konut olarak kullanılması, indirimli KDV oranı uygulanması sonucunu doğurmayacağından, KDV iade talebinin reddine ilişkin işlemde hukuka aykırılık bulunmamaktadır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı şirket",
+      "davalı idare",
+      "vergi mahkemesi",
+      "bölge idare mahkemesi"
+    ],
+    "context": "Davacı şirket tarafından Ankara'da net alanı 150 m² altında olan ve tapu senedinde 'arsa', bağımsız bölümlerinde 'büro' niteliği taşıyan taşınmazların kat irtifakı tesis edilerek 'konut' olarak inşa edilmesi ve satılması.",
+    "trigger": "Davacı şirketin, fiilen konut olarak satılan bu bağımsız bölümler nedeniyle yüklenilen KDV'nin indirimli oran üzerinden iadesi talebinin vergi idaresi tarafından reddedilmesi.",
+    "claim": "Davacı şirketin, KDV iade talebinin reddine dair işlemin iptali ve iadeye konu verginin tecil faiziyle birlikte iadesi istemiyle dava açması."
+  }
+}

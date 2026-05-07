@@ -1,0 +1,85 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Mahkemeye erişim hakkının ihlal edildiği gerekçesiyle yeniden yargılama için gönderilen karar."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/10774",
+      "decision_number": "2015/10298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Taşınmaz satış vaadi sözleşmelerinde güncellenmiş bedel ödenmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/5689",
+      "decision_number": "2017/7082",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış bedelinin tamamı ödenmediyse güncellenmiş bedelin depo edilmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/14923",
+      "decision_number": "2014/2015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış bedelinin ödenmediği takdirde güncellenmiş bedelin depo edilmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/8956",
+      "decision_number": "2015/9538",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış bedelinin ödenmediği takdirde güncellenmiş bedelin depo edilmesi gerektiği içtihadı."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/12/2013 tarihli karar ile mahkeme kararının onanması."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-692",
+      "decision_number": "2006/702",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmazın rayiç bedeli üzerinden alınması gerektiği kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-91",
+      "decision_number": "2006/115",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmazın rayiç bedeli üzerinden alınması gerektiği kararı."
+    }
+  ]
+}

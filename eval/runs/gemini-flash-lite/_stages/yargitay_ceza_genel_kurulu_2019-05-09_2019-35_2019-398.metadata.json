@@ -1,0 +1,112 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Ceza Genel Kurulu",
+  "case_number": "2019/35",
+  "decision_number": "2019/398",
+  "decision_date": "2019-05-09",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Yargıtay Cumhuriyet Başsavcılığının itirazının değişik gerekçeyle kabulüne, Özel Daire onama kararının kaldırılmasına ve sanığın infazının durdurulmasına ve tahliyesine, başka bir suçtan hükümlü veya tutuklu olmadığı takdirde derhal salıverilmesi için yazı yazılmasına karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Beş Genel Kurul Üyesi, Aile, Çalışma ve Sosyal Hizmetler Bakanlığının sanık hakkında açılan kamu davasından haberdar edilmesinin zorunlu olmadığı düşüncesiyle çoğunluk görüşüne katılmamıştır. Üç Genel Kurul Üyesi ise sanığın tahliye edilmesine yer olmadığı görüşüyle çoğunluk görüşüne katılmamıştır.",
+  "appellants": [
+    "sanık müdafisi",
+    "Yargıtay Cumhuriyet Başsavcılığı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "sanık müdafisi",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "Yargıtay Cumhuriyet Başsavcılığı",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Çocuğun Cinsel İstismarı ve Sarkıntılık Suçu Ayrımı, Ruh Sağlığı Raporunun Yeterliliği ve Bakanlığın Davaya Katılma Hakkı",
+  "keywords": [
+    "çocuğun cinsel istismarı",
+    "sarkıntılık suçu",
+    "lehe kanun uygulaması",
+    "ruh sağlığı raporu",
+    "adli tıp kurumu",
+    "bakanlığın davaya katılma hakkı",
+    "hak arama özgürlüğü",
+    "kanun yolu",
+    "temyiz süresi",
+    "yakalama kararı",
+    "tahliye"
+  ],
+  "legal_issues": [
+    "Sanığın eylemi çocuğun basit cinsel istismarı suçunu mu yoksa sarkıntılık suçunu mu oluşturmaktadır?",
+    "Mağdurenin ruh sağlığının bozulduğuna ilişkin rapor hüküm kurmak için yeterli midir?",
+    "6284 sayılı Kanun uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının kamu davasına katılma hakkı bulunmakta mıdır?",
+    "Bakanlığın davadan haberdar edilmemesi ve katılma hakkının kullandırılmaması hukuka aykırılık teşkil eder mi?",
+    "Usulüne uygun tebliğ yapılmadan verilen onama kararının hukuki sonucu ne olur ve sanığın tahliyesi gerekir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "çocuğun basit cinsel istismarı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel uyuşmazlıklarından biri, sanığın eyleminin TCK'nın 103/1-1. cümlesinde yer alan çocuğun basit cinsel istismarı suçunu mu yoksa TCK'nın 103/1-2. cümlesinde düzenlenen sarkıntılık suçunu mu oluşturduğudur."
+    },
+    {
+      "concept": "sarkıntılık suçu",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel uyuşmazlıklarından biri, sanığın eyleminin TCK'nın 103/1-1. cümlesinde yer alan çocuğun basit cinsel istismarı suçunu mu yoksa TCK'nın 103/1-2. cümlesinde düzenlenen sarkıntılık suçunu mu oluşturduğudur."
+    },
+    {
+      "concept": "lehe kanun uygulaması",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sanık hakkında 6545 sayılı Kanun ile yapılan değişiklikler sonrası lehe olan hükmün uygulanması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "ruh sağlığı raporu",
+      "role": "tartışılan",
+      "context_in_reasoning": "Mağdurenin ruh sağlığının bozulduğuna ilişkin raporun hüküm kurmak için yeterli olup olmadığı tartışılmıştır."
+    },
+    {
+      "concept": "bakanlığın davaya katılma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "6284 sayılı Kanun'un 20/2. maddesi uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının kamu davasına katılma hakkı bulunduğu ve bu hakkın kullandırılmasının zorunlu olduğu tartışılmıştır."
+    },
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bakanlığın davaya katılma hakkının, Anayasanın 36. ve 40. maddelerinde güvence altına alınan hak arama özgürlüğü ile yakından ilişkili olduğu belirtilmiştir."
+    },
+    {
+      "concept": "kanun yolu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Usulüne uygun tebliğ yapılmadan verilen onama kararının hukuki sonuç doğurmayacağı ve kanun yolu hakkının ihlal edildiği gerekçesiyle karar kaldırılmıştır."
+    },
+    {
+      "concept": "pozitif ayrımcılık",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kadınlara ve çocuklara yönelik şiddetle mücadelede pozitif ayrımcılık ilkesinin Anayasa ve uluslararası sözleşmelerle benimsendiği ve Bakanlığın katılma hakkının bu ilke kapsamında değerlendirildiği belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sanık hakkında açılan kamu davasına katılma hakkı bulunan Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davadan haberdar edilmesi zorunlu mudur ve bu hakkın kullandırılmaması hukuka aykırılık teşkil eder mi?",
+    "rule": "6284 sayılı Kanun'un 20/2. maddesi ile Uygulama Yönetmeliği'nin 46. maddesi uyarınca Bakanlığın kamu davasına katılma hakkı bulunmaktadır; CMK'nın 234. maddesi uyarınca mağdur ve şikayetçinin duruşmadan haberdar edilme hakkı vardır; bu hak kullandırılmadan verilen hükümlerin temyiz incelemesi yapılmadan kesinleşmesi mümkün değildir.",
+    "application": "Somut olayda Bakanlığın davadan haberdar edilmemesi ve katılma hakkının kullandırılmaması suretiyle CMK'nın 234. maddesi ile 6284 sayılı Kanun'un ihlal edildiği, bu nedenle usulüne uygun tebliğ yapılmadan verilen onama kararının hukuki değer taşımadığı ve sanığın tahliyesinin gerektiği değerlendirilmiştir.",
+    "conclusion": "Yargıtay Cumhuriyet Başsavcılığının itirazının değişik gerekçeyle kabulüne, Özel Daire onama kararının kaldırılmasına, sanığın infazının durdurulmasına ve tahliyesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "sanık",
+      "mağdure",
+      "Yerel Mahkeme",
+      "Yargıtay 14. Ceza Dairesi",
+      "Yargıtay Cumhuriyet Başsavcılığı",
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı"
+    ],
+    "context": "Sanık hakkında mağdureye karşı çocuğun basit cinsel istismarı suçundan açılan kamu davası.",
+    "trigger": "Sanığın tutuksuz yargılanırken hükmün kesinleştiği inancıyla çıkartılan yakalama kararı üzerine ceza infaz kurumuna alınması ve Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davadan haberdar edilmemesi.",
+    "claim": "Sanığın eyleminin sarkıntılık suçu mu olduğu, ruh sağlığı raporunun yeterliliği ve Bakanlığın davaya katılma hakkının değerlendirilmesi ile sanığın tahliyesi talebi."
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "cited_court_decisions": [
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/82",
+      "decision_number": "2014/100",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Askeri hakim subaylar hakkında disiplin cezası verilmesiyle ilgili iptal kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/22169",
+      "decision_number": "2017/12778",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Darbe teşebbüsü şüphelilerinden komiser yardımcısının telefon mesajlarını içeren karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/89",
+      "decision_number": "2019/84",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İltisak ve irtibat kavramlarının tanımını yapan karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/29347",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ imamlarının ankesörlü telefonlarla iletişimini suç belirtisi kabul eden karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "2873/17",
+      "decision_number": "2017-03-07",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yargı mensupları için Danıştay'da dava açma imkanını iç hukuk yolu sayan karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "13710/88",
+      "decision_number": "1992-12-16",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mesleki faaliyetlerin özel hayata saygı hakkı kapsamında olduğunu belirten karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "21794/93",
+      "decision_number": "1996-08-07",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireylerin ilişki kurma hakkının özel hayata saygı hakkına dahil olduğunu belirten karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55480/00",
+      "decision_number": "2004-07-27",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu çalışanlarının devlete sadakat yükümlülüğünü belirten karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "5310/71",
+      "decision_number": "1978-01-18",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ulusun yaşamından sorumlu devlete takdir marjı tanıyan karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/16.MD-956",
+      "decision_number": "2017/370",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün atipik/suigeneris bir terör örgütü olduğunu belirten karar."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/3",
+      "decision_number": "2017/3",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/43",
+      "decision_number": "2020/11",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sıkıyönetim Mahkemeleri Görevlendirme Listesi'nin amacını belirten karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/48",
+      "decision_number": "2020/30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün askeri yargı mahrem yapılanmasına ilişkin değerlendirmeler."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/5526",
+      "decision_number": "2019/6842",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün ankesörlü/sabit hatlardan iletişim yöntemini belirten karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/44",
+      "decision_number": "2019/167",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün ankesörlü/sabit hatlardan iletişim yöntemini belirten karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2020/9.MD-67",
+      "decision_number": "2021/372",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ankesörlü/sabit hatlardan yapılan aramaların hukuki niteliği ve delil değeri."
+    },
+    {
+      "court": "Danıştay 5. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/8196",
+      "decision_number": "2016/4066",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "667 sayılı KHK uyarınca meslekten çıkarma kararlarının olağanüstü tedbir niteliği."
+    },
+    {
+      "court": "Mardin 1. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2018/54",
+      "decision_number": "2018/2159",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu yargılamayı yapan ilk derece idare mahkemesi."
+    },
+    {
+      "court": "Danıştay Onikinci Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu yargılamada üst mahkeme sıfatıyla yer almıştır."
+    }
+  ]
+}

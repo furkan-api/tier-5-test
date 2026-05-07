@@ -1,0 +1,59 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md",
+  "cited_law_articles": [
+    {
+      "law": "4857 sayılı İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "Alt işverenlik ilişkisinin tanımı, muvazaa yaptırımı ve asıl işin bölünmesi."
+    },
+    {
+      "law": "4628 sayılı Elektrik Piyasası Kanunu",
+      "law_number": "4628",
+      "article": "15",
+      "context": "Kamu tüzel kişilerinin hizmet alımı yoluyla üretim, iletim ve dağıtım işlerini yaptırabilmesi."
+    },
+    {
+      "law": "6098 sayılı Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "19",
+      "context": "Sözleşmelerde muvazaa hallerinde tarafların gerçek iradesinin esas alınması."
+    },
+    {
+      "law": "233 sayılı Kanun Hükmünde Kararname",
+      "law_number": "233",
+      "article": null,
+      "context": "İktisadi devlet teşekküllerinin hukuki statüsü ve faaliyetleri."
+    },
+    {
+      "law": "4734 sayılı Kamu İhale Kanunu",
+      "law_number": "4734",
+      "article": null,
+      "context": "Kamu kurumlarının hizmet alımı ihalelerine ilişkin genel düzenlemeler."
+    },
+    {
+      "law": "5538 sayılı Kanun",
+      "law_number": "5538",
+      "article": "18",
+      "context": "Kamu kurumlarında hizmet alımı yoluyla çalıştırılanların toplu iş sözleşmesinden yararlanamayacağına dair düzenleme."
+    },
+    {
+      "law": "4721 sayılı Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "2",
+      "context": "Dürüstlük kuralı ve hakkın kötüye kullanılmasının korunmaması."
+    },
+    {
+      "law": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+      "law_number": "6331",
+      "article": null,
+      "context": "İşverenin iş sağlığı ve güvenliği yükümlülükleri ve denetim yetkisi."
+    },
+    {
+      "law": "6446 sayılı Kanun",
+      "law_number": "6446",
+      "article": "30",
+      "context": "Enerji Piyasası Düzenleme Kurumu'nun yetkileri ve hizmet alımı düzenlemeleri."
+    }
+  ]
+}

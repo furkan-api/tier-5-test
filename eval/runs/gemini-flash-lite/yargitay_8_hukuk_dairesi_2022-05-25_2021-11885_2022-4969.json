@@ -1,0 +1,448 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/11885",
+  "decision_number": "2022/4969",
+  "decision_date": "2022-05-25",
+  "decision_type": "Temyiz",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Davacı-davalı İdaresi, davalı Hazine, asli müdahiller vekillerinin temyiz itirazları kabul edilerek hükmün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy yazısında, tapu kayıtlarının geçerli olduğu, sınırlarının gayri sabit hudutlu olsa da zemine uygulanabilir olduğu, önceki Yargıtay kararları ve Hukuk Genel Kurulu kararları doğrultusunda tapu kayıtlarının miktarıyla kapsamının belirlenmesi gerektiği, mahkemenin eksik inceleme yaptığı ve davanın reddedilmesinin doğru olmadığı belirtilmiştir.",
+  "appellants": [
+    "davacı-davalı İdaresi",
+    "davalı Hazine",
+    "asli müdahil",
+    "asli müdahil",
+    "asli müdahil",
+    "asli müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı-davalı İdaresi",
+      "result": "null"
+    },
+    {
+      "role": "davalı Hazine",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "null"
+    }
+  ],
+  "subject": "Kadastro tespitine itiraz davasında çiftlik tapu kayıtlarının uygulanması ve kapsamının belirlenmesi",
+  "keywords": [
+    "kadastro tespiti itiraz",
+    "çiftlik tapu kayıtları",
+    "sınırların belirlenmesi",
+    "miktarla uygulama",
+    "gayri sabit hudut",
+    "zilyetlik",
+    "orman tahdidi",
+    "devletleştirme",
+    "tapu iptali",
+    "ecrimisil",
+    "bozma kararı",
+    "kadastro kanunu"
+  ],
+  "legal_issues": [
+    "Çiftlik tapu kayıtlarının gayri sabit hudutlu olması durumunda 3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca miktarıyla mı, yoksa zemindeki sabit hudutlarla mı uygulama yapılacağı?",
+    "Tapu kayıtlarının kapsamının belirlenmesinde, devletleştirilen orman alanları, kamulaştırılan yerler ve tapu malikleri adına kesinleşen parsellerin dikkate alınması gerekliliği.",
+    "Tapu kayıtlarının geçerliliği ve zemine uygulanabilirliği konusunda bilirkişi raporları arasındaki çelişkilerin giderilmesi.",
+    "Arazi Kanunnamesinin 20 ve 78. maddeleri ile 3402 sayılı Kadastro Kanunu'nun 14, 17 ve 18. maddeleri uyarınca zilyetlikle kazanım şartlarının gerçekleşip gerçekleşmediğinin tespiti.",
+    "Dava konusu taşınmazların tapu kayıtlarının miktarıyla uyumlu olup olmadığının belirlenmesi."
+  ],
+  "legal_concepts": [
+    {
+      "concept": "kadastro tespiti itiraz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Dava, kadastro tespitine itiraz üzerine açılmış olup, uyuşmazlığın temelini tapu kayıtlarının zemine uygulanması ve kapsamının belirlenmesi oluşturmaktadır."
+    },
+    {
+      "concept": "çiftlik tapu kayıtları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacılar, Hisarönü, Ergös ve Söğüt mevkilerindeki çiftlik tapu kayıtlarına dayanarak mülkiyet iddiasında bulunmaktadırlar."
+    },
+    {
+      "concept": "gayri sabit hudut",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tapu kayıtlarındaki sınırların mevki, dağ, dere gibi gayri sabit nitelikte olması, uygulamanın miktarla mı yoksa zemindeki hudutlarla mı yapılacağı hususunda tartışmalara yol açmıştır."
+    },
+    {
+      "concept": "miktarla uygulama",
+      "role": "uygulanan",
+      "context_in_reasoning": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi gereğince, gayri sabit hudutlu tapu kayıtlarında miktara itibar edilmesi gerektiği görüşü tartışılmıştır."
+    },
+    {
+      "concept": "zilyetlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu taşınmazlar üzerindeki zilyetlik iddiaları, özellikle Arazi Kanunnamesi ve 3402 sayılı Kadastro Kanunu'nun ilgili maddeleri çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "devletleştirme",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu kayıtları kapsamında kalan alanların 4785 sayılı Kanun uyarınca devletleştirilen ormanlar olduğu ve bu durumun kapsam tayininde dikkate alınması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "kesin hüküm",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Daha önceki davalarda verilen kesinleşmiş kararların, eldeki davada tapu kayıtlarının geçerliliği ve uygulanabilirliği konusunda dikkate alınması gerektiği tartışılmıştır."
+    },
+    {
+      "concept": "bilirkişi raporu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkemece alınan bilirkişi raporları ve bu raporlar arasındaki çelişkiler, davanın çözümünde önemli bir rol oynamıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Kadastro tespitine itiraz davasında, gayri sabit hudutlu çiftlik tapu kayıtlarının zemine uygulanması ve kapsamının nasıl belirleneceği.",
+    "rule": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca, harita, plan ve krokiye dayanmayan, değişebilir ve genişletilmeye elverişli sınırlara sahip tapu kayıtlarında miktara itibar olunur. Ancak, bu kayıtların fizik yapıları ve konumları itibarıyla belli bir yeri kapsıyorsa, tespit o sınır esas alınarak yapılır. Yargıtay uygulamaları, sabit hudutlardan başlanarak miktarla kapsam tayin edilmesini öngörmektedir.",
+    "application": "Dava konusu Hisarönü ve Ergös mevkilerindeki çiftlik tapu kayıtlarının sınırlarının gayri sabit nitelikte olduğu, zeminde sabit bir sınır bulunmadığı ve bu sınırların geniş alanları ifade ettiği, bu nedenle miktarıyla kapsam tayininin mümkün olmadığı değerlendirilmiştir. Söğüt mevkili tapu kaydının ise, tapu malikleri adına kesinleşen parsellerin varlığı dikkate alınarak kapsamının belirlenmesi gerektiği ancak bu konuda da eksik inceleme yapıldığı belirtilmiştir.",
+    "conclusion": "Tapu kayıtlarının miktarıyla kapsamının belirlenmesinde sabit sınırların bulunmaması ve bilirkişi raporları arasındaki çelişkiler nedeniyle, mahkemece yapılan inceleme ve uygulamanın eksik olduğu, bu nedenle hükmün bozulmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı",
+      "müdahil",
+      "kadastro mahkemesi",
+      "Yargıtay"
+    ],
+    "context": "Kadastro tespitine itiraz davasında, davacılar ve müdahillerin dayandığı eski çiftlik tapu kayıtlarının zemine uygulanması ve kapsamının belirlenmesi uyuşmazlık konusudur.",
+    "trigger": "Kadastro tespitine itiraz edilmesi ve tapu kayıtlarının zemine uygulanmasında yaşanan sorunlar.",
+    "claim": "Davacılar ve müdahiller, dayandıkları çiftlik tapu kayıtlarının dava konusu taşınmazları kapsadığının tespiti ve adlarına tescilini talep etmektedirler."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay (Kapatılan) 20. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Mahkemece verilen önceki kararın bozulmasına ilişkin ilam."
+    },
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2005/9404",
+      "decision_number": "2007/2923",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Katılanın dava dilekçesinde 1. sıradaki taşınmazlara ilişkin davasının reddine dair verilen kararın onanması."
+    },
+    {
+      "court": "Yargıtay (Kapatılan) 16. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Çiftlik tapu kayıtlarının maliki ile davacılar arasında ırsi bağ bulunduğu yönündeki istikrarlı görüşü."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1580",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1183",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/1625",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/3022",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/3023",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/3024",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/3025",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih nitelikte olduğu ve çiftlik tapularının zilyetlikle kazanılabileceği yönündeki vurgusu."
+    },
+    {
+      "court": "Yargıtay 8. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1994/7430",
+      "decision_number": "1995/1073",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali davasının temyiz itirazlarının süre yönünden reddedilerek kesinleşmesi."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2002/1795",
+      "decision_number": "2002/4523",
+      "relation": "referenced",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İstimlak edilen fazla kısmın davacılar adına tespit ve tesciline dair kararın onanması."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/709",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/710",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/782",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/783",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/784",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/785",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/786",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/787",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/788",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu kayıtlarının miktarı ile geçerli olduğu ve uygulanması gerektiği yönündeki bozma kararı."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Tapulama Kanunu",
+      "law_number": "766",
+      "article": "20",
+      "context": "Arazi Kanunnamesinin yürürlükten kaldırılmadığı, parselin niteliği ve malikinin re'sen belirlenmesi gerektiği."
+    },
+    {
+      "law": "Tapulama Kanunu",
+      "law_number": "766",
+      "article": "78",
+      "context": "Arazi Kanunnamesinin yürürlükten kaldırılmadığı, parselin niteliği ve malikinin re'sen belirlenmesi gerektiği."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "30/2",
+      "context": "Parselin niteliğinin ve malikinin re'sen belirlenmesi gerektiği."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/C",
+      "context": "Tapu kayıtlarında belirtilen hudutların değişebilir gayrimuayyen olması nedeniyle miktarına itibar edilerek saptanacağı."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20",
+      "context": "Tapu kayıtlarının sabit sınırla bağlantısı kesilmemek suretiyle uygulanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "21",
+      "context": "Tapu kayıtlarının sabit sınırla bağlantısı kesilmemek suretiyle uygulanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/B",
+      "context": "Niza gününe kadar kayıt sahibinin kullanımı var ise tapu kaydına değer verilmesi."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "14",
+      "context": "Zilyetlikle kazanım şartlarının oluşup oluşmadığının saptanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "17",
+      "context": "Zilyetlikle kazanım şartlarının oluşup oluşmadığının saptanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "18",
+      "context": "Zilyetlikle kazanım şartlarının oluşup oluşmadığının saptanması."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": null,
+      "context": "Arazi Kanunnamesinin Medeni Kanuna aykırı olmayan hükümlerinin yürürlükte olduğu kabulü."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "20",
+      "context": "Zilyetlikle kazanılabileceği kabulü; gayrisahih vakıf niteliğinde olduğu."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "78",
+      "context": "Zilyetlikle kazanılabileceği kabulü; gayrisahih vakıf niteliğinde olduğu."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": null,
+      "context": "Makul sürede yargılanma hakkı ihlali."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal halinde manevi tazminat ödenmesi."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": null,
+      "context": "Tazminatın tahsili."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": "440/I",
+      "context": "Karar düzeltme isteğinde bulunulabileceği."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "file": "diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md",
+  "court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+  "court": "Diyarbakır Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
+  "case_number": "2022/2496",
+  "decision_number": "2022/1639",
+  "decision_date": "2022-09-06",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "6100 sayılı HMK'nın 362(1)-a maddesi uyarınca miktar itibarıyla kesin olmak üzere karar verildi.",
+  "decision_outcome": "Usulden Ret",
+  "decision_outcome_raw": "Davacı tarafından açılan davanın dava şartı yokluğundan usulden reddine karar verilmiştir.",
+  "vote_unanimity": "oy birliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Hizmet Alım Sözleşmesinden Kaynaklanan Tazminat İsteminin Dava Şartı Yokluğu Nedeniyle Reddinin İstinafı",
+  "keywords": [
+    "istinaf",
+    "tazminat",
+    "adi ortaklık",
+    "taraf ehliyeti",
+    "dava şartı",
+    "arabuluculuk",
+    "ticari dava",
+    "görevli mahkeme",
+    "usulden ret"
+  ],
+  "legal_issues": [
+    "Adi ortaklık tarafından tek başına dava açılabilir mi?",
+    "Adi ortaklık ilişkisinde dava açma yetkisi nasıl belirlenir?",
+    "Tazminat talepli bir uyuşmazlık ticari dava niteliğinde midir?",
+    "Ticari davalarda dava şartı olarak arabuluculuk sürecinin işletilmemesi halinde davanın usulden reddi gerekir mi?",
+    "Dava şartı yokluğunun giderilmesi için kesin süre verilebilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "adi ortaklık",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, adi ortaklığın tüzel kişiliğinin olmaması ve bu nedenle davaların tüm ortaklar tarafından birlikte açılması gerekliliği üzerinedir."
+    },
+    {
+      "concept": "mecburi dava arkadaşlığı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Adi ortaklık ilişkisinden doğan davalarda, ortakların maddi hukuka göre birlikte hareket etme zorunluluğu nedeniyle mecburi dava arkadaşlığı bulunduğu kabul edilmiştir."
+    },
+    {
+      "concept": "dava şartı yokluğu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Arabuluculuk sürecinin dava açılmadan önce işletilmemesi, ticari davalar için bir dava şartı yokluğu sebebi olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "arabuluculuk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Ticari davalarda dava şartı olarak arabuluculuğa başvurulması gerektiği ve bu şartın yerine getirilmemesi halinde davanın usulden reddedileceği belirtilmiştir."
+    },
+    {
+      "concept": "ticari dava",
+      "role": "tartışılan",
+      "context_in_reasoning": "Uyuşmazlığın taraflarının tacir olması ve işin ticari işletmeyle ilgili olması nedeniyle davanın nispî ticari dava niteliğinde olduğu tartışılmıştır."
+    },
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Mecburi dava arkadaşlığı ve dava şartı yokluğu hallerinde, diğer ortakların davaya katılımını sağlamak üzere süre verilmesinin hak arama özgürlüğünün Anayasa m.36'ya uygun yorumu olduğu belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Adi ortaklık ilişkisinden kaynaklanan tazminat davasında, davacı tarafın tek başına dava açması ve dava şartı olan arabuluculuk sürecini işletmemesi durumunda ne gibi hukuki sonuçlar doğar?",
+    "rule": "Adi ortaklığın tüzel kişiliği olmadığından, davaların tüm ortaklar tarafından birlikte açılması gerekir; aksi halde mahkemece diğer ortakların katılımı için süre verilir. Ayrıca, ticari davalarda dava açılmadan önce arabulucuya başvurulması dava şartıdır ve bu şartın yerine getirilmemesi halinde dava usulden reddedilir.",
+    "application": "Davacı taraf, adi ortaklık ilişkisi nedeniyle tek başına dava açmış ve dava şartı olan arabuluculuk sürecini işletmeden dava açmıştır. Bu durum, hem taraf teşkili hem de dava şartı yokluğu nedeniyle davanın usulden reddini gerektirmektedir.",
+    "conclusion": "İlk derece mahkemesinin kararının kaldırılarak, davanın dava şartı yokluğu nedeniyle usulden reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı idare",
+      "iş ortaklığı",
+      "işçi"
+    ],
+    "context": "Taraflar arasında imzalanan bir hizmet alım sözleşmesinden kaynaklanan tazminat istemi.",
+    "trigger": "Davalı idarenin, sözleşme kapsamında çalışan işçilerin belediye şirketi bünyesine geçişi nedeniyle davacının işçisinin iş sözleşmesini feshetmesi ve bu durumun davacıda zarara yol açtığı iddiası.",
+    "claim": "Davacının, uğradığı zararın ticari faiziyle birlikte davalıdan tahsilini talep etmesi."
+  }
+}

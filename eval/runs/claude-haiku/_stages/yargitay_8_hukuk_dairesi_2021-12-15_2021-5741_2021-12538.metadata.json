@@ -1,0 +1,98 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/5741",
+  "decision_number": "2021/12538",
+  "decision_date": "2021-12-15",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Temyiz incelemesi sonucu bozma kararı verilmiş ve hüküm bu suretle kesinleşmiştir.",
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Yerel mahkeme hükmünün 1086 sayılı HUMK'un 428. maddesi gereğince bozulmasına ve müdahil avukatına avukatlık ücreti ödenmesine oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Muhalif görüş, çiftlik tapu kayıtlarının miktarıyla geçerli olup zemine uygulanabilir nitelikte bulunduğunu, tapu maliklerinin asli zilyet konumunda olduğunu ve dava dosyalarının birleştirilmek suretiyle yeniden keşif yapılması gerektiğini belirtmiştir.",
+  "appellants": [
+    "müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "müdahil",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Kadastro tespitine itiraz davası kapsamında çiftlik tapu kayıtlarının kapsamının belirlenmesi ve taşınmazın tesciline ilişkin uyuşmazlık",
+  "keywords": [
+    "çiftlik tapu kayıtları",
+    "kadastro tespiti",
+    "gayri sabit hudutlu tapu",
+    "miktarıyla geçerlilik",
+    "3402 sayılı kadastro kanunu",
+    "arazi kanunnamesinin 20 ve 78 maddeleri",
+    "zilyetlikle kazanma",
+    "devletleştirilen orman alanları",
+    "tapu uygulaması",
+    "kapsam tayini"
+  ],
+  "legal_issues": [
+    "Gayri sabit hudutlu çiftlik tapu kayıtlarına 3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca miktarıyla kapsam tayin edilebilir mi?",
+    "Çiftlik tapu kayıtlarının sınırlarının tamamının gayri sabit hudutlu olması ve sabit bir sınırın bulunmaması durumunda tapu kayıtlarına hukuki kapsam tayin edilmesi mümkün müdür?",
+    "Tapu maliklerinin 1936 yılında düzenlenen tahrir vergi kayıtları, zilyetlik iradesinin devam ettirildiğine dair karine oluşturur mu?",
+    "Devletleştirilen orman alanları düşüldükten sonra kalan bölümün tapu kayıtlarının kapsamında kaldığının tespiti için hangi yöntem izlenmelidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "gayri sabit hudutlu tapu kayıtları",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, sınırları mevki ve dağ isimleriyle belirtilen çiftlik tapu kayıtlarının gayri sabit hudutlu olması nedeniyle miktarıyla geçerli olup olmadığı ve bu kayıtlara kapsam tayin edilip edilemeyeceğidir."
+    },
+    {
+      "concept": "3402 sayılı kadastro kanunu 20/c maddesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Gayri sabit hudutlu tapu kayıtlarında sınırlar değişebilir ve genişletilmeye elverişli nitelikte ise miktara itibar olunacağı hükmü uygulanmıştır."
+    },
+    {
+      "concept": "arazi kanunnamesinin 20 ve 78 maddeleri",
+      "role": "tartışılan",
+      "context_in_reasoning": "Miri arazi niteliğindeki taşınmazlarda zilyetlikle kazanma hükümlerinin uygulanıp uygulanmayacağı tartışılmıştır."
+    },
+    {
+      "concept": "zilyetlikle kazanma",
+      "role": "reddedilen",
+      "context_in_reasoning": "Tapu maliklerinin çekişmeli taşınmazlar üzerinde 1936 yılından 2007 yılına kadar sürdürülen bir zilyetliğinin bulunmadığı gerekçesiyle zilyetlikle kazanma hükümlerinin uygulanmayacağı belirtilmiştir."
+    },
+    {
+      "concept": "devletleştirilen orman alanları",
+      "role": "uygulanan",
+      "context_in_reasoning": "4785 sayılı Yasa uyarınca devletleştirilen orman alanlarının tapu kayıtlarının yüzölçümünden düşülmesi gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "kütük zilyetliği",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tapu kaydında kayıtlı bulunmanın zilyetliği devam ettirip ettirmediği konusu tartışılmıştır."
+    },
+    {
+      "concept": "tahrir vergi kayıtları",
+      "role": "tartışılan",
+      "context_in_reasoning": "1936 yılında düzenlenen tahrir vergi kayıtlarının zilyetlik iradesinin devam ettirildiğine dair karine oluşturup oluşturmadığı tartışılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Gayri sabit hudutlu çiftlik tapu kayıtlarına 3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca miktarıyla kapsam tayin edilebilir mi ve dava konusu taşınmaz bu kayıtların kapsamında kalmakta mıdır?",
+    "rule": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca harita, plan ve krokiye dayanmayan kayıt ve belgelerde belirtilen sınırlar değişebilir ve genişletilmeye elverişli nitelikte ise miktara itibar olunur. Ancak tapu kayıtlarına miktarıyla kapsam tayin edilebilmesi için birbiriyle çakışan sabit hudutların bulunması gerekir.",
+    "application": "Davacıların dayandığı çiftlik tapu kayıtlarının sınırlarının tamamının gayri sabit hudutlu olup, bu sınırlar arasında kullanılması mümkün olmayan deniz, dağ, dere, orman gibi yerlerin bulunması ve ortada sabit sayılabilecek tek bir sınırın dahi bulunmaması nedeniyle, tapu kayıtlarına miktarıyla geçerli olacak şekilde kapsam tayin edilmesi mümkün bulunmamaktadır.",
+    "conclusion": "Dava konusu taşınmazın davacılar ve müdahil tarafından dayandıkları çiftlik tapu kayıtlarının kapsamında kaldığının ispat edilemediği gerekçesiyle davalarının reddine karar verilmesi gerekmektedir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı",
+      "müdahil şirket",
+      "idare"
+    ],
+    "context": "Çiftlik tapu kayıtlarına dayalı olarak el atmanın önlenmesi ve tescil davası açılan taşınmazın kadastro tespiti sırasında malik hanesi açık bırakılarak tespit edilmiş olması.",
+    "trigger": "2007 yılında yapılan kadastro çalışmasında dava konusu taşınmazın tarla niteliğiyle tespit edilmesi ve davalı olması nedeniyle malik hanesi açık bırakılması.",
+    "claim": "Davacılar ve müdahil tarafından çiftlik tapu kayıtlarına dayalı olarak dava konusu taşınmazın kendilerine tesciline ilişkin talep."
+  }
+}

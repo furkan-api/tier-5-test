@@ -1,0 +1,200 @@
+{
+  "file": "uyusmazlik_2003-06-16_2002-18_2003-32.md",
+  "court_type": "Uyuşmazlık Mahkemesi",
+  "court": "Uyuşmazlık Mahkemesi",
+  "case_number": "2002/18",
+  "decision_number": "2003/32",
+  "decision_date": "2003-06-16",
+  "decision_type": "Hüküm Uyuşmazlığı",
+  "is_final": true,
+  "finality_basis": "Karar metninde 'KESİN OLARAK' ifadesi yer almaktadır.",
+  "decision_outcome": "Hüküm Uyuşmazlığının Giderilmesi",
+  "decision_outcome_raw": "Hüküm uyuşmazlığı bulunduğu kabul edilerek, Danıştay Onuncu Dairesi'nin kararının kabulüne, Ankara 7. İş Mahkemesi'nin kararının kaldırılmasına ve ödeme emrinin iptaline kesin olarak oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "Sosyal Sigortalar Kurumu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "Sosyal Sigortalar Kurumu",
+      "result": "ret"
+    }
+  ],
+  "subject": "Sosyal Güvenlik Prim Farkı ve Gecikme Zammına İlişkin Ödeme Emrinin Hukuki Dayanakta Yoksun Kalması Nedeniyle Hüküm Uyuşmazlığının Giderilmesi",
+  "summary": "Sosyal Sigortalar Kurumu, Libya'da çalışan Türk işçileri için geçmişe dönük olarak sigorta prim farkı ve gecikme zammı tahsil etmek amacıyla bir genelge ve ödeme emri çıkarmış, bu durum işveren tarafından idari ve adli yargıda dava konusu edilmiştir. İdari yargı (Danıştay), geçmişe yönelik prim farkı tahsilatının hukuki güvenlik ilkesine aykırı olduğuna karar vererek ilgili düzenlemeyi iptal ederken, adli yargı (İş Mahkemesi) prim farkı aslının tahsilini uygun bulmuş ancak gecikme zammını iptal etmiştir. Bu çelişki üzerine Uyuşmazlık Mahkemesi'ne başvurulmuştur. Uyuşmazlık Mahkemesi, idari işlemlerin geriye yürümezliği ve hukuki güvenlik ilkeleri uyarınca, Sosyal Sigortalar Kurumu'nun geçmişe dönük prim farkı tahakkuk ve tahsilatına ilişkin düzenlemelerinin hukuka aykırı olduğunu tespit etmiştir. Bu nedenle, Danıştay'ın ilgili iptal kararını kabul ederek, Ankara 7. İş Mahkemesi'nin kararını kaldırmış ve hukuki dayanaktan yoksun kalan ödeme emrinin tamamının iptaline kesin olarak karar vermiştir.",
+  "keywords": [
+    "hüküm uyuşmazlığı",
+    "sosyal güvenlik sözleşmesi",
+    "prim farkı",
+    "gecikme zammı",
+    "hukuki güvenlik ilkesi",
+    "idari işlemlerin geriye yürümezliği",
+    "ödeme emri",
+    "506 sayılı kanun",
+    "Libya",
+    "Türk işçileri"
+  ],
+  "legal_issues": [
+    "Sosyal güvenlik prim farkı tahakkuk ve tahsilatının geçmişe yönelik olarak uygulanması hukuka uygun mudur?",
+    "İdari işlemlerin geriye yürümezliği ve hukuki güvenlik ilkesi, sosyal güvenlik prim oranlarının geçmişe dönük uygulanmasını engeller mi?",
+    "Adli ve idari yargı kararları arasında geçmişe yönelik prim farkı tahsilatı konusunda hüküm uyuşmazlığı bulunmakta mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hüküm uyuşmazlığı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, adli ve idari yargı mercileri arasında aynı konuya ilişkin kesinleşmiş kararlar arasındaki çelişkinin giderilmesidir."
+    },
+    {
+      "concept": "hukuki güvenlik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdari işlemlerin geriye yürümezliği ilkesiyle birlikte, idarenin düzenleme yetkisini kullanırken hukuki güvenlik ilkesine uygun hareket etmesi gerektiği vurgulanmıştır."
+    },
+    {
+      "concept": "idari işlemlerin geriye yürümezliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu genelge ile geçmişe yönelik prim farkı tahsilatı öngörülmesinin, idare hukukunun bilinen geriye yürümezlik ilkesine aykırı olduğu belirtilmiştir."
+    },
+    {
+      "concept": "sosyal güvenlik sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Türkiye ile Libya arasındaki Sosyal Güvenlik Sözleşmesi ve İdari Anlaşma, prim oranlarının belirlenmesinde temel hukuki dayanak olarak incelenmiştir."
+    },
+    {
+      "concept": "ödeme emri",
+      "role": "tartışılan",
+      "context_in_reasoning": "Geçmişe yönelik prim farkı tahakkukuna dayalı olarak çıkarılan ödeme emrinin hukuki dayanağının olup olmadığı uyuşmazlığın önemli bir parçasını oluşturmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sosyal güvenlik prim farkı tahakkuk ve tahsilatının geçmişe yönelik olarak uygulanması hukuka uygun mudur?",
+    "rule": "İdari işlemler yürürlüğe girdikleri andan itibaren hukuki etkilerini gösterirler ve idari işlemlerin geriye yürümezliği ilkesi ile hukuki güvenlik ilkesi, idare hukukunun temel kurallarıdır. İdareye tanınan düzenleme yetkisi bu ilkelere uygun kullanılmalıdır.",
+    "application": "Dava konusu 16/147 Ek sayılı Genelge ile daha önceki genelgelerle belirlenmiş yükümlülüklerin %24,5 oranına tamamlatılması, geçmişe yürümezlik ve belirlilik unsurlarını içeren hukuki güvenlik ilkesiyle bağdaşmamaktadır. Bu nedenle, geçmişe yönelik prim farkı tahakkuk ve tahsilatına ilişkin düzenlemeler hukuka aykırıdır.",
+    "conclusion": "Geçmişe yönelik prim farkı tahakkuk ve tahsilatını öngören düzenleme iptal edildiğinden, buna dayalı ödeme emrinin de hukuki dayanaktan yoksun kalması nedeniyle iptali gerekmektedir; bu doğrultuda İş Mahkemesi kararı kaldırılmıştır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işveren",
+      "Sosyal Sigortalar Kurumu",
+      "Danıştay",
+      "İş Mahkemesi"
+    ],
+    "context": "Türk işverenlerin Libya'da çalıştırdığı Türk işçilerinin sosyal güvenlik prim yükümlülükleri ve bu konudaki uluslararası sözleşme ve genelge uygulamaları.",
+    "trigger": "Sosyal Sigortalar Kurumu'nun 16/147 Ek sayılı Genelge ile Libya'da çalışan Türk işçilerinin prim oranlarını geriye dönük olarak %24,5'e yükseltmesi ve fark prim ile gecikme zammı tahsil etmeye çalışması.",
+    "claim": "İşveren, geriye dönük prim farkı tahakkuku ve ödeme emirlerinin iptali ile Kuruma borçlu olmadığının tespiti istemiyle hem idari hem de adli yargıda dava açmıştır."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1997/6883",
+      "decision_number": "1999/685",
+      "relation": "chained",
+      "outcome": "İptal",
+      "treatment": null,
+      "context": "Yönetim Kurulu kararının bir kısmının iptaline karar veren Danıştay kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Danıştay 10. Daire kararını kısmen onayan, kısmen bozan İDDGK kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "chained",
+      "outcome": "İptal",
+      "treatment": null,
+      "context": "İDDGK bozması sonrası Yönetim Kurulu kararının bir kısmını iptal eden karar."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1999/388",
+      "decision_number": "1999/1015",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Danıştay 10. Daire kararını kısmen onayan, kısmen bozan İDDGK kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/187",
+      "decision_number": "2000/822",
+      "relation": "chained",
+      "outcome": "Karar Düzeltme Reddi",
+      "treatment": null,
+      "context": "Davalı idarenin karar düzeltme istemini reddeden İDDGK kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4911",
+      "decision_number": "2001/1234",
+      "relation": "chained",
+      "outcome": "Karar Verilmesine Yer Olmadığı",
+      "treatment": null,
+      "context": "Hüküm uyuşmazlığına konu olan Danıştay kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4901",
+      "decision_number": "2001/1039",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçmişe yönelik prim farkı tahakkukunu iptal eden emsal Danıştay kararı."
+    },
+    {
+      "court": "Ankara 7. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/533",
+      "decision_number": "2000/56",
+      "relation": "chained",
+      "outcome": "Kısmen Kabul",
+      "treatment": null,
+      "context": "Hüküm uyuşmazlığına konu olan ilk derece iş mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1999/2742",
+      "decision_number": "1999/5218",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gecikme zammı uygulanmasında iyiniyet kurallarını vurgulayan Yargıtay içtihadı."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2000/3629",
+      "decision_number": "2000/5521",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Ankara 7. İş Mahkemesi kararını onayan Yargıtay kararı."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1993/2472",
+      "decision_number": "1995/2351",
+      "relation": "chained",
+      "outcome": "Ret",
+      "treatment": null,
+      "context": "Prim oranının uygulanmasında hukuka aykırılık bulunmadığına dair Danıştay kararı."
+    }
+  ]
+}

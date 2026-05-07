@@ -1,0 +1,291 @@
+{
+  "file": "uyusmazlik_2003-06-16_2002-18_2003-32.md",
+  "court_type": "Uyuşmazlık Mahkemesi",
+  "court": "Uyuşmazlık Mahkemesi Hukuk Bölümü",
+  "case_number": "2002/18",
+  "decision_number": "2003/32",
+  "decision_date": "2003-06-16",
+  "decision_type": "Hüküm Uyuşmazlığı",
+  "is_final": true,
+  "finality_basis": "Karar metninde 'KESİN OLARAK OYBİRLİĞİ İLE karar verildi' ifadesiyle kesinlik açıkça belirtilmiştir.",
+  "decision_outcome": "Hüküm Uyuşmazlığının Giderilmesi",
+  "decision_outcome_raw": "Danıştay kararının kabulüne, Ankara 7. İş Mahkemesi kararının kaldırılmasına ve hukuki dayanaktan yoksun kalan ödeme emrinin iptaline oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "idare"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "idare",
+      "result": "ret"
+    }
+  ],
+  "subject": "Libya'da Çalıştırılan Daimi Türk İşçileri Yönünden Geçmişe Dönük Sigorta Prim Farkı Tahakkuk ve Tahsilatına İlişkin Hüküm Uyuşmazlığı",
+  "summary": "Sosyal Sigortalar Kurumu, Libya'da iş üstlenen Türk işverenin yanında çalışan daimi Türk işçilerine ilişkin olarak 16/147 Ek sayılı Genelge uyarınca 1.9.1985 tarihinden itibaren geçmişe dönük %24,5 oranında prim farkı tahakkuk ettirip ödeme emri tebliğ etmiştir. Aynı konuda idari yargıda Genelgenin geçmişe yönelik prim farkı öngören kısmı hukuki güvenlik ilkesine aykırı bulunarak iptal edilmiş; adli yargıda ise prim farkı asılları yönünden işverenin borçlu olduğuna hükmedilmiştir. Uyuşmazlık Mahkemesi, geçmişe yönelik prim farkı düzenlemesinin iptal edilmesi nedeniyle ödeme emrinin hukuki dayanaktan yoksun kaldığını belirleyerek Danıştay kararı doğrultusunda iş mahkemesi kararını kaldırmış ve ödeme emrini iptal ederek hüküm uyuşmazlığını gidermiştir.",
+  "keywords": [
+    "hüküm uyuşmazlığı",
+    "sigorta prim farkı",
+    "geçmişe yürümezlik",
+    "hukuki güvenlik ilkesi",
+    "sosyal güvenlik sözleşmesi",
+    "türk-libya sözleşmesi",
+    "ödeme emri",
+    "uzun vadeli sigorta kolları",
+    "16/147 ek sayılı genelge",
+    "ek tahakkuk",
+    "gecikme zammı"
+  ],
+  "legal_issues": [
+    "Sosyal Sigortalar Kurumu, idari düzenlemelerle belirlenmiş sigorta prim oranlarını sonradan değiştirerek geçmişe dönük prim farkı tahakkuk ve tahsilatı yapabilir mi?",
+    "Hukuki güvenlik ve geçmişe yürümezlik ilkeleri Kurumun düzenleme yetkisinin kullanımını ne ölçüde sınırlandırır?",
+    "Aynı düzenleyici işleme dayanan adli ve idari yargı kararları arasında 2247 sayılı Yasa'nın 24. maddesi anlamında hüküm uyuşmazlığı doğmuş mudur ve nasıl giderilmelidir?",
+    "İdari yargı tarafından iptal edilen düzenlemeye dayanılarak çıkarılan ödeme emri hukuki dayanaktan yoksun kalır mı?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hüküm uyuşmazlığı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "2247 sayılı Yasa'nın 24. maddesi kapsamında adli ve idari yargı kararları arasında hakkın yerine getirilmesini olanaksız kılan çelişki bulunup bulunmadığı kararın temel ekseni olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "hukuki güvenlik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kurumun başlangıçtaki prim oranı uygulamasından dönüp geçmişe yönelik fark tahakkuku öngören düzenlemesi, hukuki güvenlik ilkesine aykırı bulunmuştur."
+    },
+    {
+      "concept": "idari işlemlerin geriye yürümezliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdari işlemlerin yürürlük anından itibaren hukuki sonuç doğurabileceği ilkesi, geçmişe yönelik prim farkı düzenlemesinin hukuka aykırılığının dayanağını oluşturmuştur."
+    },
+    {
+      "concept": "milletlerarası andlaşmaların kanun hükmünde olması",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Türkiye-Libya Sosyal Güvenlik Sözleşmesi Anayasa m.90 uyarınca kanun hükmünde sayılarak uzun vadeli sigorta kolları için ana ülke mevzuatının uygulanması gerektiği yorumuna varılmıştır."
+    },
+    {
+      "concept": "ödeme emrinin hukuki dayanaktan yoksun kalması",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dayanak düzenlemenin idari yargı tarafından iptal edilmesi nedeniyle ödeme emrinin de hukuki dayanaksız kaldığı sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "uzun vadeli sigorta kolları primi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Libya'da çalıştırılan daimi Türk işçileri yönünden uygulanacak prim oranının %24,5 olduğu hususu tartışılmış, ancak uyuşmazlığın esası geçmişe yönelik tahakkuk olarak belirlenmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "16/147 Ek sayılı Genelgenin yürürlük tarihinden geriye dönük olarak 1.9.1985 tarihinden itibaren sigorta prim farkı tahakkuk ve tahsilatı yapılabilir mi ve buna dayanılarak çıkarılan ödeme emri ayakta kalabilir mi?",
+    "rule": "İdari işlemler yürürlüğe girdikleri andan itibaren hukuki etkilerini gösterir; idareye yasayla tanınan düzenleme yetkisinin geçmişe yürümezlik ve belirlilik unsurlarını içeren hukuki güvenlik ilkesine uygun kullanılması Hukuk Devleti'nin gereğidir. İdari yargı kararıyla iptal edilen düzenlemeye dayanan uygulama işlemleri hukuki dayanaktan yoksun kalır.",
+    "application": "Kurumun başlangıçta belirlediği %24,5 oranından iki kez dönüp tekrar bu orana geçerek 1.9.1985 tarihinden itibaren prim farkı tahakkukunu öngören 16/147 Ek sayılı Genelge düzenlemesi, Danıştay kararıyla hukuki güvenlik ilkesine aykırı bulunarak iptal edilmiş olduğundan, bu Genelgeye dayanılarak hesaplanıp tebliğ edilen ödeme emri de hukuki dayanaktan yoksun kalmıştır.",
+    "conclusion": "Danıştay kararı doğrultusunda Ankara 7. İş Mahkemesi kararının kaldırılmasına ve davacı şirket adına çıkarılan prim farkı ile gecikme zammına ilişkin ödeme emrinin iptaline karar verilerek hüküm uyuşmazlığı giderilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "Sosyal Sigortalar Kurumu",
+      "Libya'da iş üstlenen Türk işveren şirket"
+    ],
+    "context": "Türkiye-Libya Sosyal Güvenlik Sözleşmesi kapsamında, Libya'da iş üstlenen Türk şirketinin çalıştırdığı daimi Türk işçilerine ilişkin uzun vadeli sigorta kolları primlerinin tahakkuk oranı zaman içinde Kurumca farklı genelgelerle değiştirilmiştir.",
+    "trigger": "Kurumun 16/147 Ek sayılı Genelgeye dayanarak 1.9.1985 tarihinden itibaren geçmişe yönelik %24,5 oranında prim farkı ve gecikme zammı içeren ödeme emrini işverene tebliğ etmesi.",
+    "claim": "Aynı uyuşmazlık konusunda idari yargı geçmişe yönelik prim farkı düzenlemesini iptal ederken adli yargı prim farkı asılları yönünden işvereni borçlu kabul etmiş; Kurum, kararlar arasındaki çelişkinin hüküm uyuşmazlığı olarak giderilmesini talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4911",
+      "decision_number": "2001/1234",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Hüküm uyuşmazlığına konu edilen ve aynı işveren tarafından açılan davada konusu kalmayan dava hakkında karar verilmesine yer olmadığı yolunda verilen ve kesinleşen idari yargı kararıdır."
+    },
+    {
+      "court": "Ankara 7. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/533",
+      "decision_number": "2000/56",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Hüküm uyuşmazlığına konu edilen, prim farkı asıllarına ilişkin işveren talebinin reddi ve gecikme zammının iptali yolundaki adli yargı kararıdır; Uyuşmazlık Mahkemesi tarafından kaldırılmıştır."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2000/3629",
+      "decision_number": "2000/5521",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Ankara 7. İş Mahkemesi kararını onayarak adli yargı kararının kesinleşmesini sağlayan temyiz kararıdır."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1999/2742",
+      "decision_number": "1999/5218",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İş Mahkemesi gerekçesinde, Kurumun yanıltıcı tutumu nedeniyle geçmişe yönelik gecikme zammı uygulanamayacağına ilişkin emsal Yargıtay içtihadı olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Türkiye'de geçerli %24,5 prim oranının uygulanmasını yerinde bulmakla birlikte geçmişe yönelik tahakkukun hukuki güvenlik ilkesini zedelediğini saptayan emsal karar olarak gerekçeye dayanak yapılmıştır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1999/388",
+      "decision_number": "1999/1015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçmişe yönelik prim farkı tahakkukunun hukuki güvenlik ilkesine aykırılığını teyit eden ve aynı işverenin davasında verilen üst derece kararı olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1997/6883",
+      "decision_number": "1999/685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı işveren tarafından açılan davada 16/147 Ek sayılı Genelgenin geçmişe yönelik prim tahsiline ilişkin kısmının iptaline hükmeden ilk Daire kararı olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelgenin dayanağı olan Yönetim Kurulu kararının önceki devrelere ilişkin tahakkuk kısmının iptaline ilişkin karar olarak gerekçeye dayanak yapılmıştır."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4901",
+      "decision_number": "2001/1039",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 ile 16/147 Ek sayılı Genelgeler arasındaki dönem için geçmişe yönelik prim farkı tahakkukunu hukuki güvenlik ilkesine aykırı bularak iptal eden emsal karar olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay 10. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1993/2472",
+      "decision_number": "1995/2351",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "16/61 Ek sayılı Genelgenin dayanağı olan Yönetim Kurulu kararına karşı açılan davanın reddine ilişkin ilk Daire kararı olarak süreç anlatımında yer almıştır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/187",
+      "decision_number": "2000/822",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Davalı idarenin karar düzeltme isteğinin reddine ilişkin karar olarak süreç anlatımında zikredilmiştir."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": "24",
+      "context": "Hüküm uyuşmazlığının varlık koşullarını düzenleyen ve başvurunun usul yönünden değerlendirilmesinde dayanak alınan hükümdür."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": "25",
+      "context": "Tarafların dinlenmesi ve esasın görüşülmesine ilişkin usul kurallarının dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "90",
+      "context": "Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmaların kanun hükmünde olduğu ilkesi uyarınca Türkiye-Libya Sosyal Güvenlik Sözleşmesinin hukuki niteliği belirlenmiştir."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu (mülga)",
+      "law_number": "506",
+      "article": "73",
+      "context": "Uzun vadeli sigorta kollarına ilişkin prim oranlarının dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu (mülga)",
+      "law_number": "506",
+      "article": "78",
+      "context": "Prime esas kazancın üst sınırının belirlenmesinde dayanak teşkil eden hükümdür."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu (mülga)",
+      "law_number": "506",
+      "article": "80",
+      "context": "Primlere ilişkin Kurum alacaklarından doğan davaların iş mahkemelerinde görüleceği görev kuralına dayanak yapılmıştır."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu (mülga)",
+      "law_number": "506",
+      "article": "134",
+      "context": "Kurum ile sigortalılar arasındaki uyuşmazlıklarda iş mahkemelerinin görevini düzenleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu (mülga)",
+      "law_number": "506",
+      "article": "Ek 31",
+      "context": "Sosyal güvenlik sözleşmelerinin uygulanmasına ilişkin Kuruma düzenleme yetkisi tanıyan hüküm olarak gerekçede yer almıştır."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "49/4",
+      "context": "Bozma kararı sonrası İDDGK kararına uyulmasının zorunlu olduğu kuralı çerçevesinde Danıştay 10. Dairesinin yeniden karar verme süreci açıklanmıştır."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "2",
+      "context": "İş Mahkemesinin gecikme zammının iptali gerekçesinde iyiniyet kurallarına atıfla Kurumun yanıltıcı tutumunun değerlendirilmesinde anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "73",
+      "context": "Mali yükümlülüklerin ancak kanunla getirilebileceği ilkesine ilişkin işveren iddialarının dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Hükümeti ile Libya Arap Halk Sosyalist Cemahiriyesi Arasında Sosyal Güvenlik Sözleşmesi",
+      "law_number": "3148",
+      "article": "3",
+      "context": "Daimi işçilerin sağlık ve sosyal hizmetlere ilişkin primlerinin işin yapıldığı ülke mevzuatına göre ödeneceğini düzenleyen hüküm olarak uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Hükümeti ile Libya Arap Halk Sosyalist Cemahiriyesi Arasında Sosyal Güvenlik Sözleşmesi",
+      "law_number": "3148",
+      "article": "4",
+      "context": "Sigorta primleri ve maktu yardımların ana ülkedeki ilgili kuruluşa transferi yükümlülüğünü düzenleyen hüküm olarak uygulanmıştır."
+    },
+    {
+      "law": "Sosyal Sigortalar Kurumu Kanunu (mülga)",
+      "law_number": "4792",
+      "article": null,
+      "context": "Sosyal Sigortalar Kurumunun ilgili sigorta kanununu uygulamakla görevli kuruluş olarak kuruluş dayanağı olarak anılmıştır."
+    }
+  ]
+}

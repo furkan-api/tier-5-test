@@ -1,0 +1,41 @@
+{
+  "file": "istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md",
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "355",
+      "context": "İstinaf yargılamasında uyuşmazlık konusu kamu düzeni ve istinaf nedenleri ile sınırlı."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak davasında davacı alacağını bir kez artırabilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "176",
+      "context": "Davacı davasını ıslah etme hakkı; belirsiz alacak davasında bağımsız olarak kullanılabilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353/1-a/6",
+      "context": "İstinaf başvurusunun kabulü halinde ilk derece kararının kaldırılması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353/1-a",
+      "context": "İstinaf aşamasında kesin karar verilmesi için hukuki dayanak."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "52",
+      "context": "Müterafik kusur halinde hakim tazminatı indirebilir veya tamamen kaldırabilir."
+    }
+  ]
+}

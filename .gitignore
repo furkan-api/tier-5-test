@@ -6,11 +6,8 @@ data/
 .env
 *.egg-info/
 .venv/
-corpus/*
 *.pem
 *.ovpn
 scratch/
 tmp/
-eval/llm_extractions/*
-eval/llm_extractions_gold/*
-eval/scores/
+eval/llm_extractions/_stages/

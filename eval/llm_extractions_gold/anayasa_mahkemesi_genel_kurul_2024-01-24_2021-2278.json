@@ -1,0 +1,536 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2021/2278",
+  "decision_number": null,
+  "decision_date": "2024-01-24",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "İhlal",
+  "decision_outcome_raw": "Anayasa'nın 35. maddesinde güvence altına alınan mülkiyet hakkının ihlal edildiğine, özel hayata saygı hakkı yönünden inceleme yapılmasına yer olmadığına ve yeniden yargılama yapılmak üzere kararın ilgili idare mahkemesine gönderilmesine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kabul"
+    }
+  ],
+  "subject": "İdarenin Naklen Atama İşlemiyle Aylık ve Özlük Haklarında Azalma Nedeniyle Mülkiyet Hakkının İhlali İddiası",
+  "summary": "Başvurucu, KOSGEB ile imzaladığı idari hizmet sözleşmesi uyarınca daire başkanı ve müdür vekili olarak görev yapmakta iken memur pozisyonuna naklen atanmış ve aylığı 7.160 TL'den 2.351 TL'ye düşmüştür. Atama işleminin iptali istemiyle açtığı dava derece mahkemelerince reddedilmiştir. Anayasa Mahkemesi, atama işlemine dayanak Yönetmelik hükmünün ilgili Kanun'un amacını aşar şekilde yorumlandığını, kazanılmış haklara ilişkin Yönetmelik düzenlemelerinin gözetilmediğini ve başvurucunun savunma ve itirazlarını etkin biçimde ortaya koyma yönünden mülkiyet hakkının usuli güvencelerinden yararlandırılmadığını tespit ederek mülkiyet hakkının ihlal edildiğine karar vermiştir.",
+  "keywords": [
+    "mülkiyet hakkı",
+    "meşru beklenti",
+    "naklen atama",
+    "idari hizmet sözleşmesi",
+    "kazanılmış haklar",
+    "kosgeb",
+    "kanunilik",
+    "ölçülülük",
+    "özlük hakları",
+    "kamu görevlisi",
+    "yönetmelik",
+    "usuli güvenceler"
+  ],
+  "legal_issues": [
+    "İdari hizmet sözleşmesi ile çalışan personelin, sözleşmede belirlenen kadroya bağlı aylık ve özlük haklarını elde etme yönünde mülkiyet hakkı kapsamında meşru bir beklentisi var mıdır?",
+    "Naklen atama sonucu aylık ve özlük haklarında önemli azalmaya yol açan idari işlemin yalnızca yönetmelik hükmüne dayanması kanunilik ölçütünü karşılar mı?",
+    "Atama işlemine dayanak Yönetmelik hükmünün, ilgili Kanun'un amacını aşacak ve kazanılmış hakları ortadan kaldıracak biçimde yorumlanması mülkiyet hakkına müdahalenin ölçülülüğünü zedeler mi?",
+    "Mülkiyet hakkına yapılan müdahaleye karşı açılan iptal davasında, başvurucunun savunma ve itirazlarını etkin biçimde ortaya koyabilmesi yönünden usuli güvenceler sağlanmış mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, atama sonrası aylık ve özlük haklarında meydana gelen azalmanın Anayasa'nın 35. maddesi kapsamında mülkiyet hakkına müdahale oluşturmasıdır."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurucunun idari hizmet sözleşmesine ve kamu görevlisi statüsüne dayalı olarak aylık verilmesi yönünde meşru beklentisinin bulunduğu kabul edilerek mülkün varlığı tespit edilmiştir."
+    },
+    {
+      "concept": "kanunilik ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Atama işlemine dayanak Kanun hükümlerinin nakil ve nakil sonrası özlük haklarına ilişkin düzenleme içermemesi nedeniyle müdahalenin kanuni dayanağının belirliliği ve öngörülebilirliği tartışılmıştır."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yönetmelik ile idareye verilen takdir yetkisinin Kanun'un amacını aşar şekilde yorumlanması ve kazanılmış hakların gözetilmemesi nedeniyle müdahalenin ölçülü olmadığı sonucuna varılmıştır."
+    },
+    {
+      "concept": "kazanılmış haklar",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Yönetmelik'in 49. ve 85. maddelerindeki kazanılmış haklara ilişkin hükümlerin derece mahkemelerince irdelenmemesi mülkiyet hakkının ihlali sonucuna katkı sağlamıştır."
+    },
+    {
+      "concept": "mülkiyet hakkının usuli güvenceleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurucunun atama işleminin kanun dışı veya keyfî olduğu yönündeki savunma ve itirazlarını sorumlu makamlar önünde etkin biçimde ortaya koyamadığı, bu nedenle usuli güvencelerden yararlandırılmadığı tespit edilmiştir."
+    },
+    {
+      "concept": "idari hizmet sözleşmesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "3624 sayılı Kanun'un mülga 13. maddesi uyarınca yapılan idari hizmet sözleşmesinin başvurucuyu kamu görevlisi statüsünde kıldığı ve sözleşmeye uygun ödemeler yönünden meşru beklenti oluşturduğu kabul edilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İdari hizmet sözleşmesi ile çalışan personelin naklen atanması sonucu aylık ve özlük haklarında oluşan önemli azalma, mülkiyet hakkına ölçüsüz bir müdahale oluşturur mu?",
+    "rule": "Anayasa'nın 13. ve 35. maddeleri uyarınca mülkiyet hakkına müdahale kanuna dayanmalı, kamu yararı amacı taşımalı ve ölçülü olmalıdır; ayrıca mülk sahibine müdahalenin kanun dışı veya keyfî olduğuna ilişkin savunma ve itirazlarını etkin biçimde ortaya koyabilme olanağı tanınmalıdır.",
+    "application": "Atama işlemine dayanak 3624 sayılı Kanun hükümleri nakil ve nakil sonrası özlük haklarına ilişkin düzenleme içermemekte; Yönetmelik'in 48. maddesine göre tesis edilen işlem Yönetmelik'in 49. ve 85. maddelerindeki kazanılmış haklara ilişkin düzenlemeler gözetilmeden uygulanmış, derece mahkemeleri ise başvurucunun bu yöndeki itirazlarını karşılamamıştır.",
+    "conclusion": "Yönetmelik ile idareye verilen takdir yetkisi Kanun'un amacını aşar şekilde yorumlandığından ve usuli güvenceler sağlanmadığından mülkiyet hakkı ile kamu yararı arasındaki adil denge başvurucu aleyhine bozulmuş, Anayasa'nın 35. maddesi ihlal edilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "kamu idaresi",
+      "idare mahkemesi"
+    ],
+    "context": "İdari hizmet sözleşmesi ile bir kamu kurumunda müdür olarak göreve başlayıp ardından daire başkanlığına yükselen kişinin personel rejimi ve özlük hakları.",
+    "trigger": "İdarenin başvurucuyu daire başkanlığı ve müdür vekilliği görevlerinden alarak memur pozisyonuna naklen ataması ve bu işlemle aylığının 7.160 TL'den 2.351 TL'ye düşmesi.",
+    "claim": "Atama işleminin iptali ve yoksun kalınan aylık ile diğer özlük haklarının iadesi suretiyle mülkiyet ve özel hayata saygı haklarının ihlalinin tespiti."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": "2015/62",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının ekonomik değer ifade eden her türlü mal varlığı hakkını kapsadığına ilişkin norm denetimi kararına atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahmut Duran ve diğerleri kararına atıfla icrası kabil her türlü alacağın mülkiyet hakkı kapsamında olduğu vurgulanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/636",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kemal Yeler ve Ali Arslan Çelebi kararına atıfla meşru beklenti kavramının kapsamı belirlenmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1178",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mustafa Ateşoğlu ve diğerleri kararına atıfla meşru beklentiye dayalı mülkiyet hakkının koşulları açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/13478",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mehmet Şentürk kararına atıfla meşru beklentinin objektif temele dayanması gerektiği vurgulanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5660",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Selçuk Emiroğlu kararına atıfla meşru beklentinin somut nitelikteki bir beklenti olması gerektiği belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/845",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Üçgen Nakliyat Ticaret Ltd. Şti. kararına atıfla mülkiyet iddiasının mevcut hukuk sisteminde tanınması gerektiği belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/382",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Cemile Ünlü kararına atıfla mülkiyete ilişkin menfaatin değerlendirilmesi yöntemi açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/539",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İhsan Vurucuoğlu kararına atıfla mülk varlığının tespitinde başvurucunun hukuki durumunun değerlendirilmesi gerektiği belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Recep Tarhan ve Afife Tarhan kararına atıfla Anayasa'nın 35. maddesinin üç kural ihtiva ettiği ve müdahalenin türleri açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/13518",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ford Motor Company kararına atıfla mülkiyet hakkına müdahalenin kanuna dayalı olması ölçütü açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/17510",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ali Hıdır Akyol ve diğerleri kararına atıfla şeklî manada kanun gereksinimi vurgulanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1246",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tahsin Erdoğan kararına atıfla kanunla düzenleme zorunluluğunun hukuk güvenliğini sağladığı belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1301",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Necmiye Çiftçi ve diğerleri kararına atıfla kanun metninin kalitesinin önemi vurgulanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/6192",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Türkiye İş Bankası A.Ş. kararına atıfla erişilebilir ve öngörülebilir kural gereksinimi belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1239",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yunis Ağlar kararına atıfla kamu yararı kavramının niteliği açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/6151",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Nusrat Külah kararına atıfla kamu yararının her somut olayda değerlendirilmesi gerektiği belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/95",
+      "decision_number": "2014/176",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin hukuk devleti ilkesinden doğduğuna ilişkin norm denetimi kararına atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/111",
+      "decision_number": "2012/56",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin elverişlilik, gereklilik ve orantılılık alt ilkelerinden oluştuğuna ilişkin norm denetimi kararına atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/16",
+      "decision_number": "2016/37",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük alt ilkelerine ilişkin norm denetimi kararına atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mehmet Akdoğan ve diğerleri kararına atıfla ölçülülük ilkesinin alt unsurları açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/13863",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "D.C. kararına atıfla gereklilik ve orantılılık ilkelerinin uygulanması açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3044",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bekir Yazıcı kararına atıfla mülkiyet hakkının usuli güvenceleri kapsamı belirlenmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1734",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Züliye Öztürk kararına atıfla usuli güvencelerin sürecin bütününe bakılarak değerlendirilmesi gerektiği belirtilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/2250",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hasköy Aya Paraskevi Rum Ortodoks Kilisesi Vakfı kararına atıfla yönetmeliğin idareye verdiği takdir yetkisinin sınırları değerlendirilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8875",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mehmet Doğan kararına atıfla yeniden yargılama kurumunun özellikleri açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/12506",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aligül Alkaya ve diğerleri (2) kararına atıfla giderim yöntemi olarak yeniden yargılamanın işleyişi açıklanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2020/32949",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kadri Enis Berberoğlu (3) kararına atıfla yeniden yargılama yapan derece mahkemesinin yükümlülükleri belirtilmiştir."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/12958",
+      "decision_number": "2019/27533",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personelinin daire başkanlığından alınmasına ilişkin emsal yargı kararı ilgili hukuk bölümünde yer almıştır."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2020/2098",
+      "decision_number": "2021/707",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personelinin müdürlükten KOBİ uzmanlığına atanmasına ilişkin emsal yargı kararı ilgili hukuk bölümünde anılmıştır."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/34",
+      "decision_number": "2023/2863",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB İnsan Kaynakları Yönetmeliği'nin 48. maddesine ilişkin Danıştay değerlendirmesi norm hiyerarşisi bağlamında aktarılmıştır."
+    },
+    {
+      "court": "Ankara 15. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2017/1599",
+      "decision_number": "2018/1740",
+      "relation": "chained",
+      "outcome": "İhlal",
+      "treatment": null,
+      "context": "Başvuruya konu atama işleminin iptali talebini reddeden ve yeniden yargılama yapılmak üzere kararın gönderildiği ilk derece mahkemesidir."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/5204",
+      "decision_number": "2019/4170",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personeli atamalarına ilişkin emsal Danıştay 2. Dairesi 2020/2098 K.2021/707 kararının dayandığı bozma kararı olarak ilgili hukuk bölümünde aktarılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve özgürlüklerin sınırlandırılmasına ilişkin genel ilkeleri düzenleyen hüküm, mülkiyet hakkına müdahalenin kanunilik, meşru amaç ve ölçülülük yönünden değerlendirilmesinde dayanak olmuştur."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkını güvence altına alan hüküm uyarınca atama sonucu aylık ve özlük haklarındaki azalmanın ihlal oluşturduğu tespit edilmiştir."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": "9",
+      "context": "İcra Komitesinin görevlerini düzenleyen mülga hüküm, Yönetmelik'in dayanağı olarak değerlendirilmiş ve sonradan 703 sayılı KHK ile yürürlükten kaldırıldığı belirtilmiştir."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": "13",
+      "context": "Personel rejimini düzenleyen mülga hüküm, idari hizmet sözleşmesi ile istihdam ve özlük haklarının yönetmelikle düzenlenmesinin dayanağı olarak incelenmiştir."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": "18",
+      "context": "KOSGEB personelinin 657 sayılı Devlet Memurları Kanunu'na tabi olmadığını düzenleyen mülga hüküm, personel rejiminin kanuni dayanağının tartışılmasında esas alınmıştır."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": "77",
+      "context": "3624 sayılı Kanun'un 9. ve 13. maddelerini yürürlükten kaldıran düzenleme, Yönetmelik'in kanuni dayanağına ilişkin tartışmada esas alınmıştır."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": "Geçici 16",
+      "context": "Yürürlükten kaldırılan kanun hükümleri uyarınca çıkarılmış yönetmeliklerin geçerliliğini sürdüreceğine ilişkin geçiş hükmü, Yönetmelik'in uygulanabilirliği yönünden değerlendirilmiştir."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "7",
+      "context": "Başkanlıkta münhal pozisyonlara açıktan istihdam yöntemini düzenleyen hüküm ilgili mevzuat çerçevesinde aktarılmıştır."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "48",
+      "context": "Personelin naklen atanmasına olanak tanıyan hüküm, atama işleminin doğrudan dayanağı olarak ölçülülük denetiminde tartışılmıştır."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "49",
+      "context": "Personele ödenecek ücretin esaslarını düzenleyen hüküm, kazanılmış haklar yönünden derece mahkemelerince irdelenmediği gerekçesiyle anılmıştır."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı İnsan Kaynakları Yönetmeliği",
+      "law_number": null,
+      "article": "85",
+      "context": "Personelin kazanılmış haklarının saklı tutulduğunu düzenleyen hüküm, atama sonrası özlük haklarındaki azalmanın değerlendirilmesinde gözetilmemiş olması nedeniyle vurgulanmıştır."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": null,
+      "context": "KOSGEB personelinin bu Kanun'a tabi olmadığı 3624 sayılı Kanun'un 18. maddesi çerçevesinde belirtilmiştir."
+    },
+    {
+      "law": "Kamu Görevlilerinin Mali Haklarının Düzenlenmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname",
+      "law_number": "631",
+      "article": null,
+      "context": "KOSGEB personeline ödenecek ücretin esaslarına ilişkin Yönetmelik'in 49. maddesinin atıf yaptığı düzenleme olarak anılmıştır."
+    },
+    {
+      "law": "Kamu Görevlilerinin Mali Haklarının Düzenlenmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname",
+      "law_number": "666",
+      "article": null,
+      "context": "İdari hizmet sözleşmesinde net ücret üst sınırını belirleyen düzenleme olarak anılmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal kararının sonuçlarının giderilmesi için yeniden yargılama yapılmasına ilişkin giderim usulünün dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "49",
+      "context": "Danıştay kararlarında temyizen bozma sebepleri çerçevesinde yapılan değerlendirmeye dayanak hüküm olarak anılmıştır."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "50",
+      "context": "Bozma kararına uyulduğunda temyiz incelemesinin sınırını belirleyen hüküm, ilgili Danıştay kararında atıf yapılan düzenleme olarak anılmıştır."
+    }
+  ]
+}

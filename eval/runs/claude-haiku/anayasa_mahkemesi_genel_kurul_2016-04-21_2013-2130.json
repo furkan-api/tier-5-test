@@ -1,0 +1,430 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi İkinci Bölüm",
+  "case_number": "2013/2130",
+  "decision_number": null,
+  "decision_date": "2016-04-21",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurucunun kişi hürriyeti ve güvenliği, haberleşme hürriyeti ve adil yargılanma hakkı ihlali iddialarının çeşitli sebeplerle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "İhaleye fesat karıştırma suçundan mahkûmiyet kararına karşı kişi hürriyeti, haberleşme hürriyeti ve adil yargılanma hakkı ihlali iddiası",
+  "summary": "Başvurucu, ihaleye fesat karıştırma ve suç örgütü yöneticiliği suçlarından tutuklanarak yargılandığı davada, tutukluluğun uzun sürmesi, haberleşme hürriyetinin ihlal edilmesi, soruşturma aşamasında karar veren hâkimin yargılamaya katılması, telefon görüşmelerinin hukuka aykırı dinlenmesi ve babası ile kardeşiyle yapılan konuşmaların delil olarak kullanılması nedeniyle çeşitli temel hak ihlallerini ileri sürmüştür. Anayasa Mahkemesi, tutukluluk süresinin makul olduğunu, haberleşme hürriyetine yönelik müdahalenin kanuni dayanağa ve meşru amaca sahip olduğunu, hâkimin tarafsızlığında bir sorun bulunmadığını ve delillerin değerlendirilmesinin derece mahkemelerinin takdir yetkisinde olduğunu belirterek başvurucunun iddialarının açıkça dayanaktan yoksun veya başvuru yollarının tüketilmediği gerekçesiyle kabul edilemez olduğuna karar vermiştir.",
+  "keywords": [
+    "bireysel başvuru",
+    "adil yargılanma hakkı",
+    "haberleşme hürriyeti",
+    "kişi hürriyeti ve güvenliği",
+    "telefon dinlemesi",
+    "ihaleye fesat karıştırma",
+    "suç örgütü",
+    "tarafsız mahkeme",
+    "silahların eşitliği",
+    "delil değerlendirmesi",
+    "tutukluluk süresi"
+  ],
+  "legal_issues": [
+    "Başvurucunun tutukluluğunun yaklaşık 2 yıl 5 aylık süresi Anayasa m.19 kapsamında makul süreyi aşmakta mıdır?",
+    "Kars Sulh Ceza Mahkemesinin verdiği telefon dinleme kararları Anayasa m.22 kapsamında haberleşme hürriyetine hukuka uygun müdahale oluşturmakta mıdır?",
+    "Soruşturma aşamasında karar veren hâkimin kovuşturma aşamasında da görev yapması tarafsız mahkemede yargılanma hakkını ihlal etmekte midir?",
+    "Tanıklıktan çekinme hakkı bulunan kişilerle yapılan telefon görüşmelerinin kayıtları delil olarak kullanılabilir mi?",
+    "Mahkeme kararlarında delillerin yeterince tartışılmadığı ve gerekçelendirilmediği iddiası adil yargılanma hakkı ihlali oluşturmakta mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "makul sürede yargılanma hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Başvurucunun yaklaşık 2 yıl 5 aylık tutukluluk süresi, atılı suçun ağırlığı ve yargılama sürecinin özenli yürütülmesi dikkate alınarak makul kabul edilmiştir."
+    },
+    {
+      "concept": "haberleşme hürriyeti",
+      "role": "uygulanan",
+      "context_in_reasoning": "5271 sayılı Kanun m.135 uyarınca telefon dinlemesi tedbirinin kanunilik, meşruiyet ve ölçülülük şartlarını karşıladığı değerlendirilmiştir."
+    },
+    {
+      "concept": "tarafsız mahkemede yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Soruşturma aşamasında karar veren hâkimin kovuşturma aşamasında görev yapması, hâkimin verdiği kararların niteliği dikkate alınarak tarafsızlığı ihlal etmediği sonucuna varılmıştır."
+    },
+    {
+      "concept": "tanıklıktan çekinme hakkı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tanıklıktan çekinebilecek kişilerin suça katıldığının başka delillerle belirlenmiş olması halinde, bu kişilerle yapılan görüşmelerin kayıtlarının delil olarak kullanılabileceği Yargıtay Ceza Genel Kurulu içtihadı uyarınca değerlendirilmiştir."
+    },
+    {
+      "concept": "silahların eşitliği ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Başvurucunun delillerini sunma, inceletme ve itiraz etme konusunda farklı muameleye tabi tutulduğuna dair somut bir olgu bulunmadığı tespit edilmiştir."
+    },
+    {
+      "concept": "kanun yolu şikâyeti",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Delillerin değerlendirilmesi ve hukuk kurallarının uygulanmasına ilişkin şikâyetler, bariz takdir hatası veya açık keyfîlik içermedikçe bireysel başvuru kapsamında incelenemez."
+    },
+    {
+      "concept": "mağdurluk statüsü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Beraatla sonuçlanan suçlamalar yönünden başvurucunun mağdur sıfatını taşımadığı, dolayısıyla bu suçlamalar bakımından adil yargılanma hakkı ihlali iddiasının kişi bakımından yetkisizlik nedeniyle kabul edilemez olduğu belirtilmiştir."
+    },
+    {
+      "concept": "başvuru yollarının tüketilmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Devam eden yargılama yönünden adil yargılanma hakkı ihlali iddialarının, olağan kanun yolları tüketilmeden Anayasa Mahkemesine başvurulması nedeniyle kabul edilemez olduğu kararlaştırılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Başvurucunun kişi hürriyeti ve güvenliği, haberleşme hürriyeti ve adil yargılanma hakkının ihlal edilip edilmediği?",
+    "rule": "Bireysel başvuru hakkı, Anayasada güvence altına alınmış temel hak ve özgürlüklerinin kamu gücü tarafından ihlal edildiği iddiasıyla kullanılabilir. Ancak başvuruda bulunabilmek için olağan kanun yollarının tüketilmiş olması, başvurucunun mağdur sıfatını taşıması ve başvurunun açıkça dayanaktan yoksun olmadığı gerekir. Tutukluluk süresi makullüğü, telefon dinlemesi tedbirinin kanunilik ve ölçülülüğü, hâkimin tarafsızlığı ve delillerin değerlendirilmesi derece mahkemeleri tarafından incelenen hususlardır.",
+    "application": "Başvurucunun yaklaşık 2 yıl 5 aylık tutukluluk süresi atılı suçun ağırlığı ve yargılama sürecinin özenli yürütülmesi dikkate alınarak makul bulunmuştur. Telefon dinlemesi tedbirinin 5271 sayılı Kanun m.135 uyarınca kanunilik, meşruiyet ve ölçülülük şartlarını karşıladığı tespit edilmiştir. Soruşturma aşamasında karar veren hâkimin kovuşturma aşamasında görev yapması, hâkimin verdiği kararların niteliği dikkate alınarak tarafsızlığı ihlal etmemiştir. Beraatla sonuçlanan suçlamalar yönünden başvurucunun mağdur sıfatını taşımadığı ve devam eden yargılama yönünden olağan kanun yolları tüketilmediği anlaşılmıştır.",
+    "conclusion": "Başvurucunun kişi hürriyeti ve güvenliği, haberleşme hürriyeti ve adil yargılanma hakkı ihlali iddialarının çeşitli sebeplerle (açıkça dayanaktan yoksunluk, kişi bakımından yetkisizlik, başvuru yollarının tüketilmemesi) kabul edilemez olduğuna karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "idare",
+      "ağır ceza mahkemesi",
+      "cumhuriyet savcılığı"
+    ],
+    "context": "Başvurucu, ihaleye fesat karıştırma, suç örgütü kurma ve yönetme, edimin ifasına fesat karıştırma ve nitelikli yağma suçlarından tutuklanarak yargılanmıştır.",
+    "trigger": "Kars Cumhuriyet Başsavcılığının ihaleye fesat karıştırma suçuna ilişkin soruşturma başlatması ve başvurucunun telefonunun dinlenmesine karar verilmesi.",
+    "claim": "Başvurucu, tutukluluğunun uzun sürmesi, telefon dinlemesinin hukuka aykırı olması, soruşturma aşamasında karar veren hâkimin kovuşturmada görev yapması, tanıkların talimatla dinlenmesi ve mahkeme kararlarının yetersiz gerekçeli olması nedeniyle kişi hürriyeti, haberleşme hürriyeti ve adil yargılanma hakkının ihlal edildiğini ileri sürmüştür."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/11872",
+      "decision_number": "2012/17091",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Başvurucunun temyiz incelemesinde verilen karar."
+    },
+    {
+      "court": "Erzurum 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2007/215",
+      "decision_number": "2009/184",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvurucunun ilk derece mahkemesinde yargılandığı karar."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6689",
+      "decision_number": "2014/18617",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Bozma kararı sonrası yargılamada verilen temyiz kararı."
+    },
+    {
+      "court": "Erzurum 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2014/327",
+      "decision_number": "2014/275",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Bozma sonrası yargılamada başvurucunun tahliyesine karar veren mahkeme."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/5-137",
+      "decision_number": "2013/58",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tanıklıktan çekinebilecek kişilerin görüşmelerinin delil olarak kullanılması."
+    },
+    {
+      "court": "Diyarbakır 6. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": "2009/989",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Başvurucunun kardeşinin HAGB itirazının reddedilmesi."
+    },
+    {
+      "court": "Yargıtay 1. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2007/2898",
+      "decision_number": "2008/3015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Soruşturma aşamasında görev yapan hâkimin kovuşturmada görev yapması."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/20436",
+      "decision_number": "2013/13582",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Soruşturma aşamasında görev yapan hâkimin kovuşturmada görev yapması."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/1-75",
+      "decision_number": "2011/114",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hâkimin tarafsızlığı ve soruşturma aşamasında verilen kararlar."
+    },
+    {
+      "court": "Yargıtay 15. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12095",
+      "decision_number": "2012/42609",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Disiplin cezası veren hâkimin aynı olay hakkında yargılamaya katılması."
+    },
+    {
+      "court": "Yargıtay 5. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4630",
+      "decision_number": "2013/2733",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Disiplin cezası veren hâkimin aynı olay hakkında yargılamaya katılması."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "220/1",
+      "context": "Suç işlemek amacıyla örgüt kurma suçunun tanımı ve cezası."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "23/2",
+      "context": "Soruşturma evresinde görev yapan hâkim kovuşturma evresinde görev yapamaz."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "24/1",
+      "context": "Hâkimin reddi sebepleri ve tarafsızlığını şüpheye düşüren durumlar."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "25",
+      "context": "Tarafsızlığını şüpheye düşüren sebeplerden hâkim reddi isteminin süresi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "45/1",
+      "context": "Tanıklıktan çekinme hakkı; kan ve kayın hısımları."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "100",
+      "context": "Tutukluluk şartları ve devamı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "118",
+      "context": "Arama yapılması kararı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "128",
+      "context": "El konulması tedbirinin uygulanması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135",
+      "context": "İletişimin tespiti, dinlenmesi ve kayda alınması; şartlar ve prosedür."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135/2",
+      "context": "Tanıklıktan çekinebilecek kişilerle iletişim kayda alınamaz."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135/6",
+      "context": "Dinleme tedbirinin uygulanabileceği suçlar; katalog suçlar."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "137",
+      "context": "Kararların yerine getirilmesi ve iletişim içeriklerinin yok edilmesi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "163/1",
+      "context": "Soruşturmanın sulh ceza hâkimi tarafından yapılması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "199",
+      "context": "Arama yapılması kararı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "217/2",
+      "context": "Delilleri takdir yetkisi; hukuka uygun elde edilen deliller."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "250",
+      "context": "Özel yetkili mahkemeler; ağır ceza mahkemelerinin görevleri."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "251/2",
+      "context": "Soruşturma aşamasında ağır ceza mahkemesi üyesinden karar isteme."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "5320",
+      "article": "11/1",
+      "context": "Yargılamaya katılamayacak hâkim; 163. madde hariç."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "45/1",
+      "context": "Bireysel başvuru hakkı; temel hak ve özgürlüklerin ihlali iddiası."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "45/2",
+      "context": "Bireysel başvuru öncesi idari ve yargısal başvuru yollarının tüketilmesi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "46/1",
+      "context": "Bireysel başvuru hakkına sahip olanlar; güncel ve kişisel hak ihlali."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "48/2",
+      "context": "Açıkça dayanaktan yoksun başvuruların kabul edilemezliği."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; ölçülülük ilkesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "19",
+      "context": "Kişi hürriyeti ve güvenliği; tutukluluk ve tazminat hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20",
+      "context": "Özel hayatın gizliliği."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "22",
+      "context": "Haberleşme hürriyeti ve gizliliği; sınırlandırma şartları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Adil yargılanma hakkı; tarafsız mahkemede yargılanma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "38",
+      "context": "Suçluluğun kanıtlanması ve savunma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Yargı bağımsızlığı; tarafsızlık değerlendirmesinde dikkate alınır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Yargı bağımsızlığı; tarafsızlık değerlendirmesinde dikkate alınır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "140",
+      "context": "Yargı bağımsızlığı; tarafsızlık değerlendirmesinde dikkate alınır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "148/3",
+      "context": "Anayasa Mahkemesine bireysel başvuru hakkı; olağan kanun yollarının tüketilmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "148/4",
+      "context": "Bireysel başvuruda kanun yolunda gözetilmesi gereken hususlar incelenemez."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "5/5",
+      "context": "Hukuka aykırı tutma işleminin mağduru tazminat hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8/2",
+      "context": "Haberleşme özgürlüğüne müdahale; meşru amaç ve ölçülülük."
+    }
+  ]
+}

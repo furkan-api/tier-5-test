@@ -1,0 +1,405 @@
+{
+  "file": "danistay_6_daire_2021-12-27_2018-5135_2021-14464.md",
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/8487",
+      "decision_number": "2017/1945",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9720",
+      "decision_number": "2017/1946",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9732",
+      "decision_number": "2017/1944",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/1196",
+      "decision_number": "2017/1950",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2485",
+      "decision_number": "2017/1951",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/121",
+      "decision_number": "2019/5049",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararların onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/122",
+      "decision_number": "2019/5050",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararların onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/3980",
+      "decision_number": "2019/13",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararların onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/4080",
+      "decision_number": "2019/14",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararların onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/368",
+      "decision_number": "2019/5051",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararların onanması."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9726",
+      "decision_number": "2017/1947",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9727",
+      "decision_number": "2017/1948",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/5455",
+      "decision_number": "2017/1949",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin önceki kararlar."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9112",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9113",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2472",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2974",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2976",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/2072",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/4832",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2014/3595",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı sınırına ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/313",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yürütmenin durdurulması kararına yapılan itirazın kabulü."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/316",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yürütmenin durdurulması kararına yapılan itirazın kabulü."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/317",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yürütmenin durdurulması kararına yapılan itirazın kabulü."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/327",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yürütmenin durdurulması kararına yapılan itirazın kabulü."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9112",
+      "decision_number": "2017/10269",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9113",
+      "decision_number": "2017/10271",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2472",
+      "decision_number": "2017/10272",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2974",
+      "decision_number": "2017/10273",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2976",
+      "decision_number": "2017/10274",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/2072",
+      "decision_number": "2017/10275",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/4832",
+      "decision_number": "2017/10270",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2014/3595",
+      "decision_number": "2018/8855",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bilirkişi raporu esas alınarak verilen iptal kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2327",
+      "decision_number": "2019/5053",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İlk derece mahkemesi iptal kararlarının onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2547",
+      "decision_number": "2019/5054",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İlk derece mahkemesi iptal kararlarının onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2559",
+      "decision_number": "2019/5055",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İlk derece mahkemesi iptal kararlarının onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2575",
+      "decision_number": "2019/5057",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İlk derece mahkemesi iptal kararlarının onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2567",
+      "decision_number": "2019/5056",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İlk derece mahkemesi iptal kararlarının onanması."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2253",
+      "decision_number": "2019/5052",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İlk derece mahkemesi iptal kararlarının onanması."
+    },
+    {
+      "court": "Bölge İdare Mahkemesi ... İdari Dava Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Temyiz edilen ilk derece mahkemesi kararı."
+    }
+  ]
+}

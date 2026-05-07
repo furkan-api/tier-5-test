@@ -1,0 +1,106 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi İkinci Bölüm",
+  "case_number": "2013/2130",
+  "decision_number": null,
+  "decision_date": "2016-04-21",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurunun çeşitli maddeler yönünden açıkça dayanaktan yoksun olması, kişi bakımından yetkisizlik ve başvuru yollarının tüketilmemesi nedenleriyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Tutukluluk, haberleşme hürriyeti ve adil yargılanma haklarının ihlali iddiaları",
+  "keywords": [
+    "tutukluluk süresi",
+    "makul sürede yargılanma",
+    "haberleşme hürriyeti",
+    "adil yargılanma hakkı",
+    "dinleme kararı",
+    "hukuka aykırı delil",
+    "silahların eşitliği",
+    "tarafsız mahkeme",
+    "kanun yolları",
+    "açıkça dayanaktan yoksunluk",
+    "bireysel başvuru"
+  ],
+  "legal_issues": [
+    "Tutukluluk süresinin makul olup olmadığı ve uzun tutukluluk nedeniyle tazminat hakkının bulunup bulunmadığı.",
+    "Telefon dinleme kararlarının hukuka uygunluğu ve haberleşme hürriyetinin ihlal edilip edilmediği.",
+    "Soruşturma aşamasında görev yapan hâkimin kovuşturma aşamasında da görev almasının tarafsız yargılanma hakkını ihlal edip etmediği.",
+    "Görüşme kayıtlarının delil olarak kullanılması, tanıkların dinlenmesi ve diğer delil taleplerinin reddi gibi hususların adil yargılanma hakkını ihlal edip etmediği.",
+    "Kesinleşen mahkûmiyet hükümleri yönünden aleyhte beyanda bulunan tanıkları sorgulama hakkı ve silahların eşitliği ilkesinin ihlal edilip edilmediği."
+  ],
+  "legal_concepts": [
+    {
+      "concept": "açıkça dayanaktan yoksunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurucunun tutukluluk süresi, tazminat hakkı, haberleşme hürriyeti ve tarafsız mahkemede yargılanma hakkına ilişkin iddialarının açıkça dayanaktan yoksun bulunması nedeniyle kabul edilemez olduğuna karar verilmiştir."
+    },
+    {
+      "concept": "makul sürede yargılanma hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Başvurucunun tutukluluk süresinin makul olup olmadığı ve bu sürenin uzunluğu nedeniyle tazminat hakkının doğup doğmadığı tartışılmıştır."
+    },
+    {
+      "concept": "haberleşme hürriyeti",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucunun telefonlarının hukuka aykırı dinlendiği iddiası, haberleşme hürriyeti kapsamında incelenmiştir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucunun delillerin değerlendirilmesi, tanıkların dinlenmesi, mahkeme kararlarının gerekçelendirilmesi ve tarafsız mahkemede yargılanma gibi iddiaları adil yargılanma hakkı çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "kişi bakımından yetkisizlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Beraatla sonuçlanan suçlamalar yönünden başvurucunun mağdur sıfatını taşımadığı gerekçesiyle adil yargılanma hakkına ilişkin iddialarının kişi bakımından yetkisizlik nedeniyle kabul edilemez olduğuna karar verilmiştir."
+    },
+    {
+      "concept": "başvuru yollarının tüketilmemesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Devam eden yargılama yönünden adil yargılanma hakkına ilişkin iddiaların, olağan kanun yollarının tüketilmemesi nedeniyle kabul edilemez olduğuna karar verilmiştir."
+    },
+    {
+      "concept": "silahların eşitliği ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Başvurucunun, görüşme kayıtlarının verilmemesi, tanıkların sorgulanamaması gibi nedenlerle silahların eşitliği ilkesinin ihlal edildiği iddiaları incelenmiştir."
+    },
+    {
+      "concept": "kanunilik",
+      "role": "uygulanan",
+      "context_in_reasoning": "5271 sayılı Kanun'un 135. ve 137. maddelerinin telefon dinlemelerine ilişkin açık ve öngörülebilir kurallar içerdiği, kanunilik niteliğini karşıladığı belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Başvurucunun tutukluluk süresi, haberleşme hürriyeti ve adil yargılanma hakkına ilişkin iddialarının Anayasa Mahkemesi'nce incelenmesi.",
+    "rule": "Anayasa Mahkemesi, bireysel başvurularda açıkça dayanaktan yoksun başvuruları, kişi bakımından yetkisizlik nedenini veya başvuru yollarının tüketilmemiş olmasını inceleyerek kabul edilemezlik kararı verebilir.",
+    "application": "Başvurucunun tutukluluk süresinin makul olduğu, haberleşme hürriyetine müdahalenin kanuni, meşru ve ölçülü olduğu, beraat eden suçlar yönünden mağdur sıfatının bulunmadığı, devam eden yargılama için kanun yollarının tüketilmediği ve diğer iddiaların da açıkça dayanaktan yoksun olduğu tespit edilmiştir.",
+    "conclusion": "Başvurunun çeşitli maddeler yönünden açıkça dayanaktan yoksun olması, kişi bakımından yetkisizlik ve başvuru yollarının tüketilmemesi nedenleriyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Cumhuriyet savcılığı",
+      "sulh ceza mahkemesi",
+      "ağır ceza mahkemesi",
+      "Yargıtay"
+    ],
+    "context": "Başvurucunun ihaleye fesat karıştırma, örgüt kurma ve yağma gibi suçlardan yargılanması süreci.",
+    "trigger": "Başvurucunun tutuklanması, telefonlarının dinlenmesi ve hakkında açılan davalar.",
+    "claim": "Tutukluluğun uzun sürmesi, haberleşme hürriyetinin ve adil yargılanma hakkının ihlal edildiği iddiaları."
+  }
+}

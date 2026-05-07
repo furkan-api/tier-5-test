@@ -1,0 +1,53 @@
+{
+  "file": "istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md",
+  "cited_law_articles": [
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "52",
+      "context": "Müterafik kusur halinde tazminattan indirim veya tamamen kaldırma imkanı."
+    },
+    {
+      "law": "Karayolları Trafik Kanunu",
+      "law_number": null,
+      "article": "97",
+      "context": "Trafik sigortası poliçesi gereği ödenmesi gereken tazminatlar."
+    },
+    {
+      "law": "Karayolları Trafik Kanunu",
+      "law_number": null,
+      "article": "98",
+      "context": "Trafik kazalarında sigorta şirketlerinin sorumluluğu ve teminatlar."
+    },
+    {
+      "law": "Karayolları Trafik Kanunu",
+      "law_number": null,
+      "article": "99",
+      "context": "Trafik sigortası poliçesi gereği ödenmesi gereken tazminatlar."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak davası; alacaklı bir kez alacağını artırabilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "176",
+      "context": "Islah hakkı; davacı davasını bir kez ıslah edebilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353",
+      "context": "İstinaf mahkemesinin ilk derece mahkemesi kararını kaldırması ve dosyayı geri göndermesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "355",
+      "context": "İstinaf incelemesinin kapsamı; kamu düzeni ve istinaf nedenleri ile sınırlı."
+    }
+  ]
+}

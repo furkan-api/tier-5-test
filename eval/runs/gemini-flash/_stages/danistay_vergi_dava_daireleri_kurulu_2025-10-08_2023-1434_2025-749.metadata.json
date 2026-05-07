@@ -1,0 +1,93 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Vergi Dava Daireleri Kurulu",
+  "case_number": "2023/1434",
+  "decision_number": "2025/749",
+  "decision_date": "2025-10-08",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Karar oybirliğiyle kesin olarak verilmiştir.",
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Danıştay Yedinci Dairesinin özel iletişim vergisi oranlarının artırılmasına ilişkin Cumhurbaşkanı Kararı'nın iptali istemiyle açılan davayı reddeden kararına yönelik davacıların temyiz isteminin reddine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacılar"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacılar",
+      "result": "ret"
+    }
+  ],
+  "subject": "Özel İletişim Vergisi Oranlarının Artırılmasına İlişkin Cumhurbaşkanı Kararı'nın İptali",
+  "keywords": [
+    "özel iletişim vergisi",
+    "vergi oranı",
+    "cumhurbaşkanı kararı",
+    "verginin yasallığı",
+    "mali güce göre vergilendirme",
+    "yargısal denetim",
+    "yerindelik denetimi",
+    "anayasa madde 73",
+    "anayasa madde 125",
+    "gider vergileri kanunu",
+    "elektronik haberleşme hizmetleri",
+    "iptal davası"
+  ],
+  "legal_issues": [
+    "Özel iletişim vergisi oranlarını artıran Cumhurbaşkanı Kararı, Anayasa m.73 ve 6802 sayılı Kanun m.39/7 ile verilen yetki sınırları içinde midir?",
+    "Vergi oranlarındaki değişikliğin ekonomik göstergelere uygunluğunun yargısal denetimi Anayasa m.125 ile bağdaşır mı?",
+    "Vergi oranlarının artırılması, Anayasa'nın 73. maddesinde ifade edilen verginin yasallığı, vergilendirmede eşitlik ve mali güce göre vergilendirme ilkelerine aykırılık teşkil eder mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "verginin yasallığı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa m.73'te kabul edilen verginin yasallığı ilkesi, Cumhurbaşkanına yasa ile belirlenen sınırlar içinde düzenleme yetkisi verilmesinin istisnası olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "cumhurbaşkanının düzenleme yetkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa m.73/4 ve 6802 sayılı Kanun m.39/7 ile Cumhurbaşkanına vergi oranlarını belirli sınırlar içinde değiştirme yetkisi verilmiştir."
+    },
+    {
+      "concept": "yargısal denetim",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Anayasa m.125 uyarınca idari eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlı olup, yerindelik denetimi şeklinde kullanılamayacağı belirtilmiştir."
+    },
+    {
+      "concept": "yerindelik denetimi",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Vergi oranlarındaki değişikliğin ekonomik göstergelere uygunluğunun yargısal denetiminin Anayasa m.125 ile bağdaşmayacağı vurgulanarak, bu tür bir denetimin yapılamayacağı belirtilmiştir."
+    },
+    {
+      "concept": "vergilendirmede eşitlik",
+      "role": "reddedilen",
+      "context_in_reasoning": "Davacılar tarafından ileri sürülen vergilendirmede eşitlik ve mali güce göre vergilendirme ilkelerinin ihlal edildiği iddiası, Cumhurbaşkanı Kararı'nın hukuka uygun bulunması nedeniyle reddedilmiştir."
+    },
+    {
+      "concept": "mali güce göre vergilendirme",
+      "role": "reddedilen",
+      "context_in_reasoning": "Davacılar tarafından ileri sürülen mali güce göre vergilendirme ilkesinin ihlal edildiği iddiası, Cumhurbaşkanı Kararı'nın hukuka uygun bulunması nedeniyle reddedilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Özel iletişim vergisi oranlarını artıran Cumhurbaşkanı Kararı, Anayasa ve ilgili kanunla verilen yetki sınırları içinde midir ve yargısal denetimi hangi kapsamda yapılmalıdır?",
+    "rule": "Anayasa'nın 73. maddesi verginin yasallığı ilkesini benimserken, kanunla belirlenen sınırlar içinde Cumhurbaşkanına vergi oranlarını değiştirme yetkisi verilebileceğini öngörür. 6802 sayılı Kanun'un 39. maddesinin yedinci fıkrası, Cumhurbaşkanına özel iletişim vergisi oranlarını sıfıra kadar indirme veya iki katına kadar artırma yetkisi vermektedir. Anayasa'nın 125. maddesi ise yargı yetkisini idari eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlamakta, yerindelik denetimini yasaklamaktadır.",
+    "application": "Dava konusu Cumhurbaşkanı Kararı ile özel iletişim vergisi oranları %7,5'ten %10'a çıkarılmıştır. Bu artış, 6802 sayılı Kanun'un 39. maddesinin yedinci fıkrasında Cumhurbaşkanına tanınan \"iki katına kadar artırma\" yetkisi sınırları içinde kalmaktadır. Vergi oranlarındaki değişikliğin ekonomik göstergelere uygunluğunun yargısal denetimi ise Anayasa'nın 125. maddesi uyarınca yerindelik denetimi kapsamında olduğundan yapılamaz.",
+    "conclusion": "Cumhurbaşkanı Kararı'nda hukuka aykırılık bulunmadığından, Danıştay Yedinci Dairesinin davayı reddeden kararı sonucu itibarıyla uygun bulunmuştur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "Cumhurbaşkanlığı",
+      "Hazine ve Maliye Bakanlığı"
+    ],
+    "context": "Özel iletişim vergisi mükellefiyeti bulunmayan ancak dolaylı vergiyi nihai olarak üstlenen vatandaşların, vergi oranlarının artırılmasına ilişkin düzenleyici işleme karşı açtığı dava.",
+    "trigger": "30/01/2021 tarihli ve 3469 sayılı Cumhurbaşkanı Kararı ile 6802 sayılı Gider Vergileri Kanunu'nun 39. maddesindeki özel iletişim vergisi oranlarının %7,5'ten %10'a çıkarılması.",
+    "claim": "Özel iletişim vergisi oranlarını %10 olarak belirleyen Cumhurbaşkanı Kararı'nın iptali."
+  }
+}

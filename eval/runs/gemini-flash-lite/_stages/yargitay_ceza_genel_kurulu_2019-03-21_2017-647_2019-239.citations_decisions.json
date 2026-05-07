@@ -1,0 +1,35 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/3192",
+      "decision_number": "2013/7027",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "İlk derece mahkemesi hükmünü bozma kararı."
+    },
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2012/122",
+      "decision_number": "2012/282",
+      "relation": "chained",
+      "outcome": "Mahkumiyet",
+      "treatment": null,
+      "context": "Sanıkların mahkumiyetine ilişkin ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/374",
+      "decision_number": "2017/2141",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Direnme kararının yerinde görülmemesi üzerine yapılan inceleme."
+    }
+  ]
+}

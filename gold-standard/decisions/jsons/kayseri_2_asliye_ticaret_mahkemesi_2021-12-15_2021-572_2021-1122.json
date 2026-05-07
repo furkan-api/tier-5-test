@@ -1,0 +1,177 @@
+{
+  "file": "kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md",
+  "court_type": "İlk Derece Hukuk",
+  "court": "Kayseri 2. Asliye Ticaret Mahkemesi",
+  "case_number": "2021/572",
+  "decision_number": "2021/1122",
+  "decision_date": "2021-12-15",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": "Karar, tebliğ tarihinden itibaren iki haftalık süre içinde Kayseri Bölge Adliye Mahkemesi nezdinde istinaf yasa yoluna açık olarak verilmiştir.",
+  "decision_outcome": "Görevsizlik",
+  "decision_outcome_raw": "HMK m.114/c uyarınca görev dava şartı olduğundan davanın dava şartı yokluğu nedeniyle usulden reddine ve mahkemenin görevsizliğine, talep halinde dosyanın görevli Kayseri Asliye Hukuk Mahkemesine gönderilmesine karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Haksız İhtiyati Haciz ve Tahrifatlı Senede Dayalı Takip Nedeniyle Maddi ve Manevi Tazminat",
+  "summary": "Davacı, davalı şirketin tahrifat yapılmış zamanaşımına uğramış senede dayanarak aldırdığı ihtiyati haciz kararıyla ineklerine ve ev eşyalarına haciz konulduğunu, muhtarlık yaptığı köyde itibarının zedelendiğini ve hukuki yardım için vekalet ücreti ödemek zorunda kaldığını ileri sürerek manevi ve maddi tazminat talep etmiştir. Mahkeme, senedin zamanaşımına uğraması nedeniyle kambiyo vasfını yitirdiğini, davanın ticari nitelik taşıyıp taşımadığının temel ilişkiye göre belirlenmesi gerektiğini, davacının vergi kaydının bulunmaması nedeniyle tacir olmadığını ve uyuşmazlığın mutlak veya nispi ticari dava niteliğinde olmadığını tespit etmiştir. Görevin Asliye Hukuk Mahkemesinde olduğu sonucuna varılarak HMK m.114/c uyarınca dava şartı yokluğundan davanın usulden reddine ve mahkemenin görevsizliğine karar verilmiştir.",
+  "keywords": [
+    "haksız ihtiyati haciz",
+    "senette tahrifat",
+    "manevi tazminat",
+    "maddi tazminat",
+    "vekalet ücreti",
+    "ticari dava",
+    "ticari işletme kriteri",
+    "tacir-esnaf ayrımı",
+    "kambiyo vasfının yitirilmesi",
+    "görevsizlik",
+    "dava şartı"
+  ],
+  "legal_issues": [
+    "Zamanaşımına uğrayarak kambiyo vasfını yitiren senede dayalı tazminat davasında görev, ticari iş kriterine göre mi yoksa ticari işletme kriterine göre mi belirlenir?",
+    "Vergi kaydı bulunmayan ve tarımsal/kırsal faaliyetle uğraşan kişinin açtığı haksız ihtiyati hacze dayalı tazminat davası mutlak veya nispi ticari dava sayılabilir mi?",
+    "Görev hususu dava şartı olarak yargılamanın hangi aşamasında ve hangi usulle değerlendirilmelidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "ticari dava",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Mahkemenin görevini belirleyen temel mesele, davanın mutlak, nispi veya yalnızca tek tarafın ticari işletmesini ilgilendiren ticari dava türlerinden birine girip girmediğidir."
+    },
+    {
+      "concept": "ticari işletme kriteri",
+      "role": "uygulanan",
+      "context_in_reasoning": "6102 sayılı TTK'nın mutlak ticari davalar dışındaki ticari davaları ticari iş yerine ticari işletme esasına bağlaması ölçütü uyuşmazlığa uygulanmıştır."
+    },
+    {
+      "concept": "tacir sıfatı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davacının tacir olup olmadığı vergi kaydı ve faaliyetin niteliği bakımından değerlendirilmiş; vergi mükellefiyetinin bulunmaması tacir sayılmamaya gerekçe oluşturmuştur."
+    },
+    {
+      "concept": "kambiyo senedinin zamanaşımıyla vasfını yitirmesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Zamanaşımına uğrayan senedin yazılı delil başlangıcına dönüştüğü ve TTK m.732'nin uygulanmayacağı, görev için temel ilişkinin niteliğinin esas alınacağı yorumu yapılmıştır."
+    },
+    {
+      "concept": "görev dava şartı",
+      "role": "uygulanan",
+      "context_in_reasoning": "HMK m.114/1-c uyarınca görev dava şartı olarak re'sen dikkate alınmış ve eksikliği davanın usulden reddine yol açmıştır."
+    },
+    {
+      "concept": "ticaret mahkemesi - asliye hukuk mahkemesi ilişkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "6335 sayılı Yasayla iş bölümünden görev ilişkisine dönüştürülen düzenleme uyarınca ticaret mahkemesinin görevsizliği sonucuna ulaşılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Zamanaşımına uğramış senede dayalı haksız ihtiyati hacizden kaynaklanan tazminat davası asliye ticaret mahkemesinin görev alanına girer mi?",
+    "rule": "Mutlak ticari davalar dışındaki davalarda ticaret mahkemesinin görevi 6102 sayılı TTK uyarınca ticari işletme kriterine göre belirlenir; zamanaşımı nedeniyle kambiyo vasfını yitiren senet bakımından TTK m.732 uygulanmaz ve görev temel ilişkinin niteliğine göre saptanır. Görev HMK m.114/1-c uyarınca dava şartıdır ve re'sen dikkate alınır.",
+    "application": "Davacının vergi kaydı bulunmadığı için tacir sayılmadığı, uyuşmazlığın mutlak ticari davalar arasında yer almadığı ve her iki tarafın ticari işletmesini ilgilendiren bir ilişkiye dayanmadığı tespit edilmiş; bu nedenle dava ticari nitelik taşımamaktadır.",
+    "conclusion": "Görev dava şartı eksikliği nedeniyle davanın usulden reddine ve mahkemenin görevsizliğine, talep halinde dosyanın görevli Asliye Hukuk Mahkemesine gönderilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (köy muhtarı)",
+      "davalı şirket",
+      "icra dairesi",
+      "ceza mahkemesi"
+    ],
+    "context": "Kırsal alanda muhtarlık yapan davacının ev eşyaları ve ahırındaki ineklere, davalı şirketin aldırdığı ihtiyati haciz kararı uyarınca haciz uygulanmış olan bir uyuşmazlık.",
+    "trigger": "Ceza mahkemesi kararıyla davalı şirket yetkilisinin tahrifat yapılmış senede dayalı olarak ihtiyati haciz aldırdığının ve resmi belgede sahtecilik ile dolandırıcılık suçlarını işlediğinin sabit hale gelmesi.",
+    "claim": "Davacı, haksız ihtiyati haciz nedeniyle uğradığı manevi zarar ile ödediği vekalet ücretinden kaynaklanan maddi zararın haciz tarihinden itibaren faiziyle birlikte tazminini talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 19. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/17318",
+      "decision_number": "2018/1926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Zamanaşımına uğrayan kambiyo senedinin yazılı delil başlangıcına dönüştüğü ve görevin temel ilişkiye göre belirleneceği ilkesi için emsal alınmıştır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1026",
+      "decision_number": "2015/1765",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ticari iş karinesinin tek başına davayı ticari hale getirmeyeceği ve ticari davanın ticari işletme esasına göre belirlendiği yönündeki içtihat dayanak yapılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "114/1-c",
+      "context": "Görev hususunun dava şartı olduğu ve eksikliğinin yargılamanın her aşamasında re'sen gözetilmesi gerektiği hükmüne dayanılmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "20",
+      "context": "Görevsizlik kararından sonra dosyanın iki hafta içinde talep halinde görevli mahkemeye gönderilmesi düzenlemesi uygulanmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "331/2",
+      "context": "Görevsizlik kararından sonra davaya görevli mahkemede devam edilmesi halinde yargılama giderlerine o mahkemece hükmedileceği kuralı uygulanmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "4/1",
+      "context": "Mutlak ticari davaların kapsamının belirlenmesinde ölçü olarak alınmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "5",
+      "context": "6335 sayılı Yasa ile değişik 3 ve 4. fıkraları uyarınca ticaret ve asliye hukuk mahkemeleri arasındaki ilişkinin görev ilişkisi olduğu vurgulanmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "11",
+      "context": "Ticari işletme tanımı çerçevesinde tacir-esnaf ayrımının kıstasları değerlendirilmiştir."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "15",
+      "context": "Esnaf tanımı bakımından davacının niteliğinin belirlenmesinde başvurulan hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "19/2",
+      "context": "Ticari iş karinesinin davanın niteliğini ticari hale getirmeyeceği ilkesi için zikredilmiştir."
+    },
+    {
+      "law": "Türk Ticaret Kanunu (mülga)",
+      "law_number": "6762",
+      "article": "1463",
+      "context": "Esnaf-tacir ayrımına ilişkin Bakanlar Kurulu kararının dayanağı olarak belirtilmiştir."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "776",
+      "context": "Senedin kambiyo senedi vasfını taşıması için aranan zorunlu unsurlar yönünden anılmıştır."
+    },
+    {
+      "law": "Türk Ticaret Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "6103",
+      "article": "10",
+      "context": "TTK m.11/2 uyarınca yeni Bakanlar Kurulu kararı çıkarılıncaya kadar mevcut düzenlemelerin uygulanmaya devam edeceği belirtilmiştir."
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Beşinci Daire",
+  "case_number": "2017/6736",
+  "decision_number": "2022/748",
+  "decision_date": "2022-03-07",
+  "decision_type": "İlk Derece",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Milli Savunma Bakanının başkanlığında oluşturulan Komisyonun kararının iptali istemi yönünden davanın reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "667 sayılı Kanun Hükmünde Kararname uyarınca FETÖ ile iltisak ve irtibat gerekçesiyle meslekten çıkarma kararının iptali",
+  "summary": "Davacı, askeri hakim olarak görev yapmakta iken, 667 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname uyarınca FETÖ ile iltisak ve irtibatının olduğu gerekçesiyle meslekten çıkarılmasına ilişkin Milli Savunma Bakanlığı Askeri Hakimler Komisyonunun kararının iptali istemiyle dava açmıştır. Danıştay, davacının sıkıyönetim mahkemesi görevlendirme listesinde yer alması, ankesörlü/sabit hat telefon aramaları kayıtları ve diğer kişilerin beyanları gibi delilleri değerlendirerek davacının FETÖ ile gerçekten irtibatlı olduğunu tespit etmiştir. Mahkeme, olağanüstü hal koşullarında alınan bu tedbirin, demokratik anayasal düzene sadakat yükümlülüğünü ihlal eden davacı hakkında meşru bir amaca dayandığını ve ölçülü olduğunu belirterek davanın reddine karar vermiştir.",
+  "keywords": [
+    "fetö",
+    "meslekten çıkarma",
+    "askeri hakim",
+    "olağanüstü hal",
+    "667 sayılı khk",
+    "anayasal düzene sadakat",
+    "sıkıyönetim mahkemeleri",
+    "ankesörlü telefon",
+    "mahrem yapılanma",
+    "darbe teşebbüsü",
+    "milli güvenlik",
+    "yargı bağımsızlığı"
+  ],
+  "legal_issues": [
+    "667 sayılı KHK uyarınca oluşturulan Komisyon bağımsız ve tarafsız mıdır?",
+    "Davacının FETÖ ile iltisak ve irtibatı hukuki delillerle sabit midir?",
+    "Meslekten çıkarma kararı özel hayata saygı hakkını ihlal etmekte midir?",
+    "Olağanüstü hal koşullarında alınan tedbir demokratik toplumda gerekli midir?",
+    "Savunma hakkı ve adil yargılanma hakkı ihlal edilmiş midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "fetö ile iltisak ve irtibat",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni davacının FETÖ terör örgütü ile iltisak ve irtibatının bulunup bulunmadığının belirlenmesidir."
+    },
+    {
+      "concept": "anayasal düzene sadakat yükümlülüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargı mensuplarının anayasal düzene sadakat yükümlülüğünü ihlal etmeleri meslekten çıkarma kararının hukuki dayanağını oluşturmaktadır."
+    },
+    {
+      "concept": "olağanüstü hal tedbirleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "667 sayılı KHK uyarınca alınan meslekten çıkarma kararı olağanüstü hal koşullarında alınan tedbir niteliğindedir."
+    },
+    {
+      "concept": "yargı bağımsızlığı ve tarafsızlığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davacı tarafından Komisyonun bağımsızlığı ve tarafsızlığı sorgulanmış ancak Danıştay tarafından Komisyonun yeterli güvencelere sahip olduğu sonucuna varılmıştır."
+    },
+    {
+      "concept": "özel hayata saygı hakkı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Meslekten çıkarma kararının özel hayata saygı hakkına müdahale oluşturması ancak meşru amaç ve ölçülülük ilkesi çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "mahrem yapılanma",
+      "role": "uygulanan",
+      "context_in_reasoning": "FETÖ'nün askeri yargı içindeki mahrem yapılanması davacının örgüt ile irtibatını gösteren delil olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "ankesörlü telefon aramaları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının ankesörlü telefonlardan periyodik ve ardışık aramaların kaydı FETÖ iletişim yöntemi olarak kabul edilerek irtibat delili sayılmıştır."
+    },
+    {
+      "concept": "sıkıyönetim mahkemeleri görevlendirme listesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının sıkıyönetim mahkemesinde görevlendirilmesi FETÖ'nün askeri yargıyı kontrol altında tutma amacının göstergesi olarak değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davacının FETÖ terör örgütü ile iltisak ve irtibatı bulunup bulunmadığı ve bu gerekçeyle alınan meslekten çıkarma kararı hukuka uygun mudur?",
+    "rule": "667 sayılı KHK m.3/1 uyarınca terör örgütlerine veya milli güvenliğe karşı faaliyette bulunduğu kabul edilen yapılara üyelik, mensubiyet, iltisak veya irtibatı olduğu değerlendirilen askeri hakimler hakkında meslekte kalmalarının uygun olmadığına ve meslekten çıkarılmalarına karar verilir. Irtibat ve iltisak kavramları genel nitelikte olmakla birlikte, kişilerin terör örgütleri ile irtibat ve iltisaklarının ortaya konulabilmesi için örgütün amaçlarının gerçekleştirilmesi ya da örgütten yarar sağlamak maksadıyla bulundukları hal ve hareketler neticesinde örgüte yarar sağladıkları yönünde kanaat oluşması yeterlidir.",
+    "application": "Davacının E.D. isimli kişinin ifadesi, sıkıyönetim mahkemeleri görevlendirme listesinde yer alması, ankesörlü telefonlardan periyodik ve ardışık aramaların kaydı, FETÖ'nün askeri yargı içindeki mahrem yapılanması hakkındaki tespitler birlikte değerlendirildiğinde davacının FETÖ ile iltisak ve irtibatının bulunduğu sonucuna varılmıştır.",
+    "conclusion": "Davacının FETÖ ile iltisak ve irtibatı sabit olduğundan ve anayasal düzene sadakat yükümlülüğünü ihlal ettiğinden meslekten çıkarma kararında hukuka aykırılık bulunmamaktadır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "askeri hakim",
+      "milli savunma bakanlığı",
+      "fetö terör örgütü",
+      "komisyon"
+    ],
+    "context": "15 Temmuz 2016 darbe teşebbüsü sonrasında olağanüstü hal ilan edilmiş ve 667 sayılı KHK uyarınca FETÖ ile iltisak ve irtibatı bulunan yargı mensuplarının meslekten çıkarılması için Komisyon kurulmuştur.",
+    "trigger": "Davacının askeri hakim olarak görev yaparken FETÖ terör örgütü ile iltisak ve irtibatı olduğu gerekçesiyle Milli Savunma Bakanının başkanlığında oluşturulan Komisyon tarafından meslekten çıkarılmasına karar verilmesi.",
+    "claim": "Davacı tarafından Komisyon kararının iptali, savunma hakkının ihlali, adil yargılanma hakkının ihlali ve özel hayata saygı hakkının ihlali iddia edilerek dava açılmıştır."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/16-956",
+      "decision_number": "2017/370",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/3",
+      "decision_number": "2017/3",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/82",
+      "decision_number": "2014/100",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Milli Savunma Bakanının disiplin cezası verme yetkisine ilişkin iptal kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/89",
+      "decision_number": "2019/84",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İltisak ve irtibat kavramlarının tanımlanması ve hukuki niteliğine ilişkin karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/22169",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Darbe teşebbüsü şüphelilerinin telefon mesajlarına ilişkin karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1115",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma hakkına ilişkin AYM içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/13",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma hakkı kriterlerine ilişkin karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/29347",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ imamlarının ankesörlü telefonlardan iletişim kurmasına ilişkin karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/48",
+      "decision_number": "2020/30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ askeri yargı mahrem yapılanmasına ilişkin tespitler."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/43",
+      "decision_number": "2020/11",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sıkıyönetim Mahkemeleri Görevlendirme Listesine ilişkin tespitler."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/5526",
+      "decision_number": "2019/6842",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ankesörlü/sabit hat aramaları ve iletişim tespitine ilişkin karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/44",
+      "decision_number": "2019/167",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ mahrem yapılanmasının ankesörlü telefon iletişim yöntemlerine ilişkin karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2020/9.MD-67",
+      "decision_number": "2021/372",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İletişim tespitinin hukuka uygunluğu ve FETÖ iletişim yöntemlerine ilişkin karar."
+    },
+    {
+      "court": "Danıştay 5. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/8196",
+      "decision_number": "2016/4066",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "667 sayılı KHK'nın 3. maddesinin olağanüstü tedbir niteliğine ilişkin karar."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; milli güvenlik ve kamu düzeni korunması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "6",
+      "context": "Egemenlik kayıtsız şartsız Millete ait; devlet yetkisi Anayasadan kaynaklanmalı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "9",
+      "context": "Yargı yetkisi bağımsız ve tarafsız mahkemeler tarafından kullanılır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetler kanunla sınırlanabilir; ölçülülük ilkesine uymalı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "14",
+      "context": "Anayasal haklar devlet bütünlüğünü bozmak amacıyla kullanılamaz."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "15",
+      "context": "Olağanüstü hallerde temel haklar kısmen durdurulabilir; bazı haklar dokunulamaz."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20",
+      "context": "Özel hayata saygı hakkı; müdahale kanunla sınırlanabilir."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Adil yargılanma hakkı; makul sürede yargılanma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "118",
+      "context": "Milli Güvenlik Kurulu; olağanüstü hal tavsiyesi yetkisi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "120",
+      "context": "Olağanüstü hal ilan yetkisi; kamu düzeni ve güvenliği."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Hakimler bağımsız; Anayasaya ve hukuka uygun vicdani kanaate göre karar verirler."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Hakimler azlolunamaz; meslekten çıkarma istisnası saklı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "140",
+      "context": "Hakimlik teminatı esasları; mahkeme bağımsızlığı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "141",
+      "context": "Davaların en az giderle ve mümkün olan süratle sonuçlandırılması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "145",
+      "context": "Askeri yargı organlarının kuruluşu ve işleyişi; hakimlik teminatı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "176",
+      "context": "Anayasa başlangıcı temel görüş ve ilkeleri Anayasaya dâhil."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı; bağımsız ve tarafsız mahkeme."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8",
+      "context": "Özel hayata saygı hakkı; müdahale ulusal güvenlik amacıyla mümkün."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "15",
+      "context": "Olağanüstü hallerde sözleşme yükümlülüklerine aykırı tedbirler alınabilir."
+    },
+    {
+      "law": "Olağanüstü Hal Kanunu",
+      "law_number": "2935",
+      "article": "4",
+      "context": "Bakanlar Kurulu olağanüstü hal kapsamında KHK çıkarabilir."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararname",
+      "law_number": "667",
+      "article": "3/1",
+      "context": "Terör örgütü üyeliği, mensubiyeti, iltisak veya irtibatı olan yargı mensuplarının meslekten çıkarılması."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "668",
+      "article": "4/8/b",
+      "context": "667 sayılı KHK'nın 3. maddesine askeri hakimler için komisyon düzenlemesi eklenmesi."
+    },
+    {
+      "law": "Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "6749",
+      "article": "3",
+      "context": "667 sayılı KHK'nın kanunlaştırılması; askeri hakimler komisyonu düzenlemesi."
+    },
+    {
+      "law": "Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname'nin Değiştirilerek Kabul Edilmesine Dair Kanun",
+      "law_number": "7075",
+      "article": "11/2",
+      "context": "Meslekten çıkarma kararlarına karşı Danıştayda dava açma hakkı."
+    },
+    {
+      "law": "Askeri Hakimler Kanunu",
+      "law_number": "357",
+      "article": "29",
+      "context": "Disiplin cezaları; meslekten çıkarma cezası."
+    },
+    {
+      "law": "Türk Silahlı Kuvvetleri Personel Kanunu",
+      "law_number": "926",
+      "article": "45",
+      "context": "Geçici madde; Askeri Hakimler Kanunu hükümleri uygulanmaya devam eder."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135",
+      "context": "Telekomünikasyon yoluyla iletişimin tespiti, dinlenmesi ve kayda alınması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "160/1",
+      "context": "Soruşturma makamının araştırma yetkisi; iletişim tespiti."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "16",
+      "context": "Tebligat ve cevap verme; cevap süresi uzatılabilir."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "21",
+      "context": "Sonradan ibraz olunan belgeler; mahkeme takdiri ile kabul edilebilir."
+    },
+    {
+      "law": "Telekomünikasyon Yoluyla Yapılan İletişimin Tespiti, Dinlenmesi, Sinyal Bilgilerinin Değerlendirilmesi ve Kayda Alınmasına Dair Usul ve Esaslar İle Telekomünikasyon İletişim Başkanlığının Kuruluş, Görev ve Yetkileri Hakkında Yönetmelik",
+      "law_number": null,
+      "article": "3",
+      "context": "İletişimin tespiti, dinlenmesi, kayda alınması tanımları."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal halinde tazminat ve giderim usulü."
+    }
+  ]
+}

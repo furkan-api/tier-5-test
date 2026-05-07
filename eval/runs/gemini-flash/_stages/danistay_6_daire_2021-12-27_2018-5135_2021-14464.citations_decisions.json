@@ -1,0 +1,365 @@
+{
+  "file": "danistay_6_daire_2021-12-27_2018-5135_2021-14464.md",
+  "cited_court_decisions": [
+    {
+      "court": "Bölge İdare Mahkemesi İdari Dava Dairesi",
+      "cited_court_type": "Bölge İdare Mahkemesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen Bozma",
+      "treatment": null,
+      "context": "Temyizen incelenen ve kısmen bozulan Bölge İdare Mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/8487",
+      "decision_number": "2017/1945",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin davanın reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9720",
+      "decision_number": "2017/1946",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin davanın reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9732",
+      "decision_number": "2017/1944",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin davanın reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/1196",
+      "decision_number": "2017/1950",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin davanın reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2485",
+      "decision_number": "2017/1951",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin davanın reddi kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/121",
+      "decision_number": "2019/5049",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin önceki kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/122",
+      "decision_number": "2019/5050",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin önceki kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/3980",
+      "decision_number": "2019/13",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin önceki kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/4080",
+      "decision_number": "2019/14",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin önceki kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/368",
+      "decision_number": "2019/5051",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin önceki kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9726",
+      "decision_number": "2017/1947",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Temyiz edilmeden kesinleşen kentsel dönüşüm alanı ilanına ilişkin karar."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9727",
+      "decision_number": "2017/1948",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Temyiz edilmeden kesinleşen kentsel dönüşüm alanı ilanına ilişkin karar."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/5455",
+      "decision_number": "2017/1949",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Temyiz edilmeden kesinleşen kentsel dönüşüm alanı ilanına ilişkin karar."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9112",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planı değişikliklerine karşı verilen yürütmenin durdurulması kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9113",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planı değişikliklerine karşı verilen yürütmenin durdurulması kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2472",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planı değişikliklerine karşı verilen yürütmenin durdurulması kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2974",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planı değişikliklerine karşı verilen yürütmenin durdurulması kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Yürütmenin durdurulması kararını kaldıran itirazın kabulü kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Yürütmenin durdurulması kararını kaldıran itirazın kabulü kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Yürütmenin durdurulması kararını kaldıran itirazın kabulü kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Yürütmenin durdurulması kararını kaldıran itirazın kabulü kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9112",
+      "decision_number": "2017/10269",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9113",
+      "decision_number": "2017/10271",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2472",
+      "decision_number": "2017/10272",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2974",
+      "decision_number": "2017/10273",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2976",
+      "decision_number": "2017/10274",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/2072",
+      "decision_number": "2017/10275",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/4832",
+      "decision_number": "2017/10270",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2014/3595",
+      "decision_number": "2018/8855",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "İmar planlarının kısmen iptali ve kısmen reddi kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2327",
+      "decision_number": "2019/5053",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin ilk derece kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2547",
+      "decision_number": "2019/5054",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin ilk derece kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2559",
+      "decision_number": "2019/5055",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin ilk derece kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2575",
+      "decision_number": "2019/5057",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin ilk derece kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2567",
+      "decision_number": "2019/5056",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin ilk derece kararlarını onayan kesinleşme kararı."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2253",
+      "decision_number": "2019/5052",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay 6. Daire'nin ilk derece kararlarını onayan kesinleşme kararı."
+    }
+  ]
+}

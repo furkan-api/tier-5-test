@@ -1,0 +1,94 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Genel Kurul",
+  "case_number": "2001/4",
+  "decision_number": "2001/332",
+  "decision_date": "2001-07-18",
+  "decision_type": "Norm Denetimi",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/1 uyarınca Anayasa Mahkemesi kararları kesindir.",
+  "decision_outcome": "Kısmen İptal",
+  "decision_outcome_raw": "4616 sayılı Kanun'un bazı maddelerinin iptaline, bazı maddelerine yönelik itirazların ise reddine karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": true,
+  "dissent_summary": "Karşı oylar, 4616 sayılı Kanun'un şartlı af niteliğinde olduğu ve yasama organının takdir yetkisine müdahale edilmemesi gerektiği, ayrıca bazı suçların kapsam dışı bırakılmasının eşitlik ve hukuk devleti ilkelerine aykırı olduğu yönündedir.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "4616 sayılı Kanun'un bazı hükümlerinin Anayasa'ya aykırılığı iddiası",
+  "keywords": [
+    "af yasası",
+    "şartla salıverilme",
+    "dava ertelemesi",
+    "ceza indirimi",
+    "hukuk devleti ilkesi",
+    "eşitlik ilkesi",
+    "norm denetimi",
+    "anayasa mahkemesi",
+    "4616 sayılı kanun",
+    "ceza hukuku",
+    "yargı bağımsızlığı",
+    "yasama takdir yetkisi"
+  ],
+  "legal_issues": [
+    "4616 sayılı Kanun'un uygulama tarihi ve dava ertelemesi hükümleri Anayasa'nın hukuk devleti ve eşitlik ilkelerine aykırı mıdır?",
+    "Şahsi hürriyeti bağlayıcı cezalarda öngörülen 10 yıllık indirim, müebbet hapis ve diğer cezalar arasında adaletsizliğe yol açmakta mıdır?",
+    "Kanun kapsamı dışında bırakılan bazı suçlar (TCK 188, 191, 240, 298, 383) yönünden eşitlik ve hukuk devleti ilkeleri ihlal edilmekte midir?",
+    "Daha önce şartla salıverilmeden veya aftan yararlananlar ile firar halinde olanların Kanun hükümlerinden yararlandırılmaması Anayasa'ya uygun mudur?",
+    "647 sayılı Kanun'un Ek 2. maddesindeki indirim hükümlerinin 4616 sayılı Kanun'dan yararlanacaklar hakkında uygulanmaması kazanılmış hakları ihlal eder mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hukuk devleti ilkesi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Anayasa Mahkemesi, 4616 sayılı Kanun'un bazı hükümlerinin adil bir hukuk düzeni kurma ve kişilere hukuk güvenliği sağlama yükümlülüğüne aykırı olduğunu değerlendirmiştir."
+    },
+    {
+      "concept": "eşitlik ilkesi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararda, aynı durumda bulunan kişiler arasında farklı sonuçlar doğuran Kanun hükümlerinin Anayasa'nın 10. maddesindeki eşitlik ilkesine aykırı olduğu belirtilmiştir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava ertelemesi hükmünün, beraat etme potansiyeli olan kişilerin yargılanma hakkını elinden alması nedeniyle adil yargılanma hakkına aykırılık oluşturduğu ifade edilmiştir."
+    },
+    {
+      "concept": "yasama takdir yetkisi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Mahkeme, af, erteleme ve şartla salıverilme gibi konularda yasakoyucunun takdir hakkı olduğunu kabul etmekle birlikte, bu yetkinin Anayasal ilkelere bağlı kalmak koşuluyla kullanılabileceğini vurgulamıştır."
+    },
+    {
+      "concept": "af yasası",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Mahkeme, 4616 sayılı Kanun'un şartlı salıverilme olmayıp, kendine özgü, şartlı af niteliği ağır basan bir düzenleme olduğunu belirtmiştir."
+    },
+    {
+      "concept": "dava ertelemesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kanun'un 1. maddesinin 4. bendindeki dava ertelemesi hükmü, masumiyet karinesi ve hak arama hürriyetine aykırı bulunarak iptal edilmiştir."
+    },
+    {
+      "concept": "kazanılmış haklar",
+      "role": "tartışılan",
+      "context_in_reasoning": "647 sayılı Kanun'un Ek 2. maddesindeki indirimden yararlanma hakkının 4616 sayılı Kanun ile geri alınmasının kazanılmış hakları ihlal ettiği ileri sürülmüştür."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "4616 sayılı Yasa'nın 1. maddesinin 4. bendinde düzenlenen dava ertelemesi, hukuk devleti ve eşitlik ilkelerine aykırı mıdır?",
+    "rule": "Anayasa'nın 2. maddesindeki hukuk devleti ilkesi, adil bir hukuk düzeni kurmayı ve kişilere hukuk güvenliği sağlamayı gerektirir. Anayasa'nın 10. maddesindeki eşitlik ilkesi, aynı durumda bulunan kişilere aynı kuralların uygulanmasını öngörür. Anayasa'nın 36. maddesindeki hak arama hürriyeti ve 38. maddesindeki masumiyet karinesi, kişilerin yargılanıp beraat etme hakkını güvence altına alır.",
+    "application": "4616 sayılı Yasa'nın 1. maddesinin 4. bendi, aynı suçu işleyen ancak yargılama süreçleri farklı olan kişiler arasında eşitsizlik yaratmakta, beraat etme potansiyeli olan kişilerin bu hakkını elinden almakta ve para cezalarını kapsam dışı bırakarak adaletsiz sonuçlar doğurmaktadır. Bu durum, hukuk devleti, eşitlik, hak arama hürriyeti ve masumiyet karinesi ilkelerine aykırıdır.",
+    "conclusion": "4616 sayılı Yasa'nın 1. maddesinin 4. bendi Anayasa'ya aykırı bulunarak iptal edilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "mahkemeler",
+      "sanıklar",
+      "hükümlüler",
+      "yasama organı"
+    ],
+    "context": "Çeşitli mahkemeler, 21.12.2000 tarihli 4616 sayılı '23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun'un bazı hükümlerinin Anayasa'ya aykırı olduğu kanısına varmıştır.",
+    "trigger": "4616 sayılı Kanun'un yürürlüğe girmesiyle, kanunun uygulama tarihi, ceza indirimleri, dava ertelemesi ve istisnaları hakkında ortaya çıkan anayasallık sorunları.",
+    "claim": "4616 sayılı Kanun'un başlığı, uygulama tarihi, ceza indirimleri, dava ertelemesi ve istisna hükümleri gibi çeşitli kurallarının Anayasa'nın Başlangıç, 2, 5, 10, 11, 36, 38 ve 138. maddelerine aykırı olduğu iddiasıyla iptali."
+  }
+}

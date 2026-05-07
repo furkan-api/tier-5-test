@@ -1,0 +1,95 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "cited_court_decisions": [
+    {
+      "court": "İstanbul 1. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2017/41",
+      "decision_number": "2017/942",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Borçlu bankanın iflasına karar veren ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2014/681",
+      "decision_number": "2014/1451",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Banka lehine harç iadesi davasını kabul eden ilk derece vergi mahkemesi kararı."
+    },
+    {
+      "court": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": "2019/1481",
+      "decision_number": "2019/1559",
+      "relation": "chained",
+      "outcome": "Esastan Ret",
+      "treatment": null,
+      "context": "Mahkememizin önceki kararının istinaf başvurusunu esastan reddeden BAM kararı."
+    },
+    {
+      "court": "İstanbul 9. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Olumsuz görev uyuşmazlığı çıkaran idare mahkemesi kararı."
+    },
+    {
+      "court": "Uyuşmazlık Mahkemesi",
+      "cited_court_type": "Uyuşmazlık Mahkemesi",
+      "case_number": "2020/345",
+      "decision_number": "2020/412",
+      "relation": "chained",
+      "outcome": "Adli Yargı Görevli",
+      "treatment": null,
+      "context": "Görev uyuşmazlığını çözerek adli yargıyı görevli kılan Uyuşmazlık Mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2015/2239",
+      "decision_number": "2019/1830",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Banka lehine verilen vergi mahkemesi kararını bozan Danıştay kararı."
+    },
+    {
+      "court": "Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2014/681",
+      "decision_number": "2019/768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Danıştay bozmasına uyarak bankanın harç muafiyeti davasını reddeden karar."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İflas idaresinin kamu alacaklarını reddetme yetkisi olmadığına dair içtihat."
+    },
+    {
+      "court": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İflas idaresinin kamu alacaklarını reddetme yetkisi olmadığına dair içtihat."
+    }
+  ]
+}

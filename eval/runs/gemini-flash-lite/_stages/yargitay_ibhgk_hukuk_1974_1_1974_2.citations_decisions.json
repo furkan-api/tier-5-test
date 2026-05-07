@@ -1,0 +1,75 @@
+{
+  "file": "yargitay_ibhgk_hukuk_1974_1_1974_2.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1964/6411",
+      "decision_number": "1964/6298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Muvazaa nedeniyle tapu iptali davası hakkı tanımayan karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1960/2/24",
+      "decision_number": "1960/24",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Muvazaalı işlemlerin iptali hakkını mirasçılara tanıyan karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1968/2/1510",
+      "decision_number": "1968/99",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Muvazaalı işlemlerin iptali hakkını mirasçılara tanıyan karar."
+    },
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Muvazaa nedeniyle tapu iptali davası hakkı tanımayan karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Muvazaalı işlemlerin iptali hakkını mirasçılara tanıyan karar."
+    },
+    {
+      "court": "Yargıtay İçtihatları Birleştirme (Büyük Genel Kurul)",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1953/8",
+      "decision_number": "1953/7",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Muvazaalı satışın gizli hibe olarak geçerliliğini kabul eden karar."
+    },
+    {
+      "court": "Yargıtay İçtihatları Birleştirme (Büyük Genel Kurul)",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1957/12",
+      "decision_number": "1957/2",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Şufa hakkı ile ilgili içtihadı birleştirme kararı."
+    }
+  ]
+}

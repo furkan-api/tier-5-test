@@ -1,0 +1,404 @@
+{
+  "file": "danistay_6_daire_2021-12-27_2018-5135_2021-14464.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay 6. Daire",
+  "case_number": "2018/5135",
+  "decision_number": "2021/14464",
+  "decision_date": "2021-12-27",
+  "decision_type": "Temyiz",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Kısmen Bozma",
+  "decision_outcome_raw": "Bölge İdare Mahkemesi kararının A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlardaki yapılaşmaya ilişkin kısmı oyçokluğuyla onanmış; C Bölgesinde park ve rekreasyon alanına ayrılan kısmı ise oybirliğiyle bozulmuştur.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oyda, plan lejantında yerleşime uygunluk sınırının belirlendiği ve yapılaşmanın bu sınır içinde öngörüldüğü, yerleşime uygun olmayan alanlarda yapılaşmaya izin verilmediği, DSİ yazılarının taşkın riskine ilişkin bilirkişi tespitlerini desteklemediği belirtilerek, A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlardaki yapılaşmaya ilişkin kısımlar yönünden de temyiz isteminin kabulü ile bozma kararı verilmesi gerektiği görüşü dile getirilmiştir.",
+  "appellants": [
+    "davalı",
+    "müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "müdahil",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Kentsel Dönüşüm ve Gelişim Proje Alanına İlişkin 1/1000 Ölçekli Uygulama İmar Planı Revizyonunun İptali",
+  "summary": "Dava, Ankara Çankaya'daki Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanı'na ilişkin 1/1000 ölçekli uygulama imar planı revizyonunun iptali istemine ilişkindir. İdare Mahkemesi, plan kararlarının vaziyet planına bırakılması, donatı alanlarının nüfus projeksiyonunun belirsizliği ve sosyal donatı eksiklikleri nedeniyle planı iptal etmiş, Bölge İdare Mahkemesi de istinaf başvurusunu reddetmiştir. Danıştay 6. Daire, Dairenin daha önce ilk derece olarak baktığı emsal davalardaki bilirkişi raporu ve kesinleşmiş kararları doğrultusunda, planın A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlarda yapılaşma öngören kısmı yönünden onama, C Bölgesinde park ve rekreasyon alanına ayrılan kısmı yönünden ise bozma yönünde karar vermiştir.",
+  "keywords": [
+    "imar planı revizyonu",
+    "kentsel dönüşüm",
+    "uygulama imar planı",
+    "plan kademelenmesi",
+    "jeolojik etüt",
+    "yerleşime uygunluk",
+    "hava koridoru",
+    "taşkın riski",
+    "sosyal donatı",
+    "nüfus yoğunluğu",
+    "şehircilik ilkeleri",
+    "kamu yararı"
+  ],
+  "legal_issues": [
+    "1/1000 ölçekli uygulama imar planında yapı yoğunluğu, konut sayısı ve nüfus projeksiyonunun vaziyet planına bırakılması şehircilik ilkelerine aykırı mıdır?",
+    "Jeolojik ve jeoteknik veriler bakımından yerleşime uygun olmayan alanlarda yapılaşma öngören imar planı hukuka uygun mudur?",
+    "Vadi tabanında park ve rekreasyon alanı kullanımına ayrılan alanlar yönünden imar planı iptal edilebilir mi?",
+    "Aynı planlama alanına ilişkin Danıştay'ın ilk derece sıfatıyla verdiği kesinleşmiş kararlar, sonraki temyiz incelemesinde nasıl değerlendirilir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "plan kademelenmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Üst ölçekli nazım imar planının ilke ve stratejilerine alt ölçekli planların uyumlu olması gerektiği ve aksi uygulamanın kademelenmeyi tersine işlettiği vurgulanmıştır."
+    },
+    {
+      "concept": "şehircilik ilkeleri ve kamu yararı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Plan kararlarının şehircilik ilkeleri, planlama esasları ve kamu yararına uygunluğu kararın temel denetim ölçütü olmuştur."
+    },
+    {
+      "concept": "yerleşime uygunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Jeolojik-jeoteknik etüt raporlarına göre yerleşime uygun olmayan alanlarda yapılaşma öngörülmesi hukuka aykırı bulunmuştur."
+    },
+    {
+      "concept": "park ve rekreasyon alanı",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "C Bölgesinde park ve rekreasyon alanı işlevine ayrılan kısım, Dairenin emsal kararlarıyla hukuka uygun bulunduğundan iptal kararı bu yönüyle bozulmuştur."
+    },
+    {
+      "concept": "vaziyet planına bırakma",
+      "role": "reddedilen",
+      "context_in_reasoning": "Konut sayısı ve nüfus miktarının uygulama imar planında belirlenmesi yerine vaziyet planına bırakılması planlama tekniklerine aykırı bulunmuştur."
+    },
+    {
+      "concept": "hava koridoru ve sürdürülebilir çevre",
+      "role": "tartışılan",
+      "context_in_reasoning": "A bölgesindeki paralel yapı blokları nedeniyle hava sirkülasyonunun olumsuz etkileneceği ve İmrahor Vadisi'nin hava koridoru işlevi tartışılmıştır."
+    },
+    {
+      "concept": "kesin hüküm/emsal karar etkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dairenin ilk derece sıfatıyla aynı planlama alanına ilişkin verdiği ve İDDK tarafından onanarak kesinleşen kararlardaki gerekçeler, somut uyuşmazlıkta belirleyici olmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Kentsel dönüşüm alanına ilişkin 1/1000 ölçekli uygulama imar planı revizyonunun iptali yolunda verilen ilk derece kararının istinaf başvurusunun reddine ilişkin Bölge İdare Mahkemesi kararı, planlama alanının farklı bölgeleri yönünden hukuka uygun mudur?",
+    "rule": "İmar planları üst ölçekli planlarla uyumlu olmalı, jeolojik-jeoteknik veriler ile şehircilik ilkeleri ve kamu yararına uygun bulunmalıdır; aynı planlama alanına ilişkin Danıştay'ın ilk derece sıfatıyla kesinleşmiş kararlarındaki bölgesel ayrım sonraki incelemelerde gözetilir.",
+    "application": "Dairenin ilk derece sıfatıyla baktığı emsal davalarda A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlardaki yapılaşma yönünden iptal, C Bölgesinde park ve rekreasyon alanı yönünden ret kararı verilmiş ve bu kararlar İDDK'ca onanmıştır; somut davada da aynı bölgesel ayrım esas alınmıştır.",
+    "conclusion": "Bölge İdare Mahkemesi kararının A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlardaki yapılaşmaya ilişkin kısmı onanmış; C Bölgesinde park ve rekreasyon alanına ayrılan kısmı ise bozulmuştur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı belediye",
+      "davalı büyükşehir belediyesi",
+      "davalı yanında müdahiller",
+      "ilk derece mahkemesi"
+    ],
+    "context": "Ankara Çankaya'da kentsel dönüşüm ve gelişim proje alanı ilan edilen Mühye Yeni Güneypark bölgesinde art arda yapılan imar planı revizyonları söz konusudur.",
+    "trigger": "Büyükşehir belediye meclisince onaylanan 1/1000 ölçekli uygulama imar planı revizyonunun, ilçe belediyesi tarafından şehircilik ilkeleri ve kamu yararına aykırı bulunması.",
+    "claim": "1/1000 ölçekli uygulama imar planı revizyonuna ilişkin meclis kararının iptali talep edilmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/8487",
+      "decision_number": "2017/1945",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KDGPA ilanına ve 1/5000 ölçekli sınır onayına karşı açılan davanın reddine ilişkin, İDDK'ca onanarak kesinleşen emsal karar olarak alanın hukuki statüsünün belirlenmesinde anılmıştır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9720",
+      "decision_number": "2017/1946",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kentsel dönüşüm ve gelişim proje alanı ilanına ilişkin dayanak işlemlerin yürürlükte olduğunu gösteren kesinleşmiş emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9732",
+      "decision_number": "2017/1944",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KDGPA dayanak işlemlerinin hukuka uygunluğunu ortaya koyan kesinleşmiş emsal karar olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/1196",
+      "decision_number": "2017/1950",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KDGPA'ya ilişkin emsal davaların reddine dair, İDDK'ca onanan karar olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2485",
+      "decision_number": "2017/1951",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı planlama alanına ilişkin önceki dayanak işlemlere yönelik davanın reddine dair kesinleşmiş emsal karardır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/121",
+      "decision_number": "2019/5049",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/122",
+      "decision_number": "2019/5050",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayan İDDK kararı olarak anılmıştır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/3980",
+      "decision_number": "2019/13",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KDGPA dayanak işlemlerinin hukuka uygunluğunu kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9112",
+      "decision_number": "2017/10269",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını ortaya koyan, hükme esas emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/9113",
+      "decision_number": "2017/10271",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı planlama alanına ilişkin ilk derece kararı olarak bölgesel ayrımın belirlenmesinde esas alınmıştır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2472",
+      "decision_number": "2017/10272",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "A ve B bölgelerinde iptal, C Bölgesinde park ve rekreasyon alanı yönünden ret yönündeki emsal Daire kararıdır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2014/3595",
+      "decision_number": "2018/8855",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı planlama alanına ilişkin ilk derece sıfatıyla verilen ve bölgesel ayrımı sürdüren emsal Daire kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2327",
+      "decision_number": "2019/5053",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin A-B-C bölgeleri ayrımını içeren kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2253",
+      "decision_number": "2019/5052",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı planlama alanına ilişkin Daire kararını onayan İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9726",
+      "decision_number": "2017/1947",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2010/9727",
+      "decision_number": "2017/1948",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2011/5455",
+      "decision_number": "2017/1949",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2974",
+      "decision_number": "2017/10273",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2012/2976",
+      "decision_number": "2017/10274",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/2072",
+      "decision_number": "2017/10275",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay 6. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/4832",
+      "decision_number": "2017/10270",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Aynı KDGPA planlama alanına ilişkin Daire'nin ilk derece sıfatıyla verdiği ve A-B-C bölgeleri ayrımını sürdüren emsal karardır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/4080",
+      "decision_number": "2019/14",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/368",
+      "decision_number": "2019/5051",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2547",
+      "decision_number": "2019/5054",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2559",
+      "decision_number": "2019/5055",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2567",
+      "decision_number": "2019/5056",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    },
+    {
+      "court": "Danıştay İdari Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/2575",
+      "decision_number": "2019/5057",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Daire'nin emsal kararını onayarak kesinleştiren İDDK kararıdır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "45/3",
+      "context": "Bölge İdare Mahkemesinin istinaf başvurusunun reddine ilişkin yetkisinin dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "49",
+      "context": "Bölge İdare Mahkemesi kararlarının temyizen bozulma nedenlerinin sınırlı olduğu ilkesi temelinde uygulanmıştır."
+    },
+    {
+      "law": "Plan Yapımına Ait Esaslara Dair Yönetmelik",
+      "law_number": null,
+      "article": "3/1-11",
+      "context": "Karşı oyda imar planının tanımı ve plan-not-lejant bütünlüğü temelinde yargısal denetimin ölçütü olarak anılmıştır."
+    },
+    {
+      "law": "Plan Yapımına Ait Esaslara Dair Yönetmelik",
+      "law_number": null,
+      "article": "18",
+      "context": "Karşı oyda plan çizimi ve arazi kullanım gösterim şekillerinin lejant ve normlara uygun olması gerektiği vurgusuyla anılmıştır."
+    }
+  ]
+}

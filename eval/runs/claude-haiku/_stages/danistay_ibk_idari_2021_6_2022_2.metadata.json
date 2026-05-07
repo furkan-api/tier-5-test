@@ -1,0 +1,85 @@
+{
+  "file": "danistay_ibk_idari_2021_6_2022_2.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İçtihatları Birleştirme Kurulu",
+  "case_number": "2021/6",
+  "decision_number": "2022/2",
+  "decision_date": "2022-05-27",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "İçtihatları Birleştirme Kurulu kararları 2575 sayılı Danıştay Kanunu m.40 uyarınca Danıştay daire ve kurulları ile idari mahkemeler ve idareyi bağlayıcı niteliktedir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilemeyeceği yönünde içtihadın birleştirilmesine oyçokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Muhalif oylar, içtihatların birleştirilmesinin lüzum şartını taşımadığını ve somut olay adaletinin tesisi için gerekli takdir yetkisini kısıtlayacağını; ayrıca vergi incelemesi tamamlandıktan sonra da ihtiyati haciz işleminin tesis edilebileceğini ileri sürmüştür.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işleminin tesis edilip edilemeyeceği konusunda içtihatların birleştirilmesi",
+  "keywords": [
+    "ihtiyati haciz",
+    "vergi incelemesi",
+    "tarhiyat",
+    "6183 sayılı kanun",
+    "teminat isteme",
+    "ihtiyati tahakkuk",
+    "kamu alacağının korunması",
+    "içtihat birleştirme",
+    "vergi usul kanunu",
+    "amme alacakları"
+  ],
+  "legal_issues": [
+    "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebilir mi?",
+    "6183 sayılı Kanun'un 9. maddesinde belirtilen teminat istenmesini gerektiren hallerin varlığı halinde ihtiyati haciz işleminin uygulanması için vergi incelemesinin tamamlanmış olması şart mıdır?",
+    "İnceleme elemanının teminat tutarını belirleme ve talep yetkisi inceleme tamamlandıktan sonra da kullanılabilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "ihtiyati haciz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işleminin vergi incelemesi sonrası tesis edilip edilemeyeceğinin belirlenmesidir."
+    },
+    {
+      "concept": "teminat isteme",
+      "role": "uygulanan",
+      "context_in_reasoning": "6183 sayılı Kanun'un 9. maddesinde düzenlenen teminat isteme müessesesinin 13. maddenin 1. bendindeki ihtiyati haciz nedeni olarak işlev gördüğü ve yorumlanması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "kamu alacağının korunması",
+      "role": "yorumlanan",
+      "context_in_reasoning": "6183 sayılı Kanun'un Birinci Kısmının İkinci Bölümünde yer alan kamu alacağının korunmasına yönelik tedbirlerin amacı ve kapsamı yorumlanmıştır."
+    },
+    {
+      "concept": "vergi incelemesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Vergi incelemesinin tamamlanması ile ihtiyati haciz işleminin tesis edilebilirliği arasındaki ilişki tartışılmıştır."
+    },
+    {
+      "concept": "inceleme elemanının yetkileri",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "İnceleme elemanının teminat tutarını belirleme yetkisinin inceleme tamamlandıktan sonra kullanılamayacağı belirtilerek diğer bentlere göre ihtiyati haciz kararı alınabilirliğinden ayırt edilmiştir."
+    },
+    {
+      "concept": "geçici koruma önlemi",
+      "role": "reddedilen",
+      "context_in_reasoning": "Muhalif oylar ihtiyati hacizin geçici bir koruma önlemi olması nedeniyle vergi incelemesi sonrası da uygulanabileceğini ileri sürmüş ancak çoğunluk tarafından reddedilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebilir mi?",
+    "rule": "6183 sayılı Kanun'un 13. maddesinin 1. bendinde ihtiyati haciz nedeni olarak gösterilen 9. madde gereğince teminat istenmesini gerektiren hallerin varlığı halinde, teminat tutarının belirlenmesi ve talep konusunda fiilen vergi incelemesini yapan inceleme elemanına yetki tanınmıştır. İnceleme elemanının vergi incelemesini tamamlayıp raporu göndermekle bu hususlara ilişkin görev ve yetkileri sona ermektedir.",
+    "application": "İnceleme sonuçlandıktan sonra 13. maddenin 1. bendine göre ihtiyati haciz kararı alınamayacağından, şartların varlığı halinde 13. maddenin diğer bentlerine göre ihtiyati haciz kararı alınabilir.",
+    "conclusion": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilemeyeceği yönünde içtihadın birleştirilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "vergi mükellefi",
+      "vergi inceleme elemanı",
+      "tahsil dairesi",
+      "amme idaresi"
+    ],
+    "context": "Vergi incelemesi yapılan mükelleflerin kamu alacağının korunması amacıyla ihtiyati haciz işleminin tesis edilmesi konusunda Danıştay daireleri arasında farklı uygulamalar ortaya çıkmıştır.",
+    "trigger": "Danıştay Üçüncü ve Dokuzuncu Daireleri ile Dördüncü, Yedinci Daireleri ve Vergi Dava Daireleri Kurulu arasında vergi incelemesi sonrası ihtiyati haciz işleminin tesis edilebilirliği konusunda aykırı kararlar verilmesi.",
+    "claim": "Danıştay Başkanı tarafından vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra ihtiyati haciz işleminin tesis edilip edilemeyeceği konusundaki içtihat aykırılığının birleştirilmesi talep edilmiştir."
+  }
+}

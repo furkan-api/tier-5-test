@@ -1,0 +1,53 @@
+{
+  "file": "istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md",
+  "cited_law_articles": [
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "93-109",
+      "context": "Tebliğ esasları, muhatapları, usulleri ve tebliğ yerine geçen işlemler."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "107/A",
+      "context": "Elektronik ortamda tebliğ yapılması şartları ve usulü; tebliğ sayılma tarihi."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "55",
+      "context": "Ödeme emri ile tebliğ ve ödeme süresi; 15 gün içinde ödeme veya mal bildirimi."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "58",
+      "context": "Ödeme emri aleyhine dava açma hakkı ve süresi; 15 gün içinde vergi mahkemesine başvuru."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu",
+      "law_number": "193",
+      "article": "120 mükerrer/3",
+      "context": "Geçici vergi eksik beyanı; %10 aşan tutarda re'sen veya ikmalen tarh."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu",
+      "law_number": "193",
+      "article": "120 mükerrer/4",
+      "context": "Geçici vergi mahsubu; mahsup süresi sonrası kesinleşen asılların terkin edilmesi."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "46",
+      "context": "Temyiz yolu açıklığı; tebliğ tarihinden itibaren 30 gün içinde Danıştay'a başvuru."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "13/j",
+      "context": "Harçtan muafiyet; istinaf ve temyiz başvuru harçları."
+    }
+  ]
+}

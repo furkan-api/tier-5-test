@@ -1,0 +1,115 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/11872",
+      "decision_number": "2012/17091",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Başvurucunun temyiz incelemesinde verilen karar."
+    },
+    {
+      "court": "Erzurum 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2007/215",
+      "decision_number": "2009/184",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvurucunun ilk derece mahkemesinde yargılandığı karar."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6689",
+      "decision_number": "2014/18617",
+      "relation": "chained",
+      "outcome": "Kısmen Onama",
+      "treatment": null,
+      "context": "Bozma kararı sonrası yargılamada verilen temyiz kararı."
+    },
+    {
+      "court": "Erzurum 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2014/327",
+      "decision_number": "2014/275",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Bozma sonrası yargılamada başvurucunun tahliyesine karar veren mahkeme."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/5-137",
+      "decision_number": "2013/58",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tanıklıktan çekinebilecek kişilerin görüşmelerinin delil olarak kullanılması."
+    },
+    {
+      "court": "Diyarbakır 6. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": "2009/989",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Başvurucunun kardeşinin HAGB itirazının reddedilmesi."
+    },
+    {
+      "court": "Yargıtay 1. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2007/2898",
+      "decision_number": "2008/3015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Soruşturma aşamasında görev yapan hâkimin kovuşturmada görev yapması."
+    },
+    {
+      "court": "Yargıtay 6. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/20436",
+      "decision_number": "2013/13582",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Soruşturma aşamasında görev yapan hâkimin kovuşturmada görev yapması."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/1-75",
+      "decision_number": "2011/114",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hâkimin tarafsızlığı ve soruşturma aşamasında verilen kararlar."
+    },
+    {
+      "court": "Yargıtay 15. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12095",
+      "decision_number": "2012/42609",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Disiplin cezası veren hâkimin aynı olay hakkında yargılamaya katılması."
+    },
+    {
+      "court": "Yargıtay 5. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4630",
+      "decision_number": "2013/2733",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Disiplin cezası veren hâkimin aynı olay hakkında yargılamaya katılması."
+    }
+  ]
+}

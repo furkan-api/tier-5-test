@@ -1,0 +1,412 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi İkinci Bölüm",
+  "case_number": "58811/18",
+  "decision_number": null,
+  "decision_date": "2023-10-10",
+  "decision_type": "Kabul Edilebilirlik Hakkında",
+  "is_final": true,
+  "finality_basis": "AİHM Büyük Daire'ye itiraz süresi dolduğunda veya itiraz edilmediğinde karar kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez olduğuna oy birliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Milletvekili Adaylığının Cezai Mahkumiyet Nedeniyle Reddedilmesi",
+  "summary": "Başvuran, 24 Haziran 2018 milletvekili seçimlerinde adaylık başvurusunun, cezai mahkumiyeti nedeniyle yasaklanmış haklarının iadesini gösteren bir mahkeme kararı sunmadığı gerekçesiyle Yüksek Seçim Kurulu (YSK) tarafından reddedilmesi üzerine Avrupa İnsan Hakları Mahkemesi'ne başvurmuştur. Başvuran, Diyarbakır Ağır Ceza Mahkemesi'nden aldığı ve cezasının infazıyla hak yoksunluğunun sona erdiğini belirten kararın yeterli olduğunu savunurken, YSK bu kararın 5352 sayılı Kanun'un 13/A maddesi uyarınca yasaklanmış hakların iadesini teyit etmediği gerekçesiyle adaylığı reddetmiştir. Mahkeme, YSK'nın kararının ulusal mevzuata dayandığını, erişilebilir ve öngörülebilir olduğunu, keyfi olmadığını ve Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi anlamında bir ihlal oluşturmadığını belirterek başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez olduğuna karar vermiştir.",
+  "keywords": [
+    "seçilme hakkı",
+    "adaylık başvurusu",
+    "memnu hakların iadesi",
+    "yüksek seçim kurulu",
+    "adil yargılanma hakkı",
+    "kanunilik ilkesi",
+    "öngörülebilirlik",
+    "sözleşme ek protokol 1 madde 3",
+    "hak yoksunluğu"
+  ],
+  "legal_issues": [
+    "Milletvekili adaylığı için memnu hakların iadesine ilişkin YSK'nın yorumu ve uygulaması, Sözleşme'ye Ek Protokol 1 Madde 3'e uygun mudur?",
+    "Cezai mahkumiyet sonrası hak yoksunluğunun sona erdiğine dair mahkeme kararı, milletvekili adaylığı için yeterli midir?",
+    "YSK'nın adaylık başvurusunu reddederken uyguladığı mevzuatın erişilebilir ve öngörülebilir olduğu kabul edilebilir mi?",
+    "Adaylık başvurusunun reddi keyfi midir ve meşru bir amaca hizmet etmekte midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "seçilme hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, başvuranın milletvekili genel seçimlerinde aday olma hakkının kısıtlanıp kısıtlanmadığıdır."
+    },
+    {
+      "concept": "memnu hakların iadesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvuranın cezai mahkumiyeti sonrası hak yoksunluğunun sona erdiğine dair mahkeme kararının, milletvekili adaylığı için yeterli olup olmadığı tartışılmıştır."
+    },
+    {
+      "concept": "erişilebilirlik ve öngörülebilirlik",
+      "role": "tartışılan",
+      "context_in_reasoning": "YSK tarafından uygulanan mevzuatın erişilebilir ve öngörülebilir olup olmadığı taraflarca tartışılmıştır."
+    },
+    {
+      "concept": "keyfilik",
+      "role": "uygulanan",
+      "context_in_reasoning": "YSK'nın kararının keyfi olup olmadığı ve meşru bir amaca hizmet edip etmediği incelenmiştir."
+    },
+    {
+      "concept": "hukukun üstünlüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Devletlerin, Sözleşme'den doğan yükümlülüklerine uyulmasını sağlayan normatif bir çerçeve oluşturma yükümlülüğü bağlamında değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Başvuranın milletvekili adaylığının, cezai mahkumiyeti nedeniyle yasaklanmış haklarının iade edildiğini kanıtlayan bir mahkeme kararı sunmadığı gerekçesiyle reddedilmesi, Sözleşme'ye Ek Protokol 1 Madde 3'ü ihlal eder mi?",
+    "rule": "Sözleşme'ye Ek Protokol 1 Madde 3 ile güvence altına alınan seçilme hakkı mutlak değildir ve yasalarla belirlenen, orantılı ve meşru amaçlara dayanan kısıtlamalara tabi olabilir; bu kısıtlamaların keyfi olmaması ve hukukun üstünlüğü ilkesine uygun olması gerekir.",
+    "application": "YSK, 5352 sayılı Kanun'un 13/A maddesi uyarınca, milletvekili adaylığı için yasaklanmış hakların geri verildiğini teyit eden bir mahkeme kararı sunulması gerektiğini yerleşik içtihadı gereği uygulamıştır; başvuranın sunduğu karar bu nitelikte olmadığından ve adaylık için gerekli yasal süreler dolmadığından, YSK'nın kararı keyfi değildir.",
+    "conclusion": "Başvurunun açıkça dayanaktan yoksun olduğu ve Sözleşme'nin 35. maddesinin 3. fıkrasının a) bendi uyarınca kabul edilemez olduğuna karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Yüksek Seçim Kurulu (YSK)",
+      "Diyarbakır Ağır Ceza Mahkemesi",
+      "Halkların Demokratik Partisi (HDP)"
+    ],
+    "context": "Başvuranın, cezai mahkumiyeti nedeniyle hak yoksunluğuna uğradığına dair mahkeme kararına rağmen milletvekili adaylığının YSK tarafından reddedilmesi.",
+    "trigger": "Başvuranın 24 Haziran 2018 milletvekili genel seçimlerinde HDP listesinden adaylık başvurusunun YSK tarafından reddedilmesi.",
+    "claim": "Milletvekili aday olma hakkından haksız yere mahrum bırakıldığı iddiasıyla Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesinin ihlal edildiği iddiası."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "10226/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Demokratik siyasi sistemdeki temel hakların önemi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "7/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Demokratik siyasi sistemdeki temel hakların önemi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "310/15",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Demokratik siyasi sistemdeki temel hakların önemi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "113",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı arasındaki ayrım hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "58278/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı arasındaki ayrım hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "46726/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının belirlenmesinde devletlerin takdir yetkisi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30386/05",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının belirlenmesinde devletlerin takdir yetkisi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "75947/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının belirlenmesinde devletlerin takdir yetkisi hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17707/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55066/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "33554/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39424/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "38978/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "77568/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesi için öngörülen usullerin adalet ve kesinlik ile karakterize edilmesi gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "16959/10",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "58125/09",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "48621/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "53915/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adayların kaydedilmesiyle ilgili ulusal usullerin keyfi olmaması gerektiği hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17864/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "YSK'nın kararının keyfi olmadığı hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "21396/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "YSK'nın kararının keyfi olmadığı hakkında."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "31953/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "YSK'nın kararının keyfi olmadığı hakkında."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": null,
+      "case_number": null,
+      "decision_number": "463",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adaylık başvurularının kabulüne ilişkin içtihat."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": null,
+      "case_number": null,
+      "decision_number": "458",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adaylık başvurularının kabulüne ilişkin içtihat."
+    },
+    {
+      "court": "Diyarbakır Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın mahkumiyetine ve hak yoksunluğuna ilişkin karar."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın mahkumiyetini onayan karar."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": null,
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuranın adaylık başvurusunu reddeden karar."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme'ye Ek Protokol",
+      "law_number": null,
+      "article": "1/3",
+      "context": "Yasama organının seçilmesinde halkın kanaatlerinin özgürce açıklanmasını sağlayacak şartlar içinde, makul aralıklarla, gizli oyla serbest seçimler yapma taahhüdü."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "314/2",
+      "context": "Terör örgütüne yardım etme ve üye olma suçundan verilen ceza."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "76/2",
+      "context": "Milletvekili seçilme yeterliliği ve yasakları; yüz kızartıcı suçlar ve terör suçlarından mahkumiyet."
+    },
+    {
+      "law": "Milletvekili Seçimi Kanunu",
+      "law_number": "2839",
+      "article": "11/e",
+      "context": "Milletvekili seçilemeyecekler; toplam bir yıl veya daha fazla hapis cezası."
+    },
+    {
+      "law": "Milletvekili Seçimi Kanunu",
+      "law_number": "2839",
+      "article": "11/f",
+      "context": "Milletvekili seçilemeyecekler; affa uğramış olsalar bile belirli suçlardan mahkumiyet."
+    },
+    {
+      "law": "Milletvekili Seçimi Kanunu",
+      "law_number": "2839",
+      "article": "11/3",
+      "context": "Terör eylemlerinden mahkum olanların milletvekili seçilemeyeceği."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "53/2",
+      "context": "Belli hakları kullanmaktan yoksun bırakılma; hak yoksunluğunun hapis cezasının infazı tamamlanıncaya kadar sürmesi."
+    },
+    {
+      "law": "Adli Sicil Kanunu",
+      "law_number": "5352",
+      "article": "13/A",
+      "context": "Yasaklanmış hakların geri verilmesi usulü ve şartları."
+    },
+    {
+      "law": "Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun",
+      "law_number": "298",
+      "article": "131/2",
+      "context": "Yüksek Seçim Kurulu kararlarına karşı şikayetlerin incelenmesi ve kesin karara bağlanması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "79/2",
+      "context": "Yüksek Seçim Kurulunun seçimlerle ilgili bütün işlemleri yapma ve yaptırma, yolsuzlukları, şikayet ve itirazları inceleme ve kesin karara bağlama görevi."
+    }
+  ]
+}

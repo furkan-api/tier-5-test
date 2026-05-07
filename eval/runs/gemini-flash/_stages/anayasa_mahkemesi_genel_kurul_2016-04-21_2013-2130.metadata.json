@@ -1,0 +1,100 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi İkinci Bölüm",
+  "case_number": "2013/2130",
+  "decision_number": null,
+  "decision_date": "2016-04-21",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurucunun kişi hürriyeti ve güvenliği hakkı, haberleşme hürriyeti ve adil yargılanma hakkı ihlali iddialarının açıkça dayanaktan yoksun olması veya kişi bakımından yetkisizlik ya da başvuru yollarının tüketilmemesi nedenleriyle kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "ret"
+    }
+  ],
+  "subject": "Tutukluluğun uzun sürmesi, tazminat hakkının tanınmaması, telefon dinlemelerinin hukuka aykırılığı ve adil yargılanma hakkının ihlali iddiaları",
+  "keywords": [
+    "bireysel başvuru",
+    "adil yargılanma hakkı",
+    "haberleşme hürriyeti",
+    "kişi hürriyeti ve güvenliği",
+    "telefon dinleme",
+    "hukuka aykırı delil",
+    "tarafsız mahkeme",
+    "makul sürede yargılanma",
+    "ihaleye fesat karıştırma",
+    "örgüt kurma",
+    "tutukluluk",
+    "kabul edilemezlik"
+  ],
+  "legal_issues": [
+    "Ceza yargılamasında yaklaşık 2 yıl 5 aylık tutukluluk süresi Anayasa m.19 kapsamında makul süreyi aşmakta mıdır?",
+    "Hakkında soruşturma başlamadan ve farklı bir dosya üzerinden yapılan telefon dinlemeleri haberleşme hürriyetini ihlal eder mi?",
+    "Soruşturma aşamasında arama ve el koyma talepleri hakkında karar veren hâkimin kovuşturma aşamasında yargılamaya katılması tarafsız mahkemede yargılanma hakkını ihlal eder mi?",
+    "Tanıklıktan çekinme hakkı bulunan kişilerle yapılan görüşmeler, bu kişilerin suça karıştığı tespit edildiğinde delil olarak kullanılabilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "makul sürede yargılanma hakkı",
+      "role": "reddedilen",
+      "context_in_reasoning": "Başvurucunun yaklaşık 2 yıl 5 aylık tutukluluk süresi, isnat olunan suçun ağırlığı ve yargılama sürecinin özenli yürütülmesi dikkate alındığında makul bulunmuştur."
+    },
+    {
+      "concept": "haberleşme hürriyeti",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Telefon dinlemelerinin hukuka uygunluğu, haberleşme hürriyetine yapılan müdahalenin kanunilik, meşru amaç ve ölçülülük ilkelerine uygunluğu açısından değerlendirilmiştir."
+    },
+    {
+      "concept": "tarafsız mahkemede yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Soruşturma aşamasında arama ve el koyma taleplerine ilişkin karar veren hâkimin kovuşturmaya katılması, tarafsızlık ilkesi açısından incelenmiş ve ihlal bulunmamıştır."
+    },
+    {
+      "concept": "hukuka aykırı delil",
+      "role": "tartışılan",
+      "context_in_reasoning": "Telefon dinleme kayıtlarının, özellikle tanıklıktan çekinme hakkı olan kişilerle yapılan görüşmelerin delil niteliği tartışılmış, ancak belirli koşullarda hukuka uygun kabul edilmiştir."
+    },
+    {
+      "concept": "açıkça dayanaktan yoksunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvurucunun birçok iddiası, Anayasa Mahkemesi tarafından açıkça dayanaktan yoksun bulunarak kabul edilemezlik kararı verilmiştir."
+    },
+    {
+      "concept": "kişi bakımından yetkisizlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Beraatla sonuçlanan suçlamalar yönünden başvurucunun mağdur sıfatı taşımadığı gerekçesiyle bu iddialar kişi bakımından yetkisizlik nedeniyle kabul edilemez bulunmuştur."
+    },
+    {
+      "concept": "başvuru yollarının tüketilmemesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Devam eden yargılama yönünden adil yargılanma hakkı iddialarının henüz olağan kanun yollarında incelenme imkanı bulunduğu için bu iddialar kabul edilemez bulunmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Hakkında soruşturma başlamadan ve farklı bir dosya üzerinden yapılan telefon dinlemeleri haberleşme hürriyetini ihlal eder mi?",
+    "rule": "Anayasa'nın 22. maddesi ve 5271 sayılı CMK'nın 135. ve 137. maddeleri uyarınca, haberleşme hürriyetine müdahale, kanunla öngörülmeli, meşru bir amaca dayanmalı ve demokratik toplumda gerekli ve ölçülü olmalıdır; kuvvetli suç şüphesi ve başka yolla delil elde etme imkanının bulunmaması şartıyla hakim kararıyla dinleme yapılabilir.",
+    "application": "Başvurucunun telefonu, ihaleye fesat karıştırma suçuna ilişkin kuvvetli şüphe ve başka delil elde etme imkanı bulunmadığı gerekçesiyle hakim kararıyla dinlenmiştir. Soruşturmanın farklı bir dosya numarası üzerinden yürütülmesi veya soruşturma başlamadan dinleme yapıldığı iddiaları, muhabere defteri kayıtları ve sehven yapılan numaralandırma hataları dikkate alındığında hukuka aykırılık teşkil etmemektedir.",
+    "conclusion": "Telefon dinlemeleri haberleşme hürriyetine yönelik bir ihlal oluşturmamaktadır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Cumhuriyet savcısı",
+      "Sulh Ceza Mahkemesi",
+      "Ağır Ceza Mahkemesi"
+    ],
+    "context": "Başvurucu hakkında ihaleye fesat karıştırma, örgüt kurma ve resmi evrakta sahtecilik suçlarından yürütülen ceza soruşturması ve kovuşturması süreci.",
+    "trigger": "Başvurucunun telefonlarının ihaleye fesat karıştırma suçuna ilişkin kuvvetli şüphe üzerine dinlenmesi ve ardından tutuklanarak hakkında dava açılması.",
+    "claim": "Başvurucu, tutukluluğun uzun sürmesi, tazminat hakkının tanınmaması, telefon dinlemelerinin hukuka aykırılığı ve adil yargılanma hakkının çeşitli yönlerden ihlal edildiği iddialarıyla bireysel başvuruda bulunmuştur."
+  }
+}

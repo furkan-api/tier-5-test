@@ -1,0 +1,97 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Genel Kurul",
+  "case_number": "2024/157",
+  "decision_number": "2025/121",
+  "decision_date": "2025-06-03",
+  "decision_type": "Norm Denetimi",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/1 uyarınca Anayasa Mahkemesi kararları kesindir.",
+  "decision_outcome": "İptal",
+  "decision_outcome_raw": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının Anayasa'ya aykırı olduğuna ve iptaline oyçokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşıoy gerekçesinde, iptali istenen kuralın işçiye katlanılamaz bir külfet yüklemediği, müteselsil sorumluluk ve zorunlu dava arkadaşlığı hükümleri ile 4857 sayılı Kanun'un 20. maddesindeki arabuluculuk koşulu yerine getirilmeden dava açılması halinde hak kaybı yaşanmayacağı düzenlemesi dikkate alındığında ölçülülük ilkesini ihlal etmediği belirtilmiştir.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının Anayasa'nın 36. maddesine aykırılığı iddiasıyla iptali talebi.",
+  "keywords": [
+    "işe iade davası",
+    "arabuluculuk",
+    "asıl işveren-alt işveren ilişkisi",
+    "dava şartı",
+    "hak arama özgürlüğü",
+    "adil yargılanma hakkı",
+    "ölçülülük ilkesi",
+    "orantılılık",
+    "mecburi dava arkadaşlığı",
+    "taraf sıfatı",
+    "hukuki belirlilik",
+    "iş kanunu"
+  ],
+  "legal_issues": [
+    "Asıl işveren-alt işveren ilişkisinin varlığı hâlinde işe iade talebiyle arabulucuya başvurulduğunda, anlaşmanın gerçekleşebilmesi için işverenlerin arabuluculuk görüşmelerine birlikte katılmaları ve iradelerinin birbirine uygun olması şartı, hak arama özgürlüğünü ölçüsüz şekilde sınırlamakta mıdır?",
+    "İşçiye, tarafı olmadığı asıl işveren ve alt işveren arasındaki hukuki ilişkiyi tespit etme ve arabuluculuk sürecini birlikte yürütme yükümlülüğü getirilmesi orantılı mıdır?",
+    "Hukuk Muhakemeleri Kanunu'nun 124. maddesindeki taraf değişikliği imkanı, itiraz konusu kuralın meşru amacına ulaşması için yeterli ve daha hafif bir sınırlama mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, 7036 sayılı Kanun'un 3/15. maddesinin işçinin hak arama özgürlüğüne getirdiği sınırlamanın Anayasa'ya uygunluğunun incelenmesidir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mahkemeye erişim hakkı, adil yargılanma hakkının bir görünümü olarak değerlendirilmiş ve kuralın bu hakka sınırlama getirdiği tespit edilmiştir."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa'nın 13. maddesi kapsamında temel hak ve özgürlüklere getirilen sınırlamaların elverişlilik, gereklilik ve orantılılık alt ilkeleri yönünden ölçülülük ilkesine uygun olup olmadığı değerlendirilmiştir."
+    },
+    {
+      "concept": "orantılılık ilkesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Kuralın, işçiye katlanamayacağı bir külfet yüklemesi nedeniyle kamusal yarar ile bireysel yarar arasında makul bir denge kurulamadığı ve orantılılık ilkesini ihlal ettiği sonucuna varılmıştır."
+    },
+    {
+      "concept": "dava şartı arabuluculuk",
+      "role": "uygulanan",
+      "context_in_reasoning": "İşe iade davalarında arabulucuya başvurmanın dava şartı olduğu ve bu zorunluluğun yerine getirilmemesi halinde davanın usulden reddedileceği belirtilmiştir."
+    },
+    {
+      "concept": "asıl işveren-alt işveren ilişkisi",
+      "role": "tartışılan",
+      "context_in_reasoning": "İş Kanunu'nda tanımlanan asıl işveren-alt işveren ilişkisinin işe iade davalarındaki taraf sıfatı sorunları bağlamında ele alınmıştır."
+    },
+    {
+      "concept": "mecburi dava arkadaşlığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Yargıtay kararlarında asıl işveren ile alt işveren arasında şekli anlamda zorunlu dava arkadaşlığı bulunduğu belirtilmiştir."
+    },
+    {
+      "concept": "tarafta iradi değişiklik",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "HMK m.124'teki taraf değişikliği imkanının, taraf sıfatı sorununun engellenmesi amacına ulaşmak için daha hafif bir sınırlama olduğu ve kuralın bu amaç bakımından gerekli olmadığı belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının, asıl işveren-alt işveren ilişkisinde işe iade talebiyle arabuluculukta işverenlerin birlikte katılımını ve irade birliğini şart koşması, işçinin hak arama özgürlüğünü ölçüsüz sınırlamakta mıdır?",
+    "rule": "Anayasa'nın 36. maddesiyle güvence altına alınan hak arama özgürlüğü ve mahkemeye erişim hakkı, Anayasa'nın 13. maddesindeki ölçülülük ilkesi (elverişlilik, gereklilik, orantılılık) kapsamında sınırlanabilir. Sınırlama, meşru bir amaca yönelik olmalı, amaca ulaşmaya elverişli, zorunlu ve hak ile amaç arasında makul bir denge gözetmelidir.",
+    "application": "İtiraz konusu kural, işçiye asıl işveren-alt işveren ilişkisini ve taraflarını araştırma yükümlülüğü getirerek mahkemeye erişim hakkına sınırlama getirmektedir. Kural, taraf sıfatı sorununu engelleme ve işverenleri arabuluculuğa dahil etme amacı bakımından elverişli ve ikinci amaç için gerekli görülse de, işçinin tarafı olmadığı bir ilişkiyi tespit etme külfeti ve HMK m.124'teki taraf değişikliği imkanı göz önüne alındığında, işçiye katlanamayacağı bir külfet yüklemekte ve kamusal yarar ile bireysel yarar arasında makul bir denge kurulamadığından orantılılık ilkesini ihlal etmektedir.",
+    "conclusion": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrası, Anayasa'nın 13. ve 36. maddelerine aykırı olduğundan iptal edilmelidir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "iş mahkemesi",
+      "işçi",
+      "alt işveren",
+      "asıl işveren"
+    ],
+    "context": "İş sözleşmesi feshedilen bir işçinin, asıl işveren-alt işveren ilişkisinin bulunduğu bir durumda işe iade talebiyle açtığı dava.",
+    "trigger": "Adana 6. İş Mahkemesi'nin, alt işveren aleyhine açılan işe iade davasında 7036 sayılı İş Mahkemeleri Kanunu'nun 3/15. maddesinin Anayasa'ya aykırı olduğu kanısına varması.",
+    "claim": "İş Mahkemesi, 7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının Anayasa'nın 36. maddesinde düzenlenen hak arama özgürlüğüne aykırılığı iddiasıyla iptalini talep etmiştir."
+  }
+}

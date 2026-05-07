@@ -1,0 +1,390 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Ceza Genel Kurulu",
+  "case_number": "2017/647",
+  "decision_number": "2019/239",
+  "decision_date": "2019-03-21",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "İade",
+  "decision_outcome_raw": "Yerel Mahkemece verilen gerekçeli kararların Aile, Çalışma ve Sosyal Hizmetler Bakanlığına tebliğinin sağlanması için dosyanın Yerel Mahkemeye gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdi edilmesine oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Beş Genel Kurul Üyesi, Aile, Çalışma ve Sosyal Hizmetler Bakanlığının sanıklar hakkında açılan kamu davasından haberdar edilmesinin zorunlu olmadığı görüşüyle çoğunluk kararına katılmamıştır.",
+  "appellants": [
+    "sanık müdafii"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "sanık müdafii",
+      "result": null
+    }
+  ],
+  "subject": "Çocuğun Cinsel İstismarı ve Kişiyi Hürriyetinden Yoksun Kılma Suçlarında Aile, Çalışma ve Sosyal Hizmetler Bakanlığının Davadan Haberdar Edilmesi Zorunluluğu",
+  "summary": "Çocuğun nitelikli/basit cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarından mahkûmiyetle sonuçlanan ve Yerel Mahkemece direnilen hükümler temyiz edilmiştir. Ceza Genel Kurulu, esasa girmeden önce ön sorun olarak 6284 sayılı Kanun'un 20/2. maddesi uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davaya katılma hakkı bulunduğunu ve davadan haberdar edilmesinin zorunlu olduğunu tespit etmiştir. Bakanlığa gerekçeli kararların tebliği sağlanmadığından, temyiz incelemesinin yapılabilmesi için dosyanın Yerel Mahkemeye gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdiine oy çokluğuyla karar verilmiştir.",
+  "keywords": [
+    "çocuğun cinsel istismarı",
+    "kişiyi hürriyetinden yoksun kılma",
+    "kamu davasına katılma",
+    "6284 sayılı kanun",
+    "kadına karşı şiddet",
+    "aile içi şiddet",
+    "istanbul sözleşmesi",
+    "pozitif ayrımcılık",
+    "duruşmadan haberdar edilme",
+    "gerekçeli kararın tebliği",
+    "direnme kararı",
+    "hak arama hürriyeti"
+  ],
+  "legal_issues": [
+    "6284 sayılı Kanun'un 20/2. maddesi uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının kadın, çocuk ve aile bireylerine yönelik şiddet nedeniyle açılan kamu davasından haberdar edilmesi zorunlu mudur?",
+    "Katılma hakkı kanundan kaynaklanan tüzel kişiye gerekçeli karar tebliğ edilmeden temyiz incelemesi yapılabilir mi?",
+    "Bakanlığın davaya katılma ve kanun yoluna başvurma haklarının kullandırılmaması hâlinde Yargıtayca izlenecek usul nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "kamu davasına katılma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Bakanlığın 6284 sayılı Kanun uyarınca kanundan doğan davaya katılma hakkının kullandırılması ön sorun olarak kararın eksenini oluşturmuştur."
+    },
+    {
+      "concept": "duruşmadan haberdar edilme hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "CMK'nın 234/1-b maddesi uyarınca katılma hakkı bulunanların yargılamanın başında davadan haberdar edilmesi gerektiği uygulanmıştır."
+    },
+    {
+      "concept": "gerekçeli kararın tebliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "CMK'nın 35 ve 260. maddeleri uyarınca temyiz hakkı bulunan Bakanlığa gerekçeli kararın tebliği zorunluluğu uygulanmıştır."
+    },
+    {
+      "concept": "pozitif ayrımcılık",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Anayasa m.10 ve uluslararası sözleşmeler ışığında pozitif ayrımcılık ilkesi, Bakanlığın davadan haberdar edilmesi yükümlülüğünün yorumlanmasında esas alınmıştır."
+    },
+    {
+      "concept": "hak arama hürriyeti",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Anayasa m.36 ve 40 kapsamında hak arama hürriyetinin, katılma hakkı sahibi Bakanlığa da kullandırılması gerektiği yorumu yapılmıştır."
+    },
+    {
+      "concept": "kadına yönelik şiddetin önlenmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "İstanbul Sözleşmesi ve 6284 sayılı Kanun çerçevesinde kadına ve çocuğa yönelik şiddetle mücadele yükümlülükleri tartışılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "6284 sayılı Kanun uyarınca davaya katılma hakkı bulunan Aile, Çalışma ve Sosyal Hizmetler Bakanlığına davadan haber verilmeden ve gerekçeli karar tebliğ edilmeden temyiz incelemesi yapılabilir mi?",
+    "rule": "6284 sayılı Kanun'un 20/2. maddesi ve Uygulama Yönetmeliği'nin 46. maddesi Bakanlığa kadın, çocuk ve aile bireylerine yönelik şiddet dolayısıyla açılan davalara katılma hakkı tanımaktadır; CMK'nın 234/1-b maddesi katılma hakkı sahibinin duruşmadan haberdar edilmesini, 35 ve 260. maddeleri ise gerekçeli kararın tebliği ile kanun yoluna başvuru imkânının sağlanmasını zorunlu kılmaktadır.",
+    "application": "Çocuğun cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarından açılan davada Yerel Mahkemece Bakanlığa duruşma davetiyesi çıkarılmamış ve gerekçeli karar tebliğ edilmemiş olup, bu durum Bakanlığın kanundan doğan katılma ve kanun yoluna başvurma haklarının kullanılmasını engellemiştir.",
+    "conclusion": "Bakanlığa gerekçeli kararların tebliğinin sağlanması ve temyiz süresinin başlatılması için dosyanın Yerel Mahkemeye gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdiine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "sanıklar",
+      "mağdure çocuk",
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı"
+    ],
+    "context": "Çocuk yaştaki mağdureye karşı işlendiği iddia edilen cinsel istismar ve hürriyetten yoksun kılma eylemleri nedeniyle ağır ceza mahkemesinde görülen kamu davası.",
+    "trigger": "Yerel Mahkemenin sanıkları mahkûm etmesi, Özel Dairenin beraat gerekçesiyle bozması ve Yerel Mahkemenin önceki hükümlerinde direnerek mahkûmiyete devam etmesi.",
+    "claim": "Sanık müdafilerinin direnme hükümlerinin bozulmasını talep etmesi; ayrıca Bakanlığın davaya katılma hakkının kullandırılmamış olmasının ön sorun olarak gündeme gelmesi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/3192",
+      "decision_number": "2013/7027",
+      "relation": "chained",
+      "outcome": "İade",
+      "treatment": null,
+      "context": "Yerel Mahkemenin ilk mahkûmiyet hükümlerini şüpheden sanık yararlanır ilkesiyle bozan ve direnme sürecini başlatan Özel Daire kararıdır."
+    },
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2012/122",
+      "decision_number": "2012/282",
+      "relation": "chained",
+      "outcome": "İade",
+      "treatment": null,
+      "context": "Sanıkların çocuğun cinsel istismarı ve hürriyetten yoksun kılma suçlarından mahkûmiyetine ilişkin ilk derece hükmüdür."
+    },
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2013/260",
+      "decision_number": "2013/346",
+      "relation": "chained",
+      "outcome": "İade",
+      "treatment": null,
+      "context": "Özel Daire bozmasına direnilerek verilen ve Ceza Genel Kurulu önüne gelen direnme hükmüdür."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/504",
+      "decision_number": "2016/1704",
+      "relation": "chained",
+      "outcome": "İade",
+      "treatment": null,
+      "context": "6763 sayılı Kanun ile eklenen geçici 10. madde uyarınca dosyanın yeniden Özel Daireye gönderilmesine ilişkin ara kararıdır."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/374",
+      "decision_number": "2017/2141",
+      "relation": "chained",
+      "outcome": "İade",
+      "treatment": null,
+      "context": "Direnme kararının yerinde görülmemesi üzerine dosyayı Yargıtay Birinci Başkanlığına iade eden Özel Daire kararıdır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "33401/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Opuz/Türkiye kararı, cinsiyete dayalı şiddetin ayrımcılık teşkil ettiği yönündeki uluslararası içtihat olarak gerekçede dayanak alınmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "1991/2",
+      "decision_number": "1991/30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün sav ve savunma haklarından oluştuğuna ilişkin AYM kararına atıf yapılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/2",
+      "context": "Sanığın çocuğun nitelikli cinsel istismarı suçundan cezalandırılmasının yasal dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/1",
+      "context": "Diğer sanığın eyleminin çocuğun basit cinsel istismarı olarak nitelendirilmesinin dayanağıdır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/6",
+      "context": "Çocuğun cinsel istismarı suçunun ağırlaştırıcı hâline ilişkin uygulama dayanağıdır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "109/2",
+      "context": "Kişiyi hürriyetinden yoksun kılma suçunun temel hâline ilişkin uygulama dayanağıdır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "109/3-f",
+      "context": "Hürriyetten yoksun kılma suçunun nitelikli hâlinin uygulandığı hükümdür."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "109/5",
+      "context": "Hürriyetten yoksun kılma kapsamında cinsel amaçla ek artırım hükmü olarak uygulanmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "62",
+      "context": "Takdiri indirim nedeni olarak cezanın belirlenmesinde uygulanmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "237",
+      "context": "Kamu davasına katılmanın genel şartlarını düzenleyen hüküm olarak Bakanlığın katılma hakkının değerlendirilmesinde esas alınmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "238",
+      "context": "Davaya katılma usulünü düzenleyen hüküm olarak gerekçede yer almıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "233",
+      "context": "Mağdur ile şikâyetçinin çağrılıp dinlenmesi yükümlülüğüne ilişkin dayanak olarak gösterilmiştir."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "234/1-b",
+      "context": "Katılma hakkı sahibinin duruşmadan haberdar edilme hakkını düzenleyen kilit hüküm olarak uygulanmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "35",
+      "context": "Aleyhine kanun yoluna başvurulabilecek kararların ilgilisine tebliği zorunluluğu için dayanak yapılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "260",
+      "context": "Katılan sıfatını alabilecek surette suçtan zarar görenlerin kanun yoluna başvuru hakkına ilişkin dayanak hükmüdür."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "20/2",
+      "context": "Bakanlığın kadın, çocuk ve aile bireylerine yönelik şiddet dolayısıyla açılan davalara katılma hakkının yasal dayanağı olarak merkezi rol oynamıştır."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "7",
+      "context": "Şiddet veya tehlike hâlinde ihbar yükümlülüğünü düzenleyen hüküm olarak Bakanlığın haberdar edilmesi gerekçesinde anılmıştır."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "2",
+      "context": "Kanun kapsamındaki Bakanlık ve şiddet tanımlarının dayanağı olarak gerekçede yer almıştır."
+    },
+    {
+      "law": "6284 Sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanuna İlişkin Uygulama Yönetmeliği",
+      "law_number": null,
+      "article": "46",
+      "context": "Bakanlığın açılan her tür davaya müdahil olarak katılabileceğini düzenleyen yönetmelik hükmü olarak gerekçeyi desteklemiştir."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Kanun önünde eşitlik ve pozitif ayrımcılık ilkesinin anayasal dayanağı olarak gösterilmiştir."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "41",
+      "context": "Ailenin korunması ve çocuk hakları kapsamında devletin koruma yükümlülüğünün dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyetinin Bakanlığın katılma hakkıyla ilişkilendirilmesinde dayanak yapılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "40",
+      "context": "Temel hak ve hürriyetlerin korunması ve kanun yollarının bildirilmesi yükümlülüğünün anayasal dayanağıdır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "90",
+      "context": "Usulüne göre yürürlüğe konulmuş uluslararası antlaşmaların iç hukuktaki yerine ilişkin dayanak olarak gösterilmiştir."
+    },
+    {
+      "law": "Kadına Yönelik Şiddetin ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi",
+      "law_number": null,
+      "article": "3/a",
+      "context": "Kadına yönelik cinsel eylemlerin şiddet kapsamına alındığı uluslararası sözleşme hükmüdür."
+    },
+    {
+      "law": "Kadına Yönelik Şiddetin ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi",
+      "law_number": null,
+      "article": "5/2",
+      "context": "Taraf devletlerin şiddet eylemlerini önleme, soruşturma ve cezalandırma yükümlülüğünün dayanağıdır."
+    },
+    {
+      "law": "Kadınlara Karşı Her Türlü Ayrımcılığın Önlenmesi Sözleşmesi",
+      "law_number": null,
+      "article": "1",
+      "context": "Cinsiyete dayalı şiddetin ayrımcılık olarak yasaklandığı uluslararası dayanak olarak anılmıştır."
+    },
+    {
+      "law": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6763",
+      "article": "38",
+      "context": "5320 sayılı Kanun'a geçici 10. madde ekleyerek dosyanın direnen daireye gönderilmesi usulünü getiren değişikliktir."
+    },
+    {
+      "law": "Ailenin Korunmasına Dair Kanun (mülga)",
+      "law_number": "4320",
+      "article": null,
+      "context": "1998'de yürürlüğe giren ve 6284 sayılı Kanun ile mülga olan ilk aile koruma kanunu, kadına karşı şiddetle mücadelenin tarihsel arka planı olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinin Değiştirilmesi Hakkında Kanun",
+      "law_number": "5170",
+      "article": null,
+      "context": "Anayasa m.10'a kadın-erkek eşitliğine ilişkin 2. fıkrayı ekleyen 2004 anayasa değişikliği; pozitif ayrımcılığın anayasal kaynağı olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun",
+      "law_number": "5982",
+      "article": null,
+      "context": "Anayasa m.10/2'ye 'tedbirlerin eşitlik ilkesine aykırı yorumlanamayacağı' cümlesini ve m.41'e çocuk hakları fıkrasını ekleyen 2010 anayasa değişikliği."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinin Değiştirilmesi Hakkında Kanun",
+      "law_number": "4709",
+      "article": "16",
+      "context": "Anayasa m.40'a kanun yolu ve mercilerin gösterilmesine ilişkin 2. fıkrayı ekleyen 2001 anayasa değişikliği; hak arama hürriyetinin kapsamı bakımından dayanak yapılmıştır."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "5320",
+      "article": "Geçici 10",
+      "context": "6763 sayılı Kanun m.38 ile eklenen geçici 10. madde; direnme kararının kararına direnilen daireye gönderilmesi usulünü düzenleyen hüküm olarak prosedürel zincirin parçasıdır."
+    },
+    {
+      "law": "Kaçakçılıkla Mücadele Kanunu",
+      "law_number": "5607",
+      "article": "18",
+      "context": "Gümrük İdaresinin kamu davasına katılma yetkisini düzenleyen hüküm; tüzel kişilerin özel kanunlarla davaya katılma yetkisinin kıyas örneklerinden biridir."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "18",
+      "context": "Maliye Bakanlığının kamu davasına katılma yetkisini düzenleyen hüküm; Bakanlık katılma yetkisinin kıyas örneklerinden biridir."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "162",
+      "context": "BDDK ve TMSF'nin kamu davasına katılma yetkisini düzenleyen hüküm; tüzel kişilerin özel kanunlarla katılma yetkisinin kıyas örneklerinden biridir."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": null,
+      "context": "Aile ve Sosyal Politikalar Bakanlığını yeniden düzenleyen KHK; Bakanlık adı değişikliği bağlamında anılmıştır."
+    },
+    {
+      "law": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "law_number": "1",
+      "article": null,
+      "context": "703 sayılı KHK ile birlikte Bakanlığın yeniden teşkilatlanmasının dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Bakanlıklara Bağlı, İlgili, İlişkili ve Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "law_number": "15",
+      "article": null,
+      "context": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığının güncel adının dayanağı olan CBK olarak anılmıştır."
+    }
+  ]
+}

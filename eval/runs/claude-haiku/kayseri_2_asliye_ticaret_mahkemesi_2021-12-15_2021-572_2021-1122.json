@@ -1,0 +1,341 @@
+{
+  "file": "kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md",
+  "court_type": "İlk Derece Hukuk",
+  "court": "Kayseri 2. Asliye Ticaret Mahkemesi",
+  "case_number": "2021/572",
+  "decision_number": "2021/1122",
+  "decision_date": "2021-12-15",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": "İstinaf yasa yolu açık olduğundan karar kesin değildir.",
+  "decision_outcome": "Davanın Reddi (Usulden)",
+  "decision_outcome_raw": "Davanın dava şartı yokluğu nedeniyle usûlden reddine, mahkemenin görevsizliğine karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Haksız İhtiyati Haciz Nedeniyle Manevi ve Maddi Tazminat Davası",
+  "summary": "Davacı, davalı şirket tarafından tahrifat yapılmış bir senedin kullanılarak haksız ihtiyati haciz kararı alınması ve bu kararın uygulanması sonucunda uğradığı manevi ve maddi zararların tazmini için dava açmıştır. Davalı şirket yetkilisinin resmi belgede sahtecilik ve dolandırıcılık suçlarından mahkûm olduğu ağır ceza mahkemesi kararı ile haksız haciz işlemi sabit olmuştur. Mahkeme, davacının tacir olmadığı ve vergi kaydının bulunmadığı tespit edilerek, davanın ticari dava niteliğinde olmadığına karar vermiş; görev hususu dava şartı olduğundan davanın usûlden reddine ve mahkemenin görevsizliğine hükmetmiştir.",
+  "keywords": [
+    "ihtiyati haciz",
+    "haksız fiil",
+    "manevi tazminat",
+    "maddi tazminat",
+    "sahtecilik",
+    "dolandırıcılık",
+    "kişilik hakkı",
+    "görev uyuşmazlığı",
+    "ticari dava",
+    "kambiyo senedi"
+  ],
+  "legal_issues": [
+    "Tazminat davasının Asliye Ticaret Mahkemesinde mi yoksa Asliye Hukuk Mahkemesinde mi görülmesi gerekir?",
+    "Zamanaşımına uğramış kambiyo senedine dayalı tazminat davası ticari dava niteliğinde midir?",
+    "Davacı tacir olmadığında haksız ihtiyati haciz nedeniyle açılan tazminat davası hangi mahkemenin görevindedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "görev uyuşmazlığı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni davacının tacir olmadığı tespit edilerek davanın Asliye Ticaret Mahkemesinin değil Asliye Hukuk Mahkemesinin görevinde olduğunun belirlenmesidir."
+    },
+    {
+      "concept": "ticari dava niteliği",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Zamanaşımına uğramış kambiyo senedinin taşıdığı ticari dava niteliğinin, temel ilişkinin ticari iş kapsamında olup olmadığına göre belirlenecek olduğu yorumlanmıştır."
+    },
+    {
+      "concept": "tacir tanımı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının vergi mükellefi olmadığı ve ticaret siciline kayıtlı olmadığı tespit edilerek tacir olmadığı sonucuna varılmıştır."
+    },
+    {
+      "concept": "dava şartı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Görev hususunun HMK 114/1-c uyarınca dava şartı olduğu ve yargılamanın her aşamasında re'sen dikkate alınması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "nispi ticari dava",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Her iki tarafın ticari işletmesiyle ilgili olması gereken nispi ticari dava niteliğinin, davacının tacir olmadığı için söz konusu olmadığı belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Haksız ihtiyati haciz nedeniyle açılan tazminat davası Asliye Ticaret Mahkemesinin mi yoksa Asliye Hukuk Mahkemesinin görevindedir?",
+    "rule": "TTK 11. madde uyarınca ticari işletme tanımı yapılmış, TTK 15. madde uyarınca esnaf tanımlanmış, Bakanlar Kurulu Kararı uyarınca esnaf-tacir ayrımı belirlenmiştir. Davacının vergi mükellefi olmadığı ve ticaret siciline kayıtlı olmadığı tespit edilerek tacir olmadığı sonucuna varılmıştır. Zamanaşımına uğramış kambiyo senedine dayalı tazminat davası ticari dava niteliğinde olmadığından Asliye Hukuk Mahkemesi görevlidir.",
+    "application": "Pınarbaşı Vergi Dairesine yazılan müzekkerenin cevabında davacının herhangi bir vergi kaydının olmadığı belirtilmiştir. Davacı tacir olmadığından ortada mahkemenin görmesi gereken mutlak ve nisbi bir ticari dava bulunmamaktadır.",
+    "conclusion": "Davanın dava şartı yokluğu nedeniyle usûlden reddine ve mahkemenin görevsizliğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı şirket",
+      "icra müdürlüğü",
+      "mahkeme"
+    ],
+    "context": "Davacı aleyhine zamanaşımına uğramış kambiyo senedine dayalı olarak ihtiyati haciz kararı alınmış ve davacının hayvanlarına haciz uygulanmıştır.",
+    "trigger": "27.11.2017 tarihinde alınan ihtiyati haciz kararının uygulanması nedeniyle davacının manevi ve maddi zararlar uğraması.",
+    "claim": "Haksız ihtiyati haciz nedeniyle manevi tazminat, maddi tazminat ve avukatlık ücretinin davalıdan tahsili."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/5582",
+      "decision_number": "2018/2478",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kişilik hakkı ihlali ve manevi tazminat konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4-1008",
+      "decision_number": "2014/490",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kişilik hakkı ihlali ve manevi tazminat konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/19-374",
+      "decision_number": "2018/943",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kişilik hakkı ihlali ve manevi tazminat konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/2705",
+      "decision_number": "2014/165",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kişilik hakkı ihlali ve manevi tazminat konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/14880",
+      "decision_number": "2016/9206",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ceza mahkemesi kararının hukuk mahkemesinde kesin hüküm oluşturması."
+    },
+    {
+      "court": "Yargıtay İçtihat Birleştirme Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1947/25",
+      "decision_number": "1948/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vekalet ücretinin davalıdan tahsili konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1026",
+      "decision_number": "2015/1765",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ticari dava niteliğinin belirlenmesi konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay 19. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/17318",
+      "decision_number": "2018/1926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Zamanaşımına uğramış kambiyo senedinin ticari dava niteliği."
+    },
+    {
+      "court": "Kayseri 1. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Sahtecilik ve dolandırıcılık suçlarından mahkumiyet kararı."
+    },
+    {
+      "court": "Kayseri 1. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "İhtiyati haciz kararı alan ilk derece mahkemesi."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "256",
+      "context": "İtiraz sebepleri; itiraz ile çözümlenecek hususlar sınırı."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "776",
+      "context": "Kambiyo senedinin zorunlu unsurları; senedin kambiyo vasfı."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "24/2",
+      "context": "Kişilik hakkı zedelenmesi; hukuka aykırılık koşulları."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "58/1",
+      "context": "Kişilik hakkının zedelenmesinden manevi tazminat talep hakkı."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "72",
+      "context": "Haksız fiilden doğan tazminat talebinin zamanaşımı süresi."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "74",
+      "context": "Haksız fiilden doğan zararın tazmini; kusur şartı."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "47",
+      "context": "Manevi tazminat; hâkimin takdir yetkisi ve adalete uygunluk."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "214",
+      "context": "Sahtelik hakkında hukuk ve ceza mahkemesi kararlarının kesin hüküm etkisi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "330",
+      "context": "Vekil ile takip edilen davalarda vekâlet ücretinin hükme bağlanması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "629",
+      "context": "Kötü niyetli davranıştan kaynaklanan zararın tazmini."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "114/1-c",
+      "context": "Görev hususu dava şartı; re'sen dikkate alınması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "20",
+      "context": "Görevsizlik kararından sonra dosyanın görevli mahkemeye gönderilmesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "331/2",
+      "context": "Görevsizlik kararından sonra yargılama giderlerine hüküm."
+    },
+    {
+      "law": "Avukatlık Kanunu",
+      "law_number": null,
+      "article": "164",
+      "context": "Avukatın vekâlet ücretine hak kazanması."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "4/1",
+      "context": "Mutlak ticari davalar; ticari dava niteliği."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "11",
+      "context": "Ticari işletme tanımı; gelir sınırı."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "15",
+      "context": "Esnaf tanımı; esnaf-tacir ayrımı."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "19/2",
+      "context": "Ticari iş karinesinin düzenlemesi; ticari dava niteliği."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "5/3-4",
+      "context": "Ticaret Mahkemeleri ile Asliye Hukuk Mahkemeleri arasındaki görev ilişkisi."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "732",
+      "context": "Zamanaşımına uğramış kambiyo senedinin vasfı; temel ilişki."
+    },
+    {
+      "law": "Kooperatifler Kanunu",
+      "law_number": null,
+      "article": "99",
+      "context": "Ticari davalar; özel kanun hükmü."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "154",
+      "context": "Ticari davalar; özel kanun hükmü."
+    },
+    {
+      "law": "Finansal Kiralama Kanunu",
+      "law_number": null,
+      "article": "31",
+      "context": "Ticari davalar; özel kanun hükmü."
+    },
+    {
+      "law": "Ticari İşletme Rehni Kanunu",
+      "law_number": null,
+      "article": "22",
+      "context": "Ticari davalar; özel kanun hükmü."
+    },
+    {
+      "law": "Türk Ticaret Kanunu (mülga)",
+      "law_number": "6762",
+      "article": "1463",
+      "context": "Esnaf-tacir ayrımı; Bakanlar Kurulu Kararı."
+    },
+    {
+      "law": "Türk Ticaret Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "6103",
+      "article": "10",
+      "context": "Ticari işletmeler; Bakanlar Kurulu Kararı uygulanması."
+    }
+  ]
+}

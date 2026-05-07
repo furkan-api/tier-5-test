@@ -1,0 +1,190 @@
+{
+  "file": "danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İdari Dava Daireleri Kurulu",
+  "case_number": "2025/1808",
+  "decision_number": "2025/1867",
+  "decision_date": "2025-10-08",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Kesin olarak karar verildi.",
+  "decision_outcome": "Onama",
+  "decision_outcome_raw": "Davacının temyiz isteminin reddine ve davanın reddine ilişkin Danıştay Altıncı Dairesinin kararının onanmasına oyçokluğu ile karar verildi.",
+  "vote_unanimity": "oyçokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy yazılarında, tarım arazisi niteliğindeki taşınmazlar için acele kamulaştırma kararı alınmadan önce 5403 sayılı Kanun uyarınca tarım dışı kullanım izninin alınması gerektiği, bu iznin dava konusu Cumhurbaşkanı Kararı'ndan sonra alınmasının hukuka uyarlık sağlamayacağı ve acelelik halinin somut olarak ortaya konulamadığı belirtilmiştir.",
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Rüzgar Enerji Santrali Projesi Kapsamında Acele Kamulaştırma Kararının Temyiz İncelemesi",
+  "keywords": [
+    "acele kamulaştırma",
+    "kamu yararı",
+    "mülkiyet hakkı",
+    "tarım arazisi",
+    "tarım dışı kullanım izni",
+    "yenilenebilir enerji",
+    "cumhurbaşkanı kararı",
+    "temyiz",
+    "hukuka uygunluk denetimi"
+  ],
+  "legal_issues": [
+    "Acele kamulaştırma kararı alınabilmesi için gerekli olan kamu yararı ve acelelik halinin somut olayda mevcut olup olmadığı nedir?",
+    "Tarım arazisi niteliğindeki taşınmazlar hakkında acele kamulaştırma kararı alınmadan önce 5403 sayılı Kanun uyarınca tarım dışı kullanım izninin alınması zorunlu mudur?",
+    "Acele kamulaştırma kararı sonrasında alınan tarım dışı kullanım izni, önceki hukuka aykırılığı giderebilir mi?",
+    "Yenilenebilir enerji yatırımları kapsamında acele kamulaştırma kararlarının hukuki denetimi nasıl yapılmalıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "acele kamulaştırma",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, yenilenebilir enerji yatırımı amacıyla alınan acele kamulaştırma kararının hukuka uygunluğunun incelenmesidir."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Acele kamulaştırma kararının dayanağı olan kamu yararının varlığı ve hukuka uygunluğu denetlenmektedir."
+    },
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Acele kamulaştırma işleminin Anayasa ve uluslararası sözleşmelerle güvence altına alınan mülkiyet hakkı üzerindeki etkileri değerlendirilmektedir."
+    },
+    {
+      "concept": "tarım dışı kullanım izni",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tarım arazilerinin amaç dışı kullanımı için alınması gereken iznin, acele kamulaştırma kararından önce veya sonra alınmasının hukuki sonuçları tartışılmaktadır."
+    },
+    {
+      "concept": "hukuki denetim",
+      "role": "uygulanan",
+      "context_in_reasoning": "Acele kamulaştırma kararlarının yetki, şekil, sebep, konu ve maksat yönlerinden hukuki denetiminin yapılacağı belirtilmiştir."
+    },
+    {
+      "concept": "kanunilik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Acele kamulaştırma işleminin 2942 sayılı Kanun hükümlerine uygun olarak tesis edilip edilmediği incelenmektedir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Rüzgar Enerji Santrali Projesi kapsamında tarım arazisi niteliğindeki taşınmazlar hakkında alınan acele kamulaştırma kararının hukuka uygunluğu nedir?",
+    "rule": "Acele kamulaştırma, istisnai bir yöntem olup, kamu yararı ve acelelik halinin somut olarak varlığına bağlıdır; tarım arazileri için ise öncelikle tarım dışı kullanım izninin alınması gerekmektedir.",
+    "application": "Dava konusu Cumhurbaşkanı Kararı'ndan sonra alınan tarım dışı kullanım izni, önceki hukuka aykırılığı gidermiş kabul edilmiş ve yenilenebilir enerji ihtiyacının aciliyeti nedeniyle acele kamulaştırma koşullarının oluştuğu değerlendirilmiştir.",
+    "conclusion": "Dava konusu acele kamulaştırma kararında hukuka aykırılık bulunmadığına ve davanın reddine ilişkin Daire kararının onanmasına oyçokluğu ile karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "idare",
+      "Enerji Piyasası Düzenleme Kurumu",
+      "Enerjisa Enerji Üretim AŞ"
+    ],
+    "context": "Aydın ve Denizli illerinde Hacıhıdırlar RES elektrik üretim tesisi yapımı amacıyla taşınmazların acele kamulaştırılmasına ilişkin Cumhurbaşkanı Kararı.",
+    "trigger": "Davacıya ait taşınmazın da bulunduğu bir grup taşınmazın 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi uyarınca acele kamulaştırılmasına karar verilmesi.",
+    "claim": "Acele kamulaştırma kararının iptali istemiyle dava açılması."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2024/503",
+      "decision_number": "2025/1332",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Temyiz edilen ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2020/47",
+      "decision_number": "2023/36",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yenilenebilir enerji alanlarında acele kamulaştırma yapılabileceğine dair kuralın Anayasa'ya uygunluğu."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2019/1255",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamulaştırma işleminin hukuki dayanaktan yoksunluğu ve mülkiyet hakkı ihlali."
+    },
+    {
+      "court": "Danıştay Dördüncü Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2024/656",
+      "decision_number": "2024/3554",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "ÇED Olumlu kararının iptali istemiyle açılan davada verilen kararı bozmuştur."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkının kanunla ve kamu yararı amacıyla sınırlanabileceği; özel mülkiyetin korunması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "Ek Protokol Madde 1",
+      "context": "Mülkiyetin korunması; kamu yararı amacıyla ve yasada öngörülen koşullara uygun olarak mal ve mülkten yoksun bırakılma."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "3",
+      "context": "İdarelerin kamu hizmetleri için gerekli taşınmazları bedelini ödeyerek kamulaştırabilmesi."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "5",
+      "context": "Kamulaştırma yapılabilmesi için kamu yararı kararı alınması şartı."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "6",
+      "context": "Kamu yararı kararlarının onay mercileri; imar planına göre kamu yararı kararı gerekmeksizin kamulaştırma başlatma."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "27",
+      "context": "Acele kamulaştırma usulü; kıymet takdiri dışındaki işlemlerin sonradan tamamlanmak üzere taşınmaza el konulması."
+    },
+    {
+      "law": "Elektrik Piyasası Kanunu",
+      "law_number": "6446",
+      "article": "19/1/a",
+      "context": "Taşınmaz temini işlemleri; yenilenebilir enerji kaynak alanlarının kullanımı."
+    },
+    {
+      "law": "Toprak Koruma ve Arazi Kullanımı Kanunu",
+      "law_number": "5403",
+      "article": "13",
+      "context": "Tarım arazilerinin amaç dışı kullanımı; izin şartları ve kamu yararı değerlendirmesi."
+    },
+    {
+      "law": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun",
+      "law_number": "5346",
+      "article": "4",
+      "context": "Yenilenebilir enerji kaynak alanı olarak belirlenen özel mülkiyetteki taşınmazlarda acele kamulaştırma imkanı."
+    }
+  ]
+}

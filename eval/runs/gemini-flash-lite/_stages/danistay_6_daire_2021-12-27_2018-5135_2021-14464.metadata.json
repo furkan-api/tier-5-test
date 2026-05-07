@@ -1,0 +1,112 @@
+{
+  "file": "danistay_6_daire_2021-12-27_2018-5135_2021-14464.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Altıncı Dairesi",
+  "case_number": "2018/5135",
+  "decision_number": "2021/14464",
+  "decision_date": "2021-12-27",
+  "decision_type": "Temyiz",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Kısmen Bozma",
+  "decision_outcome_raw": "Temyiz istemlerinin kısmen kabulüne, kısmen reddine; dava konusu işlemin A ve B bölgeleri ile C bölgesindeki yapılaşma öngörülen alanlar yönünden onanmasına, C bölgesindeki park ve rekreasyon alanı yönünden ise bozulmasına karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy yazısında, bilirkişi raporunun yerleşime uygun olmayan alanların yapılaşmaya açıldığına dair tespitinin isabetsiz olduğu, DSİ görüşlerinin yanlış yorumlandığı ve planın A ve B bölgeleri ile C bölgesindeki yapılaşma öngörülen kısımları yönünden davanın reddedilmesi gerektiği belirtilmiştir.",
+  "appellants": [
+    "davalı",
+    "davalı yanında müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "davalı yanında müdahil",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Kentsel Dönüşüm Gelişim Proje Alanına İlişkin 1/1000 Ölçekli Uygulama İmar Planı Revizyonunun İptali",
+  "keywords": [
+    "imar planı revizyonu",
+    "kentsel dönüşüm",
+    "uygulama imar planı",
+    "nazım imar planı",
+    "şehircilik ilkeleri",
+    "planlama esasları",
+    "kamu yararı",
+    "jeolojik etüt",
+    "heyelan riski",
+    "hava kirliliği",
+    "park ve rekreasyon alanı",
+    "yapılaşma koşulları"
+  ],
+  "legal_issues": [
+    "Kentsel dönüşüm ve gelişim proje alanına ilişkin 1/1000 ölçekli uygulama imar planı revizyonunun şehircilik ilkelerine, planlama esaslarına ve kamu yararına uygun olup olmadığı.",
+    "Planlama alanının jeolojik ve jeoteknik özellikleri ile heyelan riski dikkate alınarak yapılaşma koşullarının belirlenmesinin hukuka uygunluğu.",
+    "Planlama alanının hava sirkülasyonu ve hava kalitesi üzerindeki etkilerinin şehircilik ilkelerine uygunluğu.",
+    "C Bölgesinde park ve rekreasyon alanı olarak ayrılan kısımların hukuki durumu.",
+    "Planlama alanının çevresel etkileri ve taşkın riskinin değerlendirilmesi."
+  ],
+  "legal_concepts": [
+    {
+      "concept": "imar planı revizyonu",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, kentsel dönüşüm ve gelişim proje alanına ilişkin 1/1000 ölçekli uygulama imar planı revizyonunun hukuka uygunluğunun denetlenmesidir."
+    },
+    {
+      "concept": "şehircilik ilkeleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Planlama kararlarının şehircilik ilkelerine, planlama esaslarına ve kamu yararına uygun olup olmadığı denetlenmektedir."
+    },
+    {
+      "concept": "jeolojik etüt",
+      "role": "uygulanan",
+      "context_in_reasoning": "Planlama alanının jeolojik ve jeoteknik özellikleri ile heyelan riski gibi hususlar, planların hukuka uygunluğunun değerlendirilmesinde dikkate alınmıştır."
+    },
+    {
+      "concept": "hava kirliliği",
+      "role": "tartışılan",
+      "context_in_reasoning": "Planlama kararlarının hava sirkülasyonu ve hava kalitesi üzerindeki olumsuz etkileri tartışılmıştır."
+    },
+    {
+      "concept": "park ve rekreasyon alanı",
+      "role": "uygulanan",
+      "context_in_reasoning": "C Bölgesinde park ve rekreasyon alanı olarak ayrılan kısımların hukuki durumu incelenerek, bu kısımlar yönünden planın bozulmasına karar verilmiştir."
+    },
+    {
+      "concept": "plan kademelenmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Üst ölçekli plan kararlarına aykırı alt ölçekli plan düzenlemelerinin plan kademelenmesine aykırı olduğu tartışılmıştır."
+    },
+    {
+      "concept": "taşkın riski",
+      "role": "tartışılan",
+      "context_in_reasoning": "Planlama alanının çevresel etkileri ve İmrahor Deresi'nin bulunduğu bölgedeki taşkın riski değerlendirilmiştir."
+    },
+    {
+      "concept": "yapılaşma koşulları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Planlarda öngörülen yapılaşma koşullarının, özellikle A ve B bölgeleri ile C bölgesindeki riskli alanlar yönünden hukuka uygunluğu değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Ankara İli, Çankaya İlçesi, Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanı 1/1000 ölçekli uygulama imar planı revizyonunun hukuka uygunluğu nedir?",
+    "rule": "İmar planlarının şehircilik ilkelerine, planlama esaslarına, kamu yararına ve ilgili mevzuata uygun olması gerekmektedir. Planların hazırlanmasında jeolojik etütler, çevresel etkiler ve risk analizleri dikkate alınmalıdır.",
+    "application": "Dava konusu imar planlarının A ve B bölgeleri ile C bölgesindeki yapılaşma öngörülen alanlar yönünden, mevcut riskler ve çevresel etkiler dikkate alındığında hukuka uygunluk bulunmuştur. Ancak, C Bölgesinde park ve rekreasyon alanı olarak ayrılan kısımlar yönünden, önceki Danıştay kararlarında bu kısımların hukuka uygunluğuna ilişkin değerlendirmelerin hatalı olduğu anlaşılmıştır.",
+    "conclusion": "Dava konusu imar planı revizyonunun A ve B bölgeleri ile C bölgesindeki yapılaşma öngörülen alanlar yönünden onanmasına, C bölgesindeki park ve rekreasyon alanı yönünden ise bozulmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davalı idare",
+      "davacı idare",
+      "müdahil",
+      "Danıştay",
+      "Bölge İdare Mahkemesi"
+    ],
+    "context": "Ankara İli, Çankaya İlçesi, Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanına ilişkin 1/1000 ölçekli uygulama imar planı revizyonu.",
+    "trigger": "İmar planı revizyonuna karşı açılan davanın ilk derece mahkemesince iptaline karar verilmesi ve Bölge İdare Mahkemesince istinaf başvurusunun reddedilmesi üzerine temyiz yoluna başvurulması.",
+    "claim": "Dava konusu imar planı revizyonunun iptali istenmiştir."
+  }
+}

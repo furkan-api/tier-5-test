@@ -1,0 +1,265 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "cited_court_decisions": [
+    {
+      "court": "Diyarbakır Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Mahkumiyet",
+      "treatment": null,
+      "context": "Başvuranın terör örgütüne yardım ve üyelikten mahkumiyet kararı."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Başvuranın mahkumiyetini onayan Yargıtay kararı."
+    },
+    {
+      "court": "Diyarbakır Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Başvuranın hak yoksunluğunun sona erdiğini tespit eden karar."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": "Diğer",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Ret",
+      "treatment": null,
+      "context": "Başvuranın milletvekili adaylığını reddeden nihai YSK kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "48621/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme yeterliliğine ilişkin iç hukukun açıklandığı AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "53915/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme yeterliliğine ilişkin iç hukukun açıklandığı AİHM kararı."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": "Diğer",
+      "case_number": null,
+      "decision_number": "2011/463",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "YSK'nın memnu hakların iadesi içtihadına ilişkin emsal karar."
+    },
+    {
+      "court": "Yüksek Seçim Kurulu",
+      "cited_court_type": "Diğer",
+      "case_number": null,
+      "decision_number": "2011/458",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "YSK'nın memnu hakların iadesi içtihadına ilişkin emsal karar."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "10226/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ek 1 No.lu Protokol'ün 3. maddesinin önemini vurgulayan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "7/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ek 1 No.lu Protokol'ün 3. maddesinin önemini vurgulayan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "310/15",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ek 1 No.lu Protokol'ün 3. maddesinin önemini vurgulayan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı ayrımını yapan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "58278/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Oy kullanma ve seçilme hakkı ayrımını yapan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "46726/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının mutlak olmadığını belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "30386/05",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının mutlak olmadığını belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "75947/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilme hakkının mutlak olmadığını belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "17707/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının keyfiliği önlemesi gerektiğini belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "55066/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının keyfiliği önlemesi gerektiğini belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "55638/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçilebilirlik koşullarının keyfiliği önlemesi gerektiğini belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "33554/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçimlerde keyfi kararlardan kaçınılması gerektiğini vurgulayan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "39424/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçimlerde keyfi kararlardan kaçınılması gerektiğini vurgulayan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "38978/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Seçimlerde keyfi kararlardan kaçınılması gerektiğini vurgulayan AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "77568/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adaylık usullerinin hukuki kesinlik taşıması gerektiğini belirten AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "31953/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "YSK kararının keyfi olmadığına ilişkin karşılaştırmalı AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "16959/10",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemezliği."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "58125/09",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemezliği."
+    }
+  ]
+}

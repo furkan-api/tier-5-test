@@ -1,0 +1,87 @@
+{
+  "file": "uyusmazlik_2003-06-16_2002-18_2003-32.md",
+  "court_type": "Uyuşmazlık Mahkemesi",
+  "court": "Uyuşmazlık Mahkemesi",
+  "case_number": "2002/18",
+  "decision_number": "2003/32",
+  "decision_date": "2003-06-16",
+  "decision_type": "Hüküm Uyuşmazlığı",
+  "is_final": true,
+  "finality_basis": "Karar metninde 'KESİN OLARAK' ifadesi yer almaktadır.",
+  "decision_outcome": "Hüküm Uyuşmazlığının Giderilmesi",
+  "decision_outcome_raw": "Hüküm uyuşmazlığı bulunduğu kabul edilerek, Danıştay Onuncu Dairesi'nin kararının kabulüne, Ankara 7. İş Mahkemesi'nin kararının kaldırılmasına ve ödeme emrinin iptaline kesin olarak oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "Sosyal Sigortalar Kurumu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "Sosyal Sigortalar Kurumu",
+      "result": "ret"
+    }
+  ],
+  "subject": "Sosyal Güvenlik Prim Farkı ve Gecikme Zammına İlişkin Ödeme Emrinin Hukuki Dayanakta Yoksun Kalması Nedeniyle Hüküm Uyuşmazlığının Giderilmesi",
+  "keywords": [
+    "hüküm uyuşmazlığı",
+    "sosyal güvenlik sözleşmesi",
+    "prim farkı",
+    "gecikme zammı",
+    "hukuki güvenlik ilkesi",
+    "idari işlemlerin geriye yürümezliği",
+    "ödeme emri",
+    "506 sayılı kanun",
+    "Libya",
+    "Türk işçileri"
+  ],
+  "legal_issues": [
+    "Sosyal güvenlik prim farkı tahakkuk ve tahsilatının geçmişe yönelik olarak uygulanması hukuka uygun mudur?",
+    "İdari işlemlerin geriye yürümezliği ve hukuki güvenlik ilkesi, sosyal güvenlik prim oranlarının geçmişe dönük uygulanmasını engeller mi?",
+    "Adli ve idari yargı kararları arasında geçmişe yönelik prim farkı tahsilatı konusunda hüküm uyuşmazlığı bulunmakta mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hüküm uyuşmazlığı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, adli ve idari yargı mercileri arasında aynı konuya ilişkin kesinleşmiş kararlar arasındaki çelişkinin giderilmesidir."
+    },
+    {
+      "concept": "hukuki güvenlik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdari işlemlerin geriye yürümezliği ilkesiyle birlikte, idarenin düzenleme yetkisini kullanırken hukuki güvenlik ilkesine uygun hareket etmesi gerektiği vurgulanmıştır."
+    },
+    {
+      "concept": "idari işlemlerin geriye yürümezliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu genelge ile geçmişe yönelik prim farkı tahsilatı öngörülmesinin, idare hukukunun bilinen geriye yürümezlik ilkesine aykırı olduğu belirtilmiştir."
+    },
+    {
+      "concept": "sosyal güvenlik sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Türkiye ile Libya arasındaki Sosyal Güvenlik Sözleşmesi ve İdari Anlaşma, prim oranlarının belirlenmesinde temel hukuki dayanak olarak incelenmiştir."
+    },
+    {
+      "concept": "ödeme emri",
+      "role": "tartışılan",
+      "context_in_reasoning": "Geçmişe yönelik prim farkı tahakkukuna dayalı olarak çıkarılan ödeme emrinin hukuki dayanağının olup olmadığı uyuşmazlığın önemli bir parçasını oluşturmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sosyal güvenlik prim farkı tahakkuk ve tahsilatının geçmişe yönelik olarak uygulanması hukuka uygun mudur?",
+    "rule": "İdari işlemler yürürlüğe girdikleri andan itibaren hukuki etkilerini gösterirler ve idari işlemlerin geriye yürümezliği ilkesi ile hukuki güvenlik ilkesi, idare hukukunun temel kurallarıdır. İdareye tanınan düzenleme yetkisi bu ilkelere uygun kullanılmalıdır.",
+    "application": "Dava konusu 16/147 Ek sayılı Genelge ile daha önceki genelgelerle belirlenmiş yükümlülüklerin %24,5 oranına tamamlatılması, geçmişe yürümezlik ve belirlilik unsurlarını içeren hukuki güvenlik ilkesiyle bağdaşmamaktadır. Bu nedenle, geçmişe yönelik prim farkı tahakkuk ve tahsilatına ilişkin düzenlemeler hukuka aykırıdır.",
+    "conclusion": "Geçmişe yönelik prim farkı tahakkuk ve tahsilatını öngören düzenleme iptal edildiğinden, buna dayalı ödeme emrinin de hukuki dayanaktan yoksun kalması nedeniyle iptali gerekmektedir; bu doğrultuda İş Mahkemesi kararı kaldırılmıştır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işveren",
+      "Sosyal Sigortalar Kurumu",
+      "Danıştay",
+      "İş Mahkemesi"
+    ],
+    "context": "Türk işverenlerin Libya'da çalıştırdığı Türk işçilerinin sosyal güvenlik prim yükümlülükleri ve bu konudaki uluslararası sözleşme ve genelge uygulamaları.",
+    "trigger": "Sosyal Sigortalar Kurumu'nun 16/147 Ek sayılı Genelge ile Libya'da çalışan Türk işçilerinin prim oranlarını geriye dönük olarak %24,5'e yükseltmesi ve fark prim ile gecikme zammı tahsil etmeye çalışması.",
+    "claim": "İşveren, geriye dönük prim farkı tahakkuku ve ödeme emirlerinin iptali ile Kuruma borçlu olmadığının tespiti istemiyle hem idari hem de adli yargıda dava açmıştır."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file": "danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md",
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay Altıncı Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2024/503",
+      "decision_number": "2025/1332",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Temyiz edilen ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2020/47",
+      "decision_number": "2023/36",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yenilenebilir enerji alanlarında acele kamulaştırma yapılabileceğine dair kuralın Anayasa'ya uygunluğu."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2019/1255",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamulaştırma işleminin hukuki dayanaktan yoksunluğu ve mülkiyet hakkı ihlali."
+    },
+    {
+      "court": "Danıştay Dördüncü Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2024/656",
+      "decision_number": "2024/3554",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "ÇED Olumlu kararının iptali istemiyle açılan davada verilen kararı bozmuştur."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "cited_law_articles": [
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "34",
+      "context": "Bireysel başvuru hakkı; başvuru hakkının dayanağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı; mülkiyet hakkı müdahalesinin orantısızlığı iddiası."
+    },
+    {
+      "law": "Avrupa İnsan Hakları Sözleşmesine Ek Protokol",
+      "law_number": "1",
+      "article": "1",
+      "context": "Mülkiyet hakkı; tapu iptali ve tazminatsız yoksun bırakma iddiaları."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "1007",
+      "context": "Tapu sicilinin tutulmasından doğan Devlet sorumluluğu; tazminat davası yolu."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": null,
+      "context": "Genel hükümler uyarınca tazminat talebi; Hükümetin iç hukuk yolu savunması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Ormanların korunması; kamusal ormanlık alanların özel mülkiyete konu olamayacağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "35",
+      "context": "Başvuruların kabul edilebilirliği; iç hukuk yollarının tüketilmesi ve dayanaktan yoksunluk."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Makul sürede yargılanma hakkı; yargılama sürecinin uzunluğu ihlali."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "41",
+      "context": "Adil tatmin; maddi ve manevi tazminat talepleri ile yargılama giderleri."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": null,
+      "context": "Ormanlık arazi sayılma koşulları; 3166 ve 3373 sayılı yasalarla değişiklikler."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "3166",
+      "article": null,
+      "context": "Taşınmazın orman alanı sayılmasına ilişkin hükümler."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "5658",
+      "article": null,
+      "context": "İmara açık alanlar kapsamına girmeyen taşınmazlar."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "3373",
+      "article": null,
+      "context": "6831 sayılı Kanun'un ormanlık arazi sayılma koşullarını değiştiren hüküm."
+    }
+  ]
+}

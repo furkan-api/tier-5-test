@@ -1,0 +1,105 @@
+{
+  "file": "diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/6677",
+      "decision_number": "2013/2768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma yetkisine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/12293",
+      "decision_number": "2012/13687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma yetkisine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4739",
+      "decision_number": "2013/6805",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta dava açma yetkisine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/2963",
+      "decision_number": "2019/4462",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta muvafakat sağlanması ilkesine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/4572",
+      "decision_number": "2018/4671",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta muvafakat sağlanması ilkesine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/1766",
+      "decision_number": "2019/4883",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adi ortaklıkta muvafakat sağlanması ilkesine ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1980/11-2721",
+      "decision_number": "1983/323",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Su ve kanalizasyon idarelerinin tacir sayılmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 15. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/3005",
+      "decision_number": "2017/4527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Su ve kanalizasyon idarelerinin tacir sayılmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1471",
+      "decision_number": "2013/19127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Su ve kanalizasyon idarelerinin tacir sayılmasına ilişkin emsal karar."
+    },
+    {
+      "court": "Diyarbakır Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Davanın Reddi (Usulden)",
+      "treatment": null,
+      "context": "İstinaf incelemesine konu ilk derece mahkemesi kararı."
+    }
+  ]
+}

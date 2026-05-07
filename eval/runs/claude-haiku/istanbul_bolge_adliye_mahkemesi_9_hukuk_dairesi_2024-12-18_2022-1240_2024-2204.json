@@ -1,0 +1,274 @@
+{
+  "file": "istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md",
+  "court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+  "court": "İstanbul Bölge Adliye Mahkemesi 9. Hukuk Dairesi",
+  "case_number": "2022/1240",
+  "decision_number": "2024/2204",
+  "decision_date": "2024-12-18",
+  "decision_type": "İstinaf",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Kaldırma ve Geri Gönderme",
+  "decision_outcome_raw": "İlk derece mahkemesi kararının kaldırılmasına ve davanın yeniden görülmesi için dosyanın mahkemesine gönderilmesine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı",
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Trafik kazası nedeniyle sigorta şirketi aleyhine maddi tazminat davası",
+  "summary": "Davacı, 2017 yılında trafik kazası sonucu yaralanmasından dolayı davalı sigorta şirketinden maddi tazminat talep etmiştir. Kaza, sigortalı kamyonetin açık kasasında yolcu olarak bulunan davacının sürücünün trafik kurallarına aykırı hareketi sonucu düşerek yaralanması ile meydana gelmiştir. İlk derece mahkemesi kısmen kabul ederek sürekli iş göremezlik, geçici iş göremezlik ve bakıcı gideri tazminatlarına hükmederken, tedavi giderleri talebini reddetmiştir. Bölge adliye mahkemesi, belirsiz alacak davasında davacının iki kez talep artırımı yapabileceği, geçici iş göremezlik tazminatının 18 yaşından küçük çalışmayan çocuk için hükmedilemeyeceği, hatır taşıması ve müterafik kusur hususlarının yeterince tartışılmadığı gerekçeleriyle ilk derece kararını bozmuş ve dosyayı yeniden görülmek üzere geri göndermiştir.",
+  "keywords": [
+    "trafik sigortası",
+    "maddi tazminat",
+    "geçici iş göremezlik",
+    "hatır taşıması",
+    "müterafik kusur",
+    "belirsiz alacak davası",
+    "ıslah dilekçesi",
+    "bakıcı gideri",
+    "yasal faiz",
+    "aktüerya raporu"
+  ],
+  "legal_issues": [
+    "Belirsiz alacak davası açıldıktan sonra bedel artırım talebinde bulunulan davada ıslah dilekçesi verilebilir mi?",
+    "18 yaşından küçük ve aktif çalışması bulunmayan çocuk için geçici iş göremezlik tazminatı hükmedilebilir mi?",
+    "Hatır taşıması kapsamında yapılan taşımada sigorta şirketi tazminattan indirim yapabilir mi?",
+    "Trafik kazasında yaralanmış çocuğun bakıcı gideri tedavi giderleri teminatı kapsamında mı yoksa sakatlanma teminatı kapsamında mıdır?",
+    "Ticari olmayan kamyonetle yapılan taşımada yasal faiz mi ticari temerrüt faizi mi uygulanır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "belirsiz alacak davası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davacının belirsiz alacak davası olarak açtığı davada bedel artırım talebinden sonra ıslah dilekçesi verme hakkının bulunup bulunmadığı kararın temel eksenidir."
+    },
+    {
+      "concept": "ıslah dilekçesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "HMK m.176 uyarınca davacının belirsiz alacak davası açtıktan sonra bedel artırım talebinde bulunduktan sonra ikinci kez ıslah dilekçesi verme hakkı bulunduğu belirtilmiştir."
+    },
+    {
+      "concept": "geçici iş göremezlik tazminatı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "18 yaşından küçük ve aktif çalışması bulunmayan çocuk için geçici iş göremezlik tazminatının hükmedilemeyeceği Yargıtay içtihatları uyarınca yorumlanmıştır."
+    },
+    {
+      "concept": "hatır taşıması",
+      "role": "tartışılan",
+      "context_in_reasoning": "Asker uğurlaması konvoyu kapsamında yapılan taşımanın hatır taşıması olup olmadığı ve tazminattan indirim yapılıp yapılmayacağı tartışılmıştır."
+    },
+    {
+      "concept": "müterafik kusur",
+      "role": "tartışılan",
+      "context_in_reasoning": "10 yaşındaki çocuğun yolcu taşımaya uygun olmayan kamyonetin kasasında seyir etmesinin müterafik kusur oluşturup oluşturmadığı tartışılmıştır."
+    },
+    {
+      "concept": "tedavi giderleri teminatı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Geçici iş göremezlik ve bakıcı gideri tazminatının tedavi giderleri teminatı kapsamında sigorta şirketi sorumluluğunda olduğu Yargıtay kararları uyarınca belirtilmiştir."
+    },
+    {
+      "concept": "aktüerya hesaplaması",
+      "role": "uygulanan",
+      "context_in_reasoning": "TRH 2010 yaşam tablosu ve progresif rant formülü kullanılarak tazminat hesaplamasının yapılması gerektiği Anayasa Mahkemesi iptal kararı sonrasında Yargıtay içtihatları uyarınca belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Belirsiz alacak davası açıldıktan sonra bedel artırım talebinde bulunulan davada ıslah dilekçesi verilebilir mi ve 18 yaşından küçük çocuk için geçici iş göremezlik tazminatı hükmedilebilir mi?",
+    "rule": "HMK m.107 uyarınca belirsiz alacak davası açan davacı alacağının tam ve kesin olarak belirlenmesinden sonra bir kez alacağını artırabileceği gibi HMK m.176 uyarınca da bir kez ıslah edebilir. Yargıtay 4. Hukuk Dairesi içtihatlarına göre 18 yaşından küçük olup aktif çalışması bulunmayan çocuk için geçici iş göremezlik tazminatı hükmedilemez.",
+    "application": "Davacı vekili belirsiz alacak davası açtıktan sonra bedel artırım talebinde bulunmuş ve daha sonra ıslah dilekçesi vermiştir. İlk derece mahkemesi ikinci ıslah dilekçesini dikkate almamıştır. Kaza tarihinde 10 yaşında olan davacı küçük gelir getiren bir işte çalışmadığından geçici iş göremezlik zararı bulunmamaktadır.",
+    "conclusion": "İlk derece mahkemesi kararı belirsiz alacak davası hakkında ıslah dilekçesini dikkate almama ve geçici iş göremezlik tazminatını hüküm kurma yönünden hatalı olduğundan kaldırılarak dosya yeniden görülmek üzere geri gönderilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (yaralanan çocuk)",
+      "davalı (sigorta şirketi)",
+      "sigortalı (araç sürücüsü)"
+    ],
+    "context": "01.02.2017 tarihinde İstanbul'da Bayrampaşa Caddesi üzerinde asker uğurlaması konvoyu sırasında trafik kazası meydana gelmiştir.",
+    "trigger": "Sigortalı araç sürücüsü tarafından yönetilen kamyonetin kasasında yolcu olarak bulunan 10 yaşındaki davacı, araç harekete geçtiğinde arka sol tekerin altında kalarak ağır şekilde yaralanmıştır.",
+    "claim": "Davacı yaralanması nedeniyle sigorta şirketi aleyhine iş gücü kaybı tazminatı, tedavi giderleri, yol, yemek, ulaşım ve bakıcı gideri tazminatı talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/312",
+      "decision_number": "2022/3685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "KTK 98. maddesinin kapsamı: geçici iş göremezlik ve bakıcı gideri sorumluluğu."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/6911",
+      "decision_number": "2021/10351",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçici iş göremezlik tazminatı tedavi giderleri teminatı kapsamında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/5305",
+      "decision_number": "2021/7685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçici iş göremezlik tazminatı tedavi giderleri teminatı kapsamında."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/23783",
+      "decision_number": "2023/2210",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "18 yaşından küçük çocuk için geçici iş göremezlik tazminatı koşulları."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/4507",
+      "decision_number": "2021/8342",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "18 yaşından küçük çocuk için geçici iş göremezlik tazminatı koşulları."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2019/40",
+      "decision_number": "2020/40",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TRH 2010 tablosu ve progresif rant formülü uygulanması."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2024/3323",
+      "decision_number": "2024/5474",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TRH 2010 Yaşam Tablosu ve progresif rant yöntemi uygulanması."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2023/12136",
+      "decision_number": "2024/5730",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TRH 2010 Yaşam Tablosu ve progresif rant yöntemi uygulanması."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/11212",
+      "decision_number": "2024/8084",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TRH 2010 Yaşam Tablosu ve progresif rant yöntemi uygulanması."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/16078",
+      "decision_number": "2022/10550",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TRH 2010 Yaşam Tablosu ve progresif rant yöntemi uygulanması."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/13398",
+      "decision_number": "2022/10498",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TRH 2010 Yaşam Tablosu ve progresif rant yöntemi uygulanması."
+    },
+    {
+      "court": "Yargıtay 17. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/19844",
+      "decision_number": "2019/8286",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belirsiz alacak davasında bedel artırım ve ıslah hakkı uygulanması."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/6162",
+      "decision_number": "2021/9730",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belirsiz alacak davasında bedel artırım ve ıslah hakkı uygulanması."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "355",
+      "context": "İstinaf yargılamasında uyuşmazlık konusu kamu düzeni ve istinaf nedenleri ile sınırlı."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak davasında davacı alacağını bir kez artırabilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "176",
+      "context": "Davacı davasını ıslah etme hakkı; belirsiz alacak davasında bağımsız olarak kullanılabilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353/1-a/6",
+      "context": "İstinaf başvurusunun kabulü halinde ilk derece kararının kaldırılması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "353/1-a",
+      "context": "İstinaf aşamasında kesin karar verilmesi için hukuki dayanak."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "52",
+      "context": "Müterafik kusur halinde hakim tazminatı indirebilir veya tamamen kaldırabilir."
+    }
+  ]
+}

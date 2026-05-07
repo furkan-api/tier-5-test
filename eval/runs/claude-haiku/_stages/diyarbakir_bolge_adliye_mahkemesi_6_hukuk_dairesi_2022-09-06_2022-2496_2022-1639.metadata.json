@@ -1,0 +1,91 @@
+{
+  "file": "diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md",
+  "court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+  "court": "Diyarbakır Bölge Adliye Mahkemesi 6. Hukuk Dairesi",
+  "case_number": "2022/2496",
+  "decision_number": "2022/1639",
+  "decision_date": "2022-09-06",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "6100 sayılı HMK m. 362(1)-a uyarınca miktar itibarıyla kesin olmak üzere karar verilmiştir.",
+  "decision_outcome": "Düzelterek Esastan Ret",
+  "decision_outcome_raw": "İlk derece mahkemesinin kararı kaldırılarak, davanın dava şartı yokluğundan usulden reddine karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Hizmet Alım Sözleşmesinden Kaynaklı Tazminat Talebine İlişkin Rücu Alacağı Davası",
+  "keywords": [
+    "adi ortaklık",
+    "mecburî dava arkadaşlığı",
+    "dava şartı",
+    "arabuluculuk",
+    "ticarî dava",
+    "rücu alacağı",
+    "taraf ehliyeti",
+    "hizmet alım sözleşmesi",
+    "müteselsil sorumluluk",
+    "dava açma yetkisi"
+  ],
+  "legal_issues": [
+    "Adi ortaklığın ortaklarından biri tarafından tek başına açılan dava, diğer ortakların katılımı veya muvafakati olmaksızın görülebilir mi?",
+    "Ticarî dava niteliğindeki para alacağı davalarında arabuluculuk dava şartı sonradan tamamlanabilir nitelikte midir?",
+    "Hizmet alım sözleşmesinden kaynaklı tazminat talebinin rücu alacağı olarak ileri sürülmesi halinde dava şartları nasıl değerlendirilir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "adi ortaklık",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davacı ile dava dışı kişi arasında adi ortaklık ilişkisinin bulunması, dava açılması için tüm ortakların katılımını veya açık yetkisini gerektirmektedir."
+    },
+    {
+      "concept": "mecburî dava arkadaşlığı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Adi ortaklığın tarafı olarak hareket etmesi gereken ortaklar, dava açılması bakımından mecburî dava arkadaşı konumundadır."
+    },
+    {
+      "concept": "dava şartı olarak arabuluculuk",
+      "role": "ana_eksen",
+      "context_in_reasoning": "6102 sayılı TTK m. 5/A ve 6325 sayılı HUAK m. 18/A(2) uyarınca ticarî para alacağı davalarında arabuluculuk dava şartı emredici nitelikte olup sonradan tamamlanabilir değildir."
+    },
+    {
+      "concept": "taraf ehliyeti",
+      "role": "tartışılan",
+      "context_in_reasoning": "Adi ortaklığın tüzel kişiliği olmadığından, ortaklar tarafından birlikte hareket edilmesi veya açık yetki verilmesi gerekir."
+    },
+    {
+      "concept": "ticarî dava niteliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "Her iki tarafın tacir olması ve uyuşmazlığın her iki tarafın ticarî işletmesini ilgilendirmesi nedeniyle dava nispî ticarî dava niteliğindedir."
+    },
+    {
+      "concept": "rücu alacağı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Müteselsil borçluluk nedeniyle yapılan ödemenin rücu alacağı olarak ileri sürülmesi, dava şartlarının uygulanmasını değiştirmemektedir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Adi ortaklığın ortaklarından biri tarafından diğer ortakların katılımı olmaksızın açılan ticarî para alacağı davası, arabuluculuk dava şartı yerine getirilmeden görülebilir mi?",
+    "rule": "6102 sayılı TTK m. 5/A ve 6325 sayılı HUAK m. 18/A(2) uyarınca ticarî para alacağı davalarında arabuluculuk dava şartı emredici ve sonradan tamamlanabilir olmayan nitelikte bir dava şartıdır. Adi ortaklık tarafından açılacak davalarda ise 6098 sayılı TBK m. 620 vd. hükümleri uyarınca tüm ortaklar mecburî dava arkadaşı olarak hareket etmeli veya açık yetki verilmelidir.",
+    "application": "Davacı tarafından açılan dava, arabuluculuk dava şartı yerine getirilmeden açılmış olup, dava dilekçesinde veya dosyada arabuluculuk sürecinin işletildiğine dair herhangi bir belge bulunmamaktadır. Ayrıca dava, adi ortaklığın diğer ortağının katılımı veya muvafakati olmaksızın açılmıştır.",
+    "conclusion": "Dava, dava şartı yokluğundan usulden reddedilmelidir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (adi ortaklık ortağı)",
+      "davalı (kamu kurumu)",
+      "dava dışı (adi ortaklık diğer ortağı)"
+    ],
+    "context": "Davacı ile dava dışı kişi arasında adi ortaklık ilişkisi bulunmakta olup, bu ortaklık ile davalı kamu kurumu arasında hizmet alım sözleşmesi akdedilmiştir.",
+    "trigger": "Davalı kurum tarafından hizmet alım sözleşmesi kapsamındaki işçilerin belediye şirketi bünyesine geçiş işlemlerinin yapılması ve sözleşmenin feshedilmesi nedeniyle davacının zarara uğradığı iddia edilmiştir.",
+    "claim": "Davacı, müteselsil borçluluk nedeniyle ödediği tazminat bedeli ile işleyecek ticari faizinin davalıdan tahsiline karar verilmesini talep etmiştir."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Beşinci Daire",
+  "case_number": "2017/6736",
+  "decision_number": "2022/748",
+  "decision_date": "2022-03-07",
+  "decision_type": "İlk Derece",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Milli Savunma Bakanının başkanlığında oluşturulan Komisyonun kararının iptali istemi yönünden davanın reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "667 sayılı Kanun Hükmünde Kararname uyarınca FETÖ ile iltisak ve irtibat gerekçesiyle meslekten çıkarma kararının iptali",
+  "keywords": [
+    "fetö",
+    "meslekten çıkarma",
+    "askeri hakim",
+    "olağanüstü hal",
+    "667 sayılı khk",
+    "anayasal düzene sadakat",
+    "sıkıyönetim mahkemeleri",
+    "ankesörlü telefon",
+    "mahrem yapılanma",
+    "darbe teşebbüsü",
+    "milli güvenlik",
+    "yargı bağımsızlığı"
+  ],
+  "legal_issues": [
+    "667 sayılı KHK uyarınca oluşturulan Komisyon bağımsız ve tarafsız mıdır?",
+    "Davacının FETÖ ile iltisak ve irtibatı hukuki delillerle sabit midir?",
+    "Meslekten çıkarma kararı özel hayata saygı hakkını ihlal etmekte midir?",
+    "Olağanüstü hal koşullarında alınan tedbir demokratik toplumda gerekli midir?",
+    "Savunma hakkı ve adil yargılanma hakkı ihlal edilmiş midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "fetö ile iltisak ve irtibat",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni davacının FETÖ terör örgütü ile iltisak ve irtibatının bulunup bulunmadığının belirlenmesidir."
+    },
+    {
+      "concept": "anayasal düzene sadakat yükümlülüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargı mensuplarının anayasal düzene sadakat yükümlülüğünü ihlal etmeleri meslekten çıkarma kararının hukuki dayanağını oluşturmaktadır."
+    },
+    {
+      "concept": "olağanüstü hal tedbirleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "667 sayılı KHK uyarınca alınan meslekten çıkarma kararı olağanüstü hal koşullarında alınan tedbir niteliğindedir."
+    },
+    {
+      "concept": "yargı bağımsızlığı ve tarafsızlığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davacı tarafından Komisyonun bağımsızlığı ve tarafsızlığı sorgulanmış ancak Danıştay tarafından Komisyonun yeterli güvencelere sahip olduğu sonucuna varılmıştır."
+    },
+    {
+      "concept": "özel hayata saygı hakkı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Meslekten çıkarma kararının özel hayata saygı hakkına müdahale oluşturması ancak meşru amaç ve ölçülülük ilkesi çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "mahrem yapılanma",
+      "role": "uygulanan",
+      "context_in_reasoning": "FETÖ'nün askeri yargı içindeki mahrem yapılanması davacının örgüt ile irtibatını gösteren delil olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "ankesörlü telefon aramaları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının ankesörlü telefonlardan periyodik ve ardışık aramaların kaydı FETÖ iletişim yöntemi olarak kabul edilerek irtibat delili sayılmıştır."
+    },
+    {
+      "concept": "sıkıyönetim mahkemeleri görevlendirme listesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının sıkıyönetim mahkemesinde görevlendirilmesi FETÖ'nün askeri yargıyı kontrol altında tutma amacının göstergesi olarak değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davacının FETÖ terör örgütü ile iltisak ve irtibatı bulunup bulunmadığı ve bu gerekçeyle alınan meslekten çıkarma kararı hukuka uygun mudur?",
+    "rule": "667 sayılı KHK m.3/1 uyarınca terör örgütlerine veya milli güvenliğe karşı faaliyette bulunduğu kabul edilen yapılara üyelik, mensubiyet, iltisak veya irtibatı olduğu değerlendirilen askeri hakimler hakkında meslekte kalmalarının uygun olmadığına ve meslekten çıkarılmalarına karar verilir. Irtibat ve iltisak kavramları genel nitelikte olmakla birlikte, kişilerin terör örgütleri ile irtibat ve iltisaklarının ortaya konulabilmesi için örgütün amaçlarının gerçekleştirilmesi ya da örgütten yarar sağlamak maksadıyla bulundukları hal ve hareketler neticesinde örgüte yarar sağladıkları yönünde kanaat oluşması yeterlidir.",
+    "application": "Davacının E.D. isimli kişinin ifadesi, sıkıyönetim mahkemeleri görevlendirme listesinde yer alması, ankesörlü telefonlardan periyodik ve ardışık aramaların kaydı, FETÖ'nün askeri yargı içindeki mahrem yapılanması hakkındaki tespitler birlikte değerlendirildiğinde davacının FETÖ ile iltisak ve irtibatının bulunduğu sonucuna varılmıştır.",
+    "conclusion": "Davacının FETÖ ile iltisak ve irtibatı sabit olduğundan ve anayasal düzene sadakat yükümlülüğünü ihlal ettiğinden meslekten çıkarma kararında hukuka aykırılık bulunmamaktadır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "askeri hakim",
+      "milli savunma bakanlığı",
+      "fetö terör örgütü",
+      "komisyon"
+    ],
+    "context": "15 Temmuz 2016 darbe teşebbüsü sonrasında olağanüstü hal ilan edilmiş ve 667 sayılı KHK uyarınca FETÖ ile iltisak ve irtibatı bulunan yargı mensuplarının meslekten çıkarılması için Komisyon kurulmuştur.",
+    "trigger": "Davacının askeri hakim olarak görev yaparken FETÖ terör örgütü ile iltisak ve irtibatı olduğu gerekçesiyle Milli Savunma Bakanının başkanlığında oluşturulan Komisyon tarafından meslekten çıkarılmasına karar verilmesi.",
+    "claim": "Davacı tarafından Komisyon kararının iptali, savunma hakkının ihlali, adil yargılanma hakkının ihlali ve özel hayata saygı hakkının ihlali iddia edilerek dava açılmıştır."
+  }
+}

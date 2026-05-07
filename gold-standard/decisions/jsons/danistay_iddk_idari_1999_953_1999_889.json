@@ -1,0 +1,112 @@
+{
+  "file": "danistay_iddk_idari_1999_953_1999_889.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İdari Dava Daireleri Kurulu",
+  "case_number": "1999/953",
+  "decision_number": "1999/889",
+  "decision_date": "1999-10-15",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Temyiz incelemesi sonucu temyiz isteminin ehliyet yönünden reddine karar verilmiş ve hüküm bu suretle kesinleşmiştir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Davada taraf olmayan sendikanın temyiz ehliyeti bulunmadığından temyiz isteminin ehliyet yönünden reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "temyiz eden"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "temyiz eden",
+      "result": "usulden ret"
+    }
+  ],
+  "subject": "Bakanlar Kurulu Kararının İptali İstemiyle Açılan Davanın Ehliyet Yönünden Reddine İlişkin Karara Karşı Davada Taraf Olmayan Sendika Tarafından Yapılan Temyiz Başvurusu",
+  "summary": "TEDAŞ'ta sözleşmeli personel olarak çalışan davacı, 20. görev bölgesinde elektrik dağıtım ve ticareti yapma görevinin bir anonim şirkete verilmesine ilişkin Bakanlar Kurulu Kararının iptali istemiyle dava açmış; Danıştay Onuncu Dairesi davacının kişisel, meşru ve güncel menfaat ilgisi bulunmadığı gerekçesiyle davayı ehliyet yönünden reddetmiştir. Bu karara karşı davada taraf olmayan Enerji Yapı Yol Sen Sendikası temyiz başvurusunda bulunmuştur. Danıştay İdari Dava Daireleri Kurulu, davada taraf olmayan sendikanın kararı temyiz etme ehliyeti bulunmadığından temyiz isteminin ehliyet yönünden reddine oybirliğiyle karar vermiştir.",
+  "keywords": [
+    "temyiz ehliyeti",
+    "davada taraf olma",
+    "iptal davası",
+    "menfaat ilgisi",
+    "ehliyet yönünden ret",
+    "sendika",
+    "elektrik dağıtım",
+    "bakanlar kurulu kararı"
+  ],
+  "legal_issues": [
+    "Davada taraf olmayan bir sendika, ehliyet yönünden ret kararına karşı temyiz başvurusunda bulunabilir mi?",
+    "İptal davasında taraf sıfatı bulunmayanların temyiz yoluna başvurma ehliyeti var mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "temyiz ehliyeti",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, davada taraf olmayan sendikanın temyiz yoluna başvurma ehliyetinin bulunup bulunmadığının değerlendirilmesidir."
+    },
+    {
+      "concept": "davada taraf sıfatı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sendikanın ilk derece davasında taraf sıfatı bulunmadığı tespit edilerek temyiz ehliyetinin reddine dayanak yapılmıştır."
+    },
+    {
+      "concept": "menfaat ilgisi",
+      "role": "tartışılan",
+      "context_in_reasoning": "İlk derecede davacının iptal istemine konu işlemle kişisel, meşru ve güncel menfaat ilgisinin bulunmadığı tespit edilmiş; bu husus temyiz incelemesinin arka planını oluşturmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İlk derece davasında taraf olmayan sendika, ehliyet yönünden ret kararına karşı temyiz başvurusunda bulunabilir mi?",
+    "rule": "Bir mahkeme kararını temyiz edebilmek için kararın verildiği davada taraf sıfatına sahip olmak gerekir; davada taraf olmayanların temyiz ehliyeti bulunmamaktadır.",
+    "application": "Davacı tarafından açılan ve Danıştay Onuncu Dairesince ehliyet yönünden reddedilen davada taraf konumunda bulunmayan Enerji Yapı Yol Sen Sendikasının kararı temyiz etme ehliyeti yoktur.",
+    "conclusion": "Temyiz isteminin ehliyet yönünden reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı idare",
+      "temyiz eden sendika"
+    ],
+    "context": "Bir görev bölgesinde elektrik dağıtım ve ticareti yapma görevinin 30 yıl süreyle bir anonim şirkete verilmesine ilişkin Bakanlar Kurulu Kararı bağlamında açılan iptal davası.",
+    "trigger": "Danıştay Onuncu Dairesinin davacının menfaat ilgisi bulunmadığı gerekçesiyle davayı ehliyet yönünden reddetmesi ve bu karara davada taraf olmayan sendika tarafından temyiz başvurusunda bulunulması.",
+    "claim": "Davada taraf olmayan sendika tarafından ehliyet ret kararının bozulması istenmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 10. Daire",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/5643",
+      "decision_number": "1999/502",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Temyiz incelemesine konu olan ve davayı ehliyet yönünden reddeden ilk derece kararıdır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "14",
+      "context": "İlk inceleme aşamasında dilekçeler üzerinde yapılan inceleme usulünün yasal dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanun",
+      "law_number": "3096",
+      "article": "3",
+      "context": "İptal istemine konu Bakanlar Kurulu Kararının dayanağını oluşturan görevlendirme hükümlerinden biri olarak zikredilmiştir."
+    },
+    {
+      "law": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanun",
+      "law_number": "3096",
+      "article": "5",
+      "context": "İptal istemine konu Bakanlar Kurulu Kararının dayanağını oluşturan hükümlerden biri olarak zikredilmiştir."
+    },
+    {
+      "law": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanun",
+      "law_number": "3096",
+      "article": "9",
+      "context": "İptal istemine konu Bakanlar Kurulu Kararının dayanağını oluşturan hükümlerden biri olarak zikredilmiştir."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md",
+  "cited_law_articles": [
+    {
+      "law": "Gider Vergileri Kanunu",
+      "law_number": "6802",
+      "article": "39",
+      "context": "Özel iletişim vergisi oranlarının belirlenmesi ve Cumhurbaşkanının bu oranları değiştirme yetkisi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "73",
+      "context": "Verginin yasallığı, muaflık, istisna, indirim ve oranlara ilişkin Cumhurbaşkanına yetki verilmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "125",
+      "context": "İdari eylem ve işlemlerin hukuka uygunluğunun denetimi, yerindelik denetimi yapılamayacağı."
+    },
+    {
+      "law": "Elektronik Haberleşme Kanunu",
+      "law_number": "5809",
+      "article": null,
+      "context": "Yetkilendirme ve bildirim yoluyla işletmecilerin düzenlenmesi."
+    },
+    {
+      "law": "Telgraf ve Telefon Kanunu",
+      "law_number": "406",
+      "article": null,
+      "context": "Bilgi Teknolojileri ve İletişim Kurumu ile görev veya imtiyaz sözleşmesi."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": null,
+      "context": "Temyiz karar harcı ve maktu harç alınmasına ilişkin hükümler."
+    }
+  ]
+}

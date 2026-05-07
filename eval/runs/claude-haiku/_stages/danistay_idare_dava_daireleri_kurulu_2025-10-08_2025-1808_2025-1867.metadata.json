@@ -1,0 +1,92 @@
+{
+  "file": "danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İdari Dava Daireleri Kurulu",
+  "case_number": "2025/1808",
+  "decision_number": "2025/1867",
+  "decision_date": "2025-10-08",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Danıştay tarafından verilen temyiz kararı kesindir.",
+  "decision_outcome": "Onama",
+  "decision_outcome_raw": "Davacının temyiz isteminin reddiyle, davanın reddine ilişkin Danıştay Altıncı Dairesinin kararının onanmasına oyçokluğu ile karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy yazılarında, tarım arazisinin amaç dışı kullanımı için gerekli olan tarım dışı kullanım izninin acele kamulaştırma kararından sonra alındığı ve bu nedenle işlemin hukuka aykırı olduğu; ayrıca acele kamulaştırma şartlarının somut olarak ortaya konulamadığı ileri sürülmüştür.",
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Hacıhıdırlar RES elektrik üretim tesisinin yapımı için acele kamulaştırma kararının iptalinin istenmesi",
+  "keywords": [
+    "acele kamulaştırma",
+    "yenilenebilir enerji",
+    "rüzgar enerjisi",
+    "tarım arazisi",
+    "tarım dışı kullanım izni",
+    "kamu yararı",
+    "mülkiyet hakkı",
+    "2942 sayılı kamulaştırma kanunu",
+    "5403 sayılı toprak koruma kanunu",
+    "acelelik hali"
+  ],
+  "legal_issues": [
+    "Yenilenebilir enerji projelerinde acele kamulaştırma yapılabilmesi için 2942 sayılı Kanun'un 27. maddesinde öngörülen acelelik halinin varlığı gerekli midir?",
+    "Tarım arazisinin tarım dışı amaçla kullanılması için gerekli olan tarım dışı kullanım izninin acele kamulaştırma kararından önce alınması zorunlu mudur?",
+    "Acele kamulaştırma kararından sonra alınan tarım dışı kullanım izni, işlemin hukuka uygunluğunu sağlayabilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "acele kamulaştırma",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni 2942 sayılı Kanun'un 27. maddesinde öngörülen acele kamulaştırma usulünün uygulanabilirliği ve şartlarının gerçekleşip gerçekleşmediğinin belirlenmesidir."
+    },
+    {
+      "concept": "acelelik hali",
+      "role": "uygulanan",
+      "context_in_reasoning": "Ülkenin enerji açığı ve yenilenebilir enerji ihtiyacı dikkate alındığında, devlet adına lisans verilmek suretiyle yapılan enerji yatırımlarında kamulaştırma ile ilgili diğer hususların yerine getirilmesi koşuluyla acelelik halinin bulunduğu sonucuna varılmıştır."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yenilenebilir enerji kaynaklarının güvenilir, ekonomik ve kaliteli biçimde ekonomiye kazandırılması ve sera gazı emisyonlarının azaltılması amacında kamu yararı bulunmakta olup, bu amaç acele kamulaştırma kararını haklı kılmaktadır."
+    },
+    {
+      "concept": "tarım arazisinin korunması",
+      "role": "tartışılan",
+      "context_in_reasoning": "5403 sayılı Kanun uyarınca tarım arazilerinin korunması devlete yüklenmiş bir ödev olup, tarım dışı kullanım izni alınması gereken tarım arazisinde kamulaştırma yapılabilmesi için bu izin prosedürünün tamamlanmış olması gerekmektedir."
+    },
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa'nın 35. maddesi uyarınca mülkiyet hakkı ancak kamu yararı amacıyla kanunla sınırlanabilir ve bu sınırlandırmanın hukuka uygun olması gerekir."
+    },
+    {
+      "concept": "tarım dışı kullanım izni",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tarım arazisinin amaç dışı kullanımı için gerekli olan tarım dışı kullanım izninin, acele kamulaştırma kararından sonra alınmış olmasının işlemin hukuka uygunluğunu sağlamadığı, ancak bu hukuka aykırılığın sonradan alınan izin ile ortadan kalktığı değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Yenilenebilir enerji projesi için acele kamulaştırma kararı alınabilmesi için 2942 sayılı Kanun'un 27. maddesinde öngörülen acelelik halinin varlığı gerekli midir ve tarım arazisinin tarım dışı kullanım izni alınmadan acele kamulaştırılması hukuka uygun mudur?",
+    "rule": "2942 sayılı Kamulaştırma Kanunu'nun 27. maddesinde acele kamulaştırma, yurt savunması ihtiyacında, aceleliğine Cumhurbaşkanınca karar alınacak hallerde veya özel kanunlarla öngörülen olağanüstü durumlarda uygulanabilir. Acelelik halinin varlığı, projenin niteliği, yatırımın aciliyeti, ulusal ve bölgesel ihtiyacın ivedilikle karşılanması gerekliliği gibi hususlar dikkate alınarak her somut olayda değerlendirilmelidir. 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu uyarınca tarım arazisinin tarım dışı kullanımı için tarım dışı kullanım izni alınması gerekir.",
+    "application": "Somut olayda, ülkenin enerji açığı ve yenilenebilir enerji ihtiyacı dikkate alındığında, devlet adına lisans verilmek suretiyle yapılan enerji yatırımlarında kamulaştırma ile ilgili diğer hususların yerine getirilmesi koşuluyla acelelik halinin bulunduğu sonucuna varılmıştır. Tarım dışı kullanım izni acele kamulaştırma kararından sonra alınmış olsa da, bu iznin verilmesiyle hukuka aykırılık halinin ortadan kalktığı değerlendirilmiştir.",
+    "conclusion": "Dava konusu Cumhurbaşkanı Kararı'nda hukuka aykırılık bulunmadığından, davanın reddine ilişkin Altıncı Daire kararı onanmıştır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (taşınmaz sahibi)",
+      "idare",
+      "Enerji Piyasası Düzenleme Kurumu",
+      "enerji üretim şirketi"
+    ],
+    "context": "Aydın ve Denizli illerinde yenilenebilir enerji kaynağına dayalı elektrik üretim tesisinin kurulması amacıyla, özel mülkiyete konu tarım arazilerinin acele kamulaştırılması kararı alınmıştır.",
+    "trigger": "Enerji Piyasası Düzenleme Kurumu tarafından 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi uyarınca acele kamulaştırma talebinde bulunulması ve Cumhurbaşkanı tarafından 24/11/2023 tarihli karar alınması.",
+    "claim": "Davacı, acele kamulaştırma kararının iptalini ve taşınmazının kamulaştırılmadığının tespitini istemiştir."
+  }
+}

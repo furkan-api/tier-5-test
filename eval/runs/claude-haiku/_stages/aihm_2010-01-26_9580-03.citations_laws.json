@@ -1,0 +1,77 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "cited_law_articles": [
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "34",
+      "context": "Başvuru yapma hakkı; başvuranların AİHM'ye başvuru yapabilmesinin dayanağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme Ek 1 No'lu Protokol",
+      "law_number": null,
+      "article": "1",
+      "context": "Mülkiyet hakkı; tapu senetlerinin iptal edilmesi ve kamulaştırma işleminin incelenmesi."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı; makul sürede yargılanma ilkesi ve yargılama sürecinin uzunluğu."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "35/3",
+      "context": "İç hukuk yollarının tüketilmesi şartı; başvurunun kabuledilebilirliği."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "41",
+      "context": "Adil tazminat; ihlal halinde tazminat ve giderim usulü."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "44/2",
+      "context": "Kararın kesinleşmesi; karar tebliğinden itibaren üç ay içinde uzlaşma görüşmeleri."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "1007",
+      "context": "Tapu kaydının tutulmasından ileri gelen Devletin sorumluluğu; tazminat davası açma hakkı."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": null,
+      "context": "Genel hükümler; tazminat talebinde bulunma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Orman alanları; kamusal ormanlık alanların özel mülkiyetin konusu olamayacağı."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "3166",
+      "article": null,
+      "context": "Orman alanlarının tanımı; 8 Şubat 1937 tarihli kanun."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "5658",
+      "article": null,
+      "context": "Orman alanlarının tanımı; 24 Mart 1950 tarihli kanun."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": null,
+      "context": "Orman alanlarının tanımı; 31 Ağustos 1956 tarihli kanun, 2896 ve 3373 sayılı yasalarla değiştirilmiş."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md",
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 4. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2019/284",
+      "decision_number": "2023/1058",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Temyiz incelemesinde vergi mahkemesi kararını bozan karar."
+    },
+    {
+      "court": "Danıştay Vergi Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2023/1146",
+      "decision_number": "2024/1008",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu sicilindeki hukuki niteliğin konut vergisi oranı belirlemesinde esas olduğu emsal karar."
+    }
+  ]
+}

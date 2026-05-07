@@ -1,0 +1,327 @@
+{
+  "file": "danistay_ibk_idari_2021_6_2022_2.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İçtihatları Birleştirme Kurulu",
+  "case_number": "2021/6",
+  "decision_number": "2022/2",
+  "decision_date": "2022-05-27",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "Danıştay Kanunu'nun 40. maddesi uyarınca İçtihatları Birleştirme Kurulu kararları kesindir ve Resmi Gazete'de yayımlanır.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebileceği yönünde içtihat birleştirilmesine, 3. bendine göre tesis edilip edilemeyeceği konusunda ise içtihatların birleştirilmesine gerek bulunmadığına karar verilmiştir.",
+  "vote_unanimity": "oyçokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Usul yönünden, içtihatların birleştirilmesine lüzum bulunmadığı; esas yönünden ise, vergi incelemesi tamamlandıktan sonra da ihtiyati haciz işlemi tesis edilebileceği yönünde karşı oy ileri sürülmüştür.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Vergi incelemesi sonrası ihtiyati haciz işlemi tesisinin mümkün olup olmadığına ilişkin içtihatların birleştirilmesi.",
+  "keywords": [
+    "ihtiyati haciz",
+    "6183 sayılı kanun",
+    "vergi incelemesi",
+    "tarhiyat",
+    "ihtiyati tahakkuk",
+    "teminat",
+    "içtihat birleştirme",
+    "danıştay"
+  ],
+  "legal_issues": [
+    "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebilir mi?",
+    "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 3. bendine göre ihtiyati haciz işlemi tesis edilebilir mi?",
+    "6183 sayılı Kanun'un 9. maddesi uyarınca teminat istenmesi için vergi incelemesinin devam ediyor olması şart mıdır?",
+    "İhtiyati haciz tedbirinin amacı ve uygulanma koşulları nelerdir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "ihtiyati haciz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın ana ekseni, vergi incelemesi ve tarhiyat sonrası 6183 sayılı Kanun'un 13. maddesi uyarınca ihtiyati haciz uygulanıp uygulanamayacağıdır."
+    },
+    {
+      "concept": "teminat isteme",
+      "role": "uygulanan",
+      "context_in_reasoning": "6183 sayılı Kanun'un 9. maddesi uyarınca teminat isteme koşullarının, 13. maddenin 1. bendindeki ihtiyati haciz nedeni olarak yorumlanması tartışılmıştır."
+    },
+    {
+      "concept": "ihtiyati tahakkuk",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhtiyati haciz ile birlikte değerlendirilen ihtiyati tahakkuk müessesesinin, kamu alacağının korunmasındaki rolü ele alınmıştır."
+    },
+    {
+      "concept": "kamu alacağının korunması",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhtiyati haciz ve ihtiyati tahakkuk gibi tedbirlerin, kamu alacağının tahsilini güvence altına alma amacına hizmet ettiği vurgulanmıştır."
+    },
+    {
+      "concept": "içtihat birliği",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Farklı daire kararları arasındaki aykırılıkların giderilerek hukuki istikrar ve yeknesaklığın sağlanması hedeflenmiştir."
+    },
+    {
+      "concept": "vergi incelemesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhtiyati haciz uygulanabilmesi için vergi incelemesinin devam edip etmediği veya sonuçlanıp sonuçlanmadığı hususu temel hukuki tartışma noktası olmuştur."
+    },
+    {
+      "concept": "tarhiyat",
+      "role": "uygulanan",
+      "context_in_reasoning": "Vergi incelemesi sonrası yapılan tarhiyatın, ihtiyati haciz kararı alınmasına engel teşkil edip etmeyeceği değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebilir mi?",
+    "rule": "6183 sayılı Kanun'un 13. maddesinin 1. bendi, 9. madde gereğince teminat istemeyi gerektiren hallerin mevcut olması durumunda ihtiyati haciz uygulanabileceğini düzenler; ancak 9. maddenin yorumu konusunda farklı görüşler bulunmaktadır. Danıştay Üçüncü ve Dokuzuncu Daireleri incelemenin devamı şartını ararken, Dördüncü, Yedinci Daireler ve Vergi Dava Daireleri Kurulu inceleme sonrası da ihtiyati haciz uygulanabileceğini kabul etmektedir.",
+    "application": "İnceleme elemanının yetkisinin inceleme süresiyle sınırlı olduğu ve inceleme sonrası 9. maddeye dayanılarak ihtiyati haciz uygulanamayacağı yönündeki görüşün aksine, kamu alacağının korunması amacının ve kanundaki süre sınırlamasının bulunmadığı dikkate alınarak, inceleme tamamlandıktan sonra da 13. maddenin 1. bendine göre ihtiyati haciz uygulanabileceği kabul edilmiştir.",
+    "conclusion": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. bendine göre ihtiyati haciz işlemi tesis edilebileceği yönünde içtihatların birleştirilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "borçlu",
+      "vergi dairesi",
+      "Danıştay Daireleri",
+      "Danıştay İçtihatları Birleştirme Kurulu"
+    ],
+    "context": "Vergi incelemesi sonucunda tarhiyat yapılmış borçlular hakkında ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda Danıştay daireleri arasında oluşan aykırılık.",
+    "trigger": "Farklı Danıştay dairelerinin, vergi incelemesi sonrası ihtiyati haciz uygulanabilirliği konusunda çelişkili kararlar vermesi.",
+    "claim": "Vergi incelemesi sonuçlanıp tarhiyat yapıldıktan sonra borçlu hakkında 6183 sayılı Kanun'un 13. maddesinin 1. ve 3. bentlerine göre ihtiyati haciz işlemi tesis edilip edilemeyeceği hususunda içtihatların birleştirilmesi talebi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/1878",
+      "decision_number": "2020/6078",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2013/2900",
+      "decision_number": "2015/1148",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/1917",
+      "decision_number": "2018/2163",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/1596",
+      "decision_number": "2019/1306",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/5401",
+      "decision_number": "2018/6084",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/4492",
+      "decision_number": "2018/1991",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2019/2591",
+      "decision_number": "2021/4815",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/4515",
+      "decision_number": "2018/2512",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/5625",
+      "decision_number": "2017/10688",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilemeyeceği yönünde."
+    },
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2015/5722",
+      "decision_number": "2015/8988",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2019/6583",
+      "decision_number": "2020/4991",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/5053",
+      "decision_number": "2021/6438",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Danıştay 4. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2015/7735",
+      "decision_number": "2016/1492",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Danıştay 4. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2018/7289",
+      "decision_number": "2018/13723",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Danıştay 7. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2019/2114",
+      "decision_number": "2021/967",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Danıştay 7. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/1998",
+      "decision_number": "2021/864",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Vergi Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2020/1318",
+      "decision_number": "2020/1231",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    },
+    {
+      "court": "Vergi Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2014/250",
+      "decision_number": "2014/555",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz tesis edilebileceği yönünde."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/1",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz işlemi tesis edilemeyeceği yönünde içtihatların birleştirilmesi."
+    },
+    {
+      "law": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/3",
+      "context": "Vergi incelemesi sonrası ihtiyati haciz işlemi tesis edilip edilemeyeceği konusunda içtihatların birleştirilmesine gerek bulunmadığı."
+    },
+    {
+      "law": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "9",
+      "context": "Teminat isteme şartları ve ihtiyati haciz ile ilişkisi."
+    },
+    {
+      "law": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "17",
+      "context": "İhtiyati tahakkuk sebepleri ve ihtiyati haciz ile ilişkisi."
+    },
+    {
+      "law": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "18",
+      "context": "İhtiyati tahakkukun sonuçları ve ihtiyati haciz uygulaması."
+    },
+    {
+      "law": "213 sayılı Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "344",
+      "context": "Vergi ziyaı cezası kesilmesini gerektiren haller."
+    },
+    {
+      "law": "213 sayılı Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "359",
+      "context": "Vergi kaçakçılığı suçları."
+    },
+    {
+      "law": "2575 sayılı Danıştay Kanunu",
+      "law_number": "2575",
+      "article": "39",
+      "context": "İçtihatları birleştirme kurulunun görevleri ve usulü."
+    },
+    {
+      "law": "2575 sayılı Danıştay Kanunu",
+      "law_number": "2575",
+      "article": "40",
+      "context": "İçtihatların birleştirilmesini istemeye yetkili olanlar ve kararların bağlayıcılığı."
+    }
+  ]
+}

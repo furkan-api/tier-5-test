@@ -1,0 +1,107 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "cited_law_articles": [
+    {
+      "law": "Tapulama Kanunu",
+      "law_number": "766",
+      "article": "20",
+      "context": "Arazi Kanunnamesinin yürürlükten kaldırılmadığı, parselin niteliği ve malikinin re'sen belirlenmesi gerektiği."
+    },
+    {
+      "law": "Tapulama Kanunu",
+      "law_number": "766",
+      "article": "78",
+      "context": "Arazi Kanunnamesinin yürürlükten kaldırılmadığı, parselin niteliği ve malikinin re'sen belirlenmesi gerektiği."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "30/2",
+      "context": "Parselin niteliğinin ve malikinin re'sen belirlenmesi gerektiği."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/C",
+      "context": "Tapu kayıtlarında belirtilen hudutların değişebilir gayrimuayyen olması nedeniyle miktarına itibar edilerek saptanacağı."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20",
+      "context": "Tapu kayıtlarının sabit sınırla bağlantısı kesilmemek suretiyle uygulanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "21",
+      "context": "Tapu kayıtlarının sabit sınırla bağlantısı kesilmemek suretiyle uygulanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "20/B",
+      "context": "Niza gününe kadar kayıt sahibinin kullanımı var ise tapu kaydına değer verilmesi."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "14",
+      "context": "Zilyetlikle kazanım şartlarının oluşup oluşmadığının saptanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "17",
+      "context": "Zilyetlikle kazanım şartlarının oluşup oluşmadığının saptanması."
+    },
+    {
+      "law": "Kadastro Kanunu",
+      "law_number": "3402",
+      "article": "18",
+      "context": "Zilyetlikle kazanım şartlarının oluşup oluşmadığının saptanması."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": null,
+      "context": "Arazi Kanunnamesinin Medeni Kanuna aykırı olmayan hükümlerinin yürürlükte olduğu kabulü."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "20",
+      "context": "Zilyetlikle kazanılabileceği kabulü; gayrisahih vakıf niteliğinde olduğu."
+    },
+    {
+      "law": "Arazi Kanunnamesi",
+      "law_number": null,
+      "article": "78",
+      "context": "Zilyetlikle kazanılabileceği kabulü; gayrisahih vakıf niteliğinde olduğu."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": null,
+      "context": "Makul sürede yargılanma hakkı ihlali."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal halinde manevi tazminat ödenmesi."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": null,
+      "context": "Tazminatın tahsili."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": "440/I",
+      "context": "Karar düzeltme isteğinde bulunulabileceği."
+    }
+  ]
+}

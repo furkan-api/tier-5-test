@@ -1,0 +1,65 @@
+{
+  "file": "yargitay_ibhgk_hukuk_1974_1_1974_2.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1964/6411",
+      "decision_number": "1964/6298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan 2. Hukuk Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1973/528",
+      "decision_number": "1973/5437",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan 2. Hukuk Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1960/24",
+      "decision_number": "1960/24",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1968/1510",
+      "decision_number": "1968/99",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan HGK kararı."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1953/8",
+      "decision_number": "1953/7",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gizli aktin biçim koşulu gerçekleşmediğinden geçersiz olduğu görüşünü benimseyen İBK."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1957/12",
+      "decision_number": "1957/2",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Şufa ile ilgili olup önceki İBK ilkesini bozmadığı belirtilen karar."
+    }
+  ]
+}

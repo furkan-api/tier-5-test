@@ -1,0 +1,104 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2014/11657",
+  "decision_number": null,
+  "decision_date": "2017-06-22",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Başvurucunun temyiz karar harcının hatalı hesaplanması nedeniyle mahkemeye erişim hakkının ihlal edildiğine, diğer şikayetlerinin ise kabul edilemez olduğuna karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Taşınmaz satış vaadi sözleşmesinde harç ve vekalet ücretinin hesaplanması ile temyiz karar harcının hatalı hesaplanması nedeniyle mülkiyet ve mahkemeye erişim haklarının ihlali iddiaları.",
+  "keywords": [
+    "taşınmaz satış vaadi",
+    "tapu iptali ve tescil",
+    "harç hesaplaması",
+    "vekâlet ücreti",
+    "temyiz karar harcı",
+    "mülkiyet hakkı",
+    "mahkemeye erişim hakkı",
+    "adil yargılanma hakkı",
+    "kanunilik ilkesi",
+    "takdir hatası"
+  ],
+  "legal_issues": [
+    "Taşınmaz satış vaadi sözleşmesinde, sözleşmede belirlenen bedel yerine taşınmazın gerçek bedeli üzerinden harç ve vekâlet ücreti hesaplanması mülkiyet hakkını ihlal eder mi?",
+    "Birden fazla davalı aleyhine hükmedilen karar ve ilam harcının ayrı ayrı hesaplanmaması mülkiyet hakkını ihlal eder mi?",
+    "Temyiz karar harcının hatalı hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "Yargılama giderlerinin ve vekâlet ücretinin belirlenmesinde ölçülülük ilkesi nasıl uygulanır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucunun, harç ve vekâlet ücretinin taşınmazın gerçek bedeli üzerinden hesaplanması nedeniyle mülkiyet hakkının ihlal edildiği iddiası temel inceleme konusudur."
+    },
+    {
+      "concept": "mahkemeye erişim hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Temyiz karar harcının hatalı hesaplanması iddiası, adil yargılanma hakkının bir görünümü olan mahkemeye erişim hakkı kapsamında incelenmiştir."
+    },
+    {
+      "concept": "satış vaadi sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Uyuşmazlığın temelini oluşturan gayrimenkul satış vaadi sözleşmesinin yorumlanması ve sonuçlarının belirlenmesi derece mahkemelerinin görevidir."
+    },
+    {
+      "concept": "harçlar kanunu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu iptali ve tescil davalarında harcın taşınmazın değeri üzerinden hesaplanacağına dair Harçlar Kanunu hükümleri uygulanmıştır."
+    },
+    {
+      "concept": "hukuk muhakemeleri kanunu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargılama giderlerinin taraflara paylaştırılmasına veya müteselsilen sorumlu tutulmalarına ilişkin HMK hükümleri değerlendirilmiştir."
+    },
+    {
+      "concept": "dürüstlük ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Yargıtay'ın bazı kararlarında, sözleşme tarihi ile dava tarihi arasında uzun zaman geçmesi halinde semenin güncellenmesi gerektiği yönündeki içtihadı dürüstlük ilkesine dayandırılmıştır."
+    },
+    {
+      "concept": "kanunilik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Temyiz karar harcının kanuni dayanağı olmadan fazladan hesaplanması kanunilik ilkesini ihlal etmektedir."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargılama giderlerinin ve vekâlet ücretinin belirlenmesinde, başvurucunun mahkemeye erişimini engelleyecek orantısız bir külfet yüklenmemesi gerektiği ölçülülük ilkesi çerçevesinde değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Temyiz karar harcının hatalı hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "rule": "Mahkemeye erişim hakkı, Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkının bir gereğidir ve bu hakka yapılan müdahaleler Anayasa'nın 13. maddesinde belirtilen genel sınırlama ilkelerine uygun olmalıdır. Yargıtay tarafından kanuni düzenlemelere aykırı olarak fazladan temyiz karar harcı hesaplanması, kanunilik ve ölçülülük ilkelerini ihlal ederek mahkemeye erişim hakkını zedeleyebilir.",
+    "application": "Somut olayda Yargıtay, başvurucunun hissesine düşen değer yerine taşınmazın toplam değerinin üçte ikisi üzerinden temyiz karar harcı hesaplamıştır. Bu hesaplama, 492 sayılı Kanun'un ilgili hükümlerine aykırı olup fazladan 21.235,66 TL harç yüklenmesine neden olmuştur. Bu durum, kanunilik ilkesini ihlal etmekte ve başvurucunun mahkemeye erişim hakkını zedelemektedir.",
+    "conclusion": "Başvurucu aleyhine fazladan hükmedilen 21.235,66 TL temyiz karar harcı yönünden Anayasa'nın 36. maddesinde güvenceye bağlanan mahkemeye erişim hakkının ihlal edildiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "davacı",
+      "davalı",
+      "Yargıtay",
+      "Asliye Mahkemesi"
+    ],
+    "context": "Taşınmaz satış vaadi sözleşmesine dayalı tapu iptali ve tescil davasında, harç ve vekâlet ücretinin hesaplanması ile temyiz karar harcının belirlenmesinden kaynaklanan uyuşmazlık.",
+    "trigger": "İlk derece mahkemesinin, sözleşmede belirlenen satış bedeli yerine taşınmazın bilirkişi tarafından tespit edilen gerçek bedeli üzerinden harç ve vekâlet ücretine hükmetmesi ve Yargıtay'ın temyiz karar harcını hatalı hesaplaması.",
+    "claim": "Taşınmaz satış vaadi sözleşmesine istinaden açılan davada, harç ve vekâlet ücretinin sözleşmede belirlenen bedel yerine gerçek bedel üzerinden hesaplanması, karar ve ilam harcının ayrı ayrı hükmedilmemesi ve temyiz karar harcının hatalı hesaplanması nedeniyle mülkiyet ve mahkemeye erişim haklarının ihlal edildiği iddiaları."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md",
+  "cited_court_decisions": [
+    {
+      "court": "Kütahya İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2013/342",
+      "decision_number": "2014/306",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Davanın kabulüne dair verilen ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/14851",
+      "decision_number": "2014/18378",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararını bozarak dosyayı geri çeviren Yargıtay Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/23916",
+      "decision_number": "2013/22377",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Benzer bir davada aynı sonuca ulaşan Yargıtay 7. Hukuk Dairesi kararı."
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md",
+  "cited_court_decisions": [
+    {
+      "court": "Ankara 15. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2017/1599",
+      "decision_number": "2018/1740",
+      "relation": "chained",
+      "outcome": "Ret",
+      "treatment": null,
+      "context": "Başvurunun dayanağı olan ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Ankara Bölge İdare Mahkemesi 1. İdari Dava Dairesi",
+      "cited_court_type": "Bölge İdare Mahkemesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "İstinafın Reddi",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararını onayan istinaf kararı."
+    },
+    {
+      "court": "Danıştay",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İstinaf kararını onayan temyiz kararı."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/12958",
+      "decision_number": "2019/27533",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personelinin kamu görevlisi niteliği hakkında."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2020/2098",
+      "decision_number": "2021/707",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personelinin kamu görevlisi niteliği hakkında."
+    },
+    {
+      "court": "Danıştay 2. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2017/34",
+      "decision_number": "2023/2863",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "KOSGEB personelinin kamu görevlisi niteliği hakkında."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": "2015/62",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/636",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1178",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/13478",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM Genel Kurul kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5660",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklenti kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/845",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Meşru beklentiye dayalı mülkiyet hakkı tespiti."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkına müdahale türlerini açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/17510",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik ilkesinin önemini açıklayan emsal AYM Genel Kurul kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1246",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik ilkesinin önemini açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1301",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanun metninin hukuki belirlilik taşıması gerektiğini açıklayan AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/6192",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kanunilik koşulunun erişilebilir ve öngörülebilir kurallar gerektirmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1239",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu yararı kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/6151",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu yararı kavramını açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/111",
+      "decision_number": "2012/56",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin alt ilkelerini açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/16",
+      "decision_number": "2016/37",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin alt ilkelerini açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin alt ilkelerini açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/13863",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gereklilik ilkesi ve kamu otoritelerinin takdir payı hakkında AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3044",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının usuli güvencelerini açıklayan emsal AYM Genel Kurul kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1734",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının usuli güvencelerini açıklayan emsal AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/2250",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yönetmeliğin kanunilik ölçütünü karşılama denetimi hakkında AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8875",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireysel başvuruya özgü yeniden yargılama kurumunun özelliklerini açıklayan AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/12506",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireysel başvuruya özgü yeniden yargılama kurumunun özelliklerini açıklayan AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2020/32949",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireysel başvuruya özgü yeniden yargılama kurumunun özelliklerini açıklayan AYM kararı."
+    }
+  ]
+}

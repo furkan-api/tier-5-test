@@ -1,0 +1,75 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "cited_court_decisions": [
+    {
+      "court": "1. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": "2017/942",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Müflis bankanın iflasına karar veren ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2014/681",
+      "decision_number": "2014/1451",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Yargı harçlarının iadesine ilişkin vergi mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2015/2239",
+      "decision_number": "2019/1830",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Harçlar Kanunu değişikliğine ilişkin Danıştay bozma ilamı."
+    },
+    {
+      "court": "Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": null,
+      "decision_number": "2019/768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Danıştay bozma ilamına uyularak verilen vergi mahkemesi kararı."
+    },
+    {
+      "court": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": "2019/1481",
+      "decision_number": "2019/1559",
+      "relation": "chained",
+      "outcome": "Esastan Ret",
+      "treatment": null,
+      "context": "Önceki davada istinaf incelemesi yapan mahkeme kararı."
+    },
+    {
+      "court": "Uyuşmazlık Mahkemesi",
+      "cited_court_type": "Uyuşmazlık Mahkemesi",
+      "case_number": "2020/345",
+      "decision_number": "2020/412",
+      "relation": "chained",
+      "outcome": "Adli Yargı Görevli",
+      "treatment": null,
+      "context": "Görev uyuşmazlığını çözen Uyuşmazlık Mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu alacaklarına ilişkin yerleşik Yargıtay içtihadı."
+    }
+  ]
+}

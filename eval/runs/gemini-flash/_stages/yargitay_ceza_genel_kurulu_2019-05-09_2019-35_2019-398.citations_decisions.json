@@ -1,0 +1,75 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md",
+  "cited_court_decisions": [
+    {
+      "court": "Ankara 5. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2013/444",
+      "decision_number": "2013/310",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Sanık hakkında verilen ilk derece mahkemesi mahkumiyet hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/9089",
+      "decision_number": "2016/2701",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Yerel mahkeme hükmünü bozan Yargıtay 14. Ceza Dairesi kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/140",
+      "decision_number": "2015/85",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "TCK'nın 53. maddesini kısmen iptal eden Anayasa Mahkemesi kararı."
+    },
+    {
+      "court": "Ankara 5. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "2016/260",
+      "decision_number": "2016/288",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Bozmaya uyularak verilen yerel mahkeme mahkumiyet hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/123",
+      "decision_number": "2018/1154",
+      "relation": "chained",
+      "outcome": "Kaldırma",
+      "treatment": null,
+      "context": "Yerel mahkeme hükmünü onayan ve itiraza konu olan 14. Ceza Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/8073",
+      "decision_number": "2018/6808",
+      "relation": "chained",
+      "outcome": "Kaldırma",
+      "treatment": null,
+      "context": "Başsavcılık itirazını yerinde görmeyen 14. Ceza Dairesi kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "33401/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Cinsiyete dayalı şiddeti ayrımcılık olarak belirten AİHM kararı."
+    }
+  ]
+}

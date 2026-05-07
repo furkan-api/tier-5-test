@@ -1,0 +1,641 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md",
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "2",
+      "context": "Hukuk devleti ilkesi; kanun başlığı, uygulama tarihi, erteleme ve istisnaların Anayasa'ya aykırılığı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Eşitlik ilkesi; uygulama tarihi, ceza türleri, erteleme ve istisnaların Anayasa'ya aykırılığı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Hâkimlerin bağımsızlığı; yargı yetkisinin kullanılmasına müdahale yasağı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkının ihlali iddiası."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "Başlangıç",
+      "context": "Anayasa'nın temel ilkeleri; onurlu hayat ve maddi/manevi varlığı geliştirme hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; dava ertelemesinin aykırılığı iddiası."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "11",
+      "context": "Anayasa hükümlerinin bağlayıcılığı; kanunların Anayasa'ya aykırı olamayacağı ilkesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "38",
+      "context": "Suç ve cezaların kanuniliği, masumiyet karinesi, ceza sorumluluğu; zamanaşımı ve kazanılmış haklar."
+    },
+    {
+      "law": "Adli Sicil Kanunu",
+      "law_number": "3682",
+      "article": null,
+      "context": "Adli sicil kayıtlarının silinmesi ve yasak hakların iadesi."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "121",
+      "context": "Adli sicil kayıtlarının silinmesi ve yasak hakların iadesi."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "Ek 2",
+      "context": "Kurumlarda kalma süresinden ayda 6 gün indirim; 4616 sayılı Kanun ile uygulanmaması."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu (mülga)",
+      "law_number": "1412",
+      "article": "223",
+      "context": "Sanık savunmalarının tespiti için gıyabi tevkif."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu (mülga)",
+      "law_number": "1412",
+      "article": "229",
+      "context": "Sanık savunmalarının tespiti için gıyabi tevkif."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": null,
+      "context": "Kanun başlığının Anayasa'ya aykırılığı iddiası."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1",
+      "context": "Kanunun uygulama tarihine ilişkin genel hüküm."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/1",
+      "context": "Ölüm cezalarının infazının yerine getirilmemesi."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/2",
+      "context": "Hürriyeti bağlayıcı cezalardan on yıl indirim yapılması."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/3",
+      "context": "Tutuklu sanıkların durumlarının değerlendirilmesi ve tutukluluğun kaldırılması."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/4",
+      "context": "Dava açılması veya kesin hükme bağlanmasının ertelenmesi."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-a",
+      "context": "Türk Ceza Kanunu'ndaki bazı suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "188",
+      "context": "Emredici cebir ve şartlı tehdit suçları."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "191",
+      "context": "Tehdit suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "202",
+      "context": "Zimmet suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "209",
+      "context": "İrtikap suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "219",
+      "context": "Rüşvet suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "240",
+      "context": "Görevin genel nitelikte kötüye kullanılması suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "243",
+      "context": "İşkence suçunu düzenleyen madde; af kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "264",
+      "context": "Ruhsatsız dinamit, bomba vb. yapma, taşıma suçları."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "298",
+      "context": "Tutukluların firar suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "313",
+      "context": "Cürüm işlemek için teşekkül meydana getirme suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "339",
+      "context": "Memurun resmi belgede sahtecilik suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "342",
+      "context": "Memur olmayan kimsenin resmi belgede sahtecilik suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "343",
+      "context": "Resmi varaka tanziminde yalan beyan suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "345",
+      "context": "Hususi belgede sahtecilik suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "346",
+      "context": "Sahte belgeyi kullanmak suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "347",
+      "context": "Sahtecilik suçlarında cezayı azaltan haller."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "366",
+      "context": "Resmi artırma-eksiltmeye hile karıştırma suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "367",
+      "context": "Mal artırma-eksiltmesine hile karıştırma suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "383",
+      "context": "Taksirle yangın, su baskını vb. tehlikelere sebebiyet verme suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "403",
+      "context": "Uyuşturucu madde imal, ithal, ihraç, satış, nakil, tedarik suçları."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "404/2",
+      "context": "Uyuşturucu madde kullanma veya bulundurma suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "414",
+      "context": "15 yaşını bitirmeyen küçüğün ırzına geçme suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "415",
+      "context": "15 yaşını bitirmeyen küçüğün ırz ve namusuna tasaddi suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "416",
+      "context": "15 yaşını bitiren kimsenin ırzına geçme veya tasaddi suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "417",
+      "context": "Cinsel suçlarda cezayı artıran şahsa bağlı haller."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "418",
+      "context": "Cinsel suçlarda cezayı artıran fiile bağlı haller."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "503",
+      "context": "Hile ve desiselerle dolandırıcılık suçu."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "504",
+      "context": "Mevsuf dolandırıcılık suçu."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-b",
+      "context": "Askeri Ceza Kanunu'ndaki bazı suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "79",
+      "context": "Kendini veya başkasını askerliğe yaramayacak hale getirme suçu."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "81",
+      "context": "Askerlikten kurtulmak için hile yapma suçu."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "88",
+      "context": "Toplu asker karşısında veya hizmetten savuşmak için itaatsizlik suçu."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "91",
+      "context": "Amir ve üsse fiilen taarruz ve taarruza teşebbüs suçu."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "131",
+      "context": "Askeri eşyayı çalma, zimmetine geçirme, ihtilas etme suçları."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-c",
+      "context": "Kaçakçılığın Men ve Takibine Dair Kanun'daki bazı suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "27",
+      "context": "Kaçakçılık maksadıyla teşekkül vücuda getirme veya toplu kaçakçılık."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "33",
+      "context": "Kaçakçılık cürümlerine veya teşekküllerine yardım etme."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-e",
+      "context": "Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun'daki bazı suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun",
+      "law_number": "6136",
+      "article": "12",
+      "context": "Ateşli silahların ithali, ihracı, imalı, taşınması, satışı vb. suçlar."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-f",
+      "context": "Orman Kanunu'ndaki bazı suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "91",
+      "context": "Dikiliden orman emvali kesme suçları."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "93",
+      "context": "İzinsiz ormandan tarla açma, bina inşa etme suçları."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "108",
+      "context": "Kaçak orman emvalini taşıma, biçme, işleme, kabul etme fiilleri."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "110",
+      "context": "Devlet ormanında ateş yakma, yangına sebebiyet verme, kasten orman yakma."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-g",
+      "context": "Kültür ve Tabiat Varlıklarını Koruma Kanunu'ndaki bazı suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+      "law_number": "2863",
+      "article": "68",
+      "context": "Kültür ve tabiat varlıklarını yurt dışına çıkarma yasağına aykırı hareket etme."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-h",
+      "context": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu'ndaki suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "12",
+      "context": "Gerçeğe aykırı mal bildiriminde bulunma suçu."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/5-j",
+      "context": "Vergi, resim ve harçlara ilişkin suçların kanun kapsamı dışında bırakılması."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "359",
+      "context": "Vergi kaçakçılığı suçları ve cezaları."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/6",
+      "context": "Şartla salıverilme veya aftan yararlananların kapsam dışı bırakılması."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/7",
+      "context": "647 sayılı Kanun Ek 2. maddesindeki indirim hükümlerinin uygulanmaması."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "1/9",
+      "context": "Firar halinde olanların bir ay içinde teslim olma şartı."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "2",
+      "context": "Basın suçlarına ilişkin dava ve cezaların ertelenmesi."
+    },
+    {
+      "law": "Basın ve Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4454",
+      "article": "1",
+      "context": "Basın suçlarına ilişkin dava ve cezaların ertelenmesi."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "3",
+      "context": "Kanunun yürürlük tarihi."
+    },
+    {
+      "law": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun",
+      "law_number": "4616",
+      "article": "4",
+      "context": "Kanun hükümlerinin yürütme yetkisi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "17/3",
+      "context": "İşkence ve eziyet yasağı."
+    },
+    {
+      "law": "İşkenceye ve Diğer Zalimane, İnsanlık Dışı Ya Da Küçültücü Muamele Ya Da Cezaya Karşı Birleşmiş Milletler Sözleşmesi",
+      "law_number": null,
+      "article": "1",
+      "context": "İşkence tanımı."
+    },
+    {
+      "law": "İşkenceye ve Diğer Zalimane, İnsanlık Dışı Ya Da Küçültücü Muamele Ya Da Cezaya Karşı Birleşmiş Milletler Sözleşmesi",
+      "law_number": null,
+      "article": "2",
+      "context": "İşkencenin engellenmesi için önlemlerin alınması yükümlülüğü."
+    },
+    {
+      "law": "İşkenceye ve Diğer Zalimane, İnsanlık Dışı Ya Da Küçültücü Muamele Ya Da Cezaya Karşı Birleşmiş Milletler Sözleşmesi",
+      "law_number": null,
+      "article": "4",
+      "context": "İşkence eylemlerinin suç sayılması ve cezalandırılması."
+    },
+    {
+      "law": "Askeri Ceza Kanunu",
+      "law_number": "1632",
+      "article": "144",
+      "context": "Askerlerin görevi kötüye kullanma suçu."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Ormanların korunması ve orman suçları için af yasağı."
+    },
+    {
+      "law": "Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+      "law_number": "2863",
+      "article": "32",
+      "context": "Kültür ve tabiat varlıklarının yurt dışına çıkarılması yasağı."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "1",
+      "context": "Kanunun amacı; rüşvet ve yolsuzluklarla mücadele."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu (mülga)",
+      "law_number": "1412",
+      "article": "401",
+      "context": "Hükümlüler hakkında yakalama müzekkeresi düzenlenmesi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "2949",
+      "article": "29/2",
+      "context": "Bir kuralın iptalinin diğer kuralların uygulanmasını engellemesi halinde iptal yetkisi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "153/3",
+      "context": "İptal kararlarının yürürlüğe giriş tarihi ve süresi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "2949",
+      "article": "53/4",
+      "context": "İptal kararlarının yürürlüğe giriş tarihi ve süresi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "2949",
+      "article": "53/5",
+      "context": "İptal halinde hukuksal boşluğun kamu düzenini tehdit etmesi durumu."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "14",
+      "context": "Af yasağı getirilen eylemler."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "450/3",
+      "context": "İşkence ile adam öldürme suçu."
+    },
+    {
+      "law": "1924 Anayasası",
+      "law_number": null,
+      "article": "26",
+      "context": "TBMM'nin kanun koyma, af ilan etme ve cezaları erteleme yetkileri."
+    },
+    {
+      "law": "1961 Anayasası",
+      "law_number": null,
+      "article": "62",
+      "context": "Yasama yorumu ve cezaların ertelenmesi yetkisinin kaldırılması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "17/1",
+      "context": "Yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkı."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "13 (son fıkra)",
+      "context": "Müebbet ağır hapis cezasının 36 yıl üzerinden hesaplanması (mülga hüküm)."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "3/2",
+      "context": "Müebbet ağır hapis cezasının süresi."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "19",
+      "context": "Müebbet ağır hapis cezası hükümlülerinin şartla salıverilme koşulları."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "17/2",
+      "context": "Şartlı salıverme kararının geri alınması halinde deneme süresi hesaplaması."
+    },
+    {
+      "law": "Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+      "law_number": "3653",
+      "article": null,
+      "context": "TCK 13. maddesinin son fıkrasını yürürlükten kaldıran kanun."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "97",
+      "context": "Genel affın hukuki niteliği ve sonuçları."
+    },
+    {
+      "law": "Türk Ceza Kanunu (mülga)",
+      "law_number": "765",
+      "article": "98",
+      "context": "Özel affın hukuki niteliği ve sonuçları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti; yargı mercileri önünde iddia ve savunma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "38/4",
+      "context": "Masumiyet karinesi ilkesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "87",
+      "context": "Genel ve özel af ilan etme yetkisi; TBMM'nin görev ve yetkileri."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "104",
+      "context": "Cumhurbaşkanının af yetkisi."
+    }
+  ]
+}

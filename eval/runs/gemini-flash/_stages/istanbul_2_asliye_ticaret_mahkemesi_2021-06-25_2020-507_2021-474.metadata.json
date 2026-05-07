@@ -1,0 +1,80 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "court_type": "İlk Derece Hukuk",
+  "court": "İstanbul 2. Asliye Ticaret Mahkemesi",
+  "case_number": "2020/507",
+  "decision_number": "2021/474",
+  "decision_date": "2021-06-25",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": "Tarafların gerekçeli kararı tebliğ tarihinden itibaren 10 gün içerisinde İstanbul BAM nezdinde istinaf yoluna başvurma hakları bulunmaktadır.",
+  "decision_outcome": "Kabul",
+  "decision_outcome_raw": "Davacının 48.212,80-TL alacağının müflis bankanın iflas dosyasında sıra cetveline kayıt ve kabulüne karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Sıra Cetveline İtiraz (İflas Tasfiyesinde Düzenlenen Sıra Cetveline Yönelik Kayıt Kabul Ve Terkin Talebi (İİK 235))",
+  "keywords": [
+    "sıra cetveline itiraz",
+    "iflas tasfiyesi",
+    "kamu alacağı",
+    "yargı harcı",
+    "harç muafiyeti",
+    "İİK 235",
+    "görev uyuşmazlığı",
+    "adli yargı",
+    "idari yargı",
+    "bankacılık kanunu"
+  ],
+  "legal_issues": [
+    "İflas tasfiyesinde düzenlenen sıra cetveline itiraz davasında hak düşürücü süreye uyulmuş mudur?",
+    "İflas idaresinin kamu alacaklarına ilişkin kayıt taleplerini reddetme yetkisi var mıdır?",
+    "Müflis bankanın dava konusu dönemde yargı harçlarından muaf olup olmadığı nasıl değerlendirilmelidir?",
+    "İflas tasfiyesinde kamu alacağının sıra cetveline kaydı için hangi yargı yolu görevlidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "sıra cetveline itiraz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Dava, iflas tasfiyesinde düzenlenen sıra cetveline itiraz yoluyla alacağın iflas masasına kayıt kabulü talebine ilişkindir."
+    },
+    {
+      "concept": "kamu alacağı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu yargı harcı alacağı 6183 sayılı AATUHK uyarınca kamu alacağı niteliği taşımaktadır."
+    },
+    {
+      "concept": "görev uyuşmazlığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davanın idari yargı mı yoksa adli yargı mı tarafından görüleceği hususunda Uyuşmazlık Mahkemesi tarafından görev uyuşmazlığı giderilmiştir."
+    },
+    {
+      "concept": "harç muafiyeti",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Müflis bankanın yargı harçlarından muaf olup olmadığı hususu Vergi Mahkemesi ve Danıştay kararlarıyla yorumlanmıştır."
+    },
+    {
+      "concept": "İİK 235",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davanın hukuki dayanağı İcra ve İflas Kanunu'nun sıra cetveline itiraz ve neticelerini düzenleyen 235. maddesidir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Maliye Hazinesi'nin yargı harcı alacağının iflas masasına kayıt ve kabulü talebi yasal dayanağa sahip midir?",
+    "rule": "İflas idaresinin kural olarak kamu alacaklarıyla ilgili kayıt taleplerini reddetme yetkisi bulunmamaktadır; bu tür alacaklar sıra cetveline kaydedildikten sonra ancak görevli ve yetkili yargı merciinde dava açılabilir. Ayrıca, Uyuşmazlık Mahkemesi kararı ile adli yargının görevli olduğu ve Danıştay kararı ile müflis bankanın dava konusu dönemde yargı harcından muaf olmadığı kesinleşmiştir.",
+    "application": "Davacı Maliye Hazinesi'nin alacak kayıt talebi, iflas idaresince reddedilmiş olsa da, Uyuşmazlık Mahkemesi kararı ile adli yargının görevli olduğu ve vergi yargı mercilerince verilen kesinleşmiş kararlar ile müflis bankanın yargı harcından muaf olmadığı ve bu alacağın kamu alacağı niteliğinde olduğu tespit edilmiştir. Bu durumda, iflas idaresinin red kararı yerinde değildir.",
+    "conclusion": "Davacının 48.212,80-TL tutarındaki yargı harcı alacağının müflis bankanın iflas dosyasındaki sıra cetveline kayıt ve kabulüne karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (idari)",
+      "davalı (iflas idaresi)",
+      "müflis banka"
+    ],
+    "context": "Bir bankanın faaliyet izninin kaldırılması ve iflasına karar verilmesi üzerine başlayan iflas tasfiyesi süreci.",
+    "trigger": "Maliye Hazinesi'nin 48.212,80-TL tutarındaki yargı harcı alacağının iflas idaresi tarafından sıra cetveline kaydedilmesinin reddedilmesi.",
+    "claim": "Maliye Hazinesi, reddedilen 48.212,80-TL tutarındaki yargı harcı alacağının iflas masasına kayıt ve kabul edilmesini talep etmiştir."
+  }
+}

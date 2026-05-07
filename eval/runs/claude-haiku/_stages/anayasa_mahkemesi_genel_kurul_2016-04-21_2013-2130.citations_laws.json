@@ -1,0 +1,215 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md",
+  "cited_law_articles": [
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "220/1",
+      "context": "Suç işlemek amacıyla örgüt kurma suçunun tanımı ve cezası."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "23/2",
+      "context": "Soruşturma evresinde görev yapan hâkim kovuşturma evresinde görev yapamaz."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "24/1",
+      "context": "Hâkimin reddi sebepleri ve tarafsızlığını şüpheye düşüren durumlar."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "25",
+      "context": "Tarafsızlığını şüpheye düşüren sebeplerden hâkim reddi isteminin süresi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "45/1",
+      "context": "Tanıklıktan çekinme hakkı; kan ve kayın hısımları."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "100",
+      "context": "Tutukluluk şartları ve devamı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "118",
+      "context": "Arama yapılması kararı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "128",
+      "context": "El konulması tedbirinin uygulanması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135",
+      "context": "İletişimin tespiti, dinlenmesi ve kayda alınması; şartlar ve prosedür."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135/2",
+      "context": "Tanıklıktan çekinebilecek kişilerle iletişim kayda alınamaz."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "135/6",
+      "context": "Dinleme tedbirinin uygulanabileceği suçlar; katalog suçlar."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "137",
+      "context": "Kararların yerine getirilmesi ve iletişim içeriklerinin yok edilmesi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "163/1",
+      "context": "Soruşturmanın sulh ceza hâkimi tarafından yapılması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "199",
+      "context": "Arama yapılması kararı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "217/2",
+      "context": "Delilleri takdir yetkisi; hukuka uygun elde edilen deliller."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "250",
+      "context": "Özel yetkili mahkemeler; ağır ceza mahkemelerinin görevleri."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "251/2",
+      "context": "Soruşturma aşamasında ağır ceza mahkemesi üyesinden karar isteme."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "5320",
+      "article": "11/1",
+      "context": "Yargılamaya katılamayacak hâkim; 163. madde hariç."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "45/1",
+      "context": "Bireysel başvuru hakkı; temel hak ve özgürlüklerin ihlali iddiası."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "45/2",
+      "context": "Bireysel başvuru öncesi idari ve yargısal başvuru yollarının tüketilmesi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "46/1",
+      "context": "Bireysel başvuru hakkına sahip olanlar; güncel ve kişisel hak ihlali."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "48/2",
+      "context": "Açıkça dayanaktan yoksun başvuruların kabul edilemezliği."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması; ölçülülük ilkesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "19",
+      "context": "Kişi hürriyeti ve güvenliği; tutukluluk ve tazminat hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "20",
+      "context": "Özel hayatın gizliliği."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "22",
+      "context": "Haberleşme hürriyeti ve gizliliği; sınırlandırma şartları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Adil yargılanma hakkı; tarafsız mahkemede yargılanma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "38",
+      "context": "Suçluluğun kanıtlanması ve savunma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Yargı bağımsızlığı; tarafsızlık değerlendirmesinde dikkate alınır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "139",
+      "context": "Yargı bağımsızlığı; tarafsızlık değerlendirmesinde dikkate alınır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "140",
+      "context": "Yargı bağımsızlığı; tarafsızlık değerlendirmesinde dikkate alınır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "148/3",
+      "context": "Anayasa Mahkemesine bireysel başvuru hakkı; olağan kanun yollarının tüketilmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "148/4",
+      "context": "Bireysel başvuruda kanun yolunda gözetilmesi gereken hususlar incelenemez."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "5/5",
+      "context": "Hukuka aykırı tutma işleminin mağduru tazminat hakkı."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "8/2",
+      "context": "Haberleşme özgürlüğüne müdahale; meşru amaç ve ölçülülük."
+    }
+  ]
+}

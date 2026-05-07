@@ -1,0 +1,145 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "cited_court_decisions": [
+    {
+      "court": "Alanya Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1994/342",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen Ret",
+      "treatment": null,
+      "context": "1994/342 ve 1994/346 sayılı birleştirilen davalarda verilen ilk derece kararı."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1992/11290",
+      "decision_number": "1993/5824",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu sicilindeki ibarelere göre orman arazisi vasfı dışındaki taşınmazlar."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararını onayan Yargıtay kararı."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Karar Düzeltme Reddi",
+      "treatment": null,
+      "context": "Başvuranların karar düzeltme talebini reddeden Yargıtay kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İç hukuk yollarının tüketilmesi ve mülkiyetten yoksun bırakma konularında emsal."
+    },
+    {
+      "court": "İzmir Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Devletin tapu kaydının tutulmasından sorumluluğuna dair örnek."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İzmir Asliye Hukuk Mahkemesi kararını onayan Yargıtay kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "44912/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkı ve meşru beklenti kavramlarına dair emsal AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "11841/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkı ve meşru beklenti kavramlarına dair emsal AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "42527/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülk kavramının kapsamına dair emsal AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "39794/989",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülk kavramının kapsamına dair emsal AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyetten yoksun bırakma müdahalesinin varlığına dair emsal AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tazminat ödenmeksizin mülkiyetten yoksun bırakmanın ihlal oluşturması."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "30979/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma ilkesinin ihlaline dair emsal AİHM kararı."
+    }
+  ]
+}

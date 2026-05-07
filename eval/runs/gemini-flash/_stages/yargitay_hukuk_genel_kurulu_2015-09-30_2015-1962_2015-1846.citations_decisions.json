@@ -1,0 +1,355 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md",
+  "cited_court_decisions": [
+    {
+      "court": "Kütahya İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2013/342",
+      "decision_number": "2014/306",
+      "relation": "chained",
+      "outcome": "Kabul",
+      "treatment": null,
+      "context": "Direnme kararına konu ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/14851",
+      "decision_number": "2014/18378",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Yerel mahkeme kararını bozan Özel Daire kararı."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/23916",
+      "decision_number": "2013/22377",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Benzer davada aynı sonuca ulaşan emsal Yargıtay kararı."
+    },
+    {
+      "court": "Ankara 6. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2579",
+      "decision_number": "2008/1185",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İhalenin iptali davasını muvazaa bulunmadığı gerekçesiyle reddeden karar."
+    },
+    {
+      "court": "Eskişehir İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2886",
+      "decision_number": "2007/1041",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İhalenin iptali davasını muvazaa bulunmadığı gerekçesiyle reddeden karar."
+    },
+    {
+      "court": "Eskişehir İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2006/2885",
+      "decision_number": "2007/1042",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İhalenin iptali davasını muvazaa bulunmadığı gerekçesiyle reddeden karar."
+    },
+    {
+      "court": "Danıştay",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İdare mahkemelerinin ihalenin iptali davalarını reddeden kararlarını onayan."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/31057",
+      "decision_number": "2010/30927",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerin asıl işlerinin alt işverene verilebileceğine dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/31056",
+      "decision_number": "2010/30926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerin asıl işlerinin alt işverene verilebileceğine dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/18381",
+      "decision_number": "2010/10119",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerin asıl işlerinin alt işverene verilebileceğine dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/21339",
+      "decision_number": "2010/13483",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerin asıl işlerinin alt işverene verilebileceğine dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/23098",
+      "decision_number": "2010/19449",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Belediyelerin asıl işlerinin alt işverene verilebileceğine dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47847",
+      "decision_number": "2009/37770",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47846",
+      "decision_number": "2009/37769",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren değişse de işçinin çalışmaya devam etmesinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/47845",
+      "decision_number": "2009/37768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/12940",
+      "decision_number": "2012/4925",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren değişse de işçinin çalışmaya devam etmesinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/42282",
+      "decision_number": "2010/6655",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren değişse de işçinin çalışmaya devam etmesinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/36961",
+      "decision_number": "2009/25309",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/36960",
+      "decision_number": "2009/25308",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Alt işveren değişse de işçinin çalışmaya devam etmesinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/197",
+      "decision_number": "2011/8936",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/243",
+      "decision_number": "2011/12061",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20739",
+      "decision_number": "2009/20513",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşçi çıkarma yetkisinin asıl işverende olmadığına dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20737",
+      "decision_number": "2009/20511",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşçi çıkarma yetkisinin asıl işverende olmadığına dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/20734",
+      "decision_number": "2009/20508",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşçi çıkarma yetkisinin asıl işverende olmadığına dair emsal karar."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45644",
+      "decision_number": "2009/37728",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45643",
+      "decision_number": "2009/37727",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45642",
+      "decision_number": "2009/37726",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45641",
+      "decision_number": "2009/37725",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45640",
+      "decision_number": "2009/37724",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/45639",
+      "decision_number": "2009/37723",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/38532",
+      "decision_number": "2009/29752",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2009/38530",
+      "decision_number": "2009/29750",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Asıl işverenin denetim yetkisi, çalışma şartları ve iş güvenliği tedbirlerinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/12836",
+      "decision_number": "2014/8253",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Çalışma şartlarının asıl işveren tarafından belirlenmesinin muvazaa nedeni olmadığı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sağlık hizmetlerinin özel hukuk sözleşmeleriyle yaptırılabileceğine dair AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Posta hizmetlerinin özel hukuk sözleşmeleriyle yaptırılabileceğine dair AYM kararı."
+    }
+  ]
+}

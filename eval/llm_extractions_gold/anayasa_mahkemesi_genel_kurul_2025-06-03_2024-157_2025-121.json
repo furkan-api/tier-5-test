@@ -1,0 +1,314 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Genel Kurulu",
+  "case_number": "2024/157",
+  "decision_number": "2025/121",
+  "decision_date": "2025-06-03",
+  "decision_type": "Norm Denetimi",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/1 uyarınca AYM norm denetimi kararları kesindir.",
+  "decision_outcome": "İptal",
+  "decision_outcome_raw": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının Anayasa'ya aykırı olduğuna ve iptaline oyçokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oyda, asıl işveren-alt işveren ilişkisinde müteselsil borçluluk ve zorunlu dava arkadaşlığı gereği işverenlerin arabuluculuğa birlikte katılmasının zorunlu olduğu, kuralın yalnızca 'anlaşmanın gerçekleşmesi' ile sınırlı uygulandığı, anlaşma sağlanamaması halinde dava açılarak hak kaybının önlenebileceği, bu nedenle kuralın ölçülülük ilkesini ihlal etmediği ve iptal edilmemesi gerektiği savunulmuştur.",
+  "appellants": [
+    "iptal davası açan"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "iptal davası açan",
+      "result": "kabul"
+    }
+  ],
+  "subject": "İşe İade Davasında Asıl İşveren-Alt İşveren İlişkisinde Birlikte Arabuluculuğa Başvuru Zorunluluğunun İptali Talebi",
+  "summary": "Adana 6. İş Mahkemesi, 7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının asıl işveren-alt işveren ilişkisinin varlığı halinde işçiye söz konusu ilişkiyi tespit ederek arabuluculuğa birlikte başvurma külfeti yüklediğini ve hak arama özgürlüğünü ihlal ettiğini ileri sürerek iptal başvurusunda bulunmuştur. Anayasa Mahkemesi, kuralın mahkemeye erişim hakkını sınırladığını, taraf sıfatı sorununu engelleme amacı bakımından HMK m.124 kapsamında tarafta iradi değişiklik imkânı bulunduğundan gerekli olmadığını, asıl işveren-alt işveren ilişkisinden habersiz işçiye katlanamayacağı bir külfet yüklendiğinden orantısız olduğunu tespit etmiştir. Bu gerekçelerle kuralın Anayasa'nın 13. ve 36. maddelerine aykırı olduğuna ve iptaline oyçokluğuyla karar verilmiştir.",
+  "keywords": [
+    "işe iade davası",
+    "asıl işveren-alt işveren ilişkisi",
+    "arabuluculuk dava şartı",
+    "mahkemeye erişim hakkı",
+    "hak arama özgürlüğü",
+    "ölçülülük ilkesi",
+    "tarafta iradi değişiklik",
+    "zorunlu dava arkadaşlığı",
+    "muvazaa",
+    "iş mahkemeleri kanunu"
+  ],
+  "legal_issues": [
+    "Asıl işveren-alt işveren ilişkisinin varlığı halinde işe iade talebiyle arabulucuya birlikte başvurulması zorunluluğu mahkemeye erişim hakkını ihlal eder mi?",
+    "İşçiye asıl işveren-alt işveren ilişkisini önceden tespit etme külfeti yüklenmesi ölçülülük ilkesine uygun mudur?",
+    "HMK m.124 kapsamında tarafta iradi değişiklik imkânı taraf sıfatı sorununun giderilmesi bakımından yeterli midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mahkemeye erişim hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kuralın işe iade davası açılabilmesi için asıl işveren ve alt işverene karşı birlikte arabulucuya başvurma şartı öngörmesinin Anayasa m.36 kapsamındaki mahkemeye erişim hakkını sınırladığı tespit edilmiştir."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sınırlamanın elverişli ve gerekli olduğu kabul edilmekle birlikte işçiye katlanamayacağı külfet yüklendiğinden orantılılık alt ilkesi yönünden ölçülülüğün ihlal edildiği sonucuna varılmıştır."
+    },
+    {
+      "concept": "kanunilik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kuralın açık ve net düzenlendiği gözetilerek temel hak ve özgürlüklerin kanunla sınırlanması ilkesine aykırı bir yön bulunmadığı belirtilmiştir."
+    },
+    {
+      "concept": "arabuluculuk dava şartı",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İşe iade talepli davalarda arabulucuya başvurmanın dava şartı niteliği ve bu şartın asıl işveren-alt işveren ilişkisinde nasıl yerine getirileceği yorumlanmıştır."
+    },
+    {
+      "concept": "tarafta iradi değişiklik",
+      "role": "uygulanan",
+      "context_in_reasoning": "HMK m.124'teki tarafta iradi değişiklik imkânı, taraf sıfatı sorununun engellenmesi amacının kuralla öngörülen sınırlamadan daha hafif bir araçla sağlanabileceğinin dayanağı olarak kullanılmıştır."
+    },
+    {
+      "concept": "asıl işveren-alt işveren ilişkisi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İlişkinin niteliği, alenileşme zorunluluğu bulunmaması ve işçinin bu ilişkiden habersiz olabileceği değerlendirmesi orantılılık incelemesinin temelini oluşturmuştur."
+    },
+    {
+      "concept": "hukuki belirlilik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kanunilik unsuru kapsamında kuralın açık, net ve öngörülebilir olması gerektiği vurgulanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "7036 sayılı Kanun m.3/15'te asıl işveren-alt işveren ilişkisinin varlığı halinde işe iade talebiyle birlikte arabuluculuğa başvurma zorunluluğu mahkemeye erişim hakkını ölçüsüz biçimde sınırlamakta mıdır?",
+    "rule": "Anayasa m.36 kapsamındaki mahkemeye erişim hakkı ancak Anayasa m.13'teki ölçülülük ilkesine uygun olarak sınırlanabilir; sınırlamanın elverişli, gerekli ve orantılı olması, daha hafif bir araçla aynı amaca ulaşılabiliyorsa o aracın tercih edilmesi gerekir.",
+    "application": "Kural taraf sıfatı sorununu engelleme amacı bakımından HMK m.124'teki tarafta iradi değişiklik imkânı karşısında gerekli değildir; asıl işveren-alt işveren ilişkisinden habersiz işçiye bu ilişkiyi tespit etme ve birlikte başvurma külfeti yüklemesi, kamusal yarar ile bireysel yarar arasında makul denge kurmamakta ve orantısız bir sınırlama oluşturmaktadır.",
+    "conclusion": "Kural Anayasa'nın 13. ve 36. maddelerine aykırı olduğundan iptaline karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "iş mahkemesi",
+      "işçi",
+      "alt işveren",
+      "asıl işveren"
+    ],
+    "context": "Alt işveren aleyhine açılan bir işe iade davasında bakmakta olunan davada uygulanacak kuralın Anayasa'ya aykırılığı sorunu gündeme gelmiştir.",
+    "trigger": "İş mahkemesinin, asıl işveren-alt işveren ilişkisinde işçiye birlikte arabuluculuğa başvurma yükümlülüğü getiren kuralın hak arama özgürlüğünü ihlal ettiği kanısına varması.",
+    "claim": "7036 sayılı İş Mahkemeleri Kanunu'nun 3. maddesinin (15) numaralı fıkrasının Anayasa'nın 36. maddesine aykırılığı nedeniyle iptali."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/178",
+      "decision_number": "2018/82",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün niteliği ve dava şartlarının yargılamanın her aşamasında resen gözetileceğine ilişkin içtihat olarak referans alınmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/791",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özkan Şen kararına atıfla mahkemeye erişim hakkının kapsamı belirlenmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/41",
+      "decision_number": "2017/98",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hukuki belirlilik ve kanunilik ilkelerine ilişkin yerleşik içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2022/124",
+      "decision_number": "2023/135",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özel sınırlama sebebi öngörülmemiş haklara diğer anayasal hükümlerin sınır teşkil edebileceğine ilişkin içtihat olarak atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/99",
+      "decision_number": "2021/14",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sınırlama sebebi öngörülmemiş haklara diğer anayasal hükümlerin sınır teşkil edebileceği yönündeki içtihat olarak referans alınmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/150",
+      "decision_number": "2017/179",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sınırlama sebebi öngörülmemiş hak ve özgürlüklerin sınırlanmasına ilişkin içtihat olarak atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/14586",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bekir Sözen kararına atıfla adil yargılanma hakkına yönelik kanun koyucunun takdir yetkisinin AYM denetimine tabi olduğu vurgulanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/176",
+      "decision_number": "2015/53",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gereklilik ilkesine ilişkin yerleşik içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/13",
+      "decision_number": "2016/127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gereklilik ilkesi kapsamında en hafif aracın tercih edilmesi gerektiğine ilişkin içtihat olarak atıf yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/71",
+      "decision_number": "2018/118",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesi ve gereklilik alt ilkesine ilişkin içtihat olarak referans alınmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2021/117",
+      "decision_number": "2022/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gereklilik ilkesi yönünden daha hafif aracın tercih edilmesi gerektiğine ilişkin içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/13008",
+      "decision_number": "2022/11572",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşe iade davalarında asıl işveren ile alt işveren arasında zorunlu dava arkadaşlığı bulunduğuna ilişkin Yargıtay içtihadının tespiti amacıyla anılmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/5490",
+      "decision_number": "2022/6534",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İşe iade davasında husumetin hem asıl işverene hem alt işverene yöneltilmesi gerektiğine ilişkin Yargıtay uygulamasının tespiti için anılmıştır."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/9540",
+      "decision_number": "2021/14240",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Asıl işveren-alt işveren arasındaki zorunlu dava arkadaşlığına ilişkin Yargıtay içtihadına atıf yapılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama özgürlüğü ve mahkemeye erişim hakkının anayasal dayanağı olarak iptal incelemesinin temel ölçü normudur."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve özgürlüklerin sınırlanmasında kanunilik ve ölçülülük ilkelerini düzenleyen norm olarak iptal denetiminde uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "2",
+      "context": "Hukuk devleti ilkesi kapsamında hukuki belirlilik ve kanunilik unsurunun yorumlanmasında ışık tutan norm olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "152",
+      "context": "İtiraz yoluyla somut norm denetimi başvurusunun usul dayanağı olarak gösterilmiştir."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/15",
+      "context": "İptal incelemesine konu hüküm olup asıl işveren-alt işveren ilişkisinde işe iade arabuluculuğunda birlikte katılım zorunluluğunu düzenler."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/1",
+      "context": "İşe iade talebiyle açılan davalarda arabulucuya başvurmanın dava şartı niteliğini düzenleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/2",
+      "context": "Arabuluculuk son tutanağının dava dilekçesine eklenmesi ve dava şartı yokluğunda usulden ret usulünü düzenleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "İşçi, işveren ve asıl işveren-alt işveren ilişkisinin tanımı ile müteselsil sorumluluk ve muvazaa esaslarının dayanağı olarak değerlendirilmiştir."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "20",
+      "context": "İşe iade talebiyle bir ay içinde arabulucuya başvurma zorunluluğu ve arabuluculuk sonrası dava açma süresini düzenleyen hüküm olarak gerekçenin temel dayanaklarından biridir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "124",
+      "context": "Tarafta iradi değişiklik imkânı, taraf sıfatı sorununu çözmek için kuralda öngörülen sınırlamanın gerekli olmadığı sonucuna ulaşılmasının temelini oluşturmuştur."
+    },
+    {
+      "law": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "law_number": "6325",
+      "article": "2",
+      "context": "Arabuluculuk kurumunun tanımı ve niteliğinin belirlenmesinde dayanak olarak anılmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "43",
+      "context": "Kuralın ilgisi nedeniyle Anayasa'nın 13. maddesi yönünden de incelenmesinin usul dayanağı olarak anılmıştır."
+    }
+  ]
+}

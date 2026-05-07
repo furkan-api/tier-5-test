@@ -1,0 +1,652 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2014/11657",
+  "decision_number": null,
+  "decision_date": "2017-06-22",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Başvurucu aleyhine fazladan hükmedilen temyiz karar harcı yönünden mahkemeye erişim hakkının ihlal edildiğine, diğer şikayetlerin ise açıkça dayanaktan yoksunluk veya kişi yönünden yetkisizlik nedeniyle kabul edilemez olduğuna karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Taşınmaz satış vaadi sözleşmesine istinaden açılan tapu iptali ve tescil davasında satış bedeli, harç ve vekalet ücreti hesaplamaları nedeniyle mülkiyet hakkı ile adil yargılanma hakkının ihlali iddiası.",
+  "summary": "Başvurucu, taşınmaz satış vaadi sözleşmesine dayalı tapu iptali ve tescil davasında, sözleşmede belirlenen bedelin ödenmesi yerine taşınmazın gerçek değerinin esas alınmaması, harç ve vekâlet ücretlerinin yüksek bulunması ve temyiz karar harcının hatalı hesaplanması nedenleriyle mülkiyet hakkı ile adil yargılanma hakkının ihlal edildiğini ileri sürmüştür. Anayasa Mahkemesi, satış bedelinin güncellenmemesi ve yargılama giderlerinin taşınmazın gerçek değeri üzerinden hesaplanması iddialarını açıkça dayanaktan yoksun bulmuştur. Ancak Yargıtay tarafından başvurucunun hissesine düşen temyiz karar harcının kanunun açık hükmüne aykırı olarak iki kat fazla hesaplanmasını bariz bir hata olarak değerlendirmiştir. Bu nedenle, başvurucunun mahkemeye erişim hakkının ihlal edildiğine karar verilmiş ve fazladan hükmedilen 21.235,66 TL temyiz karar harcı yönünden yeniden yargılama yapılması için dosyanın Yargıtay 14. Hukuk Dairesine gönderilmesine hükmedilmiştir.",
+  "keywords": [
+    "mülkiyet hakkı",
+    "mahkemeye erişim hakkı",
+    "adil yargılanma hakkı",
+    "temyiz karar harcı",
+    "tapu iptali ve tescil",
+    "taşınmaz satış vaadi sözleşmesi",
+    "yargılama giderleri",
+    "nispi harç",
+    "kanunilik ilkesi",
+    "ölçülülük ilkesi",
+    "bireysel başvuru",
+    "anayasa madde 36"
+  ],
+  "legal_issues": [
+    "Temyiz merciince hükmedilen temyiz karar harcının, başvurucunun hissesi gözetilmeksizin taşınmazın üçte ikisi üzerinden hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "Taşınmaz satış vaadi sözleşmesine dayalı tapu iptali ve tescil davasında, taşınmazın gerçek bedeli yerine sözleşmede belirlenen bedelin malike ödenmesine karar verilmesi mülkiyet hakkını ihlal eder mi?",
+    "Birden fazla davalı aleyhine hükmedilen karar ve ilam harcının ayrı ayrı belirlenmemesi mülkiyet hakkını ihlal eder mi?",
+    "Tapu iptali ve tescil davasında harç ve vekalet ücretinin taşınmazın gerçek bedeli üzerinden hesaplanması mahkemeye erişim hakkını ihlal eder mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mahkemeye erişim hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucunun temyiz karar harcının hatalı hesaplanması iddiası, Anayasa'nın 36. maddesinde güvence altına alınan mahkemeye erişim hakkı kapsamında incelenmiştir."
+    },
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Başvurucunun satış bedeli ve yargılama giderlerine ilişkin şikayetleri mülkiyet hakkı kapsamında değerlendirilmiş ancak ihlal bulunmamıştır."
+    },
+    {
+      "concept": "kanunilik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Temyiz karar harcının hesaplanmasında 492 sayılı Kanun'un açık hükmüne aykırı davranılması kanunilik ilkesinin ihlali olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "açıkça dayanaktan yoksunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Satış bedeli ve vekalet ücreti şikayetleri, açıkça dayanaktan yoksun bulunarak kabul edilemezlik kararı verilmiştir."
+    },
+    {
+      "concept": "kişi yönünden yetkisizlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Karar ve ilam harcının ayrı ayrı hükmedilmemesi şikayeti, başvurucunun mağdur sıfatı taşımaması nedeniyle kişi yönünden yetkisizlik gerekçesiyle reddedilmiştir."
+    },
+    {
+      "concept": "yargılama giderleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Harçlar Kanunu ve Hukuk Muhakemeleri Kanunu hükümleri çerçevesinde yargılama giderlerinin hesaplanması ve sorumluluğu değerlendirilmiştir."
+    },
+    {
+      "concept": "müteselsil sorumluluk",
+      "role": "yorumlanan",
+      "context_in_reasoning": "6100 sayılı Kanun'un 326. maddesi ve 6098 sayılı Kanun'un 162. maddesi uyarınca müteselsil sorumluluğun istisnai bir durum olduğu yorumlanmıştır."
+    },
+    {
+      "concept": "taşınmaz satış vaadi sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Uyuşmazlığın temelini oluşturan taşınmaz satış vaadi sözleşmesinin ifa hükümleri ve sonuçları incelenmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Temyiz merciince hükmedilen temyiz karar harcının, başvurucunun hissesi gözetilmeksizin taşınmazın üçte ikisi üzerinden hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "rule": "Anayasa'nın 36. maddesiyle güvence altına alınan mahkemeye erişim hakkı, mutlak olmayıp sınırlandırılabilir ancak bu sınırlamalar kanuna dayanmalı, hakkın özünü zedelememeli, meşru bir amaç gütmeli ve ölçülü olmalıdır. 492 sayılı Harçlar Kanunu'nun 15. ve 16. maddeleri ile (1) sayılı Tarife'ye göre tapu iptali ve tescil davalarında temyiz karar harcı, taşınmazın değeri üzerinden binde 68,31 oranında hesaplanır.",
+    "application": "Başvurucu taşınmazın 1/3 hissesine sahip olmasına rağmen, Yargıtay tarafından temyiz karar harcı taşınmazın değerinin 2/3'ü üzerinden hesaplanmıştır. Bu durum, 492 sayılı Kanun'un açık hükmüne aykırılık teşkil etmekte ve bariz bir hata içermektedir.",
+    "conclusion": "Fazladan aleyhe hükmedilen 21.235,66 TL temyiz karar harcı yönünden Anayasa'nın 36. maddesinde güvence altına alınan mahkemeye erişim hakkı ihlal edilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "davacı",
+      "davalı",
+      "Yargıtay"
+    ],
+    "context": "Başvurucu ve kardeşlerinin hisseli maliki olduğu taşınmazın, bir satış vaadi sözleşmesiyle diğer kardeşe satılmasının taahhüt edilmesi.",
+    "trigger": "Satış vaadi sözleşmesine dayanılarak başvurucu aleyhine tapu iptali ve tescil davası açılması ve yargılama giderleri ile satış bedeli konusunda anlaşmazlık çıkması.",
+    "claim": "Başvurucu, taşınmazın gerçek bedeli yerine sözleşmedeki bedelin ödenmesi, harç ve vekalet ücretinin gerçek bedel üzerinden hesaplanması ve temyiz karar harcının hatalı belirlenmesi nedeniyle mülkiyet hakkı ile adil yargılanma hakkının ihlal edildiğini iddia etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Vezirköprü 1. Asliye Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2009/317",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu tapu iptali ve tescil davasını gören ilk derece mahkemesi."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "İlk derece mahkemesi kararını onayan temyiz mercii."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Karar Düzeltme Reddi",
+      "treatment": null,
+      "context": "Başvurucunun karar düzeltme istemini reddeden temyiz mercii."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-692",
+      "decision_number": "2006/702",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmaz değeri üzerinden alınması."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-91",
+      "decision_number": "2006/115",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmaz değeri üzerinden alınması."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/10774",
+      "decision_number": "2015/10298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin dava tarihindeki güncellenmiş değeri üzerinden hüküm kurulması."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/5689",
+      "decision_number": "2017/7082",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödenmeyen kısmının güncellenerek depo edilmesi gerektiği."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/14923",
+      "decision_number": "2014/2015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödenmeyen kısmının güncellenerek depo edilmesi gerektiği."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/8956",
+      "decision_number": "2015/9538",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödenmeyen kısmının güncellenerek depo edilmesi gerektiği."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "54522/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "48939/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "31443/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "44971/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının pozitif yükümlülükleri içerdiğine dair AİHM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "70930/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin pozitif yükümlülüklerinin koruyucu ve düzeltici ödevler biçiminde olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": "2015/62",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının ekonomik değer ifade eden her türlü mal varlığını kapsaması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İcrası kabil alacakların mülkiyet hakkı kapsamına dahil olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1035",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özel kişiler arası ilişkilerde devlete atfedilebilecek sorumluluklar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8649",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının devlete pozitif yükümlülükler yüklemesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11410",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin pozitif yükümlülüklerinin etkili hukuksal çerçeve oluşturma sorumluluğu."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1977",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireysel başvuru için gerekli temel ön koşullar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının kapsamı ve kişiye sağladığı yetkiler."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkına müdahale teşkil eden durumlar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/7051",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mal varlığında azalma doğuran kamusal işlemlerin mülkiyet hakkına müdahalesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/969",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "AYM'nin hukuki nitelendirmeyi kendisinin takdir etmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/33",
+      "decision_number": "2012/54",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2010/83",
+      "decision_number": "2012/169",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/108",
+      "decision_number": "2013/64",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/64",
+      "decision_number": "2013/142",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/95",
+      "decision_number": "2014/176",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/96",
+      "decision_number": "2016/9",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün temel hak ve özgürlüklerin güvencesi olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/144",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/791",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1061",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/711",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkının adil yargılanma hakkının güvencelerinden olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/40",
+      "decision_number": "2013/139",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişimi zorlaştırıcı sınırlamaların ihlal oluşturması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1052",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişimi anlamsız kılan sınırlamaların ihlal oluşturması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/177",
+      "decision_number": "2015/49",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün mutlak bir hak olmaması ve sınırlanabilmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5033",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün mutlak bir hak olmaması ve sınırlanabilmesi."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1613",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkı sınırlamalarının kanuna dayanması ve ölçülü olması."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3351",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Derece mahkemelerinin hukuk kurallarını yorumlama ve uygulama takdiri."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11994",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "AYM'nin derece mahkemelerinin yorumlarının hak ve özgürlükleri ihlal edip etmediğini saptaması."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "15",
+      "context": "Yargı harçlarının nispi veya maktu esas üzerinden alınması."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "16",
+      "context": "Değer ölçüsüne göre harca tabi işlemlerde esas alınacak değerler."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "Tarife (1) 1/a",
+      "context": "Konusu belli değerle ilgili davalarda nispi harç oranı (Binde 68,31)."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "Tarife (1) 1/e",
+      "context": "Nispi harç oranlarının Yargıtay kararları için de uygulanması."
+    },
+    {
+      "law": "Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "6101",
+      "article": "1",
+      "context": "TBK yürürlük öncesi fiil ve işlemlere eski kanun hükümlerinin uygulanması."
+    },
+    {
+      "law": "Borçlar Kanunu (mülga)",
+      "law_number": "818",
+      "article": "81",
+      "context": "Karşılıklı taahhütleri içeren akdin ifasını talep edenin kendi borcunu ifa etmesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "326",
+      "context": "Yargılama giderlerinin aleyhine hüküm verilen taraftan alınması ve paylaştırılması."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "162",
+      "context": "Müteselsil borçluluğun doğuşu ve kanunda öngörülen haller."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "29",
+      "context": "Taşınmaz satış vaadi sözleşmelerinin kaynağı."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "237",
+      "context": "Taşınmaz satış vaadi sözleşmelerinin resmi şekil şartı."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "706",
+      "context": "Taşınmaz satış vaadi sözleşmelerinin resmi şekil şartı."
+    },
+    {
+      "law": "Noterlik Kanunu",
+      "law_number": null,
+      "article": "89",
+      "context": "Taşınmaz satış vaadi sözleşmelerinin noter önünde düzenlenmesi."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "716",
+      "context": "Tapu iptali ve tescil davası açma hakkı."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "97",
+      "context": "Ödenmeyen bedelin depo ettirilmesi."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "Ek (1) No.lu Protokol 1",
+      "context": "Mülkiyet hakkının dokunulmazlığı ve kamu yararı sınırlamaları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet ve miras hakları ile sınırlama koşulları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "40",
+      "context": "Temel hak ve özgürlüklerden yararlanma ve korunma güvencesi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "46/1",
+      "context": "Bireysel başvuru hakkına sahip olanlar ve başvuru koşulları."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti ve adil yargılanma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve özgürlüklerin sınırlandırılmasına ilişkin genel ilkeler."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50/1",
+      "context": "İhlal kararı verilmesi halinde ihlalin ve sonuçlarının ortadan kaldırılması."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50/2",
+      "context": "İhlal mahkeme kararından kaynaklanmışsa yeniden yargılama veya tazminat."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "file": "danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İdari Dava Daireleri Kurulu",
+  "case_number": "2025/1808",
+  "decision_number": "2025/1867",
+  "decision_date": "2025-10-08",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Kararda 'Kesin olarak' ibaresiyle hükmedilmiş olup temyiz incelemesi sonucu onama kararı verilmiştir.",
+  "decision_outcome": "Onama",
+  "decision_outcome_raw": "Davacının temyiz isteminin reddine, davanın reddine ilişkin Daire kararının belirtilen gerekçeyle onanmasına oyçokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Birinci karşı oy, tarım dışı kullanım izninin acele kamulaştırma kararından sonra alınmasının kamu yararı şartını sağlamayacağını ve mülkiyet hakkını ihlal edeceğini savunmuştur. İkinci karşı oy ise 2942 sayılı Kanun'un 27. maddesinde aranan olağanüstü durumların ve acelelik halini gerektiren kamu yararının somut olarak ortaya konulamadığını, bu nedenle dava konusu Cumhurbaşkanı Kararı'nın iptali gerektiğini ileri sürmüştür.",
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "RES Elektrik Üretim Tesisi İçin Tarım Arazisi Niteliğindeki Taşınmazın Acele Kamulaştırılmasına İlişkin Cumhurbaşkanı Kararı'nın İptali İstemi",
+  "summary": "Davacı, Hacıhıdırlar RES elektrik üretim tesisi için taşınmazının acele kamulaştırılmasına ilişkin Cumhurbaşkanı Kararı'nın iptalini istemiş; Danıştay Altıncı Dairesi davayı reddetmiştir. İdari Dava Daireleri Kurulu, taşınmazın tarım arazisi niteliğine rağmen tarım dışı kullanım izninin işlemden sonra alınmış olmasının iptali gerektirmediğini, ülkenin enerji açığı ve yenilenebilir enerji yatırımlarının niteliği gözetildiğinde acelelik halinin bulunduğunu kabul ederek Daire kararını gerekçe değiştirilerek onamıştır. Karar oyçokluğuyla verilmiş; karşı oylarda tarım dışı kullanım izninin sonradan alınmasının ve acelelik halinin somut olarak ortaya konulamamasının iptal sebebi olduğu vurgulanmıştır.",
+  "keywords": [
+    "acele kamulaştırma",
+    "cumhurbaşkanı kararı",
+    "yenilenebilir enerji",
+    "rüzgar enerjisi santrali",
+    "yeka",
+    "mülkiyet hakkı",
+    "tarım arazisi",
+    "tarım dışı kullanım izni",
+    "kamu yararı",
+    "acelelik hali",
+    "2942 sayılı kanun",
+    "5403 sayılı kanun"
+  ],
+  "legal_issues": [
+    "Yenilenebilir enerji kaynak alanı olarak belirlenen alanlarda yapılan acele kamulaştırmalarda 2942 sayılı Kanun'un 27. maddesindeki acelelik hali otomatik olarak gerçekleşmiş sayılır mı?",
+    "Tarım arazisi niteliğindeki taşınmaz hakkında acele kamulaştırma kararından sonra alınan tarım dışı kullanım izni, işlemi hukuka uygun hale getirir mi?",
+    "RES yatırımları kapsamında ülkenin enerji açığı ve aciliyet, acele kamulaştırma için yeterli kamu yararı ve acelelik gerekçesi oluşturur mu?",
+    "Acele kamulaştırma kararlarının yargısal denetiminde kamu yararı ve acelelik hali ölçütleri nasıl ayrı ayrı değerlendirilmelidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "acele kamulaştırma",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni 2942 sayılı Kanun'un 27. maddesi uyarınca tesis edilen acele kamulaştırma işleminin kamu yararı ve acelelik hali ölçütleri yönünden hukuka uygunluğunun denetlenmesidir."
+    },
+    {
+      "concept": "acelelik hali",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yenilenebilir enerji kaynak alanlarında her kamulaştırmada otomatik olarak bulunmadığı, somut olayda projenin niteliği ve enerji ihtiyacının aciliyeti çerçevesinde değerlendirilmesi gerektiği yorumlanmıştır."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yenilenebilir enerji kaynaklarının elektrik üretiminde kullanılmasında kamu yararı bulunduğu, tarım arazilerinin korunması ödevi ile dengelenmesi suretiyle uygulanmıştır."
+    },
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Anayasa m.35 ve AİHS Ek 1 No'lu Protokol m.1 çerçevesinde mülkiyet hakkına müdahalenin sınırları tartışılmış; somut olayda ihlal bulunmadığı sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "tarım dışı kullanım izni",
+      "role": "tartışılan",
+      "context_in_reasoning": "Acele kamulaştırma kararından sonra alınan tarım dışı kullanım izninin hukuka aykırılığı ortadan kaldırdığı kabul edilmiş, karşı oylarda ise iznin sonradan alınmasının iptal sebebi olduğu savunulmuştur."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kamu yararı ile özel mülkiyet hakkı arasındaki dengenin gözetilmesi gerektiği, projenin niteliği ve ulusal ihtiyacın ivedilikle karşılanması kriterleri çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "yenilenebilir enerji kaynak alanı",
+      "role": "uygulanan",
+      "context_in_reasoning": "5346 sayılı Kanun m.4 uyarınca YEKA olarak belirlenen alanlarda acele kamulaştırma yapılabileceği kuralı somut olaya uygulanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "RES elektrik üretim tesisi için tarım arazisi niteliğindeki taşınmazın acele kamulaştırılmasına ilişkin Cumhurbaşkanı Kararı'nda kamu yararı ve acelelik hali ölçütleri yönünden hukuka aykırılık bulunmakta mıdır?",
+    "rule": "2942 sayılı Kanun'un 27. maddesi uyarınca acele kamulaştırma istisnai bir yöntem olup acelelik hali ve olağan kamulaştırmadan ayrılmayı gerektiren nedenlerin her somut olayda kamu yararı ile özel mülkiyet hakkı dengesi gözetilerek değerlendirilmesi gerekir; 5346 sayılı Kanun m.4 ve AYM'nin 22/02/2023 tarihli E:2020/47, K:2023/36 sayılı kararı uyarınca YEKA alanlarında enerji ihtiyacının aciliyeti acele kamulaştırma gerekçesi olabilir.",
+    "application": "Tarım arazisi niteliğindeki taşınmaza ilişkin tarım dışı kullanım izni dava konusu karardan sonra alınmış olsa da bu durumun hukuka aykırılığı ortadan kaldırdığı; ülkenin enerji açığı ve devlet adına lisans verilen RES yatırımı kapsamında en kısa sürede üretime geçilmesi ihtiyacı dikkate alındığında somut olayda acelelik halinin bulunduğu değerlendirilmiştir.",
+    "conclusion": "Dava konusu Cumhurbaşkanı Kararı'nda hukuka aykırılık bulunmadığından davanın reddi yolundaki Daire kararı sonucu itibarıyla hukuka uygun olup belirtilen gerekçeyle onanmıştır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı taşınmaz maliki",
+      "Enerji Piyasası Düzenleme Kurumu",
+      "Cumhurbaşkanlığı",
+      "müdahil enerji şirketi"
+    ],
+    "context": "Yenilenebilir enerji kaynak alanı (YEKA) yarışmasıyla bağlantı hakkı kazanan müdahil enerji şirketine, tarım arazisi niteliğindeki taşınmazların bulunduğu bölgede RES projesi için üretim önlisansı verilmesi.",
+    "trigger": "Önlisans kapsamında üretim tesisi için gerekli taşınmazların acele kamulaştırılmasına ilişkin 24/11/2023 tarih ve 7875 sayılı Cumhurbaşkanı Kararı'nın yayımlanması.",
+    "claim": "Tarım arazisi niteliğindeki taşınmaza yönelik acele kamulaştırma şartlarının gerçekleşmediği ve mülkiyet hakkının ihlal edildiği iddiasıyla Cumhurbaşkanı Kararı'nın iptali talep edilmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 6. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2024/503",
+      "decision_number": "2025/1332",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Temyiz incelemesine konu, davanın reddine ilişkin Daire kararı olup gerekçesi değiştirilerek onanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2020/47",
+      "decision_number": "2023/36",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "5346 sayılı Kanun m.4'teki YEKA alanlarında acele kamulaştırma kuralının Anayasa'ya aykırı olmadığına ilişkin norm denetimi kararı, acelelik koşulunun somut olayda yargısal denetime tabi olduğu değerlendirmesinin dayanağı olarak izlenmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2019/1255",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Karşı oyda, kamulaştırma işleminden sonra alınan kamu yararı kararının mülkiyet hakkı ihlalini ortadan kaldırmayacağına ilişkin AYM bireysel başvuru kararı emsal olarak gösterilmiştir."
+    },
+    {
+      "court": "Danıştay 4. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2024/656",
+      "decision_number": "2024/3554",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Proje için düzenlenen ÇED Olumlu kararının iptal davasında ilk derece kararını bozarak davanın reddine hükmeden karar, dosya geçmişinin aktarımı kapsamında anılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkının ancak kamu yararı amacıyla kanunla sınırlanabileceği kuralı, acele kamulaştırma denetiminin anayasal çerçevesini oluşturmuştur."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "40",
+      "context": "Karşı oyda etkili başvuru hakkı bağlamında, kamulaştırmada kamu yararının yargısal denetime tabi kılınamaması durumunda ihlal oluşacağı vurgulanmıştır."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "Ek 1 No'lu Protokol m.1",
+      "context": "Mülkiyetin korunması güvencesi çerçevesinde kamulaştırmanın orantılılık ve kamu yararı koşullarına uygunluğu değerlendirilmiştir."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "3",
+      "context": "İdarelerin kamu hizmetleri için gerekli taşınmazları bedellerini ödemek suretiyle kamulaştırabileceği genel kuralı aktarılmıştır."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "5",
+      "context": "Kamulaştırmanın kamu yararı kararı alınması şartına bağlandığı kural, olağan kamulaştırma usulünün çerçevesi olarak anılmıştır."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "6",
+      "context": "Kamu yararı kararlarının onay mercilerini ve onaylı imar planı/proje istisnasını düzenleyen hüküm aktarılmıştır."
+    },
+    {
+      "law": "Kamulaştırma Kanunu",
+      "law_number": "2942",
+      "article": "27",
+      "context": "Acele kamulaştırma usulünün dayanağı olan hüküm, dava konusu işlemin sebep ve maksat denetiminin merkezinde uygulanmıştır."
+    },
+    {
+      "law": "Toprak Koruma ve Arazi Kullanımı Kanunu",
+      "law_number": "5403",
+      "article": "13",
+      "context": "Tarım arazilerinin amaç dışı kullanımına ilişkin koşullar ve tarım dışı kullanım izni prosedürü çerçevesinde tarım arazisi niteliğindeki taşınmazın değerlendirilmesinde dayanak olmuştur."
+    },
+    {
+      "law": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun",
+      "law_number": "5346",
+      "article": "4",
+      "context": "YEKA olarak belirlenen özel mülkiyetteki taşınmazlar üzerinde 2942 sayılı Kanun m.27 uyarınca acele kamulaştırma yapılabilmesine imkân tanıyan kural uygulanmıştır."
+    },
+    {
+      "law": "Elektrik Piyasası Kanunu",
+      "law_number": "6446",
+      "article": "19/1-a",
+      "context": "Elektrik üretim tesisleri için taşınmaz teminine ilişkin hüküm, RES yatırımı kapsamındaki kamulaştırmanın hukuki çerçevesi olarak anılmıştır."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "20/A",
+      "context": "Yargılamanın ivedi yargılama usulüne tabi tutulmasının dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Milli Müdafaa Mükellefiyeti Kanunu",
+      "law_number": "3634",
+      "article": null,
+      "context": "2942 sayılı Kanun m.27'de acele kamulaştırma sebeplerinden biri olarak gösterilen yurt savunması ihtiyacı bağlamında atıf yapılmıştır."
+    },
+    {
+      "law": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "7226",
+      "article": "26",
+      "context": "5346 sayılı Kanun m.4'te YEKA alanlarında acele kamulaştırma imkânı getiren değişikliği yapan hüküm olarak anılmıştır."
+    }
+  ]
+}

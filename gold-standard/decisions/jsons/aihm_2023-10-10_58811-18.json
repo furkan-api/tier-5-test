@@ -1,0 +1,360 @@
+{
+  "file": "aihm_2023-10-10_58811-18.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi İkinci Bölüm",
+  "case_number": "58811/18",
+  "decision_number": null,
+  "decision_date": "2023-10-10",
+  "decision_type": "Kabul Edilebilirlik",
+  "is_final": true,
+  "finality_basis": "Kabul edilemezlik kararı niteliği gereği kesindir.",
+  "decision_outcome": "Kabul Edilemezlik",
+  "decision_outcome_raw": "Başvurunun açıkça dayanaktan yoksun olması nedeniyle Sözleşme m.35/3-a ve 4 uyarınca kabul edilemez olduğuna oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "ret"
+    }
+  ],
+  "subject": "Milletvekili Genel Seçimlerinde Aday Olma Başvurusunun Yasaklanmış Hakların İadesine İlişkin Mahkeme Kararı Sunulmadığı Gerekçesiyle Reddi",
+  "summary": "Başvurucu, terör örgütüne üye olma suçundan mahkûm edilmiş ve cezasını çekmiş bir kişi olarak, 24 Haziran 2018 milletvekili genel seçimlerinde HDP listesinden adaylığının Yüksek Seçim Kurulu tarafından reddedilmesi nedeniyle Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi kapsamında seçilme hakkının ihlal edildiğini ileri sürmüştür. YSK, başvurucunun sunduğu Ağır Ceza Mahkemesi kararının TCK m.53 kapsamında hak yoksunluğunun cezanın infazıyla kalktığını tespit eden bir karar olduğunu, ancak 5352 sayılı Kanun m.13/A uyarınca yasaklanmış hakların geri verilmesine ilişkin bir karar niteliğinde olmadığını belirterek adaylığı reddetmiştir. AİHM, YSK'nın yerleşik içtihadı ve uygulanan kuralların erişilebilir ve öngörülebilir olduğunu, kararın keyfi sayılamayacağını tespit ederek başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez olduğuna oybirliğiyle karar vermiştir.",
+  "keywords": [
+    "seçilme hakkı",
+    "milletvekili adaylığı",
+    "yasaklanmış hakların geri verilmesi",
+    "memnu hakların iadesi",
+    "hak yoksunluğu",
+    "terör suçundan mahkumiyet",
+    "yüksek seçim kurulu",
+    "açıkça dayanaktan yoksunluk",
+    "5352 sayılı kanun 13/a",
+    "tck 53",
+    "öngörülebilirlik",
+    "ek 1 no.lu protokol madde 3"
+  ],
+  "legal_issues": [
+    "TCK m.53 kapsamında cezanın infazıyla hak yoksunluğunun kendiliğinden sona erdiğini tespit eden bir mahkeme kararı, milletvekili seçilme hakkının iadesi için yeterli midir, yoksa 5352 sayılı Kanun m.13/A uyarınca ayrıca yasaklanmış hakların geri verilmesi kararı gerekli midir?",
+    "YSK'nın başvurucunun adaylık başvurusunu reddetmesi, Sözleşme'ye Ek 1 No.lu Protokol'ün 3. maddesi anlamında erişilebilir ve öngörülebilir bir yasal dayanağa sahip mi ve keyfilikten uzak mıdır?",
+    "Anayasa m.76/2 ve 2839 sayılı Kanun m.11 kapsamında terör suçlarından mahkûm edilenlerin seçilme hakkını geri kazanmasının yolu nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "seçilme hakkı (pasif seçim hakkı)",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davanın temel ekseni Sözleşme'ye Ek 1 No.lu Protokol m.3 kapsamında seçilme hakkının pasif yönü olan milletvekili adaylığı hakkıdır."
+    },
+    {
+      "concept": "yasaklanmış hakların geri verilmesi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "5352 sayılı Kanun m.13/A'nın, Anayasa m.76/2 ve 2839 sayılı Kanun m.11 uyarınca süresiz hak yoksunluğunu giderecek tek mekanizma olduğu yönünde yorumlanmıştır."
+    },
+    {
+      "concept": "hak yoksunluğunun süresiz kapsamı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa m.76/2 ve 2839 sayılı Kanun m.11 uyarınca terör suçlarından mahkûm olanlar için süresiz seçilememe yasağı somut olaya uygulanmıştır."
+    },
+    {
+      "concept": "açıkça dayanaktan yoksunluk",
+      "role": "uygulanan",
+      "context_in_reasoning": "Şikayetin Sözleşme m.35/3-a ve 4 uyarınca açıkça dayanaktan yoksun bulunarak kabul edilemez sayılmasının doğrudan dayanağıdır."
+    },
+    {
+      "concept": "kanunilik ve öngörülebilirlik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Uygulanan mevzuatın erişilebilir ve öngörülebilir olduğu, YSK'nın yerleşik içtihadıyla desteklendiği ortaya konmuştur."
+    },
+    {
+      "concept": "keyfilik yasağı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Adayların kaydedilmesinde kararların keyfi olmaması gerekliliği bağlamında YSK kararı incelenmiş ve keyfi bulunmamıştır."
+    },
+    {
+      "concept": "devletin takdir yetkisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sözleşmeci Devletlerin seçilebilirlik koşullarını belirleme konusundaki geniş takdir yetkisi çerçevesinde değerlendirme yapılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "YSK'nın başvurucunun milletvekili adaylığını, 5352 sayılı Kanun m.13/A uyarınca yasaklanmış hakların geri verildiğini teyit eden bir mahkeme kararı sunulmadığı gerekçesiyle reddetmesi, Sözleşme'ye Ek 1 No.lu Protokol m.3 kapsamında seçilme hakkını ihlal etmiş midir?",
+    "rule": "Sözleşme'ye Ek 1 No.lu Protokol m.3 kapsamında seçilme hakkı mutlak değildir; Devletlerin geniş takdir yetkisi olmakla birlikte, adaylığın reddine ilişkin kararların kanuni dayanağa sahip, erişilebilir, öngörülebilir ve keyfilikten uzak olması gerekir. Türk hukukunda Anayasa m.76/2 ve 2839 sayılı Kanun m.11 uyarınca terör suçlarından mahkûm olanların süresiz seçilememe yasağı yalnızca 5352 sayılı Kanun m.13/A'da öngörülen yasaklanmış hakların geri verilmesi prosedürüyle aşılabilir.",
+    "application": "Başvurucunun sunduğu Diyarbakır Ağır Ceza Mahkemesi kararı, TCK m.53 uyarınca cezanın infazıyla hak yoksunluğunun kendiliğinden sona erdiğine ilişkin tespit kararı niteliğindedir; 5352 sayılı Kanun m.13/A kapsamında yasaklanmış hakların geri verilmesi kararı değildir. Başvurucu, m.13/A'da öngörülen üç yıllık bekleme süresini henüz tamamlamadığını da kabul etmektedir. YSK'nın 2011 tarihli 458 ve 463 sayılı kararlarıyla oluşturduğu yerleşik içtihat, milletvekili seçilme hakkının iadesi için m.13/A uyarınca verilmiş bir mahkeme kararının zorunlu olduğunu ortaya koymaktadır.",
+    "conclusion": "YSK'nın başvurucunun adaylığını reddeden kararı kanuni dayanağa sahip, öngörülebilir ve keyfilikten uzak olduğundan başvuru açıkça dayanaktan yoksundur ve Sözleşme m.35/3-a ve 4 uyarınca kabul edilemez bulunmuştur."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu (milletvekili adayı)",
+      "siyasi parti",
+      "Yüksek Seçim Kurulu",
+      "ağır ceza mahkemesi"
+    ],
+    "context": "Terör örgütüne üye olma suçundan yedi yıl altı ay hapis cezasına mahkûm edilen ve cezasını 13 Eylül 2017'de tamamen çeken bir kişinin, bir muhalefet partisi listesinden milletvekili adaylığı süreci.",
+    "trigger": "YSK'nın, başvurucunun sunduğu TCK m.53 kapsamındaki tespit kararını 5352 sayılı Kanun m.13/A anlamında yasaklanmış hakların geri verilmesi kararı saymayarak adaylığı reddetmesi.",
+    "claim": "Başvurucu, 24 Haziran 2018 milletvekili genel seçimlerinde aday olma hakkından haksız yere mahrum bırakıldığını ve seçilme hakkının ihlal edildiğini ileri sürmüştür."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "10226/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yumak ve Sadak/Türkiye Büyük Daire kararı, Ek 1 No.lu Protokol m.3'ün demokratik sistemdeki önemine ilişkin genel ilkelerin kaynağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "7/08",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tănase/Moldova Büyük Daire kararı seçilme hakkının önemi ve orantılılık değerlendirmesi için emsal alınmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "310/15",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mugemangango/Belçika Büyük Daire kararı hukukun üstünlüğü ve normatif çerçeve yükümlülüğüne ilişkin emsal olarak kullanılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "58278/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ždanoka/Letonya Büyük Daire kararı, ulusal usullerin keyfi olmaması gerekliliğine ilişkin yaklaşımın temel kaynağıdır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "53915/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Dicle/Türkiye (no. 3) kararı, YSK'nın yetkisi ve seçilme hakkının pasif yönüne ilişkin Türkiye'ye özgü ilgili içtihat olarak izlenmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "48621/07",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Dicle ve Sadak/Türkiye kararı, ilgili iç hukuk çerçevesinin açıklanması ve adaylık koşullarına ilişkin kriterler için emsal alınmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "46726/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Podkolzina/Letonya kararı, takdir yetkisi ve hakların etkililiği ilkesi bağlamında atıfta bulunulmuştur."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17707/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Melnichenko/Ukrayna kararı, adaylık koşullarının değerlendirilmesinde keyfilik testine ilişkin emsal olarak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "17864/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Krasnov ve Skouratov/Rusya kararı, adayın kayıt kararının değerlendirilmesinde mahkemenin yaklaşımına emsal olarak alınmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "31953/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Tahirov/Azerbaycan kararıyla karşılaştırma yapılarak somut olayda YSK kararının keyfi olmadığı sonucuna varılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "16959/10",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ayaz/Türkiye kabul edilemezlik kararı, başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez bulunmasının doğrudan emsali olarak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "58125/09",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Şahin (Keleş)/Türkiye kabul edilemezlik kararı, başvurunun açıkça dayanaktan yoksun olması nedeniyle kabul edilemez bulunmasının emsali olarak alıntılanmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30386/05",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ekoglasnost/Bulgaristan kararı, Sözleşmeci Devletlerin seçilebilirlik koşullarını belirleme konusundaki geniş takdir yetkisine ilişkin yerleşik içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "75947/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Davydov ve Diğerleri/Rusya kararı, Ek 1 No.lu Protokol m.3 kapsamındaki hakların mutlak olmadığı ve Devletlerin geniş takdir yetkisine ilişkin yerleşik içtihada referans olarak gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55066/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Rus Muhafazakâr Girişimciler Partisi ve Diğerleri/Rusya kararı, adaylık kayıt usullerinin keyfilikten uzak olması ve hakların etkililiği ilkesine ilişkin yerleşik içtihat olarak izlenmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "33554/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Lykourezos/Yunanistan kararı, adayların kaydedilmesinde keyfi kararlardan kaçınılması gerekliliğine ilişkin yerleşik içtihat olarak alıntılanmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39424/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kovatch/Ukrayna kararı, seçim usullerinde keyfilik ve yetkinin kötüye kullanılmasından kaçınılması gerekliliğine ilişkin yerleşik içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "38978/03",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sarukhanyan/Ermenistan kararı, kayıt usullerinin usule ilişkin adalet ve hukuki kesinlik ile karakterize edilmesi ile tedbirin meşru amacı ve orantılılığı bağlamında yerleşik içtihat olarak izlenmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "77568/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Petkov ve Diğerleri/Bulgaristan kararı, adayların kaydedilmesi usullerinin usule ilişkin adalet ve hukuki kesinliği taşıması gerekliliğine ilişkin yerleşik içtihat olarak alıntılanmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme'ye Ek 1 No.lu Protokol",
+      "law_number": null,
+      "article": "3",
+      "context": "Serbest seçimler hakkını güvence altına alan ve davanın esasını oluşturan hüküm olarak değerlendirilmiştir."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "35/3-a",
+      "context": "Başvurunun açıkça dayanaktan yoksun bulunarak kabul edilemez ilan edilmesinin doğrudan dayanağıdır."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "35/4",
+      "context": "Kabul edilemezlik kararının verilmesine ilişkin usul hükmü olarak uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "76/2",
+      "context": "Toplam bir yıl veya daha fazla hapis cezasına ve terör eylemlerine katılma suçundan mahkûm olanların milletvekili seçilemeyeceği kuralı somut olayda uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "79",
+      "context": "YSK'nın seçim uyuşmazlıklarında münhasır ve kesin yetkili merci olduğu, kararlarına karşı başka mercie başvurulamayacağı düzenlemesi açıklanmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "53",
+      "context": "Hak yoksunluğunun mahkûmiyetin kanuni sonucu olduğu ve cezanın infazıyla sona erdiği kuralı, Diyarbakır Ağır Ceza Mahkemesi kararının dayanağı olarak ele alınmıştır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "314/2",
+      "context": "Başvurucunun terör örgütüne üye olma suçundan mahkûm edildiği maddi ceza hükmü olarak alıntılanmıştır."
+    },
+    {
+      "law": "Milletvekili Seçimi Kanunu",
+      "law_number": "2839",
+      "article": "11",
+      "context": "Milletvekili seçilemeyecek olanları sıralayan ve terör eylemlerinden mahkûm olanların affa uğrasalar bile seçilemeyeceğini düzenleyen merkezi hüküm olarak uygulanmıştır."
+    },
+    {
+      "law": "Adli Sicil Kanunu",
+      "law_number": "5352",
+      "article": "13/A",
+      "context": "Yasaklanmış hakların geri verilmesi prosedürünü düzenleyen ve milletvekili seçilme hakkının iadesinin tek yolu olarak yorumlanan hüküm, davanın merkezi yasal dayanağıdır."
+    },
+    {
+      "law": "Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun",
+      "law_number": "298",
+      "article": "131",
+      "context": "YSK'nın işlem ve tedbirlerine karşı şikayetlerin derhal ve kesin olarak karara bağlanacağına ilişkin hüküm olarak alıntılanmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "45",
+      "context": "Anayasa Mahkemesine bireysel başvuru yolunu düzenleyen hüküm, iç hukuk yollarının tüketilmesi tartışması bağlamında atıfta bulunulmuştur."
+    }
+  ]
+}

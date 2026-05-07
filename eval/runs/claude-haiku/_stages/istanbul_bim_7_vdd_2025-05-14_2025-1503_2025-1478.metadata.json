@@ -1,0 +1,72 @@
+{
+  "file": "istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md",
+  "court_type": "Bölge İdare Mahkemesi",
+  "court": "İstanbul Bölge İdare Mahkemesi 7. Vergi Dava Dairesi",
+  "case_number": "2025/1503",
+  "decision_number": "2025/1478",
+  "decision_date": "2025-05-14",
+  "decision_type": "İstinaf",
+  "is_final": true,
+  "finality_basis": "2577 sayılı İdari Yargılama Usulü Kanunu m.46/b uyarınca kesin olarak karar verilmiştir.",
+  "decision_outcome": "İstinafın Reddi",
+  "decision_outcome_raw": "İlk derece mahkemesi kararı hukuka uygun bulunduğundan istinaf başvurusunun reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davalı idare"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı idare",
+      "result": "ret"
+    }
+  ],
+  "subject": "Ruhsat Alanı Haricindeki Alanın İşgali Nedeniyle Talep Edilen İşgal Harcının İptali",
+  "keywords": [
+    "işgal harcı",
+    "2464 sayılı belediye gelirleri kanunu",
+    "geçici işgal",
+    "vergi ihbarnamesinin iptali",
+    "ruhsat alanı",
+    "kafeteryası",
+    "umuma ait yer"
+  ],
+  "legal_issues": [
+    "2464 sayılı Belediye Gelirleri Kanunu m.52 uyarınca işgal harcı yalnızca umuma ait yerin geçici olarak işgal edilmesi halinde mi alınabilir?",
+    "Ruhsat alanı haricinde kalıcı olarak işgal edilen alanlar için talep edilen işgal harcı yasal mı?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "geçici işgal",
+      "role": "ana_eksen",
+      "context_in_reasoning": "2464 sayılı Kanun m.52 uyarınca işgal harcının alınabilmesi için umuma ait yerin geçici olarak işgal edilmesi şartı kararın temel eksenidir."
+    },
+    {
+      "concept": "işgal harcı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Ruhsat alanı haricinde işgal edilen alanlar için talep edilen işgal harcının yasal dayanağı ve uygulanabilirliği incelenmiştir."
+    },
+    {
+      "concept": "vergi ihbarnamesinin iptali",
+      "role": "uygulanan",
+      "context_in_reasoning": "Hukuka aykırı işgal harcı talebini içeren vergi ihbarnamesinin iptaline ilişkin ilk derece kararı istinaf aşamasında incelenmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "2464 sayılı Belediye Gelirleri Kanunu m.52 uyarınca işgal harcı yalnızca umuma ait yerin geçici olarak işgal edilmesi halinde alınabilir mi?",
+    "rule": "2464 sayılı Belediye Gelirleri Kanunu m.52 hükmü uyarınca işgal harcı umuma ait yerin ancak geçici olarak işgal edilmesi halinde alınabilir; kalıcı işgal halinde bu harcın talep edilmesi hukuka aykırıdır.",
+    "application": "Somut olayda davacının ruhsat alanı haricinde kalıcı olarak işgal ettiği alanlar için talep edilen işgal harcı yasal dayanaktan yoksundur; ilk derece mahkemesinin bu gerekçeyle vergi ihbarnamesinin iptaline karar vermesi hukuka uygundur.",
+    "conclusion": "İlk derece mahkemesi kararı hukuka uygun olduğundan istinaf başvurusunun reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı şirket",
+      "davalı belediye",
+      "vergi mahkemesi"
+    ],
+    "context": "Davacı şirket tarafından A1 Bulvarında işletilen kafeteryasının ruhsat alanı haricinde umuma ait alanın işgal edilmesi.",
+    "trigger": "Belediye tarafından ruhsat alanı haricindeki işgal nedeniyle 267.800,00 TL tutarlı işgal harcı içerikli vergi ihbarnamesinin düzenlenmesi.",
+    "claim": "Vergi ihbarnamesinin iptalinin istenmesi ve işgal harcının hukuka aykırı olduğunun tespit edilmesi."
+  }
+}

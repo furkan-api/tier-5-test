@@ -1,0 +1,115 @@
+{
+  "file": "uyusmazlik_2003-06-16_2002-18_2003-32.md",
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1997/6883",
+      "decision_number": "1999/685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelge hakkında verilen kararın onanması ve kısmen bozulması."
+    },
+    {
+      "court": "İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelge'nin prim oranının uygulanmasına ilişkin kısmının onanması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelgenin dayanağı Yönetim Kurulu Kararının iptali."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4901",
+      "decision_number": "2001/1039",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçmişe yönelik prim farkı tahakkuk ve tahsilatının hukuka aykırı bulunması."
+    },
+    {
+      "court": "Ankara 7. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/533",
+      "decision_number": "2000/56",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Prim farkı ve gecikme zammı talebinin reddi, gecikme zammının iptali."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2000/3629",
+      "decision_number": "2000/5521",
+      "relation": "referenced",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Ankara 7. İş Mahkemesi kararının onanması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4911",
+      "decision_number": "2001/1234",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Konusu kalmayan dava hakkında karar verilmesine yer olmadığına dair karar."
+    },
+    {
+      "court": "İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1999/388",
+      "decision_number": "1999/1015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Davacı temyiz isteminin reddi ve kararın kısmen onanması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1993/2472",
+      "decision_number": "1995/2351",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/56 Ek sayılı Genelge'nin iptali istemiyle açılan davanın reddi."
+    },
+    {
+      "court": "İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/56 Ek sayılı Genelge'nin geçmişe yönelik uygulama getirdiği gerekçesiyle bozulması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelgenin dayanağı Yönetim Kurulu Kararının iptali."
+    }
+  ]
+}

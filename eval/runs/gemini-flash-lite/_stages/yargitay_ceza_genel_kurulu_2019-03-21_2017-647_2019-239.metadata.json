@@ -1,0 +1,98 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Ceza Genel Kurulu",
+  "case_number": "2017/647",
+  "decision_number": "2019/239",
+  "decision_date": "2019-03-21",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Dosyanın, Denizli 2. Ağır Ceza Mahkemesince verilen 18.10.2012 ve 03.12.2013 tarihli gerekçeli kararların Aile, Çalışma ve Sosyal Hizmetler Bakanlığına tebliğinin sağlanması için Yerel Mahkemeye gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdi edilmesine karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Çoğunluk görüşüne katılmayan beş Genel Kurul Üyesi, Aile, Çalışma ve Sosyal Hizmetler Bakanlığının sanık hakkında açılan kamu davasından haberdar edilmesinin zorunlu olmadığı düşüncesiyle karşı oy kullanmışlardır.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Çocuğun Nitelikli Cinsel İstismarı ve Kişiyi Hürriyetinden Yoksun Kılma Suçları ile 6284 Sayılı Kanun Kapsamında Bakanlığın Davaya Katılma Hakkı",
+  "keywords": [
+    "çocuğun nitelikli cinsel istismarı",
+    "kişiyi hürriyetinden yoksun kılma",
+    "rıza",
+    "delil yetersizliği",
+    "beraat",
+    "direnme",
+    "bakanlığın davaya katılma hakkı",
+    "6284 sayılı kanun",
+    "pozitif ayrımcılık",
+    "adil yargılanma hakkı",
+    "kanun yolu",
+    "tebliğ"
+  ],
+  "legal_issues": [
+    "Sanıklara atılı çocuğun nitelikli cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarının sabit olup olmadığı, delil durumu ve mağdurenin beyanlarındaki çelişkiler dikkate alındığında mahkûmiyet için yeterli ve kesin delil bulunup bulunmadığı.",
+    "6284 sayılı Kanun'un 20/2. maddesi uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının sanıklar hakkında açılan kamu davasından haberdar edilmesinin zorunlu olup olmadığı.",
+    "Bakanlığın davaya katılma hakkının, CMK'nın 234. maddesi ve 6284 sayılı Kanun'un 7. maddesi uyarınca nasıl değerlendirilmesi gerektiği.",
+    "Bakanlığın davadan haberdar edilmemesi durumunda, kararların Bakanlığa tebliğ edilerek temyiz hakkının kullandırılmasının zorunlu olup olmadığı."
+  ],
+  "legal_concepts": [
+    {
+      "concept": "çocuğun nitelikli cinsel istismarı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın ana eksenini, sanıklara atılı çocuğun nitelikli cinsel istismarı suçunun sabit olup olmadığının delil durumu çerçevesinde belirlenmesi oluşturmaktadır."
+    },
+    {
+      "concept": "rıza",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mağdurenin beyanlarındaki çelişkiler ve şikayetinden vazgeçmesi gibi hususlar, eylemlerin rıza hilafına gerçekleştiğine dair kesin delil bulunmadığı yönünde değerlendirilmiştir."
+    },
+    {
+      "concept": "delil yetersizliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sanıkların mahkûmiyetlerine yeterli, her türlü şüpheden uzak, kesin ve inandırıcı delil bulunmadığı gerekçesiyle Özel Dairece bozma kararı verilmiştir."
+    },
+    {
+      "concept": "bakanlığın davaya katılma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Uyuşmazlığın temelini, 6284 sayılı Kanun kapsamında Aile, Çalışma ve Sosyal Hizmetler Bakanlığının kamu davasına katılma hakkının varlığı ve bu hakkın nasıl kullandırılacağı oluşturmaktadır."
+    },
+    {
+      "concept": "6284 sayılı kanun",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kadına karşı şiddetin önlenmesi amacıyla çıkarılan 6284 sayılı Kanun'un 20/2. maddesi, Bakanlığın davaya katılma hakkını düzenlemektedir."
+    },
+    {
+      "concept": "pozitif ayrımcılık",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Anayasa'nın kadın ve çocuk haklarına ilişkin hükümleri ile uluslararası sözleşmeler çerçevesinde pozitif ayrımcılık ilkesinin, Bakanlığın davaya katılma hakkının yorumlanmasında dikkate alınması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mağdur ve şikayetçinin duruşmadan haberdar edilme ve kanun yollarına başvurma hakları, adil yargılanma hakkının bir uzantısı olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "kanun yolu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bakanlığın davaya katılma hakkı, CMK'nın 260. maddesi uyarınca temyiz hakkını da içerecek şekilde değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Sanıklara atılı suçların sabit olup olmadığı ve 6284 sayılı Kanun uyarınca Bakanlığın davaya katılma hakkının bulunup bulunmadığı.",
+    "rule": "Sanıklara atılı suçların sabit olması için her türlü şüpheden uzak, kesin ve inandırıcı delil bulunması gerekirken, 6284 sayılı Kanun'un 20/2. maddesi ile Uygulama Yönetmeliği'nin 46. maddesi Bakanlığa davaya katılma hakkı tanımıştır.",
+    "application": "Mağdurenin beyanlarındaki çelişkiler ve şikayetinden vazgeçmesi nedeniyle sanıkların mahkûmiyetlerine yeterli delil bulunmadığı, ancak Bakanlığın davaya katılma hakkının bulunduğu ve bu hakkın kullandırılmadığı, bu nedenle kararların Bakanlığa tebliğ edilerek temyiz süresinin başlatılması gerektiği sonucuna varılmıştır.",
+    "conclusion": "Dosyanın, Yerel Mahkemece verilen kararların Aile, Çalışma ve Sosyal Hizmetler Bakanlığına tebliğinin sağlanması için Yerel Mahkemeye gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdi edilmesine oy çokluğuyla karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "sanık",
+      "mağdure",
+      "tanık",
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı"
+    ],
+    "context": "Sanıklar hakkında mağdureye karşı işlendiği iddia edilen çocuğun nitelikli cinsel istismarı, basit cinsel istismarı ve kişiyi hürriyetinden yoksun kılma suçlarına ilişkin kamu davası.",
+    "trigger": "Mağdurenin beyanlarındaki çelişkiler, şikayetinden vazgeçmesi ve sanıkların savunmaları üzerine yerel mahkemece verilen mahkûmiyet kararının Özel Dairece bozulması ve yerel mahkemenin direnmesi.",
+    "claim": "Sanıkların atılı suçlardan mahkûmiyetine karar verilmesi (yerel mahkeme) ve sonrasında Bakanlığın davaya katılma hakkının kullandırılmaması üzerine dosyanın incelenmesi."
+  }
+}

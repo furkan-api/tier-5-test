@@ -1,0 +1,99 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Genel Kurul",
+  "case_number": "2001/4",
+  "decision_number": "2001/332",
+  "decision_date": "2001-07-18",
+  "decision_type": "Norm Denetimi",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/1 uyarınca Anayasa Mahkemesi'nin norm denetimi kararları kesindir.",
+  "decision_outcome": "Kısmen İptal",
+  "decision_outcome_raw": "4616 sayılı Yasa'nın 1. maddesinin 2. bendinin birinci paragrafının belirli bölümü, 4. bendi, 5. bendinin (a) alt bendinin 188., 191., 240. ve 383. maddeleri yönünden, 6. bendi, 7. bendi ve 9. bendinin iptaline, diğer itirazların reddi yönünde oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": true,
+  "dissent_summary": "Muhalif üyeler, 4616 sayılı Yasa'nın af niteliği ağır basan kendine özgü bir düzenleme olduğunu ve yasakoyucunun af kapsamını belirleme konusunda geniş takdir yetkisine sahip olduğunu; ayrıca TCK'nun 243. maddesi ve 298. maddesi ile 366. ve 367. maddelerinin iptaline karşı çıkmışlardır.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "4616 sayılı 23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanun'un Anayasa'ya Uygunluğu",
+  "keywords": [
+    "şartla salıverilme",
+    "ceza ertelenmesi",
+    "genel af",
+    "özel af",
+    "hukuk devleti ilkesi",
+    "eşitlik ilkesi",
+    "adil yargılanma hakkı",
+    "ceza hukuku",
+    "infaz hukuku",
+    "kazanılmış haklar",
+    "dava zamanaşımı",
+    "işkence suçu"
+  ],
+  "legal_issues": [
+    "4616 sayılı Yasa'nın başlığı ve 23 Nisan 1999 uygulama tarihi Anayasa'nın 2. ve 10. maddelerine aykırı mıdır?",
+    "Müebbet ağır hapis cezasına mahkûm olanlardan on yıllık indirim yapılarak şartla salıverilmesi düzenlemesi hukuk devleti ilkesine aykırı mıdır?",
+    "Henüz yargılaması devam eden suçlara ilişkin davaların açılması veya kesin hükme bağlanmasının ertelenmesi düzenlemesi Anayasa'nın 2., 10., 36. ve 38. maddelerine aykırı mıdır?",
+    "Daha önce şartla salıverilmeden yararlananların 4616 sayılı Yasa'dan yararlanamaması düzenlemesi hukuk devleti ilkesine aykırı mıdır?",
+    "647 sayılı Yasa'nın Ek 2. maddesindeki indirim hükümlerinin uygulanmaması düzenlemesi Anayasa'nın 2. maddesine aykırı mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hukuk devleti ilkesi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, 4616 sayılı Yasa'nın getirdiği düzenlemelerin hukuk devleti ilkesine uygunluğunun denetlenmesidir."
+    },
+    {
+      "concept": "eşitlik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Aynı durumda bulunan kişilerin yasalar karşısında aynı işleme tabi tutulması gerektiği ilkesi, benzer suçlar arasında farklı muamele yapılmasının meşruluğunu sorgularken uygulanmıştır."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Henüz yargılaması devam eden kişilerin davaları ertelenmesiyle beraat etme hakkından mahrum edilmesi adil yargılanma hakkını ihlal etmektedir."
+    },
+    {
+      "concept": "genel af",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Genel af, suç teşkil eden fiiller için ceza vermek hakkını ortadan kaldıran ve kesinleşmiş cezaları kaldıran bir kamu hukuku tasarrufu olarak tanımlanmıştır."
+    },
+    {
+      "concept": "özel af",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Özel af, cezayı ortadan kaldıran, azaltan veya değiştiren ve yalnız kesinleşmiş cezalarda söz konusu olan bir müessese olarak açıklanmıştır."
+    },
+    {
+      "concept": "şartla salıverilme",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Şartla salıverilme, mahkûmun belirli bir süreyi iyi hal ile geçirmesi koşuluyla hükümlülük süresini tamamlamadan salıverilmesi müessesesi olarak tanımlanmıştır."
+    },
+    {
+      "concept": "erteleme",
+      "role": "tartışılan",
+      "context_in_reasoning": "Erteleme, cezanın infazının belirli bir süre geri bırakılması ve bu süre içinde suç işlenmemesi halinde mahkûmiyetin vaki olmamış sayılması müessesesidir."
+    },
+    {
+      "concept": "kazanılmış haklar",
+      "role": "uygulanan",
+      "context_in_reasoning": "Suç işlendiği tarihte yürürlükte olan yasalara göre tanınan hakların sonradan alınması hukuk devleti ilkesine aykırıdır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "4616 sayılı Yasa'nın 1. maddesinin 2. bendinin birinci paragrafında yer alan müebbet ağır hapis cezasına mahkûm olanlardan on yıllık indirim yapılarak şartla salıverilmesi düzenlemesi Anayasa'nın 2. maddesindeki hukuk devleti ilkesine aykırı mıdır?",
+    "rule": "Hukuk devleti, insan haklarına dayanan, hak ve özgürlükleri koruyup güçlendiren, eylem ve işlemleri hukuka uygun olan, her alanda adaletli bir hukuk düzeni kurup bunu geliştirerek sürdüren devlettir. Müebbet ağır hapis cezasına mahkûm olanlar ile şahsi hürriyeti bağlayıcı cezaya mahkûm olanlar arasında ceza infazı sırasında açık bir eşitsizlik yaratılması bu ilkeye aykırıdır.",
+    "application": "Müebbet ağır hapis cezasına mahkûm olanlar 647 sayılı Yasa'nın 19. maddesine göre 20 yıl ceza çekmesi gerekirken, 4616 sayılı Yasa'ya göre 10 yıllık indirim yapıldıktan sonra şartla salıverileceklerdir. Buna karşılık içtimaen 36 yıl cezaya mahkûm olanlar 4616 sayılı Yasa'nın uygulanmasıyla 13 yıl sonra şartla salıverilme olanağına kavuşacaklardır. Bu durum müebbet ağır hapis hükümlülerinin daha az ceza çekmesi sonucunu doğurmaktadır.",
+    "conclusion": "4616 sayılı Yasa'nın 1. maddesinin 2. bendinin birinci paragrafının itiraz konusu bölümü Anayasa'nın 2. maddesindeki hukuk devleti ilkesine aykırı olduğundan iptal edilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "mahkeme",
+      "hükümlü",
+      "Cumhuriyet savcısı",
+      "yasama organı"
+    ],
+    "context": "23 Nisan 1999 tarihine kadar işlenen suçlardan dolayı mahkûmiyet kararı verilmiş hükümlüler ile henüz yargılaması devam eden sanıklar bulunmaktadır.",
+    "trigger": "21 Aralık 2000 tarihinde 4616 sayılı Yasa çıkarılarak yürürlüğe girmiş ve belirli suçlar için şartla salıverilme, dava ertelenmesi ve ceza indirimi olanakları getirilmiştir.",
+    "claim": "Mahkemeler, 4616 sayılı Yasa'nın kimi kurallarının Anayasa'nın 2., 5., 10., 11., 36., 38. ve 138. maddelerine aykırı olduğunu ileri sürerek iptalini talep etmişlerdir."
+  }
+}

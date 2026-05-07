@@ -1,0 +1,285 @@
+{
+  "file": "uyusmazlik_2003-06-16_2002-18_2003-32.md",
+  "court_type": "Uyuşmazlık Mahkemesi",
+  "court": "Uyuşmazlık Mahkemesi Hukuk Bölümü",
+  "case_number": "2002/18",
+  "decision_number": "2003/32",
+  "decision_date": "2003-06-16",
+  "decision_type": "Hüküm Uyuşmazlığı",
+  "is_final": true,
+  "finality_basis": "Uyuşmazlık Mahkemesi kararları kesindir.",
+  "decision_outcome": "Hüküm Uyuşmazlığı Giderildi",
+  "decision_outcome_raw": "Danıştay Onuncu Dairesi ile Ankara 7. İş Mahkemesi'nin kararları arasında hüküm uyuşmazlığı bulunduğuna ve Ankara 7. İş Mahkemesi kararının kaldırılmasına oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "Sosyal Sigortalar Kurumu Başkanlığı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "Sosyal Sigortalar Kurumu Başkanlığı",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Libya'da Çalışan Türk İşçilerinin Sigorta Prim Farkları ve Gecikme Zammı Konusunda Adli ve İdari Yargı Kararları Arasındaki Hüküm Uyuşmazlığı",
+  "keywords": [
+    "hüküm uyuşmazlığı",
+    "sosyal güvenlik sözleşmesi",
+    "prim oranı",
+    "gecikme zammı",
+    "hukuki güvenlik ilkesi",
+    "geçmişe yönelik uygulama",
+    "idari yargı",
+    "adli yargı",
+    "prim farkı tahakkuku",
+    "iptal kararı"
+  ],
+  "legal_issues": [
+    "Libya'da çalışan Türk işçilerinin sigorta primlerine Türkiye'de uygulanan %24,5 oranının uygulanıp uygulanamayacağı ve geçmişe yönelik prim farkı tahakkuk ettirilip ettirilemeyeceği noktasında adli ve idari yargı kararları arasında hüküm uyuşmazlığı var mıdır?",
+    "Sosyal Güvenlik Sözleşmesi ve İdari Anlaşma uyarınca, Libya'da iş yapan Türk işverenlerin yanında çalışan Türk vatandaşı işçilerinin uzun vadeli sigorta kollarına ilişkin primlerinin Türkiye mevzuatına göre belirlenen %24,5 oranında tahakkuk ve tahsil edilmesi mümkün müdür?",
+    "İdari işlemlerin geçmişe yürümezliği ve hukuki güvenlik ilkeleri gereği, geçmişe yönelik prim farkı tahakkuk ve tahsilatı yapılabilir mi?",
+    "Ankara 7. İş Mahkemesi'nin prim farkı tahakkukunu kabul edip gecikme zammını iptal eden kararı ile Danıştay Onuncu Dairesi'nin geçmişe yönelik prim farkı tahakkukunu hukuki güvenlik ilkesine aykırı bularak iptal eden kararı arasındaki çelişki hüküm uyuşmazlığı oluşturur mu?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "hüküm uyuşmazlığı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, adli ve idari yargı mercilerince verilmiş, aynı konuya ve sebebe ilişkin kesinleşmiş kararlar arasındaki çelişkinin giderilmesidir."
+    },
+    {
+      "concept": "sosyal güvenlik sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Türkiye ile Libya arasındaki Sosyal Güvenlik Sözleşmesi ve Uygulama Anlaşması, sigorta primlerinin hangi ülkenin mevzuatına göre belirleneceğini düzenlemektedir."
+    },
+    {
+      "concept": "geçmişe yönelik uygulama",
+      "role": "tartışılan",
+      "context_in_reasoning": "İdari işlemlerin geçmişe yürümezliği ve hukuki güvenlik ilkesi çerçevesinde, prim farklarının geçmişe dönük olarak tahakkuk ettirilip ettirilemeyeceği tartışılmıştır."
+    },
+    {
+      "concept": "hukuki güvenlik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdareye tanınan düzenleme yetkisinin, belirlilik ve geçmişe yürümezlik unsurlarını içeren hukuki güvenlik ilkesine uygun kullanılması gerektiği vurgulanmıştır."
+    },
+    {
+      "concept": "idari işlemin geriye yürümezliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdari işlemlerin yürürlüğe girdikleri andan itibaren hukuki etkilerini gösterdiği ve geçmişe yürümezlik ilkesinin idare hukuku kuralı olduğu belirtilmiştir."
+    },
+    {
+      "concept": "prim oranı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Libya'da çalışan Türk işçileri için sigorta prim oranının Türkiye mevzuatına göre %24,5 olarak belirlenmesi gerektiği üzerinde durulmuştur."
+    },
+    {
+      "concept": "gecikme zammı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Prim farklarının tahakkuk ettirilmesi durumunda gecikme zammı uygulanıp uygulanamayacağı hususu uyuşmazlığın bir parçasıdır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Libya'da çalışan Türk işçilerinin sigorta prim farkları ve gecikme zammı konusunda adli ve idari yargı kararları arasında hüküm uyuşmazlığı var mıdır ve bu uyuşmazlık nasıl giderilmelidir?",
+    "rule": "2247 sayılı Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun'un 24. maddesine göre, adli ve idari yargı mercilerinden en az ikisi tarafından kesin olarak verilmiş, aynı konuya ve sebebe ilişkin, taraflardan en az biri aynı olan ve kararlar arasındaki çelişki yüzünden hakkın yerine getirilmesinin olanaksız bulunduğu hallerde hüküm uyuşmazlığı kabul edilir.",
+    "application": "Ankara 7. İş Mahkemesi, prim farkı tahakkukunu kabul edip gecikme zammını iptal ederken, Danıştay Onuncu Dairesi, geçmişe yönelik prim farkı tahakkukunu hukuki güvenlik ilkesine aykırı bularak iptal etmiştir. Bu durum, prim farklarının tahsil edilebilirliği konusunda çelişki yaratmakta ve hakkın yerine getirilmesini olanaksız kılmaktadır.",
+    "conclusion": "Danıştay Onuncu Dairesi'nin geçmişe yönelik prim farkı tahakkukunu hukuki güvenlik ilkesine aykırı bularak iptal eden kararı doğrultusunda, Ankara 7. İş Mahkemesi'nin aksi yöndeki kesinleşmiş kararı kaldırılarak hüküm uyuşmazlığının giderilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işveren",
+      "Sosyal Sigortalar Kurumu",
+      "Türk işçi",
+      "idari yargı yeri",
+      "adli yargı yeri"
+    ],
+    "context": "Türkiye ile Libya arasındaki Sosyal Güvenlik Sözleşmesi ve Uygulama Anlaşması uyarınca, Libya'da iş yapan Türk işverenlerin yanında çalışan Türk işçilerinin sigorta primlerinin belirlenmesi ve tahsili.",
+    "trigger": "Sosyal Sigortalar Kurumu'nun farklı genelgelerle prim oranlarını değiştirmesi ve geçmişe yönelik prim farkı ile gecikme zammı talep etmesi üzerine açılan davalar.",
+    "claim": "Libya'da çalışan Türk işçileri için uygulanan sigorta prim oranları ve geçmişe yönelik prim farkı ile gecikme zammı tahakkukunun hukuka uygunluğunun tespiti ve iptali istemi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1997/6883",
+      "decision_number": "1999/685",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelge hakkında verilen kararın onanması ve kısmen bozulması."
+    },
+    {
+      "court": "İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelge'nin prim oranının uygulanmasına ilişkin kısmının onanması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelgenin dayanağı Yönetim Kurulu Kararının iptali."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4901",
+      "decision_number": "2001/1039",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Geçmişe yönelik prim farkı tahakkuk ve tahsilatının hukuka aykırı bulunması."
+    },
+    {
+      "court": "Ankara 7. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/533",
+      "decision_number": "2000/56",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Prim farkı ve gecikme zammı talebinin reddi, gecikme zammının iptali."
+    },
+    {
+      "court": "Yargıtay 21. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2000/3629",
+      "decision_number": "2000/5521",
+      "relation": "referenced",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Ankara 7. İş Mahkemesi kararının onanması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2000/4911",
+      "decision_number": "2001/1234",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Konusu kalmayan dava hakkında karar verilmesine yer olmadığına dair karar."
+    },
+    {
+      "court": "İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1999/388",
+      "decision_number": "1999/1015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Davacı temyiz isteminin reddi ve kararın kısmen onanması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1993/2472",
+      "decision_number": "1995/2351",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/56 Ek sayılı Genelge'nin iptali istemiyle açılan davanın reddi."
+    },
+    {
+      "court": "İdari Dava Daireleri Genel Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "1995/828",
+      "decision_number": "1997/527",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/56 Ek sayılı Genelge'nin geçmişe yönelik uygulama getirdiği gerekçesiyle bozulması."
+    },
+    {
+      "court": "Danıştay Onuncu Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "1998/1399",
+      "decision_number": "1999/684",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "16/61 Ek sayılı Genelgenin dayanağı Yönetim Kurulu Kararının iptali."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Sosyal Sigortalar Kanunu",
+      "law_number": "506",
+      "article": "78",
+      "context": "Prime esas kazancın üst sınırı dikkate alınarak primlerin belirlenmesi."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu",
+      "law_number": "506",
+      "article": "73",
+      "context": "Hastalık sigortası dışındaki oranlar üzerinden prim düzenlenmesi."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "49/4",
+      "context": "İdari Dava Daireleri Genel Kurulu kararına uyma zorunluluğu."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "73",
+      "context": "Mali yükümlülüklerin ancak kanunla getirilebileceği ilkesi."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": "24",
+      "context": "Hüküm uyuşmazlığının varlığı ve giderilmesi şartları."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": "16",
+      "context": "Hüküm uyuşmazlığına ilişkin başvurularda ilgili Başsavcıların düşüncesinin istenmesi."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": "25",
+      "context": "Hüküm uyuşmazlığının giderilmesine ilişkin usuli işlemler."
+    },
+    {
+      "law": "Sosyal Sigortalar Kurumu Kanunu",
+      "law_number": "4792",
+      "article": null,
+      "context": "Sosyal Sigortalar Kurumunun görev ve yetkileri."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu",
+      "law_number": "506",
+      "article": "Ek 31",
+      "context": "Sosyal güvenlik sözleşmelerinin uygulanmasında prim ödeme sürelerinin belirlenmesi."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu",
+      "law_number": "506",
+      "article": "80",
+      "context": "Prim alacaklarına ilişkin davaların iş mahkemelerinde görülmesi."
+    },
+    {
+      "law": "Sosyal Sigortalar Kanunu",
+      "law_number": "506",
+      "article": "134",
+      "context": "Prim alacaklarına ilişkin davaların iş mahkemelerinde görülmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "90",
+      "context": "Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmaların kanun hükmünde olması."
+    }
+  ]
+}

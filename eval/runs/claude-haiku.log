@@ -1,0 +1,223 @@
+INFO: [metadata] to_process=29  skipped=0  prompt=extract_metadata.md
+INFO: [metadata] Anthropic backend (model=claude-haiku-4-5-20251001)
+INFO: [metadata] [process] aihm_2010-01-26_9580-03.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      aihm_2010-01-26_9580-03.md -> aihm_2010-01-26_9580-03.metadata.json (19.8s)
+INFO: [metadata] [process] aihm_2023-10-10_58811-18.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      aihm_2023-10-10_58811-18.md -> aihm_2023-10-10_58811-18.metadata.json (24.1s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md -> anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.metadata.json (30.1s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md -> anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.metadata.json (27.4s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md -> anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.metadata.json (22.2s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md -> anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.metadata.json (26.4s)
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md -> anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.metadata.json (26.7s)
+INFO: [metadata] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_5_daire_2022-03-07_2017-6736_2022-748.md -> danistay_5_daire_2022-03-07_2017-6736_2022-748.metadata.json (22.6s)
+INFO: [metadata] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_6_daire_2021-12-27_2018-5135_2021-14464.md -> danistay_6_daire_2021-12-27_2018-5135_2021-14464.metadata.json (24.7s)
+INFO: [metadata] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_ibk_idari_2021_6_2022_2.md -> danistay_ibk_idari_2021_6_2022_2.metadata.json (19.9s)
+INFO: [metadata] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md -> danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.metadata.json (22.6s)
+INFO: [metadata] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_iddk_idari_1999_953_1999_889.md -> danistay_iddk_idari_1999_953_1999_889.metadata.json (12.7s)
+INFO: [metadata] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md -> danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.metadata.json (23.0s)
+INFO: [metadata] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md -> danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.metadata.json (19.4s)
+INFO: [metadata] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md -> diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.metadata.json (19.3s)
+INFO: [metadata] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md -> istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.metadata.json (16.3s)
+INFO: [metadata] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md -> istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.metadata.json (17.5s)
+INFO: [metadata] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md -> istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.metadata.json (12.6s)
+INFO: [metadata] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md -> istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.metadata.json (21.7s)
+INFO: [metadata] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md -> kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.metadata.json (16.1s)
+INFO: [metadata] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      uyusmazlik_2003-06-16_2002-18_2003-32.md -> uyusmazlik_2003-06-16_2002-18_2003-32.metadata.json (20.2s)
+INFO: [metadata] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md -> yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.metadata.json (26.7s)
+INFO: [metadata] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md -> yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.metadata.json (24.9s)
+INFO: [metadata] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md -> yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.metadata.json (20.4s)
+INFO: [metadata] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md -> yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.metadata.json (21.3s)
+INFO: [metadata] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md -> yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.metadata.json (30.7s)
+INFO: [metadata] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md -> yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.metadata.json (29.9s)
+INFO: [metadata] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_ibhgk_hukuk_1974_1_1974_2.md -> yargitay_ibhgk_hukuk_1974_1_1974_2.metadata.json (24.4s)
+INFO: [metadata] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [metadata] [ok]      yargitay_yibbgk_hukuk_2016_6_2017_5.md -> yargitay_yibbgk_hukuk_2016_6_2017_5.metadata.json (23.7s)
+INFO: [metadata] Done — ok=29 truncated=0 invalid_json=0 errors=0 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: [summary] to_process=29  skipped=0  prompt=extract_summary.md
+INFO: [summary] Anthropic backend (model=claude-haiku-4-5-20251001)
+INFO: [summary] [process] aihm_2010-01-26_9580-03.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      aihm_2010-01-26_9580-03.md -> aihm_2010-01-26_9580-03.summary.json (6.0s)
+INFO: [summary] [process] aihm_2023-10-10_58811-18.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      aihm_2023-10-10_58811-18.md -> aihm_2023-10-10_58811-18.summary.json (5.9s)
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md -> anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.summary.json (6.8s)
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md -> anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.summary.json (5.9s)
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md -> anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.summary.json (6.8s)
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md -> anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.summary.json (6.8s)
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md -> anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.summary.json (5.8s)
+INFO: [summary] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_5_daire_2022-03-07_2017-6736_2022-748.md -> danistay_5_daire_2022-03-07_2017-6736_2022-748.summary.json (6.3s)
+INFO: [summary] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_6_daire_2021-12-27_2018-5135_2021-14464.md -> danistay_6_daire_2021-12-27_2018-5135_2021-14464.summary.json (5.4s)
+INFO: [summary] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_ibk_idari_2021_6_2022_2.md -> danistay_ibk_idari_2021_6_2022_2.summary.json (4.8s)
+INFO: [summary] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md -> danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.summary.json (6.5s)
+INFO: [summary] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_iddk_idari_1999_953_1999_889.md -> danistay_iddk_idari_1999_953_1999_889.summary.json (3.3s)
+INFO: [summary] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md -> danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.summary.json (6.3s)
+INFO: [summary] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md -> danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.summary.json (4.5s)
+INFO: [summary] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md -> diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.summary.json (6.0s)
+INFO: [summary] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md -> istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.summary.json (4.6s)
+INFO: [summary] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md -> istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.summary.json (4.3s)
+INFO: [summary] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md -> istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.summary.json (4.6s)
+INFO: [summary] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md -> istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.summary.json (6.3s)
+INFO: [summary] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md -> kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.summary.json (4.9s)
+INFO: [summary] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      uyusmazlik_2003-06-16_2002-18_2003-32.md -> uyusmazlik_2003-06-16_2002-18_2003-32.summary.json (5.5s)
+INFO: [summary] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md -> yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.summary.json (6.4s)
+INFO: [summary] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md -> yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.summary.json (7.0s)
+INFO: [summary] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md -> yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.summary.json (6.0s)
+INFO: [summary] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md -> yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.summary.json (6.4s)
+INFO: [summary] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md -> yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.summary.json (5.9s)
+INFO: [summary] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md -> yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.summary.json (7.9s)
+INFO: [summary] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_ibhgk_hukuk_1974_1_1974_2.md -> yargitay_ibhgk_hukuk_1974_1_1974_2.summary.json (6.2s)
+INFO: [summary] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+INFO: [summary] [ok]      yargitay_yibbgk_hukuk_2016_6_2017_5.md -> yargitay_yibbgk_hukuk_2016_6_2017_5.summary.json (4.4s)
+INFO: [summary] Done — ok=29 truncated=0 invalid_json=0 errors=0 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: [citations_decisions] to_process=0  skipped=29  prompt=extract_cited_court_decisions.md
+INFO: [citations_decisions] Done — ok=0 truncated=0 invalid_json=0 errors=0 skipped=29
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: [citations_laws] to_process=1  skipped=28  prompt=extract_cited_law_articles.md
+INFO: [citations_laws] Anthropic backend (model=claude-haiku-4-5-20251001)
+INFO: [citations_laws] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+ERROR: [citations_laws] [truncated] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md: model hit max_output_tokens (19298 chars produced) — saving raw output
+INFO: [citations_laws] Done — ok=0 truncated=1 invalid_json=0 errors=0 skipped=28
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: Merge-only mode — intermediate=/Users/cagdas/Documents/GitHub/GraphRAG/eval/runs/claude-haiku/_stages  output=/Users/cagdas/Documents/GitHub/GraphRAG/eval/runs/claude-haiku
+INFO: [merge] aihm_2010-01-26_9580-03: complete (all 4 stages)
+INFO: [merge] aihm_2023-10-10_58811-18: complete (all 4 stages)
+WARNING: [merge] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332: partial — present=['metadata', 'summary', 'citations_decisions'] missing=['citations_laws']
+INFO: [merge] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130: complete (all 4 stages)
+INFO: [merge] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657: complete (all 4 stages)
+INFO: [merge] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278: complete (all 4 stages)
+INFO: [merge] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121: complete (all 4 stages)
+INFO: [merge] danistay_5_daire_2022-03-07_2017-6736_2022-748: complete (all 4 stages)
+INFO: [merge] danistay_6_daire_2021-12-27_2018-5135_2021-14464: complete (all 4 stages)
+INFO: [merge] danistay_ibk_idari_2021_6_2022_2: complete (all 4 stages)
+INFO: [merge] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867: complete (all 4 stages)
+INFO: [merge] danistay_iddk_idari_1999_953_1999_889: complete (all 4 stages)
+INFO: [merge] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744: complete (all 4 stages)
+INFO: [merge] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749: complete (all 4 stages)
+INFO: [merge] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639: complete (all 4 stages)
+INFO: [merge] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474: complete (all 4 stages)
+INFO: [merge] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209: complete (all 4 stages)
+INFO: [merge] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478: complete (all 4 stages)
+INFO: [merge] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204: complete (all 4 stages)
+INFO: [merge] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122: complete (all 4 stages)
+INFO: [merge] uyusmazlik_2003-06-16_2002-18_2003-32: complete (all 4 stages)
+INFO: [merge] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538: complete (all 4 stages)
+INFO: [merge] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969: complete (all 4 stages)
+INFO: [merge] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239: complete (all 4 stages)
+INFO: [merge] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398: complete (all 4 stages)
+INFO: [merge] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779: complete (all 4 stages)
+INFO: [merge] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846: complete (all 4 stages)
+INFO: [merge] yargitay_ibhgk_hukuk_1974_1_1974_2: complete (all 4 stages)
+INFO: [merge] yargitay_yibbgk_hukuk_2016_6_2017_5: complete (all 4 stages)
+INFO: Merge done — merged=29 complete=28 partial=1 empty=0

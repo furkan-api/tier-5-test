@@ -1,0 +1,4 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md",
+  "summary": "Davacı şirket, yapı ruhsatı ve tapu kayıtlarında "büro" olarak görünen ancak fiilen konut olarak inşa edilip satılan bağımsız bölümler için yüklenilen KDV'nin indirimli oran üzerinden iadesini talep etmiştir. Vergi idaresi bu talebi, resmi belgelerde taşınmazların "iş yeri" olarak nitelendirilmesi nedeniyle reddetmiş, ilk derece mahkemesi ve Bölge İdare Mahkemesi ise fiili kullanım esasını kabul ederek iadeye hükmetmiştir. Danıştay Vergi Dava Daireleri Kurulu, KDV oranının belirlenmesinde taşınmazın fiili kullanımının değil, yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilindeki hukuki durumunun esas alınması gerektiğini belirtmiştir. Bu doğrultuda, "büro-ofis-iş yeri" olarak tescilli taşınmazların konut olarak kullanılması durumunda dahi indirimli KDV oranının uygulanamayacağına karar vererek Bölge İdare Mahkemesi'nin ısrar kararını bozmuştur."
+}

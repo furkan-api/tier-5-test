@@ -1,0 +1,96 @@
+{
+  "file": "yargitay_ibhgk_hukuk_1974_1_1974_2.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Hukuk Genel Kurulu",
+  "case_number": "1974/1",
+  "decision_number": "1974/2",
+  "decision_date": "1974-04-01",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "İçtihatları Birleştirme Büyük Genel Kurulu kararları kesindir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı tasarruflar nedeniyle saklı pay sahibi olsun ya da olmasın tüm mirasçıların Borçlar Kanununun 18. maddesine dayanarak iptal davası açabileceklerine oyçokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Muhalif görüş, muvazaalı tasarruflar nedeniyle iptal davası açabilme hakkının saklı pay sınırını aşan tasarruflarda ve saklı pay sahiplerinin tenkis davası yoluyla sınırlı olması gerektiğini, miras bırakanın salt tasarruf hakkına saygı ilkesinin korunması gerektiğini savunmaktadır.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı tasarrufların iptaline ilişkin mirasçıların dava hakkı",
+  "keywords": [
+    "muvazaa",
+    "tenkis davası",
+    "miras hakkı",
+    "saklı pay",
+    "tasarruf iptali",
+    "borçlar kanunu 18. madde",
+    "medeni kanun 507. madde",
+    "gizli akit",
+    "tapu sicili",
+    "mirasçı haklari"
+  ],
+  "legal_issues": [
+    "Miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı tasarruflar nedeniyle saklı pay sahibi olmayan mirasçılar da Borçlar Kanununun 18. maddesine dayanarak iptal davası açabilir mi?",
+    "Borçlar Kanununun 18. maddesine dayanan muvazaa davası ile Medeni Kanunun 507. maddesine dayanan tenkis davası arasında hangisi öncelikli olarak uygulanır?",
+    "Tapu sicilinde kayıtlı taşınmaz malın görünüşte satış, gerçekte hibe biçiminde yapılan muvazaalı işlemde gizli hibenin geçerliliği için biçim koşulu gerekli midir?",
+    "Miras bırakanın muvazaalı tasarrufla taşınmazı iade etmekten ayrık tutması Medeni Kanunun 603. maddesinin 2. fıkrası kapsamında değerlendirilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "muvazaa",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı tasarrufların Borçlar Kanununun 18. maddesine göre iptal edilebilirliğinin belirlenmesidir."
+    },
+    {
+      "concept": "tenkis davası",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tenkis davası hakkı saklı pay sahiplerine tanınan ayrı bir hak olarak ele alınmış, muvazaa davası hakkıyla ilişkisi tartışılmıştır."
+    },
+    {
+      "concept": "saklı pay",
+      "role": "uygulanan",
+      "context_in_reasoning": "Saklı pay hakkı mirasçıların miras bırakanın tasarruflarına karşı korunması için öngörülen bir hak olarak, muvazaa davası açabilme hakkının kapsamını belirlemede kullanılmıştır."
+    },
+    {
+      "concept": "gizli akit",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tapu memuru önünde satış biçiminde açıklanan irade ile gerçekte yapılmak istenen hibe arasındaki ilişkide, gizli aktin geçerliliği için biçim koşulunun gerçekleşmesi gerektiği yorumlanmıştır."
+    },
+    {
+      "concept": "külli halef",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mirasçıların miras bırakanın külli halefi olarak muvazaa davası açabilme hakkı, miras bırakanın kendisinin açabileceği davaya paralel olarak tanınmıştır."
+    },
+    {
+      "concept": "borçlar kanunu genel hükümleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Medeni Kanunun 5. maddesine göre Borçlar Kanununun genel hükümleri miras hukuku alanında da uygulanması gerektiği ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "ölenin son arzularına saygı ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Miras hukuku ilkesi olarak ölenin son arzularına saygı, ancak hukuka uygun tasarruflar için söz konusu olduğu belirtilerek, muvazaalı tasarruflara karşı mirasçıların dava hakkını engellememesi gerektiği sonucuna varılmıştır."
+    },
+    {
+      "concept": "medeni kanun 603. madde",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Medeni Kanunun 603. maddesinin geçerli tasarruflara karşı mirasçıların miras payını koruyan bir hüküm olduğu, geçersiz tasarruflara karşı uygulanmayacağı belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı tasarruflar nedeniyle saklı pay sahibi olmayan mirasçılar da Borçlar Kanununun 18. maddesine dayanarak iptal davası açabilir mi?",
+    "rule": "Medeni Kanunun 5. maddesine göre Borçlar Kanununun genel hükümleri miras hukuku alanında da uygulanır. Borçlar Kanununun 18. maddesine dayanan muvazaa davası ile Medeni Kanunun 507. maddesine dayanan tenkis davası ayrı ayrı hukuk müesseseleridir. Muvazaalı işlemde gizli aktin geçerliliği için biçim koşulunun gerçekleşmesi zorunludur.",
+    "application": "Miras bırakanın tapu sicilinde kayıtlı taşınmazı tapu memuru önünde satış biçiminde açıklamış olduğunun gerçekleşmediği hallerde, saklı pay sahibi olsun ya da olmasın miras hakkı çiğnenen tüm mirasçılar, görünürdeki satış sözleşmesinin muvazaalı olduğunu ve gizli bağış sözleşmesinin şekil koşulundan yoksun bulunduğunu ileri sürerek dava açabilir.",
+    "conclusion": "Saklı pay sahibi olsun ya da olmasın miras hakkı çiğnenen tüm mirasçılar Borçlar Kanununun 18. maddesine dayanarak muvazaalı tasarrufların iptalini isteyebilir ve bu dava hakkı geçerli sözleşmeler için söz konusu olan Medeni Kanunun 507. ve 603. maddelerinin sağladığı haklara etkili olmaz."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "miras bırakan",
+      "mirasçı",
+      "tapu sicil memuru",
+      "alıcı"
+    ],
+    "context": "Bir kimsenin tapu sicilinde kayıtlı taşınmaz malı hakkında mirasçısını miras hakkından yoksun etmek amacıyla tasarrufta bulunması.",
+    "trigger": "Miras bırakanın tapu memuru önünde iradesini satış biçiminde açıklamış olduğunun gerçekleşmediği halde, gerçekte bağışlamak istediği taşınmazın muvazaalı olarak satılması.",
+    "claim": "Mirasçıların muvazaalı satış sözleşmesinin iptalini ve taşınmazın iade edilmesini isteme hakkı."
+  }
+}

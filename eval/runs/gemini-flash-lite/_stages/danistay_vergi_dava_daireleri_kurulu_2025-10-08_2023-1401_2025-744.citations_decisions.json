@@ -1,0 +1,25 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md",
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay Dördüncü Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2019/284",
+      "decision_number": "2023/1058",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Bölge İdare Mahkemesi kararını bozmuştur."
+    },
+    {
+      "court": "Danıştay Vergi Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2023/1146",
+      "decision_number": "2024/1008",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu sicilinde 'apart tatil ünitesi' tescilli taşınmazın konut teslimi sayılmayacağına dair karar."
+    }
+  ]
+}

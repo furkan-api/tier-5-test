@@ -1,0 +1,168 @@
+{
+  "file": "istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md",
+  "court_type": "Bölge İdare Mahkemesi",
+  "court": "İstanbul Bölge İdare Mahkemesi 6. Vergi Dava Dairesi",
+  "case_number": "2025/2172",
+  "decision_number": "2025/2209",
+  "decision_date": "2025-05-14",
+  "decision_type": "İstinaf",
+  "is_final": false,
+  "finality_basis": "Karar, 2577 sayılı Kanun m.46/b uyarınca tebliğ tarihini izleyen günden itibaren 30 gün içinde Danıştay'a temyiz yolu açık olmak üzere verilmiştir.",
+  "decision_outcome": "Kısmen Kabul",
+  "decision_outcome_raw": "Danıştay 3. Dairesi'nin bozma kararına uyularak davanın kısmen kabulüne, ödeme emrinin kurum geçici vergisi asıllarına ilişkin kısımlarının iptaline, geri kalan amme alacaklarına ilişkin iptal isteminin reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Ödeme Emrinin İptali İstemi (Elektronik Tebligatın Geçerliliği ve Mahsup Süresi Sonrası Geçici Vergi Tarhiyatı)",
+  "summary": "Davacı şirket adına düzenlenen ödeme emrinin iptali istemiyle açılan davada, ilk derece mahkemesi mükellefiyet kaydı resen terk edilen şirkete elektronik tebligat yapılamayacağı gerekçesiyle davayı kabul etmiş, Daire istinaf başvurusunu reddetmiş, ancak Danıştay 3. Dairesi kararı bozmuştur. Bozmaya uyulmak suretiyle yapılan yeniden incelemede; ticaret sicil kaydı silinmediği sürece elektronik tebligat adresinin kapatılamayacağı ve 15/06/2022 tarihli elektronik tebligatın usulüne uygun olduğu, dolayısıyla ödeme emrine konu alacakların kesinleştiği belirlenmiştir. Bununla birlikte, mahsup süresi geçtikten sonra terkin edilmesi gereken kurum geçici vergisi asıllarına ilişkin kısımda hukuka uygunluk bulunmadığından dava kısmen kabul, kısmen reddedilmiştir.",
+  "keywords": [
+    "ödeme emri",
+    "elektronik tebligat",
+    "vuk 107/a",
+    "resen terk",
+    "mükellefiyet kaydı",
+    "kurum geçici vergisi",
+    "mahsup süresi",
+    "gvk mükerrer 120",
+    "6183 sayılı kanun",
+    "amme alacağının kesinleşmesi"
+  ],
+  "legal_issues": [
+    "Mükellefiyet kaydı resen terk edilen ancak ticaret sicil kaydı silinmemiş olan tüzel kişiye 213 sayılı Kanun'un 107/A maddesi uyarınca elektronik tebligat yapılabilir mi?",
+    "Mahsup süresi geçtikten sonra kesinleşen kurum geçici vergisi asılları için ödeme emri düzenlenebilir mi?",
+    "6183 sayılı Kanun'un 58. maddesi kapsamında dava sebebi olarak ileri sürülemeyen iddialar ödeme emrinin iptali davasında dikkate alınabilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "elektronik tebligat",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Tüzel kişinin ticaret sicil kaydı silinmediği sürece elektronik tebligat adresinin kapatılamayacağı yorumuyla 213 sayılı Kanun m.107/A uyarınca yapılan tebligatın usulüne uygun olduğuna karar verilmiştir."
+    },
+    {
+      "concept": "resen terk",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Mükellefiyet kaydının resen terk edilmiş olması, ticaret sicil kaydı silinmediği için elektronik tebligat adresinin kapatılması sonucunu doğurmadığından tebligatın geçersizliği gerekçesi reddedilmiştir."
+    },
+    {
+      "concept": "amme alacağının kesinleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhbarnamelerin usulüne uygun tebliğiyle dava açılmaksızın kesinleşen amme alacağına dayalı ödeme emrinin kurum geçici vergisi asılları dışındaki kısımlarında hukuka aykırılık bulunmadığı sonucuna varılmıştır."
+    },
+    {
+      "concept": "mahsup süresi geçtikten sonra geçici verginin terkini",
+      "role": "uygulanan",
+      "context_in_reasoning": "GVK mükerrer m.120/3 uyarınca mahsup süresi geçtikten sonra kesinleşen geçici vergi asıllarının terkin edilmesi gerektiği, bunlar için ödeme emri düzenlenemeyeceği gerekçesiyle ödeme emrinin bu kısmı iptal edilmiştir."
+    },
+    {
+      "concept": "ödeme emrine itiraz sebepleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının ileri sürdüğü iddiaların 6183 sayılı Kanun m.58'de sayılan sınırlı dava sebepleri arasında yer almadığı belirlenerek bu iddialar reddedilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Mükellefiyet kaydı resen terk edilen ancak ticaret sicili kaydı silinmemiş olan tüzel kişiye yapılan elektronik tebligat geçerli midir ve mahsup süresi geçtikten sonra kesinleşen kurum geçici vergisi asılları için ödeme emri düzenlenebilir mi?",
+    "rule": "213 sayılı VUK m.107/A ve 456 sıra nolu VUK Genel Tebliği uyarınca tüzel kişilerin elektronik tebligat adresi yalnızca ticaret sicil kaydının silindiği tarih itibarıyla kapatılır; 193 sayılı GVK mükerrer m.120/3 uyarınca mahsup süresi geçtikten sonra kesinleşen geçici vergi asılları terkin edilir, yalnızca gecikme faizi ve ceza tahsil edilir; 6183 sayılı Kanun m.58'de ödeme emrine karşı dava sebepleri sınırlı sayıda belirlenmiştir.",
+    "application": "Davacının ticaret sicil kaydı silinmediğinden 15/06/2022 tarihli elektronik tebligat usulüne uygundur ve dava açılmaksızın amme alacağı kesinleşmiştir; dava dilekçesindeki iddialar 58. madde kapsamı dışındadır. Ancak mahsup süresi geçtikten sonra salınan kurum geçici vergisi asıllarının terkin edilmesi gerekirken tahakkuk ettirilip ödeme emrine konu edilmesi hukuka aykırıdır.",
+    "conclusion": "Bozma kararına uyulmasına, davanın kısmen kabulüne, ödeme emrinin kurum geçici vergisi asıllarına ilişkin kısımlarının iptaline, diğer amme alacaklarına ilişkin kısımları yönünden iptal isteminin reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı şirket",
+      "davalı vergi idaresi"
+    ],
+    "context": "Mükellefiyet kaydını 31/03/2021 tarihinde sonlandıran anonim şirket adına vergi ve cezalara ilişkin ihbarnamelerin 15/06/2022 tarihinde elektronik tebligatla tebliğ edilmesinin ardından düzenlenen ödeme emri.",
+    "trigger": "Davalı idarece 14/10/2022 tarihli ödeme emrinin düzenlenip davacıya tebliğ edilmesi.",
+    "claim": "Davacı, ödeme emrinin iptali istemiyle dava açmış; idare ise tebligatın ve tarhiyatların hukuka uygun şekilde kesinleştiğini ileri sürmüştür."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "İstanbul 7. Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2022/2767",
+      "decision_number": "2023/786",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Bozma sonrası yeniden inceleme konusu yapılan ve elektronik tebligatın geçersizliği gerekçesiyle davanın kabulüne hükmeden ilk derece kararıdır."
+    },
+    {
+      "court": "İstanbul Bölge İdare Mahkemesi 6. Vergi Dava Dairesi",
+      "cited_court_type": "Bölge İdare Mahkemesi",
+      "case_number": "2023/3667",
+      "decision_number": "2023/3908",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Dairenin önceki istinaf kararı olup Danıştay 3. Dairesi tarafından bozulması üzerine dosya yeniden ele alınmıştır."
+    },
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2023/10645",
+      "decision_number": "2025/1689",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Dairenin önceki istinaf kararını bozan ve mevcut yeniden inceleme kararına uyulmasına dayanak oluşturan temyiz mercii kararıdır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "93-109",
+      "context": "Tebliğ esasları, muhatapları ve usullerine ilişkin genel düzenlemeler somut olayda tebligatın geçerliliğinin değerlendirilmesinde dayanak olarak kullanılmıştır."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "107/A",
+      "context": "Elektronik ortamda tebliğ usulünü düzenleyen hüküm uyarınca davacıya yapılan elektronik tebligatın usulüne uygun olduğu sonucuna ulaşılmıştır."
+    },
+    {
+      "law": "Vergi Usul Kanunu Genel Tebliği (456 sıra nolu)",
+      "law_number": null,
+      "article": "7",
+      "context": "Tüzel kişilerde elektronik tebligat adresinin yalnızca ticaret sicil kaydının silindiği tarih itibarıyla kapatılacağı düzenlemesi, mükellefiyetin resen terkine rağmen tebligatın geçerli sayılmasının dayanağıdır."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "55",
+      "context": "Vadesinde ödenmeyen amme alacakları için ödeme emri düzenlenmesinin yasal dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "58",
+      "context": "Ödeme emrine karşı sınırlı dava sebeplerini belirleyen hüküm uyarınca davacının iddialarının bu kapsamda yer almadığı saptanmıştır."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu",
+      "law_number": "193",
+      "article": "mükerrer 120",
+      "context": "Mahsup süresi geçtikten sonra kesinleşen geçici vergi asıllarının terkin edilmesi gerektiği kuralı, kurum geçici vergisi asıllarına ilişkin ödeme emrinin iptalinin temel dayanağıdır."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "46/b",
+      "context": "Verilen kararın temyiz yolunun açık olduğunun belirtilmesinde usuli dayanak olarak kullanılmıştır."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "13/j",
+      "context": "Davalı idarenin harçtan muaf olduğunun ve harçların davacıdan tahsili gerektiğinin gerekçesi olarak anılmıştır."
+    }
+  ]
+}

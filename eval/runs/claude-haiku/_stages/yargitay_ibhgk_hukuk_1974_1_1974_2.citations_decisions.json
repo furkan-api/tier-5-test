@@ -1,0 +1,65 @@
+{
+  "file": "yargitay_ibhgk_hukuk_1974_1_1974_2.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1964/6411",
+      "decision_number": "1964/6298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Muvazaa ve tenkis davası hakkı konusunda aykırı içtihat."
+    },
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1973/528",
+      "decision_number": "1973/5437",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Muvazaa ve tenkis davası hakkı konusunda aykırı içtihat."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1960/2",
+      "decision_number": "1960/24",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mirasçıların muvazaalı tasarrufları iptal etme hakkı konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1968/1510",
+      "decision_number": "1968/99",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mirasçıların muvazaalı tasarrufları iptal etme hakkı konusunda emsal karar."
+    },
+    {
+      "court": "Yargıtay İçtihatları Birleştirme",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1953/8",
+      "decision_number": "1953/7",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gizli aktin biçim koşulu gerçekleşmediğinde geçersizliği konusunda içtihat."
+    },
+    {
+      "court": "Yargıtay İçtihatları Birleştirme",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1957/12",
+      "decision_number": "1957/2",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Distinguishes",
+      "context": "Şufa hakkı ile ilgili gizli akit geçerliliği konusunda içtihat."
+    }
+  ]
+}

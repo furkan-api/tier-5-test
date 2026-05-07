@@ -1,0 +1,85 @@
+{
+  "file": "kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/5582",
+      "decision_number": "2018/2478",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/4-1008",
+      "decision_number": "2014/490",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/19-374",
+      "decision_number": "2018/943",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 4. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/2705",
+      "decision_number": "2014/165",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Haksız ihtiyati haciz ve kişilik hakları ihlali nedeniyle tazminat davası hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 11. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/14880",
+      "decision_number": "2016/9206",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sahte senet nedeniyle hukuk ve ceza mahkemesi kararlarının etkisi hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1026",
+      "decision_number": "2015/1765",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ticari dava niteliğinin belirlenmesi hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay 19. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2016/17318",
+      "decision_number": "2018/1926",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Zamanaşımına uğramış kambiyo senedine dayalı takibe itirazın iptali davasında görev hakkında emsal karar."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1947/25",
+      "decision_number": "1948/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vekalet ücretinin tahsili hakkında emsal karar."
+    }
+  ]
+}

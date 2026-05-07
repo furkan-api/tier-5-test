@@ -9,6 +9,7 @@ class Settings(BaseSettings):
     milvus_uri: str = "http://10.20.47.192:19530"
     openai_api_key: str = ""
     gemini_api_key: str = ""
+    anthropic_api_key: str = ""
     embedding_base_url: str | None = None
     embedding_model: str = "gemini-embedding-2-preview"
     embedding_dimension: int = 3072

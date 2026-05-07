@@ -1,0 +1,620 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2014/11657",
+  "decision_number": null,
+  "decision_date": "2017-06-22",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Temyiz karar harcının hatalı hesaplanması nedeniyle başvurucu aleyhine fazladan hükmedilen 21.235,66 TL yönünden mahkemeye erişim hakkının ihlal edildiğine, diğer şikâyetlerin kabul edilemez olduğuna ve yeniden yargılama yapılmak üzere dosyanın Yargıtay 14. Hukuk Dairesine gönderilmesine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Tapu İptali ve Tescil Davasında Hesaplanan Harç ve Vekâlet Ücreti Nedeniyle Mülkiyet ve Mahkemeye Erişim Haklarının İhlali İddiası",
+  "summary": "Başvurucu, taşınmaz satış vaadi sözleşmesine dayanılarak aleyhine açılan tapu iptali ve tescil davasında sözleşme bedelinin lehine depo edilmesine, ancak harç ve vekâlet ücretinin taşınmazın gerçek bedeli üzerinden hesaplanmasına ve temyiz karar harcının yanlış hesaplanmasına yönelik şikâyetlerle mülkiyet hakkının ihlal edildiğini ileri sürmüştür. Anayasa Mahkemesi; satış bedeli, ilk derece harç ve vekâlet ücreti ile harcın ayrı ayrı hükmedilmemesine ilişkin şikâyetleri kabul edilemez bulmuş; ancak Yargıtay'ın temyiz karar harcını taşınmazın değerinin tamamı yerine başvurucunun hissesi (1/3) üzerinden hesaplaması gerekirken üçte iki üzerinden hesaplamasını 492 sayılı Kanun'un açık lafzına aykırı ve bariz hata olarak değerlendirmiş, fazladan hükmedilen 21.235,66 TL yönünden mahkemeye erişim hakkının ihlal edildiğine ve yeniden yargılama yapılmasına karar vermiştir.",
+  "keywords": [
+    "mülkiyet hakkı",
+    "mahkemeye erişim hakkı",
+    "taşınmaz satış vaadi sözleşmesi",
+    "tapu iptali ve tescil",
+    "karar ve ilam harcı",
+    "temyiz karar harcı",
+    "nispi harç",
+    "vekâlet ücreti",
+    "devletin pozitif yükümlülükleri",
+    "müteselsil sorumluluk",
+    "bariz takdir hatası",
+    "kanunilik unsuru"
+  ],
+  "legal_issues": [
+    "Taşınmaz satış vaadi sözleşmesine dayalı tapu iptali ve tescil davasında sözleşmedeki bedelin mi yoksa taşınmazın gerçek bedelinin mi malike depo ettirilmesi gerektiğine ilişkin yargısal yorum mülkiyet hakkını ihlal eder mi?",
+    "Aleyhine harca hükmedilen birden fazla davalı bakımından mahkemenin müteselsil sorumluluğa karar vermemiş olması durumunda her davalı kendi hissesine isabet eden harçtan mı sorumlu olur ve bu durumda mağdur sıfatı bulunur mu?",
+    "Tapu iptali ve tescil davasında temyiz karar harcının davalının hissesine isabet eden değer yerine taşınmazın değerinin üçte ikisi üzerinden hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "Dava değerinin yaklaşık %18,5'ine tekabül eden harç ve vekâlet ücreti yükü mahkemeye erişim hakkına ölçüsüz bir müdahale oluşturur mu?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mahkemeye erişim hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Temyiz karar harcının kanuna aykırı şekilde fazla hesaplanması mahkemeye erişim hakkına müdahale olarak değerlendirilmiş ve ihlal sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "devletin pozitif yükümlülükleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Özel kişiler arasındaki sözleşme ihtilafına ilişkin yargısal sürecin mülkiyet hakkı bakımından devletin pozitif yükümlülükleri çerçevesinde incelenmesi gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "kanunilik unsuru",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargıtay'ın 492 sayılı Kanun'un açık lafzına aykırı şekilde başvurucunun hissesinin iki katı üzerinden harç hesaplaması, müdahalenin kanunilik unsurunu taşımadığı sonucuna gerekçe yapılmıştır."
+    },
+    {
+      "concept": "bariz takdir hatası",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargıtay'ın temyiz karar harcı hesaplaması kanunun açık hükmüne aykırılık taşıdığından bariz hata içerdiği değerlendirilmiştir."
+    },
+    {
+      "concept": "müteselsil sorumluluk",
+      "role": "yorumlanan",
+      "context_in_reasoning": "6098 sayılı Kanun m.162 ve 6100 sayılı Kanun m.326 birlikte yorumlanarak, mahkemece açıkça müteselsil sorumluluğa hükmedilmediği takdirde her davalının kendi hissesine isabet eden harçtan sorumlu olacağı sonucuna varılmıştır."
+    },
+    {
+      "concept": "sözleşme özgürlüğü",
+      "role": "tartışılan",
+      "context_in_reasoning": "Tarafların özgür iradeleriyle belirledikleri satış bedeline kamunun adalet düşüncesiyle dahi müdahale edemeyeceği, sözleşmedeki bedele öncelik tanınmasının mülkiyet hakkını ihlal etmediği değerlendirilmiştir."
+    },
+    {
+      "concept": "dördüncü derece şikâyeti",
+      "role": "reddedilen",
+      "context_in_reasoning": "Bakanlığın satış bedelinin belirlenmesine ilişkin iddianın dördüncü derece şikâyeti olduğu yönündeki görüşü doğrultusunda derece mahkemelerinin yorum yetkisine müdahale edilmemiştir."
+    },
+    {
+      "concept": "mağdur sıfatı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Karar ve ilam harcının ayrı ayrı hükmedilmemesi şikâyetinde, başvurucunun fiilen kendi hissesinden fazlasını ödemek zorunda kalmadığı gerekçesiyle mağdur sıfatı taşımadığı sonucuna ulaşılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Tapu iptali ve tescil davasında temyiz karar harcının davalının hissesine isabet eden değer yerine taşınmazın değerinin üçte ikisi üzerinden hesaplanması mahkemeye erişim hakkını ihlal eder mi?",
+    "rule": "492 sayılı Harçlar Kanunu m.15-16 ve (1) sayılı Tarife uyarınca tapu iptali ve tescil davalarında karar ve ilam harcı ile temyiz karar harcı, davanın değeri üzerinden binde 68,31 oranında hesaplanır; davalının hissesine isabet eden değer kendi yönünden davanın değerini oluşturur. Mahkemeye erişim hakkına müdahalenin kanunilik unsurunu taşıması zorunludur.",
+    "application": "1/3 hisse sahibi başvurucu yönünden davanın değeri 310.872 TL olduğu hâlde Yargıtay temyiz karar harcını taşınmazın değerinin üçte ikisi olan 621.744 TL üzerinden hesaplayarak başvurucu aleyhine 42.471,26 TL'ye hükmetmiş; bu hesaplama Kanun'un açık lafzına aykırı düşmüş ve bariz hata oluşturmuştur.",
+    "conclusion": "Fazladan hükmedilen 21.235,66 TL temyiz karar harcı yönünden müdahale kanunilik unsurunu taşımadığından Anayasa m.36'da güvence altına alınan mahkemeye erişim hakkı ihlal edilmiş ve yeniden yargılama yapılmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu (davalı hissedar)",
+      "vaat alacaklısı (davacı kardeş)",
+      "diğer hissedar",
+      "ilk derece mahkemesi"
+    ],
+    "context": "Üç kardeşin 1/3'er hisseli paydaşı olduğu taşınmazda iki paydaşın hisselerini noter düzenlemeli satış vaadi sözleşmesiyle 5.000 TL'ye diğer kardeşe satmayı taahhüt etmesi.",
+    "trigger": "Vaat alacaklısı kardeşin sözleşme bedelinin ödendiğini ispatlayamamasına rağmen tapu iptali ve tescil davası açması ve bilirkişi tarafından taşınmazın değerinin 932.616 TL olarak tespit edilmesi üzerine bu değer üzerinden harç ve vekâlet ücretine hükmedilmesi.",
+    "claim": "Satış bedelinin gerçek değer üzerinden belirlenmesi, harcın ayrı ayrı hükmedilmesi, harç ve vekâlet ücretinin sözleşme bedeli üzerinden hesaplanması ve temyiz karar harcının hissesi gözetilerek belirlenmesi gerektiği iddialarıyla mülkiyet hakkı ihlali tespiti."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-692",
+      "decision_number": "2006/702",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapu iptali ve tescil davalarında harcın taşınmazın rayiç değeri üzerinden alınması gerektiğine ilişkin içtihat olarak gerekçeye dayanak yapılmıştır."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2006/14-91",
+      "decision_number": "2006/115",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Satış vaadi sözleşmesinden doğan tapu iptali ve tescil davalarında harcın taşınmazın rayiç değeri üzerinden hesaplanacağı yönünde emsal içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/10774",
+      "decision_number": "2015/10298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Sözleşme tarihi ile dava tarihi arasında uzun süre geçmesi hâlinde semenin güncellenmesi gerektiğine ilişkin daire içtihadını yansıtan emsal karar olarak aktarılmıştır."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/5689",
+      "decision_number": "2017/7082",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış vaadi sözleşmesinde ödenmeyen bedel için rayiç değere oranlama yapılarak depo ettirme yöntemine ilişkin daire uygulamasını gösteren emsal karar olarak anılmıştır."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/14923",
+      "decision_number": "2014/2015",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış vaadi sözleşmesinde ödenmeyen kısmın güncellenmiş değerinin depo ettirilmesine ilişkin daire içtihadına örnek olarak gösterilmiştir."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/8956",
+      "decision_number": "2015/9538",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Satış bedelinin ödendiği ispatlanamadığında dava tarihindeki rayiç değer üzerinden depo ettirme yapılması gerektiğine ilişkin daire içtihadını gösteren emsal karar olarak aktarılmıştır."
+    },
+    {
+      "court": "Yargıtay 14. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/15692",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İhlal",
+      "treatment": null,
+      "context": "Bireysel başvuruya konu temyiz incelemesini yapan ve hatalı temyiz karar harcına hükmeden daire olup yeniden yargılama için dosyanın gönderildiği mercidir."
+    },
+    {
+      "court": "Vezirköprü 1. Asliye Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2009/317",
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Kısmen İhlal",
+      "treatment": null,
+      "context": "Tapu iptali ve tescil davasını kabul eden ilk derece mahkemesi olup kararın bir örneği bilgi için gönderilmiştir."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11441",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahmut Duran ve diğerleri kararı, mülk kavramının kapsamına ilişkin genel ilkelerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1035",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Türkiye Emekliler Derneği kararı, özel kişiler arası uyuşmazlıklarda devletin pozitif yükümlülüklerine ilişkin ilkelerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/8649",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Osmanoğlu İnşaat kararı, mülkiyet hakkına özel kişilerce yapılan müdahalelerde devletin pozitif yükümlülüklerine ilişkin ilkelerin dayanağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11410",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Selahattin Turan kararı, devletin etkili hukuksal çerçeve oluşturma yükümlülüğüne ilişkin ilkelerin kaynağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/817",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mehmet Akdoğan ve diğerleri kararı, mülkiyet hakkının kapsamına ilişkin tanımın dayanağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/1546",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Recep Tarhan ve Afife Tarhan kararı, mülkiyet hakkına müdahale kavramına ilişkin ilkelerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/7051",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tülay Arslan ve diğerleri kararı, mal varlığında azalma doğuran işlemlerin mülkiyet hakkına müdahale teşkil ettiğine ilişkin ilkenin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1977",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Onur Doğanay kararı, bireysel başvuruda kişi yönünden yetki ön koşullarına ilişkin ilkelerin kaynağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/144",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ahmet Yıldırım kararı, mahkemeye erişim hakkının adil yargılanma hakkının güvenceleri arasında yer aldığına ilişkin ilkenin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/791",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Özkan Şen kararı, mahkemeye erişim hakkı ile harç ve vekâlet ücreti yükümlülükleri arasındaki ölçülülük denetimine ilişkin ilkelerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/3351",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ahmet Sağlam kararı, derece mahkemelerinin yorum yetkisi ve bariz takdir hatası denetimine ilişkin ilkelerin kaynağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/11994",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Süleyman Oktay Uras ve Sevtap Uras kararı, derece mahkemelerinin hukuk kurallarını yorumlamasında AYM'nin denetim sınırına ilişkin ilkelerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "54522/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kotov/Rusya kararı, mülkiyet hakkının pozitif yükümlülükler içermesine ilişkin uluslararası içtihat olarak alıntılanmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "48939/99",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Öneryıldız/Türkiye kararı, mülkiyet hakkı kapsamında pozitif yükümlülüklerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "31443/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Broniowski/Polonya kararı, mülkiyetten yararlanmaya ilişkin pozitif yükümlülüklerin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "44971/04",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Dzugayeva/Rusya kararı, mülkiyet hakkı bağlamında pozitif yükümlülüklere ilişkin AİHM içtihadına örnek olarak anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "70930/01",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Blumberga/Litvanya kararı, özel kişiler arası müdahalelerde devletin koruyucu ve düzeltici yükümlülüklerinin kaynağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1061",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ş.Ç. kararı, mahkemeye erişim hakkının kapsamı ve sınırlandırılma ölçütlerine ilişkin yerleşik içtihatta dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/5033",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hüseyin Dayan kararı, mahkemeye erişim hakkına ilişkin sınırlandırmaların kanunilik, ölçülülük ve hakkın özünü zedelememe ölçütlerinin dayanağı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/711",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kenan Yıldırım ve Turan Yıldırım kararı, mahkemeye erişim hakkının uyuşmazlığı mahkeme önüne taşıma ve etkili karara bağlanmasını isteme boyutuna ilişkin ilkelerin dayanağıdır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/1052",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İbrahim Can Kişi kararı, mahkemeye başvuruyu anlamsız hâle getiren sınırlamaların hak ihlaline yol açabileceği ilkesi için anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1613",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Serkan Acar kararı, mahkemeye erişim hakkına ilişkin sınırlandırmaların kanuna dayanma, hakkın özünü zedelememe, meşru amaç ve ölçülülük kriterlerinin dayanağı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/39",
+      "decision_number": "2015/62",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mülkiyet hakkının varlığı/kapsamı bağlamında AYM norm denetimi içtihadına dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2011/33",
+      "decision_number": "2012/54",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün korunması ve etkili güvenceler bağlamında AYM norm denetimi içtihadı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2010/83",
+      "decision_number": "2012/169",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Temel hak ve özgürlüklerin sınırlandırılma ölçütlerine ilişkin AYM norm denetimi içtihadına dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/108",
+      "decision_number": "2013/64",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim ve hak arama özgürlüğüne ilişkin sınırlandırma ölçütleri bağlamında AYM norm denetimi içtihadı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/64",
+      "decision_number": "2013/142",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama hürriyetinin korunmasına ilişkin AYM norm denetimi içtihadına dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/95",
+      "decision_number": "2014/176",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkı ve sınırlandırma ölçütlerine ilişkin AYM norm denetimi içtihadı olarak alıntılanmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/96",
+      "decision_number": "2016/9",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama hürriyetinin etkili güvenceler içermesi bağlamında AYM norm denetimi içtihadına dayanak yapılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/40",
+      "decision_number": "2013/139",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünün caydırıcı sonuçlardan korunması gerekliliğine ilişkin AYM norm denetimi içtihadı olarak anılmıştır."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/177",
+      "decision_number": "2015/49",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemeye erişim hakkına yapılan müdahalelerin meşru amaç ve ölçülülük denetimine ilişkin AYM norm denetimi içtihadına dayanak yapılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkını güvence altına alan hüküm, başvurucunun mülkiyet hakkı şikâyetlerinin değerlendirilmesinde temel norm olarak kullanılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti ve adil yargılanma hakkını düzenleyen hüküm, mahkemeye erişim hakkı ihlalinin anayasal dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve özgürlüklerin sınırlanmasına ilişkin genel ilkeler, mahkemeye erişim hakkına yapılan müdahalenin denetiminde ölçü norm olarak alınmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "40",
+      "context": "Temel hak ve özgürlüklerin korunması bakımından hak arama özgürlüğünün önemine ilişkin değerlendirmede atıf yapılmıştır."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "15",
+      "context": "Yargı harçlarının nispi veya maktu esas üzerinden alınacağına ilişkin temel kural, harç hesaplamasının kanuni çerçevesini oluşturmuştur."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "16",
+      "context": "Tapu iptali ve tescil gibi gayrimenkulün aynına taallük eden davalarda gayrimenkulün değerinin esas alınacağına ilişkin hüküm, harca esas değerin belirlenmesinde uygulanmıştır."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "(1) sayılı Tarife",
+      "context": "Konusu belli bir değerle ilgili davalarda binde 68,31 oranında karar ve ilam harcı alınacağı ve bu oranın Yargıtay tasdik kararları için de aynen uygulanacağı kuralı, temyiz karar harcının doğru hesaplanmasında ölçü olarak kullanılmıştır."
+    },
+    {
+      "law": "Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "6101",
+      "article": "1",
+      "context": "Sözleşmenin akdedildiği tarihte yürürlükte bulunan 818 sayılı mülga Borçlar Kanunu'nun olaya uygulanacağının dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Borçlar Kanunu (mülga)",
+      "law_number": "818",
+      "article": "81",
+      "context": "Karşılıklı taahhütlü akitlerde ifa talebinde bulunanın kendi borcunu ifa etmiş veya teklif etmiş olması gerektiğine ilişkin hüküm, satış bedelinin depo ettirilmesinin gerekçesi olarak uygulanmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "326",
+      "context": "Aleyhine hüküm verilen birden fazla kişi arasında yargılama giderlerinin paylaştırılması veya müteselsil sorumluluğa hükmedilmesine ilişkin düzenleme, harcın ayrı ayrı hükmedilmemesi şikâyetinin değerlendirilmesinde uygulanmıştır."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "162",
+      "context": "Müteselsil borçluluğun ancak iradi bildirim veya kanun hükmüyle doğacağına ilişkin düzenleme, mahkeme kararında müteselsil sorumluluğa hükmedilmediği takdirde her davalının kendi hissesi oranında sorumlu olacağı sonucunun dayanağı olmuştur."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "46",
+      "context": "Bireysel başvuru hakkına sahip olanların güncel ve kişisel hakkı doğrudan etkilenenler olduğuna ilişkin hüküm, harcın ayrı hükmedilmemesi şikâyetinde mağdur sıfatının değerlendirilmesinde uygulanmıştır."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50",
+      "context": "İhlal kararı sonrasında yeniden yargılama yapılması ve tazminat hükümlerinin dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "Ek 1 No.lu Protokol m.1",
+      "context": "Mülkiyetin barışçıl kullanımına ilişkin uluslararası güvence, devletin pozitif yükümlülükleri çerçevesindeki değerlendirmenin uluslararası hukuk dayanağı olarak alıntılanmıştır."
+    },
+    {
+      "law": "Tapu Kanunu",
+      "law_number": "2644",
+      "article": "29",
+      "context": "Taşınmaz satış vaadi sözleşmelerinin yasal dayanağı olarak, sözleşmenin geçerliliğinin değerlendirilmesinde anılmıştır."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "237",
+      "context": "Taşınmaz satış vaadi sözleşmesinin Türk Borçlar Kanunundaki temel hükmü olarak tapu iptali ve tescil yargısının yasal çerçevesini oluşturmuştur."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "706",
+      "context": "Taşınmaz mülkiyetinin devrinde resmi şekil zorunluluğunu düzenleyen hüküm, satış vaadi sözleşmesinin geçerliliğinin yasal çerçevesinde anılmıştır."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "716",
+      "context": "Vaat alacaklısının tapu iptali ve tescil davası açma hakkının yasal dayanağıdır; sözleşmedeki edimin yerine getirilmemesi hâlinde bu yola başvurulacağı değerlendirilmiştir."
+    },
+    {
+      "law": "Noterlik Kanunu",
+      "law_number": "1512",
+      "article": "89",
+      "context": "Taşınmaz satış vaadi sözleşmesinin noterde resmî şekilde düzenlenmesi zorunluluğunun yasal dayanağıdır."
+    },
+    {
+      "law": "Borçlar Kanunu (mülga)",
+      "law_number": "818",
+      "article": "97",
+      "context": "Karşılıklı taahhütlü akitlerde alacaklının ifa talebinde bulunma şartlarına ilişkin hüküm, satış bedelinin depo ettirilmesi yükümlülüğüne ilişkin değerlendirmede uygulanmıştır."
+    }
+  ]
+}

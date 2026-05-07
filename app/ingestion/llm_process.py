@@ -41,6 +41,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import re
 import sys
 import time
 from dataclasses import dataclass
@@ -302,6 +303,32 @@ class OpenAICompatibleExtractor:
         return ExtractResult(text=choice.message.content or "", truncated=truncated)
 
 
+class AnthropicExtractor:
+    """Anthropic Claude client via the `anthropic` SDK."""
+
+    def __init__(self, *, api_key: str, model: str, system_prompt: str):
+        import anthropic
+        self._client = anthropic.Anthropic(api_key=api_key)
+        self._model = model
+        self._system_prompt = system_prompt
+
+    def extract(self, *, filename: str, body: str) -> ExtractResult:
+        user_message = f"Filename: {filename}\n\n---\n\n{body}"
+        response = self._client.messages.create(
+            model=self._model,
+            max_tokens=8096,
+            temperature=0,
+            system=self._system_prompt,
+            messages=[{"role": "user", "content": user_message}],
+        )
+        truncated = (response.stop_reason == "max_tokens")
+        text = response.content[0].text if response.content else ""
+        # Strip markdown code fences Claude sometimes adds despite instructions
+        text = re.sub(r"^```(?:json)?\s*", "", text.strip(), flags=re.IGNORECASE)
+        text = re.sub(r"\s*```$", "", text.strip())
+        return ExtractResult(text=text, truncated=truncated)
+
+
 # ---------------------------------------------------------------------------
 # Per-stage configuration resolution
 # ---------------------------------------------------------------------------
@@ -345,7 +372,7 @@ def resolve_stage_config(
 
 def build_extractor(stage: Stage, cfg: dict[str, Any], settings: Settings,
                     system_prompt: str):
-    """Choose the right backend based on whether a base URL is configured."""
+    """Choose backend: OpenAI-compat (base_url set) > Anthropic > Gemini."""
     if cfg["base_url"]:
         api_key = cfg["api_key"] or settings.gemini_api_key
         log.info("[%s] OpenAI-compatible backend: %s (model=%s)",
@@ -354,10 +381,17 @@ def build_extractor(stage: Stage, cfg: dict[str, Any], settings: Settings,
             api_key=api_key, base_url=cfg["base_url"],
             model=cfg["model"], system_prompt=system_prompt,
         )
+    api_key = cfg["api_key"] or ""
+    if (api_key or settings.anthropic_api_key) and (cfg["model"] or "").startswith("claude"):
+        key = api_key if api_key else settings.anthropic_api_key
+        log.info("[%s] Anthropic backend (model=%s)", stage.name, cfg["model"])
+        return AnthropicExtractor(
+            api_key=key, model=cfg["model"], system_prompt=system_prompt,
+        )
     if not settings.gemini_api_key:
         raise RuntimeError(
-            f"[{stage.name}] No --base-url set and GEMINI_API_KEY missing — "
-            "cannot pick a backend. Set one of them in .env or on the CLI."
+            f"[{stage.name}] No backend configured — set GEMINI_API_KEY, "
+            "ANTHROPIC_API_KEY with a claude-* model, or --base-url."
         )
     log.info("[%s] Native Gemini backend (model=%s)", stage.name, cfg["model"])
     return GeminiExtractor(

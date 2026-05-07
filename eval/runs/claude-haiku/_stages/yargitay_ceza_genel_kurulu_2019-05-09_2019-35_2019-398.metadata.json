@@ -1,0 +1,91 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Ceza Genel Kurulu",
+  "case_number": "2019/35",
+  "decision_number": "2019/398",
+  "decision_date": "2019-05-09",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "Ceza Genel Kurulu direnme incelemesi kararı HMK m.373/5 uyarınca kesindir.",
+  "decision_outcome": "Direnme Yerinde Görülmedi",
+  "decision_outcome_raw": "Yargıtay Cumhuriyet Başsavcılığının itirazının değişik gerekçeyle kabulüne, Yargıtay 14. Ceza Dairesinin onama kararının kaldırılmasına ve sanığın tahliyesine karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Beş üye Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davadan haberdar edilmesinin zorunlu olmadığını, üç üye ise sanığın tahliye edilmemesi gerektiğini savunmuştur.",
+  "appellants": [
+    "Cumhuriyet savcısı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "Cumhuriyet savcısı",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Çocuğun basit cinsel istismarı suçundan mahkûmiyet hükmünün kesinleşmesi ve sanığın tahliyesi",
+  "keywords": [
+    "çocuğun basit cinsel istismarı",
+    "aile içi şiddet",
+    "kadına karşı şiddet",
+    "bakanlığın davaya katılma hakkı",
+    "hak arama hürriyeti",
+    "adil yargılanma",
+    "tebliğ",
+    "temyiz süresi",
+    "tahliye",
+    "6284 sayılı kanun"
+  ],
+  "legal_issues": [
+    "Aile, Çalışma ve Sosyal Hizmetler Bakanlığının 6284 sayılı Kanun uyarınca çocuğun cinsel istismarı suçundan açılan kamu davasından haberdar edilmesi zorunlu mudur?",
+    "Bakanlığa davadan haberdar edilmeden verilen hükmün gerekçeli kararı tebliğ edilmeden temyiz incelemesi yapılabilir mi?",
+    "Hükmün kesinleştiği inancıyla çıkartılan yakalama kararı üzerine ceza infaz kurumuna alınan sanık, temyiz hakkı tüketilmeden tahliye edilebilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "bakanlığın davaya katılma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "6284 sayılı Kanun m.20/2 ve Uygulama Yönetmeliği m.46 uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının çocuğa yönelik şiddet suçlarından açılan kamu davalarına katılma hakkı bulunmakta ve bu hak uluslararası sözleşmeler ile Anayasa'nın pozitif ayrımcılık ilkesine dayanmaktadır."
+    },
+    {
+      "concept": "hak arama hürriyeti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa m.36 ve m.40 uyarınca hak arama hürriyeti, davaya katılma hakkı bulunan Bakanlığın davadan haberdar edilmesi ve gerekçeli kararın tebliğ edilmesi yoluyla sağlanması gerekmektedir."
+    },
+    {
+      "concept": "tebliğ",
+      "role": "uygulanan",
+      "context_in_reasoning": "CMK m.35 uyarınca temyiz kanun yoluna başvuru hakkı bulunanların kararı tefhim veya tebliğ yoluyla öğrenmelerinin sağlanması kanuni bir mecburiyettir."
+    },
+    {
+      "concept": "temyiz süresi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Yoklukta kurulan hükmün temyiz hakkı olanlara usulüne uygun tebliğ edilmediği hallerde temyiz süresinin işlemeye başlamayacağı ve temyiz etme ihtimali tüketilmeden temyiz incelemesi yapılamayacağı ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "tahliye",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tutuksuz yargılanırken hükmün kesinleştiği inancıyla çıkartılan yakalama kararı üzerine ceza infaz kurumuna alınan sanık, temyiz hakkı tüketilmediğinden tahliye edilmelidir."
+    },
+    {
+      "concept": "çocuğun cinsel istismarı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Eylem basit cinsel istismar mı yoksa sarkıntılık suçu mu olduğu hususunda Cumhuriyet Başsavcılığı itirazında tartışılmış, ancak Ceza Genel Kurulu bu konuda nihai karar vermemiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığının 6284 sayılı Kanun uyarınca çocuğun cinsel istismarı suçundan açılan kamu davasından haberdar edilmesi ve gerekçeli kararın tebliğ edilmesi zorunlu mudur?",
+    "rule": "6284 sayılı Kanun m.20/2 ve Uygulama Yönetmeliği m.46 uyarınca Aile, Çalışma ve Sosyal Hizmetler Bakanlığının çocuğa yönelik şiddet suçlarından açılan kamu davalarına katılma hakkı bulunmaktadır. CMK m.234/1-b uyarınca davaya katılma hakkı bulunan kişilerin duruşmadan haberdar edilmesi ve CMK m.35 uyarınca gerekçeli kararın tebliğ edilmesi kanuni mecburiyettir. Hak arama hürriyeti ve pozitif ayrımcılık ilkesi uyarınca Bakanlığın davadan haberdar edilmesi ve kanun yollarına başvurma hakkı kullandırılması gerekmektedir.",
+    "application": "Somut olayda Aile, Çalışma ve Sosyal Hizmetler Bakanlığı davadan haberdar edilmemiş, duruşma davetiyesi çıkarılmamış ve gerekçeli karar tebliğ edilmemiştir. Bu nedenle Bakanlığın kanundan kaynaklanan davaya katılma ve kanun yollarına başvurma haklarını kullanma imkânı kısıtlanmıştır.",
+    "conclusion": "Yargıtay Cumhuriyet Başsavcılığının itirazı değişik gerekçeyle kabul edilmiş, Yargıtay 14. Ceza Dairesinin onama kararı kaldırılmış ve sanığın tahliyesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "sanık",
+      "mağdure",
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı"
+    ],
+    "context": "Fırın işletmecisi sanık tarafından çalışan mağdureye karşı işyerinde cinsel dokunulmazlığa karşı suç işlenmiştir.",
+    "trigger": "Sanığın mağdureyi köşe odaya gönderdikten sonra memesine dokunması ve kasıklarına dokunmak istemesi olayı.",
+    "claim": "Sanığın çocuğun basit cinsel istismarı suçundan cezalandırılması talep edilmiştir."
+  }
+}

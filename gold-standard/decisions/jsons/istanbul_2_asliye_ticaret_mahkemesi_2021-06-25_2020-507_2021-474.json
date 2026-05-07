@@ -1,0 +1,191 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "court_type": "İlk Derece Hukuk",
+  "court": "İstanbul 2. Asliye Ticaret Mahkemesi",
+  "case_number": "2020/507",
+  "decision_number": "2021/474",
+  "decision_date": "2021-06-25",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": "Karar, taraflara HMK m.341 uyarınca İstanbul BAM nezdinde istinaf yolu açık olarak verilmiştir.",
+  "decision_outcome": "Kabul",
+  "decision_outcome_raw": "Davanın kabulü ile davacının 48.212,80 TL alacağının müflis bankanın iflas dosyasında sıra cetveline kayıt ve kabulüne karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "İflas Tasfiyesinde Düzenlenen Sıra Cetveline İtiraz ve Yargı Harcı Alacağının Kayıt Kabulü",
+  "summary": "Davacı kamu idaresi, müflis bankaya sehven iade edilen yargı harçlarına ilişkin 48.212,80 TL kamu alacağının iflas masasına kaydı talebinin iflas idaresince reddi üzerine sıra cetveline itiraz davası açmıştır. Mahkeme, vergi yargısında yapılan yargılama sonucunda müflis bankanın dava konusu dönemde yargı harçlarından muaf olmadığının kesinleşmiş kararla tespit edildiğini, dava konusu alacağın 6183 sayılı Kanun kapsamında kamu alacağı niteliğinde olduğunu ve iflas idaresinin kural olarak kamu alacaklarını reddetme yetkisinin bulunmadığını belirlemiştir. Bu nedenle davanın kabulüne ve davacının alacağının sıra cetveline kayıt ve kabulüne karar verilmiştir.",
+  "keywords": [
+    "sıra cetveline itiraz",
+    "kayıt kabul davası",
+    "iflas masası",
+    "kamu alacağı",
+    "yargı harcı",
+    "harç muafiyeti",
+    "iik 235",
+    "harçlar kanunu 123",
+    "tmsf",
+    "müflis banka",
+    "hak düşürücü süre"
+  ],
+  "legal_issues": [
+    "İflas idaresi, kamu alacağı niteliğindeki yargı harcı alacağının iflas masasına kayıt talebini reddetme yetkisine sahip midir?",
+    "Sıra cetveline itiraz davası, sıra cetvelinin son ilan tarihinden itibaren 15 günlük hak düşürücü süre içinde açılmış sayılır mı?",
+    "492 sayılı Harçlar Kanunu m.123/3'te 6322 sayılı Kanunla yapılan değişiklik sonrasında müflis banka yargı harçlarından muaf mıdır?",
+    "Vergi yargısında müflis banka aleyhine kesinleşen karar, iflas tasfiyesinde alacağın varlığı bakımından bağlayıcı mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "sıra cetveline itiraz",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davanın hukuki dayanağı İİK m.235 olup uyuşmazlık iflas idaresince reddedilen alacağın sıra cetveline kayıt kabulüne ilişkindir."
+    },
+    {
+      "concept": "kamu alacağı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargı harcı alacağı 6183 sayılı Kanun kapsamında kamu alacağı sayılarak iflas idaresinin red yetkisinin bulunmadığı sonucuna ulaşılmıştır."
+    },
+    {
+      "concept": "harç muafiyeti",
+      "role": "reddedilen",
+      "context_in_reasoning": "Müflis bankanın yargı harçlarından muaf olduğu iddiası, Harçlar K. m.123/3'teki 6322 sayılı Kanun değişikliği sonrası vergi yargısı kararıyla reddedilmiştir."
+    },
+    {
+      "concept": "hak düşürücü süre",
+      "role": "tartışılan",
+      "context_in_reasoning": "İİK m.235'teki 15 günlük hak düşürücü süre değerlendirilmiş, davanın son ilan tarihinden itibaren süresinde açıldığı tespit edilmiştir."
+    },
+    {
+      "concept": "iflas idaresinin yetkisi",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Yerleşik içtihat uyarınca iflas idaresinin kamu alacaklarına ilişkin kayıt taleplerini reddetme yetkisinin bulunmadığı, ancak kayıttan sonra dava açabileceği vurgulanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Vergi yargısında müflis banka aleyhine kesinleşen yargı harcı alacağı, kamu alacağı niteliğiyle iflas masasına kayıt edilmek zorunda mıdır?",
+    "rule": "İİK m.235 uyarınca sıra cetveline itiraz davası açılabilir; 6183 sayılı AATUHK kapsamındaki kamu alacaklarında iflas idaresinin reddetme yetkisi bulunmayıp alacağı sıra cetveline kaydettikten sonra ancak yetkili yargı merciinde dava açabilir.",
+    "application": "Müflis bankaya sehven iade edilen yargı harçlarının kamu alacağı niteliği taşıdığı, vergi yargısında verilen ve müflis aleyhine kesinleşen kararla bankanın Harçlar K. m.123/3'teki 6322 sayılı Kanun değişikliği sonrasında harçtan muaf olmadığının saptandığı, davanın da hak düşürücü süre içinde açıldığı belirlenmiştir.",
+    "conclusion": "Davacı kamu idaresinin 48.212,80 TL alacağının iflas masasında sıra cetveline kayıt ve kabulüne karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı kamu idaresi",
+      "müflis banka",
+      "iflas idaresi",
+      "TMSF"
+    ],
+    "context": "Faaliyet izni kaldırılarak iflasına karar verilen bir bankanın TMSF eliyle yürütülen iflas tasfiyesi sürecinde kamu alacağı niteliğindeki yargı harçlarının kayıt kabulü uyuşmazlığı.",
+    "trigger": "Müflis bankaya sehven iade edilen yargı harçlarının iadesi talebinin iflas idaresince reddedilmesi ve davacının sıra cetveline itiraz davası açması.",
+    "claim": "48.212,80 TL tutarındaki yargı harcı alacağının iflas masasına kaydedilmesi ve sıra cetveline dahil edilmesi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "İstanbul 1. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2017/41",
+      "decision_number": "2017/942",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Müflis bankanın iflasına karar veren ve iflas tasfiyesinin temelini oluşturan karar olarak anılmıştır."
+    },
+    {
+      "court": "İstanbul 2. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2018/836",
+      "decision_number": "2019/41",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Aynı uyuşmazlıkta önceki dosyada yargı yolu caiz olmadığından dava şartı yokluğu nedeniyle usulden ret kararı verilmiş, Uyuşmazlık Mahkemesi kararı sonrası dosya yeniden esasa kaydedilmiştir."
+    },
+    {
+      "court": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": "2019/1481",
+      "decision_number": "2019/1559",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Mahkemenin görevsizlik kararına karşı yapılan istinaf başvurularını esastan ve kesin olarak reddeden BAM kararıdır."
+    },
+    {
+      "court": "Uyuşmazlık Mahkemesi",
+      "cited_court_type": "Uyuşmazlık Mahkemesi",
+      "case_number": "2020/345",
+      "decision_number": "2020/412",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null,
+      "context": "Olumsuz görev uyuşmazlığında adli yargının görevli olduğuna ve mahkemenin görevsizlik kararının kaldırılmasına hükmederek davanın yeniden esasa kaydedilmesine yol açmıştır."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2015/2239",
+      "decision_number": "2019/1830",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Müflis bankanın 6322 sayılı Kanun değişikliği sonrası yargı harçlarından muaf olmadığını saptayan ve vergi mahkemesi kararını bozan bu ilam, alacağın varlığının dayanağı olarak esas alınmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "235",
+      "context": "Sıra cetveline itiraz davasının hukuki dayanağı ve 15 günlük hak düşürücü süreye ilişkin düzenleme olarak uygulanmıştır."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106",
+      "context": "Müflis bankanın doğrudan iflas yoluyla iflasına karar verilmesinin yasal dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "107",
+      "context": "Müflis bankanın faaliyet izninin kaldırılmasının dayanağı olan hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "140",
+      "context": "Davalı iflas idaresinin harçtan muaf tutulmasının dayanağı olarak uygulanmıştır."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123/3",
+      "context": "Müflis bankanın yargı harcı muafiyetine ilişkin tartışmanın merkezindeki hüküm olup 6322 sayılı Kanun değişikliği sonrası muafiyetin kalktığı tespit edilmiştir."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": null,
+      "context": "Dava konusu yargı harcı alacağının kamu alacağı niteliğinde olduğunun tespitinde dayanak alınmıştır."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": null,
+      "context": "Olumsuz görev uyuşmazlığının çözümü ve Uyuşmazlık Mahkemesi kararının bağlayıcılığı yönünden uygulanmıştır."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "341",
+      "context": "Karara karşı istinaf yolunun açık olduğunun bildirilmesinin dayanağı olarak gösterilmiştir."
+    },
+    {
+      "law": "Gelir Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "law_number": "6322",
+      "article": "19",
+      "context": "Harçlar K. m.123/3'te 15/06/2012 tarihinde yapılan değişiklikle bankaların yargı harcı muafiyetinin kaldırılmasının yasal dayanağıdır."
+    }
+  ]
+}

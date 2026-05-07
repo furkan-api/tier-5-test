@@ -1,0 +1,298 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay 5. Daire",
+  "case_number": "2017/6736",
+  "decision_number": "2022/748",
+  "decision_date": "2022-03-07",
+  "decision_type": "Temyiz",
+  "is_final": false,
+  "finality_basis": "Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca belirlenen … TL vekâlet ücretinin davacıdan alınarak davalı idareye verilmesine, Bu kararın tebliğ tarihini izleyen 30 (otuz) gün içerisinde Danıştay İdari Dava Daireleri Kuruluna temyiz yolu açık olmak üzere, 07/03/2022 tarihinde oybirliğiyle karar verildi.",
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Davacının meslekte kalmasının uygun olmadığına ve meslekten çıkarılmasına ilişkin kararın iptali istemi yönünden davanın reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "davacı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Askeri hakimlerin FETÖ ile iltisak ve irtibatı nedeniyle meslekten çıkarılmasına ilişkin kararın iptali istemi.",
+  "keywords": [
+    "askeri hakim",
+    "meslekten çıkarma",
+    "FETÖ",
+    "iltisak",
+    "irtibat",
+    "olağanüstü hal",
+    "kanun hükmünde kararname",
+    "adil yargılanma hakkı",
+    "özel hayatın gizliliği",
+    "makul sürede yargılanma",
+    "sıkıyönetim görevlendirme listesi",
+    "ankesörlü telefon"
+  ],
+  "legal_issues": [
+    "667 sayılı KHK uyarınca oluşturulan komisyonun bağımsızlığı ve tarafsızlığı Anayasa ve AİHS'e uygun mudur?",
+    "Davacının FETÖ ile iltisak ve irtibatını gösteren deliller (sıkıyönetim görevlendirme listesi, ankesörlü telefon kayıtları) hukuka uygun olarak elde edilmiş ve değerlendirilmiş midir?",
+    "Davacının meslekten çıkarılmasına ilişkin karar, özel hayata saygı hakkı ve adil yargılanma hakkı çerçevesinde hukuka uygun mudur?",
+    "Olağanüstü hal tedbirleri kapsamında alınan kararların kişiselleştirme ilkesine uygunluğu nasıl değerlendirilmelidir?",
+    "Dava konusu kararın dayanağı olan KHK'nın Anayasa'ya aykırı olduğu iddiası ciddi midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "iltisak ve irtibat",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, davacının FETÖ/PDY terör örgütü ile iltisak ve irtibatının bulunup bulunmadığının tespiti ve bunun meslekten çıkarma kararı için yeterli olup olmadığının değerlendirilmesidir."
+    },
+    {
+      "concept": "olağanüstü hal tedbirleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu karar, 15 Temmuz darbe girişimi sonrası ilan edilen olağanüstü hal kapsamında çıkarılan KHK'lar uyarınca alınmış bir tedbir niteliğindedir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davacının savunmasının alınmadığı, bireyselleştirme yapılmadığı iddiaları adil yargılanma hakkı kapsamında tartışılmıştır."
+    },
+    {
+      "concept": "özel hayata saygı hakkı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Meslekten çıkarılma kararının özel hayata saygı hakkı üzerindeki etkileri AİHS ve Anayasa çerçevesinde değerlendirilmiştir."
+    },
+    {
+      "concept": "bağımsızlık ve tarafsızlık",
+      "role": "tartışılan",
+      "context_in_reasoning": "667 sayılı KHK ile oluşturulan komisyonun bağımsızlığı ve tarafsızlığı, özellikle başkanının Milli Savunma Bakanı olması ve üyelerinin geçmişi bağlamında tartışılmıştır."
+    },
+    {
+      "concept": "sıkıyönetim mahkemeleri görevlendirme listesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının bu listede askeri hakim olarak görevlendirilmiş olması, FETÖ ile iltisak ve irtibatına delil olarak sunulmuştur."
+    },
+    {
+      "concept": "ankesörlü telefon görüşmeleri",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davacının ankesörlü/sabit hatlardan yaptığı ardışık ve periyodik aramalar, FETÖ ile irtibatına delil olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "demokratik anayasal düzene sadakat yükümlülüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yargı mensuplarının anayasal düzene sadakat yükümlülüğünü ihlal eden davranışlarının meslekten çıkarılmayı gerektirdiği vurgulanmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davacının FETÖ ile iltisak ve irtibatı nedeniyle meslekten çıkarılmasına ilişkin kararın hukuka uygun olup olmadığı.",
+    "rule": "667 sayılı KHK'nın ilgili maddeleri uyarınca, terör örgütleri ile iltisak veya irtibatı olduğu değerlendirilen askeri hakimler hakkında meslekte kalmalarının uygun olmadığına ve meslekten çıkarılmalarına karar verilebileceği; bu kararların olağanüstü tedbir niteliğinde olduğu ve somut delillerle desteklenmesi gerektiği.",
+    "application": "Davacının sıkıyönetim mahkemeleri görevlendirme listesinde yer alması, ankesörlü/sabit hatlardan yaptığı ardışık ve periyodik aramalar ile hakkında alınan beyanlar birlikte değerlendirildiğinde, FETÖ ile iltisak ve irtibatının bulunduğu ve bu nedenle demokratik anayasal düzene sadakat yükümlülüğünü ihlal ettiği sonucuna varılmıştır.",
+    "conclusion": "Davacının FETÖ ile iltisak ve irtibatının bulunduğu ve bu nedenle meslekten çıkarılmasına ilişkin dava konusu kararda hukuka aykırılık görülmediğinden davanın reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "askeri hakim",
+      "Milli Savunma Bakanlığı",
+      "FETÖ",
+      "Danıştay"
+    ],
+    "context": "15 Temmuz 2016 darbe girişimi sonrası FETÖ ile iltisak ve irtibatı olduğu değerlendirilen askeri hakimlerin meslekten çıkarılmasına ilişkin idari işlemler.",
+    "trigger": "Davacının, FETÖ ile iltisak ve irtibatı olduğu gerekçesiyle meslekten çıkarılmasına ilişkin Milli Savunma Bakanlığı Komisyonu kararının tesis edilmesi.",
+    "claim": "Davacının, meslekte kalmasının uygun olmadığına ve meslekten çıkarılmasına ilişkin kararın iptali ile bu kararın dayanağı olan KHK hükmünün Anayasa'ya aykırılığı iddiasıyla iptali talebi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/82",
+      "decision_number": "2014/100",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Askeri hakim subaylar hakkında disiplin cezası verilmesiyle ilgili iptal kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/22169",
+      "decision_number": "2017/12778",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Darbe teşebbüsü şüphelilerinden komiser yardımcısının telefon mesajlarını içeren karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/89",
+      "decision_number": "2019/84",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İltisak ve irtibat kavramlarının tanımını yapan karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/29347",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ imamlarının ankesörlü telefonlarla iletişimini suç belirtisi kabul eden karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "2873/17",
+      "decision_number": "2017-03-07",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yargı mensupları için Danıştay'da dava açma imkanını iç hukuk yolu sayan karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "13710/88",
+      "decision_number": "1992-12-16",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mesleki faaliyetlerin özel hayata saygı hakkı kapsamında olduğunu belirten karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "21794/93",
+      "decision_number": "1996-08-07",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bireylerin ilişki kurma hakkının özel hayata saygı hakkına dahil olduğunu belirten karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55480/00",
+      "decision_number": "2004-07-27",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu çalışanlarının devlete sadakat yükümlülüğünü belirten karar."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "5310/71",
+      "decision_number": "1978-01-18",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ulusun yaşamından sorumlu devlete takdir marjı tanıyan karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/16.MD-956",
+      "decision_number": "2017/370",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün atipik/suigeneris bir terör örgütü olduğunu belirten karar."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/3",
+      "decision_number": "2017/3",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/43",
+      "decision_number": "2020/11",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sıkıyönetim Mahkemeleri Görevlendirme Listesi'nin amacını belirten karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/48",
+      "decision_number": "2020/30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün askeri yargı mahrem yapılanmasına ilişkin değerlendirmeler."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/5526",
+      "decision_number": "2019/6842",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün ankesörlü/sabit hatlardan iletişim yöntemini belirten karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/44",
+      "decision_number": "2019/167",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün ankesörlü/sabit hatlardan iletişim yöntemini belirten karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2020/9.MD-67",
+      "decision_number": "2021/372",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ankesörlü/sabit hatlardan yapılan aramaların hukuki niteliği ve delil değeri."
+    },
+    {
+      "court": "Danıştay 5. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2016/8196",
+      "decision_number": "2016/4066",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "667 sayılı KHK uyarınca meslekten çıkarma kararlarının olağanüstü tedbir niteliği."
+    },
+    {
+      "court": "Mardin 1. İdare Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2018/54",
+      "decision_number": "2018/2159",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu yargılamayı yapan ilk derece idare mahkemesi."
+    },
+    {
+      "court": "Danıştay Onikinci Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Başvuruya konu yargılamada üst mahkeme sıfatıyla yer almıştır."
+    }
+  ]
+}

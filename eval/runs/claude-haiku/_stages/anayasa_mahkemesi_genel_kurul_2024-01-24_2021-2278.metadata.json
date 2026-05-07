@@ -1,0 +1,105 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Birinci Bölüm",
+  "case_number": "2021/2278",
+  "decision_number": null,
+  "decision_date": "2024-01-24",
+  "decision_type": "Bireysel Başvuru",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Mülkiyet hakkının ihlal edildiğine, özel hayata saygı hakkı iddiasının incelenmesine yer olmadığına, yargılamanın yenilenmesine ve tazminat talebinin reddine oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "İdari Hizmet Sözleşmesi Uyarınca Müdür Olarak Görev Yapan Kişinin Memur Pozisyonuna Atanması Sonucu Aylık ve Özlük Haklarında Azalma Nedeniyle Mülkiyet Hakkının İhlali İddiası",
+  "keywords": [
+    "mülkiyet hakkı",
+    "idari hizmet sözleşmesi",
+    "naklen atama",
+    "kazanılmış haklar",
+    "aylık ve özlük hakları",
+    "kanunilik",
+    "ölçülülük",
+    "meşru beklenti",
+    "yönetmelik",
+    "takdir yetkisi",
+    "adil yargılama",
+    "usuli güvence"
+  ],
+  "legal_issues": [
+    "İdari hizmet sözleşmesi ile görev yapan kamu görevlisinin naklen atama sonucu aylık ve özlük haklarında meydana gelen azalma mülkiyet hakkının ihlali oluşturmakta mıdır?",
+    "Yönetmelik hükmüne dayalı olarak yapılan atama işleminin kanuni dayanağı ve kanunilik koşulu sağlanmakta mıdır?",
+    "Atama işleminin orantılılık ilkesi çerçevesinde değerlendirilmesi halinde müdahale ölçülü olmakta mıdır?",
+    "Derece mahkemelerinin başvurucunun kazanılmış haklara ilişkin iddialarını yeterince incelemesi gerekmekte midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni idari işlem sonucu aylık ve özlük haklarında meydana gelen azalmanın Anayasa m.35 kapsamında korunan mülkiyet hakkının ihlali oluşturup oluşturmadığının belirlenmesidir."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "uygulanan",
+      "context_in_reasoning": "İdari hizmet sözleşmesi ile belirlenmiş müdür görevine bağlı aylık ödenmesi yönünde başvurucunun meşru bir beklentisinin bulunduğu kabul edilmiştir."
+    },
+    {
+      "concept": "kanunilik",
+      "role": "tartışılan",
+      "context_in_reasoning": "Atama işleminin dayanağını oluşturan Yönetmelik'in kanuni temeli ve belirliliği sorgulanmış, dayanak Kanun hükmünün yürürlükten kaldırılması nedeniyle kanunilik unsuru tartışılır hale gelmiştir."
+    },
+    {
+      "concept": "ölçülülük ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Müdahalenin elverişliliği ve gerekliliği kabul edilmekle birlikte orantılılık yönünden incelenmesi sonucunda atama işleminin ölçülü olmadığı sonucuna varılmıştır."
+    },
+    {
+      "concept": "kazanılmış haklar",
+      "role": "uygulanan",
+      "context_in_reasoning": "Yönetmelik'in 85. maddesi uyarınca başvurucunun kazanılmış haklarının korunması gerektiği halde atama sonrası ödeme düzeyinde önemli azalma meydana gelmiştir."
+    },
+    {
+      "concept": "usuli güvence",
+      "role": "reddedilen",
+      "context_in_reasoning": "Derece mahkemelerinin başvurucunun atama işleminin kanun dışı veya keyfî olduğu yönündeki savunma ve itirazlarını etkin bir şekilde incelemediği tespit edilmiştir."
+    },
+    {
+      "concept": "takdir yetkisi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Yönetmelik'in 48. maddesi ile idareye verilen takdir yetkisinin ilgili Kanun'un amacını aşar şekilde yorumlanıp yorumlanmadığı incelenmiştir."
+    },
+    {
+      "concept": "adil yargılama hakkı",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Başvurucunun adil yargılanma hakkı ihlali iddiası mülkiyet hakkı ihlali kapsamında incelenmiş, ayrı bir incelemeye yer olmadığı sonucuna varılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İdari hizmet sözleşmesi ile müdür olarak görev yapan başvurucunun memur pozisyonuna atanması sonucu aylık ve özlük haklarında meydana gelen azalma mülkiyet hakkının ihlali oluşturmakta mıdır?",
+    "rule": "Mülkiyet hakkı Anayasa m.35 ile güvence altına alınmış olup bu hakka müdahale ancak kanuna dayanması, kamu yararı amacı taşıması ve ölçülülük ilkesine uyması koşuluyla haklı bir temele oturabilir. Ölçülülük ilkesi elverişlilik, gereklilik ve orantılılık olmak üzere üç alt ilkeden oluşmaktadır. İdari hizmet sözleşmesi ile görev yapan kamu görevlisinin kazanılmış haklarının korunması Yönetmelik'in 85. maddesi ile güvence altına alınmıştır.",
+    "application": "Başvurucunun idari hizmet sözleşmesi ile müdür olarak görev yapması yönünde meşru bir beklentisi bulunmakta ve atama sonrası aylığında 7.160 TL'den 2.351 TL'ye düşüş meydana gelmektedir. Atama işleminin dayanağını oluşturan Yönetmelik'in kanuni temeli tartışmalı hale gelmiş, derece mahkemelerinin başvurucunun kazanılmış haklara ilişkin iddialarını yeterince incelemediği ve atama işleminin somut dayanağı olan olay ve olgularını değerlendirmediği tespit edilmiştir. Müdahalenin elverişli ve gerekli olması kabul edilmekle birlikte orantılılık yönünden ölçülü olmadığı sonucuna varılmıştır.",
+    "conclusion": "Başvurucunun mülkiyet hakkının korunması ile kamunun yararı arasında olması gereken adil dengenin başvurucu aleyhine bozulduğu ve müdahalenin ölçülü olmadığı sonucuna varılarak Anayasa'nın 35. maddesinde güvence altına alınan mülkiyet hakkının ihlal edildiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "KOSGEB",
+      "idare mahkemesi",
+      "bölge idare mahkemesi"
+    ],
+    "context": "Başvurucu idari hizmet sözleşmesi ile KOSGEB bünyesinde 304 puanlı müdür olarak görev yapmaya başlamış, sonrasında daire başkanı pozisyonuna atanmıştır.",
+    "trigger": "KOSGEB tarafından 9/6/2017 tarihinde başvurucunun daire başkanı ve müdür vekili görevlerinden alınarak memur pozisyonuna naklen atanması işlemi yapılmıştır.",
+    "claim": "Atama işleminin iptali ve yoksun kaldığı aylık ve özlük haklarının iadesinin talep edilmesi; başvurucunun aylığının 7.160 TL'den 2.351 TL'ye düşmesi nedeniyle mülkiyet hakkının ihlal edildiğinin iddia edilmesi."
+  }
+}

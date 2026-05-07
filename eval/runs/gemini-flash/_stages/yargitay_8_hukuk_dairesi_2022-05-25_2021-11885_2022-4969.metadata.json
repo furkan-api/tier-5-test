@@ -1,0 +1,117 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay 8. Hukuk Dairesi",
+  "case_number": "2021/11885",
+  "decision_number": "2022/4969",
+  "decision_date": "2022-05-25",
+  "decision_type": "Temyiz",
+  "is_final": false,
+  "finality_basis": "HUMK'un 440/I maddesi gereğince Yargıtay ilamının tebliğinden itibaren 15 gün içinde karar düzeltme isteğinde bulunulabileceğine karar verilmiştir.",
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Davacı-davalı İdaresi, Belediye Başkanlığı ve asli müdahil ... temyiz inceleme istemlerinin reddine, diğer asli müdahiller ve davalı Hazinenin temyiz itirazlarının kabulü ile hükmün bozulmasına oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy, Hisarönü ve Ergös mevkii tapu kayıtlarının sabit hudutlu olmasa da zemine uygulanabilir ve kapsamı tayin edilebilir nitelikte olduğunu, önceki bozma kararının tam olarak yerine getirilmediğini ve Hukuk Genel Kurulu'nun benzer konulardaki kararlarının beklenmesi gerektiğini savunarak çoğunluk görüşüne katılmamıştır.",
+  "appellants": [
+    "davacı-davalı idaresi",
+    "davalı hazine",
+    "asli müdahil",
+    "asli müdahil",
+    "asli müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davacı-davalı idaresi",
+      "result": "ret"
+    },
+    {
+      "role": "Belediye Başkanlığı",
+      "result": "ret"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "ret"
+    },
+    {
+      "role": "asli müdahil",
+      "result": "kabul"
+    },
+    {
+      "role": "davalı hazine",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Kadastro Tespitine İtiraz ve Çiftlik Tapu Kayıtlarının Kapsamının Belirlenmesi",
+  "keywords": [
+    "kadastro",
+    "tapu kaydı",
+    "çiftlik tapusu",
+    "zilyetlik",
+    "arazi kanunnamesi",
+    "gayrisahih vakıf",
+    "sabit hudut",
+    "miktar esası",
+    "orman tahdidi",
+    "bozma kararı",
+    "hukuk genel kurulu",
+    "kadastro kanunu"
+  ],
+  "legal_issues": [
+    "Çiftlik tapu kayıtlarının gayrisabit hudutlu olması durumunda kapsamı nasıl belirlenmelidir?",
+    "Gayrisahih vakıf niteliğindeki çiftlik arazileri Arazi Kanunnamesi m. 20 ve 78 uyarınca zilyetlikle kazanılabilir mi?",
+    "Kadastro Kanunu m. 20/C uyarınca tapu kaydına kapsam tayini için sabit hudut şartı nedir?",
+    "Harici satış sözleşmesi ile devralınan paylar adına tescil edilebilir mi?",
+    "Zilyetlik şartlarının tespiti için hangi deliller ve incelemeler gereklidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "çiftlik tapusu",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, eski çiftlik tapu kayıtlarının hukuki niteliği ve kadastro tespitinde kapsamının nasıl belirleneceğidir."
+    },
+    {
+      "concept": "gayrisahih vakıf",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Vakfın niteliği tartışılarak gayrisahih vakıf olduğu ve miri arazi niteliğindeki taşınmazların zilyetlikle kazanılabileceği kabul edilmiştir."
+    },
+    {
+      "concept": "arazi kanunnamesi m. 20 ve 78",
+      "role": "uygulanan",
+      "context_in_reasoning": "Miri arazinin zilyetlikle kazanılmasına ilişkin Arazi Kanunnamesi'nin ilgili maddelerinin Türk Kanunu Medenisi'nden sonra da yürürlükte olduğu ve uygulanabileceği belirtilmiştir."
+    },
+    {
+      "concept": "sabit hudut",
+      "role": "tartışılan",
+      "context_in_reasoning": "Çiftlik tapu kayıtlarının sınırlarının sabit hudut niteliğinde olup olmadığı ve kapsam tayininde nasıl değerlendirileceği tartışılmıştır."
+    },
+    {
+      "concept": "miktar esası",
+      "role": "uygulanan",
+      "context_in_reasoning": "Gayrisabit hudutlu tapu kayıtlarının sınırları ile değil, miktarı ile geçerli olduğu ilkesi uygulanmıştır."
+    },
+    {
+      "concept": "zilyetlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu kayıtlarına kapsam tayini mümkün olmadığında, 3402 sayılı Kanun'un 14 ve 17. maddeleri gereğince zilyetlikle kazanım şartlarının araştırılması gerektiği belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Gayrisabit hudutlu çiftlik tapu kayıtlarına Kadastro Kanunu m. 20/C uyarınca kapsam tayini mümkün müdür ve zilyetlik şartları nasıl belirlenmelidir?",
+    "rule": "3402 sayılı Kadastro Kanunu'nun 20/C maddesi uyarınca tapu kaydına, ancak birbiriyle çakışan iki sabit hududun bulunması halinde bu hudutlardan başlanmak suretiyle miktarıyla kapsam tayin edilmesi mümkündür. Sabit hudut bulunmadığında kapsam tayini hukuken mümkün değildir. Bu durumda, 3402 sayılı Kanun'un 14 ve 17. maddeleri gereğince zilyetlikle kazanım şartlarının araştırılması gerekir.",
+    "application": "Hisarönü ve Ergös mevkii tapu kayıtlarının sınırlarının tamamının gayrisabit hudutlu olduğu ve sabit bir sınırının bulunmadığı, bu nedenle miktarıyla kapsam tayininin mümkün olmadığı anlaşılmıştır. Ancak, mahkemece katılanlar lehine 3402 sayılı Kanun'un 14 ve 17. madde koşullarının gerçekleşip gerçekleşmediğini saptamak hususunda eksik inceleme yapılmıştır. Ayrıca, harici satış sözleşmesi ile müdahil olanların talepleri hakkında olumlu ya da olumsuz bir karar verilmemiştir.",
+    "conclusion": "Hisarönü ve Ergös mevkii tapu kayıtlarına dayalı davaların reddi gerekirken, eksik inceleme ve karar verilmemesi nedeniyle hükmün bozulmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı idare",
+      "hazine",
+      "asli müdahil",
+      "kadastro mahkemesi"
+    ],
+    "context": "Kadastro tespiti yapılan taşınmazlar üzerinde eski tarihli çiftlik tapu kayıtlarına dayalı mülkiyet iddiaları ve zilyetlik uyuşmazlıkları.",
+    "trigger": "Kadastro tespitine itiraz davası ve önceki Yargıtay bozma kararı sonrası yapılan yargılama.",
+    "claim": "Çiftlik tapu kayıtlarına dayalı olarak taşınmazların davacılar ve pay satın alan müdahiller adına tescili talebi."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "case_number": "2015/1895",
+  "decision_number": "2015/1779",
+  "decision_date": "2015-09-30",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "HMK m.373/5 uyarınca Hukuk Genel Kurulu'nun direnme incelemesi kararları kesindir.",
+  "decision_outcome": "Direnme Yerinde Görüldü",
+  "decision_outcome_raw": "Yerel mahkemenin direnme kararı uygun bulunarak, davalı vekilinin işin esasına yönelik temyiz itirazlarının incelenmesi için dosyanın Özel Daireye gönderilmesine oyçokluğu ile karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy yazısında, davalı kamu kurumunun 4628 sayılı Kanun'un 15. maddesindeki imtiyazdan yararlanarak asıl işin bir kısmını alt işverene verebileceği, alt işverenlik ilişkisinin muvazaalı olmadığı ve davacının toplu iş sözleşmesinden yararlanamayacağı belirtilmiştir.",
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "ret"
+    }
+  ],
+  "subject": "Muvazaalı Alt İşverenlik İlişkisi Nedeniyle Toplu İş Sözleşmesinden Kaynaklanan İşçilik Alacakları",
+  "keywords": [
+    "alt işverenlik",
+    "muvazaa",
+    "işçilik alacakları",
+    "toplu iş sözleşmesi",
+    "kamu kurumu",
+    "4857 sayılı iş kanunu",
+    "4628 sayılı elektrik piyasası kanunu",
+    "direnme kararı",
+    "dürüstlük kuralı",
+    "hakkın kötüye kullanılması",
+    "işçi temini",
+    "elektrik üretimi"
+  ],
+  "legal_issues": [
+    "Kamu tüzel kişisi olan asıl işveren ile alt işveren arasındaki ilişkinin muvazaalı olup olmadığı nasıl belirlenmelidir?",
+    "4857 sayılı İş Kanunu'nun 2. maddesindeki alt işverenlik sınırlamaları, 4628 sayılı Elektrik Piyasası Kanunu'nun 15. maddesi kapsamında kamu kurumları için uygulanır mı?",
+    "Muvazaalı alt işverenlik ilişkisi tespit edildiğinde, alt işveren işçisi asıl işverenin toplu iş sözleşmesinden yararlanabilir mi?",
+    "Kendi muvazaasına dayanan bir taraf, bu durumdan hak talep edebilir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "muvazaa",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Tarafların gerçek iradelerine uymayan ve üçüncü kişileri aldatmak amacıyla yaratılan görünüşteki hukuki işlemin geçersizliği kararın temelini oluşturmaktadır."
+    },
+    {
+      "concept": "alt işverenlik",
+      "role": "uygulanan",
+      "context_in_reasoning": "4857 sayılı İş Kanunu'nun 2. maddesinde tanımlanan ve sınırlamaları belirtilen alt işverenlik ilişkisinin somut olayda muvazaalı olup olmadığı incelenmiştir."
+    },
+    {
+      "concept": "toplu iş sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Muvazaa nedeniyle asıl işverenin işçisi sayılan davacının, asıl işverenin taraf olduğu toplu iş sözleşmesinden doğan alacaklara hak kazanıp kazanmadığı değerlendirilmiştir."
+    },
+    {
+      "concept": "dürüstlük kuralı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davalı işverenin kendi muvazaasına dayanarak hak talep etmesinin Türk Medeni Kanunu'nun 2. maddesindeki dürüstlük kuralına aykırı olduğu belirtilmiştir."
+    },
+    {
+      "concept": "kamu ihale kanunu",
+      "role": "tartışılan",
+      "context_in_reasoning": "Davalı, ihalelerin Kamu İhale Kanunu'na tabi olmasının muvazaa iddialarını geçersiz kılacağını savunmuş, ancak bu savunma kabul edilmemiştir."
+    },
+    {
+      "concept": "4628 sayılı elektrik piyasası kanunu",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Özel Daire'nin bozma kararında dayanak gösterilen 4628 sayılı Kanun'un 15. maddesinin, 6446 sayılı Kanun ile yürürlükten kaldırıldığı ve muvazaa denetimine engel teşkil etmediği vurgulanmıştır."
+    },
+    {
+      "concept": "işçi temini",
+      "role": "uygulanan",
+      "context_in_reasoning": "İhalelerin hizmet ve iş üzerinden değil, işçi sayısı üzerinden yapıldığı ve dolayısıyla işçi temini amacı taşıdığı sonucuna varılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Kamu tüzel kişisi olan asıl işveren (EÜAŞ) ile alt işverenler arasındaki ilişkinin muvazaalı olup olmadığı ve buna bağlı olarak davacının asıl işverenin toplu iş sözleşmesinden yararlanıp yararlanamayacağıdır.",
+    "rule": "4857 sayılı İş Kanunu'nun 2. maddesi, asıl işverenin işçilerinin haklarını kısıtlamak amacıyla alt işveren ilişkisi kurulmasını veya asıl işin uzmanlık gerektirmeyen kısımlarının bölünerek alt işverene verilmesini muvazaalı kabul eder. Muvazaa halinde alt işveren işçileri başlangıçtan itibaren asıl işverenin işçisi sayılır. Türk Medeni Kanunu'nun 2. maddesi uyarınca hiç kimse kendi muvazaasına dayanarak hak talep edemez.",
+    "application": "Davalı EÜAŞ'nin alt işverenlik sözleşmeleri, işçi temini amacı taşımakta olup, alt işverenlerin uzmanlık gerektiren işleri yapma kapasitesi veya bağımsız organizasyonu bulunmamaktadır. EÜAŞ'nin işe alım, çıkarma, emir-talimat ve çalışma koşullarını belirleme yetkilerini kullanması, alt işverenlerin değişmesine rağmen işçilerin değişmemesi, ilişkinin muvazaalı olduğunu göstermektedir. Ayrıca, 4628 sayılı Kanun'un 15. maddesi, muvazaa denetimine engel teşkil etmez ve ilgili fıkra yürürlükten kaldırılmıştır.",
+    "conclusion": "Davalı işveren ile alt işverenler arasındaki ilişkinin muvazaalı olduğu, davacının başlangıçtan itibaren EÜAŞ işçisi sayılması gerektiği ve bu nedenle toplu iş sözleşmesinden kaynaklanan alacaklara hak kazandığı sonucuna varılmıştır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı",
+      "davalı (EÜAŞ)",
+      "alt işveren",
+      "sendika"
+    ],
+    "context": "Davacı, kamu tüzel kişisi olan EÜAŞ'nin termik santralinde alt işveren işçisi olarak çalışmakta olup, sendika üyesidir.",
+    "trigger": "Davalı EÜAŞ'nin, davacıyı kendi işçisi olarak kabul etmeyerek işletme toplu iş sözleşmesinden yararlandırmaması üzerine dava açılmıştır.",
+    "claim": "Davacı, alt işverenlik ilişkisinin muvazaalı olduğunu ileri sürerek, asıl işveren EÜAŞ'nin işçisi sayılmasını ve toplu iş sözleşmesinden kaynaklanan taban ücret, yevmiye, ikramiye, tazminat ve yardımlar gibi işçilik alacaklarının tahsilini talep etmiştir."
+  }
+}

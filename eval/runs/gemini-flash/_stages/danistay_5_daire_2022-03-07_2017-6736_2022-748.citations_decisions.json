@@ -1,0 +1,325 @@
+{
+  "file": "danistay_5_daire_2022-03-07_2017-6736_2022-748.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2015/3",
+      "decision_number": "2017/3",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/16-956",
+      "decision_number": "2017/370",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin silahlı terör örgütü olduğunu belirleyen kararı onayan."
+    },
+    {
+      "court": "Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Davacı hakkında verilen mahkumiyet kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/82",
+      "decision_number": "2014/100",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Komisyonun bağımsızlığına yönelik iddialarda atıf yapılan AYM iptal kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "2873/17",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İç hukuk yollarının tüketilmediği gerekçesiyle başvuruyu kabul edilemez bulan AİHM kararı."
+    },
+    {
+      "court": "Bölge Adliye Mahkemesi Ceza Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Ceza Dairesi",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Davacı hakkındaki ceza yargılamasında ilk derece kararını bozan BAM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/1115",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul sürede yargılanma hakkını adil yargılanma hakkının parçası gören AYM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30979/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yargılama süresinin makul olup olmadığını değerlendirme kriterlerini belirten AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "36607/06",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Yargılama süresinin makul olup olmadığını değerlendirme kriterlerini belirten AİHM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2012/13",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Makul süre incelemesinde dikkate alınacak kriterleri belirleyen AYM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55391/13",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mahkemenin bağımsızlık ve tarafsızlık kavramlarını açıklayan AİHM Büyük Daire kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "21722/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bağımsızlık ve tarafsızlık sorunlarının yargısal denetimle giderilebileceğini kabul eden AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "60860/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bağımsızlık ve tarafsızlık sorunlarının yargısal denetimle giderilebileceğini kabul eden AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "19178/91",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Bağımsızlık ve tarafsızlık sorunlarının yargısal denetimle giderilebileceğini kabul eden AİHM kararı."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/48",
+      "decision_number": "2020/30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ'nün askeri yargı mahrem yapılanmasına ilişkin tespit ve değerlendirmeler içeren karar."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/89",
+      "decision_number": "2019/84",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İltisaklı ve irtibatlı kavramlarını tanımlayan AYM kararı."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/43",
+      "decision_number": "2020/11",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Sıkıyönetim Mahkemeleri Görevlendirme Listesine ilişkin tespitleri içeren karar."
+    },
+    {
+      "court": "Yargıtay 16. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/5526",
+      "decision_number": "2019/6842",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin haberleşme yöntemlerine ilişkin tespitleri içeren karar."
+    },
+    {
+      "court": "Yargıtay 9. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2018/44",
+      "decision_number": "2019/167",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "FETÖ/PDY'nin haberleşme yöntemlerine ilişkin tespitleri içeren karar."
+    },
+    {
+      "court": "Yargıtay Ceza Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2020/9.MD-67",
+      "decision_number": "2021/372",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ankesörlü/sabit hat aramalarının hukuka uygunluğunu değerlendiren YCGK kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/29347",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ankesörlü telefon aramalarını kuvvetli suç belirtisi kabul eden AYM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "55480/00",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Memurların anayasal prensiplere sadakat yükümlülüğünü belirten AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39799/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Memurların anayasal prensiplere sadakat yükümlülüğünü belirten AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39793/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Memurların anayasal prensiplere sadakat yükümlülüğünü belirten AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "26652/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu çalışanlarının devlete sadakat yükümlülüğünü vurgulayan AİHM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/87",
+      "decision_number": "2015/112",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin temel amaç ve görevlerini belirten AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2013/2187",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Devletin temel amaç ve görevlerini belirten AYM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "13710/88",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mesleki faaliyetlerin özel hayata saygı hakkı kapsamında olduğunu belirten AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "21794/93",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Mesleki faaliyetlerin özel hayata saygı hakkı kapsamında olduğunu belirten AİHM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/22169",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Darbe teşebbüsü şüphelilerinin telefon mesajlarına örnek teşkil eden AYM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "5310/71",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Olağanüstü hallerde devletin geniş takdir marjına sahip olduğunu belirten AİHM kararı."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "12778/17",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "15 Temmuz darbe teşebbüsünün ulusun varlığını tehdit eden tehlike olduğunu belirten AİHM kararı."
+    }
+  ]
+}

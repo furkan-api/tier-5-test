@@ -1,0 +1,455 @@
+{
+  "file": "yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Mahkemece verilen önceki kararı bozan Yargıtay ilamı."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1987/190",
+      "decision_number": "471",
+      "relation": "chained",
+      "outcome": "Ret",
+      "treatment": null,
+      "context": "Katılanın davasının reddine ilişkin ilk derece kararı."
+    },
+    {
+      "court": "Yargıtay 20. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2005/9404",
+      "decision_number": "2923",
+      "relation": "chained",
+      "outcome": "Onama",
+      "treatment": null,
+      "context": "Kadastro Mahkemesi kararını onayan Yargıtay ilamı."
+    },
+    {
+      "court": "Yargıtay 16. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Benzer davalarda istikrar kazanan görüşü."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kadastro Mahkemesi direnme kararları üzerine verilen kararlar."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/1580",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/1183",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2017/1625",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı (3022 E.)."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı (3023 E.)."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı (3024 E.)."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Vakfın gayrisahih niteliğini vurgulayan HGK kararı (3025 E.)."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2014/26",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya olarak kabul edilen benzer dava dosyası."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1996/11",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu kayıtlarının kapsamının belirlendiği benzer dava dosyası."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gayrimenkul davalarında uygulanan içtihat."
+    },
+    {
+      "court": "Yargıtay 17. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gayrimenkul davalarında uygulanan içtihat."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/709",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/710",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/782",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/783",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/784",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/785",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/786",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/787",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "2019/788",
+      "relation": "referenced",
+      "outcome": "Bozma",
+      "treatment": "Neutral",
+      "context": "Kılavuz dosya yerine birleştirme benimseyen direnme sonrası bozma kararı."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1988/333",
+      "decision_number": "51",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "Tapu iptali davasının reddine ilişkin karar."
+    },
+    {
+      "court": "Yargıtay 8. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1994/7430",
+      "decision_number": "1073",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "Asliye Hukuk Mahkemesi kararını kesinleştiren Yargıtay kararı."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1989/103",
+      "decision_number": "125",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "Tapu iptali davasının reddine ilişkin karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1960/104",
+      "decision_number": "25",
+      "relation": "referenced",
+      "outcome": "Ret",
+      "treatment": "Neutral",
+      "context": "Tapu iptali davasının feragat ve sulh nedeniyle reddi."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1970/165",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Kira akdinin feshi ve tahliye davasının kabulü."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1963/153",
+      "decision_number": "1966/131",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tahliye ve ecrimisil davasının kabulüne ilişkin karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1963/154",
+      "decision_number": "1966/132",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Kira akdinin feshi ve tahliye davasının kabulü."
+    },
+    {
+      "court": "Tapulama Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1974/5",
+      "decision_number": "1975/49",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Fazla tespit edilen bölümün davacılar adına tesciline karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1977/61",
+      "decision_number": "9",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Fazla istimlak edilen bölümün davacılar adına tesciline karar."
+    },
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2002/1795",
+      "decision_number": "4523",
+      "relation": "referenced",
+      "outcome": "Onama",
+      "treatment": "Neutral",
+      "context": "Kadastro Mahkemesi kararını onayan Yargıtay ilamı."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1971/23",
+      "decision_number": "33",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1971/22",
+      "decision_number": "50",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1971/15",
+      "decision_number": "29",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1973/76",
+      "decision_number": "26",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1979/175",
+      "decision_number": "90",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1999/3",
+      "decision_number": "18",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1998/135",
+      "decision_number": "306",
+      "relation": "referenced",
+      "outcome": "Kabul",
+      "treatment": "Neutral",
+      "context": "Tapu malikleri adına tescile ilişkin kesinleşmiş karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "2017/3",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Bilirkişi incelemesi sonucu parsellerin belirlendiği dosya."
+    },
+    {
+      "court": "Sulh Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": "1962/191",
+      "decision_number": "1964/6",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Orman Kanunu'na muhalefet suçlamasıyla ilgili karar."
+    },
+    {
+      "court": "Kadastro Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1991/298",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kahyaların beyanlarının yer aldığı keşif tutanakları."
+    }
+  ]
+}

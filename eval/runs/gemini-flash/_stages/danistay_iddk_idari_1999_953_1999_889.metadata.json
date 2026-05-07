@@ -1,0 +1,75 @@
+{
+  "file": "danistay_iddk_idari_1999_953_1999_889.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay İdari Dava Daireleri Kurulu",
+  "case_number": "1999/953",
+  "decision_number": "1999/889",
+  "decision_date": "1999-10-15",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "Danıştay İdari Dava Daireleri Kurulu kararları kesindir.",
+  "decision_outcome": "Ret",
+  "decision_outcome_raw": "Davada taraf olmayan sendikanın temyiz isteminin ehliyet yönünden reddine oybirliği ile karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "sendika"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "sendika",
+      "result": "ret"
+    }
+  ],
+  "subject": "Bakanlar Kurulu Kararının iptali istemiyle açılan davada ehliyet yönünden verilen ret kararının temyizi",
+  "keywords": [
+    "dava ehliyeti",
+    "temyiz ehliyeti",
+    "taraf sıfatı",
+    "idari yargılama usulü",
+    "menfaat ihlali",
+    "sendika",
+    "iptal davası",
+    "bakanlar kurulu kararı",
+    "elektrik dağıtımı"
+  ],
+  "legal_issues": [
+    "Davada taraf olmayan bir sendikanın, ilk derece mahkemesince verilen kararı temyiz etme ehliyeti var mıdır?",
+    "İdari yargıda temyiz başvurusunda bulunabilmek için taraf sıfatı ve menfaat ilgisi koşulları nasıl değerlendirilmelidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "dava ehliyeti",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, davada taraf olmayan bir sendikanın temyiz ehliyetinin bulunup bulunmadığıdır."
+    },
+    {
+      "concept": "taraf sıfatı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Temyiz yoluna başvurabilmek için davada taraf sıfatına sahip olmak gerektiği kuralı uygulanmıştır."
+    },
+    {
+      "concept": "menfaat ihlali",
+      "role": "tartışılan",
+      "context_in_reasoning": "İlk derece mahkemesinin kararında davacının menfaat ihlali bulunmadığı gerekçesiyle davanın reddedilmesi, temyiz başvurusunun konusunu oluşturmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davada taraf olmayan bir sendikanın, ilk derece mahkemesince verilen kararı temyiz etme ehliyeti var mıdır?",
+    "rule": "İdari yargılama hukukunda, bir kararı temyiz edebilmek için o davada taraf sıfatına sahip olmak zorunludur. Taraf sıfatı olmayanların temyiz başvurusu ehliyet yönünden reddedilir.",
+    "application": "Enerji Yapı Yol Sendikası, Danıştay Onuncu Dairesi'nin ehliyet yönünden ret kararı verdiği davada taraf sıfatına sahip değildir. Bu nedenle, sendikanın bu kararı temyiz etme ehliyeti bulunmamaktadır.",
+    "conclusion": "Temyiz isteminin ehliyet yönünden reddine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (idari)",
+      "sendika",
+      "idare",
+      "Danıştay Dairesi"
+    ],
+    "context": "Bir Bakanlar Kurulu Kararının iptali istemiyle açılan idari davada, davacının menfaat ihlali bulunmadığı gerekçesiyle davanın ehliyet yönünden reddedilmesi.",
+    "trigger": "Danıştay Onuncu Dairesi'nin davayı ehliyet yönünden reddetmesi üzerine, davada taraf olmayan bir sendika tarafından bu kararın temyiz edilmesi.",
+    "claim": "Sendika, Danıştay Onuncu Dairesi'nin ehliyet yönünden ret kararının bozulmasını talep etmiştir."
+  }
+}

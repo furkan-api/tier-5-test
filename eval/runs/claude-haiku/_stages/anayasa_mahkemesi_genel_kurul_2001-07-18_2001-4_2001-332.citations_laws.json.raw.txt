@@ -1,0 +1,632 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md",
+  "cited_law_articles": [
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "2",
+      "context": "Hukuk devleti ilkesi; Cumhuriyetin nitelikleri arasında sayılır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "5",
+      "context": "Devletin temel amaç ve görevleri; kişilerin temel hak ve hürriyetlerini koruma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Kanun önünde eşitlik ilkesi; ayırım gözetilmeksizin eşit muamele."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "11",
+      "context": "Anayasa hükümleri temel hukuk kurallarıdır; kanunlar Anayasaya aykırı olamaz."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "14",
+      "context": "Anayasada yer alan hak ve hürriyetlerin kötüye kullanılması yasağı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "17",
+      "context": "İşkence ve eziyet yasağı; yaşama hakkı korunması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti; yargı mercileri önünde davacı veya davalı olma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "38",
+      "context": "Suç ve ceza ilkeleri; suçluluğu hükmen sabit oluncaya kadar kimse suçlu sayılamaz."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "87",
+      "context": "Türkiye Büyük Millet Meclisinin genel ve özel af ilanına karar verme yetkisi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "138",
+      "context": "Hâkimlerin bağımsızlığı; vicdanî kanaatlerine göre hüküm verme."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "153",
+      "context": "İptal kararlarının yürürlüğe giriş tarihi; Resmi Gazetede yayımlanma."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Ormanların korunması; orman suçları için genel ve özel af çıkarılamaz."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "13",
+      "context": "Müebbet ağır hapis cezası; ölünceye kadar devam eder."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "17",
+      "context": "Şartla salıverilme kararının geri alınması; deneme süresi hesaplaması."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "86",
+      "context": "Suçların türlerinin belirlenmesi; aynı cinsten suçlar."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "97",
+      "context": "Genel af; kesinleşmiş cezaları ortadan kaldırır."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "98",
+      "context": "Özel af; cezayı ortadan kaldıran, azaltan veya değiştiren."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "121",
+      "context": "Adli sicil kayıtlarının silinmesi; yasak hakların iade edilmesi."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "179",
+      "context": "Kişi hürriyetinden mahrumiyet suçu; 4616 sayılı Yasa kapsamında."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "188",
+      "context": "Emredici cebir ve şartlı tehdit suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "191",
+      "context": "Tehdit suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "192",
+      "context": "Hürriyet aleyhine cürümler; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "201",
+      "context": "Cebir ve şiddetle sanat ve ticaret serbestisini tahdit suçu; kapsam içinde."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "202",
+      "context": "Zimmet suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "203",
+      "context": "Denetim görevini ihmal suçu; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "209",
+      "context": "Irtikap suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "219",
+      "context": "Rüşvet suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "228",
+      "context": "Görevin kişilere karşı kötüye kullanılması; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "230",
+      "context": "Görevi ihmal suçu; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "233",
+      "context": "Hâkimlerin nüfuz altında karar verme suçu; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "240",
+      "context": "Görevin genel nitelikte kötüye kullanılması; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "243",
+      "context": "İşkence suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "245",
+      "context": "Kuvveî cebriye imaline memur olanların suimuamelesi; kapsam içinde."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "264",
+      "context": "Dinamit ve bomba yapma suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "298",
+      "context": "Tutukevinden kaçma suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "299",
+      "context": "Hapishaneden kaçma suçu; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "308",
+      "context": "Hükümete müracaata muktedir olduğu ahvalde hak alma suçu; kapsam içinde."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "313",
+      "context": "Cürüm işlemek için teşekkül meydana getirme; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "339",
+      "context": "Memurun resmi belgede sahtecilik; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "342",
+      "context": "Memur olmayan kimsenin resmi belgede sahtecilik; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "343",
+      "context": "Resmi varaka tanziminde yalan beyanda bulunma; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "345",
+      "context": "Hususi belgede sahtecilik; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "346",
+      "context": "Sahte belgeyi kullanma; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "347",
+      "context": "Cezayı azaltan haller; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "358",
+      "context": "Ticaret ve sanayie hile karıştırma; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "359",
+      "context": "Devlet alım ve satımlarında menfaat sağlama; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "361",
+      "context": "Müzayedeye hile karıştırma; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "362",
+      "context": "Müzayedeye fesat karıştırma; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "366",
+      "context": "Resmî artırma-eksiltmeye hile karıştırma; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "367",
+      "context": "Mal artırma-eksiltmesine hile karıştırma; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "383",
+      "context": "Yangın, su baskını ve gark suçu; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "394",
+      "context": "Umumun sıhhatine müteallik cürümler; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "403",
+      "context": "Uyuşturucu maddelerin imali ve ithali; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "404",
+      "context": "Uyuşturucu maddeleri kullanma; ikinci fıkrası istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "407",
+      "context": "Uyuşturucu maddeleri satma; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "408",
+      "context": "Uyuşturucu maddeleri tedarik etme; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "414",
+      "context": "Küçüğün ırzına geçme; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "415",
+      "context": "Küçüğün ırz ve namusuna tasaddi; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "416",
+      "context": "Reşit kimsenin ırzına geçme; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "417",
+      "context": "Cezayı artıran şahsa bağlı haller; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "418",
+      "context": "Cezayı artıran fiile bağlı haller; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "429",
+      "context": "Zorla kadın kaçırma; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "430",
+      "context": "Reşit olmayan kimseyi kaçırma; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "448",
+      "context": "Kasten adam öldürme; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "450",
+      "context": "İşkenceyle adam öldürme; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "452",
+      "context": "Taksirle adam öldürme; 243. madde ile ilişkili."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "456",
+      "context": "Taksirle yaralanma; 243. madde ile ilişkili."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "495",
+      "context": "Gasp suçu; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "503",
+      "context": "Dolandırıcılık; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "504",
+      "context": "Mevsuf dolandırıcılık; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "506",
+      "context": "Hileli müflis; kapsam içinde alındı."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "507",
+      "context": "Taksiratlı müflis; kapsam içinde alındı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "401",
+      "context": "Yakalama müzekkeresi; cezasını çekmeye gelmeyen hükümlüler."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu",
+      "law_number": "1412",
+      "article": "223",
+      "context": "Gıyabi tevkif; sanıkların savunması tespit edilmesi."
+    },
+    {
+      "law": "Ceza Muhakemeleri Usulü Kanunu",
+      "law_number": "1412",
+      "article": "229",
+      "context": "Gıyabi tevkif; sanıkların savunması tespit edilmesi."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "3",
+      "context": "Müebbet ağır hapis cezası; ölünceye kadar devam eder."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "6",
+      "context": "Erteleme hükümleri; 1712 sayılı Yasa ile değiştirildi."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "19",
+      "context": "Şartla salıverilme; müebbet ağır hapis hükümlüleri 20 yıl çektikten sonra."
+    },
+    {
+      "law": "Cezaların İnfazı Hakkında Kanun",
+      "law_number": "647",
+      "article": "Ek 2",
+      "context": "Ayda altı günlük indirim; yarı açık veya açık müesseselere geçenler."
+    },
+    {
+      "law": "Adli Sicil Yasası",
+      "law_number": "3682",
+      "article": null,
+      "context": "Adli sicil kayıtlarının silinmesi; yasak hakların iade edilmesi."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "1",
+      "context": "Kanunun amacı; rüşvet ve yolsuzluklarla mücadele."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "12",
+      "context": "Gerçeğe aykırı bildirimde bulunma; altı aydan üç yıla kadar hapis."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "10-16",
+      "context": "Ceza hükümleri; kamu görevlileri hakkında takip ve muhakeme usulü."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "20",
+      "context": "Ceza hükümleri; kamu görevlileri hakkında takip ve muhakeme usulü."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "Geçici 1",
+      "context": "Ceza hükümleri; kamu görevlileri hakkında takip ve muhakeme usulü."
+    },
+    {
+      "law": "Atatürk Aleyhine İşlenen Suçlar Hakkında Kanun",
+      "law_number": null,
+      "article": null,
+      "context": "İstisnalar arasında sayıldı; 4616 sayılı Yasa kapsamı dışında."
+    },
+    {
+      "law": "Ateşli Silahlar ve Bıçaklar İle Diğer Aletler Hakkında Kanun",
+      "law_number": "6136",
+      "article": "12",
+      "context": "Ateşli silahların ithali ve imali; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "91",
+      "context": "Orman emvali kesme; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "93",
+      "context": "Ormandan tarla açma; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "104-114",
+      "context": "Orman suçları; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "108",
+      "context": "Kaçak orman emvalini taşıma; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": "110",
+      "context": "Orman yangını; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+      "law_number": "2863",
+      "article": "32",
+      "context": "Kültür ve tabiat varlıklarının korunması; yurt dışına çıkarma yasağı."
+    },
+    {
+      "law": "Kültür ve Tabiat Varlıklarını Koruma Kanunu",
+      "law_number": "2863",
+      "article": "68",
+      "context": "Yurt dışına çıkarma yasağına aykırılık; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "25",
+      "context": "Ferdi kaçakçılık; kapsam içinde alındı."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "26-30",
+      "context": "Kaçakçılık suçları; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "27",
+      "context": "Toplu ve teşekkül halinde kaçakçılık; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "33",
+      "context": "Kaçakçılığa yardım; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Kaçakçılığın Men ve Takibine Dair Kanun",
+      "law_number": "1918",
+      "article": "36",
+      "context": "Kaçakçılık suçları; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "359",
+      "context": "Vergi kaçakçılığı suçları; istisnalar arasında sayıldı."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "371",
+      "context": "Pişmanlık şartları; vergi suçlarında uygulanır."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "344",
+      "context": "Vergi ziyaı cezası; kaçakçılık suçlarında ayrıca uygulanır."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": null,
+      "context": "İstisnalar arasında sayıldı; 4616 sayılı Yasa kapsamı dışında."
+    },
+    {
+      "law": "Maliye Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname",
+      "law_number": "178",
+      "article": null,
+      "context": "İstisnalar arasında sayıldı; 4616 sayılı Yasa kapsamı dışında."
+    },
+    {
+      "law": "Uyuşturucu Maddelerin Murakabesi Hakkında Kanun",
+      "law_number": "2313",
+      "article": null,
+      "context": "İstisnalar

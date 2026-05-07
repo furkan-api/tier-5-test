@@ -1,0 +1,218 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "court_type": "İlk Derece Hukuk",
+  "court": "İstanbul 2. Asliye Ticaret Mahkemesi",
+  "case_number": "2020/507",
+  "decision_number": "2021/474",
+  "decision_date": "2021-06-25",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": null,
+  "decision_outcome": "Kabul",
+  "decision_outcome_raw": "Davacının 48.212,80 TL alacağının müflis bankanın iflas dosyasında sıra cetveline kayıt ve kabulüne karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "İflas Tasfiyesinde Düzenlenen Sıra Cetveline İtiraz Yoluyla Kamu Alacağının Kayıt Kabulü Talebi",
+  "summary": "Davacı kamu idaresi, müflis bir bankanın iflas tasfiyesinde sıra cetveline kaydedilmesi için başvurduğu 48.212,80 TL tutarındaki yargı harcı alacağının iflas idaresi tarafından reddedilmesine itiraz ederek, alacağın sıra cetveline kayıt ve kabulünü talep etmiştir. Mahkeme, söz konusu yargı harcı alacağının 6183 sayılı Kanun uyarınca kamu alacağı niteliğinde olduğunu, vergi mahkemelerinin kesinleşmiş kararlarıyla davacının bu alacağa hukuki dayanağının bulunduğunu, iflas idaresinin kamu alacaklarıyla ilgili kayıt taleplerini reddetme yetkisinin olmadığını belirterek davayı kabul etmiştir. Mahkeme, davacının 48.212,80 TL alacağının iflas masasına kaydedilmesine, davacıya vekalet ücreti ve yargılama giderlerinin davalıdan alınıp verilmesine karar vermiştir.",
+  "keywords": [
+    "sıra cetveline itiraz",
+    "iflas tasfiyesi",
+    "kamu alacağı",
+    "yargı harcı",
+    "iflas idaresi",
+    "hak düşürücü süre",
+    "vergi mahkemesi kararı",
+    "danıştay temyizi"
+  ],
+  "legal_issues": [
+    "İflas idaresi kamu alacaklarına ilişkin kayıt taleplerini reddetme yetkisine sahip midir?",
+    "Sıra cetveline itiraz davasının açılması için öngörülen 15 günlük hak düşürücü süre ne zaman başlamaktadır?",
+    "Vergi mahkemesinde müflis banka lehine verilen ilk karar, iflas idaresinin kayıt talebini reddetmesini haklı kılar mı?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "kamu alacağı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Yargı harcı alacağının 6183 sayılı AATUHK uyarınca kamu alacağı niteliği taşıması, iflas idaresinin kayıt talebini reddetme yetkisinin bulunmadığı sonucuna ulaşılmasında temel rol oynamıştır."
+    },
+    {
+      "concept": "hak düşürücü süre",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sıra cetvelinin son ilan tarihi olan 04/06/2018'den sonra 15 günlük süre içinde 19/06/2018'de dava açılmış olması, hak düşürücü süre yönünden davanın kabul edilebilirliğini sağlamıştır."
+    },
+    {
+      "concept": "iflas idaresinin görev ve yetkileri",
+      "role": "yorumlanan",
+      "context_in_reasoning": "İflas idaresinin kamu alacaklarıyla ilgili kayıt taleplerini reddetme yetkisinin bulunmadığı, sıra cetveline kaydettikten sonra ancak görevli yargı merciinde dava açabileceği ilkesi belirlenmiştir."
+    },
+    {
+      "concept": "vergi mahkemesi kararının bağlayıcılığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Vergi mahkemesinin ilk kararında müflis banka lehine karar verilmesine rağmen, Danıştay temyizi sonrası kesinleşen karar müflis bankanın harçtan muaf olmadığını ortaya koymuştur."
+    },
+    {
+      "concept": "sıra cetveline itiraz davası",
+      "role": "uygulanan",
+      "context_in_reasoning": "İİK m.235 uyarınca sıra cetveline itiraz yoluyla açılan dava, alacağın iflas masasına kayıt kabulü talebine ilişkin hukuki dayanağı oluşturmuştur."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İflas idaresi, kamu alacağı niteliğindeki yargı harcı alacağının sıra cetveline kayıt talebini reddetme yetkisine sahip midir?",
+    "rule": "Kamu alacakları 6183 sayılı AATUHK uyarınca özel nitelik taşır; iflas idaresinin kamu alacaklarıyla ilgili kayıt taleplerini reddetme yetkisi bulunmamakta, sıra cetveline kaydettikten sonra ancak görevli ve yetkili yargı merciinde dava açabilmektedir. Yargı harcı alacağı bu nitelikte bir kamu alacağıdır.",
+    "application": "Davacı Maliye Hazinesinin 48.212,80 TL yargı harcı alacağı, müflis bankanın harçtan muaf olmadığı yönünde vergi yargı mercilerince kesinleşmiş kararlarla tespit edilmiştir. İflas idaresinin bu alacağın kayıt talebini reddetmesi hukuka aykırıdır. Dava hak düşürücü süre içinde açılmıştır.",
+    "conclusion": "Davacının 48.212,80 TL alacağının müflis bankanın iflas dosyasında sıra cetveline kayıt ve kabulüne karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (Maliye Hazinesi)",
+      "davalı (iflas idaresi)",
+      "müflis banka"
+    ],
+    "context": "Müflis bankanın iflas tasfiyesi sırasında Maliye Hazinesinin yargı harcı alacağının sıra cetveline kaydedilmesi konusunda uyuşmazlık ortaya çıkmıştır.",
+    "trigger": "İflas idaresi, Maliye Hazinesinin 48.212,80 TL yargı harcı alacağının sıra cetveline kayıt talebini reddetmiştir.",
+    "claim": "Maliye Hazinesi, yargı harcı alacağının müflis bankanın iflas dosyasında sıra cetveline kayıt ve kabulünü talep etmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "1. Asliye Ticaret Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": "2017/942",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Müflis bankanın iflasına karar veren ilk derece mahkemesi kararı."
+    },
+    {
+      "court": "Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2014/681",
+      "decision_number": "2014/1451",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Yargı harçlarının iadesine ilişkin vergi mahkemesi kararı."
+    },
+    {
+      "court": "Danıştay 9. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2015/2239",
+      "decision_number": "2019/1830",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Harçlar Kanunu değişikliğine ilişkin Danıştay bozma ilamı."
+    },
+    {
+      "court": "Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": null,
+      "decision_number": "2019/768",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Danıştay bozma ilamına uyularak verilen vergi mahkemesi kararı."
+    },
+    {
+      "court": "İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi",
+      "cited_court_type": "Bölge Adliye Mahkemesi Hukuk Dairesi",
+      "case_number": "2019/1481",
+      "decision_number": "2019/1559",
+      "relation": "chained",
+      "outcome": "Esastan Ret",
+      "treatment": null,
+      "context": "Önceki davada istinaf incelemesi yapan mahkeme kararı."
+    },
+    {
+      "court": "Uyuşmazlık Mahkemesi",
+      "cited_court_type": "Uyuşmazlık Mahkemesi",
+      "case_number": "2020/345",
+      "decision_number": "2020/412",
+      "relation": "chained",
+      "outcome": "Adli Yargı Görevli",
+      "treatment": null,
+      "context": "Görev uyuşmazlığını çözen Uyuşmazlık Mahkemesi kararı."
+    },
+    {
+      "court": "Yargıtay 23. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Kamu alacaklarına ilişkin yerleşik Yargıtay içtihadı."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "235",
+      "context": "Sıra cetveline itiraz ve neticeleri; dava açma hak düşürücü süresi on beş gün."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "107",
+      "context": "Faaliyet izninin kaldırılması; son fıkra hükmü uyarınca BDDK kararı."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106",
+      "context": "Bankanın iflasının mahkemeden talep edilmesi; doğrudan iflas prosedürü."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106/3",
+      "context": "Fon Kurulu'nun bankanın doğrudan iflasını mahkemeden talep etme yetkisi."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123",
+      "context": "Kredilerin geri ödemelerine ilişkin işlemlerin harçtan muafiyet hükmü."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123/3",
+      "context": "Yargı harçlarından muafiyet; 6322 sayılı Kanun ile değişiklik ve uygulanması."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": null,
+      "context": "Yargı harçlarının kamu alacağı niteliği; genel bütçe alacağı olarak değerlendirilmesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "341",
+      "context": "İstinaf yoluna başvuru hakkı; on gün içinde başvuru prosedürü."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": null,
+      "context": "Olumsuz görev uyuşmazlığında Uyuşmazlık Mahkemesine gönderim; adli yargının görevliliği."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "140",
+      "context": "İflas idaresinin harçtan muaf olması; harç alınmaması."
+    },
+    {
+      "law": "6322 sayılı Kanun",
+      "law_number": "6322",
+      "article": "19",
+      "context": "Harçlar Kanunu'nda değişiklik; 15/06/2012 tarihli Resmi Gazete yayını."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md",
+  "cited_court_decisions": [
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": "122-282",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "İlk derece mahkemesinin çocuk cinsel istismarı ve hürriyetten yoksun kılma suçlarında mahkûmiyet hükmü."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1987/1744",
+      "decision_number": "1987/1732",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Temyiz incelemesinde ilk derece hükmünün bozulmasına karar veren daire kararı."
+    },
+    {
+      "court": "Denizli 2. Ağır Ceza Mahkemesi",
+      "cited_court_type": "İlk Derece Ceza",
+      "case_number": null,
+      "decision_number": "260-346",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Bozma kararına direnerek önceki hükümler gibi mahkûmiyet hükmü veren yerel mahkeme kararı."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "3192-7027",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Temyiz incelemesinde ilk derece hükmünü bozan daire kararı."
+    },
+    {
+      "court": "Yargıtay 14. Ceza Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": "374-2141",
+      "relation": "chained",
+      "outcome": "Direnme Yerinde Görülmedi",
+      "treatment": null,
+      "context": "Direnme incelemesinde direnme kararının yerinde görülmemesine karar veren daire kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2000/36",
+      "decision_number": "2002/198",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Norm denetimi kararı olarak metinde referans gösterilen AYM kararı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": null,
+      "decision_number": "2-30",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğünü tanımlayan AYM kararı."
+    },
+    {
+      "court": "AİHM",
+      "cited_court_type": "AİHM",
+      "case_number": "33401/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Opuz/Türkiye kararı, cinsiyete dayalı şiddetin ayrımcılık olduğunu belirten AİHM kararı."
+    }
+  ]
+}

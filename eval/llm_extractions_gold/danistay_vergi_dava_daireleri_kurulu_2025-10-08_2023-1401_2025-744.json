@@ -1,0 +1,171 @@
+{
+  "file": "danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Vergi Dava Daireleri Kurulu",
+  "case_number": "2023/1401",
+  "decision_number": "2025/744",
+  "decision_date": "2025-10-08",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": true,
+  "finality_basis": "Karar metninde 'kesin olarak karar verildi' ifadesi yer almaktadır.",
+  "decision_outcome": "Bozma",
+  "decision_outcome_raw": "Davalının temyiz isteminin kabulüyle Bölge İdare Mahkemesi Vergi Dava Dairesinin ısrar kararının bozulmasına oyçokluğuyla kesin olarak karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Karşı oyda, temyiz dilekçesinde ileri sürülen iddiaların ısrar kararının bozulmasını gerektirecek nitelikte bulunmadığı belirtilerek temyiz isteminin reddi gerektiği görüşü ileri sürülmüştür.",
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Yapı Ruhsatında İş Yeri Olarak Görünen Bağımsız Bölüm Teslimleri Nedeniyle Yüklenilen KDV'nin İndirimli Oran Kapsamında İadesi Talebinin Reddine İlişkin İşlemin İptali",
+  "summary": "Davacı şirket, yapı ruhsatı ve yapı kullanma izin belgesinde 'büro/ofis-iş yeri' olarak nitelendirilen ancak konut olarak inşa edilip fiilen konut olarak kullanıldığı ileri sürülen bağımsız bölümlerin tesliminin indirimli orana tabi olduğunu belirterek yüklenilen KDV'nin iadesini istemiş, talebin reddine ilişkin işlemin iptali için dava açmıştır. Vergi mahkemesi ve Vergi Dava Dairesi davacı lehine karar vermiş; Danıştay Dördüncü Dairesinin bozma kararı sonrası Vergi Dava Dairesi ısrar etmiştir. Vergi Dava Daireleri Kurulu, taşınmaz teslimlerinde uygulanacak KDV oranının fiili kullanıma göre değil yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilindeki hukuki niteliğe göre belirleneceğine, tapu sicilinde 'büro-ofis-iş yeri' olarak tescil edilen taşınmazların konut olarak kullanılmasının indirimli oran uygulamasına imkân tanımayacağına hükmederek ısrar kararının bozulmasına karar vermiştir. Ayrıca, davacının özelge doğrultusunda hareket etmesi halinde vergi ziyaı cezası ve gecikme faizi uygulanmayacağı belirtilmiştir.",
+  "keywords": [
+    "indirimli oran kdv iadesi",
+    "konut teslimi",
+    "fiili kullanım",
+    "hukuki durum",
+    "yapı ruhsatı",
+    "yapı kullanma izin belgesi",
+    "tapu sicili",
+    "özelge",
+    "lafzi yorum",
+    "net alan 150 m2",
+    "kdv oranı",
+    "büro ofis iş yeri"
+  ],
+  "legal_issues": [
+    "Taşınmaz teslimlerine uygulanacak KDV oranının belirlenmesinde taşınmazın fiili kullanım durumu mu yoksa yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilindeki hukuki niteliği mi esas alınır?",
+    "Yapı ruhsatı ve tapu sicilinde 'büro-ofis-iş yeri' olarak tescil edilmiş ancak fiilen konut olarak kullanılan bağımsız bölümlerin teslimi 2007/13033 sayılı BKK eki Karar'a ekli (I) sayılı listenin 11. sırası kapsamında konut teslimi sayılarak indirimli orana tabi tutulabilir mi?",
+    "Vergi idaresince düzenlenen özelgenin bağlayıcılığı ve mükellefin özelge doğrultusunda hareket etmesi halinde vergi ziyaı cezası ile gecikme faizinin uygulanabilirliği nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "indirimli oran kdv iadesi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Uyuşmazlığın temel ekseni, indirimli orana tabi konut teslimleri nedeniyle yüklenilen KDV'nin iadesi koşullarının somut olayda gerçekleşip gerçekleşmediğidir."
+    },
+    {
+      "concept": "konut kavramının hukuki niteliği",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Karar, 'konut' ifadesini lafzi yorum yöntemiyle yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilinde konut olarak kayıtlı bağımsız bölümler şeklinde tanımlamıştır."
+    },
+    {
+      "concept": "fiili kullanım esası",
+      "role": "reddedilen",
+      "context_in_reasoning": "KDV oranının belirlenmesinde fiili kullanımın esas alınamayacağı, 3065 sayılı Kanun'un 28. maddesindeki yetki kıstasları arasında bu esasın bulunmadığı gerekçesiyle reddedilmiştir."
+    },
+    {
+      "concept": "lafzi yorum",
+      "role": "uygulanan",
+      "context_in_reasoning": "213 sayılı Kanun'un 3. maddesi uyarınca BKK'daki 'konut' ifadesinin TDK sözlük tanımı çerçevesinde lafzi yorumla belirlenmesi yöntemi uygulanmıştır."
+    },
+    {
+      "concept": "özelgenin bağlayıcılığı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Özelgenin bilgilendirici nitelikte olduğu, mükellefin özelge doğrultusunda hareket etmesi halinde vergi ziyaı cezası ve gecikme faizi uygulanmayacağı hususları gerekçede ayrıca tartışılmıştır."
+    },
+    {
+      "concept": "vergilendirmede belirlilik ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bağımsız bölümlerin nitelendirilmesinin mükelleflerin tercihine bırakılmasının vergilendirme ilkelerine aykırılık oluşturacağı değerlendirmesinde dolaylı olarak temel alınmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilinde 'büro-ofis-iş yeri' olarak nitelendirilen ancak konut olarak kullanıldığı ileri sürülen taşınmaz teslimleri, 2007/13033 sayılı BKK eki Karar uyarınca indirimli oranlı konut teslimi sayılabilir mi?",
+    "rule": "3065 sayılı KDV Kanunu'nun 28. maddesi ile bu maddeye dayanılarak çıkarılan 2007/13033 sayılı BKK eki Karar'ın eki (I) sayılı listenin 11. sırası uyarınca net alanı 150 m²'ye kadar konut teslimleri %1 oranında KDV'ye tabidir; ancak Kanun'un 28. maddesindeki yetki kıstasları arasında fiili kullanım esası yer almadığından, 'konut' ifadesi lafzi yorum yöntemiyle yapı ruhsatı, yapı kullanma izin belgesi ve tapu sicilinde konut olarak kayıtlı bağımsız bölümleri kapsar.",
+    "application": "Somut olayda teslime konu bağımsız bölümler yapı ruhsatlarında ve yapı kullanma izin belgelerinde 'büro/ofis-iş yeri', tapu sicilinde de aynı şekilde tescil edilmiş olup fiilen konut olarak kullanıldığı iddiası bu hukuki nitelendirmeyi değiştirmez ve indirimli oran uygulamasına imkân tanımaz.",
+    "conclusion": "Tapu sicilinde 'büro-ofis-iş yeri' olarak tescil edilen taşınmazların teslimleri konut teslimi sayılamayacağından KDV iade isteminin reddine ilişkin işlemde hukuka aykırılık bulunmamakta olup aksi yöndeki gerekçeyle verilen ısrar kararının bozulmasına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "mükellef şirket",
+      "vergi idaresi"
+    ],
+    "context": "Bir limited şirketin Ankara'da net alanı 150 m² altında bağımsız bölümler içeren bir yapı inşa ederek bu bölümleri 2016 yılında satışa konu etmesi.",
+    "trigger": "Yapı ruhsatı ve yapı kullanma izin belgesinde 'büro/ofis-iş yeri' olarak görünen bağımsız bölümlerin konut olarak inşa edilip teslim edildiği gerekçesiyle indirimli orana tabi tutularak yüklenilen KDV'nin iadesi talebinin vergi dairesince reddedilmesi.",
+    "claim": "Ret işleminin iptali ile iade istemine konu verginin dava açıldığı tarih itibarıyla hesaplanacak tecil faiziyle birlikte iadesi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Danıştay 4. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2019/284",
+      "decision_number": "2023/1058",
+      "relation": "chained",
+      "outcome": "Diğer",
+      "treatment": null, 
+      "context": "Vergi Dava Dairesinin ilk kararını yapı ruhsatındaki nitelendirmenin esas alınması gerektiği gerekçesiyle bozan ve Vergi Dava Dairesinin ısrar kararına yol açan Daire kararıdır."
+    },
+    {
+      "court": "Danıştay Vergi Dava Daireleri Kurulu",
+      "cited_court_type": "Danıştay",
+      "case_number": "2023/1146",
+      "decision_number": "2024/1008",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Tapuda 'apart tatil ünitesi' olarak tescilli bağımsız bölümlerin fiilen konut olarak kullanılmasının indirimli oran uygulamasına imkân tanımadığına ilişkin emsal Kurul kararı, somut olayda da izlenmiştir."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Katma Değer Vergisi Kanunu",
+      "law_number": "3065",
+      "article": "28",
+      "context": "KDV oranını belirleme ve Bakanlar Kurulu/Cumhurbaşkanına oran farklılaştırma yetkisi veren hüküm olup yetki kıstasları arasında fiili kullanım esasının bulunmadığı tespitinin dayanağıdır."
+    },
+    {
+      "law": "Katma Değer Vergisi Kanunu",
+      "law_number": "3065",
+      "article": "29",
+      "context": "İndirimli orana tabi işlemler nedeniyle yüklenilen KDV'nin iadesi rejimine ilişkin koşulların değerlendirilmesinde dayanak olarak anılmıştır."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "3",
+      "context": "Vergi kanunlarının lafzı ve ruhu ile hüküm ifade edeceği kuralı, BKK'daki 'konut' ifadesinin lafzi yorumla belirlenmesinin gerekçesini oluşturmuştur."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "369",
+      "context": "Yetkili makamların yanlış izahatı veya içtihat değişikliği halinde vergi cezası kesilmeyeceği ve gecikme faizi hesaplanmayacağı kuralı, özelge doğrultusunda hareket eden mükellef yönünden vurgulanmıştır."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "413",
+      "context": "Mükelleflerin özelge ve sirküler talebine ilişkin usulü düzenleyen hüküm, özelgenin bilgilendirici niteliği değerlendirmesinin dayanağıdır."
+    },
+    {
+      "law": "Mal ve Hizmetlere Uygulanacak Katma Değer Vergisi Oranlarının Tespitine İlişkin Karar (2007/13033 sayılı BKK eki)",
+      "law_number": "2007/13033",
+      "article": "1",
+      "context": "Mal ve hizmet teslimlerinde uygulanacak KDV oranlarını ve eki (I) sayılı listenin 11. sırasında net alanı 150 m²'ye kadar konut teslimleri için %1 oranını belirleyen düzenleme uyuşmazlığın merkezindedir."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanunda ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6322",
+      "article": "22",
+      "context": "3065 sayılı Kanun'un 28. maddesinde uyuşmazlık dönemi itibarıyla yürürlükte olan değişikliği yapan hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6009",
+      "article": "14",
+      "context": "213 sayılı Kanun'un 369. maddesinin uyuşmazlık dönemindeki halini şekillendiren değişiklik olarak belirtilmiştir."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6009",
+      "article": "15",
+      "context": "213 sayılı Kanun'un 413. maddesinin uyuşmazlık dönemindeki halini şekillendiren değişiklik olarak belirtilmiştir."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi Dördüncü Daire",
+  "case_number": "9580/03",
+  "decision_number": null,
+  "decision_date": "2010-01-26",
+  "decision_type": "Esas Karar",
+  "is_final": false,
+  "finality_basis": "İşbu karar Sözleşme’nin 44 / 2 maddesinde belirtilen koşullar çerçevesinde kesinleşecek olup şekli bazı düzeltmelere tabi tutulabilir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Başvurunun kabul edilebilir olduğuna, Ek Protokol 1'in 1. maddesinin ve AİHS'nin 6/1 maddesinin ihlal edildiğine, AİHS'nin 41. maddesinin uygulanmasının bu aşamada uygulanamayacağına ve sonuç itibarıyla saklı tutulmasına karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvuranlar"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvuranlar",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Mülkiyet Hakkının ve Adil Yargılanma Hakkının İhlali İddiası",
+  "keywords": [
+    "mülkiyet hakkı",
+    "adil yargılanma hakkı",
+    "makul süre",
+    "tapu iptali",
+    "kamu yararı",
+    "tazminat",
+    "ek protokol 1 madde 1",
+    "aİhs madde 6",
+    "orman arazisi",
+    "iç hukuk yollarının tüketilmesi"
+  ],
+  "legal_issues": [
+    "Tapu senetlerinin iptal edilmesi suretiyle mülkiyet hakkına yapılan müdahale, kamu yararı olmaksızın ve tazminat ödenmeden gerçekleştirildiğinde orantısız mıdır?",
+    "Yargılama sürecinin uzunluğu AİHS'nin 6/1 maddesinde öngörülen makul süre ilkesini ihlal etmekte midir?",
+    "Mülkiyet hakkına yönelik müdahalenin genel menfaatler çerçevesinde ormanların korunması amacını güttüğü durumlarda, makul bir tazminat ödenmeksizin mülkten yoksun bırakma AİHS Ek Protokol 1 Madde 1 ile bağdaşır mı?",
+    "AİHS'nin 41. maddesi uyarınca tazminata hükmedilmesi için hangi koşullar gereklidir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, tapu senetlerinin iptali suretiyle başvurucuların mülkiyet hakkına yapılan müdahalenin Ek Protokol 1 Madde 1'e uygun olup olmadığının değerlendirilmesidir."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Başvurucuların yargılama sürecinin uzunluğu nedeniyle AİHS'nin 6/1 maddesinde güvence altına alınan adil yargılanma hakkının ihlal edildiği iddiası kararın diğer ana eksenini oluşturmaktadır."
+    },
+    {
+      "concept": "makul süre",
+      "role": "uygulanan",
+      "context_in_reasoning": "AİHS'nin 6/1 maddesi kapsamında, iki dereceli mahkemede sekiz yıldan fazla süren yargılama sürecinin makul süreyi aştığı tespit edilmiştir."
+    },
+    {
+      "concept": "iç hukuk yollarının tüketilmesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Hükümetin başvurucuların iç hukuk yollarını tüketmediği savunmasına karşı, AİHM benzer durumlarda bu itirazları reddettiğini belirterek başvurunun kabul edilebilir olduğuna karar vermiştir."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mülkten yoksun bırakma işleminin, genel menfaatler çerçevesinde tabiatın ve ormanların korunması amacını güttüğü kabul edilmiştir."
+    },
+    {
+      "concept": "tazminat",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mülkiyetten yoksun bırakma durumunda makul bir tazminat ödenmemesinin Ek Protokol 1 Madde 1 ile bağdaşmadığı belirtilmiş, ancak 41. maddenin uygulanması bu aşamada saklı tutulmuştur."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "reddedilen",
+      "context_in_reasoning": "Hükümetin, başvurucuların mülkiyet hakkı veya meşru beklentisi olmadığı yönündeki savunması AİHM tarafından reddedilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Tapu senetlerinin iptali suretiyle mülkiyet hakkına yapılan müdahale, kamu yararı olmaksızın ve tazminat ödenmeden gerçekleştirildiğinde Ek Protokol 1 Madde 1'i ihlal eder mi?",
+    "rule": "Ek Protokol 1 Madde 1, mülkten yoksun bırakmanın genel menfaatler çerçevesinde ve yasada öngörülen koşullara uygun olarak gerçekleştirilmesini ve bu durumda makul bir tazminat ödenmesini gerektirir.",
+    "application": "Başvurucuların mülkiyetinden yoksun bırakılması işleminin genel menfaatler çerçevesinde ormanların korunması amacını güttüğü kabul edilse de, makul bir tazminat ödenmemesi Ek Protokol 1 Madde 1'in ihlali anlamına gelmektedir.",
+    "conclusion": "Ek Protokol 1 Madde 1'in ihlal edildiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvuranlar",
+      "Orman Genel Müdürlüğü",
+      "ulusal mahkemeler"
+    ],
+    "context": "Alanya'da bulunan ve başvurucuların ataları adına kayıtlı iki arazinin Orman Genel Müdürlüğü tarafından ormanlık alan olduğu iddiasıyla tapularının iptali istemiyle dava açılması.",
+    "trigger": "Orman Genel Müdürlüğü'nün 1994 yılında söz konusu arazilerin tapularının iptali istemiyle dava açması ve ulusal mahkemelerin tapuları iptal ederek arazilerin bir kısmını Orman Genel Müdürlüğü adına tescil etmesi.",
+    "claim": "Kamu yararı olmaksızın ve tazminat ödenmeden mülkiyet haklarının ihlal edildiği ve yargılamanın uzun sürdüğü iddialarıyla AİHS ve Ek Protokol'ün ilgili maddelerinin ihlal edildiği iddiası."
+  }
+}

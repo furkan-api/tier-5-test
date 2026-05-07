@@ -1,0 +1,35 @@
+{
+  "file": "istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md",
+  "cited_court_decisions": [
+    {
+      "court": "İstanbul 7. Vergi Mahkemesi",
+      "cited_court_type": "İlk Derece İdare",
+      "case_number": "2022/2767",
+      "decision_number": "2023/786",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Ödeme emrinin iptaline karar veren ilk derece vergi mahkemesi kararı."
+    },
+    {
+      "court": "İstanbul Bölge İdare Mahkemesi 6. Vergi Dava Dairesi",
+      "cited_court_type": "Bölge İdare Mahkemesi",
+      "case_number": "2023/3667",
+      "decision_number": "2023/3908",
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "İstinaf başvurusunun reddine ilişkin BİM kararı."
+    },
+    {
+      "court": "Danıştay 3. Dairesi",
+      "cited_court_type": "Danıştay",
+      "case_number": "2023/10645",
+      "decision_number": "2025/1689",
+      "relation": "chained",
+      "outcome": "Bozma",
+      "treatment": null,
+      "context": "Temyiz başvurusunun kabulü ile verilen bozma kararı."
+    }
+  ]
+}

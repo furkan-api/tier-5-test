@@ -1,0 +1,99 @@
+{
+  "file": "danistay_6_daire_2021-12-27_2018-5135_2021-14464.md",
+  "court_type": "Danıştay",
+  "court": "Danıştay Altıncı Daire",
+  "case_number": "2018/5135",
+  "decision_number": "2021/14464",
+  "decision_date": "2021-12-27",
+  "decision_type": "Temyiz",
+  "is_final": true,
+  "finality_basis": "27/12/2021 tarihinde, kesin olarak karar verildi.",
+  "decision_outcome": "Kısmen Bozma",
+  "decision_outcome_raw": "Bölge İdare Mahkemesi kararının, imar planı değişikliklerinin A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlara ilişkin kısmı yönünden onanmasına, C Bölgesinde park ve rekreasyon alanı işlevine ayrılan kısmı yönünden ise bozulmasına karar verilmiştir.",
+  "vote_unanimity": null,
+  "has_dissent": true,
+  "dissent_summary": "Karşı oy, bilirkişi raporunun yerleşime uygun olmayan alanların yapılaşmaya açıldığına dair tespitinin isabetsiz olduğunu, jeolojik etütlerde belirtilen mühendislik önlemlerine uyulduğunu ve taşkın riski değerlendirmelerinin aksine DSİ görüşlerinin dikkate alınmadığını belirterek, temyiz isteminin A, B ve C bölgelerinin park ve rekreasyon alanı dışındaki kısımları yönünden kabul edilerek Bölge İdare Mahkemesi kararının bozulması gerektiğini savunmuştur.",
+  "appellants": [
+    "davalı",
+    "müdahil"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    },
+    {
+      "role": "müdahil",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanı 1/1000 Ölçekli Uygulama İmar Planı Revizyonunun İptali",
+  "keywords": [
+    "imar planı",
+    "kentsel dönüşüm",
+    "uygulama imar planı",
+    "nazım imar planı",
+    "plan hiyerarşisi",
+    "şehircilik ilkeleri",
+    "kamu yararı",
+    "jeolojik etüt",
+    "taşkın riski",
+    "hava koridoru",
+    "sosyal donatı alanı",
+    "teknik altyapı alanı"
+  ],
+  "legal_issues": [
+    "1/1000 ölçekli uygulama imar planı revizyonu, plan notları, nüfus yoğunluğu ve sosyal/teknik altyapı alanları açısından şehircilik ilke ve esaslarına, planlama tekniklerine ve kamu yararına uygun mudur?",
+    "Plan, jeolojik ve hidrojeolojik veriler ile taşkın ve heyelan risklerini yeterince dikkate alarak yapılaşma kararları üretmiş midir?",
+    "Planlama alanındaki yapılaşma koşulları, hava sirkülasyonunu ve kentin hava kalitesini olumsuz etkilemekte midir?",
+    "C Bölgesinde öngörülen park ve rekreasyon alanı işlevi, jeolojik uygunluk ve yapılaşma koşulları açısından hukuka uygun mudur?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "imar planı hiyerarşisi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Karar, alt ölçekli imar planının üst ölçekli planın ilke ve stratejilerine aykırı olamayacağı ilkesini temel almıştır."
+    },
+    {
+      "concept": "şehircilik ilkeleri ve planlama esasları",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava konusu imar planı revizyonunun, planlama teknikleri ve şehircilik ilkelerine uygunluğu değerlendirilmiştir."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "İmar planı kararlarının, özellikle can ve mal güvenliği ile çevresel etkiler açısından kamu yararına uygun olup olmadığı incelenmiştir."
+    },
+    {
+      "concept": "jeolojik ve jeoteknik etütler",
+      "role": "uygulanan",
+      "context_in_reasoning": "Alanların yerleşime uygunluğu ve yapılaşma riskleri, jeolojik ve jeoteknik etüt raporları doğrultusunda değerlendirilmiştir."
+    },
+    {
+      "concept": "taşkın riski",
+      "role": "uygulanan",
+      "context_in_reasoning": "Vadi tabanına yakın bölgelerdeki yapılaşmanın taşkın riskini artırıp artırmadığı ve gerekli önlemlerin alınıp alınmadığı incelenmiştir."
+    },
+    {
+      "concept": "hava koridoru",
+      "role": "uygulanan",
+      "context_in_reasoning": "A bölgesindeki yapılaşmanın hava sirkülasyonunu keserek kent hava kalitesini olumsuz etkileme potansiyeli değerlendirilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Ankara İli, Çankaya İlçesi, Mühye Yeni Güneypark KDGPA 1/1000 ölçekli uygulama imar planı revizyonu, şehircilik ilkeleri, planlama esasları, kamu yararı ve jeolojik güvenlik açısından hukuka uygun mudur?",
+    "rule": "İmar planları, plan hiyerarşisine, şehircilik ilke ve esaslarına, planlama tekniklerine ve kamu yararına uygun olmalı; yeterli sosyal ve teknik altyapı alanlarını içermeli, jeolojik ve çevresel riskleri dikkate alarak can ve mal güvenliğini sağlamalıdır.",
+    "application": "Planın A bölgesindeki yapılaşma koşulları hava sirkülasyonunu olumsuz etkilemekte; B bölgesi jeolojik, hidrojeolojik ve çevresel veriler açısından yapılaşmaya uygun değildir. C bölgesinde ise yerleşime uygun olmayan alanlar hariç, park ve rekreasyon alanı olarak ayrılması hukuka uygundur.",
+    "conclusion": "Bölge İdare Mahkemesi kararının, imar planının A ve B bölgeleri ile C Bölgesinde yerleşime uygun olmayan alanlara ilişkin kısmının iptali yönünden onanmasına, C Bölgesinde park ve rekreasyon alanı işlevine ayrılan kısmının iptali yönünden ise bozulmasına karar verilerek dosya yeniden incelenmek üzere Bölge İdare Mahkemesine gönderilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "davacı (idari)",
+      "davalı idare",
+      "müdahil"
+    ],
+    "context": "Ankara İli, Çankaya İlçesi, Mühye Yeni Güneypark Kentsel Dönüşüm Gelişim Proje Alanı'nda (KDGPA) onaylanan 1/1000 ölçekli uygulama imar planı revizyonu.",
+    "trigger": "Ankara Büyükşehir Belediye Meclisi'nin 1/1000 ölçekli uygulama imar planı revizyonuna ilişkin işleminin onaylanması.",
+    "claim": "Davacı belediye, söz konusu 1/1000 ölçekli uygulama imar planı revizyonunun şehircilik ilke ve esaslarına, planlama tekniklerine ve kamu yararına aykırı olduğu gerekçesiyle iptalini talep etmiştir."
+  }
+}

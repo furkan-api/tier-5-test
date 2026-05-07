@@ -1,0 +1,90 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi Dördüncü Daire",
+  "case_number": "2003/9580",
+  "decision_number": null,
+  "decision_date": "2010-01-26",
+  "decision_type": "Esas Karar",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Kısmen İhlal",
+  "decision_outcome_raw": "Ek 1 no'lu Protokol'ün 1. maddesi ve AİHS'nin 6/1 maddesi ihlal edilmiş, AİHS'nin 41. maddesinin uygulanması hususu saklı tutulmuştur.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucu"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucu",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Orman alanı olarak nitelendirilen taşınmazların tapu senetlerinin iptal edilmesi nedeniyle mülkiyet hakkı ve makul sürede yargılanma hakkının ihlali",
+  "keywords": [
+    "mülkiyet hakkı",
+    "orman alanları",
+    "tapu senedi iptali",
+    "kamulaştırma",
+    "tazminat",
+    "makul süre",
+    "adil yargılanma",
+    "ek 1 protokol madde 1",
+    "aihş madde 6/1"
+  ],
+  "legal_issues": [
+    "Tapu sicilinde geçerli olarak kayıtlı taşınmazların orman alanı olarak nitelendirilmesi nedeniyle tapu senetlerinin iptal edilmesi, Ek 1 no'lu Protokol'ün 1. maddesi kapsamında mülkiyet hakkının ihlali teşkil eder mi?",
+    "Mülkiyetten yoksun bırakma işleminin kamu yararı amacını gütsede, herhangi bir tazminat ödenmemesi Ek 1 no'lu Protokol'ün 1. maddesi ile bağdaşır mı?",
+    "Sekiz yıldan fazla süren yargılama süreci AİHS'nin 6/1 maddesi kapsamında makul süre ilkesini ihlal eder mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülkiyet hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni tapu sicilinde geçerli olarak kayıtlı taşınmazların orman alanı olarak nitelendirilmesi nedeniyle tapu senetlerinin iptal edilmesinin mülkiyet hakkına yönelik müdahale teşkil edip etmediğidir."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "uygulanan",
+      "context_in_reasoning": "Başvuranların tapu sicilinde kayıtlı ve geçerli mülkiyete dayanan meşru beklentileri olduğu ve bu beklentinin Ek 1 no'lu Protokol'ün 1. maddesi kapsamında korunması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "mülkten yoksun bırakma",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu senetlerinin iptal edilmesi işlemi Ek 1 no'lu Protokol'ün 1. maddesinin birinci bendinin ikinci cümlesi anlamında mülkten yoksun bırakma olarak değerlendirilmiştir."
+    },
+    {
+      "concept": "orantılılık",
+      "role": "uygulanan",
+      "context_in_reasoning": "Taşınmazın değeri ile uyuşmayan makul bir meblağ ödemeksizin mülkiyetten yoksun bırakmanın aşırı bir müdahaleyi oluşturduğu ve orantısızlık teşkil ettiği belirtilmiştir."
+    },
+    {
+      "concept": "makul süre",
+      "role": "uygulanan",
+      "context_in_reasoning": "Sekiz yıldan fazla süren yargılama süresi AİHS'nin 6/1 maddesi kapsamında makul süre ilkesini ihlal ettiği tespit edilmiştir."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Orman alanlarının korunması amacının kamu yararı çerçevesinde genel menfaatler kapsamında değerlendirilmesi ancak bu amacın tazminat ödenmemesini haklı kılamayacağı belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Tapu sicilinde geçerli olarak kayıtlı taşınmazların orman alanı olarak nitelendirilmesi nedeniyle tapu senetlerinin iptal edilmesi ve herhangi bir tazminat ödenmemesi, Ek 1 no'lu Protokol'ün 1. maddesi kapsamında mülkiyet hakkının ihlali teşkil eder mi?",
+    "rule": "Ek 1 no'lu Protokol'ün 1. maddesi uyarınca mülkiyet hakkı korunur. Mülkten yoksun bırakma işlemi kamu yararı amacını gütsede, taşınmazın değeri ile uyuşmayan makul bir meblağ ödemeksizin gerçekleştirilmesi aşırı bir müdahaleyi oluşturur ve orantısızlık teşkil eder.",
+    "application": "Başvuranlar tapu sicilinde geçerli olarak kayıtlı taşınmazlara sahip olup, bu mülkiyete dayanan meşru beklentileri vardır. Orman alanlarının korunması amacı kamu yararı çerçevesinde geçerli olsa da, başvuranlar taşınmazlarının orman Genel Müdürlüğüne devredilmesini müteakip herhangi bir tazminat elde edememişlerdir.",
+    "conclusion": "Tapu senetlerinin iptal edilmesi ve herhangi bir tazminat ödenmemesi Ek 1 no'lu Protokol'ün 1. maddesi ihlal edilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucu",
+      "Orman Genel Müdürlüğü",
+      "Türkiye Cumhuriyeti"
+    ],
+    "context": "Alanya'nın Tepe semtinde bulunan iki arazi 1968 yılındaki kadastro çalışmaları sırasında başvuranların ataları adına tarım arazisi olarak kaydedilmiş ve 1970 yılında tapu sicilinde tescil edilmiştir.",
+    "trigger": "Orman Genel Müdürlüğü 1994 yılında tapu senetlerinin iptal edilerek kendi adına tescil edilmesi yönünde dava açmış ve mahkemeler taşınmazların orman alanının bir bölümü olduğuna karar vermiştir.",
+    "claim": "Başvuranlar tapu senetlerinin iptal edilmesinin mülkiyet hakkını ihlal ettiğini ve makul sürede yargılanma hakkının ihlal edildiğini ileri sürmüştür."
+  }
+}

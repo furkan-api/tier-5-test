@@ -1,0 +1,262 @@
+{
+  "file": "yargitay_yibbgk_hukuk_2016_6_2017_5.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+  "case_number": "2016/6",
+  "decision_number": "2017/5",
+  "decision_date": "2017-12-15",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "Yargıtay Kanunu m.16/son ve m.45/5 uyarınca İçtihatları Birleştirme Kararları kesin olup tüm yargı organlarını bağlar.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususunda içtihat birleştirmeye gerek olmadığına oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucular"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucular",
+      "result": "ret"
+    }
+  ],
+  "subject": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususunda içtihat farklılığının giderilmesi talebi",
+  "summary": "Yargıtay daireleri arasında işçilik alacaklarının 6100 sayılı HMK'nın 107. maddesi kapsamında belirsiz alacak davasına konu olup olamayacağı hususunda ortaya çıkan içtihat farklılıklarının giderilmesi talep edilmiştir. Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu, belirsiz alacak davasının amacını ve işçilik alacaklarının çeşitliliğini değerlendirmiştir. Kurul, bir alacağın belirli mi yoksa belirsiz mi olduğunun, alacağın türüne göre genel bir kural olarak değil, her somut olayın özelliklerine, hesaplanma şekline ve davacının alacağı tam ve kesin olarak belirleyebilme imkanına göre tespit edilmesi gerektiğini belirtmiştir. Bu gerekçelerle, içtihadı birleştirme kararlarının soyut ve genel niteliğiyle bağdaşmayacağı sonucuna varılarak, işçilik alacakları konusunda içtihat birleştirmesine gerek olmadığına oy birliğiyle karar verilmiştir.",
+  "keywords": [
+    "işçilik alacakları",
+    "belirsiz alacak davası",
+    "kısmi dava",
+    "içtihat birleştirme",
+    "hmk madde 107",
+    "likit alacak",
+    "hak arama özgürlüğü",
+    "usul ekonomisi",
+    "kıdem tazminatı",
+    "ihbar tazminatı",
+    "fazla çalışma ücreti",
+    "yıllık izin ücreti"
+  ],
+  "legal_issues": [
+    "İşçilik alacakları, HMK m.107 kapsamında belirsiz alacak davasına konu edilebilir mi?",
+    "Bir alacağın belirli veya belirsiz nitelikte olup olmadığı, alacağın türüne göre mi yoksa somut olayın özelliklerine göre mi belirlenmelidir?",
+    "Yargıtay daireleri arasındaki işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağına ilişkin görüş farklılığı içtihat birleştirme yoluyla giderilmeli midir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "belirsiz alacak davası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, HMK m.107'de düzenlenen belirsiz alacak davasının işçilik alacakları bakımından uygulanabilirliğinin değerlendirilmesidir."
+    },
+    {
+      "concept": "işçilik alacakları",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Karar, kıdem tazminatı, ihbar tazminatı, yıllık izin ücreti, fazla çalışma ücreti gibi çeşitli işçilik alacaklarının belirsiz alacak niteliği taşıyıp taşımadığını incelemiştir."
+    },
+    {
+      "concept": "içtihat birleştirme kararı",
+      "role": "uygulanan",
+      "context_in_reasoning": "İçtihatları Birleştirme Büyük Genel Kurulu, içtihat birleştirme kararlarının soyut, genel ve normatif yapısıyla bağdaşmayan bir konuda karar verilemeyeceğini belirtmiştir."
+    },
+    {
+      "concept": "likit alacak",
+      "role": "tartışılan",
+      "context_in_reasoning": "Hukuk Genel Kurulu görüşünde, alacağın belirli olması kavramının tespitinde İcra ve İflas Kanunu'ndaki likit alacak kavramının yol gösterici olabileceği belirtilmiştir."
+    },
+    {
+      "concept": "hak arama özgürlüğü",
+      "role": "uygulanan",
+      "context_in_reasoning": "HMK m.107'nin gerekçesinde, hak arama özgürlüğünün önündeki engelleri kaldırmak amacıyla belirsiz alacak davasının getirildiği vurgulanmıştır."
+    },
+    {
+      "concept": "usul ekonomisi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Belirsiz alacak davasının, gereksiz masraf ve ikinci dava açılmasını engelleyerek usul ekonomisine uygun olduğu belirtilmiştir."
+    },
+    {
+      "concept": "kısmi dava",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "HMK m.109'da düzenlenen kısmi dava ile belirsiz alacak davası arasındaki farklar ve uygulama alanları tartışılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "İşçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususunda Yargıtay daireleri arasındaki görüş farklılığı içtihat birleştirme yoluyla giderilmeli midir?",
+    "rule": "Yargıtay İçtihatları Birleştirme Kararları, somut bir dava veya uyuşmazlıkla ilgili olmayıp, aynı tür uyuşmazlıkların tümü için geçerli soyut, genel ve normatif nitelikte kurallar ortaya koymayı amaçlar.",
+    "application": "İşçilik alacaklarının çok değişik tür ve nitelikte uyuşmazlık olarak mahkemeler önüne gelebileceği, aynı tür alacaklarda dahi her defasında alacağın belirli veya belirsiz olmasının somut olayın özelliğine göre değişeceği, bu nedenle alacağın türü itibarıyla genel bir belirleme yapılamayacağı tespit edilmiştir.",
+    "conclusion": "Bu hususta yapılacak içtihat birleştirmenin, içtihat birleştirme kararlarının soyut, genel ve normatif yapısıyla bağdaşmadığı gerekçesiyle içtihat birleştirmeye gerek olmadığına karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "avukatlar",
+      "Yargıtay daireleri",
+      "Yargıtay Hukuk Genel Kurulu",
+      "Yargıtay Birinci Başkanlık Kurulu"
+    ],
+    "context": "Yargıtay'ın farklı hukuk daireleri ve Hukuk Genel Kurulu arasında işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı konusunda farklı uygulamalar ve görüş ayrılıkları bulunmaktadır.",
+    "trigger": "Çeşitli avukatlar tarafından, işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağı hususundaki içtihat farklılıklarının giderilmesi için Yargıtay Birinci Başkanlığına başvurulmuştur.",
+    "claim": "Yargıtay daireleri arasındaki işçilik alacaklarının belirsiz alacak davasına konu olup olamayacağına ilişkin içtihat farklılığının İçtihatları Birleştirme Büyük Genel Kurulu tarafından giderilmesi talep edilmiştir."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 7. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6541",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/47206",
+      "decision_number": "2011/39092",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2011/51609",
+      "decision_number": "2012/1072",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/1757",
+      "decision_number": "2012/5742",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/10344",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/31734",
+      "decision_number": "2014/35646",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/442",
+      "decision_number": "2014/2051",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/9751",
+      "decision_number": "2014/9687",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2013/32365",
+      "decision_number": "2014/9970",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6867",
+      "decision_number": "2014/9971",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6874",
+      "decision_number": "2014/9975",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6872",
+      "decision_number": "2014/9976",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay 22. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2014/6869",
+      "decision_number": "2014/9973",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2012/9-838",
+      "decision_number": "2012/715",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat birleştirme talebine konu görüş ayrılığı kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2010/19-376",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Likit alacak kavramının belirlenmesinde yol gösterici HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihadı birleştirme kararlarının niteliği hakkında."
+    }
+  ]
+}

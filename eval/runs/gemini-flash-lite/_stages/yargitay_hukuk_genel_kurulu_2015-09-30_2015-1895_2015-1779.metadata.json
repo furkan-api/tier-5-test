@@ -1,0 +1,103 @@
+{
+  "file": "yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Hukuk Genel Kurulu",
+  "case_number": "2015/1895",
+  "decision_number": "2015/1779",
+  "decision_date": "2015-09-30",
+  "decision_type": "Direnme İncelemesi",
+  "is_final": null,
+  "finality_basis": null,
+  "decision_outcome": "Direnme Yerinde Görüldü",
+  "decision_outcome_raw": "Yerel mahkemenin direnme kararının isabetli olduğuna ve dosyanın esasının incelenmesi için Özel Daireye gönderilmesine oyçokluğu ile karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Bir kısım üyeler, davalının 4628 sayılı Kanun'un 15. maddesi uyarınca asıl işi alt işverene verebileceğini, ilişkinin muvazaalı olmadığını ve davacının toplu iş sözleşmesinden yararlanamayacağını savunmuştur.",
+  "appellants": [
+    "davalı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "davalı",
+      "result": "kısmen kabul"
+    }
+  ],
+  "subject": "Toplu iş sözleşmesinden kaynaklanan işçilik alacakları ve alt işverenlik ilişkisinin muvazaalı olup olmadığı",
+  "keywords": [
+    "alt işverenlik",
+    "muvazaa",
+    "toplu iş sözleşmesi",
+    "işçilik alacakları",
+    "asıl işveren",
+    "4857 sayılı İş Kanunu",
+    "4628 sayılı Kanun",
+    "kamu kurumu",
+    "hizmet alımı",
+    "direnme kararı"
+  ],
+  "legal_issues": [
+    "Davalı ile dava dışı şirketler arasında geçerli bir alt işverenlik ilişkisi bulunup bulunmadığı ve buna bağlı olarak davacının başından itibaren davalı işçisi sayılması gerekip gerekmediği noktasında uyuşmazlık bulunmaktadır.",
+    "4628 sayılı Elektrik Piyasası Kanunu'nun 15. maddesi uyarınca kamu tüzel kişilerinin hizmet alımı yoluyla iş yaptırabilmesi, 4857 sayılı İş Kanunu'nun alt işverenlik ilişkisine ilişkin sınırlamalarını kaldırır mı?",
+    "Alt işverenlik ilişkisinin muvazaalı olup olmadığının belirlenmesinde hangi kriterler göz önünde bulundurulmalıdır?",
+    "Davalı işverenin muvazaalı sözleşmeler ile davacıyı alt işverenin işçisi gibi göstererek toplu iş sözleşmesinden yararlandırmamasının hukuki sonucu nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "alt işverenlik ilişkisi",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Davanın temelini, davalı ile dava dışı şirketler arasında geçerli bir alt işverenlik ilişkisi bulunup bulunmadığı ve buna bağlı olarak davacının başından itibaren davalı işçisi sayılması gerekip gerekmediği oluşturmaktadır."
+    },
+    {
+      "concept": "muvazaa",
+      "role": "uygulanan",
+      "context_in_reasoning": "Alt işverenlik ilişkisinin muvazaalı olup olmadığının belirlenmesinde, tarafların gerçek iradelerinin işçi temini olduğu halde bunu asıl işveren-alt işveren ilişkisi olarak göstermeleri halinde muvazaalı hukuki işlem olduğu kabul edilmektedir."
+    },
+    {
+      "concept": "4857 sayılı İş Kanunu m.2",
+      "role": "uygulanan",
+      "context_in_reasoning": "Alt işverenlik ilişkisinin tanımı, yasakları ve muvazaaya bağlanan hukuki sonuçlar 4857 sayılı İş Kanunu'nun 2. maddesinde düzenlenmiştir."
+    },
+    {
+      "concept": "4628 sayılı Elektrik Piyasası Kanunu m.15",
+      "role": "tartışılan",
+      "context_in_reasoning": "Bu madde uyarınca kamu tüzel kişilerinin hizmet alımı yoluyla iş yaptırabilme imkanının, 4857 sayılı İş Kanunu'nun sınırlamalarını kaldırıp kaldırmadığı tartışılmıştır."
+    },
+    {
+      "concept": "toplu iş sözleşmesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Dava, toplu iş sözleşmesinden kaynaklanan işçilik alacaklarının tahsili istemine ilişkindir ve alt işveren işçisinin asıl işverenin toplu iş sözleşmesinden yararlanıp yararlanamayacağı uyuşmazlık konusudur."
+    },
+    {
+      "concept": "işçi temini",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Alt işverenlik ilişkisinin, işçi temini olarak değerlendirilmesi durumunda farklı hukuki sonuçlar doğuracağı belirtilerek, somut olayda işçi temini değil, bakım ve onarım işlerinin verilmesi söz konusu olduğu ifade edilmiştir."
+    },
+    {
+      "concept": "kamu kurumu",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davalı EÜAŞ'nin kamu tüzel kişiliğine sahip bir kurum olması ve 4628 sayılı Kanun'un ilgili maddesi uyarınca hizmet alımı yapabilmesi, alt işverenlik ilişkisinin değerlendirilmesinde dikkate alınmıştır."
+    },
+    {
+      "concept": "hizmet alımı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Davalı kurumun Kamu İhale Kanunu'na uygun olarak hizmet alımı yoluyla ihale yaptığı ve bu ihalelerin muvazaa denetimine tabi olduğu belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Davalı ile dava dışı şirketler arasında geçerli bir alt işverenlik ilişkisi bulunup bulunmadığı ve buna bağlı olarak davacının başından itibaren davalı işçisi sayılması gerekip gerekmediği noktasında uyuşmazlık bulunmaktadır.",
+    "rule": "4857 sayılı İş Kanunu'nun 2. maddesi, alt işverenlik ilişkisinin muvazaalı olması halinde işçilerin başlangıçtan itibaren asıl işverenin işçisi sayılacağını düzenlemektedir. Ancak, 4628 sayılı Elektrik Piyasası Kanunu'nun 15. maddesi, kamu tüzel kişilerinin hizmet alımı yoluyla iş yaptırabilmelerine olanak tanımaktadır.",
+    "application": "Somut olayda davalı EÜAŞ'nin kamu tüzel kişisi olması ve 4628 sayılı Kanun kapsamında hizmet alımı yapması dikkate alınarak, alt işverenlik ilişkisinin muvazaalı olup olmadığı incelenmiştir. Yapılan incelemede, davalı tarafından kurulan alt işverenlik sözleşmelerinin muvazaa nedeniyle geçersiz olduğu ve davacının başlangıçtan itibaren EÜAŞ işçisi olarak kabul edilmesi gerektiği sonucuna varılmıştır.",
+    "conclusion": "Yerel mahkemenin direnme kararının isabetli olduğuna ve davacının başlangıçtan itibaren EÜAŞ işçisi olarak kabulü ile hak ve alacaklarının buna göre belirlenmesi gerektiğine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "işçi",
+      "asıl işveren",
+      "alt işveren",
+      "sendika"
+    ],
+    "context": "Davacı, davalı EÜAŞ'nin santralinde alt işveren işçisi olarak çalışmakta ve toplu iş sözleşmesinden yararlandırılmadığını iddia etmektedir.",
+    "trigger": "Davacı işçinin, davalı işveren ile alt işverenler arasındaki ilişkinin muvazaalı olduğunu ve bu nedenle asıl işverenin işçisi sayılması gerektiğini ileri sürerek toplu iş sözleşmesinden kaynaklanan alacaklarının tahsilini talep etmesi.",
+    "claim": "Davacı, muvazaalı alt işverenlik ilişkisi nedeniyle asıl işveren davalının işçisi sayılmayı, işletme toplu iş sözleşmesinden kaynaklanan alacaklarının tahsilini talep etmektedir."
+  }
+}

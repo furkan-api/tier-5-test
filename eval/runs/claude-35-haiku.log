@@ -1,0 +1,390 @@
+INFO: [metadata] to_process=29  skipped=0  prompt=extract_metadata.md
+INFO: [metadata] Anthropic backend (model=claude-3-5-haiku-20241022)
+INFO: [metadata] [process] aihm_2010-01-26_9580-03.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   aihm_2010-01-26_9580-03.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8oPk7zB6BTXLqzQTN'}
+INFO: [metadata] [process] aihm_2023-10-10_58811-18.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   aihm_2023-10-10_58811-18.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8peeZ7iuRYEokCPkv'}
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8qfughusmvStkLhi6'}
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8reCc1stVT3fHmgw4'}
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8sjgcvnmMHJMXtdSe'}
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8tjDPNDqK1x464dVn'}
+INFO: [metadata] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8uhWHiiULJSgZqLjN'}
+INFO: [metadata] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_5_daire_2022-03-07_2017-6736_2022-748.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8vkWJe4VzgbNWGJj2'}
+INFO: [metadata] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_6_daire_2021-12-27_2018-5135_2021-14464.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8wioCWSAZ3pXmfb9B'}
+INFO: [metadata] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_ibk_idari_2021_6_2022_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8xkowzRNHpLiTiycq'}
+INFO: [metadata] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc8ypZ8eGDwjXWVsfMh'}
+INFO: [metadata] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_iddk_idari_1999_953_1999_889.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc91cTAsmnhTv1mZTo2'}
+INFO: [metadata] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc92odvJLaTvYsURoZp'}
+INFO: [metadata] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc93nRg4piZMuAp5aWn'}
+INFO: [metadata] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc95FyWxmPnNDp2AZV8'}
+INFO: [metadata] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc96Ky5LqHF7Jo6B53J'}
+INFO: [metadata] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc97NUWifFNmKZLpHXL'}
+INFO: [metadata] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc98NFuZd6CDyjzHHzs'}
+INFO: [metadata] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc99Wi59DRRHuUnA8Ux'}
+INFO: [metadata] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9AXyfLNQaNd1KzigP'}
+INFO: [metadata] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   uyusmazlik_2003-06-16_2002-18_2003-32.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9BZjvuDHtEExC7iUJ'}
+INFO: [metadata] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9CcFDYUR5zemisQup'}
+INFO: [metadata] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9E3ZYqAa6hW1CJe54'}
+INFO: [metadata] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9F4qNM8B5au5QdkG2'}
+INFO: [metadata] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9G3NPbwdZpq9s8ZSB'}
+INFO: [metadata] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9HCKaw5Tx6xkvJrCk'}
+INFO: [metadata] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9JJ477VJQQsLJ9SEo'}
+INFO: [metadata] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_ibhgk_hukuk_1974_1_1974_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9Kzk9fCtgg7975Z57'}
+INFO: [metadata] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [metadata] [error]   yargitay_yibbgk_hukuk_2016_6_2017_5.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9MMrN9P5skMDwabF5'}
+INFO: [metadata] Done — ok=0 truncated=0 invalid_json=0 errors=29 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: [summary] to_process=29  skipped=0  prompt=extract_summary.md
+INFO: [summary] Anthropic backend (model=claude-3-5-haiku-20241022)
+INFO: [summary] [process] aihm_2010-01-26_9580-03.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   aihm_2010-01-26_9580-03.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9PutfEMrnKTF3Yj67'}
+INFO: [summary] [process] aihm_2023-10-10_58811-18.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   aihm_2023-10-10_58811-18.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9RbLt9XnXC2KjvJAK'}
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9ScrwuovQgvQqhU7f'}
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9TctU5Yzh9NWaGnwk'}
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9UcR4URycjdMeMPzK'}
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9VbhDf1W97ovUS4Cb'}
+INFO: [summary] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9WZzSA5gaD4sGy1Ls'}
+INFO: [summary] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_5_daire_2022-03-07_2017-6736_2022-748.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9XhTQAAz4QtfCcw9B'}
+INFO: [summary] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_6_daire_2021-12-27_2018-5135_2021-14464.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9Yzqa9arEJXwxRAxo'}
+INFO: [summary] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_ibk_idari_2021_6_2022_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9a1rhkV4t3QHZt9Xm'}
+INFO: [summary] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9b19B3NThqFE5cfDo'}
+INFO: [summary] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_iddk_idari_1999_953_1999_889.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9c49AvCzwCjU36jSs'}
+INFO: [summary] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9czhT2VPHauzeQtyn'}
+INFO: [summary] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9dyV1AAy2YuiZcKPi'}
+INFO: [summary] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9ey1WTFdAw11iNtpb'}
+INFO: [summary] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9fv4cKeFQBGArDy11'}
+INFO: [summary] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9guM1ih2jktd3q2NM'}
+INFO: [summary] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9hqepXJsVqEW4Y2dN'}
+INFO: [summary] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9ipS3tDDQEZSJXjo7'}
+INFO: [summary] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9jpDBUggfnuzbVXNC'}
+INFO: [summary] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   uyusmazlik_2003-06-16_2002-18_2003-32.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9krUP4AUHL4BK2L1e'}
+INFO: [summary] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9n9cTXxmWF6KE3FgF'}
+INFO: [summary] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9oVicWqDCe8KQPp9L'}
+INFO: [summary] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9pkdPJRyDZ9G5vnP3'}
+INFO: [summary] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9qjuWQTeYJ2PghUGA'}
+INFO: [summary] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9rpeTK2RK9ekkDr2p'}
+INFO: [summary] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9sybX8hbtUbyHvBBd'}
+INFO: [summary] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_ibhgk_hukuk_1974_1_1974_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9u8YuAwcAdtnaTTf9'}
+INFO: [summary] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [summary] [error]   yargitay_yibbgk_hukuk_2016_6_2017_5.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9vuhsk5zSd79NfZDq'}
+INFO: [summary] Done — ok=0 truncated=0 invalid_json=0 errors=29 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: [citations_decisions] to_process=29  skipped=0  prompt=extract_cited_court_decisions.md
+INFO: [citations_decisions] Anthropic backend (model=claude-3-5-haiku-20241022)
+INFO: [citations_decisions] [process] aihm_2010-01-26_9580-03.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   aihm_2010-01-26_9580-03.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9ydff8th458UuBTx2'}
+INFO: [citations_decisions] [process] aihm_2023-10-10_58811-18.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   aihm_2023-10-10_58811-18.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Caoc9zmsxYXgnNA73Dic1'}
+INFO: [citations_decisions] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocA1n9krPbvgntXgsnf'}
+INFO: [citations_decisions] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocA2jhTZftYoH47xcYP'}
+INFO: [citations_decisions] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocA3mDQukZL1Fhjh3VP'}
+INFO: [citations_decisions] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocA65NCnuaa4qbym7tK'}
+INFO: [citations_decisions] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocA7XvkwL51MRdcasdc'}
+INFO: [citations_decisions] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_5_daire_2022-03-07_2017-6736_2022-748.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocA8e9u5VACSssfUuqX'}
+INFO: [citations_decisions] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_6_daire_2021-12-27_2018-5135_2021-14464.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAA3V9t9FgKi6pRh2S'}
+INFO: [citations_decisions] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_ibk_idari_2021_6_2022_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAB2GogannraMRiJka'}
+INFO: [citations_decisions] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocABzKCPRmBt3Mpozdv'}
+INFO: [citations_decisions] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_iddk_idari_1999_953_1999_889.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocADBW4NDLiCFxrACXS'}
+INFO: [citations_decisions] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAEGVNkJrpZigMmaf9'}
+INFO: [citations_decisions] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAFEXjHAsPFuktezSr'}
+INFO: [citations_decisions] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAGJXLpPDyHSKHq4MW'}
+INFO: [citations_decisions] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAHLXuNk5fCUyn5VUA'}
+INFO: [citations_decisions] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAJWyVn9efV5WrMr9B'}
+INFO: [citations_decisions] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAKUXJ37mhra4XAPy5'}
+INFO: [citations_decisions] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocALWnBho4HbBZYY86S'}
+INFO: [citations_decisions] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAMXJX9Z75h4iYB6WY'}
+INFO: [citations_decisions] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   uyusmazlik_2003-06-16_2002-18_2003-32.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocANVbQBzMisUhnhYgn'}
+INFO: [citations_decisions] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAPStggr5Ndi6vAvpP'}
+INFO: [citations_decisions] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocARAKwDmCT7cWUd9dG'}
+INFO: [citations_decisions] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocASVwYv3TfpfNKvgYZ'}
+INFO: [citations_decisions] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocATduTnjLb8zb4E6yM'}
+INFO: [citations_decisions] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAVk9t1NFVGwkDodrA'}
+INFO: [citations_decisions] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAWmB8KAyzJCewdKmV'}
+INFO: [citations_decisions] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_ibhgk_hukuk_1974_1_1974_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAXpfmQrmhBn2bUtUn'}
+INFO: [citations_decisions] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_decisions] [error]   yargitay_yibbgk_hukuk_2016_6_2017_5.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAZFVraV5zbRH7aLMo'}
+INFO: [citations_decisions] Done — ok=0 truncated=0 invalid_json=0 errors=29 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: [citations_laws] to_process=29  skipped=0  prompt=extract_cited_law_articles.md
+INFO: [citations_laws] Anthropic backend (model=claude-3-5-haiku-20241022)
+INFO: [citations_laws] [process] aihm_2010-01-26_9580-03.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   aihm_2010-01-26_9580-03.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAbfbrXVDnYBuF1hdd'}
+INFO: [citations_laws] [process] aihm_2023-10-10_58811-18.md
+/Users/cagdas/Documents/GitHub/GraphRAG/app/ingestion/llm_process.py:317: DeprecationWarning: The model 'claude-3-5-haiku-20241022' is deprecated and will reach end-of-life on February 19th, 2026.
+Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resources/model-deprecations for more information.
+  response = self._client.messages.create(
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   aihm_2023-10-10_58811-18.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAcfdQpUjVDm6VUFiy'}
+INFO: [citations_laws] [process] anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAdh9MUm6YDY35b47M'}
+INFO: [citations_laws] [process] anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   anayasa_mahkemesi_genel_kurul_2016-04-21_2013-2130.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAehR7eeTh5TF1tpco'}
+INFO: [citations_laws] [process] anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   anayasa_mahkemesi_genel_kurul_2017-06-22_2014-11657.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAfqNwAeugqab75jHx'}
+INFO: [citations_laws] [process] anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   anayasa_mahkemesi_genel_kurul_2024-01-24_2021-2278.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAgqQFL1MFgLDKWPZD'}
+INFO: [citations_laws] [process] anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAhqgM8D3Pumsxq2aS'}
+INFO: [citations_laws] [process] danistay_5_daire_2022-03-07_2017-6736_2022-748.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_5_daire_2022-03-07_2017-6736_2022-748.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAjNhWzVLTmfyHaTFN'}
+INFO: [citations_laws] [process] danistay_6_daire_2021-12-27_2018-5135_2021-14464.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_6_daire_2021-12-27_2018-5135_2021-14464.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAkYtsDCSNREPxo7pE'}
+INFO: [citations_laws] [process] danistay_ibk_idari_2021_6_2022_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_ibk_idari_2021_6_2022_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAoCPMxkEVmhzA6QxF'}
+INFO: [citations_laws] [process] danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_idare_dava_daireleri_kurulu_2025-10-08_2025-1808_2025-1867.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocApAgYK8dBW5nFCywR'}
+INFO: [citations_laws] [process] danistay_iddk_idari_1999_953_1999_889.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_iddk_idari_1999_953_1999_889.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAqEvJpzLWqB6yA2YQ'}
+INFO: [citations_laws] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1401_2025-744.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocArCxzHWfMDuCzU41v'}
+INFO: [citations_laws] [process] danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   danistay_vergi_dava_daireleri_kurulu_2025-10-08_2023-1434_2025-749.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAsAGH3xJGi62YyBPJ'}
+INFO: [citations_laws] [process] diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   diyarbakir_bolge_adliye_mahkemesi_6_hukuk_dairesi_2022-09-06_2022-2496_2022-1639.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAtBn1KDVwWmLfX5s5'}
+INFO: [citations_laws] [process] istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAu8q21wsDTT8dC2Ra'}
+INFO: [citations_laws] [process] istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   istanbul_bim_6_vdd_2025-05-14_2025-2172_2025-2209.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAvDZhrTmKAKiBEscC'}
+INFO: [citations_laws] [process] istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   istanbul_bim_7_vdd_2025-05-14_2025-1503_2025-1478.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAwYgVvchSfRNmBvVF'}
+INFO: [citations_laws] [process] istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   istanbul_bolge_adliye_mahkemesi_9_hukuk_dairesi_2024-12-18_2022-1240_2024-2204.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAxbgrDRyPQ5VeyPs5'}
+INFO: [citations_laws] [process] kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   kayseri_2_asliye_ticaret_mahkemesi_2021-12-15_2021-572_2021-1122.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAyk9XHna5G9UvoB28'}
+INFO: [citations_laws] [process] uyusmazlik_2003-06-16_2002-18_2003-32.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   uyusmazlik_2003-06-16_2002-18_2003-32.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocAzkREoBCZrZuM1KGL'}
+INFO: [citations_laws] [process] yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_8_hukuk_dairesi_2021-12-15_2021-5741_2021-12538.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB1mgUWPj6syDoVW11'}
+INFO: [citations_laws] [process] yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_8_hukuk_dairesi_2022-05-25_2021-11885_2022-4969.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB2qgTYc9FJzs2dFU7'}
+INFO: [citations_laws] [process] yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_ceza_genel_kurulu_2019-03-21_2017-647_2019-239.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB3swSZSf9v9xyH7Yj'}
+INFO: [citations_laws] [process] yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB4xRkh3YqpVv6nkvo'}
+INFO: [citations_laws] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1895_2015-1779.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB6NFuvtJzXoCpYtnX'}
+INFO: [citations_laws] [process] yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_hukuk_genel_kurulu_2015-09-30_2015-1962_2015-1846.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB7Nn95qrDYBeHXJsX'}
+INFO: [citations_laws] [process] yargitay_ibhgk_hukuk_1974_1_1974_2.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_ibhgk_hukuk_1974_1_1974_2.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB8WVMnXBagzxvV77C'}
+INFO: [citations_laws] [process] yargitay_yibbgk_hukuk_2016_6_2017_5.md
+INFO: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+ERROR: [citations_laws] [error]   yargitay_yibbgk_hukuk_2016_6_2017_5.md: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CaocB9pcw9GKyB8wRd6oF'}
+INFO: [citations_laws] Done — ok=0 truncated=0 invalid_json=0 errors=29 skipped=0
+INFO: Single-stage run — merge skipped (run without --stage, or use --merge-only, to regenerate <stem>.json from the intermediates).
+INFO: Merge-only mode — intermediate=/Users/cagdas/Documents/GitHub/GraphRAG/eval/runs/claude-35-haiku/_stages  output=/Users/cagdas/Documents/GitHub/GraphRAG/eval/runs/claude-35-haiku
+INFO: Merge done — merged=0 complete=0 partial=0 empty=0

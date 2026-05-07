@@ -1,0 +1,104 @@
+{
+  "file": "yargitay_ceza_genel_kurulu_2019-05-09_2019-35_2019-398.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay Ceza Genel Kurulu",
+  "case_number": "2019/35",
+  "decision_number": "2019/398",
+  "decision_date": "2019-05-09",
+  "decision_type": "Diğer",
+  "is_final": false,
+  "finality_basis": "Yargıtay Cumhuriyet Başsavcılığının itirazının kabulü ve Özel Daire onama kararının kaldırılması nedeniyle ilk derece mahkemesi hükmü kesinleşmemiştir; dosya Aile, Çalışma ve Sosyal Hizmetler Bakanlığına tebliğ için geri gönderilmiştir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Yargıtay Cumhuriyet Başsavcılığının itirazının değişik gerekçeyle kabulüne, Yargıtay 14. Ceza Dairesinin onama kararının kaldırılmasına, sanığın infazının durdurulmasına ve tahliyesine, dosyanın Aile, Çalışma ve Sosyal Hizmetler Bakanlığına tebliğ için Yargıtay 14. Ceza Dairesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına tevdi edilmesine oy çokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oy çokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Beş Genel Kurul Üyesi, Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davadan haberdar edilmesinin zorunlu olmadığı; üç Genel Kurul Üyesi ise sanığın tahliye edilmesine yer olmadığı görüşüyle karşı oy kullanmışlardır.",
+  "appellants": [
+    "Cumhuriyet savcısı"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "Cumhuriyet savcısı",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Çocuğun cinsel istismarı suçunda Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davadan haberdar edilme zorunluluğu ve suçun niteliği",
+  "keywords": [
+    "çocuğun cinsel istismarı",
+    "sarkıntılık",
+    "lehe kanun",
+    "hak yoksunluğu",
+    "aile, çalışma ve sosyal hizmetler bakanlığı",
+    "davaya katılma",
+    "adil yargılanma hakkı",
+    "kanun yolları",
+    "tebliğ",
+    "pozitif ayrımcılık",
+    "uluslararası sözleşmeler",
+    "tahliye"
+  ],
+  "legal_issues": [
+    "Aile, Çalışma ve Sosyal Hizmetler Bakanlığının çocuğun cinsel istismarı suçundan açılan kamu davasından haberdar edilmesi zorunlu mudur?",
+    "Bakanlığın davadan haberdar edilmemesi, kanun yollarına başvurma hakkını kısıtlar mı?",
+    "Hükmün kesinleştiği inancıyla yakalama kararı çıkarılan sanığın tahliyesi gerekir mi?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "aile, çalışma ve sosyal hizmetler bakanlığının davaya katılma hakkı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, 6284 sayılı Kanun uyarınca Bakanlığın çocuklara yönelik cinsel istismar davalarına katılma hakkının usuli güvencelerinin sağlanmasıdır."
+    },
+    {
+      "concept": "pozitif ayrımcılık",
+      "role": "uygulanan",
+      "context_in_reasoning": "Anayasa ve uluslararası sözleşmelerle güvence altına alınan pozitif ayrımcılık ilkesi, Bakanlığın davaya katılma hakkının önemini vurgulamaktadır."
+    },
+    {
+      "concept": "adil yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bakanlığın davadan haberdar edilmemesi, hak arama hürriyeti ve adil yargılanma hakkının ihlali anlamına gelmektedir."
+    },
+    {
+      "concept": "kanun yollarına başvurma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Bakanlığın gerekçeli karardan haberdar edilmemesi, kanun yollarına başvurma hakkının kısıtlanmasına yol açmıştır."
+    },
+    {
+      "concept": "çocuğun cinsel istismarı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Karar, çocuğun cinsel istismarı suçunun hassasiyeti nedeniyle Bakanlığın rolünü vurgulamaktadır."
+    },
+    {
+      "concept": "uluslararası sözleşmeler",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kadına ve çocuğa yönelik şiddetle mücadeledeki uluslararası sözleşmeler, Bakanlığın davaya katılma hakkının yasal dayanağını oluşturmaktadır."
+    },
+    {
+      "concept": "lehe kanun uygulaması",
+      "role": "tartışılan",
+      "context_in_reasoning": "Özel Daire'nin bozma kararında TCK'nın 7/2 maddesi uyarınca lehe kanun uygulamasının gerekliliği belirtilmiş, ancak bu husus Ceza Genel Kurulu'nun öncelikli inceleme konusu olmamıştır."
+    },
+    {
+      "concept": "sarkıntılık",
+      "role": "tartışılan",
+      "context_in_reasoning": "Yargıtay Cumhuriyet Başsavcılığı itirazında eylemin sarkıntılık suçunu oluşturduğu ileri sürülmüş, ancak bu husus da Ceza Genel Kurulu'nun öncelikli inceleme konusu olmamıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Çocuğun cinsel istismarı suçundan açılan kamu davasında Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davadan haberdar edilmesi ve gerekçeli kararın tebliği zorunlu mudur?",
+    "rule": "6284 sayılı Kanun'un 20/2. maddesi ve Uygulama Yönetmeliği'nin 46. maddesi ile Anayasa'nın 40. maddesi ve CMK'nın 35, 234, 260. maddeleri uyarınca, kadın, çocuk ve aile bireylerine yönelik şiddet davalarında Aile, Çalışma ve Sosyal Hizmetler Bakanlığının davaya katılma hakkı bulunmakta olup, bu hakkın sağlanması için Bakanlığın davadan haberdar edilmesi ve kanun yollarına başvurma hakkını kullanabilmesi amacıyla gerekçeli kararın tebliğ edilmesi zorunludur.",
+    "application": "Sanık hakkında açılan çocuğun basit cinsel istismarı davasında Aile, Çalışma ve Sosyal Hizmetler Bakanlığına duruşma davetiyesi çıkarılmamış ve gerekçeli karar tebliğ edilmemiştir. Bu durum, Bakanlığın kanundan doğan katılma ve kanun yollarına başvurma haklarını kullanmasını kısıtlamıştır.",
+    "conclusion": "Yargıtay Cumhuriyet Başsavcılığının itirazı değişik gerekçeyle kabul edilerek Özel Daire onama kararının kaldırılmasına, sanığın infazının durdurulmasına ve tahliyesine, dosyanın Bakanlığa tebliğ için ilgili Daireye tevdi edilmesine karar verilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "sanık",
+      "mağdure",
+      "Cumhuriyet savcısı",
+      "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı"
+    ],
+    "context": "Mağdurenin çalıştığı fırında sanık tarafından cinsel istismara uğradığı iddiasıyla açılan kamu davası.",
+    "trigger": "Sanığın mağdureye yönelik memesine dokunma ve kasıklarına dokunma girişimi eylemi iddiası üzerine kamu davası açılması.",
+    "claim": "Sanığın çocuğun basit cinsel istismarı suçundan TCK'nın ilgili maddeleri uyarınca cezalandırılması ve hak yoksunluğuna hükmedilmesi."
+  }
+}

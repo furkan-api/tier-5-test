@@ -1,0 +1,248 @@
+{
+  "file": "aihm_2010-01-26_9580-03.md",
+  "court_type": "AİHM",
+  "court": "Avrupa İnsan Hakları Mahkemesi Dördüncü Dairesi",
+  "case_number": "9580/03",
+  "decision_number": null,
+  "decision_date": "2010-01-26",
+  "decision_type": "Esas Karar",
+  "is_final": null,
+  "finality_basis": "Karar, AİHS'nin 44/2 maddesinde belirtilen koşullar çerçevesinde kesinleşecek olup henüz kesinleşmemiştir.",
+  "decision_outcome": "İhlal Var",
+  "decision_outcome_raw": "Başvurunun kabul edilebilir olduğuna, Ek 1 No'lu Protokol'ün 1. maddesi ile AİHS'nin 6/1 maddesinin ihlal edildiğine ve 41. madde uygulamasının saklı tutulmasına oybirliğiyle karar verilmiştir.",
+  "vote_unanimity": "oybirliği",
+  "has_dissent": false,
+  "dissent_summary": null,
+  "appellants": [
+    "başvurucular"
+  ],
+  "appeal_outcomes_by_role": [
+    {
+      "role": "başvurucular",
+      "result": "kabul"
+    }
+  ],
+  "subject": "Tapulu Taşınmazların Orman Niteliği Gerekçesiyle Tazminatsız İptali Nedeniyle Mülkiyet Hakkının ve Makul Sürede Yargılanma Hakkının İhlali",
+  "summary": "Başvurucular, atalarına 1970 yılında tapuda tescil edilen iki taşınmazın Orman Genel Müdürlüğünün açtığı dava sonucunda kısmen orman vasfında sayılarak tapularının iptal edildiğini ve herhangi bir tazminat ödenmediğini ileri sürerek mülkiyet haklarının ve makul sürede yargılanma haklarının ihlal edildiğini iddia etmiştir. AİHM, geçerli bir tapu kaydına dayanan mülkiyetin Ek 1 No'lu Protokol'ün 1. maddesi anlamında 'mülk' teşkil ettiğini, kamu yararı amacı bulunsa da tazminat ödenmeksizin mülkten yoksun bırakmanın orantısız bir müdahale oluşturduğunu tespit etmiştir. Ayrıca yaklaşık sekiz yıl süren yargılamanın makul süreyi aştığına hükmetmiştir. 41. maddenin uygulanması saklı tutulmuştur.",
+  "keywords": [
+    "mülkiyet hakkı",
+    "orman vasfı",
+    "tapu iptali",
+    "tazminatsız mülkten yoksun bırakma",
+    "kamu yararı",
+    "orantılılık",
+    "makul sürede yargılanma",
+    "meşru beklenti",
+    "iç hukuk yollarının tüketilmesi",
+    "ek 1 no'lu protokol madde 1"
+  ],
+  "legal_issues": [
+    "Geçerli tapuya dayanan ancak sonradan orman vasfı gerekçesiyle iptal edilen taşınmaz, Ek 1 No'lu Protokol'ün 1. maddesi anlamında 'mülk' teşkil eder mi?",
+    "Orman alanlarının korunması amacıyla yapılan tapu iptali işleminde tazminat ödenmemesi mülkiyet hakkına orantısız bir müdahale midir?",
+    "Medeni Kanun m.1007 kapsamındaki tazminat davası yolu, orman nedeniyle tapu iptaline karşı tüketilmesi gereken etkili bir iç hukuk yolu mudur?",
+    "İki dereceli yargılamada yaklaşık sekiz yıl süren bir mülkiyet uyuşmazlığı AİHS m.6/1 anlamında makul süreyi aşmakta mıdır?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "mülk kavramı",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Geçerli tapuya dayanan taşınmazın Ek 1 No'lu Protokol'ün 1. maddesi anlamında 'mevcut mülk' teşkil ettiği tespit edilerek müdahalenin varlığı ortaya konmuştur."
+    },
+    {
+      "concept": "mülkten yoksun bırakma",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapu iptali ve Hazine adına tescil işlemi, Ek 1 No'lu Protokol'ün 1. maddesinin birinci bendinin ikinci cümlesi anlamında mülkten yoksun bırakma olarak nitelendirilmiştir."
+    },
+    {
+      "concept": "orantılılık ilkesi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tabiatın ve ormanların korunması meşru amacına rağmen tazminat ödenmeksizin gerçekleştirilen müdahalenin orantısız olduğu sonucuna varılmıştır."
+    },
+    {
+      "concept": "kamu yararı",
+      "role": "tartışılan",
+      "context_in_reasoning": "Ormanların korunması amacının genel menfaat kapsamında meşru bir amaç oluşturduğu kabul edilmiş ancak tek başına müdahaleyi haklı kılmaya yetmediği belirtilmiştir."
+    },
+    {
+      "concept": "iç hukuk yollarının tüketilmesi",
+      "role": "reddedilen",
+      "context_in_reasoning": "Hükümetin Medeni Kanun m.1007 ve Borçlar Kanununa dayalı tazminat yollarının tüketilmediği itirazı, AİHM'nin yerleşik içtihadına atıfla reddedilmiştir."
+    },
+    {
+      "concept": "makul sürede yargılanma hakkı",
+      "role": "uygulanan",
+      "context_in_reasoning": "İki dereceli mahkemede sekiz yılı aşan yargılama süresi, AİHM'nin yerleşik içtihadı ışığında makul süreyi aşar bulunmuştur."
+    },
+    {
+      "concept": "meşru beklenti",
+      "role": "yorumlanan",
+      "context_in_reasoning": "Tapu sicilinde kayıtlı geçerli mülkiyetin, iptal kararına dek hukuki güvence sağladığı ve başvurucuların meşru beklentilerinin bulunduğu yorumu yapılmıştır."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Geçerli tapuya dayanan taşınmazın orman vasfı gerekçesiyle ve tazminat ödenmeksizin iptali, Ek 1 No'lu Protokol'ün 1. maddesi anlamında mülkiyet hakkının orantısız bir ihlalini oluşturur mu?",
+    "rule": "AİHM içtihadına göre, tapu sicilinde usulüne uygun olarak kayıtlı bir mülkiyet 'mevcut mülk' teşkil eder; ormanların korunması meşru bir kamu yararı amacı oluşturmakla birlikte, taşınmazın değeriyle uyumlu makul bir tazminat ödenmeksizin gerçekleştirilen mülkten yoksun bırakma, istisnai koşullar dışında Ek 1 No'lu Protokol'ün 1. maddesi ile bağdaşmaz.",
+    "application": "Başvurucuların atalarına 1970'te tescil edilen taşınmazların tapuları orman vasfı nedeniyle iptal edilerek Hazine adına tescil edilmiş, ancak başvuruculara herhangi bir tazminat ödenmemiştir; Hükümet farklı bir sonucu haklı kılacak ikna edici delil sunamamıştır.",
+    "conclusion": "Mülkiyet hakkına yönelik müdahalenin orantısız olduğu ve Ek 1 No'lu Protokol'ün 1. maddesinin ihlal edildiği; ayrıca sekiz yılı aşan yargılama nedeniyle AİHS m.6/1'in de ihlal edildiği sonucuna varılmıştır."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "başvurucular",
+      "Orman Genel Müdürlüğü",
+      "asliye hukuk mahkemesi"
+    ],
+    "context": "Alanya'da bulunan ve 1968 kadastro çalışmalarında başvurucuların atalarına tarım arazisi olarak tescil edilen, 1970'te tapuya kaydı yapılmış iki taşınmazın hukuki durumu.",
+    "trigger": "Orman Genel Müdürlüğünün 1994 yılında, taşınmazların orman vasfında olduğu iddiasıyla tapu iptal ve tescil davası açması ve mahkemenin taşınmazların önemli bir kısmının orman alanı olduğuna karar vererek tapuları kısmen iptal etmesi.",
+    "claim": "Tapu iptalinin kamu yararı bulunmaksızın ve tazminat ödenmeksizin gerçekleştirildiği, ayrıca yargılamanın aşırı uzun sürdüğü iddiasıyla mülkiyet hakkı ile makul sürede yargılanma hakkının ihlalinin tespiti ve tazminat."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "44912/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Kopecky - Slovakya kararı, 'meşru beklenti' kavramının iç hukuktaki yerleşik içtihada dayanma şartının açıklanması için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "11841/02",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Özden - Türkiye (no 1) kararı, 'mevcut mülk' ve 'meşru beklenti' kavramlarının kapsamı bağlamında Hükümetçe ileri sürülmüş, AİHM'nin değerlendirmesinde anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "42527/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Prince Hans-Adam II Liechtenstein - Almanya kararı, etkili istifade imkânı olmayan mülkiyet hakkının 'mülk' sayılmayacağı içtihadı için anılmıştır."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "39794/98",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Gratzinger ve Gratzingerova - Çek Cumhuriyeti kararı, şarta bağlı alacakların 'mülk' kavramı dışında kaldığı ilkesi için referans gösterilmiştir."
+    },
+    {
+      "court": "Avrupa İnsan Hakları Mahkemesi",
+      "cited_court_type": "AİHM",
+      "case_number": "30979/96",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Frydlender - Fransa kararı, yargılama süresinin makul olup olmadığının değerlendirilmesinde kullanılan yerleşik içtihat olarak anılmıştır."
+    },
+    {
+      "court": "Alanya Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1994/342",
+      "decision_number": "1998/118",
+      "relation": "chained",
+      "outcome": "İhlal Var",
+      "treatment": null,
+      "context": "AİHM önündeki başvuruya konu yargılamada 2 numaralı parsele ilişkin tapu iptali ve tescil kararı veren ilk derece mahkemesi kararıdır."
+    },
+    {
+      "court": "Alanya Asliye Hukuk Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": "1994/346",
+      "decision_number": "1998/118",
+      "relation": "chained",
+      "outcome": "İhlal Var",
+      "treatment": null,
+      "context": "12 numaralı parsele ilişkin tapu iptali ve Hazine adına tescile karar veren ve başvuruya konu yargılamayı oluşturan ilk derece mahkemesi kararıdır."
+    },
+    {
+      "court": "Yargıtay",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1992/11290",
+      "decision_number": "1993/5824",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Tapu sicilindeki ibarelerin orman dışı niteliği belirtmesi halinde tescilin geçerli olacağı yönündeki Yargıtay içtihadı, ilk derece mahkemesince gerekçeye dayanak yapılmıştır."
+    }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "Ek 1 No'lu Protokol m.1",
+      "context": "Mülkiyet hakkının korunmasını düzenleyen hüküm uyarınca tazminatsız tapu iptalinin orantısız müdahale oluşturduğu ve ihlal edildiği sonucuna varılmıştır."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6/1",
+      "context": "Adil yargılanma kapsamındaki makul sürede yargılanma hakkı uyarınca sekiz yılı aşan yargılamanın ihlal teşkil ettiği tespit edilmiştir."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "34",
+      "context": "Bireysel başvuru hakkını düzenleyen hüküm, başvurunun AİHM önüne getirilmesinin usul dayanağı olarak anılmıştır."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "35/3",
+      "context": "Başvurunun dayanaktan yoksun olmadığı ve kabul edilebilirlik koşullarını taşıdığı değerlendirilirken esas alınmıştır."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "41",
+      "context": "Adil tazmin hükmü uyarınca tarafların uzlaşma ihtimali gözetilerek uygulamanın saklı tutulmasına karar verilmiştir."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "44/2",
+      "context": "Kararın kesinleşme koşullarını ve tarafların görüş bildirme süresini belirleyen hüküm olarak anılmıştır."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "169",
+      "context": "Hükümet, kamusal ormanlık alanların özel mülkiyete konu olamayacağı kuralına dayanarak başvurucuların 'mülk' iddiasına itiraz etmiştir."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "1007",
+      "context": "Hükümet, tapu sicilinin tutulmasından doğan Devletin sorumluluğuna dayalı tazminat yolunun tüketilmediğini ileri sürmüş; AİHM bu itirazı yerleşik içtihadına dayanarak reddetmiştir."
+    },
+    {
+      "law": "Orman Kanunu",
+      "law_number": "6831",
+      "article": null,
+      "context": "1983 ve 1987 tarihli değişiklikleri ile birlikte taşınmazların orman vasfında sayılması gerektiği değerlendirmesinin yasal dayanağı olarak ulusal mahkemece uygulanmıştır."
+    },
+    {
+      "law": "Orman Kanunu (mülga)",
+      "law_number": "3116",
+      "article": null,
+      "context": "1937 tarihli mülga Orman Kanununun, taşınmazın o dönem itibarıyla orman alanı kapsamında değerlendirilmesi yönündeki gerekçeye dayanak teşkil ettiği belirtilmiştir."
+    },
+    {
+      "law": "Orman Kanunu (mülga)",
+      "law_number": "5658",
+      "article": null,
+      "context": "1950 tarihli mülga düzenleme uyarınca taşınmazların imara açık alanlar kapsamına girmediği yönündeki ulusal mahkeme değerlendirmesinde anılmıştır."
+    }
+  ]
+}

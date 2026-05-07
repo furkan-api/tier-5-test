@@ -1,0 +1,145 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2025-06-03_2024-157_2025-121.md",
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/13008",
+      "decision_number": "2022/11572",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşe iade davasında asıl-alt işveren arasında zorunlu dava arkadaşlığı içtihadı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2022/5490",
+      "decision_number": "2022/6534",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşe iade davasında asıl-alt işveren arasında zorunlu dava arkadaşlığı içtihadı."
+    },
+    {
+      "court": "Yargıtay 9. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "2021/9540",
+      "decision_number": "2021/14240",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "İşe iade davasında asıl-alt işveren arasında zorunlu dava arkadaşlığı içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2017/178",
+      "decision_number": "2018/82",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hak arama özgürlüğü ve mahkemeye erişim hakkı içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2022/124",
+      "decision_number": "2023/135",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Temel hak sınırlamalarında meşru amaç ve ölçülülük ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/99",
+      "decision_number": "2021/14",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Temel hak sınırlamalarında meşru amaç ve ölçülülük ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/150",
+      "decision_number": "2017/179",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Temel hak sınırlamalarında meşru amaç ve ölçülülük ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2015/41",
+      "decision_number": "2017/98",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Hukuk devleti ilkesi ve hukuki belirlilik ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2014/176",
+      "decision_number": "2015/53",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/13",
+      "decision_number": "2016/127",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2018/71",
+      "decision_number": "2018/118",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2021/117",
+      "decision_number": "2022/10",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Ölçülülük ilkesinin gereklilik alt ilkesi içtihadı."
+    },
+    {
+      "court": "Anayasa Mahkemesi Genel Kurul",
+      "cited_court_type": "Anayasa Mahkemesi",
+      "case_number": "2016/14586",
+      "decision_number": null,
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Adil yargılanma hakkı ve devletin düzenleme yetkisi içtihadı."
+    },
+    {
+      "court": "Adana 6. İş Mahkemesi",
+      "cited_court_type": "İlk Derece Hukuk",
+      "case_number": null,
+      "decision_number": null,
+      "relation": "chained",
+      "outcome": null,
+      "treatment": null,
+      "context": "Norm denetimi başvurusunu yapan ilk derece mahkemesi."
+    }
+  ]
+}

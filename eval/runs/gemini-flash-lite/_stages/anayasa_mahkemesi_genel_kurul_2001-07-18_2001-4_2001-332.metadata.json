@@ -1,0 +1,89 @@
+{
+  "file": "anayasa_mahkemesi_genel_kurul_2001-07-18_2001-4_2001-332.md",
+  "court_type": "Anayasa Mahkemesi",
+  "court": "Anayasa Mahkemesi Genel Kurul",
+  "case_number": "2001/4",
+  "decision_number": "2001/332",
+  "decision_date": "2001-07-18",
+  "decision_type": "Norm Denetimi",
+  "is_final": true,
+  "finality_basis": "Anayasa m.153/son ve 6216 sayılı Kanun m.66/1 uyarınca AYM bireysel başvuru kararları kesindir.",
+  "decision_outcome": "Kısmen İptal",
+  "decision_outcome_raw": "Kanun'un başlığı ile 1. maddesinin ilk tümcesi ve 3. ve 4. bentlerinin Anayasa'ya aykırı olmadığına, 1. maddesinin 2. bendinin birinci paragrafı ile 4. ve 9. bentlerinin Anayasa'ya aykırı olduğuna ve iptaline, 5. bendinin ise bazı maddeleri yönünden Anayasa'ya aykırı olduğuna ve iptaline, diğer maddeleri yönünden ise aykırı olmadığına ve itirazın reddine oyçokluğuyla karar verilmiştir.",
+  "vote_unanimity": "oyçokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Bazı üyeler, iptal edilen maddelerin Anayasa'ya aykırı olmadığı veya iptal edilmemesi gerektiği yönünde gerekçelerle karşı oy kullanmışlardır.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "4616 sayılı Kanun'un Anayasa'ya Aykırılığı İddiası",
+  "keywords": [
+    "genel af",
+    "şartla salıverilme",
+    "dava erteleme",
+    "ceza erteleme",
+    "eşitlik ilkesi",
+    "hukuk devleti",
+    "kanunların geriye yürümezliği",
+    "anayasa'ya uygunluk denetimi",
+    "kanunların iptali"
+  ],
+  "legal_issues": [
+    "4616 sayılı Kanun'un başlığının ve uygulama tarihinin Anayasa'ya uygunluğu nedir?",
+    "Kanun'un 1. maddesinin 2. bendindeki 'şahsi hürriyeti bağlayıcı cezaya mahkûm edilenler ile aldıkları ceza herhangi bir nedenle şahsi hürriyeti bağlayıcı cezaya dönüştürülenlerin toplam hükümlülük süresinden on yıl indirilir' bölümünün Anayasa'ya uygunluğu nedir?",
+    "Kanun'un 1. maddesinin 4. bendinin Anayasa'ya uygunluğu nedir?",
+    "Kanun'un 1. maddesinin 5. bendinin çeşitli maddeler yönünden Anayasa'ya uygunluğu nedir?",
+    "Kanun'un 1. maddesinin 6., 7. ve 9. bentlerinin Anayasa'ya uygunluğu nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "genel af",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kararda, genel af kavramının hukuki niteliği, kapsamı ve Anayasa'nın 87. maddesi çerçevesinde TBMM'nin yetkisi açıklanmıştır."
+    },
+    {
+      "concept": "şartla salıverilme",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kararda, şartla salıverilmenin hukuki niteliği, unsurları ve infaz sistemindeki yeri açıklanarak 4616 sayılı Kanun'daki düzenlemeler bu çerçevede değerlendirilmiştir."
+    },
+    {
+      "concept": "erteleme (tecil)",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kararda, erteleme kurumunun hukuki niteliği, mevzuattaki yeri ve yasama yoluyla ertelemenin Anayasa'ya uygunluğu tartışılmıştır."
+    },
+    {
+      "concept": "hukuk devleti",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, 4616 sayılı Kanun'un çeşitli maddelerinin hukuk devleti ilkesi çerçevesinde Anayasa'ya uygunluğunun denetlenmesidir."
+    },
+    {
+      "concept": "eşitlik ilkesi",
+      "role": "tartışılan",
+      "context_in_reasoning": "Kararda, Kanun'un farklı suçlar veya hükümlüler arasında yarattığı iddia edilen farklılıkların eşitlik ilkesine aykırı olup olmadığı değerlendirilmiştir."
+    },
+    {
+      "concept": "kanunların geriye yürümezliği",
+      "role": "uygulanan",
+      "context_in_reasoning": "Kararda, yasaların geriye yürümemesi kuralı ve kamu yararı gibi zorunlu nedenlerle geriye yürüme durumunda hukuksal güvenlik ilkesinin ihlal edilip edilmediği tartışılmıştır."
+    },
+    {
+      "concept": "anayasa'ya uygunluk denetimi",
+      "role": "uygulanan",
+      "context_in_reasoning": "Karar, Anayasa Mahkemesi'nin norm denetimi yetkisi çerçevesinde, itiraz yoluyla önüne gelen yasa maddelerinin Anayasa'ya uygunluğunu incelemektedir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "21.12.2000 günlü, 4616 sayılı Kanun'un kimi kurallarının Anayasa'ya uygunluğu.",
+    "rule": "Anayasa'nın 2. (hukuk devleti), 10. (eşitlik), 38. (suç ve ceza) ve 138. (yargı bağımsızlığı) maddeleri ile Başlangıç ilkeleri ve AİHS'nin 6. maddesi çerçevesinde, kanunların Anayasa'ya uygunluğu denetlenir.",
+    "application": "Mahkeme, Kanun'un başlığını, 1. maddesinin çeşitli bentlerini ve alt bentlerini tek tek inceleyerek, bu hükümlerin hukuk devleti, eşitlik, kanunların geriye yürümezliği ve adil yargılanma gibi Anayasal ilkelere aykırı olup olmadığını değerlendirmiştir. Bazı maddeler hukuka uygun bulunurken, bazıları eşitlik ve hukuk devleti ilkelerine aykırı bulunarak iptal edilmiştir.",
+    "conclusion": "Kanun'un başlığı ile 1. maddesinin ilk tümcesi ve 3. ve 4. bentleri Anayasa'ya aykırı bulunmamış, ancak 1. maddesinin 2. bendinin birinci paragrafı, 4. ve 9. bentleri ile 5. bendinin bazı alt bentleri (TCK'nun 188, 191, 240, 298, 383. maddeleri ve 6. ve 7. bentleri) Anayasa'ya aykırı bulunarak iptal edilmiş, diğer maddeler yönünden ise itirazlar reddedilmiştir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "mahkeme",
+      "yasama organı"
+    ],
+    "context": "Yargılamakta oldukları davalarda, 4616 sayılı Kanun'un bazı maddelerinin Anayasa'ya aykırı olduğu kanaatine varan veya tarafların bu yöndeki iddialarını ciddi bulan çeşitli mahkemeler, ilgili maddelerin iptali istemiyle Anayasa Mahkemesi'ne başvurmuştur.",
+    "trigger": "4616 sayılı Kanun'un yürürlüğe girmesi ve mahkemelerin bu kanunun bazı hükümlerinin Anayasa'ya aykırı olduğu yönündeki kanaatleri.",
+    "claim": "4616 sayılı Kanun'un başlığı ile 1. maddesinin çeşitli bent ve alt bentlerinin Anayasa'nın ilgili maddelerine aykırı olduğu iddiasıyla iptali talebi."
+  }
+}

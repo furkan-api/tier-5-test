@@ -1,0 +1,154 @@
+{
+  "file": "yargitay_ibhgk_hukuk_1974_1_1974_2.md",
+  "court_type": "Yargıtay",
+  "court": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu",
+  "case_number": "1974/1",
+  "decision_number": "1974/2",
+  "decision_date": "1974-04-01",
+  "decision_type": "İçtihat Birleştirme",
+  "is_final": true,
+  "finality_basis": "Yargıtay İçtihatları Birleştirme Kararları kesin niteliktedir.",
+  "decision_outcome": "Diğer",
+  "decision_outcome_raw": "Bir kimsenin mirasçısını miras hakkından yoksun etmek amacıyla, gerçekte bağışlamak istediği tapu sicilinde kayıtlı taşınmaz malı hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklamış olması halinde, miras hakkı çiğnenen tüm mirasçıların muvazaa nedeniyle tapu iptal davası açabileceğine karar verilmiştir.",
+  "vote_unanimity": "oyçokluğu",
+  "has_dissent": true,
+  "dissent_summary": "Aykırı görüşler, mirasçıların muvazaa davası açma hakkının Borçlar Kanunu'nun genel hükümlerine değil, Medeni Kanun'un tenkis ve iadeye ilişkin özel hükümlerine tabi olması gerektiğini, miras bırakanın külli halefi olarak ancak oybirliğiyle dava açılabileceğini ve saklı payı aşmayan tasarruflarda muvazaa iddiasının ispatının zor olduğunu savunmuştur.",
+  "appellants": [],
+  "appeal_outcomes_by_role": [],
+  "subject": "Miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı satış işlemlerinde mirasçıların tapu iptal davası açma hakkı.",
+  "summary": "Bir mirasbırakanın, mirasçısını miras hakkından yoksun bırakmak amacıyla, tapuda kayıtlı taşınmazını görünüşte satıp gerçekte bağışlaması durumunda, mirasçıların Borçlar Kanunu'nun 18. maddesine dayanarak muvazaa nedeniyle tapu kaydının iptalini isteyip isteyemeyecekleri konusunda Yargıtay daireleri arasında içtihat farklılığı oluşmuştur. İçtihadı Birleştirme Büyük Genel Kurulu, miras hakkı çiğnenen tüm mirasçıların, saklı pay sahibi olup olmadıklarına bakılmaksızın, görünürdeki satış sözleşmesinin muvazaalı olduğunu ve gizli bağış sözleşmesinin de şekil şartından yoksun olması nedeniyle geçersiz olduğunu ileri sürerek dava açabileceklerine karar vermiştir. Bu dava hakkının, geçerli sözleşmeler için öngörülen Medeni Kanun'un 507. ve 603. maddelerinin sağladığı haklara etkili olmayacağı belirtilmiştir.",
+  "keywords": [
+    "muris muvazaası",
+    "tenkis",
+    "miras hakkından yoksun bırakma",
+    "tapu iptal davası",
+    "gizli bağış",
+    "şekil şartı",
+    "borçlar kanunu 18",
+    "medeni kanun 507",
+    "külli halef",
+    "üçüncü kişi",
+    "saklı pay",
+    "içtihat birleştirme"
+  ],
+  "legal_issues": [
+    "Mirasçısını miras hakkından yoksun etmek amacıyla, tapu sicilinde kayıtlı taşınmaz malını gerçekte bağışlamak istediği halde satış biçiminde gösteren miras bırakanın tasarrufunda, saklı pay sahibi mirasçılar tenkis veya iade yerine muvazaa nedeniyle tapu kaydının iptalini isteyebilir mi?",
+    "Saklı pay sahibi olmayan mirasçılar da aynı davayı açma yetkisine sahip midir?",
+    "Miras bırakanın bu davranışının, Medeni Kanunu'nun 603. maddesinin 2. fıkrası gereğince o taşınmazı iade etmekten ayrık tutmuş bulunduğu anlamına gelip gelmediği nedir?"
+  ],
+  "legal_concepts": [
+    {
+      "concept": "muris muvazaası",
+      "role": "ana_eksen",
+      "context_in_reasoning": "Kararın temel ekseni, miras bırakanın mirasçısını miras hakkından yoksun bırakmak amacıyla yaptığı muvazaalı işlemlerin hukuki niteliği ve sonuçlarıdır."
+    },
+    {
+      "concept": "tenkis davası",
+      "role": "ayırt_edilen",
+      "context_in_reasoning": "Tenkis davasının aslında geçerli tasarruflar için tanınmış bir hak olduğu, muvazaa nedeniyle geçersiz olan işlemler için ise Borçlar Kanunu'nun 18. maddesine dayalı iptal davasının açılması gerektiği belirtilmiştir."
+    },
+    {
+      "concept": "saklı pay",
+      "role": "tartışılan",
+      "context_in_reasoning": "Saklı pay sahibi olsun veya olmasın tüm mirasçıların muvazaa nedeniyle tapu iptal davası açma hakkına sahip olduğu vurgulanarak, saklı payın bu dava hakkını sınırlamadığı belirtilmiştir."
+    },
+    {
+      "concept": "şekil şartı",
+      "role": "uygulanan",
+      "context_in_reasoning": "Tapuda kayıtlı taşınmazın gizli bağış sözleşmesinin geçerli olabilmesi için şekil şartına uygun olması gerektiği, aksi halde geçersiz sayılacağı kabul edilmiştir."
+    },
+    {
+      "concept": "borçlar kanunu madde 18",
+      "role": "uygulanan",
+      "context_in_reasoning": "Mirasçıların, miras bırakanın muvazaalı satış sözleşmesinin geçersizliğini Borçlar Kanunu'nun 18. maddesine dayanarak ileri sürebileceği kabul edilmiştir."
+    },
+    {
+      "concept": "külli halef",
+      "role": "reddedilen",
+      "context_in_reasoning": "Mirasçıların muvazaa davasını külli halef olarak değil, hakları çiğnenen üçüncü kişi sıfatıyla açtığı görüşü benimsenmiştir."
+    },
+    {
+      "concept": "miras bırakanın son arzularına saygı ilkesi",
+      "role": "reddedilen",
+      "context_in_reasoning": "Bu ilkenin ancak hukuka uygun tasarruflar için geçerli olduğu, muvazaalı ve geçersiz işlemler için uygulanamayacağı belirtilmiştir."
+    }
+  ],
+  "dispositive_reasoning": {
+    "issue": "Miras bırakanın mirasçısını miras hakkından yoksun etmek amacıyla yaptığı muvazaalı satış işlemlerinde mirasçıların tapu iptal davası açma hakkı var mıdır ve bu hak tenkis hükümlerine tabi midir?",
+    "rule": "Borçlar Kanunu'nun 18. maddesi, miras hukuku sözleşmelerinde de uygulanır ve mirasçılar, miras bırakanın muvazaalı satış sözleşmesinin geçersizliğini bu maddeye dayanarak ileri sürebilirler. Gizli bağış sözleşmesinin geçerli olabilmesi için tapuda kayıtlı taşınmazlar için şekil şartına uygun olması zorunludur. Medeni Kanunu'nun 507. maddesindeki tenkis davası ise aslında geçerli işlemler için tanınmış bir haktır.",
+    "application": "Bir kimsenin mirasçısını miras hakkından yoksun etmek amacıyla, gerçekte bağışlamak istediği tapu sicilinde kayıtlı taşınmaz malı hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklamış olması halinde, görünürdeki satış sözleşmesi muvazaalı olduğundan geçersizdir. Gizli bağış sözleşmesi de şekil koşulundan yoksun olduğu için geçersizdir. Bu durumda miras hakkı çiğnenen tüm mirasçılar, saklı pay sahibi olsun ya da olmasın, Borçlar Kanunu'nun 18. maddesine dayanarak tapu iptal davası açabilirler. Bu dava hakkı, geçerli sözleşmeler için öngörülen Medeni Kanunu'nun 507. ve 603. maddelerinin sağladığı haklara etkili değildir.",
+    "conclusion": "Mirasçısını miras hakkından yoksun etmek amacıyla muvazaalı satış yapılan tapu kayıtlı taşınmazlar için, miras hakkı çiğnenen tüm mirasçılar Borçlar Kanunu'nun 18. maddesine dayanarak tapu iptal davası açabilirler ve bu hak tenkis hükümlerine tabi değildir."
+  },
+  "fact_pattern": {
+    "actor_roles": [
+      "miras bırakan",
+      "mirasçı",
+      "alıcı"
+    ],
+    "context": "Bir miras bırakanın, mirasçısını miras hakkından yoksun bırakma niyetiyle tapu sicilinde kayıtlı taşınmazını gerçekte bağışlamak istemesi.",
+    "trigger": "Miras bırakanın tapu sicil memuru önünde iradesini gerçekte bağış olduğu halde satış biçiminde açıklaması.",
+    "claim": "Mirasçıların, miras bırakanın bu muvazaalı işlemi nedeniyle tapu kaydının iptalini talep etmesi."
+  },
+  "cited_court_decisions": [
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1964/6411",
+      "decision_number": "1964/6298",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan 2. Hukuk Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay 2. Hukuk Dairesi",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1973/528",
+      "decision_number": "1973/5437",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan 2. Hukuk Dairesi kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1960/24",
+      "decision_number": "1960/24",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan HGK kararı."
+    },
+    {
+      "court": "Yargıtay Hukuk Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1968/1510",
+      "decision_number": "1968/99",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "İçtihat aykırılığına konu olan HGK kararı."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1953/8",
+      "decision_number": "1953/7",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Follows",
+      "context": "Gizli aktin biçim koşulu gerçekleşmediğinden geçersiz olduğu görüşünü benimseyen İBK."
+    },
+    {
+      "court": "Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu",
+      "cited_court_type": "Yargıtay",
+      "case_number": "1957/12",
+      "decision_number": "1957/2",
+      "relation": "referenced",
+      "outcome": null,
+      "treatment": "Neutral",
+      "context": "Şufa ile ilgili olup önceki İBK ilkesini bozmadığı belirtilen karar."
+    }
+  ]
+}
