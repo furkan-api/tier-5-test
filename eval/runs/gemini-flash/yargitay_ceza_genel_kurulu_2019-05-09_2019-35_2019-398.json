@@ -173,5 +173,253 @@
       "treatment": "Follows",
       "context": "Cinsiyete dayalı şiddeti ayrımcılık olarak belirten AİHM kararı."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/1-b",
+      "context": "Çocuğun basit cinsel istismarı suçu; 6545 sayılı Kanun ile değişik lehe hükümler."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/3",
+      "context": "Çocuğun basit cinsel istismarı suçu; cezai hükümler."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/6",
+      "context": "Çocuğun basit cinsel istismarı suçu; cezai hükümler."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "62",
+      "context": "Cezai hükümler; 6545 sayılı Kanun ile değişik lehe hükümler."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "53",
+      "context": "Hak yoksunlukları maddesinin AYM tarafından kısmi iptali; 6545 sayılı Kanun ile değişik lehe hükümler."
+    },
+    {
+      "law": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6545",
+      "article": "58",
+      "context": "Cinsel dokunulmazlığa karşı suçların yeniden düzenlenmesi."
+    },
+    {
+      "law": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6545",
+      "article": "59",
+      "context": "Cinsel dokunulmazlığa karşı suçların yeniden düzenlenmesi."
+    },
+    {
+      "law": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6545",
+      "article": "60",
+      "context": "Cinsel dokunulmazlığa karşı suçların yeniden düzenlenmesi."
+    },
+    {
+      "law": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6545",
+      "article": "61",
+      "context": "Cinsel dokunulmazlığa karşı suçların yeniden düzenlenmesi."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "102",
+      "context": "Cinsel dokunulmazlığa karşı suçların 6545 sayılı Kanun ile yeniden düzenlenmesi."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "104",
+      "context": "Cinsel dokunulmazlığa karşı suçların 6545 sayılı Kanun ile yeniden düzenlenmesi."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "105",
+      "context": "Cinsel dokunulmazlığa karşı suçların 6545 sayılı Kanun ile yeniden düzenlenmesi."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "7/2",
+      "context": "Lehe kanun uygulaması ilkesi; önceki ve sonraki kanunların karşılaştırılması."
+    },
+    {
+      "law": "Türk Ceza Kanunu",
+      "law_number": "5237",
+      "article": "103/3-e",
+      "context": "6545 sayılı Kanun ile değişik lehe hükümlerin uygulanması."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "308",
+      "context": "İtiraz kanun yolu incelemesi."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "20/2",
+      "context": "Bakanlığın davaya katılma zorunluluğu ve hakkı."
+    },
+    {
+      "law": "Yargıtay İç Yönetmeliği",
+      "law_number": null,
+      "article": "27",
+      "context": "Öncelikli olarak değerlendirilmesi gereken hususların belirlenmesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "10",
+      "context": "Kanun önünde eşitlik ilkesi; kadın-erkek eşitliği ve pozitif ayrımcılık."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "41",
+      "context": "Ailenin korunması ve çocuk hakları; çocukların istismara karşı korunması."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "90",
+      "context": "Uluslararası antlaşmaların kanun hükmünde olması ve önceliği."
+    },
+    {
+      "law": "Kadınlara Karşı Her Türlü Ayrımcılığın Önlenmesi Sözleşmesi",
+      "law_number": null,
+      "article": "1",
+      "context": "Cinsiyete dayalı şiddetin ayrımcılık olduğu ve Sözleşme kapsamında yasaklanması."
+    },
+    {
+      "law": "Kadınlara Karşı Şiddetin Önlenmesine Dair Bildirge",
+      "law_number": null,
+      "article": null,
+      "context": "Kadına yönelik şiddetin önlenmesi, failin cezalandırılması ve mağdurun korunması."
+    },
+    {
+      "law": "Ailenin Korunmasına Dair Kanun",
+      "law_number": "4320",
+      "article": null,
+      "context": "Kadına yönelik şiddetin önlenmesi amacıyla çıkarılan ilk kanun; 6284 sayılı Kanun öncesi."
+    },
+    {
+      "law": "Kadınların Şiddetten Korunmasına Dair Tavsiye Kararı (Avrupa Konseyi Bakanlar Komitesi)",
+      "law_number": null,
+      "article": null,
+      "context": "Üye devletlerin şiddete karşı ulusal politikalar ve cezai iyileştirmeler yapması."
+    },
+    {
+      "law": "Kadına Yönelik Şiddetin ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi",
+      "law_number": null,
+      "article": "3/a",
+      "context": "Cinsel eylemlerin kadına yönelik şiddet kapsamına dahil edilmesi."
+    },
+    {
+      "law": "Kadına Yönelik Şiddetin ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi",
+      "law_number": null,
+      "article": "5/2",
+      "context": "Taraf devletlere şiddet eylemlerini önleme, soruşturma, cezalandırma yükümlülüğü."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanunun Uygulama Yönetmeliği",
+      "law_number": null,
+      "article": "46",
+      "context": "Bakanlığın davaya müdahil olarak katılma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama hürriyeti ve adil yargılanma hakkı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "40",
+      "context": "Temel hak ve hürriyetlerin korunması; kanun yolları ve sürelerin belirtilmesi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "237",
+      "context": "Kamu davasına katılma hakkı ve şartları; mağdur ve suçtan zarar görenlerin katılımı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "238",
+      "context": "Kamu davasına katılma usulü ve şartları."
+    },
+    {
+      "law": "Kaçakçılıkla Mücadele Kanunu",
+      "law_number": "5607",
+      "article": "18",
+      "context": "Gümrük İdaresinin kamu davasına katılma hakkı."
+    },
+    {
+      "law": "Mal Bildiriminde Bulunulması Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "law_number": "3628",
+      "article": "18",
+      "context": "Maliye Bakanlığının kamu davasına katılma hakkı."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "162",
+      "context": "BDDK ve TMSF'nin kamu davasına katılma hakkı."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "7",
+      "context": "Şiddet veya şiddet tehlikesinin ihbar yükümlülüğü; Bakanlığın haberdar edilmesi."
+    },
+    {
+      "law": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
+      "law_number": "6284",
+      "article": "2",
+      "context": "Bakanlık ve şiddet tanımları."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "233/1",
+      "context": "Mağdur ve şikâyetçinin çağrı kağıdı ile çağrılıp dinlenmesi."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "234/1-b",
+      "context": "Mağdur ve şikâyetçinin kovuşturma evresindeki hakları."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "35",
+      "context": "Kararların açıklanması ve tebliği; kanun yoluna başvuru hakkı."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "260",
+      "context": "Kanun yollarına başvurma hakkı olanlar; katılan sıfatı; Bakanlığın kabulü ve tebliğ."
+    },
+    {
+      "law": "Ceza Muhakemesi Kanunu",
+      "law_number": "5271",
+      "article": "234/1",
+      "context": "Bakanlığın davadan haberdar edilmesi zorunluluğu."
+    }
   ]
 }

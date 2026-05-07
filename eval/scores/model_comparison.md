@@ -1,12 +1,11 @@
 # LLM Model Karşılaştırması
 
 > Gold standard: 29 karar  
-> ⚠️ gemini-flash-lite: summary 7/29 tamamlandı  
-> ⚠️ gemini-flash: cited_law_articles 4/29 tamamlandı (hâlâ çalışıyor)
+> ⚠️ gemini-flash-lite: summary 7/29 tamamlandı
 
 | Alan | Alt Alan | Gemini Flash Lite | Gemini Flash | Claude Haiku 4.5 |
 |---|---|:---:|:---:|:---:|
-| **GENEL** | **Ortalama Skor** | 51.53% | 56.19% | **57.74%** |
+| **GENEL** | **Ortalama Skor** | 51.53% | **59.81%** | 57.74% |
 | | | | | |
 | **METADATA** | `court_type` | 93.10% | **100.00%** | **100.00%** |
 | | `court` | 91.28% | 96.80% | **98.08%** |
@@ -64,12 +63,13 @@
 | | `treatment` | **77.36%** | 71.21% | 75.85% |
 | | `context` | **40.85%** | 40.19% | 41.57% |
 | | | | | |
-| **CITED LAW** | F1 | 55.73% | 10.44% ⚠️ | **64.41%** |
-| **ARTICLES** | Precision | **62.32%** | 9.28% ⚠️ | 61.94% |
-| | Recall | **52.32%** | 12.61% ⚠️ | **70.22%** |
-| | `law` | 82.77% | 16.82% ⚠️ | **90.75%** |
-| | `law_number` | 82.16% | 16.29% ⚠️ | **91.31%** |
-| | `article` | 79.24% | 13.95% ⚠️ | **87.61%** |
-| | `context` | 41.42% | 6.87% ⚠️ | **43.19%** |
+| **CITED LAW** | F1 | 55.73% | **64.72%** | 64.41% |
+| **ARTICLES** | Precision | **62.32%** | 58.69% | 61.94% |
+| | Recall | 52.32% | **75.65%** | 70.22% |
+| | Avg-pair | 69.86% | **80.10%** | 76.34% |
+| | `law` | 82.77% | **97.06%** | 90.75% |
+| | `law_number` | 82.16% | **97.97%** | 91.31% |
+| | `article` | 79.24% | **87.71%** | 87.61% |
+| | `context` | 41.42% | **46.59%** | 43.19% |
 | | | | | |
 | **MALİYET** | 29 döküman | ~$0.03 | ~$0.10 | ~$0.25 |

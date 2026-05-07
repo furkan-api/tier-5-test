@@ -1,0 +1,71 @@
+{
+  "file": "istanbul_2_asliye_ticaret_mahkemesi_2021-06-25_2020-507_2021-474.md",
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "235",
+      "context": "Sıra cetveline itiraz, kayıt kabul ve terkin talebi; hak düşürücü süre ve davanın hukuki dayanağı."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "107",
+      "context": "Bankanın faaliyet izninin kaldırılmasına ilişkin hüküm."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106",
+      "context": "Bankanın iflasına karar verilmesi; iflas davasının dayanağı."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123",
+      "context": "Kullandırılan kredilerin geri ödemelerine ilişkin işlemlerin harçtan muafiyeti."
+    },
+    {
+      "law": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun",
+      "law_number": "2247",
+      "article": null,
+      "context": "Uyuşmazlık Mahkemesi kararlarının bağlayıcılığı ve görev uyuşmazlığı çözümü."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "106/3",
+      "context": "Bankanın doğrudan iflasının mahkemeden talep edilmesi."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "123/3",
+      "context": "Bankanın yargı harçlarından muafiyeti ve kanun değişikliği sonrası durumu."
+    },
+    {
+      "law": "Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+      "law_number": "6322",
+      "article": "19",
+      "context": "492 sayılı Harçlar Kanunu 123/3 maddesinde yapılan değişiklik."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": null,
+      "context": "Dava konusu yargı harcı alacağının kamu alacağı niteliği."
+    },
+    {
+      "law": "Bankacılık Kanunu",
+      "law_number": "5411",
+      "article": "140",
+      "context": "Davalı iflas idaresinin harçtan muafiyeti."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "341",
+      "context": "İstinaf yoluna başvurma hakkı ve süresi."
+    }
+  ]
+}

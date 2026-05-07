@@ -404,5 +404,151 @@
       "treatment": "Follows",
       "context": "Bireysel başvuruya özgü yeniden yargılama kurumunun özelliklerini açıklayan AYM kararı."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun",
+      "law_number": "3624",
+      "article": null,
+      "context": "KOSGEB'in kuruluş kanunu."
+    },
+    {
+      "law": "666 sayılı Kanun Hükmünde Kararname",
+      "law_number": "666",
+      "article": null,
+      "context": "Ücret belirlemede net ücreti geçmeyecek üst sınır."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Teşvik ve Muafiyetleri Kanunu",
+      "law_number": "3624",
+      "article": "9",
+      "context": "İcra Komitesinin görevleri; mülga hüküm."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Teşvik ve Muafiyetleri Kanunu",
+      "law_number": "3624",
+      "article": "13",
+      "context": "Personel rejimi; idari hizmet sözleşmesi ile istihdam; mülga hüküm."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": null,
+      "context": "Disiplin hükümleri için atıf; KOSGEB personelinde uygulanmaz."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Teşvik ve Muafiyetleri Kanunu",
+      "law_number": "3624",
+      "article": "18",
+      "context": "KOSGEB'de 1050, 832, 2886, 657, 6245 sayılı kanunların uygulanmayacağı."
+    },
+    {
+      "law": "Muhasebe-i Umumiye Kanunu",
+      "law_number": "1050",
+      "article": null,
+      "context": "Başkanlıkça yapılması öngörülen iş ve işlemlerde uygulanmaz."
+    },
+    {
+      "law": "Sayıştay Kanunu",
+      "law_number": "832",
+      "article": null,
+      "context": "Başkanlıkça yapılması öngörülen iş ve işlemlerde uygulanmaz."
+    },
+    {
+      "law": "Devlet İhale Kanunu",
+      "law_number": "2886",
+      "article": null,
+      "context": "Alım-satım, kiralama vesair işlemlerde uygulanmaz."
+    },
+    {
+      "law": "Harcırah Kanunu",
+      "law_number": "6245",
+      "article": null,
+      "context": "Harcırah uygulamasında tabi değildir."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": "77",
+      "context": "3624 sayılı Kanun'un bazı maddelerini yürürlükten kaldıran hüküm."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": "Geçici 16",
+      "context": "KHK ile değişiklik yapılan kanunlara dayalı yönetmeliklerin geçerliliğini sürdürmesi."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": null,
+      "article": null,
+      "context": "Kamu kurum ve kuruluşlarında tabi olunan kanun."
+    },
+    {
+      "law": "631 sayılı Kanun Hükmünde Kararname",
+      "law_number": "631",
+      "article": null,
+      "context": "Ücret ödemelerine ilişkin düzenlemeler çerçevesi."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "49",
+      "context": "İdare ve vergi mahkemesi kararlarının temyizen bozulma sebepleri."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "50/4",
+      "context": "Danıştay bozma kararına uyulduğunda temyiz incelemesinin sınırı."
+    },
+    {
+      "law": "Devlet Memurları Kanunu",
+      "law_number": "657",
+      "article": "48/A/8",
+      "context": "Güvenlik soruşturması ve arşiv araştırması şartı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "35",
+      "context": "Mülkiyet hakkının güvencesi, kapsamı, sınırlanma koşulları ve ihlal tespiti."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": null,
+      "context": "Meşru beklentiye dayalı mülkiyet hakkının tespiti."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": null,
+      "context": "Meşru beklentiye dayalı mülkiyet hakkının tespiti."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve hürriyetlerin sınırlanması ilkeleri; ölçülülük ve kanunilik."
+    },
+    {
+      "law": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Teşvik ve Muafiyetleri Kanunu",
+      "law_number": "3624",
+      "article": "3",
+      "context": "Personel rejimine ilişkin düzenlemeler; idari hizmet sözleşmesi ile istihdam."
+    },
+    {
+      "law": "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+      "law_number": "703",
+      "article": null,
+      "context": "3624 sayılı Kanun'un 9 ve 13. maddelerini yürürlükten kaldırdı."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "50/2",
+      "context": "Bireysel başvuruya özgü yeniden yargılama kurumu."
+    }
   ]
 }

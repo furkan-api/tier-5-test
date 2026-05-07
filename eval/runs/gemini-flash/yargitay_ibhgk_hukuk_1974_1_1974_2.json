@@ -150,5 +150,109 @@
       "treatment": "Neutral",
       "context": "Şufa ile ilgili olup önceki İBK ilkesini bozmadığı belirtilen karar."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Borçlar Kanunu (mülga)",
+      "law_number": "818",
+      "article": "18",
+      "context": "Muvazaa nedeniyle tapu kaydının iptali davası; aktin yorumu ve miras hukukunda uygulanması."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "5",
+      "context": "Borçlar Kanunu genel kurallarının Medeni Hukuk sözleşmelerinde uygulanması."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "499",
+      "context": "Ölüme bağlı tasarruflarda son arzulara değer verilmemesi; muvazaalı işlemler."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "500",
+      "context": "Ölüme bağlı tasarruflarda miras bırakanın son arzularına değer verilmemesi."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "502",
+      "context": "Tenkis ve iade davalarının miras bırakanın ölümüyle doğması."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "507",
+      "context": "Borçlar Kanunu m.18 dava hakkının Medeni Kanun m.507 haklarına etkisi."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "507/4",
+      "context": "Saklı pay sahiplerinin tenkis davası hakkı; Borçlar Kanunu m.18 ile ilişkisi."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "508",
+      "context": "İyi niyetli teberru sahibinin korunması ve tenkise esas değer."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "581",
+      "context": "Muvazaa davası açmak için mirasçıların oybirliği şartı."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "603",
+      "context": "Geçerli tasarruflara karşı miras payını koruma; Borçlar Kanunu m.18 ile ilişkisi."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "603/2",
+      "context": "Taşınmazı iadeden ayrık tutma isteği veya anlamı."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "616",
+      "context": "Mirasçının tek başına muvazaa davası açma olanağı."
+    },
+    {
+      "law": "Türk Kanunu Medenisi (mülga)",
+      "law_number": "743",
+      "article": "690",
+      "context": "Muvazaa iddiası ileri sürebilecek istisnai haller."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "277",
+      "context": "Muvazaa iddiası ileri sürebilecek istisnai haller."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": null,
+      "article": "18",
+      "context": "Yargıtay Büyük Genel Kurulunun toplanması usulü."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": null,
+      "article": "19/7",
+      "context": "Yargıtay Büyük Genel Kurulunun toplanması usulü."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": null,
+      "article": "20/2",
+      "context": "İçtihadın birleştirilmesi yoluna gidilmesi gereği."
+    }
   ]
 }

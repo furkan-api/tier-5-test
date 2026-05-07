@@ -143,5 +143,55 @@
       "treatment": "Follows",
       "context": "Konut niteliği olmayan taşınmazın fiilen konut kullanımının KDV oranına etkisi."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Katma Değer Vergisi Kanunu",
+      "law_number": "3065",
+      "article": "29",
+      "context": "İndirimli oranda tabi teslimler nedeniyle yüklenilen verginin iade şartları."
+    },
+    {
+      "law": "Katma Değer Vergisi Kanunu",
+      "law_number": "3065",
+      "article": "28",
+      "context": "KDV oranı belirleme yetkisi; Cumhurbaşkanına (Bakanlar Kuruluna) verilen yetki."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6322",
+      "article": "22",
+      "context": "3065 sayılı KDV Kanunu'nun 28. maddesini değiştiren hüküm."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "369",
+      "context": "Yanlış izahat veya içtihat değişikliğinde vergi cezası ve gecikme faizi kesilmemesi."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6009",
+      "article": "14",
+      "context": "213 sayılı VUK'un 369. maddesini değiştiren hüküm."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "413",
+      "context": "Mükelleflerin özelge talebi ve Gelir İdaresi Başkanlığının cevabı; bilgilendirici nitelik."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6009",
+      "article": "15",
+      "context": "213 sayılı VUK'un 413. maddesini değiştiren hüküm."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "3",
+      "context": "Vergi kanunlarının lafzı ve ruhu ile hüküm ifade etmesi kuralı."
+    }
   ]
 }

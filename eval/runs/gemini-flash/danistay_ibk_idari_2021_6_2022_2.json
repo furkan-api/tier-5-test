@@ -260,5 +260,211 @@
       "treatment": "Neutral",
       "context": "İhtiyati haciz işlemi tesis edilebileceği yönündeki karar."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "1",
+      "context": "Kanunun kapsamı; Devlete, il özel idarelerine ve belediyelere ait alacaklar."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "9",
+      "context": "Teminat istenmesini gerektiren haller; vergi incelemesi safhasından cebren tahsil aşamasına kadar."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "9/1",
+      "context": "Vergi ziyaı/359. madde hallerinde ilk hesaplara göre tahsil dairelerince teminat istenir."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "10",
+      "context": "Teminat istenmesine ilişkin değerler; kamu alacağının korunmasına yönelik geçici tedbir."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "10/2",
+      "context": "Kamu alacağının korunmasına yönelik geçici tedbirlerin teyidi."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13",
+      "context": "İhtiyati haciz kararı alınmasını gerektiren nedenler ve uygulama şartları."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/1",
+      "context": "9. madde gereği teminat istenmesini gerektiren hallerin ihtiyati haciz nedeni olması."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/2",
+      "context": "Borçlunun belli ikametgahının olmaması ihtiyati haciz nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/3",
+      "context": "Borçlunun kaçması, mallarını kaçırması ihtimali ihtiyati haciz nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/4",
+      "context": "Teminat veya kefil gösterilmemesi ihtiyati haciz nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/5",
+      "context": "Mal bildiriminde bulunmama veya noksan bildirim ihtiyati haciz nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/6",
+      "context": "Para cezasını gerektiren fiil nedeniyle amme davası açılması ihtiyati haciz nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "13/7",
+      "context": "İptali istenen muamele ve tasarruflar nedeniyle ihtiyati haciz."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "17",
+      "context": "İhtiyati tahakkuk kararı alınmasını gerektiren haller; ihtiyati haciz öncesi zorunluluk."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "17/1",
+      "context": "İhtiyati haciz sebeplerinin ihtiyati tahakkuk nedeni olması."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "17/2",
+      "context": "Mükellef hakkında takibata girişilmesi ihtiyati tahakkuk nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "17/3",
+      "context": "Teşebbüsün muvazaalı olduğunun tespiti ihtiyati tahakkuk nedeni."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "18",
+      "context": "İhtiyati tahakkukun sonuçları ve uygulanması; ihtiyati tahakkuka bağlı ihtiyati haciz sebebi."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "27",
+      "context": "İptali istenen muamele ve tasarruflar nedeniyle ihtiyati haciz."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "29",
+      "context": "İptali istenen muamele ve tasarruflar nedeniyle ihtiyati haciz."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "30",
+      "context": "İptali istenen muamele ve tasarruflar nedeniyle ihtiyati haciz."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "36",
+      "context": "Amme alacaklarının korunmasına ilişkin düzenlemeler."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "54",
+      "context": "Kamu alacağının cebren tahsiline ilişkin hükümler."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "62",
+      "context": "Haciz işleminden önce ihtiyati haciz kararı alınabilir; ödeme emrinin kesinleştiği süre."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "110",
+      "context": "Mükellef hakkında takibata girişilmesi ihtiyati tahakkuk nedeni."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "20",
+      "context": "Verginin tarhının tanımı ve idari muamele niteliği."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "21",
+      "context": "Tebliğin tanımı ve vergilendirmeyi ilgilendiren hususların bildirilmesi."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "22",
+      "context": "Verginin tahakkukunun tanımı ve ödenmesi gereken safhaya gelmesi."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "139",
+      "context": "Vergi incelemelerinin iş yerinde yapılması ve inceleme elemanının yetkisi."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "341",
+      "context": "Vergi ziyaının tanımı; ödevlerin zamanında/eksik yerine getirilmemesi."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "344",
+      "context": "Vergi ziyaı cezası kesilmesini gerektiren haller; vergi ziyaına sebebiyet verilmesi."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "359",
+      "context": "Vergi ziyaına sebebiyet veren fiiller ve ceza oranı."
+    },
+    {
+      "law": "Danıştay Kanunu",
+      "law_number": "2575",
+      "article": "39",
+      "context": "İçtihatları Birleştirme Kurulu'nun görevleri ve içtihat birleştirme şartları."
+    },
+    {
+      "law": "Danıştay Kanunu",
+      "law_number": "2575",
+      "article": "40",
+      "context": "İçtihat birleştirme istemeye yetkili olanlar ve kararların bağlayıcılığı."
+    }
   ]
 }

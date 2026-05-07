@@ -97,5 +97,67 @@
       "treatment": null,
       "context": "Dairemizin önceki istinaf kararını bozan Danıştay kararı."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "93",
+      "context": "Tebliğ esasları, tebliğin muhatapları, posta ve ilan yoluyla tebliğ."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "109",
+      "context": "Tebliğ esasları, tebliğin muhatapları, posta ve ilan yoluyla tebliğ."
+    },
+    {
+      "law": "Vergi Usul Kanunu",
+      "law_number": "213",
+      "article": "107/A",
+      "context": "Elektronik ortamda tebliğ usulü, tebliğe elverişli adres ve tebliğ tarihi; tebligatın geçerliliği."
+    },
+    {
+      "law": "Vergi Usul Kanunu Genel Tebliği",
+      "law_number": null,
+      "article": "7",
+      "context": "Tüzel kişilerde ticaret sicil kaydının silinmesiyle elektronik tebligat adresinin kapatılması."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "55",
+      "context": "Amme alacağını vadesinde ödemeyenlere ödeme emri tebliği."
+    },
+    {
+      "law": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "law_number": "6183",
+      "article": "58",
+      "context": "Ödeme emrine karşı dava açma sebepleri ve süresi; ileri sürülebilecek iddiaların kapsamı."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu",
+      "law_number": "193",
+      "article": "Mükerrer 120/3",
+      "context": "Geçici verginin eksik beyanı, re'sen/ikmalen tarh, mahsup süresi sonrası terkin."
+    },
+    {
+      "law": "Gelir Vergisi Kanunu",
+      "law_number": "193",
+      "article": "Mükerrer 120/4",
+      "context": "Geçici verginin yıllık beyannameden mahsubu, mahsup edilemeyen tutarın terkin edilmesi."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": "13/j",
+      "context": "Davalı idarenin harçtan muafiyeti."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "46/b",
+      "context": "Karara karşı temyiz yolu süresi ve mercii."
+    }
   ]
 }

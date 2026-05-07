@@ -246,5 +246,175 @@
       "treatment": null,
       "context": "İptali istenen kuralı Anayasa Mahkemesi'ne taşıyan ilk derece mahkemesi."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "20",
+      "context": "İşe iade arabuluculuğu, hak düşürücü süre, davanın reddi ve yeniden başvuru."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/15",
+      "context": "Asıl-alt işveren işe iade arabuluculuğunda işverenlerin birlikte katılımı; iptal gerekçesi."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/6",
+      "context": "Asıl-alt işveren ilişkisi tanımı, yardımcı işler, sorumluluk."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/7",
+      "context": "Muvazaalı alt işveren ilişkisi ve işçi haklarının kısıtlanmaması."
+    },
+    {
+      "law": "İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Sözleşme",
+      "law_number": null,
+      "article": "6",
+      "context": "Adil yargılanma hakkı; hukuki dinlenilme hakkına aykırılık."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "27",
+      "context": "Hukuki dinlenilme hakkı; adil yargılanma hakkı ile bağlantısı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "36",
+      "context": "Hak arama özgürlüğü, adil yargılanma hakkı; 7036 S.K. m.3/15'in aykırılığı."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "152",
+      "context": "Anayasa Mahkemesi'ne somut norm denetimi başvurusu."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2/1",
+      "context": "İşçi, işveren ve iş ilişkisi tanımları."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "3/2",
+      "context": "Alt işverenin işyeri tescili için bildirim yükümlülüğü."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "20/1",
+      "context": "İşe iade talebiyle arabulucuya başvuru zorunluluğu ve süreler."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/1",
+      "context": "İşçi/işveren alacağı, tazminat ve işe iade davalarında arabuluculuk dava şartı."
+    },
+    {
+      "law": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "law_number": "6325",
+      "article": "2",
+      "context": "Arabuluculuk kurumunun tanımı."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/2",
+      "context": "Arabuluculuk son tutanağının dava dilekçesine eklenmesi zorunluluğu."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/7",
+      "context": "Arabuluculuk bürosuna iletişim bilgisi verme ve bilgi araştırma yetkisi."
+    },
+    {
+      "law": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun",
+      "law_number": "6216",
+      "article": "43",
+      "context": "Anayasa'nın 13. maddesi yönünden inceleme."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "13",
+      "context": "Temel hak ve özgürlüklerin sınırlanması; kanunilik, ölçülülük ilkesi; iptal gerekçesi."
+    },
+    {
+      "law": "Türkiye Cumhuriyeti Anayasası",
+      "law_number": "2709",
+      "article": "2",
+      "context": "Hukuk devleti ilkesi; hukuki belirlilik ve güvenliğin sağlanması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "124/1",
+      "context": "Tarafta iradi değişiklik; karşı tarafın açık rızası."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "124/3",
+      "context": "Maddi hata veya dürüstlük kuralına aykırı olmayan taraf değişikliği."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "124/4",
+      "context": "Dava dilekçesinde yanlış/eksik taraf gösterilmesi; taraf değişikliği."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3",
+      "context": "İş Kanunu m.20 uyarınca arabuluculuğa başvuru düzenlemeleri."
+    },
+    {
+      "law": "İş Mahkemeleri Kanunu",
+      "law_number": "7036",
+      "article": "3/16",
+      "context": "Arabuluculuk giderlerinin ödenmesi ve tahsili."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "167",
+      "context": "Müteselsil borçlulardan her birinin eşit paylarla sorumluluğu."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "165",
+      "context": "Müteselsil borçlulardan birinin diğerinin durumunu ağırlaştıramaması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "59",
+      "context": "Mecburi dava arkadaşlığı tanımı ve şartları."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "60",
+      "context": "Mecburi dava arkadaşlarının birlikte hareket etme zorunluluğu."
+    },
+    {
+      "law": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "law_number": "6325",
+      "article": "18",
+      "context": "Arabuluculuk anlaşma belgesinin ilam niteliği ve dava açma yasağı."
+    }
   ]
 }

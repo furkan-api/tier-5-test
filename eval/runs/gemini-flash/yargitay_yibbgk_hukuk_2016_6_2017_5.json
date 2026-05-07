@@ -258,5 +258,139 @@
       "treatment": "Neutral",
       "context": "İçtihadı birleştirme kararlarının niteliği hakkında."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "107",
+      "context": "Belirsiz alacak davası düzenlemesi ve uygulama alanı; gerekçesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "109",
+      "context": "Kısmi dava düzenlemesi; mülga 109/2 maddesi ve kaldırılması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "109/2",
+      "context": "Kısmi dava açılamayacak haller; 6644 sayılı Kanun ile mülga edilen hüküm."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119",
+      "context": "Dava dilekçesinde bulunması gereken zorunlu hususlar."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119/1-a",
+      "context": "Dava dilekçesi içeriği; mahkemenin adı."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119/1-d",
+      "context": "Dava dilekçesi içeriği; dava konusunun değeri."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119/1-e",
+      "context": "Dava dilekçesi içeriği; iddianın dayanağı vakıalar."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119/1-f",
+      "context": "Dava dilekçesi içeriği; vakıaların ispat delilleri."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119/1-g",
+      "context": "Dava dilekçesi içeriği; dayanılan hukuki sebepler."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "119/1-ğ",
+      "context": "Dava dilekçesi içeriği; açık talep sonucu."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "1/2",
+      "context": "Kanunun uygulama alanı; istisnalar dışında tüm işyerleri ve işçiler."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "2",
+      "context": "İşçi ve işveren tanımları; iş sözleşmesine dayalı çalışma."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "8/1",
+      "context": "İş sözleşmesinin tanımı; ücret, iş görme ve bağımlılık öğeleri."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "32",
+      "context": "Ücretin tanımı ve kıdem tazminatına esas ücretin belirlenmesi."
+    },
+    {
+      "law": "İş Kanunu",
+      "law_number": "4857",
+      "article": "59",
+      "context": "İş sözleşmesi sona erdiğinde kullandırılmayan yıllık izin ücreti."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": "2797",
+      "article": "16",
+      "context": "İçtihatları birleştirme kararlarının kaynağı ve kesinliği."
+    },
+    {
+      "law": "Yargıtay Kanunu",
+      "law_number": "2797",
+      "article": "45",
+      "context": "İçtihatları birleştirme kararlarının kaynağı ve bağlayıcılığı."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": null,
+      "context": "Sözleşme özgürlüğü ilkesi; emredici normlara aykırı olmama şartı."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "67",
+      "context": "Likit alacak kavramının tespiti; alacağın tutarı belli, bilinebilir, hesaplanabilir olması."
+    },
+    {
+      "law": "Hukuk Usulü Muhakemeleri Kanunu",
+      "law_number": "1086",
+      "article": null,
+      "context": "Belirsiz alacak davasının HUMK'da düzenlenmemiş olması."
+    },
+    {
+      "law": "Mahkemei Temyiz Kanunu",
+      "law_number": "834",
+      "article": null,
+      "context": "İçtihat birleştirme müessesesinin ilk defa kabulü."
+    },
+    {
+      "law": "İş Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6644",
+      "article": "4",
+      "context": "HMK 109/2 maddesini mülga eden kanun hükmü."
+    }
   ]
 }

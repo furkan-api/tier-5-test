@@ -175,5 +175,175 @@
       "treatment": "Follows",
       "context": "Zamanaşımına uğramış kambiyo senedine dayalı takibin görev durumu."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "256",
+      "context": "İtiraz ile çözümlenecek hususlardan olmadığı gerekçesiyle itirazın reddi."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "776",
+      "context": "Senedin zorunlu unsurları; kambiyo vasfını taşıması."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "265",
+      "context": "İhtiyati haciz kararına karşı yapılan itiraz sebepleri."
+    },
+    {
+      "law": "Türk Medeni Kanunu",
+      "law_number": "4721",
+      "article": "24/2",
+      "context": "Kişilik hakkı zedelenmesi; hukuka aykırılık."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "58/1",
+      "context": "Kişilik hakkının zedelenmesinden manevi tazminat istenebilir."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "214",
+      "context": "Sahtelik hakkında hukuk ve ceza mahkemesi kararlarının birbirine etkisi."
+    },
+    {
+      "law": "Avukatlık Kanunu",
+      "law_number": "1136",
+      "article": "164",
+      "context": "Avukatın vekalet ücretine hak kazanması."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "330",
+      "context": "Vekil ile takip edilen davalarda mahkemece takdir olunacak vekalet ücreti."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "4/1",
+      "context": "Mutlak ticari davaların sayılması; tarafların tacir olup olmadığına bakılmaksızın."
+    },
+    {
+      "law": "Kooperatifler Kanunu",
+      "law_number": "1163",
+      "article": "99",
+      "context": "Özel kanunlarda belirlenmiş ticari davalar."
+    },
+    {
+      "law": "İcra ve İflas Kanunu",
+      "law_number": "2004",
+      "article": "154",
+      "context": "Özel kanunlarda belirlenmiş ticari davalar."
+    },
+    {
+      "law": "Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu",
+      "law_number": "6361",
+      "article": "31",
+      "context": "Özel kanunlarda belirlenmiş ticari davalar."
+    },
+    {
+      "law": "Ticari İşletme Rehni Kanunu",
+      "law_number": "1447",
+      "article": "22",
+      "context": "Özel kanunlarda belirlenmiş ticari davalar."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "19/2",
+      "context": "Ticari iş karinesi; davanın niteliğini ticari hale getirmez."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "11",
+      "context": "Ticari işletme tanımı; gelir sağlamayı hedefleyen faaliyetler."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "15",
+      "context": "Esnaf tanımı; ekonomik faaliyetin bedeni çalışmaya dayanması."
+    },
+    {
+      "law": "Türk Ticaret Kanunu (mülga)",
+      "law_number": "6762",
+      "article": "1463",
+      "context": "Esnaf - tacir ayırımının nasıl yapılacağının belirlenmesi."
+    },
+    {
+      "law": "Türk Ticaret Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun",
+      "law_number": "6103",
+      "article": "10",
+      "context": "Ticari işletmeler hakkında Bakanlar Kurulu kararı çıkarılıncaya kadar yürürlükteki düzenlemelerin uygulanması."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "732",
+      "context": "Zamanaşımına uğramış kambiyo senedi; uygulama yeri bulmaması."
+    },
+    {
+      "law": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "law_number": "6335",
+      "article": "2",
+      "context": "TTK 5. maddesinin değiştirilmesi; iş bölümü ilişkisinin görev ilişkisine dönüşmesi."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "5/3",
+      "context": "Ticaret Mahkemeleri ile Asliye Hukuk Mahkemeleri arasındaki iş bölümü ilişkisi."
+    },
+    {
+      "law": "Türk Ticaret Kanunu",
+      "law_number": "6102",
+      "article": "5/4",
+      "context": "Ticaret Mahkemeleri ile Asliye Hukuk Mahkemeleri arasındaki iş bölümü ilişkisi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "114/1-c",
+      "context": "Görev hususunun dava şartı olması; davanın dava şartı yokluğu nedeniyle usulden reddi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "20",
+      "context": "Görevsizlik kararı sonrası dosyanın görevli mahkemeye gönderilmesi."
+    },
+    {
+      "law": "Hukuk Muhakemeleri Kanunu",
+      "law_number": "6100",
+      "article": "331/2",
+      "context": "Görevsizlik kararından sonra yargılama giderlerine hükmedilmesi."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "72",
+      "context": "Tazminat talebinin zamanaşımına uğraması."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "74",
+      "context": "Kusur bulunmaması; tazminat talebi."
+    },
+    {
+      "law": "Türk Borçlar Kanunu",
+      "law_number": "6098",
+      "article": "47",
+      "context": "Manevi zarar; hakkaniyete uygun para tutarı."
+    }
   ]
 }

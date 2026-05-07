@@ -92,5 +92,31 @@
       "treatment": "Neutral",
       "context": "Dava açılış tarihi itibarıyla kesinlik sınırı belirleyen AYM kararı."
     }
+  ],
+  "cited_law_articles": [
+    {
+      "law": "Belediye Gelirleri Kanunu",
+      "law_number": "2464",
+      "article": "52",
+      "context": "İşgal harcının ancak umuma ait yerin geçici işgalinde alınabileceği."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "45/3",
+      "context": "Bölge İdare Mahkemesi'nin ilk derece mahkemesi kararını hukuka uygun bulması halinde istinaf reddi."
+    },
+    {
+      "law": "Harçlar Kanunu",
+      "law_number": "492",
+      "article": null,
+      "context": "Maktu karar harcının istinaf başvurusunda bulunandan alınması."
+    },
+    {
+      "law": "İdari Yargılama Usulü Kanunu",
+      "law_number": "2577",
+      "article": "46/b",
+      "context": "Dava konusu tutara göre kararın kesinliği; Anayasa Mahkemesi kararı uyarınca."
+    }
   ]
 }
